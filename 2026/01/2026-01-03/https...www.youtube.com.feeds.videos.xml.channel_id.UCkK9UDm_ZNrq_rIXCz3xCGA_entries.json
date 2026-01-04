@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Lunduke Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-03T14:43:26.621980+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-03T14:14:01+00:00",
+        "description": "Smart Phones? Allowed. Other Single Board Computers? No problem.\nBut the Raspberry Pi (and Flipper Zero) are just too dangerous.\n\nMore from The Lunduke Journal:\nhttps://lunduke.com/",
+        "id": 4463893,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=RgdeBGszKD4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 616,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkK9UDm_ZNrq_rIXCz3xCGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/RgdeBGszKD4/hqdefault.jpg",
+        "title": "Raspberry Pi Banned from Zohran Mamdani Inauguration",
+        "vote": 0
+    }
+]

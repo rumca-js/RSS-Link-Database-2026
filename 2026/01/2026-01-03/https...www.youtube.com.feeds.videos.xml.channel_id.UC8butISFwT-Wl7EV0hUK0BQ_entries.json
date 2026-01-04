@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-03T14:10:36.460280+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-03T13:32:21+00:00",
+        "description": "It's important to take ownership of your work. Even if the work isn't your best - better that it's yours and not someone else's. Dr. David J. Malan discusses this with Quincy on the freeCodeCamp podcast.",
+        "id": 4463753,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/EQH9MBHGyag",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/EQH9MBHGyag/hqdefault.jpg",
+        "title": "Why it's important to take ownership of your work - the way Dr. David J Malan sees it",
+        "vote": 0
+    }
+]

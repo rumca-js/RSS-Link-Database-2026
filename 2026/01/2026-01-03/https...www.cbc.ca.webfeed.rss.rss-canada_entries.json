@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-03T18:19:30.227705+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-03T07:00:00+00:00",
+        "description": "<img src='https://i.cbc.ca/ais/1.6561141,1661372134000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C304%2C3264%2C1836%29%3BResize%3D%28620%29' alt='' width='620' height='349' title='In the 1990s, scientists published peer-reviewed science that demonstrated the link between polar bear health and climate change.           '/><p>Bear-dar is designed to survey the landscape and detect anything that moves. It can be used by communities as an early warning system, alerting them to a nearby polar bear. </p>",
+        "id": 4465129,
+        "language": "en",
+        "link": "https://www.cbc.ca/news/canada/north/eureka-weather-station-bear-dar-9.6989248?cmp=rss",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 49,
+        "source_url": "https://www.cbc.ca/webfeed/rss/rss-canada",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i.cbc.ca/ais/1.6561141,1661372134000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C304%2C3264%2C1836%29%3BResize%3D%28620%29",
+        "title": "Arctic communities testing new 'bear-dar' to detect wildlife threats",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-03T06:27:35.198962+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-03T06:27:34+00:00",
+        "description": "Canada is a quiet and idyllic part of the world, but that\u2019s all set to change in 2026 with the country set to be flipped on its head.",
+        "id": 4461887,
+        "language": "en-au",
+        "link": "https://www.news.com.au/travel/destinations/canada-set-to-be-completely-overrun-by-diehards-in-2026/news-story/5cbef06211de86103f8a02ee454cfadb?from=rss-basic",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 409,
+        "source_url": "https://www.news.com.au/content-feeds/latest-news-travel",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://content.api.news/v3/images/bin/6c872db3bebebb5fedd267f020d10d3f?width=320",
+        "title": "Quiet country set to be completely overrun",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-03T20:14:14.812212+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-03T13:00:00+00:00",
+        "description": "<p>Since 2009, this website has <a href=\"https://www.jeffgeerling.com/blog/2009/moved-drupal-hello-drupal\">run on Drupal</a>. Starting with Drupal 6, and progressing through major site upgrades and migrations to 7, 8, 9, and 10, I used the site as a way to dogfood the same CMS (Content Management System) I used in my day job for <em>over a decade</em>.</p>\n<figure class=\"insert-image\"><img src=\"https://www.jeffgeerling.com/blog/2026/migrated-to-hugo/jeffgeerling-old-drupal.png\"\n alt=\"JeffGeerling.com - Old Drupal site\" width=\"700\" height=\"auto\">\n</figure>\n\n<p>But as time progressed\u2014especially after completing a <a href=\"https://www.jeffgeerling.com/blog/2020/migrating-jeffgeerlingcom-drupal-8-live\">grueling upgrade from Drupal 7 to 8</a>\u2014my enthusiasm for maintaining what's now a more enterprise-focused <a href=\"https://www.acquia.com/blog/what-digital-experience-platform-dxp\">Digital Experience Platform</a> or 'DXP' for a personal blog has waned.</p>",
+        "id": 4465703,
+        "language": "en",
+        "link": "https://www.jeffgeerling.com/blog/2026/migrated-to-hugo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 162,
+        "source_url": "https://www.jeffgeerling.com/blog.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.jeffgeerling.com/blog/2026/migrated-to-hugo/jeffgeerling-old-drupal.png",
+        "title": "JeffGeerling.com has been Migrated to Hugo",
+        "vote": 0
+    }
+]

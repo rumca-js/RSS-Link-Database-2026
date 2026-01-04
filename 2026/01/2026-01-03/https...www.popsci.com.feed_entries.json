@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Hanna Pickard",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-03T18:29:13.886259+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-03T13:00:00+00:00",
+        "description": "<p>New book explores the philosophy of addiction.</p>\n<p>The post <a href=\"https://www.popsci.com/health/addiction-is-puzzling-scientists-are-trying-to-understand-why/\">Addiction is puzzling. Scientists are trying to understand why.</a> appeared first on <a href=\"https://www.popsci.com\">Popular Science</a>.</p>",
+        "id": 4465218,
+        "language": "en-US",
+        "link": "https://www.popsci.com/health/addiction-is-puzzling-scientists-are-trying-to-understand-why",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 260,
+        "source_url": "https://www.popsci.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.popsci.com/wp-content/uploads/2026/01/keith-richards.png?strip=all&quality=85",
+        "title": "Addiction is puzzling. Scientists are trying to understand why.",
+        "vote": 0
+    }
+]

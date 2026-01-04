@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-03T21:30:03.738145+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-03T21:28:11+00:00",
+        "description": "MYIR has announced the MYC-CZU3EG-V3, an updated SoM built around the AMD Zynq UltraScale+ ZU3EG MPSoC. The module integrates application-class Arm processing, real-time control cores, and FPGA fabric in a compact form factor targeting industrial automation, machine vision, edge computing, aerospace, and telecommunications systems. The MYC-CZU3EG-V3 combines a quad-core Arm Cortex-A53 application processor running at [&#8230;]",
+        "id": 4466078,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/myir-som-leverages-zynq-ultrascale-with-arm-and-fpga-integration",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "MYIR SoM Leverages Zynq UltraScale+ with Arm and FPGA Integration",
+        "vote": 0
+    }
+]
