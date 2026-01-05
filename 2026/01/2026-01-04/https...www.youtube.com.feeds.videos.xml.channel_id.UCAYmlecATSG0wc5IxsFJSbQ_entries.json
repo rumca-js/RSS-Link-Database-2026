@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Doug Sharpe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-04T17:12:08.896621+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-04T17:00:04+00:00",
+        "description": "In 2010, Microsoft spent a billion dollars developing a \u201csmartphone\u201d targeted at teens and young adults but sales were so bad that the phone was pulled from stores just 48 days after it was released.",
+        "id": 4471020,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/gE09V1HZSAk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 811,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCAYmlecATSG0wc5IxsFJSbQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/gE09V1HZSAk/hqdefault.jpg",
+        "title": "Microsoft Pulled This Phone 48 Days After It Was Released #funfact",
+        "vote": 0
+    }
+]

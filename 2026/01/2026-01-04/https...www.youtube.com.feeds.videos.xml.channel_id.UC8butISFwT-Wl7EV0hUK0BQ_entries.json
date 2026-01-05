@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-04T15:02:31.196777+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-04T13:55:51+00:00",
+        "description": "Ok, let's check out some coercion chaos! JavaScript math can get weird. What\u2019s this equal to?",
+        "id": 4470233,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/kFEBs8wuhiU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/kFEBs8wuhiU/hqdefault.jpg",
+        "title": "JavaScript coercion chaos at its finest",
+        "vote": 0
+    }
+]

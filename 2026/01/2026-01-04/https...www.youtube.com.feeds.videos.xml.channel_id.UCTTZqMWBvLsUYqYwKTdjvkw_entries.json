@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mateusz Chrobok",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-04T17:19:12.178065+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-04T17:01:36+00:00",
+        "description": "\ud83c\udf54\u00a0Rok - jak co roku - ko\u0144cz\u0119 w Hamburgu, na konferencji Chaos Computer Club. Ale tym razem zabieram Was na wycieczk\u0119 wraz ze mn\u0105!\n \n\u0179r\u00f3d\u0142a:\nNagrania z 39c3 sukcesywnie pojawiaj\u0105 si\u0119 tutaj:\nhttps://media.ccc.de/c/39c3\n\n1\ufe0f\u20e3\u00a0Dzie\u0144 pierwszy:\nA Tale of Two Leaks: How Hackers Breached the Great Firewall of China\nhttps://fahrplan.events.ccc.de/congress/2025/fahrplan/event/a-tale-of-two-leaks-how-hackers-breached-the-great\n\nWho cares about the Baltic Jammer? \u2013 Terrestrial Navigation in the Baltic Sea Region\nhttps://fahrplan.events.ccc.de/congress/2025/fahrplan/event/who-cares-about-the-baltic-jammer-terrestrial-navigation-in-the-baltic-sea-region\n\nAll my Deutschlandtickets gone: Fraud at an industrial scale\nhttps://fahrplan.events.ccc.de/congress/2025/fahrplan/event/all-my-deutschlandtickets-gone-fraud-at-an-industrial-scale\n\nPwn2Roll: Who Needs a 595\u20ac Remote When You Have wheelchair.py?\nhttps://fahrplan.events.ccc.de/congress/2025/fahrplan/event/pwn2roll-who-needs-a-599-remote-when-you-have-",
+        "id": 4471072,
+        "language": "pl-PL",
+        "link": "https://www.youtube.com/watch?v=xzlbOIweQOE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 211,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTTZqMWBvLsUYqYwKTdjvkw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/xzlbOIweQOE/hqdefault.jpg",
+        "title": "39th Chaos Computer Club 2025 - relacja",
+        "vote": 0
+    }
+]

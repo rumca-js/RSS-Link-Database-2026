@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "AI Search",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-04T04:59:50.646438+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-04T03:43:50+00:00",
+        "description": "HUGE AI NEWS: Qwen Image 2512, DeepSeek mHC, iQuest Coder, & more \n#ai #ainews #aitools #aivideo\n\nThanks to our sponsor MiniMax. Try their latest MiniMax M2.1 for free: https://platform.minimax.io/subscribe/coding-plan?code=7zRB1OE84q&source=link\nGet an additional 12% OFF with this link\n\nSources in order of mention:\nhttps://jamichss.github.io/stream-diffvsr-project-page/\nhttps://pku-yuangroup.github.io/UltraShape-1.0/\nhttps://stdstu12.github.io/YUME-Project/\nhttps://arxiv.org/pdf/2512.24880\nhttps://biangbiang0321.github.io/SpotEdit.github.io/\nhttps://github.com/Tencent-Hunyuan/HY-Motion-1.0\nhttps://huggingface.co/inclusionAI/TwinFlow-Z-Image-Turbo\nhttps://isee-laboratory.github.io/ProEdit/\nhttp://haonanqiu.com/projects/HiStream.html\nhttps://iquestlab.github.io/\nhttps://qwen.ai/blog?id=qwen-image-2512\nQwen Image 2512 for ComfyUI https://docs.comfy.org/tutorials/image/qwen/qwen-image-2512\nQwen Image 2512 GGUFs https://huggingface.co/unsloth/Qwen-Image-2512-GGUF\nhttps://javisverse.github",
+        "id": 4467826,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=7kPNA86G_GA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 806,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIgnGlGkVRhd4qNFcEwLL4A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/7kPNA86G_GA/hqdefault.jpg",
+        "title": "DeepSeek is back, realtime upscaler, realtime 3D worlds, top 3D generator, Qwen Image 2512: AI NEWS",
+        "vote": 0
+    }
+]

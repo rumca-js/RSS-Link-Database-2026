@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Lunduke Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-04T17:47:42.828040+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-04T17:19:05+00:00",
+        "description": "C, Rust, Javascript, Vala, Python, & more are ranked by how widely used they are throughout the GNOME software ecosystem on Linux.\n\nMore from The Lunduke Journal:\nhttps://lunduke.com/",
+        "id": 4471178,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=BHvdvz9LVzE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 616,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkK9UDm_ZNrq_rIXCz3xCGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/BHvdvz9LVzE/hqdefault.jpg",
+        "title": "Which Programming Languages are Most Used in GNOME?",
+        "vote": 0
+    }
+]

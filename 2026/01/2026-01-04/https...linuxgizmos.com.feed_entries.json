@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-04T05:05:03.515554+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-04T04:46:01+00:00",
+        "description": "M5Stack has expanded its lineup with the CoreS3 Thread BR, a compact Thread Border Router kit designed for Matter- and Thread-based IoT deployments. The platform combines the CoreS3 controller with a dedicated IEEE 802.15.4 radio module in a DIN-rail-mountable enclosure for smart home, building automation, and low-power sensor networks. The system uses an ESP32-S3 application [&#8230;]",
+        "id": 4467852,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/m5stack-cores3-thread-br-targets-matter-and-thread-iot-gateways",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "M5Stack CoreS3 Thread BR Targets Matter and Thread IoT Gateways",
+        "vote": 0
+    }
+]

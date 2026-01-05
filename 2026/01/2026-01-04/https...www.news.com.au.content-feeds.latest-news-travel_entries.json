@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-04T03:03:48.300077+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-04T03:03:47+00:00",
+        "description": "Back in the day, air travel was the height of class, elegance and sophistication. But now, you all look like slobs at 30,000 feet.",
+        "id": 4467494,
+        "language": "en-au",
+        "link": "https://www.news.com.au/travel/travel-updates/travel-stories/if-you-dress-like-this-on-a-plane-youre-the-problem/news-story/873122693da9844564b49aae36f72108?from=rss-basic",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 409,
+        "source_url": "https://www.news.com.au/content-feeds/latest-news-travel",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://content.api.news/v3/images/bin/be4d68cb18f2aaf69968090e0bfa58d7?width=320",
+        "title": "If you dress like this on a plane, you\u2019re part of the problem",
+        "vote": 0
+    }
+]
