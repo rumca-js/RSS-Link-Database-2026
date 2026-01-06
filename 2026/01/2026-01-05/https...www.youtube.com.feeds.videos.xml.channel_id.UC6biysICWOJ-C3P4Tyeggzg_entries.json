@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Low Level",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-05T21:44:35.378130+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-05T21:29:17+00:00",
+        "description": "Wanna learn to hack? Join my new CTF platform: https://stacksmash.io\n\n2026 is off to an incredible start...\n\nhttps://nvd.nist.gov/vuln/detail/CVE-2025-37164",
+        "id": 4481389,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=0Uu-FMs9qyg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 736,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6biysICWOJ-C3P4Tyeggzg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/0Uu-FMs9qyg/hqdefault.jpg",
+        "title": "this is already the worst bug of 2026",
+        "vote": 0
+    }
+]

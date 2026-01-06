@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Blog Staff",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-05T18:27:33.836409+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-05T17:26:51+00:00",
+        "description": "<p>\n\t<img alt=\"logo.png\" src=\"https://isocpp.org/files/img/logo.png\" style=\"width: 225px; margin: 10px; float: right;\" />Filtering items from a container is a common situation. Bart&#322;omiej Filipek demonstrates various approaches from different versions of C++.</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://accu.org/journals/overload/33/190/filipek/\">15 Different Ways to Filter Containers in Modern C++</a></h3>\n\t<p>\n\t\tby Bart&#322;omiej Filipek</p>\n</blockquote>\n<p>\n\tFrom the article:</p>\n<blockquote>\n\t<p>\n\t\tDo you know how many ways we can implement a filter function in C++? While the problem is relatively easy to understand &ndash; take a container, copy elements that match a predicate and the return a new container &ndash; it&rsquo;s good to exercise with the C++ Standard Library and check a few ideas. We can also apply some modern C++ techniques, including C++23. Let&rsquo;s start!</p>\n\t<p>\n\t\t<strong>The problem statement</strong></p>\n\t<p>\n\t\tTo be precise by a&nbsp;<em>filter</em>, ",
+        "id": 4479597,
+        "language": "en",
+        "link": "https://isocpp.org//blog/2026/01/15-different-ways-to-filter-containers-in-modern-cpp-bartomiej-filipek",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://isocpp.org/files/img/logo.png",
+        "title": "15 Different Ways to Filter Containers in Modern C++ -- Bart\u0142omiej Filipek",
+        "vote": 0
+    }
+]

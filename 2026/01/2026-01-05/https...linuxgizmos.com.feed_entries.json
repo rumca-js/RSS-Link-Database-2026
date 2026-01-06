@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-05T02:04:31.276402+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-05T01:53:26+00:00",
+        "description": "Forlinx&#8217;s FET1126Bx-S is described as a compact industrial system-on-module designed for low-power edge AI and embedded vision applications. The 40 mm &#215; 40 mm module targets systems such as intelligent video analysis, smart infrastructure, and industrial monitoring, where local inference and long-term availability are required. The FET1126Bx-S is based on the Rockchip RV1126 B or [&#8230;]",
+        "id": 4473698,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/forlinx-embedded-introduces-fet1126bx-s-industrial-som-for-edge-ai-and-vision",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Forlinx Embedded introduces FET1126Bx-S industrial SoM for edge AI and vision",
+        "vote": 0
+    }
+]

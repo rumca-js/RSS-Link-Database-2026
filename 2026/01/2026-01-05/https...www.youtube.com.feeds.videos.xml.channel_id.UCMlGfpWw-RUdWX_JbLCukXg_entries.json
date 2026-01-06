@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-05T16:16:53.986031+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-05T15:07:06+00:00",
+        "description": "https://cppcon.org\n---\n\nBack to Basics: C++ Ranges - Mike Shah - CppCon 2025\n---\n\nRanges have been available since C++20 to help enable writing and composing powerful algorithms. The use of ranges (along with the pipe syntax) can help you write more elegant and less error-prone code. But how and where to get started? Have no fear, in this talk I will provide a gentle introduction to getting you started with ranges. After attending this talk, you will be able to navigate ranges, know the difference between a range 'adaptor' and a range 'view', and be able to start using ranges in any C++20 compiler. \n\n---\n\nSlides: https://github.com/CppCon/CppCon2025/blob/main/Presentations/Back_To_Basics_Ranges.pdf\n\nWork at Hudson River Trading (HRT): https://tinyurl.com/safxfctf\n---\n\nMike Shah\n \nMike Shah is currently a teaching faculty at Yale University with primary teaching interests  in computer systems, computer graphics, and game engines. Mike's research interests are related to performance eng",
+        "id": 4478453,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Q434UHWRzI0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/Q434UHWRzI0/hqdefault.jpg",
+        "title": "Back to Basics: C++ Ranges - Mike Shah - CppCon 2025",
+        "vote": 0
+    }
+]

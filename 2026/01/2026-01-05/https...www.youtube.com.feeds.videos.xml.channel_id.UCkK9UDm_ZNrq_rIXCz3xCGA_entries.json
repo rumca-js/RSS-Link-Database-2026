@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Lunduke Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-05T21:04:20.628371+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-05T19:53:21+00:00",
+        "description": "Blocks the Wikipedia \"Donate!\" popups. Displays the true financials of Wikipedia.  Provides a \"See if this page is available on Grokipedia\" link.\n\nhttps://github.com/BryanLunduke/Wikipedia-Donation-Destroyer\n\nMore from The Lunduke Journal:\nhttps://lunduke.com/",
+        "id": 4480934,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=0d-EkmI51tQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 616,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkK9UDm_ZNrq_rIXCz3xCGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/0d-EkmI51tQ/hqdefault.jpg",
+        "title": "The Wikipedia Donation Destroyer Chrome Extension",
+        "vote": 0
+    }
+]

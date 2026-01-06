@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-05T13:30:14.112155+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-05T12:00:34+00:00",
+        "description": "Ready to become a certified watsonx Data Scientist - Associate? Register now and use code IBMTechYT20 for 20% off of your exam \u2192 https://ibm.biz/BdbTRQ\n\nLearn more about AI Frameworks here \u2192 https://ibm.biz/BdbhiJ\n\nWhat if AI had its own periodic table? \ud83e\udde9 Martin Keen introduces the AI Periodic Table, breaking down LLMs, RAG, AI agents, and frameworks into a clear, simple structure. Discover how these elements connect to power smarter, scalable AI systems, and rethink how AI fits together.\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/BdbhiA\n\n#ai #llm #retrievalaugmentedgeneration #aiagents #aiframeworks",
+        "id": 4476948,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=ESBMgZHzfG0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/ESBMgZHzfG0/hqdefault.jpg",
+        "title": "AI Periodic Table Explained: Mapping LLMs, RAG & AI Agent Frameworks",
+        "vote": 0
+    }
+]
