@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-06T16:40:17.086365+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-06T15:43:00+00:00",
+        "description": "NASA\u2019s SPHEREx Observatory has mapped the entire sky in 102 infrared colors, as seen here in this image released on Dec. 18, 2025. This image features a selection of colors emitted primarily by stars (blue, green, and white), hot hydrogen gas (blue), and cosmic dust (red).",
+        "id": 4488178,
+        "language": "en-us",
+        "link": "https://www.nasa.gov/image-detail/e1a-spherex-all-sky-stars-and-gas-dust-2",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 485,
+        "source_url": "https://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "First Sky Map from NASA\u2019s SPHEREx Observatory",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Scott Manley",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-06T19:38:44.894654+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-06T19:13:51+00:00",
+        "description": "The National Ignition Facility at Lawrence Livermore Laboratory is the worlds most powerful laser (also the world's second most powerful laser), it's used for research into fusion physics, able to create tiny nuclear explosions and observe the results in minute detail.\nThree years ago it achieved a landmark in inertial confinement fusion, whereby the energy output exceeded the input, and since then they've not just repeated the result but increased the output to more than 10 Megajoules. \n\nThanks to Patrick Poole for leading this tour and answering my many questions\nhttps://lasers.llnl.gov/\n\nThe paper I was given \n\"First demonstration of improved yield with reduced adiabat in inertial confinement fusion implosions on the National Ignition Facility\"\nhttps://pubs.aip.org/aip/pop/article/32/12/122701/3373618/First-demonstration-of-improved-yield-with-reduced\n\nFollow me on Twitter for more updates:\nhttps://twitter.com/DJSnM\n\nI have a discord server where I regularly turn up:\nhttps://discor",
+        "id": 4489766,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=eUhOOKuhpzA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 829,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxzC4EngIsMrPmbm6Nxvb-A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/eUhOOKuhpzA/hqdefault.jpg",
+        "title": "Worlds Largest Laser - The Original Star Factory",
+        "vote": 0
+    }
+]

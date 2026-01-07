@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-06T15:29:46.381909+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-06T15:07:07+00:00",
+        "description": "https://cppcon.org\n---\n\nRust Trait Runtime Polymorphism in C++ - Eduardo Madrid - CppCon 2025\n---\n\nWe built a library to support runtime polymorphism in the style of Rust Traits. C++ libraries ought to provide composable abstractions with zero-overhead, and this library may yield those benefits compared to idiomatic Rust runtime polymorphism (traits). Remarkably, the library also improves upon the very feature of C++ for runtime polymorphism, virtual dispatch. Thus, with this library we can enjoy the benefits of traits knowing we won't have to pay performance or object code size for the privilege. \n \n Still, why would we want to use this design option? \n \nThis presentation will illustrate by examples how Traits give us a way to avoid the hard problems of the normal design choice of inheriting from an object-oriented interface. Then, we will study how traits are supported, and how and why performance/object code size can be improved. You may anticipate that part of the reason is that t",
+        "id": 4487460,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=nSu37UczFXA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/nSu37UczFXA/hqdefault.jpg",
+        "title": "Rust Trait Runtime Polymorphism in C++ - Eduardo Madrid - CppCon 2025",
+        "vote": 0
+    }
+]

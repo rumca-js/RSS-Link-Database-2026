@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Alex Donaldson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-06T12:57:10.856376+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-06T12:48:34+00:00",
+        "description": "<img src=\"https://assetsio.gnwcdn.com/New-Project-(15)_lkEvjfO.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>The PC graphics market might be in peril in hardware terms, with prices spiraling and availability inconsistent, but on the software side things are at least reliably moving forward - with Nvidia today announcing the latest upgrade to its DLSS technology.</p> <p><a href=\"https://www.eurogamer.net/amidst-a-sea-of-genai-nvidias-dlss-45-update-means-gamers-are-at-least-getting-something-out-of-ces\">Read more</a></p>",
+        "id": 4486210,
+        "language": "en",
+        "link": "https://www.eurogamer.net/amidst-a-sea-of-genai-nvidias-dlss-45-update-means-gamers-are-at-least-getting-something-out-of-ces",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 610,
+        "source_url": "https://www.eurogamer.net/feed/features",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://assetsio.gnwcdn.com/New-Project-(15)_lkEvjfO.jpg?width=690&quality=85&format=jpg&auto=webp",
+        "title": "Amidst a sea of GenAI, Nvidia's DLSS 4.5 update means gamers are at least getting something out of CES",
+        "vote": 0
+    }
+]

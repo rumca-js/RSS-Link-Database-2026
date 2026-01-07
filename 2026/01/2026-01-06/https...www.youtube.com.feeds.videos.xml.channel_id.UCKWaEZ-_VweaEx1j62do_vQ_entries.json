@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-06T14:42:39.218439+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-06T12:01:29+00:00",
+        "description": "Ready to become a certified Deployment Professional - Maximo Manage? Register now and use code IBMTechYT20 for 20% off of your exam \u2192 https://ibm.biz/BdbT3f\n\nLearn more about AI Stack here \u2192 https://ibm.biz/BdbkL3\n\nIs your infrastructure ready for scalable AI? \ud83d\ude80 Joy Deng explores how the infrastructure layer powers the AI stack with accelerators, a data pipeline, and MLOps. Discover how to optimize training, fine-tuning, and inferencing while ensuring scalability, efficiency, and governance for AI workloads.\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/BdbkLQ\n\n#aistack #datapipelines #mlops #scalableai",
+        "id": 4487065,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=itBc7nwAK5o",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/itBc7nwAK5o/hqdefault.jpg",
+        "title": "Infrastructure Layer: Power the AI Stack with Data Pipelines & MLOps",
+        "vote": 0
+    }
+]
