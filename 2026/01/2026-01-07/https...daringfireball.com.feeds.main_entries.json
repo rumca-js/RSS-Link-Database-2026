@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Gruber",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-07T23:57:36.006392+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-07T23:41:39+00:00",
+        "description": "<p>This 2021 post from Jason Fried is a good chaser to his \u201c<a href=\"https://world.hey.com/jason/the-big-regression-da7fc60d\">The Big Regression</a>\u201d this week (which I <a href=\"https://daringfireball.net/linked/2026/01/06/the-big-regression\">linked to yesterday</a>):</p>\n\n<blockquote>\n  <p>Much of the tension in product development and interface design\ncomes from trying to balance the obvious, the easy, and the\npossible. Figuring out which things go in which bucket is critical\nto fully understanding how to make something useful.</p>\n\n<p>Shouldn\u2019t everything be obvious? Unless you\u2019re making a product\nthat just does one thing\u2009\u2014\u2009like a paperclip, for example\u2009\u2014\u2009everything won\u2019t be obvious. You have to make tough calls about\nwhat needs to be obvious, what should be easy, and what should be\npossible. The more things something (a product, a feature, a\nscreen, etc) does, the more calls you have to make.</p>\n\n<p>This isn\u2019t the same as prioritizing things. High, medium, low\npriority doesn\u2019t te",
+        "id": 4501711,
+        "language": "",
+        "link": "https://world.hey.com/jason/the-obvious-the-easy-and-the-possible-2e11a3fb",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 489,
+        "source_url": "https://daringfireball.com/feeds/main",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "The Obvious, the Easy, and the Possible",
+        "vote": 0
+    }
+]

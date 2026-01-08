@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Hammond",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-07T18:01:39.403641+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-07T15:47:29+00:00",
+        "description": "Just Hacking Training Livestream, Live Demo and AMA with Anton Ovrutsky for Constructing Defense 2026: now with a teaching assistant! https://justhacking.com/",
+        "id": 4498721,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=eWgh0Crurj8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 959,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVeW9qkBjo3zosnqUbG7CFw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/eWgh0Crurj8/hqdefault.jpg",
+        "title": "JHT Course Launch! Constructing Defense 2026 - AI Assisted",
+        "vote": 0
+    }
+]

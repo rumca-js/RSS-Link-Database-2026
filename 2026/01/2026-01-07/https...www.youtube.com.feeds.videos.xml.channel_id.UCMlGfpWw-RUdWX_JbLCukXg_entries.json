@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-07T15:33:59.652949+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-07T14:59:46+00:00",
+        "description": "https://cppcon.org\n---\n\nC++26 - What's In It For You? - Marc Gregoire - CppCon 2025\n---\n\nC++26, the next release of the C++ standard, is scheduled to be released in 2026. The update will introduce new features to the core language and to the Standard Library. As I have done for previous C++ Standard releases, this session explores almost all new and updated C++ features that are scheduled to arrive with this new C++26 standard. If you want to stay up to date with the latest features that are upcoming with this new release, then this session is for you. As always, the goal of this session is not to discuss all new and changed features in detail, as that is not possible in a one-hour session. Instead, at the end of the session, you should have a high-level overview of most new and changed features in C++26.\n\nThe session will touch on the following core language and Standard Library topics.\n\nC++26 core language changes include\n\n- Contracts\n- Placeholder variables with no name\n- #embed\n- ",
+        "id": 4497293,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=PcidhLUYp-4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/PcidhLUYp-4/hqdefault.jpg",
+        "title": "C++26 - What's In It For You? - Marc Gregoire - CppCon 2025",
+        "vote": 0
+    }
+]

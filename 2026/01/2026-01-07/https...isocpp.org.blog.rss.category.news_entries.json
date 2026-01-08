@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Blog Staff",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-07T18:34:23.684472+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-07T17:29:04+00:00",
+        "description": "<p>\n\t<img alt=\"2025-12-19_10-30-29.png\" src=\"https://isocpp.org/files/img/2025-12-19_10-30-29.png\" style=\"width: 241px; margin: 10px; float: right;\" />C++20 introduced coroutines. Quasar Chunawala, our guest editor for this edition, gives an overview.</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://accu.org/journals/overload/33/190/chunawala-buontempo/\">A Guest Editorial</a></h3>\n\t<p>\n\t\tby Quasar Chunawala, Frances Buontempo</p>\n</blockquote>\n<p>\n\tFrom the article:</p>\n<blockquote>\n\t<p>\n\t\tYou&rsquo;ve likely heard about this new C++20 feature,&nbsp;coroutines. I think that this is a really important subject and there are several cool use-cases for coroutines. A&nbsp;coroutine&nbsp;in the simplest terms is just a function that you can pause in the middle. At a later point the caller will decide to resume the execution of the function right where you left off. Unlike a function therefore, coroutines are always stateful - you at least need to remember where you left off in the function body.</",
+        "id": 4498956,
+        "language": "en",
+        "link": "https://isocpp.org//blog/2026/01/a-guest-editorial-quasar-chunawala-frances-buontempo",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://isocpp.org/files/img/2025-12-19_10-30-29.png",
+        "title": "A Guest Editorial -- Quasar Chunawala, Frances Buontempo",
+        "vote": 0
+    }
+]

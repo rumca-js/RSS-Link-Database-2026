@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-07T12:41:21.373801+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-07T12:05:08+00:00",
+        "description": "Explore the podcast \u2192 https://ibm.biz/Bdb6NZ\nLearn more about cybersecurity \u2192 https://ibm.biz/Bdb6NY\n\nMicrosoft is trying to clear some of the smog obscuring the software supply chain by expanding its bug bounty program to include some third-party code that affects it services. In this episode of Security Intelligence, panelists Jeff Crume, Nick Bradley and Claire Nu\u00f1ez discuss what that move means for cybersecurity responsibility models going forward.  \n\nWe also analyze how a three-year-old LastPass breach is still giving cybercriminals new credentials to steal. Turns out \u201charvest now, decrypt later\u201d isn\u2019t just a quantum concern. \n\nPlus: OpenAI fights prompt injections with an automated, AI-powered red team, hackers have a new tool to make ClickFix attacks even easier and we share the New Year\u2019s Resolutions we hope organizations will make in 2026. \n\nAll that and more on Security Intelligence. \n\n00:00 -- Introduction \n1:11 -- Cybersecurity resolutions \n6:51 -- Microsoft\u2019s new bug boun",
+        "id": 4495773,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=50e3h0Q7RTE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/50e3h0Q7RTE/hqdefault.jpg",
+        "title": "A new take on bug bounties, AI red teams and our New Year\u2019s resolutions",
+        "vote": 0
+    }
+]

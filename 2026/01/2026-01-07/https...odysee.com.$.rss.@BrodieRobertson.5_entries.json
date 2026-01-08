@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-07T18:06:07.074618+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-07T16:30:08+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/JYICMf_VLtY\" width=\"480\" alt=\"thumbnail\" title=\"GNOME Disables Middle Click Paste, Chaos Ensues\" /></p>In a recent merge request GNOME decided to disable middle click to paste and locked the MR before anyone realized it was happening, and also tried to make similar changes over on Firefox, well there's a lot to unpack here so lets take a look.<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />GNOME Merge Request: https://gitlab.gnome.org/GNOME/gsettings-desktop-schemas/-/merge_requests/119<br />GNOME Change: https://github.com/swaywm/sway/issues/1012#issuecomment-269129298<br />Newer Protocol: https://gitlab.freedesktop.org/wayland/wayland-protocols/-/blob/main/unstable/primary-selection",
+        "id": 4498778,
+        "language": "en",
+        "link": "https://odysee.com/gnome-disables-middle-click-paste%2C-chaos:b084fe51b2cca5dd67341e104278669fa54e2add",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/JYICMf_VLtY",
+        "title": "GNOME Disables Middle Click Paste, Chaos Ensues",
+        "vote": 0
+    }
+]

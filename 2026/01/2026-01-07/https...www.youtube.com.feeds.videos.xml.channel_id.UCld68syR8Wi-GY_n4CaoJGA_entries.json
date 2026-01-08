@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-07T17:13:08.390474+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-07T16:30:08+00:00",
+        "description": "In a recent merge request GNOME decided to disable middle click to paste and locked the MR before anyone realized it was happening, and also tried to make similar changes over on Firefox, well there's a lot to unpack here so lets take a look.\n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\nGNOME Merge Request: https://gitlab.gnome.org/GNOME/gsettings-desktop-schemas/-/merge_requests/119\nGNOME Change: https://github.com/swaywm/sway/issues/1012#issuecomment-269129298\nNewer Protocol: https://gitlab.freedesktop.org/wayland/wayland-protocols/-/blob/main/unstable/primary-selection/primary-selection-unstable-v1.xml\nFirefox Change: https://phabricator.services.mozilla.com/D277804\nNew Issue: https://gitlab.gnome.org/GNOME/mutter/-/issues/4539\nKDE Change: https://bugs.kde.org/sho",
+        "id": 4498255,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=JYICMf_VLtY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/JYICMf_VLtY/hqdefault.jpg",
+        "title": "GNOME Disables Middle Click Paste, Chaos Ensues",
+        "vote": 0
+    }
+]

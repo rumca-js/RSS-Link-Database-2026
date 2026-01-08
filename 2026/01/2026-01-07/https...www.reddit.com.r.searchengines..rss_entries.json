@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/Agitated_Mirror5373",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-07T13:12:32.127927+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-07T13:03:37+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>I\u2019ve been reading more about alternative search engine architectures and came across tools that don\u2019t seem to rely on a single centralized index in the same way Google or Bing do.</p> <p>Instead, some search tools appear to route queries to different external sources based on topic, then aggregate or surface the results rather than crawling and ranking everything themselves. One example I\u2019ve seen mentioned is Lookr, which seems to take more of a topic-based routing approach.</p> <p>From a search-engine perspective, I\u2019m curious:</p> <ul> <li>How common is this routed or meta-search style architecture today?</li> <li>What are the main advantages and limitations compared to maintaining a full index?</li> <li>Are there specific use cases where this approach makes more sense than traditional indexing?</li> </ul> <p>Interested in hearing how people here think about these different models.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://ww",
+        "id": 4495958,
+        "language": "en",
+        "link": "https://www.reddit.com/r/searchengines/comments/1q6et4i/how_do_topicbased_or_routed_search_engines_differ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 1,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 463,
+        "source_url": "https://www.reddit.com/r/searchengines/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "How do topic-based or routed search engines differ from traditional indexed search engines?",
+        "vote": 0
+    }
+]

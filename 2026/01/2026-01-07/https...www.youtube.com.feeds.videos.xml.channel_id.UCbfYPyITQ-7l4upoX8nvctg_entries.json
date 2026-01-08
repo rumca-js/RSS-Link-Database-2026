@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Two Minute Papers",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-07T18:30:03.742962+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-07T17:01:59+00:00",
+        "description": "\u2764\ufe0f Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n\ud83d\udcdd The paper is available here:\nhttps://graphics.cs.utah.edu/research/projects/stable-cosserat-rods/\n\nOur Patreon if you wish to support us: https://www.patreon.com/TwoMinutePapers\nNote that just watching the series and leaving a kind comment every now and then is as much support as any of us could ever ask for!\n\nSources:\nhttps://www.youtube.com/watch?v=kO3NsSX1VTg\nhttps://www.youtube.com/watch?v=IQZ_zBX6gQY\n\n\ud83d\ude4f We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan Stankye, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi\n\nMy research: https://cg.tuwien.ac.at/~zsolnai/\nThumbnail design: Fel\u00edcia Zsolnai-Feh\u00e9r - http://felicia.hu",
+        "id": 4498918,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=2c8o65JiPQY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 945,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbfYPyITQ-7l4upoX8nvctg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/2c8o65JiPQY/hqdefault.jpg",
+        "title": "The Crazy Trick Behind Unbreakable Game Physics",
+        "vote": 0
+    }
+]
