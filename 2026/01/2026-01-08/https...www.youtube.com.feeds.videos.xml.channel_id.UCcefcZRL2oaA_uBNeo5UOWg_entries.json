@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-08T16:15:54.007367+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-08T15:00:11+00:00",
+        "description": "Stoke Space is racing to build the world's first fully reusable rockets that can launch, survive reentry, and fly again and again. In this episode of Hard Tech, YC\u2019s Aaron Epstein sits down with Stoke Space co-founders Andy Lapsa and Tom Feldman to find out why they chose to take on one of the hardest problems in rocket science, how an obsession with efficiency gives them an edge, and what full reusability could unlock for the future of spaceflight.\n\nApply to Y Combinator: https://www.ycombinator.com/apply\nWork at a startup: https://www.ycombinator.com/jobs\n\nChapters: \n00:00 \u2014 Intro\n01:16 \u2014 Stoke Space\u2019s mission: Rapid reusability\n02:18 \u2014 Why Second Stage capsules fail reentry\n03:34 \u2014 Stoke Space\u2019s stage 2 solution\n05:30 \u2014 Reusability-First Design Philosophy\n07:25 \u2014 Early Engine Development & Test Strategy\n10:48 \u2014 Vertical Integration & Manufacturing\n11:21 \u2014 Iteration Speed as a Competitive Advantage\n12:29 \u2014 Software as Core Infrastructure\n14:00 \u2014 Path to Orbit & Launch Operations\n15:",
+        "id": 4507398,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=2hgjgycOU_0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/2hgjgycOU_0/hqdefault.jpg",
+        "title": "Inside The Startup Building Reusable Rockets",
+        "vote": 0
+    }
+]

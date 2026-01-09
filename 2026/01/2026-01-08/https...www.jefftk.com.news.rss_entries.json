@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-08T02:53:35.609233+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-08T02:53:34+00:00",
+        "description": "<p><span>\n\nI hear people talking about \"skyrocketing\" rents, with the idea that\nrent is going up quickly.  This isn't my impression of what's\nhappening, and when I look at the data it's not what I see either.\nInstead, rents are too high, and they were rising quickly pre-covid,\nbut recently they've been stable in real terms.\n\n</span>\n\n<p>\n\nHere's the data I know best, the price of a 2br that I calculate on my\n<a href=\"https://www.jefftk.com/apartment_prices/\">Boston Rent Map</a>:\n\n</p>\n\n<p>\n\n<a highlight href=\"https://www.jefftk.com/inflation-adjusted-boston-rents-over-time-big.png\"><img src=\"https://www.jefftk.com/inflation-adjusted-boston-rents-over-time.png\" width=\"550\" height=\"391\" class=\"mobile-fullwidth\" style=\"max-width:100.0vw; max-height:71.1vw;\" srcset=\"https://www.jefftk.com/inflation-adjusted-boston-rents-over-time.png 550w,https://www.jefftk.com/inflation-adjusted-boston-rents-over-time-2x.png 1100w\"><div style=\"height:min(71.1vw, 391px)\" class=\"image-vertical-spacer\"></di",
+        "id": 4502631,
+        "language": "en-US",
+        "link": "https://www.jefftk.com/p/rents-are-high-but-not-skyrocketing",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 163,
+        "source_url": "https://www.jefftk.com/news.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.jefftk.com/inflation-adjusted-boston-rents-over-time.png",
+        "title": "Rents Are High, But Not Skyrocketing",
+        "vote": 0
+    }
+]

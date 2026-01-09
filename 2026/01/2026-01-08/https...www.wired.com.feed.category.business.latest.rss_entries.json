@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Maxwell Zeff",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-08T19:05:39.966336+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-08T19:00:00+00:00",
+        "description": "Tech companies are calling AI the next platform. But some developers are reluctant to let AI agents stand between them and their users.",
+        "id": 4508998,
+        "language": "en-US",
+        "link": "https://www.wired.com/story/openai-amazon-operating-system-ai-apps-ads",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 396,
+        "source_url": "https://www.wired.com/feed/category/business/latest/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media.wired.com/photos/695de0447ff06f235feecd54/master/pass/Model-Behavior-OpenAI-Meta-Amazon-Racing-to-Build-AI-Powered-Operating-Systems-Business.jpg",
+        "title": "AI Devices Are Coming. Will Your Favorite Apps Be Along for the Ride?",
+        "vote": 0
+    }
+]

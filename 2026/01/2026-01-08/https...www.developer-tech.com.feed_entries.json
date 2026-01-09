@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ryan Daws",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-08T18:10:45.374334+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-08T17:09:11+00:00",
+        "description": "<p>Google has cut Android Open Source Project (AOSP) code dumps to two a year to align release cadences with its trunk stable development model. However, this has sparked debate over the platform&#8217;s future. For software engineers and platform maintainers working within the Android ecosystem, the release rhythm of the upstream codebase is a fundamental dependency. [&#8230;]</p>\n<p>The post <a href=\"https://www.developer-tech.com/news/google-halves-android-open-source-project-code-dumps/\">Google halves Android Open Source Project code dumps</a> appeared first on <a href=\"https://www.developer-tech.com\">Developer Tech News</a>.</p>",
+        "id": 4508489,
+        "language": "en-GB",
+        "link": "https://www.developer-tech.com/news/google-halves-android-open-source-project-code-dumps",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 92,
+        "source_url": "https://www.developer-tech.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Google halves Android Open Source Project code dumps",
+        "vote": 0
+    }
+]

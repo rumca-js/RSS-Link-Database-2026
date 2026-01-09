@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "OpenAI",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-08T19:57:30.492707+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-08T17:15:32+00:00",
+        "description": "Liz used ChatGPT throughout her teenage son\u2019s cancer treatment to translate reports, prepare questions, and have more informed conversations with doctors.",
+        "id": 4509521,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=uZ_BMwB647A",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 935,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXZCJLdBC09xxGZ6gcdrc6A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/uZ_BMwB647A/hqdefault.jpg",
+        "title": "Preparing for Appointments | with ChatGPT",
+        "vote": 0
+    }
+]

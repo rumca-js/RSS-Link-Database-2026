@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-08T15:58:57.186529+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-08T15:07:04+00:00",
+        "description": "https://cppcon.org\n---\n\nMaking C++ Safe, Healthy, and Efficient - John Lakos - CppCon 2025\n---\n\nThe world runs on C++. For more than two decades, C++ has served as the workhorse of high-performance, low-power, and low-latency software across industries. Its raw speed and unconstrained flexibility have made C++ the go-to language for and backbone of large-scale software development. Recently, however, software engineering priorities have shifted significantly toward safety. While C++ enables the creation of secure and correct programs, its traditional focus has favored performance over safety guarantees. As the software landscape evolves, C++ faces a crucial inflection point. To maintain its unparalleled stature, C++ must embrace various safety mechanisms along with safety-by-default principles to support a broader developer ecosystem while preserving the performance capabilities that experts will continue to demand. This talk will examine C++'s evolution toward safety-first developmen",
+        "id": 4507182,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=p52mNWsh-qs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/p52mNWsh-qs/hqdefault.jpg",
+        "title": "Making C++ Safe, Healthy, and Efficient - John Lakos - CppCon 2025",
+        "vote": 0
+    }
+]

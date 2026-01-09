@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "AI Search",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-08T03:41:24.690687+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-08T03:14:39+00:00",
+        "description": "LTX-2 full installation tutorial. How to use LTX-2 in ComfyUI with low vram. Best open source video generator. #ai #aitools #aivideo #veo #sora\n\nLTX-2 official repo: https://github.com/Lightricks/LTX-2\nComfyUI LTX-2 - download nodes here: https://github.com/Lightricks/ComfyUI-LTXVideo/\nDownload LTX-2 models here: https://huggingface.co/Lightricks/LTX-2/tree/main\nUse this Gemma version instead - it\u2019s WAY smaller https://huggingface.co/unsloth/gemma-3-12b-it-bnb-4bit/tree/main\nLTX-2 loras: https://huggingface.co/collections/Lightricks/ltx-2\n\nIf you don\u2019t have ComfyUI, see this tutorial first https://youtu.be/g74Cq9Ip2ik\n\n0:00 LTX-2 intro\n0:44 LTX-2 open source specs\n3:14 How to install LTX-2 in ComfyUI\n6:44 Full vs distilled workflows\n8:06 Distilled lora \n9:15 Downloading models\n13:31 Text to video workflow\n15:15 How to use on low or no VRAM\n18:45 How to use loras\n21:05 Image to video\n25:41 How to use controlnet\n34:55 V2V detailer\n\n\nNewsletter: https://aisearch.substack.com/\nFind AI too",
+        "id": 4502823,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=I_b2QN-B1W0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 806,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIgnGlGkVRhd4qNFcEwLL4A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/I_b2QN-B1W0/hqdefault.jpg",
+        "title": "New #1 open-source AI video generator is here! Fast + 4K + audio + low vram",
+        "vote": 0
+    }
+]

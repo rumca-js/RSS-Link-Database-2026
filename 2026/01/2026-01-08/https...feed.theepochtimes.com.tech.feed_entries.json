@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Victoria Friedman",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-08T17:16:23.064890+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-08T16:57:02+00:00",
+        "description": "The FCC said in December that relying on foreign-made drones poses 'an unacceptable risk' to national security.",
+        "id": 4507969,
+        "language": "en-US",
+        "link": "https://www.theepochtimes.com/us/fcc-exempts-some-foreign-made-drones-from-us-import-ban-5967833",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 105,
+        "source_url": "https://feed.theepochtimes.com/tech/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.theepochtimes.com/assets/uploads/2025/07/16/id5888024-GettyImages-1242428969-1080x720.jpg",
+        "title": "FCC Exempts Some Foreign-Made Drones From US Import Ban",
+        "vote": 0
+    }
+]

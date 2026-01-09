@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Digital Foundry",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-08T16:14:10.875377+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-08T15:52:43+00:00",
+        "description": "Digital Foundry is now fully independent! Join the DF Supporter Program and support the team: https://bit.ly/3jEGjvx\n\nIt's time for a big CES 2026 interview! Intel's Tom Petersen is a legendary figure in the PC hardware space, having spent decades at Nvidia before moving onto Intel. Once again, we're talking tech with TAP, discussing Panther Lake, frame generation, multi frame generation, the actual future of PC \"performance\", Intel's new anti-stutter strategy, frame-pacing, Linux and much, much more. \n\nGo here to check out DF merch! https://store.digitalfoundry.net\n\nSubscribe for more Digital Foundry: http://bit.ly/DFSubscribe\n\n00:00 Introduction: Where is Big Battlemage? \n00:40 XeSS 3: Multi frame gen and the future of game performance\n08:29 Stuttering: animation error, shader compilation stutter, and communicating game performance issues \n19:32 Super resolution: XeSS labelling, cross-vendor SR, combined SR and denoising \n24:49 Frame pacing analysis, path tracing on Arc GPUs, Linux ",
+        "id": 4507368,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=8ydfKE1dffo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 696,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9PBzalIcEQCsiIkq36PyUA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/8ydfKE1dffo/hqdefault.jpg",
+        "title": "Inside Intel - The Future Of PC Performance, Panther Lake, Multi-Frame Gen - Tom Petersen Interview",
+        "vote": 0
+    }
+]

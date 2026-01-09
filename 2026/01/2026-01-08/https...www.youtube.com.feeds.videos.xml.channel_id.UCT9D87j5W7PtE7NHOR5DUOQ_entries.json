@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Computing Forever",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-08T19:01:09.107092+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-08T16:27:46+00:00",
+        "description": "KEEP UP ON SOCIAL MEDIA:\nX:  https://x.com/davecullenshow\nSubscribeStar: https://www.subscribestar.com/dave-cullen\nMinds.com: https://www.minds.com/davecullen\n\n\nSource article: https://www.qualtrics.com/articles/customer-experience/the-top-100-ways-people-are-using-ai-2025/",
+        "id": 4508968,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=I--FDIAwPaQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 906,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCT9D87j5W7PtE7NHOR5DUOQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/I--FDIAwPaQ/hqdefault.jpg",
+        "title": "Do We Really Need This?",
+        "vote": 0
+    }
+]

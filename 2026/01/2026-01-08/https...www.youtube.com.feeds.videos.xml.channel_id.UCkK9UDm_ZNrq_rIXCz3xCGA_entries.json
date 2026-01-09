@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Lunduke Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-08T20:13:25.230047+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-08T19:26:01+00:00",
+        "description": "MS representative has confirmed it. Microsoft has made many blunders with Office in the past (Clippy & Ribbon toolbar spring to mind), but this may be the biggest blunder of all.\n\nMore from The Lunduke Journal:\nhttps://lunduke.com/",
+        "id": 4509660,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=X4eMZpj896I",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 616,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkK9UDm_ZNrq_rIXCz3xCGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/X4eMZpj896I/hqdefault.jpg",
+        "title": "Microsoft Renamed Office to \"Microsoft 365 Copilot app\"",
+        "vote": 0
+    }
+]

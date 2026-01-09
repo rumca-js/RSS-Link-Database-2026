@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Cooper Quintin",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-08T23:17:16.336138+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-08T22:16:16+00:00",
+        "description": "<div class=\"field field--name-body field--type-text-with-summary field--label-hidden\"><div class=\"field__items\"><div class=\"field__item even\"><p><span>ICE has been invading U.S. cities, targeting, </span><a href=\"https://www.brennancenter.org/our-work/research-reports/ice-wants-go-after-dissenters-well-immigrants\"><span>surveilling</span></a><span>, </span><a href=\"https://www.propublica.org/article/immigration-dhs-american-citizens-arrested-detained-against-will\"><span>harassing</span></a><span>, </span><a href=\"https://www.opb.org/article/2025/12/06/vancouver-ice-alleged-crushing-legs/\"><span>assaulting</span></a><span>, </span><a href=\"https://kstp.com/kstp-news/local-news/woman-says-she-was-detained-by-ice-in-minneapolis-for-being-a-citizen-observer/\"><span>detaining</span></a><span>, and </span><a href=\"https://www.amnesty.org/en/latest/news/2025/12/estados-unidos-nuevas-investigaciones-revelan-violaciones-de-derechos-humanos-en-los-centros-de-detencion-de-alligator-alcatraz-y-kr",
+        "id": 4511120,
+        "language": "en",
+        "link": "https://www.eff.org/deeplinks/2026/01/how-hackers-are-fighting-back-against-ice",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 101,
+        "source_url": "https://www.eff.org/rss/updates.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "How Hackers Are Fighting Back Against ICE",
+        "vote": 0
+    }
+]

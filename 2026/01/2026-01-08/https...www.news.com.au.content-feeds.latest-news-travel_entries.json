@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-08T21:40:06.921458+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-08T21:40:06+00:00",
+        "description": "Jetstar has just dropped a massive, four-day sale with flights to Bali starting from just $149.",
+        "id": 4510392,
+        "language": "en-au",
+        "link": "https://www.news.com.au/travel/travel-deals/jetstar-drops-149-flights-to-bali-in-huge-sale/news-story/8ce2d5c554e57212b1ecd0cf1005a66b?from=rss-basic",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 409,
+        "source_url": "https://www.news.com.au/content-feeds/latest-news-travel",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://content.api.news/v3/images/bin/35dfba7d9fca053fe7f8f2ceaffababc?width=320",
+        "title": "Jetstar drops $149 flights to Bali in huge sale",
+        "vote": 0
+    }
+]

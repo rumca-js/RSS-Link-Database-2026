@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-09T03:55:34.382943+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-08T21:30:00+00:00",
+        "description": "<p>For the past decade, I've used <a href=\"https://github.com/mailhog/MailHog\">Mailhog</a> for local email debugging. Besides working on web applications that deal with email, I've long used email as the primary notification system for comments on the blog.</p>\n<p>I built an <a href=\"https://github.com/geerlingguy/ansible-role-mailhog\">Ansible role for Mailhog</a>, and it was one of the main features of <a href=\"https://www.jeffgeerling.com/blog/2015/major-improvements-drupal-vm/\">Drupal VM</a>, a popular local development environment for Drupal I sunset 3 years ago.</p>\n<p>Unfortunately, barring any future updates from the maintainers, it seems like <a href=\"https://github.com/mailhog/MailHog/issues/466\">Mailhog has not been maintained</a> for four years now. It still <em>works</em>, but something as complex as an email debugging environment needs ongoing maintenance to stay relevant.</p>",
+        "id": 4512584,
+        "language": "en",
+        "link": "https://www.jeffgeerling.com/blog/2026/mailpit-local-email-debugging",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 162,
+        "source_url": "https://www.jeffgeerling.com/blog.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Local Email Debugging with Mailpit",
+        "vote": 0
+    }
+]
