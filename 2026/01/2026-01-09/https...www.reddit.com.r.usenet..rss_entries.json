@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/myrazorbladesaredope",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-09T04:21:38.844313+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-09T04:15:38+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>I\u2019m having trouble getting this to work, I keep getting 100s of this error. \u201cCould not resolve host name news.frugalusenet.com: Error -3 - Try again\u201d I have another server that works from a different provider. I\u2019ve turned off the malware/ad block on my WireGuard vpn with no effect. I\u2019ve read it\u2019s a dns problem but I\u2019m not sure why another server would be fine but none of this providers servers? I also don\u2019t have control over the dns through the VPN? I\u2019m not super techy, any help would be much appreciated!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/myrazorbladesaredope\"> /u/myrazorbladesaredope </a> <br/> <span><a href=\"https://www.reddit.com/r/usenet/comments/1q7yc47/frugal/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/usenet/comments/1q7yc47/frugal/\">[comments]</a></span>",
+        "id": 4512717,
+        "language": "en",
+        "link": "https://www.reddit.com/r/usenet/comments/1q7yc47/frugal",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 550,
+        "source_url": "https://www.reddit.com/r/usenet/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Frugal",
+        "vote": 0
+    }
+]

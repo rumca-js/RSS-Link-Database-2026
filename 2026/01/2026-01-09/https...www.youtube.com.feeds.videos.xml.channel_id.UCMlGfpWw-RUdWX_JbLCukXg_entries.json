@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-09T15:38:43.167488+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-09T15:07:05+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nLazy and Fast: Ranges Meet Parallelism in C++ - Daniel Anderson - CppCon 2025\n---\n\nRecent advances in the C++ standard have introduced powerful features like ranges and parallel algorithms\u2014both aimed at writing faster, cleaner, and more expressive code. Ranges offer lazy, on-demand computation that improves I/O efficiency and composability. Parallel algorithms, on the other hand, harness multitasking to speed up compute-heavy workloads. \n \nAt first glance, these two features seem like a perfect match: lazy evaluation to minimize I/O overhead, and parallelism to maximize throughput. However, in practice, they don\u2019t play well together. Many range operations\u2014especially those over non-random-access sources\u2014are inherently sequential due to their lazy pull-based, one-element-at-a-time nature. \n \nIn this talk, we\u2019ll explore a modern library technique that unlocks the synergy between lazy ranges and parallelism. You\u2019ll see how to build lazy, composable range pipelines",
+        "id": 4516701,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=gLOH5md4gok",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/gLOH5md4gok/hqdefault.jpg",
+        "title": "Lazy and Fast: Ranges Meet Parallelism in C++ - Daniel Anderson - CppCon 2025",
+        "vote": 0
+    }
+]

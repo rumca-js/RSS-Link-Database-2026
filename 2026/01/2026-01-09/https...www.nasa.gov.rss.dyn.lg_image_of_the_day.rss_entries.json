@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-09T20:22:03.085648+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-09T20:09:00+00:00",
+        "description": "Images depicting NASA\u2019s Space Launch System (SLS) rocket are projected onto the Washington Monument as part of an event to kick off the nation's 250th birthday year, Wednesday, Dec. 31, 2025, in Washington.",
+        "id": 4519216,
+        "language": "en-us",
+        "link": "https://www.nasa.gov/image-detail/washington-monument-lighting-and-new-years-eve-show-2",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 485,
+        "source_url": "https://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Best of 2025: Artemis II SLS (Space Launch System) Projected on Washington Monument",
+        "vote": 0
+    }
+]

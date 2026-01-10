@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NetworkChuck",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-09T20:44:28.239799+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-09T20:24:32+00:00",
+        "description": "watch the full video to see it in action: https://youtu.be/bFgTxr5yst0",
+        "id": 4519338,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/LDLRxUcdbyc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 565,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9x0AN7BWHpCDHSm9NiJFJQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/LDLRxUcdbyc/hqdefault.jpg",
+        "title": "my NEW AI Supercomputer (3.5x faster!!!)",
+        "vote": 0
+    }
+]

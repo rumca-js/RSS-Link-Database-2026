@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ACCU Conference",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-09T17:37:44.423792+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-09T15:03:44+00:00",
+        "description": "ACCU Membership: https://tinyurl.com/ydnfkcyn\n---\n\nDo Not Compare Integers and Floats in C++: Sorting Pitfalls, UB & Type Conversion Explained - Egor Suvorov - ACCU 2025 Short Talks\n---\n\nC++ developers often rely on simple comparisons like `a \uff1c b`, but when mixing integers and floats\u2014especially `long long` and `double`\u2014such comparisons can lead to serious problems. In this lightning talk from ACCU Conference 2025, Egor Suvorov exposes the hidden dangers of comparing float and int types in C++ and how these comparisons can trigger undefined behavior in standard algorithms like `std::sort`.\n\nWhen sorting heterogeneous data, implicit type conversion from `long long` to `double` can lead to rounding errors, comparator contradictions, and ultimately cause your program to crash, freeze, or return incorrect results. This talk demonstrates exactly how C++ float rounding, numeric limits, and NaN values can introduce subtle, hard-to-detect bugs\u2014especially when comparing floats and ints directly",
+        "id": 4517783,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=rDn2TuARpfQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 421,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJhay24LTpO1s4bIZxuIqKw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/rDn2TuARpfQ/hqdefault.jpg",
+        "title": "C++ Sorting Pitfalls, UB & Type Conversion Explained",
+        "vote": 0
+    }
+]

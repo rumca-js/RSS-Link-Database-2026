@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Chris Titus Tech",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-09T18:04:26.952266+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-09T17:28:03+00:00",
+        "description": "\u25ba\u25ba Digital Downloads \u279c https://www.cttstore.com\n\u25ba\u25ba Patreon \u279c https://www.patreon.com/christitustech\n\u25ba\u25ba Reddit \u279c https://www.reddit.com/r/ChrisTitusTech/\n\u25ba\u25ba Titus Tech Talk \u279c https://www.youtube.com/c/TitusTechTalk\n\u25ba\u25ba Twitch \u279c https://www.twitch.tv/christitustech",
+        "id": 4518093,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=N5CUgO3-UIo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 444,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCg6gPGh8HU2U01vaFCAsvmQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/N5CUgO3-UIo/hqdefault.jpg",
+        "title": "\ud83d\udd34 Building a GUI",
+        "vote": 0
+    }
+]

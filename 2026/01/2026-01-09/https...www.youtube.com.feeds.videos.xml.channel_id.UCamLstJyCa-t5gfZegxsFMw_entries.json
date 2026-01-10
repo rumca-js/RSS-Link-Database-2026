@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Colin and Samir",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-09T19:49:22.442028+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-09T19:29:09+00:00",
+        "description": "If your video can be enjoyed equally as a bullet point list, maybe it wasn\u2019t a video to begin with. Information wants to be summarized, but experiences, style, tone and perspective can\u2019t be.",
+        "id": 4518879,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/62FryBYrZzA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 721,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCamLstJyCa-t5gfZegxsFMw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/62FryBYrZzA/hqdefault.jpg",
+        "title": "You can now summarize a YouTube video before watching it",
+        "vote": 0
+    }
+]
