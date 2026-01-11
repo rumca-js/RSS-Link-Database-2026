@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-10T01:00:56.664444+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-10T00:48:59+00:00",
+        "description": "<div id=\"remove_no_follow\">\n\t\t<div class=\"grid grid--cols-10@md grid--cols-8@lg article-column\">\n\t\t\t\t\t  <div class=\"col-12 col-10@md col-6@lg col-start-3@lg\">\n\t\t\t\t\t\t<div class=\"article-column__content\">\n<section class=\"wp-block-bigbite-multi-title\"><div class=\"container\"></div></section>\n\n\n\n<p>Security company Trend Micro has been compelled to issue a patch for its own Apex Central software management tool after vulnerability management platform <a href=\"https://www.tenable.com/security/research/tra-2026-01\" target=\"_blank\" rel=\"noreferrer noopener\">Tenable identified several security flaws</a>.</p>\n\n\n\n<p>The bugs affect all versions of Apex Central (on-premises) earlier than build 7190.</p>\n\n\n\n<p><a href=\"https://success.trendmicro.com/en-US/solution/KA-0022071\" target=\"_blank\" rel=\"noreferrer noopener\">In a security bulletin</a>, Trend Micro said of the most severe flaw, rated 9.8, \u201cA LoadLibraryEX vulnerability in Trend Micro Apex Central could allow an unauthenticated remote attac",
+        "id": 4520913,
+        "language": "en-US",
+        "link": "https://www.computerworld.com/article/4115156/trend-micro-patches-critical-flaws-in-its-apex-central-software-2.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 78,
+        "source_url": "https://www.computerworld.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Trend Micro patches critical flaws in its Apex Central software",
+        "vote": 0
+    }
+]

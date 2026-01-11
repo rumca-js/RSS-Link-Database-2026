@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Doug Sharpe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-10T18:02:33.771136+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-10T17:00:38+00:00",
+        "description": "The new law which comes into effect in February says all video ads must include a skip ad button 5 seconds after the ad starts playing and pop up ads can no longer use fake close buttons or misleading icons.",
+        "id": 4525241,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/NGEMpLcuzzU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 811,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCAYmlecATSG0wc5IxsFJSbQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/NGEMpLcuzzU/hqdefault.jpg",
+        "title": "Vietnam Is Banning Unskippable Ads #funfact",
+        "vote": 0
+    }
+]

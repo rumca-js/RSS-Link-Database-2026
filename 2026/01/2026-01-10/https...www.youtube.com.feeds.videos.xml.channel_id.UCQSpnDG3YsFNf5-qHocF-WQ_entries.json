@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ThioJoe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-10T17:00:41.425891+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-10T16:01:33+00:00",
+        "description": "They couldn't just make it better \ud83d\ude12\n\nYouTube just added a new feature to the search page that should be useful to EVERYONE. You can now separately filter to search for only long form videos, or shorts. Before, selecting\"videos\" would combine those two together. However, YouTube also made some other changes to the other available search filters, including removing some sort options.\n\nTime Stamps:\n0:00 - Intro\n1:23 - The Bad News\n1:45 - Changed Sorting Options\n2:50 - Removed Sorting Options\n4:16 - Removed Filter By Last Hour",
+        "id": 4524932,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=pfYW78VGIik",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 2,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 366,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQSpnDG3YsFNf5-qHocF-WQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/pfYW78VGIik/hqdefault.jpg",
+        "title": "YouTube Just Got Better (But Also Worse)",
+        "vote": 0
+    }
+]

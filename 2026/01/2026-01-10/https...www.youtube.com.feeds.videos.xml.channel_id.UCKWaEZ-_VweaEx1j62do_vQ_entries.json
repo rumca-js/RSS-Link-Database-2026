@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-10T13:58:24.546513+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-10T12:00:11+00:00",
+        "description": "Ready to become a certified watsonx Generative AI Engineer - Associate? Register now and use code IBMTechYT20 for 20% off of your exam \u2192 https://ibm.biz/Bdbk9d\n\nLearn more about Prompt Injection Attacks here \u2192 https://ibm.biz/BdbkLW\n\nAn AI agent bought the wrong book and the reason might surprise you \ud83e\udd16. Jeff Crume and Martin Keen break down prompt injection attacks, AI security flaws, and how browser\u2011based agents can be misled. Learn practical ways to secure AI agents and keep your data safe.\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/Bdbk9c\n\n#aiagents #promptinjection #aisecurity #aithreats",
+        "id": 4523842,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=5ZA1lTxTH3c",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/5ZA1lTxTH3c/hqdefault.jpg",
+        "title": "Securing AI Agents: How to Prevent Hidden Prompt Injection Attacks",
+        "vote": 0
+    }
+]

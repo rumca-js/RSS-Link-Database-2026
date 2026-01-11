@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "David Shapiro",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-10T14:20:38.330897+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-10T13:54:43+00:00",
+        "description": "Check out my Patreon community for exclusive Discord server! Links on main channel page.",
+        "id": 4523971,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=tZ9ge7OBl8g",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 946,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvKRFNawVcuz4b9ihUTApCg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/tZ9ge7OBl8g/hqdefault.jpg",
+        "title": "What if AI really is making us dumber?",
+        "vote": 0
+    }
+]

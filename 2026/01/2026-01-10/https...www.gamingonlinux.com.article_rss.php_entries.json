@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Liam Dawe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-10T13:45:17.009473+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-10T13:30:09+00:00",
+        "description": "Doing something similar to what Valve will do for the Steam Frame, Canonical have announced a Steam gaming Snap package for Arm.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/577832039id28287gol.jpg\" alt />.</p><p>Read the full article on <a href=\"https://www.gamingonlinux.com/2026/01/canonical-call-for-testing-their-steam-gaming-snap-for-arm-linux/\">GamingOnLinux</a>.</p>",
+        "id": 4523803,
+        "language": "en-us",
+        "link": "https://www.gamingonlinux.com/2026/01/canonical-call-for-testing-their-steam-gaming-snap-for-arm-linux",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 130,
+        "source_url": "https://www.gamingonlinux.com/article_rss.php",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.gamingonlinux.com/uploads/articles/tagline_images/577832039id28287gol.jpg",
+        "title": "Canonical call for testing their Steam gaming Snap for Arm Linux",
+        "vote": 0
+    }
+]
