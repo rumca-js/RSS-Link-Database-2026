@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Lunduke Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-11T16:05:49.717629+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-11T15:38:42+00:00",
+        "description": "Sometimes it's worth stopping to marvel at how truly amazing some modern technology is. FEX, Proton, Valve's Steam Frame... pure technical wizardry.\n\nMore from The Lunduke Journal:\nhttps://lunduke.com/",
+        "id": 4530531,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=cCy3ft-dqAo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 616,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkK9UDm_ZNrq_rIXCz3xCGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/cCy3ft-dqAo/hqdefault.jpg",
+        "title": "This is Magic: X86 Windows Games Running on ARM Linux",
+        "vote": 0
+    }
+]

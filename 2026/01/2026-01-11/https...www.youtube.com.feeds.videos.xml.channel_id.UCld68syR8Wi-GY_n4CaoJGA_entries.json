@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-11T18:44:46.527530+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-11T16:30:06+00:00",
+        "description": "Were were you aware that there was an internet archive style website for source code, well there is and it's called the Software Heritage Archive so lets take a look.\n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\nSoftware Heritage Archive: https://archive.softwareheritage.org/\nFAQ: https://www.softwareheritage.org/software-heritage-faq/\nCLI Docs: https://docs.softwareheritage.org/devel/swh-model/cli.html\nMission: https://www.softwareheritage.org/mission/\nSoftware Is Key: https://www.softwareheritage.org/mission/software-is-the-key/\nSoftware Is Fragile: https://www.softwareheritage.org/mission/software-is-fragile/\n\n=========Video Platforms==========\n\ud83c\udfa5 Odysee: https://brodierobertson.xyz/odysee\n\ud83c\udfa5 Podcast: https://techovertea.xyz/youtube\n\ud83c\udfae Gaming: https://brodierobertson",
+        "id": 4531406,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=MUA9Fu4jNGY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 1,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/MUA9Fu4jNGY/hqdefault.jpg",
+        "title": "This Is The Internet Archive For Open Source Code",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Gruber",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-11T22:03:55.159704+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-11T21:24:47+00:00",
+        "description": "<p>U.S. Senators Ron Wyden (D, Oregon), Ed Markey (D, Massachussetts), and Ben Ray Luj\u00e1n (D, New Mexico), in a letter addressed to Tim Cook and Sundar Pichai:</p>\n\n<blockquote>\n  <p>Your app stores\u2019 policies are clear. Google\u2019s terms of service\nrequire apps to \u201cprohibit users from creating, uploading, or\ndistributing content that facilitates the exploitation or abuse of\nchildren\u201d including prohibiting the \u201cportrayal of children in a\nmanner that could result in the sexual exploitation of children.\u201d\nApps that do not are said to be subject to \u201cimmediate removal from\nGoogle Play\u201d for violations. Similarly, Apple\u2019s terms of service\nbar apps from including \u201coffensive\u201d or \u201cjust plain creepy\u201d\ncontent, which under any definition must include\nnonconsensually-generated sexualized images of children and women.\nFurther, Apple\u2019s terms explicitly bar apps from including content\nthat is \u201c[o]vertly sexual or pornographic material\u201d including\nmaterial \u201cintended to stimulate erotic rather than aesthetic ",
+        "id": 4532483,
+        "language": "",
+        "link": "https://www.wyden.senate.gov/imo/media/doc/letter_to_apple_and_google_on_removing_x_and_grok_from_app_store_192026pdf.pdf",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 489,
+        "source_url": "https://daringfireball.com/feeds/main",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "U.S. Senators Ask Cook and Pichai to Remove X and Grok From App Store and Play Store",
+        "vote": 0
+    }
+]

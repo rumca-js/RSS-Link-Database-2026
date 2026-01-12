@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "AI Search",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-11T04:25:34.741875+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-11T03:31:10+00:00",
+        "description": "HUGE AI NEWS: LTX-2, UniVideo, SimpleMem, HY-MT, NeoVerse & more \n#ai #ainews #aitools #aivideo\n\nThanks to our sponsor Abacus AI. Try ChatLLM & DeepAgent here: http://chatllm.abacus.ai/?token=aisearch\n\nSources in order of mention:\nhttps://guoxu1233.github.io/DreamID-V/\nhttps://congwei1230.github.io/UniVideo/\nhttps://aiming-lab.github.io/SimpleMem-Page/\nhttps://lemonsky1995.github.io/dreamstyle/\nhttps://github.com/HKUDS/DeepTutor\nhttps://neoverse-4d.github.io/\nhttps://xiaokunsun.github.io/MorphAny3D.github.io/\nhttps://yichuanh.github.io/GaMo/\nhttps://zju3dv.github.io/InfiniDepth/\nLTX2 GGUFs https://huggingface.co/Kijai/LTXV2_comfy/tree/main\nWan2GP https://github.com/deepbeepmeep/Wan2GP\nhttps://sotamak1r.github.io/VINO-web/\nhttps://github.com/Tencent-Hunyuan/HY-MT\n\n0:00 AI news intro\n1:12 DreamID V\n2:23 UniVideo\n5:54 SimpleMem\n8:28 DreamStyle\n11:10 DeepTutor\n13:10 NeoVerse\n15:35 ChatLLM\n16:44 Unitree demo\n17:50 Boston Dynamics Atlas\n19:10 Morph\n21:46 GaMo\n23:56 InfiniDepth\n26:50 LTX-2 u",
+        "id": 4527873,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=qOr5-FrkElk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 1,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 806,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIgnGlGkVRhd4qNFcEwLL4A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/qOr5-FrkElk/hqdefault.jpg",
+        "title": "AI tutor agents, omnimodal video models, LTX-2 updates, long-term memory, video faceswap: AI NEWS",
+        "vote": 0
+    }
+]
