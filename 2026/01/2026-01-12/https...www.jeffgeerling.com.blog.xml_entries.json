@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-12T15:07:55.265483+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-12T09:00:00+00:00",
+        "description": "<p>I wanted to have the most accurate timepiece possible mounted in my mini rack. Therefore I built this:</p>\n<figure class=\"insert-image\"><img src=\"https://www.jeffgeerling.com/blog/2026/pico-gps-clock-mini-rack/pico-gps-clock-mini-rack.jpg\"\n alt=\"Raspberry Pi Pico GPS Clock for Mini Rack\" width=\"700\" height=\"auto\">\n</figure>\n\n<p>This is a GPS-based clock running on a Raspberry Pi Pico in a custom 1U 10&quot; rack faceplate. The clock displays time based on a GPS input, and will not display time until a GPS timing lock has been acquired.</p>\n<ul>\n<li>When you turn on the Pico, the display reads <code>----</code></li>\n<li>Upon 3D fix, you get a time on the clock, and the colon starts blinking</li>\n<li>If the 3D fix is lost, the colon goes solid</li>\n<li>When the 3D fix is regained, the colon starts blinking again</li>\n</ul>\n<p>For full details on designing and building this clock, see:</p>",
+        "id": 4537493,
+        "language": "en",
+        "link": "https://www.jeffgeerling.com/blog/2026/pico-gps-clock-mini-rack",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 162,
+        "source_url": "https://www.jeffgeerling.com/blog.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.jeffgeerling.com/blog/2026/pico-gps-clock-mini-rack/pico-gps-clock-mini-rack.jpg",
+        "title": "Raspberry Pi Pico Mini Rack GPS Clock",
+        "vote": 0
+    }
+]

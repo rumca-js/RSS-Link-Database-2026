@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-12T18:32:10.888021+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-12T16:30:00+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/-t9CN3_hwPc\" width=\"480\" alt=\"thumbnail\" title=\"The Linux Kernel Patch Literally Only I Care About!!\" /></p>Have you ever booted a Linux distro and noticed a little Tux icon, well there was recently a series of patches made to make this icon configurable.<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />Old Tutorial 1: https://www.armadeus.org/wiki/index.php?title=Linux_Boot_Logo<br />Old Tutorial 2: https://linuxlink.timesys.com/docs/wiki/engineering/HOWTO_Use_a_custom_boot_logo<br />Kernel Patch: https://lore.kernel.org/dri-devel/20251230-custom-logo-v1-0-4736374569ee@kernel.org/<br /><br />=========Video Platforms==========<br />\ud83c\udfa5 Odysee: https://brodierobertson.xyz/odysee<br />\ud83c\udfa5 Pod",
+        "id": 4539459,
+        "language": "en",
+        "link": "https://odysee.com/the-linux-kernel-patch-literally-only-i:90d533378121100e8753f68b5a7abd68ae2a3c67",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/-t9CN3_hwPc",
+        "title": "The Linux Kernel Patch Literally Only I Care About!!",
+        "vote": 0
+    }
+]

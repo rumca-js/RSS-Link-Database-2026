@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Perri Thaler",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-12T11:26:02.957238+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-12T05:00:00+00:00",
+        "description": "Observation challenges understanding of how dead stars interact with their environments",
+        "id": 4535843,
+        "language": "en-US",
+        "link": "https://www.science.org/content/article/scientists-spot-never-seen-shock-wave-around-dead-star",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 187,
+        "source_url": "https://www.science.org/rss/news_current.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Scientists spot never-before-seen shock wave around dead star",
+        "vote": 0
+    }
+]

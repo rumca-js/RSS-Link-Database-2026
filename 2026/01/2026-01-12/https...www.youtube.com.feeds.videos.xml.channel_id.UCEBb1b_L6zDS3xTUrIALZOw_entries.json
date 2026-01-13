@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "MIT OpenCourseWare",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-12T16:35:38.791072+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-12T15:23:42+00:00",
+        "description": "Economist Jon Gruber answers YouTube's burning questions about the economy, Netflix, chalkboards, the NFL, and more!\n\nView his full Chalk Radio podcast interview here: https://www.youtube.com/watch?v=dLg9MK1hv2Y\n\nView his Principles of Microeconomics course here: https://www.youtube.com/show/VLPLUl4u3cNGP60V7HxLYRaJMbFzP77bzEjb?sbp=Kgs4c3NqS1I3bk5ja0AB",
+        "id": 4538269,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=XmTBw0z899U",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 437,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCEBb1b_L6zDS3xTUrIALZOw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/XmTBw0z899U/hqdefault.jpg",
+        "title": "MIT Economist Jon Gruber responds to YouTube comments",
+        "vote": 0
+    }
+]

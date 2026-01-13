@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Gruber",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-12T17:21:03.941275+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-12T16:27:34+00:00",
+        "description": "<p>Norbert Heger, with a perfectly illustrated post, \u201c<a href=\"https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/\">The Struggle of Resizing Windows on macOS Tahoe</a>\u201d:</p>\n\n<blockquote>\n  <p>Since upgrading to macOS Tahoe, I\u2019ve noticed that quite often\nmy attempts to resize a window are failing. This never happened\nto me before in almost 40 years of using computers. So why all\nof a sudden?</p>\n\n<p>It turns out that my initial click in the window corner\ninstinctively happens in an area where the window doesn\u2019t respond\nto it. The window expects this click to happen in an area of 19 \u00d7\n19 pixels, located near the window corner.</p>\n\n<p>If the window had no rounded corners at all, 62% of that area\nwould lie <em>inside</em> the window.</p>\n\n<p>But due to the huge corner radius in Tahoe, most of it\u2009\u2014\u2009about\n75%\u2009\u2014\u2009now lies <em>outside</em> the window.</p>\n</blockquote>\n\n<p>Here is Heger\u2019s illustration of the hit target for the invisible resize button on MacOS ",
+        "id": 4538732,
+        "language": "",
+        "link": "https://daringfireball.net/2026/01/resizing_windows_macos_26",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 489,
+        "source_url": "https://daringfireball.com/feeds/main",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "/misc/2026/01/clickable-area-2.webp",
+        "title": "\u2605 Why It Is Difficult to Resize Windows on MacOS 26 Dyehoe",
+        "vote": 0
+    }
+]

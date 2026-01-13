@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Hank Green",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-12T19:47:18.357981+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-12T19:05:39+00:00",
+        "description": "I just think it's about time we had a bit of a backlash against all of this stuff. \n\nYou can check out our newsletter here: https://werehere.beehiiv.com/",
+        "id": 4540043,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=EMWPs75q2_Q",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 507,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCOT2iLov0V7Re7ku_3UBtcQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/EMWPs75q2_Q/hqdefault.jpg",
+        "title": "Here's Why New Year's Eve is Bad Now",
+        "vote": 0
+    }
+]

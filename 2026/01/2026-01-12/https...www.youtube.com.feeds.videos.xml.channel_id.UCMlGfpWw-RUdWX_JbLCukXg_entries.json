@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-12T16:56:08.530151+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-12T15:36:12+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nBack To Basics: C++ Strings and Character Sequences - Nicolai Josuttis - CppCon 2025\n---\n\nStrings are a key datatype for each programming language. At first, using strings in C++ looks easy. However things can pretty fast cause surprises and become complicated. \n \n In this talk we look at the details every programmer should be aware of: \n- The various types for strings and character sequences\n- The type and value category of string literals\n- Dealing with internationalization (I18N)\n- Raw strings\n- The short string optimization (SSO)\n- Optimization of strings versus string views\n- Type conversions and lifetime dependencies \n\n---\n\nSlides: https://github.com/CppCon/CppCon2025/blob/main/Presentations/Back_To_Basics_Strings_and_Character_Sequences.pdf\n\nSponsored by JetBrains: https://www.jetbrains.com/clion/\n---\n\nNicolai Josuttis\n \n---\n\nCppCon is the annual, week-long face-to-face gathering for the entire C++ community. The conference is organized by the C++ commu",
+        "id": 4538534,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=LVU7lq9aL8o",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/LVU7lq9aL8o/hqdefault.jpg",
+        "title": "Back To Basics: C++ Strings and Character Sequences - Nicolai Josuttis - CppCon 2025",
+        "vote": 0
+    }
+]

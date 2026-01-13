@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Huawei",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-12T09:59:52.988878+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-12T09:15:41+00:00",
+        "description": "How do you guarantee smooth streaming when millions tune in at once? STARZPLAY, a video-on-demand subscription platform serving 2.4 million+ subscribers across 22 countries, has the answers. \n\nWatch the latest #Huawei #TransformTalks with CTO Faraz Arshad to discover how STARZPLAY delivers flawless, large-scale streaming in one of the world's most competitive markets: https://bit.ly/3Z5hn6r #HuaweiCloud #ThisIsHuawei",
+        "id": 4535413,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=M8wA_c7ZbzA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 875,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtjV1_XU6gvPYyreaFScxBQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/M8wA_c7ZbzA/hqdefault.jpg",
+        "title": "When Every Second Matters: Seamless Streaming at Scale",
+        "vote": 0
+    }
+]

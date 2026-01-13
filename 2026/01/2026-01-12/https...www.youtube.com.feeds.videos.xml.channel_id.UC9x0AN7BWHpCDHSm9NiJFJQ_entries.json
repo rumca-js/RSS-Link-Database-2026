@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NetworkChuck",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-12T16:10:22.039208+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-12T15:23:42+00:00",
+        "description": "Start using n8n and get an extra 10% OFF with code NETWORKCHUCK: https://hostinger.com/ncn8n \n\u00a0\nWatch the full video: https://youtu.be/s96JeuuwLzc",
+        "id": 4538100,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/MDIqCQh5B-c",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 565,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9x0AN7BWHpCDHSm9NiJFJQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/MDIqCQh5B-c/hqdefault.jpg",
+        "title": "I Just Gave n8n SUPERPOWERS",
+        "vote": 0
+    }
+]
