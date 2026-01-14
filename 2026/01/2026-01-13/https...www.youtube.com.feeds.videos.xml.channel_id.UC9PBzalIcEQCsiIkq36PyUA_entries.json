@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Digital Foundry",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-13T20:27:19.874059+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-13T18:58:49+00:00",
+        "description": "Digital Foundry is now fully independent! Join the DF Supporter Program and support the team: https://bit.ly/3jEGjvx\n\nAt CES 2026, Alex and Oliver grabbed a range of super-heavy benchmark tests from Intel's Lenovo-based Panther Lake reference laptop... and then sent them over to Rich for comparisons against a range of hardware. How well does Panther Lake stack up against AMD competitors Strix Point and Strix Halo? Rather well actually, to the point where we decided to stack up Intel's exciting new mobile silicon against entry-level desktop GPUs, with intriguing results. \n\nNecessary caveats: while we expect the reference laptop to show retail-class performance, these are NOT final benchmarks. Intel gave us completely free rein on what we tested in terms of gaming benchmarks, but didn't give the go-ahead for CPU-based tests (eg CineBench).\n\nGo here to check out DF merch! https://store.digitalfoundry.net\n\nSubscribe for more Digital Foundry: http://bit.ly/DFSubscribe\n\n00:00 Overview\n01:04",
+        "id": 4548413,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=xPkofuH_bak",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 696,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9PBzalIcEQCsiIkq36PyUA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/xPkofuH_bak/hqdefault.jpg",
+        "title": "Intel Panther Lake Benchmarked vs Strix Halo/Strix Point vs RTX 3050/RX 6600",
+        "vote": 0
+    }
+]

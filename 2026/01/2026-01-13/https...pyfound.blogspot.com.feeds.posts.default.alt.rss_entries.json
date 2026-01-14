@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-13T13:33:01.912221+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-13T13:00:00+00:00",
+        "description": "<p><span face=\"Arial, sans-serif\" style=\"font-size: 11pt; white-space-collapse: preserve;\">We are thrilled to announce that Anthropic has entered into a two-year partnership with the Python Software Foundation (PSF) to contribute a landmark total of $1.5 million to support the foundation\u2019s work, with an emphasis on Python ecosystem security. This investment will enable the PSF to make crucial security advances to CPython and the Python Package Index (PyPI) benefiting all users, and it will also sustain the foundation\u2019s core work supporting the Python language, ecosystem, and global community.</span></p><div><b><span face=\"Arial, sans-serif\"><span style=\"font-size: 14.6667px; white-space-collapse: preserve;\">Innovating open source security</span></span><span face=\"Arial, sans-serif\" style=\"font-size: 11pt; white-space-collapse: preserve;\">\n</span></b></div><div><span face=\"Arial, sans-serif\" style=\"font-size: 11pt; white-space-collapse: preserve;\"><br /></span></div><div><span face=\"Ar",
+        "id": 4544322,
+        "language": "en",
+        "link": "https://pyfound.blogspot.com/2025/12/anthropic-invests-in-python.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 267,
+        "source_url": "https://pyfound.blogspot.com/feeds/posts/default?alt=rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Anthropic invests $1.5 million in the Python Software Foundation and open source security",
+        "vote": 0
+    }
+]

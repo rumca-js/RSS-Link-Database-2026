@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Chris Tapsell",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-13T13:32:08.842625+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-13T12:00:00+00:00",
+        "description": "<img src=\"https://assetsio.gnwcdn.com/2026-best.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>The new year is upon us! Actually it's been upon us for a couple weeks now, but listen: this is a very long list, so you'll understand if it took us a little while to pull together.</p> <p><a href=\"https://www.eurogamer.net/the-93-most-exciting-games-of-2026\">Read more</a></p>",
+        "id": 4544310,
+        "language": "en",
+        "link": "https://www.eurogamer.net/the-93-most-exciting-games-of-2026",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 610,
+        "source_url": "https://www.eurogamer.net/feed/features",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://assetsio.gnwcdn.com/2026-best.jpg?width=690&quality=85&format=jpg&auto=webp",
+        "title": "The 93 most exciting games of 2026",
+        "vote": 0
+    }
+]

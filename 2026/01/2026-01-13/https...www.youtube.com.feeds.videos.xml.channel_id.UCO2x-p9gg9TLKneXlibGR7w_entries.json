@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Snazzy Labs",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-13T21:26:19.851830+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-13T20:34:09+00:00",
+        "description": null,
+        "id": 4548726,
+        "language": "en-US",
+        "link": "https://www.youtube.com/shorts/fdU2qbuf-tc",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 307,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCO2x-p9gg9TLKneXlibGR7w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/fdU2qbuf-tc/hqdefault.jpg",
+        "title": "This company makes all the super important little components you may never think of! #ad #sponsored",
+        "vote": 0
+    }
+]

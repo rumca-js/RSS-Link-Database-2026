@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-13T13:26:19.771326+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-13T12:02:00+00:00",
+        "description": "Ready to become a certified watsonx AI Assistant Engineer? Register now and use code IBMTechYT20 for 20% off of your exam \u2192 https://ibm.biz/Bdbt3N\n\nLearn more about Machine Learning here \u2192 https://ibm.biz/Bdbt37\n\nYour AI project could be doomed to the AI Graveyard. \ud83d\udc80 Brianne Zavala uncovers the hidden reasons why Machine Learning and Data initiatives fail\u2014and shares 3 expert tips to save them. \ud83d\ude80 Learn how to avoid critical mistakes, deliver real ROI, and turn your AI projects into success stories!\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/Bdb6Tw\n\n#ai #machinelearning #datascience",
+        "id": 4544212,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=tE7e1w0XARk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/tE7e1w0XARk/hqdefault.jpg",
+        "title": "Escape the AI Graveyard: Fixing Data and Machine Learning Failures",
+        "vote": 0
+    }
+]

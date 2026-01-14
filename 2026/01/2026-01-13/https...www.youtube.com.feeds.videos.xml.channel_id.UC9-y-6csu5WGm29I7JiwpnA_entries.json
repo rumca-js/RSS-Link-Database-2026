@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Computerphile",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-13T15:06:25.771939+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-13T14:01:14+00:00",
+        "description": "Newcomb's Problem is a thought experiment which, on the surface, seems obvious, but what if you're trying it out on your identical twin? Which choice is best? Aric Floyd demonstrates it, then tries it on Anthropic's Claude, which doesn't always play ball!\n\nComputerphile is supported by Jane Street. Learn more about them (and exciting career opportunities) at: https://jane-st.co/computerphile\n\nThis video was filmed and edited by Sean Riley.\n\nComputerphile is a sister project to Brady Haran's Numberphile. More at https://www.bradyharanblog.com",
+        "id": 4545663,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=bdbhKoypnFI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 929,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9-y-6csu5WGm29I7JiwpnA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/bdbhKoypnFI/hqdefault.jpg",
+        "title": "Trying Newcomb's Problem on AI - Computerphile",
+        "vote": 0
+    }
+]

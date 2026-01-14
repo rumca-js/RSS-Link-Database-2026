@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Sourav Rudra",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-13T13:31:02.826824+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-13T12:06:24+00:00",
+        "description": "I wonder if Extension Manager could make it into Fedora one day.",
+        "id": 4544295,
+        "language": "en-US",
+        "link": "https://itsfoss.com/news/fedora-gnome-extension-manager-proposal",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 156,
+        "source_url": "https://news.itsfoss.com/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://itsfoss.com/content/images/2026/01/fedora-shell-extensions-can-be-better.png",
+        "title": "Hey Fedora! Listen to This Developer and Make Managing Shell Extensions Better For All of Us",
+        "vote": 0
+    }
+]

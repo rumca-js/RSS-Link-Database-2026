@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ETA PRIME",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-13T15:52:51.615637+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-13T15:20:03+00:00",
+        "description": "Building a small form factor mini-ITX gaming PC with Minisforum\u2019s new all-in-one motherboard and a 16-core / 32-thread Ryzen 9 is exactly the kind of SFF project I love. In this build I\u2019m using the BD895iSE board (motherboard + CPU + cooler), adding 32GB DDR5 SO-DIMM, a 2TB NVMe SSD, and pairing it with a low profile GeForce RTX 5060 for 1440p gaming.\nI walk through the full assembly in a budget mini case (with my custom walnut front), install a 500W modular flex PSU, then jump into BIOS to disable hybrid graphics, force PCIe Gen5, and confirm the CPU is hitting ~100W TDP under load.\n\nGet The Minisforum BD895i SE Here: https://tidd.ly/49yIImh\nDDR5 Watch Out: https://amzn.to/4qRtiRl\nLow Profile RTX 5060: https://amzn.to/4qR4Ak0\nFlex Power supply:https://amzn.to/4qdUd9W\nSFF PC Case:https://amzn.to/4suYOGi\n\nFollow Me On Twitter: https://twitter.com/theetaprime\nFollow Me On Instagram: https://www.instagram.com/etaprime/\n\nVip-URCDKey 25% Black Friday Sale code for software\uff1aETA \nWindows 11 ",
+        "id": 4546228,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=wXU2fl28ZHk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 1,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 100,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_0CVCfC_3iuHqmyClu59Uw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/wXU2fl28ZHk/hqdefault.jpg",
+        "title": "This \u201cAll-In-One\u201d Mini-ITX Board Is Insane For Powerful SFF Builds!",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-13T15:21:10.533409+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-13T15:07:09+00:00",
+        "description": "https://cppcon.org\n---\n\nBest Practices for AI Tool Use - Jason Turner - CppCon 2025\n---\n\nAI (LLMs) are becoming prolific in C++ tooling. Virtually everything has an AI bot built in or available to it. Common wisdom says that these tools simply regurgitate what they find on the internet. As we all know, the internet is full of terrible examples of outdated memory leaks, undefined behavior, and worse!\n\nHow do we effectively and safely use these tools while ensuring good code quality?! \n \n---\n\nSlides: https://github.com/CppCon/CppCon2025/blob/main/Presentations/Best_Practices_For_AI_Tool_Use.pdf\n\nWork at Hudson River Trading (HRT): https://tinyurl.com/safxfctf\n---\n\nJason Turner\n \nJason is host of the YouTube channel C++Weekly, co-host emeritus of the podcast CppCast, author of C++ Best Practices, and author of the first casual puzzle books designed to teach C++ fundamentals while having fun!\n---\n\nCppCon is the annual, week-long face-to-face gathering for the entire C++ community. The con",
+        "id": 4545910,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=xCuRUjxT5L8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/xCuRUjxT5L8/hqdefault.jpg",
+        "title": "Best Practices for AI Tool Use in C++ - Jason Turner - CppCon 2025",
+        "vote": 0
+    }
+]
