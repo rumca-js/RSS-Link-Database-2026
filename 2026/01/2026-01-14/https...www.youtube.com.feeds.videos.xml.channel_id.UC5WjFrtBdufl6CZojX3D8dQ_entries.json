@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Tesla",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-14T20:25:47.037566+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-14T19:29:02+00:00",
+        "description": "Our Lithium Refinery ushers in energy independence for North America\n\nRegionalized access to critical battery minerals brings jobs, cuts emissions & helps accelerate our mission",
+        "id": 4557233,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=rxYTx6aj96k",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 805,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5WjFrtBdufl6CZojX3D8dQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/rxYTx6aj96k/hqdefault.jpg",
+        "title": "Tesla Lithium Refinery",
+        "vote": 0
+    }
+]

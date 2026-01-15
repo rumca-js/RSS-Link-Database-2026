@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/AnnoyingMemer",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-15T01:12:58.192173+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-14T20:04:00+00:00",
+        "description": "<table> <tr><td> <a href=\"https://www.reddit.com/r/emulation/comments/1qcxs5f/sharpie_the_fantasy_console_disguised_as_an/\"> <img src=\"https://external-preview.redd.it/ku3X9tP11VgM8XrInRu8r7d1zEn1GI6xTAcFy4nDO6E.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=12140e8097997074492abe6228245fcca2f633b3\" alt=\"Sharpie, the fantasy console disguised as an emulator\" title=\"Sharpie, the fantasy console disguised as an emulator\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Hello <a href=\"/r/emulation\">r/emulation</a>, For the past few months I&#39;ve been working on a 16-bit fantasy console in my spare time. Internally, it is much closer to an emulator than most conventional fantasy consoles (though it still cheats in some areas such as the stack), and it is strength-wise somewhere close to the SNES. ROMs are limited to 58KB, there is a 32 color palette with 16 active colors at a time and color swapping and the APU is sample based with 8 channels capable of generating square, triangle ",
+        "id": 4559346,
+        "language": "",
+        "link": "https://www.reddit.com/r/emulation/comments/1qcxs5f/sharpie_the_fantasy_console_disguised_as_an",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 475,
+        "source_url": "https://www.reddit.com/r/emulation/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://external-preview.redd.it/ku3X9tP11VgM8XrInRu8r7d1zEn1GI6xTAcFy4nDO6E.png?width=640&crop=smart&auto=webp&s=12140e8097997074492abe6228245fcca2f633b3",
+        "title": "Sharpie, the fantasy console disguised as an emulator",
+        "vote": 0
+    }
+]

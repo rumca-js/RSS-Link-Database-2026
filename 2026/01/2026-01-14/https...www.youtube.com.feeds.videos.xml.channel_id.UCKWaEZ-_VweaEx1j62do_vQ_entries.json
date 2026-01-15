@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-14T11:22:11.529176+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-14T11:00:16+00:00",
+        "description": "Explore the podcast \u2192 https://ibm.biz/Bdb5Ch\n\nBetween LockBit, RansomHub and BlackSuit, law enforcement racked up some big wins against ransomware gangs last year. So why aren\u2019t the attacks letting up? \n\nIn this episode of Security Intelligence, panelists JR Rao, Jeff Crume and Michelle Alavarez unpack what the state of ransomware in 2025 really looked like, and why things haven\u2019t slowed things down as much as we might hope.  \n\nThen, we turn to identity security and cloud breaches as we consider the striking case of Zestix, the lone threat actor linked to breaches at 50 global enterprises. And all he needed were some passwords.  \n\nFrom there, we look at what the future of hacking might hold. Palo Alto\u2019s Wendi Whitmore issued a warning about how AI agents could become devastating insider threats, and security researchers at GEEKCon demonstrated how AI-powered robots can be hijacked using voice commands alone, turning prompt injection into a physical-world security risk.  \n\nIt\u2019s a niche",
+        "id": 4552729,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=AIh04-APeHo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/AIh04-APeHo/hqdefault.jpg",
+        "title": "Ransomware whack-a-mole, AI agents as insider threats and how to hack a humanoid robot",
+        "vote": 0
+    }
+]

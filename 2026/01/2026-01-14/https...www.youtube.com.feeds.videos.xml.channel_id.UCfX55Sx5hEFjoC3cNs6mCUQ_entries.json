@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Foundation",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-14T15:50:44.442933+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-14T15:00:14+00:00",
+        "description": "Fundamental technologies don\u2019t scale in silos.\nAs Jim Zemlin, Executive Director of the Linux Foundation, puts it - the development of core, pre-competitive protocols that shape markets require the collaboration of more than one company or developer.\n\nAgentic AI is entering that same moment, and protocols like MCP are what make collaboration possible at scale.\n\nLearn more at https://hubs.la/Q03-pSXn0",
+        "id": 4554939,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/kPS-FveyWZw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 499,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfX55Sx5hEFjoC3cNs6mCUQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/kPS-FveyWZw/hqdefault.jpg",
+        "title": "Protocols shared Infrastructure",
+        "vote": 0
+    }
+]

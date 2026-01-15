@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Will Knight",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-14T19:11:12.631396+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-14T19:00:00+00:00",
+        "description": "AI models are getting so good at finding vulnerabilities that some experts say the tech industry might need to rethink how software is built.",
+        "id": 4556642,
+        "language": "en-US",
+        "link": "https://www.wired.com/story/ai-models-hacking-inflection-point",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 396,
+        "source_url": "https://www.wired.com/feed/category/business/latest/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media.wired.com/photos/6966b356a8b8f1bda221bf28/master/pass/AI-Lab-AI-Too-Good-At-Hacking-Business.jpg",
+        "title": "AI\u2019s Hacking Skills Are Approaching an \u2018Inflection Point\u2019",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ACCU Conference",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-14T17:31:02.284556+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-14T15:01:33+00:00",
+        "description": "ACCU Membership: https://tinyurl.com/ydnfkcyn\n---\n\nPrintf Debugging at 1ns: High-Performance C++ Logging Without Locks - Greg Law - ACCU 2025 Short Talks\n---\n\nC++ debugging often starts with printf statements\u2014but what if you could make printf run in just 1ns? In this lightning talk from ACCU 2025, Greg Law (founder of Undo and long-time debugging tool expert) takes you on a journey to reinvent printf debugging for high-performance, multithreaded systems.\n\nTraditional printf debugging is notoriously intrusive and slow, especially in concurrent C++ applications. Lock contention, system call overhead, and thread perturbation all contribute to poor performance and unreliable results. Greg explains why standard logging functions like `fprintf` and `sprintf` fall short, particularly in debugging concurrency issues like race conditions and Heisenbugs.\n\nTo address this, Greg presents a new approach: the L3 logging library\u2014a lock-free, system call-free, mmap-backed logging system that achieves",
+        "id": 4555836,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=h5u3tDSdMOg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 421,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJhay24LTpO1s4bIZxuIqKw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/h5u3tDSdMOg/hqdefault.jpg",
+        "title": "Printf Debugging at 1ns: High-Performance C++ Logging Without Locks - Greg Law  ACCU 2025 Short Talk",
+        "vote": 0
+    }
+]

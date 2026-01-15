@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unreal Engine",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-14T20:10:06.247520+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-14T19:01:01+00:00",
+        "description": "UE5 ANIMATION DATA MOBILITY: Bake Control Rigs to Sequences & Backward Solve: This module teaches essential data mobility. Learn how to bake editable Control Rig data (live keyframes) into fixed Animation Sequences (pre-made clips). Conversely, master how to use the backward solve feature to convert baked sequences back into an editable Control Rig for keyframe access. Maximize your flexibility between clip-based and live-keyframe animation workflows\n\u25baDownload the A-COM Animation Sample here: https://epic.gm/agora-animation-sample\n\u25ba Check out Sir Wade's channel for more Animation Tutorials and UE5 workflows: https://www.youtube.com/@SirWade/\n\u25ba Sir Wade's Courses: https://courses.sirwade.com",
+        "id": 4557176,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=mDEliLixziU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 685,
+        "source_url": "https://youtube.com/channel/UCBobmJyzsJ6Ll7UbfhI4iwQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/mDEliLixziU/hqdefault.jpg",
+        "title": "Baking Animation in UE5: Control Rig to Animation Sequence & Back!",
+        "vote": 0
+    }
+]

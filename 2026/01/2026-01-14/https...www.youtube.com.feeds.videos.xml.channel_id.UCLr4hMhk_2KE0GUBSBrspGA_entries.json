@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kuba Klawiter",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-14T09:17:28.198221+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-14T08:37:27+00:00",
+        "description": "Zoox, to 4 osobowy pojazd miejski, w kt\u00f3rym nie ma fotela kierowcy. Nie ma kierownicy, a ca\u0142y system autonomicznego sterowania pojazdem jest schowany przed pasa\u017cerami. Wsiadasz jak do ma\u0142ego wagonu metra i jedziesz zwiedza\u0107 Las Vegas.",
+        "id": 4552114,
+        "language": "pl-PL",
+        "link": "https://www.youtube.com/watch?v=cAsy-PGkAIU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 1,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 179,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLr4hMhk_2KE0GUBSBrspGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/cAsy-PGkAIU/hqdefault.jpg",
+        "title": "Tak sie je\u017adzi pojazdem miejskim bez kierowcy - Zoox w Las Vegas",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Bog",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-14T09:48:34.433121+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-14T08:55:00+00:00",
+        "description": "This tutorial showcases how to do high quality screen recordings with OBS using the best encoder Nvidia and AMD settings. With the ability to record in 4k with 1080p monitor it takes just a few steps to record with OBS and have not laggy footage of your screen. OBS recording Games in 4k on 1080p monitor as the best CQP and CRF variable refresh rate. Unfortunately, not all low spec computers or laptop best recording settings can record with the best OBS settings because they don't have a dedicated graphics card or they're without a powerful CPU (processor). This method works on Windows and OBS settings for streaming and recording in high quality with low file size.\n\n\ud83e\uddea  Community:\nhttps://thaomaoh.com/community\n\nPC:\nOverkill 4k monitor - https://amzn.to/4h3dPJk\nLess overkill 4k monitor - https://amzn.to/4qSVEuv\nProcessor - AMD Ryzen 7 7800X3D - https://amzn.to/3X2AX3I\nGraphics Card - AMD Radeon RX 7800 XT - https://amzn.to/3X09uiQ\nMotherboard - ASUS Prime B650-Plus - https://amzn.to/3wT",
+        "id": 4552250,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=uGFS04hzqv0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 923,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZXW8E1__d5tZb-wLFOt8TQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/uGFS04hzqv0/hqdefault.jpg",
+        "title": "How to do high quality screen recordings with OBS",
+        "vote": 0
+    }
+]

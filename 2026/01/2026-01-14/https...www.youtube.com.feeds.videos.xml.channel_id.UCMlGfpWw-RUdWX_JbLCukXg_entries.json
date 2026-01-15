@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-14T16:54:24.466505+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-14T16:02:05+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nAgentic C++ Debugging C++ Live! - Without a Safety Net  - Daisy Hollman & Mark Williamson - CppCon 2025\n---\n\nMark Williamson (Undo) and Daisy Hollman (Anthropic) will show more in-depth examples of AI-enhanced time travel debugging, with some audience interaction and a preview of some upcoming AI debugging technology. \n---\n\nSponsored by JetBrains: https://www.jetbrains.com/clion/\n---\n\nDaisy Hollman\n\nDr. Daisy Hollman is a distinguished software engineer and programming language expert, known for her impactful contributions to the C++ standards committee since 2016. She has worked on C++ language and library design at Google, and more recently joined Anthropic, where she explores the intersection of programming languages and AI systems.\n\nMark Williamson\n\nI went through Cambridge University, UK and got drawn into the local startup ecosystem.  I've been at Undo.io building time travel debuggers for Linux C++ developers for the past 11 years, eventually landing in",
+        "id": 4555498,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=DwhAucfHJjs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/DwhAucfHJjs/hqdefault.jpg",
+        "title": "Agentic C++ Debugging Live! - Without a Safety Net - Daisy Hollman & Mark Williamson - CppCon 2025",
+        "vote": 0
+    }
+]
