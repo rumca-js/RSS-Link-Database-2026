@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Craft Computing",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-15T20:39:32.469569+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-15T19:45:22+00:00",
+        "description": "Go to https://sponsr.is/kinsta_CraftComputing to get your first month of Managed WordPress Hosting for free and migrate your website over at no cost!\n\nGrab yourself a Pint Glass at https://craftcomputing.store\n\nFollow me on Bluesky @CraftComputing.bsky.social\n\nIt's time for some more X79 Microcloud, this time completing my production 3-node cluster, and adding in a Proxmox Backup Server to keep everything safe and secure... all inside the same chassis.\n\nBut first... What am I drinking???\n\nNinkasi Brewing (Eugene, OR) Megalodom Triple IPA (10.0%)\n\n*Links to items below may be affiliate links for which I may be compensated*\n\nCheck out the Supermicro 5037MR-H8TRF on eBay: https://ebay.us/gA6OCD\nSliding Rails for Microcloud: https://ebay.us/vLWdHx\nIntel Xeon E5-2561v2 12-Core (10-Pack): https://ebay.us/e9ydi8\nIntel Xeon E5-2667 v2 8-Core 4.0GHz: https://ebay.us/CQE67Q\nSun F80 Warpdrive 800GB (4x200GB) SSD: https://ebay.us/xZ96ux\nSupermicro AOC-CTG-L1S 10Gb SFP+ Adapter: https://ebay.us/Kz",
+        "id": 4566912,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=v3Q6FFCp1pc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 909,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCp3yVOm6A55nx65STpm3tXQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/v3Q6FFCp1pc/hqdefault.jpg",
+        "title": "More X79 Microcloud Shenanigans - Proxmox Backup Server Install",
+        "vote": 0
+    }
+]

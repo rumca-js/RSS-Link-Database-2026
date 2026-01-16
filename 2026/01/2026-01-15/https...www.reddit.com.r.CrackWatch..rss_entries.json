@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/claptraw2803",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-15T17:22:45.027203+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-15T10:01:36+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>Hey there,</p> <p>currently we don&#39;t have a program like <a href=\"https://xan105.github.io/Achievement-Watcher/\">Achievement Watcher</a> on Linux, that parses the achievement data of cracked games and displays nice achievement pop-up notification when unlocking an achievement.</p> <p>However, there&#39;ve been talks with <a href=\"https://github.com/darktakayanagi\">darktakayanagi</a>, who maintains the active fork of <a href=\"https://github.com/darktakayanagi/Achievement-Watcher\">Achievement-Watcher</a>, and according to him a Linux port of AW is very much a possibility.</p> <p>In order to get a Linux port going, he asks for help, especially in figuring out a suitable notification framework under Linux and figuring out the emus paths for AW to detect achievements.</p> <p>So if you&#39;re proficient with Achievement Watcher and gaming on Linux, feel free to hop over to this Githut issue and share your knowledge:</p> <p><a href=\"https://github.com/da",
+        "id": 4565101,
+        "language": "en",
+        "link": "https://www.reddit.com/r/CrackWatch/comments/1qdfmzw/achievement_watcher_for_linux_may_be_coming",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 528,
+        "source_url": "https://www.reddit.com/r/CrackWatch/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Achievement Watcher for Linux may be coming",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Techlore",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-15T04:27:36.152966+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-15T02:43:30+00:00",
+        "description": "The UK has activated new Online Safety Act regulations requiring platforms to preemptively scan every message, image, and post before users can see it. This video explains how client-side scanning works, why encrypted services like Signal and WhatsApp face an impossible choice (break encryption or leave the UK), and the global pattern of \"child safety\" laws enabling surveillance infrastructure. Plus: the UK's digital ID U-turn proves pushback works\u2014here's what you can do to fight preemptive censorship in your country.\n\n\ud83d\udd12 A portion of the video is sponsored by Proton. Switch from Big Tech surveillance to end-to-end encryption that puts you in the front seat: https://go.getproton.me/SH12O\n\n\ud83d\udcf1 RESOURCES IN VIDEO\n\u2022 Reclaim the net: https://reclaimthenet.org/uk-expands-online-safety-act-to-mandate-preemptive-scanning\n\u2022 UK Announcement: https://www.gov.uk/government/news/stronger-laws-for-tech-firms-to-ensure-you-dont-see-unsolicited-nudes\n\u2022 Good Digital ID News: https://www.bbc.com/news/art",
+        "id": 4560254,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=HvddJtqwn2s",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 327,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/HvddJtqwn2s/hqdefault.jpg",
+        "title": "UK Mandates Scanning Your Messages Before You Send Them",
+        "vote": 0
+    }
+]

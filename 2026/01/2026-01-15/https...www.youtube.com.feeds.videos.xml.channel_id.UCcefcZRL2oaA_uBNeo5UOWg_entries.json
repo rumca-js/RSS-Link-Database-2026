@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-15T20:12:54.466340+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-15T18:15:03+00:00",
+        "description": "Jared Friedman reflects on one of his biggest surprises of 2025: how much the AI economy has stabilized. After a period of rapid, uncertain change in 2024, the ecosystem now feels more mature, with clear layers\u2014models, infrastructure, and applications\u2014and a more established playbook for building AI-native companies. While models have continued to improve, progress has been incremental rather than disruptive, helping the overall market settle.",
+        "id": 4566638,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/UZbXWYY7y-A",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/UZbXWYY7y-A/hqdefault.jpg",
+        "title": "What Surprised Me Most In 2025",
+        "vote": 0
+    }
+]

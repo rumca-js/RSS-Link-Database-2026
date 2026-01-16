@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Hammond",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-15T14:39:09.299116+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-15T14:00:46+00:00",
+        "description": "https://jh.live/flare-011526 || Manage threat intelligence and your exposed attack surface with Flare! Try a free trial and see what info is out there: https://jh.live/flare-011526\n\nVideo demo of the NTUSER dot MAN trick I saw floating around before the new year -- I did not know this was a thing\ud83d\udc40 Hat tip to DeceptIQ et al.... we showcase:\n\n1. breaking a Windows login with an empty user profile,\n2. getting initial access EZPZ with a Sliver C2 implant,\n3. exporting, downloading, and hijacking an existing target user profile NTUSER.DAT or HKCU Registry hive,\n4. converting hives from .reg plaintext to binary with the HiveSwarming.exe tool,\n5. and establishing persistence with the new backdoored NTUSER dot MAN profile we upload!\n\nNo Registry writes, API calls or registry callbacks because it's just a single file placed on disk! Kinda neat.\n\nThis is my first recording after a month break for the holidays and it was _painful_ -- lots of fails and mistakes and it took many hours \ud83d\ude05 \n\nI'm expe",
+        "id": 4563518,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Mw8DVcLSZIc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 959,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVeW9qkBjo3zosnqUbG7CFw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/Mw8DVcLSZIc/hqdefault.jpg",
+        "title": "NTUSER.MAN",
+        "vote": 0
+    }
+]

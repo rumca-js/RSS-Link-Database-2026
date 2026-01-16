@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-15T14:52:03.928299+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-15T12:00:36+00:00",
+        "description": "Ready to become a certified Certified watsonx AI Assistant Engineer? Register now and use code IBMTechYT20 for 20% off of your exam \u2192 https://ibm.biz/BdbtTB\n\nLearn more about State Space Models here \u2192 https://ibm.biz/BdbtTd\n\nTransformers are powerful, but are State Space Models even better? \ud83e\udd14 Aaron Baughman explains how SSMs outperform transformers, handle sequential data, and improve generative AI efficiency. \ud83d\ude80 Discover how this breakthrough in Machine Learning is solving challenges in memory, scalability, and performance!\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/Bdb6wd\n\n#ssms #ai #data #generativeai",
+        "id": 4563622,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=HbZD0XoN5fc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/HbZD0XoN5fc/hqdefault.jpg",
+        "title": "What are State Space Models? Redefining AI & Machine Learning with Data",
+        "vote": 0
+    }
+]

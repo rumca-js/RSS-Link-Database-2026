@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-15T16:20:13.577031+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-15T15:49:00+00:00",
+        "description": "Jets of ionized gas streak across a cosmic landscape from a newly forming star.",
+        "id": 4564685,
+        "language": "en-us",
+        "link": "https://www.nasa.gov/image-detail/hubble-hh80-new-4filters-v7-finalcrop",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 485,
+        "source_url": "https://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Hubble Spies Stellar Blast Setting Clouds Ablaze",
+        "vote": 0
+    }
+]

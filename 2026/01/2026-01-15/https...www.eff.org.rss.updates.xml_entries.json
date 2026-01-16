@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Josh Richman",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-15T22:09:44.463904+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-15T20:30:48+00:00",
+        "description": "<div class=\"field field--name-body field--type-text-with-summary field--label-hidden\"><div class=\"field__items\"><div class=\"field__item even\"><p><span data-contrast=\"auto\">EFF last summer </span><a href=\"https://www.eff.org/deeplinks/2025/07/eff-court-protect-our-health-data-dhs\" target=\"_blank\" rel=\"noopener noreferrer\"><span data-contrast=\"none\">asked a federal judge</span></a><span data-contrast=\"auto\"> to block the federal government from using\u00a0Medicaid data to identify and deport immigrants. </span><span data-ccp-props=\"{}\">\u00a0</span></p>\n<p><span data-contrast=\"none\">We also </span><a href=\"https://www.eff.org/deeplinks/2025/06/dangers-consolidating-all-government-information\" target=\"_blank\" rel=\"noopener noreferrer\"><span data-contrast=\"none\">warned about the danger</span></a><span data-contrast=\"none\"> of the Trump administration consolidating all of the government\u2019s information into a single searchable, AI-driven interface with help from Palantir, a company that has a shaky-at",
+        "id": 4567580,
+        "language": "en",
+        "link": "https://www.eff.org/deeplinks/2026/01/report-ice-using-palantir-tool-feeds-medicaid-data",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 101,
+        "source_url": "https://www.eff.org/rss/updates.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Report: ICE Using Palantir Tool That Feeds On Medicaid Data",
+        "vote": 0
+    }
+]

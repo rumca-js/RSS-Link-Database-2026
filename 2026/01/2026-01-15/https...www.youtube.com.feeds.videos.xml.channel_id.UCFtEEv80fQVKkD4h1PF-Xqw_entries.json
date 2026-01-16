@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Microsoft",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-15T17:24:50.858473+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-15T17:00:51+00:00",
+        "description": "How is AI changing healthcare, and what does that mean for patients and clinicians?\n\nIn the first episode of On Second Thought, futurist Sinead Bovell speaks with Jonathan Carlson, Head of Microsoft Research Health Futures, about what changes when AI joins the healthcare journey. They explore the accelerating pace of AI adoption in medicine, the promise of more personalized care, and how AI is reshaping the relationship between clinicians, patients, and the technology that supports them.\n\nAbout the guest: Jonathan Carlson is a computational biologist and Head of Microsoft Research Health Futures. He has collaborated with labs around the world and published more than 100 papers at the intersection of machine learning, immunology, and virology. He holds a PhD in Computer Science from the University of Washington and a bachelor\u2019s degree in biology from Dartmouth College. Carlson led the Antigen Map Project, contributing to multiple clinical diagnostics and scientific discoveries through ",
+        "id": 4565129,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=WKrGCu398ss",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 793,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFtEEv80fQVKkD4h1PF-Xqw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/WKrGCu398ss/hqdefault.jpg",
+        "title": "What happens when AI enters healthcare? | On Second Thought",
+        "vote": 0
+    }
+]

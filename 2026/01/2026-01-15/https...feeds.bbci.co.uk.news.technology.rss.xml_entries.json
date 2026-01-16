@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-15T13:15:52.965988+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-15T06:14:24+00:00",
+        "description": "The site's co-founder speaks to the BBC for the online encyclopedia's 25th anniversary.",
+        "id": 4562887,
+        "language": "en-US",
+        "link": "https://www.bbc.com/news/videos/cql4076kyzeo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 28,
+        "source_url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cde7/live/fad03d70-f134-11f0-a422-4ba8a094a8fa.jpg",
+        "title": "Wikipedia's Jimmy Wales on where the name comes from",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "1littlecoder",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-16T01:08:39.438315+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-15T23:19:53+00:00",
+        "description": "TranslateGemma, a new collection of open translation models built on Gemma 3, available in 4B, 12B, and 27B parameter sizes. It represents a significant step forward in open translation, helping people communicate across 55 languages, no matter where they are or what device they own.\n\nBy distilling the knowledge of our most advanced large models into compact, high-performance open models, we have created a suite where efficiency doesn't require a compromise on quality.\n\n\ud83d\udd17 Links \ud83d\udd17\n\nhttps://blog.google/innovation-and-ai/technology/developers-tools/translategemma/\n\nhttps://huggingface.co/google/translategemma-4b-it\n\nhttps://www.kaggle.com/models/google/translategemma/\n\nCode / Notebook used in the video - https://www.kaggle.com/code/nulldata/translategemma-demo/\n\n\n\u2764\ufe0f If you want to support the channel \u2764\ufe0f\nSupport here:\nPatreon - https://www.patreon.com/1littlecoder/\nKo-Fi - https://ko-fi.com/1littlecoder\n\n\ud83e\udded Follow me on \ud83e\udded\nTwitter - https://twitter.com/1littlecoder",
+        "id": 4568752,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=JBr3cQph5hU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 948,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCpV_X0VrL8-jg3t6wYGS-1g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/JBr3cQph5hU/hqdefault.jpg",
+        "title": "TranslateGemma in 7 mins!",
+        "vote": 0
+    }
+]

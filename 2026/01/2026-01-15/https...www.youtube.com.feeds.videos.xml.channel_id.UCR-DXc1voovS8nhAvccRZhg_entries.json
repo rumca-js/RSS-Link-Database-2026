@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeff Geerling",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-15T09:24:30.156908+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-15T08:01:02+00:00",
+        "description": "Raspberry Pi's back with a new AI HAT.\n\nThis time it adds on 8 GB of RAM and the Hailo 10H for $20 over the original.\n\nRaspberry Pi provided the AI HAT+ 2 that I tested in this video. They did not pay for the video nor have any say in the video's contents. See my review sample policy here: https://github.com/geerlingguy/youtube?tab=readme-ov-file#sponsorships\n\nResources I mentioned in this video:\n\n  - Raspberry Pi AI HAT+ 2 ($130): https://www.raspberrypi.com/products/ai-hat-plus-2/\n  - Hailo 10H Product Page: https://hailo.ai/products/ai-accelerators/hailo-10h-ai-accelerator/\n  - Turbo Encabulator: https://www.youtube.com/watch?v=Ac7G7xOG2Ag\n  - llama.cpp on the Pi 5: https://www.jeffgeerling.com/blog/2024/llms-accelerated-egpu-on-raspberry-pi-5/)\n  - Qwen3 30B A3B model for 16GB Pi 5: https://huggingface.co/byteshape/Qwen3-30B-A3B-Instruct-2507-GGUF/\n  - Fujitsu Shrink Detection: https://www.youtube.com/watch?v=flD-WfJ4pUg\n  - Raspberry Pi AI Camera ($70): https://www.raspberrypi.co",
+        "id": 4561459,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=jRQaur0LdLE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 1,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 161,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR-DXc1voovS8nhAvccRZhg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/jRQaur0LdLE/hqdefault.jpg",
+        "title": "Look! More AI stuff!",
+        "vote": 0
+    }
+]
