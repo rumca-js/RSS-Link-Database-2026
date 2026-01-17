@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ETA PRIME",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-16T16:16:44.004501+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-16T15:07:13+00:00",
+        "description": "This Minisforum MS-A2 build might be the smallest PC you can make while still running a desktop-class GPU. With the Intel Arc Pro B50 16GB, it turns into a legit small form factor workstation and a surprising 1440p gaming machine.\n\nBuy the Intel ARC Pro B50 Here: https://click.linksynergy.com/link?id=QSbj1leJ2v4&offerid=1786142.4458312884288600182930471&type=2&murl=https%3a%2f%2fwww.newegg.com%2fintel-arc-pro-b50-16gb-workstation-sff-graphics-card%2fp%2fN82E16814883007%3fitem%3dN82E16814883007\nGet The MS-A2 Here: https://tidd.ly/4jPjrJC\n3D Print MINISFORUM MS-A2 / 01 + Intel Arc Pro B50 Replacement Shell: https://www.printables.com/model/1530921-minisforum-ms-a2-01-intel-arc-pro-b50-replacement\n\nn this video, I\u2019m building an ultra-small SFF workstation/1440p rig using the Minisforum MS-A2 (and it also fits the M01) \u2014 but with a twist: a dual-slot low-profile GPU. Since the stock chassis is designed for single-slot cards, I swap to a 3D-printed Printables case (Jared C01\u2019s design) to m",
+        "id": 4573680,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=Rfo4OX-0FyM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 100,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_0CVCfC_3iuHqmyClu59Uw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/Rfo4OX-0FyM/hqdefault.jpg",
+        "title": "Smallest Mini PC With a Desktop GPU! A Fast Workstation + Gaming Rig",
+        "vote": 0
+    }
+]

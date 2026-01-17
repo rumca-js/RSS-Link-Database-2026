@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Lunduke Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-16T22:18:08.182851+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-16T21:46:09+00:00",
+        "description": "The GNOME Foundation's war on X11 continues, with the Alpha release of GNOME 50. Announced by the same GNOME contributor who defaced XLibre project pages (calling them \"Nazis\").\n\n$89 Lifetime Lunduke Journal Subscriptions all January:\nhttps://lunduke.substack.com/p/89-lifetime-lunduke-journal-subscriptions-c1b\n\nMore from The Lunduke Journal:\nhttps://lunduke.com/",
+        "id": 4576585,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Taud8UipOF8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 616,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkK9UDm_ZNrq_rIXCz3xCGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/Taud8UipOF8/hqdefault.jpg",
+        "title": "GNOME 50 Alpha: \"Entirely Removes X11\"",
+        "vote": 0
+    }
+]

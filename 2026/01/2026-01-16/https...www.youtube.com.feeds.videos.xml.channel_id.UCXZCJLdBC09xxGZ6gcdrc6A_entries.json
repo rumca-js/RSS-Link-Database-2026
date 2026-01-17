@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "OpenAI",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-16T19:04:00.968257+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-16T18:06:04+00:00",
+        "description": "Starting today, ChatGPT Go is rolling out everywhere ChatGPT is available. In the US, Go is available for $8* per month.\n\nChatGPT Go is designed for people who want expanded access to our latest model, GPT\u20115.2 Instant, at a lower price point\u2014more messages, more uploads, and more image creation. With ChatGPT Go, you get:\n\n10x more messages, file uploads and image creation than the free tier, so you can keep chatting with no limits on GPT\u20115.2 Instant.\nLonger memory and context window, so ChatGPT can remember more helpful details about you over time.\n\n*US price displayed. Go pricing is localized in some markets.",
+        "id": 4575149,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/RXJ8zqblP5M",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 935,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXZCJLdBC09xxGZ6gcdrc6A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/RXJ8zqblP5M/hqdefault.jpg",
+        "title": "ChatGPT Go is rolling out everywhere ChatGPT is available.",
+        "vote": 0
+    }
+]

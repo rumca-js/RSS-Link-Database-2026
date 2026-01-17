@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-17T01:11:06.336538+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-16T08:00:00+00:00",
+        "description": "<p><span>\n\nIt's a holiday.  The cousins are over, and the kids are having a great\ntime.  Unfortunately, that includes rampaging through the kitchen.\nWe're trying to cook, so there's a \"no cutting through the kitchen\"\nrule.  Imagine enforcement looks like:\n\n</span>\n\n<p>\n\n</p>\n\n<blockquote>\n<p>\nKid: [dashes into kitchen, pursued by cousin]<br>\nAdult: Out of the kitchen!<br>\nKid: Sorry! [Continues their path, leaving through the other door; escapes\npursuit from more rule-abiding cousin]\n</p>\n</blockquote>\n\n\n\n<p>\n\nThis doesn't work!  The kid got what they wanted out of this interaction, and\nisn't going to change their behavior.  Instead, I need to make it be not worth\ntheir while:\n\n</p>\n\n<p>\n\n</p>\n\n<blockquote>\n<p>\nKid: [dashes into kitchen, pursued by cousin]<br>\nAdult: No cutting through the kitchen! [Physically rebuffs intruder]!<br>\nKid: Sorry! [Forced to leave through the door they entered by; caught by cousin.]\n</p>\n</blockquote>\n\n\n\n<p>\n\nOther examples:\n\n</p>\n\n<p>\n\n</p>\n\n<ul>\n\n<li><",
+        "id": 4577694,
+        "language": "en-US",
+        "link": "https://www.jefftk.com/p/forfeiting-ill-gotten-gains",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 163,
+        "source_url": "https://www.jefftk.com/news.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Forfeiting Ill-Gotten Gains",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/Nightlark192",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-16T05:06:46.332428+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-16T04:43:56+00:00",
+        "description": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Nightlark192\"> /u/Nightlark192 </a> <br/> <span><a href=\"https://neodyme.io/en/blog/drone_hacking_part_1/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/ReverseEngineering/comments/1qe6jxn/drone_hacking_part_1_dumping_firmware_and/\">[comments]</a></span>",
+        "id": 4569768,
+        "language": "",
+        "link": "https://www.reddit.com/r/ReverseEngineering/comments/1qe6jxn/drone_hacking_part_1_dumping_firmware_and",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 476,
+        "source_url": "https://www.reddit.com/r/ReverseEngineering/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Drone Hacking Part 1: Dumping Firmware and Bruteforcing ECC",
+        "vote": 0
+    }
+]

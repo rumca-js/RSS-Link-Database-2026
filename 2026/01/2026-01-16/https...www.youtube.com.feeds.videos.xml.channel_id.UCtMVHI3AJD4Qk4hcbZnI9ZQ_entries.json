@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "SomeOrdinaryGamers",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-17T00:25:49.053201+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-16T23:48:04+00:00",
+        "description": "Hello guys and gals, it's me Mutahar again! This time we take a look at how hackers are using Copilot to decieve it into handing out information it shouldn't. Thankfully these things are being patched but for every exploit that gets plugged many more are waiting to be found. This is why these \"agents\" should stay far away from our files in the future. Thanks for watching!\nLike, Comment and Subscribe for more videos!",
+        "id": 4577476,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=k6wI9qqOvec",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 309,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtMVHI3AJD4Qk4hcbZnI9ZQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/k6wI9qqOvec/hqdefault.jpg",
+        "title": "MICROSLOP COPILOT GOT HACKED",
+        "vote": 0
+    }
+]

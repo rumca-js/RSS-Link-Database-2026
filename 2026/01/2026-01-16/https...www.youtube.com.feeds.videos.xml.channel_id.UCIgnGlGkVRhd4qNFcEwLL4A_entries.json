@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "AI Search",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-16T04:29:41.933861+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-16T03:29:58+00:00",
+        "description": "FLUX2 Klein review & installation tutorial. Flux2 klein vs Qwen image 2512 vs Z image turbo. #ai #aitools #aiart #ainews\n\nThanks to our sponsor Mago. Go to https://www.mago.studio/?utm_source=aisearch&utm_campaign=ais to start transforming and restyling your videos. Use code AISEARCH for 50% OFF your 1st month of Pro Plan! Limited to the first 500 users!\n\nhttps://bfl.ai/models/flux-2-klein\n\nDownload models here: \n4B: https://huggingface.co/Comfy-Org/flux2-klein-4B/tree/main/split_files\n9B: https://huggingface.co/Comfy-Org/flux2-klein-9B/tree/main/split_files\n\nUpdate: They also added some fp8 fp4 models here https://huggingface.co/collections/black-forest-labs/flux2\n\nText to image workflow http://raw.githubusercontent.com/Comfy-Org/workflow_templates/refs/heads/main/templates/image_flux2_klein_text_to_image.json\n\nImage editing workflow https://raw.githubusercontent.com/Comfy-Org/workflow_templates/refs/heads/main/templates/image_flux2_klein_image_edit_4b_distilled.json\n\n4B GGUFs https:",
+        "id": 4569632,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=2OrOufa3eoc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 806,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIgnGlGkVRhd4qNFcEwLL4A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/2OrOufa3eoc/hqdefault.jpg",
+        "title": "New top open-source AI image model just dropped! Ultra-fast & light",
+        "vote": 0
+    }
+]

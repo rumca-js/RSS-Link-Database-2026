@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/Leniwcowaty",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-16T11:07:46.130618+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-16T09:53:57+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>So recently I&#39;ve been made aware of the port of Armbian to SpacemiT Muse Pi Pro, which also works with base Muse Pi, which I own.</p> <p>It&#39;s not a powerhouse - an M1 8-core 1.6 GHz CPU paired with 8 GB of LPDDR4X memory. However I&#39;d like to try and spin up Ollama on this thing and run some small model, like Gemma3 1B.</p> <p>However, when I come to Ollama Github and try to execute the provided script, I get:</p> <p><code>Unsupported architecture: riscv64</code></p> <p>I tried following this blogpost from Jeff Geerling:</p> <p><a href=\"https://www.jeffgeerling.com/blog/2025/how-build-ollama-run-llms-on-risc-v-linux/\">https://www.jeffgeerling.com/blog/2025/how-build-ollama-run-llms-on-risc-v-linux/</a></p> <p>Using official Ollama git repo, instead of the outdated fork he used, in theory the compilation finished with no errors, but it didn&#39;t produce &#39;ollama&#39; binary.</p> <p>I&#39;m not a programmer by any means, can somebody poin",
+        "id": 4571247,
+        "language": "en",
+        "link": "https://www.reddit.com/r/RISCV/comments/1qebxnk/compiling_and_running_ollama_on_riscv_devboard",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 471,
+        "source_url": "https://www.reddit.com/r/RISCV/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Compiling and running Ollama on RISC-V devboard? [SpacemiT Muse Pi]",
+        "vote": 0
+    }
+]

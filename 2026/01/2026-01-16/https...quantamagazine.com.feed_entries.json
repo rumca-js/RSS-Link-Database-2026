@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ben Brubaker",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-16T15:38:24.625036+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-16T15:10:10+00:00",
+        "description": "The math of data structures helps us understand how different storage systems come with different trade-offs between resources such as time and memory.            <p>The post <a href=\"https://www.quantamagazine.org/why-theres-no-single-best-way-to-store-information-20260116/\" target=\"_blank\">Why There\u2019s No Single Best Way To Store Information</a> first appeared on <a href=\"https://www.quantamagazine.org\" target=\"_blank\">Quanta Magazine</a></p>",
+        "id": 4573248,
+        "language": "en-US",
+        "link": "https://www.quantamagazine.org/why-theres-no-single-best-way-to-store-information-20260116",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 490,
+        "source_url": "https://quantamagazine.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.quantamagazine.org/wp-content/uploads/2026/01/DataStructures-crKristinaArmitage-Default-1.webp",
+        "title": "Why There\u2019s No Single Best Way To Store Information",
+        "vote": 0
+    }
+]

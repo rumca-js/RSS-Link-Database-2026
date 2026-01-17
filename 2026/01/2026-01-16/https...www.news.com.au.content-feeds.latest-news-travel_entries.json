@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-16T01:26:11.980994+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-16T01:26:10+00:00",
+        "description": "Two Qantas flight attendants reveal the perk that is so good it prompted one of their boyfriends to quit his work from home job and change careers.",
+        "id": 4568868,
+        "language": "en-au",
+        "link": "https://www.news.com.au/travel/travel-advice/flights/best-job-in-the-world-why-qantas-flight-attendants-love-this-perk/news-story/12d789c157484a10f44abb7c2c999469?from=rss-basic",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 409,
+        "source_url": "https://www.news.com.au/content-feeds/latest-news-travel",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://content.api.news/v3/images/bin/42f561d8b6d850f717707701df739a56?width=320",
+        "title": "\u2018Best job in the world\u2019: Qantas perk no one talks about",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-16T17:28:21.905392+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-16T16:02:04+00:00",
+        "description": "https://cppcon.org\n---\n\nThe Evolution of CMake: 25 Years of C++ Build Portability - Bill Hoffman - CppCon 2025\n---\n\nCMake 4.0 was released March 28, 2025, about 25 years after the initial launch on August 31 2000. CMake has come a long way in that time, but the work is never done. The goal of the project was to bring cross-platform build portability to C++ developers. In the envisioned future, C++ developers could easily create projects that used any C++ library they had access to and develop applications that would work on any platform. This would be possible without having to know how to invoke a compiler or a linker or how to create a shared library. In addition, testing, installation, and packaging would be made available to the masses. The original domain was scientific computing, and it let scientists focus on the science instead of the intricacies of various tools that compile, test, and package software. Many scientists and engineers working on the world's hardest problems hav",
+        "id": 4574300,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=wPZV2hBNJmo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/wPZV2hBNJmo/hqdefault.jpg",
+        "title": "The Evolution of CMake: 25 Years of C++ Build Portability - Bill Hoffman - CppCon 2025",
+        "vote": 0
+    }
+]
