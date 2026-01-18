@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Techlore",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-17T18:10:09.099904+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-17T17:00:40+00:00",
+        "description": "You don't have to trust Obscura\u2014you just have to trust that not both Obscura and Mullvad are compromised. Henry sat down with Carl, former Bitcoin Core developer and founder of Obscura VPN, to discuss how it's the first VPN that mathematically can't log your activity, what makes it censorship-resistant against networks like the Great Firewall, and what it really means to build privacy that's more than \"a pinky promise.\"\n\n\ud83d\udcf1 RESOURCES IN VIDEO\n\u2022 Obscura: https://obscura.net\n\u2022 GitHub: https://github.com/Sovereign-Engineering/obscuravpn-client\n\u2022 Trust, 2-Party Relays, and QUIC: https://obscura.net/blog/bootstrapping-trust/\n\u2022 Mullvad: https://mullvad.net\n\n\ud83d\udd0e RELATED VIDEOS\nhttps://youtu.be/UIA6iNPPgUg\nhttps://youtu.be/TFTdFPWxQfY\nhttps://youtu.be/KzkQKB9msUI\nhttps://youtu.be/EwgTKdzTELY\n\n\ud83e\udde1 SUPPORT TECHLORE\nSupport our mission to defend digital rights for everyone:\nhttps://www.youtube.com/channel/UCs6KfncB4OV6Vug4o_bzijg/join\n\u2022 All Our Support Methods: https://techlore.tech/support/\n\n\ud83d\udd10 MORE ",
+        "id": 4581884,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=PgoCVnBRyjY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 327,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/PgoCVnBRyjY/hqdefault.jpg",
+        "title": "It's Time for the VPN Industry to Innovate (Obscura Interview)",
+        "vote": 0
+    }
+]

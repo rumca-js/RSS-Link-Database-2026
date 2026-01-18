@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Dave's Garage",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-17T22:23:06.162764+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-17T21:49:43+00:00",
+        "description": "Curious how to run ethernet more than 100 yards? Find out!",
+        "id": 4583336,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=EpEX9IWol18",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 907,
+        "source_url": "https://youtube.com/channel/UCNzszbnvQeFzObW0ghk0Ckw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/EpEX9IWol18/hqdefault.jpg",
+        "title": "Too Far for WiFi? The Ultimate 600ft PoE Camera Setup!",
+        "vote": 0
+    }
+]

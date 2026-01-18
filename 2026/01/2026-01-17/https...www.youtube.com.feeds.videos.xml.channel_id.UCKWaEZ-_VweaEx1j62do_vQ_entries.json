@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-17T15:22:13.960942+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-17T12:01:04+00:00",
+        "description": "Ready to become a certified SOC Analyst - QRadar SIEM V7.5 Plus CompTIA Cybersecurity Analyst? Register now and use code IBMTechYT20 for 20% off of your exam \u2192 https://ibm.biz/Bdb6wi\n\nLearn more about Ethical Hacking here \u2192 https://ibm.biz/Bdb6wj\n\nThink your systems are safe? Think again. \ud83d\udca1 Jeff Crume & Patrick Fussell share real-world ethical hacking war stories, breaking down Zero Trust, IAM vulnerabilities, and advanced C2 attacks. \ud83d\ude80 Learn assume breach strategies, lateral movement, and techniques to level up your cybersecurity skills!\n\nRead the Cost of a Data Breach report  \u2192 https://ibm.biz/Bdb6wZ\n\n#ethicalhacking #iam #zerotrust #c2",
+        "id": 4580894,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Xc8ZuxM5YIk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/Xc8ZuxM5YIk/hqdefault.jpg",
+        "title": "Ethical Hacking War Stories: Zero Trust, IAM & Advanced C2 Tactics",
+        "vote": 0
+    }
+]

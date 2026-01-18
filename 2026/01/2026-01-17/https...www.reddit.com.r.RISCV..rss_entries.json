@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/camel-cdr-",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-17T18:11:28.032148+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-17T17:16:51+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>After a bit of trouble, we finally managed to run rvv-bench on the X100, thanks to <a href=\"/u/superkoning\">u/superkoning</a> and <a href=\"/u/brucehoult\">u/brucehoult</a>.</p> <p>TLDR:</p> <p>X100 behaves quite similarly to the X60, but it got rid of some of its problems/idiosyncrasies and seems to generally get about 2x performance per cycle in simple code, but &gt;3x for more complex things. The maximum floating-point bandwidth per cycle has only slightly increased.</p> <p>E.g. base64 encoding achieves about 1.1 GB/s on the X60 and about 7.2 GB/s on the X100 (now taking frequency into account), while the mandelbrot calculation only saw an improvement from 0.14 GB/s to 0.26 GB/s.</p> <p>General findings:</p> <ul> <li>most scalar integer instructions seem to be 3-issue, including bitmanip instructions</li> <li>2-issue scalar load, 1-issue scalar store</li> <li>2-issue scalar FP</li> <li>RVV has single-issue instructions DLEN=256, VLEN=256. It&#39;s pl",
+        "id": 4581892,
+        "language": "en",
+        "link": "https://www.reddit.com/r/RISCV/comments/1qfixa4/rvv_benchmark_spacemit_x100",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 471,
+        "source_url": "https://www.reddit.com/r/RISCV/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "RVV benchmark SpacemiT X100",
+        "vote": 0
+    }
+]

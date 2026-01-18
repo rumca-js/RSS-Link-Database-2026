@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Lunduke Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-17T20:03:03.271438+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-17T19:09:29+00:00",
+        "description": "The Vendefoul Wolf Linux Distro has a new release based on Devuan, XLibre, & IceWM.  And it uses only 217 MB of RAM. The way it should be.\n\n$89 Lifetime Lunduke Journal Subscriptions all January:\nhttps://lunduke.substack.com/p/89-lifetime-lunduke-journal-subscriptions-c1b\n\nMore from The Lunduke Journal:\nhttps://lunduke.com/",
+        "id": 4582627,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=WGf5OeL4YHE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 616,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkK9UDm_ZNrq_rIXCz3xCGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/WGf5OeL4YHE/hqdefault.jpg",
+        "title": "Modern Linux Using Only 200MB of RAM?",
+        "vote": 0
+    }
+]

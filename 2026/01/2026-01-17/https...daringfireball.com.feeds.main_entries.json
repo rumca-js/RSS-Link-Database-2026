@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Gruber",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-17T21:53:42.284463+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-17T21:13:21+00:00",
+        "description": "<h2>Let\u2019s Just Get It Out of the Way and Talk About the New Icons First, but Let\u2019s Also Use the Icons as a Proxy for Talking About the Broader Software Design Problems at Apple</h2>\n\n<p>There\u2019s a lot of hate for the new app icons of the entire Creator Studio suite, but while I think the icons are tragically simplistic, I think the hate is misplaced.</p>\n\n<p><a href=\"https://daringfireball.net/misc/2026/01/apple-creator-suite-icons.png\" class=\"noborder\">\n<img\n  src = \"https://daringfireball.net/misc/2026/01/apple-creator-suite-icons.png\"\n  alt = \"Screenshot of the icons for the whole lineup of apps in the Apple Creator Studio.\"\n  width = 500\n/></a></p>\n\n<p>The problem isn\u2019t with these icons in and of themselves. The problem is with the rules Apple has imposed for Liquid Glass app icons, along with their own style guidelines for how to comply with those rules. Given Apple\u2019s own self-imposed constraints for how icons must look (with the <a href=\"https://atp.fm/643\">mandatory squircle</a>",
+        "id": 4583250,
+        "language": "",
+        "link": "https://daringfireball.net/2026/01/thoughts_and_observations_regarding_apple_creator_studio",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 489,
+        "source_url": "https://daringfireball.com/feeds/main",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://daringfireball.net/misc/2026/01/apple-creator-suite-icons.png",
+        "title": "\u2605 Thoughts and Observations Regarding Apple Creator Studio",
+        "vote": 0
+    }
+]

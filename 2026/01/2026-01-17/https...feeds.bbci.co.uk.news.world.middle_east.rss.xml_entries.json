@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-17T13:56:17.476524+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-17T12:06:47+00:00",
+        "description": "This comes after Syria's government announced its first formal recognition of Kurdish national rights since 1946.",
+        "id": 4580495,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/ce3k279e53eo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 525,
+        "source_url": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1cc9/live/513c2190-f394-11f0-9212-79f406d84709.jpg",
+        "title": "Syrian army moves east of Aleppo after Kurdish forces withdraw",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-17T07:21:11.460641+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-17T01:12:59+00:00",
+        "description": "Stargazing, once a niche hobby for astronomers and science clubs, has gone mainstream and is boosting astrotourism.",
+        "id": 4578884,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/cz7ylwr803no",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 522,
+        "source_url": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4bab/live/2d3686f0-f119-11f0-ad9f-f78b238cb539.jpg",
+        "title": "India's astrotourism boom draws urban stargazers beyond city limits",
+        "vote": 0
+    }
+]
