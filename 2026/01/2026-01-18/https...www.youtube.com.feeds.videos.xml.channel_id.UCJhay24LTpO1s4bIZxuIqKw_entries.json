@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ACCU Conference",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-18T16:45:56.844310+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-18T15:03:05+00:00",
+        "description": "ACCU Membership: https://tinyurl.com/ydnfkcyn\n---\n\nNotation in Programming: Exploring BQN, Symbolic Manipulation, and Expressive Syntax - Cheery Chen - ACCU 2025 Short Talks\n---\n\nHow can good notation unlock new ideas in programming? In this ACCU 2025 lightning talk, Cheery Chen explores the power of notation in programming, mathematics, and computational thinking. Focusing on symbolic notation and its role in expressing ideas clearly and beautifully, this talk introduces the BQN language and compares it with familiar C++ syntax to highlight the expressive potential of alternative programming languages.\n\nChen starts by showing the historical roots of algebraic notation, Arabic numerals, and the very word \u201calgorithm,\u201d then dives into how symbolic manipulation in programming\u2014like calculating the arithmetic mean and quadratic mean\u2014reveals underlying mathematical structures. Through examples from BQN, a modern array programming language, she demonstrates how computational notation can be ",
+        "id": 4587888,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=cfHwHp4EN8g",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 421,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJhay24LTpO1s4bIZxuIqKw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/cfHwHp4EN8g/hqdefault.jpg",
+        "title": "Notation in Programming: Exploring BQN, Symbolic Manipulation, and Expressive Syntax - Cheery Chen",
+        "vote": 0
+    }
+]

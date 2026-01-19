@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Russell Brand",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-18T16:41:34.272758+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-18T16:03:10+00:00",
+        "description": "Unconfiscated, uncensorable money changes the game.",
+        "id": 4587852,
+        "language": "en-US",
+        "link": "https://www.youtube.com/shorts/gz_l0HjrLCY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 286,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCswH8ovgUp5Bdg-0_JTYFNw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/gz_l0HjrLCY/hqdefault.jpg",
+        "title": "Unconfiscated, uncensorable money changes the game.",
+        "vote": 0
+    }
+]

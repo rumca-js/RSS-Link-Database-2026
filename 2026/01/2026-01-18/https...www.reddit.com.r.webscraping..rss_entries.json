@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/Independent-Hold9560",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-18T05:19:07.441551+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-18T04:48:26+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>When working with scraping / ingestion pipelines, I keep hitting the same problems:</p> <ul> <li>Pages that look normal but are JS-only</li> <li>Login / consent walls discovered too late</li> <li>Sites that change structure constantly</li> <li>Crawling stuff that was never worth it</li> </ul> <p>I\u2019m curious how others handle this <em>before</em> writing scrapers.</p> <p>Do you:</p> <ul> <li>Just try and see?</li> <li>Use heuristics?</li> <li>Ignore the problem?</li> </ul> <p>I\u2019m exploring whether a tool that analyzes URLs first (crawl feasibility, extractability, stability) would be useful, but I\u2019m not sure if this is just my own pain.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Independent-Hold9560\"> /u/Independent-Hold9560 </a> <br/> <span><a href=\"https://www.reddit.com/r/webscraping/comments/1qfz8qr/how_do_you_decide_if_a_website_is_worth_crawling/\">[link]</a></span> &#32; <span><a href=\"https://www.reddi",
+        "id": 4584874,
+        "language": "en",
+        "link": "https://www.reddit.com/r/webscraping/comments/1qfz8qr/how_do_you_decide_if_a_website_is_worth_crawling",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 467,
+        "source_url": "https://www.reddit.com/r/webscraping/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "How do you decide if a website is worth crawling before scraping it?",
+        "vote": 0
+    }
+]

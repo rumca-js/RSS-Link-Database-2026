@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Louis Rossmann",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-18T23:56:38.149178+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-18T22:58:03+00:00",
+        "description": "https://www.nyc.gov/mayors-office/news/2026/01/executive-order-11\n\nhttps://www.nytimes.com/2026/01/15/nyregion/mamdani-fees-fines-businesses.html\n\nhttps://youtu.be/yi8_9WGk3Ok?list=PLkVbIsAWN2ls-WXrvFtAxoJ_VZIMSG9Z3\nhttps://www.youtube.com/watch?v=5oDjSoic9Zk&list=PLkVbIsAWN2ls-WXrvFtAxoJ_VZIMSG9Z3&index=4\nhttps://blog.rossmanngroup.com/dca-license-number-citations-not-feeling-like-much-of-a-cultivated-garden-right-now/\nhttps://www.youtube.com/watch?v=nSlGTVInDOI",
+        "id": 4590091,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=ZCaOuftYMMg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 201,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCl2mFZoRqjw_ELax4Yisf6w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/ZCaOuftYMMg/hqdefault.jpg",
+        "title": "I support NYC Mayor Mamdani's executive order 11: here's what I hope it focuses on",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ETA PRIME",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-18T15:31:05.743997+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-18T15:06:00+00:00",
+        "description": "Testing the OneXFly Apex in dock mode at 80W with the Ryzen AI Max+ 395 to see how far this handheld can really go. Synthetic benchmarks, real 1440p gaming, temps, and the tuning trick that boosted performance.\n\nhttps://onexplayerstore.com/products/onexfly-apex-worlds-most-powerful-8-gaming-handheld?srsltid=AfmBOorLcSLCHJ5U7aqEXtrVIcY4WFCAWjMyqWJmpsRL7JIRcDqMh07R&variant=51844368367910\n\nIn this video I push the OneXFly Apex (Ryzen AI Max+ 395, 128GB unified memory) beyond typical handheld settings by running 80W TDP on wall power. I compare OneXConsole\u2019s 80W preset to a custom profile using Universal x86 Tuning Utility, showing higher CPU boost behavior and a big jump in CPU scores. Then it\u2019s onto GPU testing with Geekbench OpenCL and 3DMark Time Spy, followed by real-world gaming at 1440p High with FSR Balanced where needed.\nI also cover dock-mode essentials like TDP/fan control, how this unit handles sustained load, and what thermals look like during extended gaming (average and max",
+        "id": 4587472,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=HxhtKVFZXq0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 100,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_0CVCfC_3iuHqmyClu59Uw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/HxhtKVFZXq0/hqdefault.jpg",
+        "title": "ONEXFLY APEX 80W Dock Mode Is INSANE!",
+        "vote": 0
+    }
+]

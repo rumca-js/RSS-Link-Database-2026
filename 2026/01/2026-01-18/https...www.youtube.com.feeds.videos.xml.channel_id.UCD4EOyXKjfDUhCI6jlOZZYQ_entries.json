@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Eli the Computer Guy",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-18T19:55:28.300765+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-18T19:11:52+00:00",
+        "description": "Code and Workbook on Github -- https://github.com/SiliconDojo/In-Person-Classes/tree/main/Intro%20to%20Python%20and%20AI%20Programming%20(Full%20Day)\n\nSupport Content at - https://donorbox.org/etcg\nLinkedIn at - https://www.linkedin.com/in/eli-etherton-a15362211/\n\n\nThere are no prerequisites. Even non technical people can attend as long as you're willing to try. Our style is to slowly build up concepts and then to have short labs that reinforce concepts.\n\nPlease bring your own computer so that we can make sure your system is setup properly, and you get comfortable working with your own computer. We will have lab computers if three are issues is some people need them.\n\nYou will learn what Python is and why it matters. We'll setup VSCode on your computer and the Ollama AI framework so that you can create scripts that use Artificial Intelligence.\n\nHalf the class will be seminar and half will be you writing code so make sure to come ready to really learn.\n\nThis class will go over:\n\nWhat i",
+        "id": 4589004,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=LJWMhmo-fAE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 102,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCD4EOyXKjfDUhCI6jlOZZYQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/LJWMhmo-fAE/hqdefault.jpg",
+        "title": "Intro to Python and AI Programming (Full Day)",
+        "vote": 0
+    }
+]
