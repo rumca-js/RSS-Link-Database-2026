@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-19T17:00:45.056022+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-19T16:02:08+00:00",
+        "description": "https://cppcon.org\n---\n\nLLMs in the Trenches: Boosting C++ System Programming with AI - Ion Todirel - CppCon 2025\n---\n\nLarge Language Models (LLMs) are transforming the way developers approach systems programming, from accelerating development to uncovering new optimization opportunities will less effort than ever before. In this talk, we\u2019ll explore how LLMs can be applied to real-world C++ systems code, including performance tuning, low-level debugging, refactoring, and code generation. We\u2019ll look at real world projects examples on both Linux and on Windows, and we\u2019ll explore how they were built leveraging LLMs! Drawing from hands-on experience building performance-critical software, we\u2019ll demonstrate workflows that integrate LLMs with human expertise to drive meaningful productivity gains, while avoiding common pitfalls and hallucination traps. Attendees will leave with practical techniques, insights into model behavior, and an honest evaluation of where LLMs shine, and where human ",
+        "id": 4595567,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=J9CdkYtxB2o",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/J9CdkYtxB2o/hqdefault.jpg",
+        "title": "LLMs in the Trenches: Boosting C++ System Programming with AI - Ion Todirel - CppCon 2025",
+        "vote": 0
+    }
+]

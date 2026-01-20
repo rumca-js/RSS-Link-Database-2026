@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-20T02:49:17.204381+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-19T05:00:00+00:00",
+        "description": "<img src=\"https://imgs.xkcd.com/comics/aurora_coolness.png\" title=\"I've had countless nights where the line never left the bottom zone of the graph, but the few moments where it's climbed all the way to the top have made up for them all.\" alt=\"I've had countless nights where the line never left the bottom zone of the graph, but the few moments where it's climbed all the way to the top have made up for them all.\" />",
+        "id": 4599154,
+        "language": "en",
+        "link": "https://xkcd.com/3196",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 573,
+        "source_url": "https://xkcd.com/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://imgs.xkcd.com/comics/aurora_coolness.png",
+        "title": "Aurora Coolness",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "OpenAI",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-19T18:22:18.222208+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-19T16:00:00+00:00",
+        "description": "OpenAI CFO Sarah Friar and Khosla Ventures founder Vinod Khosla argue the greatest challenges in AI right now are keeping up with demand and making sure more people get the benefit. They unpack what's driving big investments in compute and why this moment is different from other technology cycles \u2014 with meaningful advances in health, agents, and robotics still ahead. \n\nChapters\n\n00:00:00 \u2014 What\u2019s the AI story of 2026?\n00:07:28 \u2014 AI in healthcare\n00:12:01 \u2014 Scaling compute to match revenue\n00:18:05 \u2014 Difference between now and dot-com bubble\n00:27:41 \u2014 Ads in ChatGPT\n00:30:05 \u2014 Will consumers have more than one AI subscription?\n00:36:41 \u2014 Winning in enterprise\n00:39:44 \u2014 How can startups succeed?\n00:44:05 \u2014 Robotics and beyond",
+        "id": 4596309,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Z3D2UmAesN4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 935,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXZCJLdBC09xxGZ6gcdrc6A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/Z3D2UmAesN4/hqdefault.jpg",
+        "title": "State of the AI Industry \u2014 the OpenAI Podcast Ep. 12",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Joel Khalili",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-19T07:30:28.317268+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-19T07:00:00+00:00",
+        "description": "As Europe\u2019s longstanding alliance with the US falters, its push to become a self-sufficient AI superpower has become more urgent.",
+        "id": 4591830,
+        "language": "en-US",
+        "link": "https://www.wired.com/story/europe-race-us-deepseek-sovereign-ai",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 396,
+        "source_url": "https://www.wired.com/feed/category/business/latest/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media.wired.com/photos/696af5f8760211e43e025ef8/master/pass/DeepSeek-Europe-Race-Business-2196250439.jpg",
+        "title": "The Race to Build the DeepSeek of Europe Is On",
+        "vote": 0
+    }
+]

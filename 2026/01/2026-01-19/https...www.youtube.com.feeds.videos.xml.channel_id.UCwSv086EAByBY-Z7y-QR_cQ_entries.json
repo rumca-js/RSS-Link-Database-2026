@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Uszi",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-19T22:00:15.021135+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-19T21:45:34+00:00",
+        "description": null,
+        "id": 4597750,
+        "language": "pl-PL",
+        "link": "https://www.youtube.com/watch?v=cJiXDgZ9-bA",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 376,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCwSv086EAByBY-Z7y-QR_cQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/cJiXDgZ9-bA/hqdefault.jpg",
+        "title": "Gawkowski usuwa \"ma\u0142\u017conk\u0119\"! Rewolucja w aktach \u015blubu!",
+        "vote": 0
+    }
+]

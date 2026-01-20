@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Elizabeth Dwoskin, Caroline O'Donovan",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-19T10:34:23.252402+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-19T10:00:24+00:00",
+        "description": "Industry leaders long critical of San Francisco have fueled an online campaign against a proposed billionaire tax, prompting some of California\u2019s richest to relocate.",
+        "id": 4592654,
+        "language": "en-US",
+        "link": "https://www.washingtonpost.com/technology/2026/01/19/california-wealth-tax-exodus",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 364,
+        "source_url": "https://feeds.washingtonpost.com/rss/business/technology",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "How tech billionaires spurred an exodus from California",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-19T17:01:59.672758+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-19T16:20:23+00:00",
+        "description": "Police and forensic experts are investigating the cause of their deaths at a private nursery in the west of the city.",
+        "id": 4595586,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/c99k3lxzjnpo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 525,
+        "source_url": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c7c/live/d8a92a10-f54c-11f0-a712-a38af32eabc0.jpg",
+        "title": "Two babies die in incident at unlicensed Jerusalem daycare centre",
+        "vote": 0
+    }
+]
