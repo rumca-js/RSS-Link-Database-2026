@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Fireship",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-20T18:21:23.609851+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-20T17:58:16+00:00",
+        "description": "Try out the Junie coding agent in your JetBrains IDE - https://jb.gg/Fireship-Junie-AI\n\nComputing has come a long way since we figured out that 1s and 0s were pretty useful. In today's video, we look at the history of programming from the Turing machine to modern JavaScript...\n\n#coding #programming #tech #softwaredevelopment \n\n\ud83d\udd25 Brain food for developers\n- https://fireship.dev\n\n\ud83c\udfa8 My Editor Settings\n\n- Atom One Dark \n- vscode-icons\n- Fira Code Font\n\n\ud83d\udd16 Topics Covered\n- Alan Turing\n- Werner Buchholz\n- Kathleen Booth\n- John McCarthey\n- Edsger Dijkstra\n- Dennis Ritchie\n- Ken Thompson\n- Bjarne Stroustrup\n- Anders Hejlsberg\n- Guido Van Rossum\n- James Gosling\n- Brendan Eich",
+        "id": 4605170,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=9uW6B9LPntY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 584,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/9uW6B9LPntY/hqdefault.jpg",
+        "title": "A brief history of programming...",
+        "vote": 0
+    }
+]

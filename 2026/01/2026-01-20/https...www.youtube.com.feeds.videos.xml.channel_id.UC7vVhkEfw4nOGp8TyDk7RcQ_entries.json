@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Boston Dynamics",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-20T16:37:02.863571+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-20T14:56:51+00:00",
+        "description": "Learn about this latest in Spot, Orbit, and our new 5.1 release at: https://bostondynamics.com/blog/a-new-perspective-for-facilities-inspection/\n\nOur all new Spot Cam 2 payload brings the familiar capabilities of Spot Cam+IR with some key new features that give your optional acoustic imager all-new perspectives from Spot. This second generation Spot Cam now has a 4K pan-tilt-zoom camera with 25x optical zoom, an integrated radiometric thermal camera, and a 360 x 130\u00ba spherical camera. \n\nThe on-board accessory bay is compatible with Sorama L642 or Fluke SV600 acoustic imager - bringing more flexibility for sensor pointing for acoustic inspections. The accessory bay will allow for future payload attachments and integrations.\n\nThe new Spot Cam can be front or rear mounted, and is equipped with eight ultra-bright LED lights for illumination in dark environments.",
+        "id": 4604077,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=de06_CLqrM0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 451,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7vVhkEfw4nOGp8TyDk7RcQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/de06_CLqrM0/hqdefault.jpg",
+        "title": "Spot Cam 2  | Boston Dynamics",
+        "vote": 0
+    }
+]

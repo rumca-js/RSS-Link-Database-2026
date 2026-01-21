@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kevin Stratvert",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-20T08:12:01.694865+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-20T08:00:17+00:00",
+        "description": "Want to generate AI videos for free, directly on your own PC? In this video, I\u2019ll show you how to run powerful open-source AI video models locally, with no subscriptions, no usage limits, and full privacy.\n\nWe\u2019ll walk step-by-step through installing Pinokio, a one-click installer that makes running AI tools easy and then use Wan2GP to generate videos using models like LTX-2 and Wan. These models don\u2019t just create video, they can also generate audio, sound effects, and narration alongside your clips.\n\nYou\u2019ll learn:\n- What hardware you need (and how much VRAM really matters)\n- How to install everything with just a few clicks\n- How to generate videos from text prompts or images\n- How long generation actually takes on a consumer GPU\n- Where all your generated videos are stored locally\n\nIf you want cloud-quality AI video generation without cloud costs, this is one of the best setups you can run today.\n\nHost: Kevin Stratvert\n\n\ud83d\udcda RESOURCES\n- Download Pinokio: https://pinokio.co\n\n\u231a TIMESTAMPS\n",
+        "id": 4600468,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=G2Ec3h5CfA8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 958,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfJT_eYDTmDE-ovKaxVE1ig",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/G2Ec3h5CfA8/hqdefault.jpg",
+        "title": "Free AI Video Generator on Your PC (No Subscriptions, No Limits)",
+        "vote": 0
+    }
+]

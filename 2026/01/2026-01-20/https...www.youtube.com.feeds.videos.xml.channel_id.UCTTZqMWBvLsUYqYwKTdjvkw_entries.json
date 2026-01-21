@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mateusz Chrobok",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-20T14:43:32.962320+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-20T13:35:29+00:00",
+        "description": "Uwaga, darmowa wiedza! \n3 minuty z AI czyli nowy, edukacyjny format. Daj zna\u0107, co o nim my\u015blisz \ud83d\udc47\nBadanie: https://arxiv.org/pdf/2601.03192 #shorts",
+        "id": 4603097,
+        "language": "pl-PL",
+        "link": "https://www.youtube.com/shorts/dz3ehVPQb2M",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 211,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTTZqMWBvLsUYqYwKTdjvkw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/dz3ehVPQb2M/hqdefault.jpg",
+        "title": "\ud83e\udd63 Dlaczego AI s\u0142abo gotuje?",
+        "vote": 0
+    }
+]

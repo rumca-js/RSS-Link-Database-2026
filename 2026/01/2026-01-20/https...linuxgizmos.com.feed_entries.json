@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-20T00:50:46.704134+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-20T00:04:23+00:00",
+        "description": "Recently featured on Tindie, the MultiCM Flasher is a parallel programming device designed to flash multiple Raspberry Pi Compute Module variants simultaneously. The device supports eMMC-based Compute Modules across several generations, including CM3, CM3+, CM4S, CM4, and CM5. The MultiCM Flasher is designed for programming up to seven Compute Modules in parallel, with support for [&#8230;]",
+        "id": 4598604,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/multicm-flasher-enables-parallel-programming-of-raspberry-pi-compute-modules",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "MultiCM Flasher enables parallel programming of Raspberry Pi Compute Modules",
+        "vote": 0
+    }
+]

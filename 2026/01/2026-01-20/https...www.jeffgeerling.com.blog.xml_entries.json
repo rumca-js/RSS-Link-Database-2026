@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-21T03:13:42.473287+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-20T20:43:00+00:00",
+        "description": "<p>After 16 years on the LAMP stack, I finished <a href=\"https://www.jeffgeerling.com/blog/2026/migrated-to-hugo/\">migrating this website from Drupal to Hugo</a> a few weeks ago.</p>\n<p>What's old is new, as this blog was <em>originally</em> built with <a href=\"https://github.com/hyphanet/Thingamablog-Freenet\">Thingamablog</a>, a Java-based Static Site Generator (SSG) I ran on my Mac to generate HTML and FTP it up to my first webserver (over 20 years ago!).</p>\n<p>The main reason I moved from an SSG to Drupal was to add <em>comments</em>. I wanted my blog to have the same level of interactivity I had pre-Thingamablog, when I was (briefly) on Xanga.com.</p>",
+        "id": 4608909,
+        "language": "en",
+        "link": "https://www.jeffgeerling.com/blog/2026/migrating-13000-comments-from-drupal-to-hugo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 162,
+        "source_url": "https://www.jeffgeerling.com/blog.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Migrating 13,000 Comments from Drupal to Hugo",
+        "vote": 0
+    }
+]

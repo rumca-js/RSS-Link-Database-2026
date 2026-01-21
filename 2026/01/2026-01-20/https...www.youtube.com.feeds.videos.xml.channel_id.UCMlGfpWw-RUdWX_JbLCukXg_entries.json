@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-20T17:17:53.287802+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-20T16:02:06+00:00",
+        "description": "https://cppcon.org\n---\n\nMoving Complexity Down: The Real Path to Scaling Up C++ Code - Malin Stanescu - CppCon 2025\n---\n\nThe top 3 job titles of the CppCon attendees, held by 3/4 of the participants, are or end in the words \"Software Engineer\"[1]. This phrasing was chosen as a departure from \"programmers\" and \"coders\", which would merely write code. To achieve the target outcome, the software engineer is supposed to be a professional at designing and tinkering with the code, not just writing it. The obvious target is to achieve the desired functionality, however far less is agreed on in terms of guidelines for doing so. Naturally, the only remaining options is to have the engineering, the tinkering, focused on adding functionality to software. \n \nIn this talk I argue that when scaling up the software, engineering for functionality is insufficient. There are 8 orders of magnitude in lines of code from hello world to the world's largest software repositories, a factor obtained with huge",
+        "id": 4604496,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=SPHJ4yWE0Io",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/SPHJ4yWE0Io/hqdefault.jpg",
+        "title": "Moving Complexity Down: The Real Path to Scaling Up C++ Code - Malin Stanescu - CppCon 2025",
+        "vote": 0
+    }
+]

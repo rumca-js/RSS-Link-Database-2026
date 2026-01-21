@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ryan Daws",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-20T18:46:45.467067+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-20T18:04:15+00:00",
+        "description": "<p>HackerOne has released a new framework designed to provide the necessary legal cover for researchers to interrogate AI systems effectively. As generative models become integrated into enterprise stacks, the line between helpful stress-testing and malicious exploitation has blurred. For software engineers and security teams, this lack of definition presents a practical hurdle: how to test [&#8230;]</p>\n<p>The post <a href=\"https://www.developer-tech.com/news/hackerone-framework-ai-research-legal-ambiguity/\">HackerOne framework addresses AI research legal ambiguity</a> appeared first on <a href=\"https://www.developer-tech.com\">Developer Tech News</a>.</p>",
+        "id": 4605393,
+        "language": "en-GB",
+        "link": "https://www.developer-tech.com/news/hackerone-framework-ai-research-legal-ambiguity",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 92,
+        "source_url": "https://www.developer-tech.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "HackerOne framework addresses AI research legal ambiguity",
+        "vote": 0
+    }
+]
