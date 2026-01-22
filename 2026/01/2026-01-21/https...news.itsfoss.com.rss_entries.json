@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Sourav Rudra",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-21T07:53:31.432130+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-21T07:13:04+00:00",
+        "description": "The free software pioneer returns to campus. Richard Stallman will be speaking on Software Freedom and AI at Georgia Tech university.",
+        "id": 4610069,
+        "language": "en-US",
+        "link": "https://itsfoss.com/news/richard-stallman-georgia-tech",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 156,
+        "source_url": "https://news.itsfoss.com/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://itsfoss.com/content/images/2026/01/rms-gnubee.webp",
+        "title": "Richard Stallman to Speak on Software Freedom and AI at Georgia Tech",
+        "vote": 0
+    }
+]

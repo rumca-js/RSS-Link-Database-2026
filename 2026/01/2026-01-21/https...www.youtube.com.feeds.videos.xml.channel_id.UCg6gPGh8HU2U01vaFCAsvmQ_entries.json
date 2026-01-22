@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Chris Titus Tech",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-21T14:03:39.309843+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-21T12:15:04+00:00",
+        "description": "After 20+ years as a Windows power user with 10+ professional certifications, I made the switch to Linux. This video breaks down everything I learned over 8 years of daily driving Linux\u2014the good, the bad, and the ugly truths no one talks about.\n\n\ud83d\udd25 **Key Takeaways:**\n- Why distributions don't matter as much as you think\n- The hard truth about Windows programs and Adobe on Linux\n- How Linux gaming evolved from 2018 to 2025\n- My Steam stats reveal the real story (65% Windows \u2192 80% Linux)\n- Why I ditched desktop environments for a 116KB window manager\n- 628 days of uptime on \"unstable\" Arch Linux\n- Dual booting vs virtual machines: what actually works\n\n**Perfect for:** Windows users curious about Linux, new Linux users struggling with the transition, or anyone tired of distro-hopping who wants real talk about what works.\n\nI documented my entire journey\u2014Arch for 10 days, Ubuntu for 30 days, endless distro hopping\u2014so you don't have to make the same mistakes. Whether you're a gamer, professi",
+        "id": 4612492,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=EcKSdZ_ENeg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 444,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCg6gPGh8HU2U01vaFCAsvmQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/EcKSdZ_ENeg/hqdefault.jpg",
+        "title": "I Used Linux for 8 Years: Here's What They Don't Tell You",
+        "vote": 0
+    }
+]

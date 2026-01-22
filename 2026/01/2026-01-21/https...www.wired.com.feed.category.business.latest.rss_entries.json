@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Will Knight",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-21T19:35:20.085027+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-21T19:00:00+00:00",
+        "description": "WIRED analyzed more than 5,000 papers from NeurIPS using OpenAI\u2019s Codex to understand the areas where the US and China actually work together on AI research.",
+        "id": 4615818,
+        "language": "en-US",
+        "link": "https://www.wired.com/story/us-china-collaboration-neurips-papers",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 396,
+        "source_url": "https://www.wired.com/feed/category/business/latest/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media.wired.com/photos/69710742e56cedae6f89e032/master/pass/AI-Lab-US-China-Cutting-Edge-AI-Business.jpg",
+        "title": "The US and China Are Collaborating More Closely on AI Than You Think",
+        "vote": 0
+    }
+]

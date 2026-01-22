@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Blog Staff",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-21T19:30:34.172957+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-21T18:21:26+00:00",
+        "description": "<p>\n\t<img alt=\"andreasfertig.png\" src=\"https://isocpp.org/files/img/andreasfertig.png\" style=\"width: 300px; margin: 10px; float: right; height: 371px;\" />In today&#39;s post, I like to touch on a controversial topic: singletons. While I think it is best to have a codebase without singletons, the real-world shows me that singletons are often part of codebases.</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://andreasfertig.com/blog/2026/01/singleton-done-right-in-cpp/\">Singleton done right in C++</a></h3>\n\t<p>\n\t\tby Andreas Fertig</p>\n</blockquote>\n<p>\n\tFrom the article:</p>\n<blockquote>\n\t<p>\n\t\tLet&#39;s use a usage pattern for a singleton that I see frequently, a system-wide logger. A simple implementation can look like the following code:</p>\n\t<p>\n\t\tclass Logger {<br />\n\t\t&nbsp; Logger() = default;</p>\n\t<p>\n\t\tpublic:<br />\n\t\t&nbsp; static Logger&amp; Instance()<br />\n\t\t&nbsp; {<br />\n\t\t&nbsp;&nbsp;&nbsp; static Logger theOneAndOnlyLogger{};</p>\n\t<p>\n\t\t&nbsp;&nbsp;&nbsp; return theOneAndOnlyLo",
+        "id": 4615784,
+        "language": "en",
+        "link": "https://isocpp.org//blog/2026/01/singleton-done-right-in-cpp-andreas-fertig",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://isocpp.org/files/img/andreasfertig.png",
+        "title": "Singleton done right in C++ -- Andreas Fertig",
+        "vote": 0
+    }
+]

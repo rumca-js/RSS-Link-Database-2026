@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-21T16:39:48.131553+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-21T15:31:14+00:00",
+        "description": "Master the art of Dynamic Programming by learning to break complex challenges into simple, reusable sub-problems. This course features step-by-step animations that bring abstract logic to life, showing you exactly how data flows through tables and recursion trees in real-time. Develop a powerful visual intuition for optimization so you can solve even the toughest algorithmic puzzles with ease. Sheldon created this course.\n\n\u2764\ufe0f Support for this channel comes from our friends at Scrimba \u2013 the coding platform that's reinvented interactive learning: https://scrimba.com/freecodecamp\n\n\u2b50\ufe0f Contents \u2b50\ufe0f\n\u2014 0:00:00 Course Introduction and Visual Intuition  \n\u2014 0:00:33 Fundamentals of Dynamic Programming  \n\u2014 0:01:14 The Staircase Problem: Counting Paths  \n\u2014 0:04:13 Implementing Recursive Solutions  \n\u2014 0:06:26 The Inefficiency of Simple Recursion  \n\u2014 0:07:32 Pattern 1: Memoization (Top-Down Approach)  \n\u2014 0:11:39 Pattern 2: Tabulation (Bottom-Up Approach)  \n\u2014 0:14:09 Comparing Memoization vs. Tabulati",
+        "id": 4614025,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=66hDgWottdA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/66hDgWottdA/hqdefault.jpg",
+        "title": "Lean Dynamic Programming with Animations \u2013 Full Course for Beginners",
+        "vote": 0
+    }
+]

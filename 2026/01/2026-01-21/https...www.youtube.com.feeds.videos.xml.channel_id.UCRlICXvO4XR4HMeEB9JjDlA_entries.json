@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Thoughty2",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-21T20:50:16.260177+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-21T20:00:16+00:00",
+        "description": "Was Bill Gates\u2019 fortune a result of his success\u2026or was it just luck?",
+        "id": 4616437,
+        "language": "en-US",
+        "link": "https://www.youtube.com/shorts/MaIP6QWhQ1o",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 367,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCRlICXvO4XR4HMeEB9JjDlA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/MaIP6QWhQ1o/hqdefault.jpg",
+        "title": "Was Bill Gates Just Lucky?",
+        "vote": 0
+    }
+]

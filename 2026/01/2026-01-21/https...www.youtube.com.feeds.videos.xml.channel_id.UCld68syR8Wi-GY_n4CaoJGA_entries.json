@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-21T16:39:00.034880+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-21T16:30:29+00:00",
+        "description": "Out of nowhere a developer decided to go and solve the Adobe problem on Linux with Wine, however the story gets a little bit weirder from there\n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\nWinApps: https://github.com/winapps-org/winapps\nReddit Post 1: https://www.reddit.com/r/linux_gaming/comments/1qdgd73/i_made_adobe_cc_installers_work_on_linux_pr_in/\nReddit Post 2: https://www.reddit.com/r/linux_gaming/comments/1qgybfy/update_on_the_adobe_cc_installers_patch_now_the/\nValve Wine PR: https://github.com/ValveSoftware/wine/pull/310\nPhoronix Article: https://www.phoronix.com/news/Adobe-Photoshop-2025-Wine-Patch\nWine Repo: https://gitlab.winehq.org/wine/wine\nThe Patches: https://github.com/PhialsBasement/wine-adobe-installers/releases/tag/fix-adobe\n\n=========Video Platfo",
+        "id": 4614020,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=i9Qp5XiO3vo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/i9Qp5XiO3vo/hqdefault.jpg",
+        "title": "A Random Developer Just Solved Adobe On Linux",
+        "vote": 0
+    }
+]

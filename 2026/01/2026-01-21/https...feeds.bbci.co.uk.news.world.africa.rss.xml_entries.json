@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-21T09:29:54.328761+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-21T08:21:33+00:00",
+        "description": "Kizza Besigye\u2019s party says his condition is critical, but authorities say he was taken to hospital for a routine check-up.",
+        "id": 4610600,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/c5y2q5j71pqo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 521,
+        "source_url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d53/live/f3ee8fe0-f6a5-11f0-a917-d3d793525367.jpg",
+        "title": "Detained veteran Ugandan opposition figure critically ill in hospital, his party says",
+        "vote": 0
+    }
+]

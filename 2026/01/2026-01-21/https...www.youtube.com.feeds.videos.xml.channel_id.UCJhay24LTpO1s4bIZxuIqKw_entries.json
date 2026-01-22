@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ACCU Conference",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-21T17:06:24.865567+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-21T15:02:48+00:00",
+        "description": "ACCU Membership: https://tinyurl.com/ydnfkcyn\n---\n\nImmediately Invoked Coroutine Lambdas in C++23 - Lifetime Pitfalls and Best Practices - Jonathan M\u00fcller - ACCU 2025 Short Talks\n---\n\nLearn how to use immediately invoked coroutine lambdas safely and effectively in modern C++!\n\nIn this ACCU 2025 lightning talk, C++ expert Jonathan M\u00fcller explores the powerful but dangerous pattern of immediately invoked coroutine lambdas in C++. Coroutines allow asynchronous execution in C++ using constructs like `co_await`, `co_return`, and `co_yield`, but subtle lifetime issues can lead to undefined behavior when using capturing lambdas. This talk dives into how coroutine frames work, what happens when you `co_await` inside an immediately invoked lambda, and how to avoid crashes due to premature destruction of captures.\n\nUsing examples from real-world C++ coroutine usage, you'll learn why capturing lambdas in coroutine contexts must be carefully constructed. Jonathan demonstrates how C++23's *deducin",
+        "id": 4614315,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=mF2YMIKZUMg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 421,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJhay24LTpO1s4bIZxuIqKw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/mF2YMIKZUMg/hqdefault.jpg",
+        "title": "Immediately Invoked Coroutine Lambdas in C++23 - Lifetime Pitfalls & Best Practices  Jonathan M\u00fcller",
+        "vote": 0
+    }
+]

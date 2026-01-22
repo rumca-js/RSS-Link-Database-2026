@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-21T04:44:00.613620+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-21T04:14:41+00:00",
+        "description": "The French leader drew attention for his rebuke of Trump's tariff threat - and also his choice of eyewear.",
+        "id": 4609261,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/c4g050pdld3o",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 523,
+        "source_url": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/58ee/live/08f89cd0-f676-11f0-8536-93c84af4000d.jpg",
+        "title": "Why is Emmanuel Macron wearing sunglasses indoors at Davos?",
+        "vote": 0
+    }
+]

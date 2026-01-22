@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-21T16:32:26.490812+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-21T16:02:06+00:00",
+        "description": "https://cppcon.org\n---\n\nC++ Performance Tips: Cutting Down on Unnecessary Objects - Prithvi Okade & Kathleen Baker - CppCon 2025\n---\n\nIn C++, unnecessary temporary object creation can lead to costly runtime operations, increased code execution, and higher memory usage. Luckily this can be improved! This talk investigates common scenarios that result in the creation of temporary objects and how to detect these scenarios, demonstrated through code examples. We will then explore strategies to reduce the creation of such objects with techniques like explicitly moving objects, passing objects by reference, leveraging lightweight classes like std::string_view and std::span , using functions like reserve and emplace , and more. Join us to learn how to optimize your code\u2019s performance and adopt better practices. \n\n---\n\nSlides: https://github.com/CppCon/CppCon2025/blob/main/Presentations/Cpp_Performance_Tips.pdf\n\nWork at Hudson River Trading (HRT): https://tinyurl.com/safxfctf\n---\n\nPrithvi Oka",
+        "id": 4613960,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=-qj_WGf5n_I",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/-qj_WGf5n_I/hqdefault.jpg",
+        "title": "C++ Performance Tips: Cutting Down on Unnecessary Objects - Prithvi Okade & Kathleen Baker - CppCon",
+        "vote": 0
+    }
+]

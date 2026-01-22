@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "David Bombal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-21T19:09:08.225012+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-21T18:00:31+00:00",
+        "description": "Learn how to use Google Dorks to find hidden PDFs and resources. We cover filetype and site operators to locate specific docs like CCNA guides and Kali Linux manuals.\n\n#googledorks #search #filetype",
+        "id": 4615641,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/KVrnRFqIrkU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 984,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP7WmQ_U4GB3K51Od9QvM0w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/KVrnRFqIrkU/hqdefault.jpg",
+        "title": "Google Dorking (Hacking) Part 2: Find HIDDEN Files on Google",
+        "vote": 0
+    }
+]

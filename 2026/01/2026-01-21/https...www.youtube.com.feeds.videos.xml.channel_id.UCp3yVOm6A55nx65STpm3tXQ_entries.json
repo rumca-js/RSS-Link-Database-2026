@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Craft Computing",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-21T18:33:00.419797+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-21T17:45:25+00:00",
+        "description": "Thanks to Meter for sponsoring today's episode. If you're interested in learning more about how Meter can help with your IT Infrastructure, go to https://meter.com/craftcomputing to book a demo today.\n\nGrab yourself a Pint Glass at https://craftcomputing.store\n\nFollow me on Bluesky @CraftComputing.bsky.social\n\nIt's time to tackle something I've been dreading for at least the last three years... ripping out and replacing every single cable from behind my server rack. What started as a small, humble homelab has evolved into a full production affair, and the rat's nest of cables can no longer be ignored.\n\n*Links to items below may be affiliate links for which I may be compensated*\n\nCheck out the cable management brackets I used here: https://www.printables.com/model/36851-server-rack-cable-org\n\nCage Nuts: https://amzn.to/4r8UM56\nCAT6 Network Cables, 6FT 6-Pack: https://amzn.to/49S2LMU\nVCE RJ45 Keystone Passthrough Jacks: https://amzn.to/49vMFto\n24-Pack 1ft CAT6 Patch Cables (Thin): https",
+        "id": 4615266,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=SjHxwMSdxh4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 909,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCp3yVOm6A55nx65STpm3tXQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/SjHxwMSdxh4/hqdefault.jpg",
+        "title": "Rack Rebuild 2026 - Re-Cabling Everything",
+        "vote": 0
+    }
+]

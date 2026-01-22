@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-21T03:40:09.681245+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-21T03:40:08+00:00",
+        "description": "The families of two brothers and their close friend have called it a \u201crandom, tragic act\u201d, undeserved by the close-knit trio of men.",
+        "id": 4608978,
+        "language": "en-au",
+        "link": "https://www.news.com.au/travel/travel-updates/incidents/three-men-murdered-in-senseless-florida-killing/news-story/9e230514fe6086f0237664e466e0aa97?from=rss-basic",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 409,
+        "source_url": "https://www.news.com.au/content-feeds/latest-news-travel",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://content.api.news/v3/images/bin/0179c89090702eec4859b5b367dca31d?width=320",
+        "title": "Three men murdered in senseless Florida killing",
+        "vote": 0
+    }
+]

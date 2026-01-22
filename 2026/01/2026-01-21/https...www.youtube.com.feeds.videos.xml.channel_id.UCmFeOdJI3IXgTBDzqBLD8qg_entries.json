@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Moon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-21T18:46:42.700215+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-21T18:18:26+00:00",
+        "description": "We\u2019re hiring writers.\n\nIf you love this style of content and think you could write scripts that belong here, apply below.\nSerious writers only.\n\n\ud83d\udc49 Apply here: https://forms.gle/f8wKd1xmW4RgoH5f6",
+        "id": 4615415,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=HKnfFL20d70",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 216,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCmFeOdJI3IXgTBDzqBLD8qg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/HKnfFL20d70/hqdefault.jpg",
+        "title": "The Side of Dubai They Are Hiding From You",
+        "vote": 0
+    }
+]

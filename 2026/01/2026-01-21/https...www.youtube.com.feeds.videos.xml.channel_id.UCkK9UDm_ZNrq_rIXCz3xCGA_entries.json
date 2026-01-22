@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Lunduke Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-21T21:25:37.852273+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-21T20:26:37+00:00",
+        "description": "Xorg, which has a stated goal of killing itself, plans to re-base on 2 year old code in order to avoid code from XLibre developer. Plus: Moving from \"Master\" to \"Main\" branch naming.\n\nMore from The Lunduke Journal:\nhttps://lunduke.com/",
+        "id": 4616780,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=d7-FczaSkdo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 616,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkK9UDm_ZNrq_rIXCz3xCGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/d7-FczaSkdo/hqdefault.jpg",
+        "title": "Xorg Plans Political Moves: Removing 2 Years of Commits from XLibre Dev",
+        "vote": 0
+    }
+]

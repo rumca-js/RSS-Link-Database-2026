@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-21T20:55:00.106769+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-21T20:00:00+00:00",
+        "description": "<p><span style=\"font-family: Arial, sans-serif; font-size: 11pt; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-position: normal; vertical-align: baseline; white-space: pre-wrap;\">This week will be my last as the Director of Infrastructure at the Python Software Foundation and my last week as a staff member. Supporting the mission of this organization with my labor has been unbelievable in retrospect and I am filled with gratitude to every member of this community, volunteer, sponsor, board member, and staff member of this organization who have worked alongside me and entrusted me with root@python.org f</span><span style=\"font-family: Arial, sans-serif; font-size: 11pt; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-position: normal; vertical-align: baseline; white-space: pre-wrap;\">or all this time.",
+        "id": 4616461,
+        "language": "en",
+        "link": "https://pyfound.blogspot.com/2026/01/ee-departing-the-psf-staff.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 267,
+        "source_url": "https://pyfound.blogspot.com/feeds/posts/default?alt=rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Departing the Python Software Foundation (Staff)",
+        "vote": 0
+    }
+]
