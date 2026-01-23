@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-22T16:28:55.660821+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-22T16:02:06+00:00",
+        "description": "https://cppcon.org\n---\n\nRobust C++ Error Handling in C++26  - Sebastian Theophil - CppCon 2025\n---\n\nEvery program may encounter errors, some originating from internal bugs in the program, others coming from the environment the program is operating in. Ignoring all errors will make the program utterly unreliable, while treating every conceivable one introduces lots of extra complexity with little benefit. So which errors should you handle? And how should you handle them? This talk describes our proven approach to error handling so that you can write more reliable software with less effort. \n \n C++23 and C++26 have seen several improvements to C++ error handling: std::stacktrace, std::expected, contracts and library hardening. We will cover these features as well and how to best use them in practice to catch more errors, report them and fix them. \n \n---\n\nSlides: https://github.com/CppCon/CppCon2025/blob/main/Presentations/To_Err_is_Human.pdf\n\nWork at Hudson River Trading (HRT): https://",
+        "id": 4623688,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=TG-trWOZq6Y",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/TG-trWOZq6Y/hqdefault.jpg",
+        "title": "Robust C++ Error Handling in C++26 - Sebastian Theophil - CppCon 2025",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-22T15:21:08.401650+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-22T15:01:12+00:00",
+        "description": "Diffusion is the foundational machine learning framework behind state-of-the-art AI image and video generation, including Sora, Midjourney and Google Veo. In this episode of Decoded, YC General Partner Ankit Gupta sits down with YC Visiting Partner Francois Chaubard to discuss how diffusion works, walk through a code sample, and explain why everyone training models should understand it.\n\nApply to Y Combinator: https://www.ycombinator.com/apply\nWork at a startup: https://www.ycombinator.com/jobs\n\nChapters:\n\n00:00 Intro\n00:33 What is diffusion?\n02:50 What are applications of diffusion today?\n04:06 Key innovations\n07:01 Code examples\n19:25 The \"squint test\"\n22:27 Other areas diffusion is widely accessible \n24:49 Outro",
+        "id": 4623070,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=dC_3ys349bU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/dC_3ys349bU/hqdefault.jpg",
+        "title": "The ML Technique Every Founder Should Know",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Eli the Computer Guy",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-22T18:01:18.693074+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-22T17:15:02+00:00",
+        "description": "Workbook on Github -- https://github.com/SiliconDojo/In-Person-Classes/tree/main/Introduction%20to%20Programming%20for%20AI%20\n\n\nSupport Content at - https://donorbox.org/etcg\nLinkedIn at - https://www.linkedin.com/in/eli-etherton-a15362211/\n\nThis class is going to teach you the basic concepts you have to understand in order to start writing code for your AI projects. We will go over basic concepts like how to pick a programming language, using IDE's, building wireframes, writing pseudocode and more.\n\nBeyond that we will then learn about using LLM's and other AI frameworks and how to actually use these in your projects. And then discuss things such as RAG, MCP and what AI Agents really are.\n\nThis class will go over:\n\nHow to pick a Programming Language\nWhat are Frameworks\nPlanning and Designing Projects\nUsing IDE's to write code\nWhat LLM's and AI Frameworks are\nUnderstanding Systems Architecture for AI Projects\nBasic Concepts in Waterfall vs Agile Project Management\nUnderstanding what ",
+        "id": 4624567,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=bxB9kch8rAE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 102,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCD4EOyXKjfDUhCI6jlOZZYQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/bxB9kch8rAE/hqdefault.jpg",
+        "title": "Introduction to Programming for AI",
+        "vote": 0
+    }
+]

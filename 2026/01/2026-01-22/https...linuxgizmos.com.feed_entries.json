@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-22T17:43:43.367178+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-22T17:03:52+00:00",
+        "description": "Raspberry Pi has released the Raspberry Pi Flash Drive, a USB 3.0 Type-A flash storage device intended for file transfer, backups, and operating system use across Raspberry Pi boards and other computers. The flash drive is available in 128 GB and 256 GB capacities, with pricing starting at around $30. The Raspberry Pi Flash Drive [&#8230;]",
+        "id": 4624430,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/usb-3-0-flash-drive-supports-os-boot-and-file-transfer-on-raspberry-pi",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "USB 3.0 flash drive supports OS boot and file transfer on Raspberry Pi",
+        "vote": 0
+    }
+]

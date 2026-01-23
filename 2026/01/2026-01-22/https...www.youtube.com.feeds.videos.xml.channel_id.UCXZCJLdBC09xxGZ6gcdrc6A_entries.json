@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "OpenAI",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-22T20:20:04.107625+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-22T18:12:15+00:00",
+        "description": "Codex now works in JetBrains IDEs.\n\nIn this quick tour with Gleb Melnikov from JetBrains, we use Codex on a real Kotlin multi-platform project to:\n\ud83d\udc1e Debug a broken iOS build from a stack trace\n\ud83c\udf0d Implement Spanish localization end-to-end\n\ud83d\udd04  Stay in-flow inside the IDE while the agent researches, edits, and verifies changes\n\nSign in with your ChatGPT subscription, an API key, or your JetBrains AI subscription to collaborate with Codex directly in your JetBrains IDE.\n\nChapters:\n00:00 Codex is now available in JetBrains\n00:53 Sign in options + codebase tour\n01:48 Fixing an iOS build error with Codex\n04:11 Adding Spanish localization\n05:08 Access modes\n07:18 Working in parallel + self-verifying with builds\n09:21 Works across JetBrains IDEs + wrap-up",
+        "id": 4625920,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=1XkVsE9-ZK4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 1,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 935,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXZCJLdBC09xxGZ6gcdrc6A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/1XkVsE9-ZK4/hqdefault.jpg",
+        "title": "Codex in JetBrains IDEs",
+        "vote": 0
+    }
+]

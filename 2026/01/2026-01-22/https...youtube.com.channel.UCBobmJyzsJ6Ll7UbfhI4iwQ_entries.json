@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unreal Engine",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-22T13:49:59.080701+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-22T13:09:16+00:00",
+        "description": "We are joined by a few of our Technical Writers to discuss the best way to utilize tutorials and learning resources; common pitfalls, important steps, and tips and tricks to maximize learning and limit roadblocks.",
+        "id": 4622227,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=IeQpGHTBOkQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 685,
+        "source_url": "https://youtube.com/channel/UCBobmJyzsJ6Ll7UbfhI4iwQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/IeQpGHTBOkQ/hqdefault.jpg",
+        "title": "Avoid Tutorial Hell - Utilizing Resources to Learn Unreal Engine in 2026 | Inside Unreal",
+        "vote": 0
+    }
+]

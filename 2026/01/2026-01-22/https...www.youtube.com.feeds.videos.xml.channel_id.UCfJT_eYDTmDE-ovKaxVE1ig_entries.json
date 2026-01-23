@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kevin Stratvert",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-22T10:40:14.976934+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-22T08:00:54+00:00",
+        "description": "Going live on Twitch, YouTube, and more at the same time from one OBS setup is way easier than you think. In this video, I walk you step-by-step through how to use the Aitum Multistream plugin to multistream directly from OBS Studio without paying for third-party services or extra cloud encoders.\n\nBy the end of the video, you\u2019ll be able to:\n   - Stream to multiple platforms at once from OBS\n   - Keep full control of your encoding settings per platform\n   - Avoid monthly fees from cloud multistreaming services by running everything locally in OBS\n\nHost: Tim Seneker\n#OBS #streamer #multistream #Aitum\n\n\u231a TIMESTAMPS \n00:00 How to Download Aitum Multistream\n00:43 Adding the Aitum Multistream Dock to OBS\n00:57 Setting Your Main Stream\n01:41 Adding Multiple Platforms\n02:55 Customizing Other Platform Encoder Settings\n\n\ud83d\udce9 NEWSLETTER \n- Get the latest high-quality tutorial and tips and tricks videos emailed to your inbox each week: https://kevinstratvert.com/newsletter\n \n\ud83d\udd3d CONNECT WITH ME \n- Off",
+        "id": 4620837,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=i8GoqRYutJk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 958,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfJT_eYDTmDE-ovKaxVE1ig",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/i8GoqRYutJk/hqdefault.jpg",
+        "title": "The Easiest Way to Multistream on OBS (100% Free)",
+        "vote": 0
+    }
+]
