@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "OpenAI",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-23T22:19:13.487390+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-23T19:34:20+00:00",
+        "description": "Build a new generation of apps you can chat with right inside ChatGPT using Codex. In this Build Hour, we walkthrough how to design, build, and improve a realtime multi-player ChatGPT app from first setup to advanced UI patterns.\n\nCorey Ching (Developer Experience) covers:\n\u2022 How Apps in ChatGPT work and how to build them with Codex\n\u2022 Using the Apps SDK, docs MCP server, and developer mode\n\u2022 Improving an app with UI/UX guidelines\n\u2022 Best practices & live Q&A\n\n\ud83d\udc49 OpenAI Apps SDK: https://developers.openai.com/apps-sdk\n\ud83d\udc49 What makes a great ChatGPT app: https://developers.openai.com/blog/what-makes-a-great-chatgpt-app/\n\ud83d\udc49 Follow along with the code repo: http://github.com/openai/build-hours\n\ud83d\udc49 Sign up for upcoming live Build Hours: https://webinar.openai.com/buildhours\n\n00:00 Introduction\n02:43 Apps Platform\n04:07 Demo of Apps in ChatGPT\n10:44 What is an App in ChatGPT\n13:58 Building an App Process\n16:58 Creating an App with Codex\n26:57 Demo of Realtime Ping-Pong App\n34:01 Best Practices: Ite",
+        "id": 4636371,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=mFG-4vUJ0kI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 935,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXZCJLdBC09xxGZ6gcdrc6A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/mFG-4vUJ0kI/hqdefault.jpg",
+        "title": "Build Hour: Apps in ChatGPT",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Foundation",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-23T17:41:01.446039+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-23T16:56:26+00:00",
+        "description": "Industrial automation is stuck in a vendor lock-in nightmare. Legacy systems don't talk to each other, and managing edge applications across platforms creates massive operational headaches. Bart Nieuwborg, Chair of the Margo Initiative, explains how this open source project is building an interoperability framework that lets companies deploy and manage edge applications regardless of vendor infrastructure. Margo just released Preview Release 1, tackling application management at scale with a specification, sandbox environment, and conformance toolkits. Bart walks through what this release delivers, the roadmap to general availability in 2026, and why 40 vendors are now contributing to solve multi-vendor reality at the industrial edge.\n\nLearn more at https://margo.org\n\nRead the full story at www.tfir.io\n\n#IndustrialAutomation #EdgeComputing #OpenSource #Interoperability #VendorLockIn #IIoT #ManufacturingTech #SoftwareDefined #CloudNative #DeviceManagement",
+        "id": 4634068,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=QXuTV_bi7ao",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 499,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfX55Sx5hEFjoC3cNs6mCUQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/QXuTV_bi7ao/hqdefault.jpg",
+        "title": "How Margo Solves Industrial Automation's Interoperability Crisis | Bart Nieuwborg, Margo",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Digital Foundry",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-23T16:24:46.560461+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-23T14:58:51+00:00",
+        "description": "Many thanks to FlexiSpot for sponsoring this video and upgrading John's workstation! Use the links below and leave a note saying \"Digital Foundry\" at checkout and use the code ''YTE7P50'' to get EXTRA $50 off on the E7 Plus/E7 Pro/E7L standing desk.\nUSA: https://bit.ly/49KGeBG\nCAN: https://bit.ly/3ZpAEQ5\n\nNvidia is at the top of the game when it comes to machine learning-based image reconstruction and with the release of DLSS 4.5, we're looking at its most advanced model yet. We're concentrating on the new performance mode-focused Preset M here, where we find good improvements to a range of scenarios where DLSS 4.0 (Preset K) fell a little short. However, there is work to do: Preset M does seem to have PSSR-like issues with some RT effects.\n\nGo here to check out DF merch! https://store.digitalfoundry.net\n\nSubscribe for more Digital Foundry: http://bit.ly/DFSubscribe\n\n00:00:00 Introduction\n00:00:39 Sponsored by FlexiSpot E7 Pro\n00:02:30 Does DLSS 4.5 Preset M improve on DLSS 4.0 Preset",
+        "id": 4633349,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=x8CcD13eS6I",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 696,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9PBzalIcEQCsiIkq36PyUA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/x8CcD13eS6I/hqdefault.jpg",
+        "title": "Nvidia DLSS 4.5 Image Quality Review: Where It Works Better, Where It Needs Work",
+        "vote": 0
+    }
+]

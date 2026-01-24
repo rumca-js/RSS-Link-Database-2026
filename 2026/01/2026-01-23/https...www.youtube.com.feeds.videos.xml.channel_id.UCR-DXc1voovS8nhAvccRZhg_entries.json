@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeff Geerling",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-23T15:55:17.986269+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-23T15:01:21+00:00",
+        "description": "Here's the Qwen3-TTS Demo app I showed in the video: https://huggingface.co/spaces/Qwen/Qwen3-TTS\n\nIt's only a matter of time until there's an open UI for it that beats Eleven Labs\u2014all for free.\n\nRead about the time someone cloned my voice for a video training series, unauthorized: https://www.jeffgeerling.com/blog/2024/elecrow-responded-apologized-ai-voice-cloning/\n\nSupport me on Patreon: https://www.patreon.com/geerlingguy\nSponsor me on GitHub: https://github.com/sponsors/geerlingguy\nMerch: https://www.redshirtjeff.com\n2nd Channel: https://www.youtube.com/@GeerlingEngineering\n3rd Channel: https://www.youtube.com/@Level2Jeff",
+        "id": 4633072,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=dQ841Pd6YvQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 161,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR-DXc1voovS8nhAvccRZhg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/dQ841Pd6YvQ/hqdefault.jpg",
+        "title": "ElevenLabs just got nuked by open source",
+        "vote": 0
+    }
+]

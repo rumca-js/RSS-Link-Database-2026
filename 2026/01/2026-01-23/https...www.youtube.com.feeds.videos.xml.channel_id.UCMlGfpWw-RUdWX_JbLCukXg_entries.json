@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-23T16:13:26.568777+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-23T16:02:07+00:00",
+        "description": "https://cppcon.org/\n---\n\nReflection: C++\u2019s Decade-Defining Rocket Engine - Herb Sutter - CppCon 2025\n\nIn June 2025, C++ crossed a Rubicon: it handed us the keys to its own machinery. For the first time, C++ can describe itself\u2014and generate more. The first compile-time reflection features in draft C++26 mark the most transformative turning point in our language\u2019s history by giving us the most powerful new engine for expressing efficient abstractions that C++ has ever had, and we\u2019ll need the next decade to discover what this rocket can do.\n\nThis session is a high-velocity tour through what reflection enables today in C++26, and what it will enable next. We\u2019ll start with live compiler demos (Godbolt, of course) to show how much the initial C++26 feature set can already do. Then we\u2019ll jump a few years ahead, using Dan Katz\u2019s Clang extensions and my own cppfront reflection implementation to preview future capabilities that could reshape not just C++, but the way we think about programming ",
+        "id": 4633264,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=7z9NNrRDHQU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/7z9NNrRDHQU/hqdefault.jpg",
+        "title": "Reflection: C++\u2019s Decade-Defining Rocket Engine - Herb Sutter - CppCon 2025",
+        "vote": 0
+    }
+]
