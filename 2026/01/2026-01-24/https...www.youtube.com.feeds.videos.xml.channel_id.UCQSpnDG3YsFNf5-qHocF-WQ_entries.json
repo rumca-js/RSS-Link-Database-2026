@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ThioJoe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-24T16:42:52.013260+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-24T15:45:17+00:00",
+        "description": "Most people don't know these Windows Command Prompt tricks \ud83e\udd14\n\u2022 Sponsored: Get your personal information removed from the web and search results by visiting \u21e8 https://joindeleteme.com/ThioJoe and use code THIOJOE for 20% off\n\nTime Stamps:\n0:00 - Intro\n0:21 - Not Real \u201cCommands\u201d\n0:54 - Full List of  Previous Commands\n1:21 - Easily Open CMD to Folder\n1:35 - About Batch Files\n2:14 - True \u201cCommands\u201d\n3:14 - Excellent and Good Thing\n4:36 - Stopping Running Commands\n5:18 - Output to File\n6:22 - Pipe Operator\n7:26 - Launching CMD Itself\n7:57 - Grouping Commands\n8:22 - Outputting Errors\n9:02 - Running App From Anywhere",
+        "id": 4641169,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=uviwJHDricE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 366,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQSpnDG3YsFNf5-qHocF-WQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/uviwJHDricE/hqdefault.jpg",
+        "title": "Useful Command Prompt Tricks You Should Know",
+        "vote": 0
+    }
+]

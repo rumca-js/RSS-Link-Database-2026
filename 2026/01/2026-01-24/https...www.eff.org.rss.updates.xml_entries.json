@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Joe Mullin",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-24T01:49:41.823955+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-24T01:09:20+00:00",
+        "description": "<div class=\"field field--name-body field--type-text-with-summary field--label-hidden\"><div class=\"field__items\"><div class=\"field__item even\"><div class=\"onecol column content-wrapper\">\n<div class=\"column main-content\">\n<div class=\"panel-pane pane-entity-view pane-node\"><br />\n<div class=\"node__content\">\n<div class=\"field field--name-body field--type-text-with-summary field--label-hidden\">\n<div class=\"field__items\">\n<div class=\"field__item even\">\n<p><span data-contrast=\"auto\"><em>We're taking part in <a href=\"https://www.eff.org/copyrightweek\">Copyright Week</a>, a series of actions and discussions supporting key principles that should guide copyright policy. Every day this week, various groups are taking on different elements of copyright law and policy, and addressing what's at stake, and what we need to do to make sure that copyright promotes creativity and innovation.</em></span></p>\n</div>\n</div>\n</div>\n</div>\n<p></p></div>\n</div>\n</div>\n<p><span>Long before generative AI, copyri",
+        "id": 4637544,
+        "language": "en",
+        "link": "https://www.eff.org/deeplinks/2026/01/search-engines-ai-and-long-fight-over-fair-use",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 101,
+        "source_url": "https://www.eff.org/rss/updates.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Search Engines, AI, And The Long Fight Over Fair Use",
+        "vote": 0
+    }
+]

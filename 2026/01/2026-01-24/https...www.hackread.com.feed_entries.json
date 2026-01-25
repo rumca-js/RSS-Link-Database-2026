@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Deeba Ahmed",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-24T18:55:12.670720+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-24T17:36:30+00:00",
+        "description": "If you are using a Windows PC, your privacy and security are nothing short of a myth, and this incident proves it.",
+        "id": 4641973,
+        "language": "en-US",
+        "link": "https://hackread.com/fbi-windows-laptops-microsoft-bitlocker-recovery-keys",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 139,
+        "source_url": "https://www.hackread.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "FBI Accessed Windows Laptops After Microsoft Shared BitLocker Recovery Keys",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-24T19:44:31.667871+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-24T18:57:09+00:00",
+        "description": "The Lebanese man helped helped plan attacks on Jewish and Israeli institutions in Europe, prosecutors say.",
+        "id": 4642249,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/c8rm14lkkvzo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 523,
+        "source_url": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9759/live/98f3f5b0-f945-11f0-b5f7-49f0357294ff.jpg",
+        "title": "Germany arrests suspected Hamas member over alleged attack plot",
+        "vote": 0
+    }
+]

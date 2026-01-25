@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Khan Academy",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-24T17:06:16.626945+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-24T14:34:24+00:00",
+        "description": "Courses on Khan Academy are always 100% free. Start practicing\u2014and saving your progress\u2014now! https://www.khanacademy.org/science/ap-college-physics-1 \n\nMechanical energy is the sum of a system\u2019s kinetic and potential energies. If the work done on a selected system is zero and there are no nonconservative interactions within the system, the total mechanical energy of the system is constant. If the work done on a selected system is nonzero, energy is transferred between the system and the environment.\n\nSections:\n00:00 - Predict the mechanical energy change\n02:04 - Earth-block system\n05:52 - Earth-block-spring system\n11:14 - Earth-block-spring air system\n14:46 - Revisit the original question\n\n------------------\n\nKhan Academy is a nonprofit organization with the mission of providing a free, world-class education for anyone, anywhere. Khan Academy has been translated into dozens of languages, and 15 million people around the globe learn on Khan Academy every month. As a 501(c)(3) nonprofit",
+        "id": 4641294,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=GdDrYgXzBew",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 977,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4a-Gbdw7vOaccHmFo40b9g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/GdDrYgXzBew/hqdefault.jpg",
+        "title": "Conservation of energy (part 1) | AP Physics | Khan Academy",
+        "vote": 0
+    }
+]

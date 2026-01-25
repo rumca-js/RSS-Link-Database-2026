@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-24T02:20:41.434684+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-24T02:14:48+00:00",
+        "description": "<div id=\"remove_no_follow\">\n\t\t<div class=\"grid grid--cols-10@md grid--cols-8@lg article-column\">\n\t\t\t\t\t  <div class=\"col-12 col-10@md col-6@lg col-start-3@lg\">\n\t\t\t\t\t\t<div class=\"article-column__content\">\n<section class=\"wp-block-bigbite-multi-title\"><div class=\"container\"></div></section>\n\n\n\n<p>In 2026, lower-end PCs may be more difficult to come by, and for those that are available, price tags may rise.</p>\n\n\n\n<p>This is fallout from Intel\u2019s plans to pivot its manufacturing capacity from chips for PCs to Xeon processors to support intensive AI workloads. The company has admitted that it had miscalculated demand for its data center products, and will now go all-in on <a href=\"https://www.computerworld.com/article/4115620/ai-pcs-to-gain-speed-cut-cloud-costs-and-help-workers-upskill.html\" target=\"_blank\">AI-ready hardware</a>.</p>\n\n\n\n<p>This strategic turn indicates how voracious companies are for infrastructure that can power intensive AI workloads, to the point that even tech giants l",
+        "id": 4637654,
+        "language": "en-US",
+        "link": "https://www.computerworld.com/article/4121708/intels-ai-pivot-could-make-lower-end-pcs-scarce-in-2026.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 78,
+        "source_url": "https://www.computerworld.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Intel\u2019s AI pivot could make lower-end PCs scarce in 2026",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/Fearless-Chef-7664",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-24T16:55:08.629992+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-24T11:45:07+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>Hi can anyone help me trying to understand how mobile SIM cards are manufactured and provisioned from a security / telecom research perspective. I\u2019m curious about things like High-level SIM manufacturing flow (IC, OS, personalization, key injection) Standards involved (GSM/3GPP, ETSI, Java Card, eSIM) Common threat models &amp; historical vulnerabilities (SIM cloning, OTA abuse, SS7/DIAMETER, SIM Toolkit issues, eSIM risks) How researchers legally study or analyze SIM security today (labs, papers, CTFs, open tools) Trusted learning resources (whitepapers, books, specs, conference talks) or has good resources/recommendations, I\u2019d really appreciate your guidance</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Fearless-Chef-7664\"> /u/Fearless-Chef-7664 </a> <br/> <span><a href=\"https://www.reddit.com/r/darknet/comments/1qlky6t/help_me_find_resources/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/d",
+        "id": 4641217,
+        "language": "en",
+        "link": "https://www.reddit.com/r/darknet/comments/1qlky6t/help_me_find_resources",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 681,
+        "source_url": "https://www.reddit.com/r/darknet/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Help me find resources",
+        "vote": 0
+    }
+]

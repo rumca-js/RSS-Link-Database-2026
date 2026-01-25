@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Techlore",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-24T17:44:50.356635+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-24T17:01:07+00:00",
+        "description": "SimpleX Chat is the only messaging network where users have no identifiers\u2014no phone numbers, no usernames, no user IDs at all. Henry interviewed founder Evgeny Poberezkin about how unidirectional message pipes create a network where servers don't even know users exist, why this isn't federation, how it compares to Signal and Session, and why the company is based in the UK despite encryption battles.\n\n\ud83d\udcf1 RESOURCES IN VIDEO\n\u2022 SimpleX: https://simplex.chat\n\u2022 Evgeny's Website: https://www.poberezkin.com/about.html\n\n\ud83d\udd0e RELATED VIDEOS\nhttps://youtu.be/HvddJtqwn2s\nhttps://youtu.be/pxJMpRJQPw8\nhttps://youtu.be/aVwl892hqb4\n\n\ud83e\udde1 SUPPORT TECHLORE\nSupport our mission to defend digital rights for everyone:\nhttps://www.youtube.com/channel/UCs6KfncB4OV6Vug4o_bzijg/join\n\u2022 All Our Support Methods: https://techlore.tech/support/\n\n\ud83d\udd10 MORE FROM TECHLORE\n\u2022 Homepage & Newsletter: https://techlore.tech\n\u2022 Our Course, Go Incognito: https://techlore.tech/go-incognito-course/\n\u2022 Privacy Tools: https://privacytools.te",
+        "id": 4641543,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=hfzf0t8ZCK4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 327,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/hfzf0t8ZCK4/hqdefault.jpg",
+        "title": "Why This Messenger Has No Accounts, Phone Numbers, or Usernames (SimpleX Interview)",
+        "vote": 0
+    }
+]

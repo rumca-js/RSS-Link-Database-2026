@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "TED",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-24T21:22:00.079037+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-24T20:00:09+00:00",
+        "description": "Algorithms and AI don't just show us reality \u2014 they warp it in ways that benefit platforms built to exploit people for profit, says etymologist Adam Aleksic. From ChatGPT influencing our word choices to Spotify turning a data cluster into a new musical genre, he reveals how new technology subconsciously shapes our language, trends and sense of identity. \"These aren't neutral tools,\" he says, encouraging us to constantly ask ourselves: How am I being influenced?",
+        "id": 4642769,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/E6oZzu_ui0E",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 716,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCAuUUnT6oDeKwE6v1NGQxug",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/E6oZzu_ui0E/hqdefault.jpg",
+        "title": "As you scroll, remember to ask yourself, \"How am I being influenced?\"",
+        "vote": 0
+    }
+]

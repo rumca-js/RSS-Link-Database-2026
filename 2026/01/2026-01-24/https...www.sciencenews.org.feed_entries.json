@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Nancy Shute",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-24T12:04:14.144512+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-24T12:00:00+00:00",
+        "description": "Editor in Chief Nancy Shute discusses how scientists are beginning to study animals\u2019 emotions and personalities \u2014 from joy to individual temperament.",
+        "id": 4639667,
+        "language": "en-US",
+        "link": "https://www.sciencenews.org/article/ed-note-inner-lives-of-animals",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 295,
+        "source_url": "https://www.sciencenews.org/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "The inner lives of animals",
+        "vote": 0
+    }
+]

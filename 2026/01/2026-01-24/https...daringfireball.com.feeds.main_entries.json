@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Gruber",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-24T04:11:30.598300+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-24T03:38:53+00:00",
+        "description": "<p>The main reason I\u2019m sticking with MacOS 15 Sequoia, refusing to install 26 Tahoe, is that there are so many <a href=\"https://daringfireball.net/linked/2026/01/22/macos-26-tahoe-broke-column-view-in-the-finder\">severe UI regressions</a> in Tahoe. The <a href=\"https://daringfireball.net/linked/2026/01/06/nielsen-icons-in-menus\">noisy, distracting, inconsistent icons</a> prefixing menu item commands, <a href=\"https://daringfireball.net/linked/2026/01/05/hard-to-justify-tahoe-icons\">ruining the Mac\u2019s signature menu bar system</a>. Indiscriminate transparency that renders so many menus, windows, and sidebars <a href=\"https://eclecticlight.co/2025/11/09/last-week-on-my-mac-tahoe-26-1-disappointments/\">inscrutable and ugly</a>. Windows with childish round corners that are <a href=\"https://daringfireball.net/2026/01/resizing_windows_macos_26\">hard to resize</a>. The <a href=\"https://daringfireball.net/linked/2025/11/07/tahoes-terrible-icons\">comically sad app icons</a>. Why choose to suffe",
+        "id": 4638010,
+        "language": "",
+        "link": "https://daringfireball.net/2026/01/resize_columns_to_fit_filenames",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 489,
+        "source_url": "https://daringfireball.com/feeds/main",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://daringfireball.net/misc/2026/01/tahoe-finder-rename-glitch.png",
+        "title": "\u2605 Tahoe Added a Finder Option to Resize Columns to Fit Filenames",
+        "vote": 0
+    }
+]

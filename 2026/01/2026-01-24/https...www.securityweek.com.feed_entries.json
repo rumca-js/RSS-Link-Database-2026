@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Eduard Kovacs",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-24T09:20:39.720068+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-24T08:45:43+00:00",
+        "description": "<p>The WorldLeaks cybercrime group claims to have stolen information from the footwear and apparel giant\u2019s systems.</p>\n<p>The post <a href=\"https://www.securityweek.com/nike-probing-potential-security-incident-as-hackers-threaten-to-leak-data/\">Nike Probing Potential Security Incident as Hackers Threaten to Leak Data</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+        "id": 4638980,
+        "language": "en-US",
+        "link": "https://www.securityweek.com/nike-probing-potential-security-incident-as-hackers-threaten-to-leak-data",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 299,
+        "source_url": "https://www.securityweek.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Nike Probing Potential Security Incident as Hackers Threaten to Leak Data",
+        "vote": 0
+    }
+]

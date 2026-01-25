@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "AI Search",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-24T04:35:48.312083+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-24T03:24:48+00:00",
+        "description": "Qwen3 TTS review & installation tutorial. How to run Qwen3 TTS on ComfyUI. Best AI voice cloner. AI voice design, emotion control. #ai #aitools #tts #aivoice #voicecloner\n\nThanks to our sponsor Abacus AI. Try ChatLLM & DeepAgent here: http://chatllm.abacus.ai/?token=aisearch\n\nQwen3 TTS ComfyUI workflow: https://github.com/flybirdxx/ComfyUI-Qwen-TTS\n\nIn your custom nodes folder, open cmd and type: git clone https://github.com/flybirdxx/ComfyUI-Qwen-TTS.git\n\nThen, in your windows portable folder, open cmd and type: .\\python_embeded\\python.exe -m pip install -r .\\ComfyUI\\custom_nodes\\ComfyUI-Qwen-TTS\\requirements.txt\n\n0:00 Qwen3 TTS intro\n0:50 Voice design demos\n2:42 Emotion control\n3:18 Prebuilt voices\n4:18 Instant voice cloning\n5:58 Multiple voices\n6:51 Accent tests\n8:19 Other voice cloning tests\n9:29 Multi language tests\n11:10 Emotion control tests\n12:04 ChatLLM\n13:12 Voice design tests\n14:17 Specs and benchmarks\n15:19 How to install Qwen3 TTS\n19:24 How to use voice cloning\n22:16 How ",
+        "id": 4638054,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=eC8mZceIy5k",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 806,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIgnGlGkVRhd4qNFcEwLL4A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/eC8mZceIy5k/hqdefault.jpg",
+        "title": "This is now the best FREE AI text-to-speech! Voice cloning + emotion control + voice design",
+        "vote": 0
+    }
+]

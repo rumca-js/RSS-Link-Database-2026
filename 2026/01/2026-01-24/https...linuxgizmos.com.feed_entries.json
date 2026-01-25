@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-24T02:08:42.695252+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-24T01:47:29+00:00",
+        "description": "Innodisk, in collaboration with Qualcomm Technologies, has released the EXEC-Q911, a ruggedized development kit built around a COM-HPC Mini module mounted on a dedicated carrier board for industrial edge workloads. Part of the company&#8217;s &#8220;AI on Dragonwing&#8221; series, the platform targets robotics, smart infrastructure, and edge LLM applications. The compatible COM-HPC Mini Module EXMP-Q911 is [&#8230;]",
+        "id": 4637617,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/innodisk-releases-exec-q911-development-kit-with-qualcomm-qcs9075",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Innodisk Releases EXEC-Q911 Development Kit with Qualcomm QCS9075",
+        "vote": 0
+    }
+]

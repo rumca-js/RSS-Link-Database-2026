@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-24T17:01:36.021145+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-24T16:30:05+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/DjJb3lmJfG0\" width=\"480\" alt=\"thumbnail\" title=\"We're Witnessing The End Of Bug Bounties\" /></p>With the rise of AI we're seeing bug bounty programs are being bombarded with absolute slop reports and at least for Curl this is ending the entire program.<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />Curl Blog: https://daniel.haxx.se/blog/2025/07/14/death-by-a-thousand-slops/<br />Example 1: https://hackerone.com/reports/3506159<br />Duplicate: https://hackerone.com/reports/3480078<br />Example 2: https://hackerone.com/reports/3231321 <br />Example 3: https://hackerone.com/reports/3125820 <br />Example 4: https://hackerone.com/reports/2199174 <br />Example 5: https://hackerone.com/repor",
+        "id": 4641276,
+        "language": "en",
+        "link": "https://odysee.com/we%27re-witnessing-the-end-of-bug-bounties:60fab23880e5a436316b81864ac595ad5176b9f2",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/DjJb3lmJfG0",
+        "title": "We're Witnessing The End Of Bug Bounties",
+        "vote": 0
+    }
+]
