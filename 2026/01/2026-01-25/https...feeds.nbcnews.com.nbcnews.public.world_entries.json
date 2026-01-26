@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mahalia Dobson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-25T09:46:26.875965+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-25T09:22:06+00:00",
+        "description": "President Donald Trump commended British soldiers who fought in Afghanistan in a social media post on Saturday, backtracking on remarks he made that attracted criticism from NATO allies.",
+        "id": 4645435,
+        "language": "en-US",
+        "link": "https://www.nbcnews.com/world/united-kingdom/trump-praises-uk-troops-backlash-nato-front-line-remarks-rcna255796",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 224,
+        "source_url": "https://feeds.nbcnews.com/nbcnews/public/world",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-01/260124-troops-nd-ff0eaf.jpg",
+        "title": "Trump praises U.K. troops after backlash over NATO front line remarks",
+        "vote": 0
+    }
+]

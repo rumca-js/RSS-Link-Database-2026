@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-25T06:11:58.841375+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-25T06:11:58+00:00",
+        "description": "Every year, millions of Australians and foreigners alike visit the country\u2019s coast. But experts say it\u2019s time for a reality check.",
+        "id": 4644749,
+        "language": "en-au",
+        "link": "https://www.news.com.au/travel/travel-updates/incidents/experts-issue-warning-to-tourists-amid-spate-of-east-coast-shark-attacks/news-story/0d73bad68f704b10b30f76635c257cb5?from=rss-basic",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 409,
+        "source_url": "https://www.news.com.au/content-feeds/latest-news-travel",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://content.api.news/v3/images/bin/137dd96865785ab4572c075e67e2d890?width=320",
+        "title": "\u2018Silver bullet\u2019: World warned about Australia",
+        "vote": 0
+    }
+]

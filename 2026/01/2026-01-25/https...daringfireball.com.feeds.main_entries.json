@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Gruber",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-25T01:01:10.320104+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-25T00:14:52+00:00",
+        "description": "<p>A few weeks ago there were a rash of stories claiming that iOS 26 is seeing bizarrely low adoption rates from iPhone users. The methodology behind these numbers is broken and the numbers are totally wrong. Those false numbers are so low, so jarringly different from previous years, that it boggles my mind that they didn\u2019t raise a red flag for anyone who took a moment to consider them.</p>\n\n<p>The ball started rolling with this post from Ed Hardy at Cult of Mac on January 8, \u201c<a href=\"https://www.cultofmac.com/news/ios-26-adoption-struggles-with-iphone-users\">iOS 26 Still Struggles to Gain Traction With iPhone Users</a>\u201d, which began:</p>\n\n<blockquote>\n  <p>Only a tiny percentage of iPhone users have installed iOS 26,\naccording to data from a web analytics service. The adoption rate\nis far less than previous iOS versions at this same point months\nafter their releases. The data only reveals how few iPhone users\nrun Apple\u2019s latest operating system upgrade, not why they\u2019ve\nchosen to avo",
+        "id": 4643715,
+        "language": "",
+        "link": "https://daringfireball.net/2026/01/ios_26_adoption_rate_is_not_bizarrely_low",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 489,
+        "source_url": "https://daringfireball.com/feeds/main",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://daringfireball.net/misc/2026/01/david-smith-ios-v26-v18-adoption.png",
+        "title": "\u2605 The iOS 26 Adoption Rate Is Not Bizarrely Low Compared to Previous Years",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-25T10:59:26.112790+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-25T10:59:25+00:00",
+        "description": "Russian bombardments have hit Kyiv particularly hard this winter, forcing half a million people to evacuate.",
+        "id": 4645730,
+        "language": "en-us",
+        "link": "https://www.themoscowtimes.com/2026/01/25/zelensky-sezelensky-seeks-air-defense-support-as-russia-plunges-kyiv-into-coldeks-air-defense-support-as-russia-plunges-kyiv-into-cold-a91770",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 350,
+        "source_url": "https://www.themoscowtimes.com/rss/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Zelensky Seeks Air Defense Support as Russia Plunges Kyiv Into Cold",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "AI Search",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-25T04:36:14.657890+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-25T03:29:48+00:00",
+        "description": "HUGE AI NEWS: PersonaPlex, Step3 VL, Qwen3 TTS, FlowAct R1, VideoMama, VIGA & more #ai #ainews #aitools #aivideo\n\nThanks to our sponsor Artlist. Try their new AI Toolkit today: https://artlist.io/artlist-70446?artlist_aid=AIsearch_3782&utm_source=affiliate_p&utm_medium=AIsearch_3782&utm_campaign=AIsearch_3782\n\nSources in order of mention:\nVIGA: https://fugtemypt123.github.io/VIGA-website/\nVideoMama https://cvlab-kaist.github.io/VideoMaMa/\nLightOnOCR https://huggingface.co/lightonai/LightOnOCR-2-1B\nPersonaPlex https://research.nvidia.com/labs/adlr/personaplex/\nCoDance https://lucaria-academy.github.io/CoDance/\nWaypoint https://huggingface.co/blog/waypoint-1\nOmniTransfer https://pangzecheung.github.io/OmniTransfer/\nQwen3 TTS tutorial https://youtu.be/eC8mZceIy5k\nLuxTTS https://github.com/ysharma3501/LuxTTS\nVibeVoice ASR https://huggingface.co/microsoft/VibeVoice-ASR\nFrankenMotion https://coral79.github.io/frankenmotion/\nFlowAct R1 https://grisoon.github.io/FlowAct-R1/\nLinum V2 https://w",
+        "id": 4644426,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=BYPlfLQm0CQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 806,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIgnGlGkVRhd4qNFcEwLL4A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/BYPlfLQm0CQ/hqdefault.jpg",
+        "title": "Realtime AI voices, AI livestreamers, Blender 3D agents, realtime worlds, new top OCR: AI NEWS",
+        "vote": 0
+    }
+]
