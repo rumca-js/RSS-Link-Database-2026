@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Nostalgia Nerd",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-26T17:36:12.478236+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-26T17:01:27+00:00",
+        "description": "Full video at https://www.youtube.com/watch?v=0Ol8ZSE-PEk ~ Windows 95 was a big deal, but y tho? Probably because of Bill Gates and Steve Balmer dancing like maniacs?",
+        "id": 4655685,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/wtJRMhfVFUo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 819,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7qPftDWPw9XuExpSgfkmJQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/wtJRMhfVFUo/hqdefault.jpg",
+        "title": "Windows 95 was Life Changing",
+        "vote": 0
+    }
+]

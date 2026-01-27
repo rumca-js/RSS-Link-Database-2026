@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "DistroTube",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-26T15:25:47.878725+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-26T14:00:25+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/Iif4GpL6yrQ\" width=\"480\" alt=\"thumbnail\" title=\"My Xonsh Shell Experiment Failed! (...Kind Of)\" /></p>Xonsh (sounds like \"consh\") is a modern, full-featured and cross-platform python shell.  I recently switched to using Xonsh as my default user shell, but I ran into a big problem with it, mainly because I installed it the wrong way!<br /><br />REFERENCED:<br />\u25ba https://xon.sh/<br /><br />WANT TO SUPPORT THE CHANNEL? <br />\ud83d\udcb0 Patreon: https://www.patreon.com/distrotube <br />\ud83d\udcb3 Paypal: https://www.paypal.com/donate/?hosted_button_id=MW3ZFGS8Q9JGW<br />\ud83d\udecd\ufe0f Amazon: https://amzn.to/2RotFFi<br />\ud83d\udc55 Teespring: https://teespring.com/stores/distrotube<br /><br />DT ON THE WEB:<br />\ud83d\udd78\ufe0f Website: http://distro.tube<br />\ud83d\udcc1 GitLab: https://gitlab.com/dwt1  <br />\ud83d\udde8\ufe0f Mastodon: https://fosstodon.org/@distrotube<br />\ud83d\udc6b Reddit: https://www.reddit.com/r/DistroTube/<br />\ud83d\udcfd\ufe0f Odysee: https://odysee.com/@DistroTube:2<br /><br />FREE AND OPEN SOURCE SOFTWARE THAT I LIKE:",
+        "id": 4654469,
+        "language": "en",
+        "link": "https://odysee.com/my-xonsh-shell-experiment-failed!:073ee5d2246a2a092e219ef8618ec267c8c6082c",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 518,
+        "source_url": "https://odysee.com/$/rss/@DistroTube:2",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/Iif4GpL6yrQ",
+        "title": "My Xonsh Shell Experiment Failed! (...Kind Of)",
+        "vote": 0
+    }
+]

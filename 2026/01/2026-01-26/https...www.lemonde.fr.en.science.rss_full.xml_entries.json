@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-26T16:15:11.401810+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-26T16:12:17+00:00",
+        "description": "On Monday, a multidisciplinary commission presented the mayor of Paris with a list of 72 names of women who will join the exclusively male scientists whose names are inscribed on the frieze of the 'Iron Lady.'",
+        "id": 4654890,
+        "language": "en-US",
+        "link": "https://www.lemonde.fr/en/france/article/2026/01/26/eiffel-tower-to-honor-72-women-in-science-for-posterity_6749828_7.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 190,
+        "source_url": "https://www.lemonde.fr/en/science/rss_full.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.lemde.fr/2026/01/26/328/0/3872/1936/644/322/60/0/c364eb6_upload-1-ozipleysz49p-gettyimages-91405736.jpg",
+        "title": "Eiffel Tower to honor 72 women scientists for posterity",
+        "vote": 0
+    }
+]

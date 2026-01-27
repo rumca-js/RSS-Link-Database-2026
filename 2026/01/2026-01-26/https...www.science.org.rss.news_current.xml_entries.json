@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Elise Cutts",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-26T10:14:20.904969+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-26T03:00:00+00:00",
+        "description": "Waves of molten rock could be confounding observations of atmospheres on distant planets",
+        "id": 4652233,
+        "language": "en-US",
+        "link": "https://www.science.org/content/article/tidal-waves-lava-may-slosh-around-alien-worlds",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 187,
+        "source_url": "https://www.science.org/rss/news_current.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Tidal waves of lava may slosh around alien worlds",
+        "vote": 0
+    }
+]

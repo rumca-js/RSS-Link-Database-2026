@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ETA PRIME",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-26T14:34:18.744490+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-26T14:02:23+00:00",
+        "description": "Intel Panther Lake is finally here\u2014Intel Core Ultra 300 gets a massive iGPU upgrade.\nI tested the Core Ultra X9 388H + Arc B390 iGPU in real benchmarks and real games (including Cyberpunk). In this hands-on performance test, I\u2019m putting Intel\u2019s new Panther Lake (Core Ultra 300) through weeks of benchmarks, creator tests, AI workloads, and gaming\u2014using a Lenovo reference laptop to focus purely on the chip. The big headline is the Intel Arc B390 iGPU with XeSS features (including multi-frame generation) delivering surprisingly high frame rates\u2014even in demanding titles.\n\nLearn More Here: https://www.dell.com/en-us/shop/desktop-computers/scr/desktops/appref=all-intel-processors-processor-brand?gacd=9684992-1111-5761040-266906002-0&dgc=ST&SA360CID=20090942777&gclsrc=aw.ds&gad_source=1&gad_campaignid=20090942777&gbraid=0AAAAADllXQdeCenO0pIxKrgYTSwbnHNvh&gclid=Cj0KCQiAvtzLBhCPARIsALwhxdqVtma9o3X2kjgLTIQL1oG27dsX4IXuwNk74QhzJYpR2RmZIETlXBQaAlgvEALw_wcB\n\nFollow Me On Twitter: https://twitter.c",
+        "id": 4653987,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=AX_rvgsYHJE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 100,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_0CVCfC_3iuHqmyClu59Uw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/AX_rvgsYHJE/hqdefault.jpg",
+        "title": "Intel Panther Lake Is Here! Hands On With Their Most Powerful iGPU!",
+        "vote": 0
+    }
+]

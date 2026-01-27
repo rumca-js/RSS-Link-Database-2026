@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Gruber",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-26T18:05:55.941472+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-26T17:58:37+00:00",
+        "description": "<p>Federico Viticci, writing at MacStories:</p>\n\n<blockquote>\n  <p>If this intro just gave you whiplash, imagine my reaction when I\nfirst started playing around with <a href=\"https://clawd.bot/\">Clawdbot</a>, the incredible\n<a href=\"https://github.com/clawdbot/clawdbot\">open-source project</a> by <a href=\"https://steipete.me/\">Peter Steinberger</a> (a name\nthat should be <a href=\"https://www.macstories.net/linked/ios-10-3-beta-re-introduces-warning-for-old-32-bit-apps-suggests-future-incompatibility/\">familiar to longtime MacStories readers</a>)\nthat\u2019s become <em>very</em> popular in certain AI communities over the\npast few weeks. I kept seeing Clawdbot being mentioned by people I\nfollow; eventually, I gave in to peer pressure, followed the\ninstructions provided by the funny crustacean mascot on the app\u2019s\n<a href=\"https://docs.clawd.bot/start/getting-started\">website</a>, installed Clawdbot on my new M4 Mac mini (which\nis not my main production machine), and <a href=\"https://docs.claw",
+        "id": 4655973,
+        "language": "",
+        "link": "https://www.macstories.net/stories/clawdbot-showed-me-what-the-future-of-personal-ai-assistants-looks-like",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 489,
+        "source_url": "https://daringfireball.com/feeds/main",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Federico Viticci on Clawdbot",
+        "vote": 0
+    }
+]

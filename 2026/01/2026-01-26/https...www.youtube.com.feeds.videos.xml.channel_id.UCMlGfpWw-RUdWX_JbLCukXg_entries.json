@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-26T16:46:02.393380+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-26T16:02:12+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nUsing Floating-point in C++: What Works, What Breaks, and Why - Egor Suvorov - CppCon 2025\n---\n\nFloating-point arithmetic is easy to write. But, when it goes wrong, it is much harder to debug. It's even harder to define what \"\"wrong\"\" means: a game has to be fast, but a financial report has to be reasonable for humans. This talk explores how different applications impose implicit requirements on floating-point behavior, what classical issues arise, how to work with them, and why there is sometimes no workaround. \n \nWe will start by looking at how floating-point operations are implemented in different C++ contexts, and the counter-intuitive implications that follow. We will see how different environments find subtly different balances between correctness, predictability, and performance. We will then examine code examples that produce subtly incorrect results or even UB, but are still easily fixable. \n \nNext, we will dive into more complicated calculations and ",
+        "id": 4655262,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=m83TjrB6wYw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/m83TjrB6wYw/hqdefault.jpg",
+        "title": "Using Floating-point in C++: What Works, What Breaks, and Why - Egor Suvorov - CppCon 2025",
+        "vote": 0
+    }
+]

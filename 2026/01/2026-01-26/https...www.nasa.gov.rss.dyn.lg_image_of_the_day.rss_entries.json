@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-26T16:56:54.464128+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-26T16:31:00+00:00",
+        "description": "A seemingly serene landscape of gas and dust is hopping with star formation behind the scenes.",
+        "id": 4655354,
+        "language": "en-us",
+        "link": "https://www.nasa.gov/image-detail/hubble-lupus3-48-tt-new-cont-final",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 485,
+        "source_url": "https://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Hubble Observes Ghostly Cloud Alive with Star Formation",
+        "vote": 0
+    }
+]
