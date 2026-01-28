@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Blog Staff",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-27T23:30:59.527718+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-27T22:55:53+00:00",
+        "description": "<p>\n\t<img alt=\"krzemienskivaluesemantics.png\" src=\"https://isocpp.org/files/img/krzemienskivaluesemantics.png\" style=\"width: 400px; margin: 10px; float: right;\" />Value semantics is a way of structuring programs around what values mean, not where objects live, and C++ is explicitly designed to support this model. In a value-semantic design, objects are merely vehicles for communicating state, while identity, address, and physical representation are intentionally irrelevant.</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://thecppway.com/posts/value_semantics/\">Exclusive state access, I</a></h3>\n\t<p>\n\t\tby Andrzej Krzemie&#324;ski</p>\n</blockquote>\n<p>\n\tFrom the article:</p>\n<blockquote>\n\t<p>\n\t\t<em>Value semantics</em>&nbsp;is a way of organizing your programs, which C++ supports and endorses. Its key characteristics in a nutshell:</p>\n\t<ol>\n\t\t<li>\n\t\t\tThroughout its lifetime an object (via its type and special member functions) is used to represent a&nbsp;<em>value</em>.</li>\n\t\t<li>\n\t\t\tDifferen",
+        "id": 4664978,
+        "language": "en",
+        "link": "https://isocpp.org//blog/2026/01/value-semantics-andrzej-krzemieski",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://isocpp.org/files/img/krzemienskivaluesemantics.png",
+        "title": "Exclusive state access, I -- Andrzej Krzemie\u0144ski",
+        "vote": 0
+    }
+]

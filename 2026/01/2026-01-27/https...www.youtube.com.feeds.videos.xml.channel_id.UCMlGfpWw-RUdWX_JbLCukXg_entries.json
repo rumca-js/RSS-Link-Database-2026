@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-27T16:53:20.252769+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-27T16:02:04+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nCross-Platform Package Management for Modern C++ Development with Pixi - Ruben Arts - CppCon 2025\n---\n\nSetting up and maintaining C++ development environments across multiple platforms is a pain, especially in collaborative projects. In this talk, we introduce Pixi, a modern workflow and package management tool built on top of the conda ecosystem, tailored to make software development easy, flexible and reproducible. Pixi draws inspiration from Rust's Cargo, Node's npm and Python's poetry, but applies those ideas to a cross-language, cross-platform environment manager that actually works well for C++.\n\nWe'll explain why Pixi is so fast, reproducible, and designed for teams from academia to industry, working on C++ projects. Using practical examples and a live demo, we'll show how Pixi simplifies everything from environment setup to multi-level builds, CI and deployment. Especially the ability to comfortably mix dependencies as binaries or source builds is very",
+        "id": 4659046,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=SQk0lKv2swk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/SQk0lKv2swk/hqdefault.jpg",
+        "title": "Cross-Platform Package Management for Modern C++ Development with Pixi - Ruben Arts - CppCon 2025",
+        "vote": 0
+    }
+]

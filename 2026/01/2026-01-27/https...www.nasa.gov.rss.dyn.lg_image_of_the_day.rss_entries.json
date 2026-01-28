@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-27T17:54:36.184631+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-27T16:09:00+00:00",
+        "description": "NASA\u2019s James Webb Space Telescope\u2019s 2024 NIRCam image shows protostar EC 53 circled. Researchers using new data from Webb\u2019s MIRI proved that crystalline silicates form in the hottest part of the disk of gas and dust surrounding the star \u2014 and may be shot to the system\u2019s edges.",
+        "id": 4661555,
+        "language": "en-us",
+        "link": "https://www.nasa.gov/image-detail/stsci-01keswn3g28kzcqpz2ghhdkac3-e1f0ce",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 485,
+        "source_url": "https://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "NASA\u2019s James Webb Space Telescope Finds Crystal-Spewing Protostar",
+        "vote": 0
+    }
+]

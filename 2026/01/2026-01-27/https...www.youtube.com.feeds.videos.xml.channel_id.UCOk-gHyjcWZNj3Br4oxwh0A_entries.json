@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Techno Tim",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-27T17:24:52.344680+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-27T15:30:25+00:00",
+        "description": "Build a complete Paperless-ngx stack in Docker and take control of your documents. We\u2019ll get Paperless running first (works great on its own), then optionally add local AI with Ollama + Open WebUI and upgrade OCR using Paperless-GPT and Paperless-AI for more accurate, searchable text - no cloud required.\n\nFull Guide Here: https://technotim.com/posts/paperless-ngx-local-ai/\nCode Here: https://github.com/timothystewart6/paperless-stack\n\nPaperless NGX: https://github.com/paperless-ngx/paperless-ngx\nPaperless AI: https://github.com/clusterzx/paperless-ai\nPaperless GPT: https://github.com/icereed/paperless-gpt\n\nMerch Shop \ud83d\udecd\ufe0f: https://l.technotim.com/shop\nSupport me on Patreon: https://www.patreon.com/technotim\nSponsor me on GitHub: https://github.com/sponsors/timothystewart6\nSubscribe on Twitch: https://www.twitch.tv/technotim\nBecome a YouTube member: https://www.youtube.com/channel/UCOk-gHyjcWZNj3Br4oxwh0A/join\nGear Recommendations: https://l.technotim.com/gear\nGet Help in Our Discord Com",
+        "id": 4660500,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=NMAwHjleqHg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 911,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCOk-gHyjcWZNj3Br4oxwh0A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/NMAwHjleqHg/hqdefault.jpg",
+        "title": "Paperless-ngx + Local AI (Optional): Better OCR, Self-Hosted, No Cloud",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-27T17:52:44.174320+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-27T16:30:11+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/O15jcjr72Rg\" width=\"480\" alt=\"thumbnail\" title=\"The KDE Plasma Login Manager Drama Is Dumb\" /></p>Recently the KDE Plasma Login Manager dropped support for FreeBSD in favor of making use of Systemd functionality and a bunch of people took to mean that KDE Plasma was completely dropping FreeBSD<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />Plasma Commit: https://github.com/KDE/plasma-login-manager/commit/e78f33aefd6512b542af21c3542516f38cbf678d<br />Phoronix Article: https://www.phoronix.com/news/FreeBSD-15.1-KDE-Desktop-Option<br />Podcast Talk: https://www.youtube.com/watch?v=mxhAfN_d01I<br />Reddit Post: https://www.reddit.com/r/kde/comments/1qi9vo5/comment/o0pzvqc/<br />Plasma Log",
+        "id": 4661526,
+        "language": "en",
+        "link": "https://odysee.com/the-kde-plasma-login-manager-drama-is:0bb54804a4c8ab54058b9297b4768d39bc7ca567",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/O15jcjr72Rg",
+        "title": "The KDE Plasma Login Manager Drama Is Dumb",
+        "vote": 0
+    }
+]

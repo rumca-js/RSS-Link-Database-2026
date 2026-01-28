@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-27T16:48:16.270379+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-27T16:30:11+00:00",
+        "description": "Recently the KDE Plasma Login Manager dropped support for FreeBSD in favor of making use of Systemd functionality and a bunch of people took to mean that KDE Plasma was completely dropping FreeBSD\n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\nPlasma Commit: https://github.com/KDE/plasma-login-manager/commit/e78f33aefd6512b542af21c3542516f38cbf678d\nPhoronix Article: https://www.phoronix.com/news/FreeBSD-15.1-KDE-Desktop-Option\nPodcast Talk: https://www.youtube.com/watch?v=mxhAfN_d01I\nReddit Post: https://www.reddit.com/r/kde/comments/1qi9vo5/comment/o0pzvqc/\nPlasma Login Manager: https://github.com/KDE/plasma-login-manager\nLy Repo: https://github.com/fairyglade/ly\nNeal Gompa Mastodon: https://floss.social/@neal@social.gompa.me/115936472378369649\nKDE Mastodon Post: http",
+        "id": 4658656,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=O15jcjr72Rg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/O15jcjr72Rg/hqdefault.jpg",
+        "title": "The KDE Plasma Login Manager Drama Is Dumb",
+        "vote": 0
+    }
+]

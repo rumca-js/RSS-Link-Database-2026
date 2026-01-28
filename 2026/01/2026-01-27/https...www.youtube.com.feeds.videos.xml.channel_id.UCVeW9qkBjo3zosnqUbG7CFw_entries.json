@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Hammond",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-28T00:31:07.603634+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-27T22:52:58+00:00",
+        "description": "https://jh.live/hex-rays || Disassemble, decompile and debug with IDA Pro! Use promo code HAMMOND50 for 50% off any IDA Pro product (license discount is only applicable to individuals for any product, not corporations  https://hex-rays.com/pricing) and code HAMMOND30 for 30% off any IDA Pro online training https://hex-rays.com/training. Offer expires one year after video release date.\n\nhttps://www.aikido.dev/blog/fake-clawdbot-vscode-extension-malware\nhttps://www.trendmicro.com/en_us/research/26/a/analysis-of-the-evelyn-stealer-campaign.html\nhttps://www.koi.ai/blog/the-vs-code-malware-that-captures-your-screen\n\nLearn Cybersecurity and more with Just Hacking Training: https://jh.live/training\nSee what else I'm up to with: https://jh.live/newsletter\n\n\u2139\ufe0f Affiliates:\nLearn how to code with CodeCrafters: https://jh.live/codecrafters\nHost your own VPN with OpenVPN: https://jh.live/openvpn\nGet Blue Team Training and SOC Analyst Certifications with CyberDefenders: https://jh.live/cyberdefense",
+        "id": 4665316,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=7GS6Xs4hdvg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 959,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVeW9qkBjo3zosnqUbG7CFw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/7GS6Xs4hdvg/hqdefault.jpg",
+        "title": "Clawdbot Malware",
+        "vote": 0
+    }
+]
