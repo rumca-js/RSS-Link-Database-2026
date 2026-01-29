@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Sourav Rudra",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-28T13:13:53.627556+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-28T13:06:38+00:00",
+        "description": "This open source project has survived Anthropic's trademark lawyers, crypto scammers hijacking its identity, and security holes exposing users.",
+        "id": 4669068,
+        "language": "en-US",
+        "link": "https://itsfoss.com/news/clawdbot-fiasco-explained",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 156,
+        "source_url": "https://news.itsfoss.com/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://itsfoss.com/content/images/2026/01/moltbot-ai-assistant-banner.png",
+        "title": "What is this Clawdbot, Err Moltbot, Everyone's Screaming About?",
+        "vote": 0
+    }
+]

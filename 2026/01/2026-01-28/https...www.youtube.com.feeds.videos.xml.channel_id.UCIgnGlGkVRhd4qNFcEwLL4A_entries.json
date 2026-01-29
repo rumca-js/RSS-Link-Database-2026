@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "AI Search",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-28T03:54:31.611281+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-28T03:28:09+00:00",
+        "description": "Clawdbot full tutorial. How to install Clawdbot / Moltbot. Use cases of Clawd. Clawdbot vs Claude Code #clawdbot #ai #aitools #ainews #aiagent #agi\n\nThanks to our sponsor Higgsfield. Try it for free: https://higgsfield.ai/?utm_source=AISearch \n\nhttps://clawd.bot/\nAWS free E2 server: https://aws.amazon.com/\nAdd web search: clawdbot configure --section web\nBrave search API: https://brave.com/search/api/\nClawdhub skills https://clawdhub.com/\nAdd Clawdhub: npm i -g clawdhub\n\nSecurity commands:\nclawdbot security audit\nclawdbot doctor\n\n0:00 Clawdbot intro\n0:31 What is Clawdbot\n2:09 What can Clawdbot actually do\n3:30 How to install Clawdbot or Moltbot\n11:45 How to pair Clawdbot with Telegram\n12:56 Higgsfield Vibe Motion\n14:09 How to give Clawdbot internet access\n16:37 How to setup Clawdhub skills\n20:10 Important security commands\n22:13 Security issues with Clawdbot\n25:58 Clawdbot vs Claude Code or alternatives\n\n\nLearn AI: https://ai-search.io/courses\nNewsletter: https://aisearch.substack.com",
+        "id": 4666380,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=c2nAKH8BIdo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 806,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIgnGlGkVRhd4qNFcEwLL4A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/c2nAKH8BIdo/hqdefault.jpg",
+        "title": "This AI is going VIRAL. Clawdbot explained",
+        "vote": 0
+    }
+]

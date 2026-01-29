@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-28T09:19:09.197273+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-28T01:54:51+00:00",
+        "description": "The US president said Iraq would have \"zero\" chance of success without American support.",
+        "id": 4667765,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/cn0kpk3drgjo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 525,
+        "source_url": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ce8/live/acec9ec0-fbeb-11f0-a47f-d352a7d9988a.jpg",
+        "title": "Trump says US will 'no longer help Iraq' if it picks Maliki as PM",
+        "vote": 0
+    }
+]

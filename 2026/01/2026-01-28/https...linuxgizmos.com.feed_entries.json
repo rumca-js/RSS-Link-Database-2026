@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-28T05:19:58.153503+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-28T04:37:04+00:00",
+        "description": "The device is designed as an open system for rapid deployment of vision, audio, and AIoT applications, aimed at researchers, and developers requiring more capable on-device inference and improved image quality than typical DIY camera setups. MaixCAM2 is built around an Axera AX630-series SoC with dual Arm Cortex-A53 cores running Linux, paired with a small [&#8230;]",
+        "id": 4666668,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/sipeed-maixcam2-combines-4k-imaging-and-edge-ai-in-an-open-camera-platform",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Sipeed MaixCAM2 combines 4K imaging and edge AI in an open camera platform",
+        "vote": 0
+    }
+]

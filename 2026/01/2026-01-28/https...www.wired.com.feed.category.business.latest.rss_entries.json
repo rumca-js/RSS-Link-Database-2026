@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Joel Khalili",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-28T12:28:59.710176+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-28T12:00:00+00:00",
+        "description": "Across Europe\u2019s largest cities, people are gathering for semi-silent, offline hangouts, in search of an experience that isn\u2019t mediated through their smartphones.",
+        "id": 4668715,
+        "language": "en-US",
+        "link": "https://www.wired.com/story/europe-offline-club-phone-addiction",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 396,
+        "source_url": "https://www.wired.com/feed/category/business/latest/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media.wired.com/photos/697247cdc4d50290ca091961/master/pass/012225_Offline-Club.jpg",
+        "title": "No Phone, No Social Safety Net: Welcome to the \u2018Offline Club\u2019",
+        "vote": 0
+    }
+]

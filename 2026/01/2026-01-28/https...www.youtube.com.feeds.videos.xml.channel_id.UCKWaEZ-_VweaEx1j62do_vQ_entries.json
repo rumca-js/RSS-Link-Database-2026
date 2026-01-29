@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-28T12:31:22.032201+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-28T11:01:37+00:00",
+        "description": "Explore the podcast \u2192 https://ibm.biz/BdpB6h\n\nAI-generated malware has officially arrived. But does it matter all that much? \n\nThis week on Security Intelligence, Suja Viswesan, Dave Bales and Dustin Heywood join us to discuss VoidLink, which might just be the first thoroughly documented case of a malware framework generated with significant AI help. The question is: What really changes when malware is no longer the handiwork of human hackers? \n\nWe also explore the World Economic Forum\u2019s Global Cybersecurity Outlook 2026, where CEOs and CISOs are split on what they fear most: cyber fraud or ransomware? Then we cover the debate over data protection vs. service resilience, and we dig into the takedown of RedVDS, a major player in the cybercrime-as-a-service supply chain. \n\nFinally, we reflect on the 40th anniversary of \u201cThe Hacker Manifesto,\u201d asking what\u2019s changed\u2014and what hasn\u2019t\u2014in hacker culture. \n\nAll that and more on Security Intelligence \n\n00:00 -- Introduction\n01:40 -- CEOs vs. CI",
+        "id": 4668718,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=tF8nJM4qOLE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/tF8nJM4qOLE/hqdefault.jpg",
+        "title": "The newest AI malware vs. 40 years of hacker culture",
+        "vote": 0
+    }
+]

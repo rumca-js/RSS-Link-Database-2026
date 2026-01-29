@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Branch Education",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-28T23:49:50.715811+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-28T21:35:46+00:00",
+        "description": "You\u2019ve probably heard that computers operate using logic gates \u2014 but have you ever wondered how they actually work? Logic gates are the fundamental building blocks of all digital systems, from tiny microcontrollers to powerful CPUs. In this short, we focus on one of the simplest yet most important ones: the AND gate.\n\nWe\u2019ll take a close-up look at its internal circuitry, show how transistors are arranged to implement logical operations, and explain what happens at the electrical level when inputs change. Whether you\u2019re new to digital electronics or just curious about what goes on beneath the silicon, this quick breakdown gives you a clear glimpse into the logic that drives modern computing..\n\nWatch the full video on how Logic Gates Actually Work!  - https://youtu.be/_Pqfjer8-O4",
+        "id": 4674601,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/YsSqbFrtM2I",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 841,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCdp4_l1vPmpN-gDbUwhaRUQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/YsSqbFrtM2I/hqdefault.jpg",
+        "title": "How does Computer Logic Work? #computerscience #logic #hardware",
+        "vote": 0
+    }
+]

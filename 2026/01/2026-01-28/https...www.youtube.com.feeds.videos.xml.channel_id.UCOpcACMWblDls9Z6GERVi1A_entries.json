@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Screen Junkies",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-28T19:08:14.358662+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-28T18:00:56+00:00",
+        "description": "Full video now available on the Screen Junkies channel.",
+        "id": 4672387,
+        "language": "en-US",
+        "link": "https://www.youtube.com/shorts/oPxiScMygVw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 296,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCOpcACMWblDls9Z6GERVi1A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/oPxiScMygVw/hqdefault.jpg",
+        "title": "Honest Trailers | The Lord of the Rings: The Return of the King",
+        "vote": 0
+    }
+]

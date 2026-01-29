@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-28T18:03:35.660795+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-28T16:02:08+00:00",
+        "description": "https://cppcon.org\n---\n\nMastering the Code Review Process - Pete Muldoon - CppCon 2025\n---\n\nIn software development, significant attention is given to   writing clean, maintainable code.   Yet, despite the best of intentions, many codebases drift from structured practices due to   inconsistent or ineffective code reviews.   This is a real problem as it is the last line of defense before merging and deploying changes to production.\n\nEngineers spend far more time reading code than writing it. Even small changes demand a thorough understanding of the surrounding code to prevent errors and unintended consequences. An   effective code review process   significantly amplifies good coding practices, structured problem-solving, and overall code quality.\n\nThis talk outlines core principles for conducting   impactful code reviews   emphasizing methodologies that balance consistent evaluation with the flexibility for handling the inevitable unusual situations.\n\nWe will also explore practical way",
+        "id": 4671696,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=6a3CNRMssQE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/6a3CNRMssQE/hqdefault.jpg",
+        "title": "Mastering the Code Review Process - Pete Muldoon - CppCon 2025",
+        "vote": 0
+    }
+]

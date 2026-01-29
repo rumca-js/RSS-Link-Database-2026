@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Google DeepMind",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-28T13:06:39.377709+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-28T12:00:29+00:00",
+        "description": "Join the Google DeepMind Genomics team for a deep dive into AlphaGenome. In this video, Dhavi (Product Manager) is joined by Ziga (Genomics Lead) and AlphaGenome first authors Natasha, Jun, and Tom to share the story behind AlphaGenome, their unified DNA sequence-to-function model recently published in Nature.\n\nThey discuss how the team built a system useful for decoding the 98% of the human genome that is non-coding - helping scientists predict the functional impact of genetic variants with unprecedented accuracy.\n\nPlus, hear about the engineering breakthroughs required to process long sequences at high resolution on TPUs, model complex biological processes like splicing and contact maps, and how the API enables researchers to rapidly score variants for accelerating disease understanding.\n\nJoin the AlphaGenome community https://www.alphagenomecommunity.com/\n\nChapters\n00:00 - Intros\n00:39 - Part 1 The Big Picture: Why AlphaGenome?\n06:28 - Part 2 The Model: What\u2019s new and how we built ",
+        "id": 4669014,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=V8lhUqKqzUc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 934,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP7jMXSY2xbc3KCAE0MHQ-A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/V8lhUqKqzUc/hqdefault.jpg",
+        "title": "AlphaGenome author roundtable",
+        "vote": 0
+    }
+]

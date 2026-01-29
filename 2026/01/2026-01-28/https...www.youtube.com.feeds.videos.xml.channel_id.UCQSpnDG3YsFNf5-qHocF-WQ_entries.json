@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ThioJoe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-28T16:02:50.289476+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-28T15:45:04+00:00",
+        "description": "You definitely want to change these Windows Settings from their default.\n\nHere's the command prompt command to remove web results from start menu searches:\n* reg add \"HKCU\\SOFTWARE\\Policies\\Microsoft\\Windows\\Explorer\" /v DisableSearchBoxSuggestions /t REG_DWORD /f /d 1\n* To put it back to default, change the last one (1) in the command to a zero (0)\n\nWindows 11 has a ton of default settings that are pretty annoying or just not ideal. A lot of them are privacy settings, but there's also a bunch for convenience or for features that aren't even enabled by default. In this video I go over a bunch of the easy low-hanging-fruit you can change to improve things. I show you exactly where to find them and what to change, whether it's enabling or disabling each one.\n\nTime Stamps:\n0:00 - Intro\n0:15 - Setting #1\n0:55 - Setting #2\n1:34 - #3\u20135 Advertising Settings\n2:25 - #6\u20137 Diagnostic Settings\n3:10 - #8\u20139 Search Settings To Change\n4:09 - #10 Power Settings \n4:46 - #11\u201313 Notification Settings\n5:5",
+        "id": 4670603,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=AyAO9j_QsK4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 366,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQSpnDG3YsFNf5-qHocF-WQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/AyAO9j_QsK4/hqdefault.jpg",
+        "title": "20 Windows Settings You Should Change Now!",
+        "vote": 0
+    }
+]

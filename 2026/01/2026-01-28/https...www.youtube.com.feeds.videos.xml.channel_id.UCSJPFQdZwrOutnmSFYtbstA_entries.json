@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Critical Drinker",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-28T18:32:29.812119+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-28T17:00:23+00:00",
+        "description": "We all had Starfleet Academy wrong, you see. It's not a terrible show with laughable writing and horrendous performances, it's just \"toxic dudebros\" who can't accept its greatness. According to The Mary Sue, at least.",
+        "id": 4671976,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=Iyu_HVukwPI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 334,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSJPFQdZwrOutnmSFYtbstA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/Iyu_HVukwPI/hqdefault.jpg",
+        "title": "Starfleet Academy Sucks - And WE'RE To Blame",
+        "vote": 0
+    }
+]

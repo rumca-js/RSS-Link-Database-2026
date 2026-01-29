@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-28T19:11:30.889487+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-28T16:30:21+00:00",
+        "description": "Mirko Brombin the developer of both VanillaOS and Bottles is working on a new Linux desktop powered by GTK4 that isn't using Libadwaita but is still inspired by the GNOME stile of workflow, it's called Singularity\n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\nAnnouncement: https://mastodon.social/@mirkobrombin/115922806634445705\nVanillaOS: https://vanillaos.org/\nBottles: https://usebottles.com/\nVideo Demo: https://x.com/brombinmirko/status/2013294217372570092\nVideo Demo 2: https://x.com/brombinmirko/status/2014083591790010678\nWhy: https://mastodon.social/@moshimotsu@floss.social/115922840260228070\nLabwc: https://github.com/labwc/labwc\nSingularity Website: https://sinty.dev/\n\n=========Video Platforms==========\n\ud83c\udfa5 React: https://www.youtube.com/@BrodieRobertsonReacts\n\ud83c\udfa5 P",
+        "id": 4672436,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=NbRv_urOXeI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/NbRv_urOXeI/hqdefault.jpg",
+        "title": "He's Making A New GTK4 Based Linux Desktop",
+        "vote": 0
+    }
+]

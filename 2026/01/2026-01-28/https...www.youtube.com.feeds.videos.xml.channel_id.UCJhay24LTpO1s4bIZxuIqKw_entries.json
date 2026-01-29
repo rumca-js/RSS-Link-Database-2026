@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ACCU Conference",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-28T16:49:59.095747+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-28T15:01:43+00:00",
+        "description": "ACCU Membership: https://tinyurl.com/ydnfkcyn\n---\n\nThe Beman Project: Testing C++ Library Proposals Before Standardization - Dietmar K\u00fchl - ACCU 2025 Short Talks\n---\n\nHow do C++ library proposals mature before becoming part of the C++ standard library? In this ACCU 2025 lightning talk, Dietmar K\u00fchl introduces the Beman Project \u2014 a community-driven initiative to test and validate C++ standard library proposals before they\u2019re accepted into the standard.\n\nThe Beman Project acts as a proving ground for experimental libraries intended for the C++ standardization process. Inspired by the spirit of Boost, but designed for today\u2019s evolving language and library ecosystem, Beman provides structured implementations of proposals such as `optional\uff1cT&\uff1e`, range-based extensions, execution libraries, and views and iterators.\n\nDietmar K\u00fchl outlines how the Beman Project helps ensure proposals are viable, usable, and buildable \u2014 with consistent layout and integration patterns \u2014 before they reach the C+",
+        "id": 4670873,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=wXQE_Upqbms",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 421,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJhay24LTpO1s4bIZxuIqKw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/wXQE_Upqbms/hqdefault.jpg",
+        "title": "The Beman Project: Testing C++ Library Proposals Before Standardization - Dietmar K\u00fchl - ACCU 2025",
+        "vote": 0
+    }
+]

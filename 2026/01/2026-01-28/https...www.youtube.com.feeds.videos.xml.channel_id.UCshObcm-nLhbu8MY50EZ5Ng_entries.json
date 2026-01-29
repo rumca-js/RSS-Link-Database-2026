@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Benn Jordan",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-28T07:48:59.215693+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-28T05:15:10+00:00",
+        "description": "Hello from the dystopian border region! Here's some quick info about LRADS being used against protesters on the other side of the country right now.",
+        "id": 4667272,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/3dgPIiSn2PY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 615,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCshObcm-nLhbu8MY50EZ5Ng",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/3dgPIiSn2PY/hqdefault.jpg",
+        "title": "LRADs harm protesters. Be safe!",
+        "vote": 0
+    }
+]
