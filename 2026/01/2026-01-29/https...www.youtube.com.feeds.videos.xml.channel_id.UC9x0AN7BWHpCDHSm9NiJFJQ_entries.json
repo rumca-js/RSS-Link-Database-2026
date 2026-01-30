@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NetworkChuck",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-29T19:07:09.099534+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-29T17:59:57+00:00",
+        "description": "Set up your own FOREVER TERMINAL with Hostinger: https://hostinger.com/networkchuck (Use code NETWORKCHUCK for a discount)\n\n\nClaude Code is a terminal app\u2026 and that\u2019s the problem. Phones don\u2019t have terminals. So in this video, I build a forever terminal in the cloud that lets you run Claude Code from your phone, ANYWHERE. Airport. Couch. Plane. Bathroom. Whatever.\n\n\n\ud83d\udd25\ud83d\udd25Join the NetworkChuck Academy!: https://ntck.co/NCAcademy \n\n\nRESOURCES / LINKS:\n\n\ud83d\udcbb GITHUB Guide: https://github.com/theNetworkChuck/remote-claude-code \n\n\u2601\ufe0f Termius (mobile terminal app): https://termius.com\n\n\ud83d\udcfa My previous video on Tmux: https://www.youtube.com/watch?v=nTqu6w2wc68\n\n\ud83d\udfe9 Tmux: https://github.com/tmux/tmux\n\n\n\n\nTIMESTAMPS:\n\n0:00 - Intro\n1:04 - Forever Terminal\n2:34 - VPS Hardening\n3:27 - Mobile Access With Termius\n6:18 - Session Persistence with Tmux\n\n\n\n\n\n**Sponsored by Hostinger\n\n\n\n\n\nSUPPORT NETWORKCHUCK\n---------------------------------------------------\n\ud83c\udf93\ud83c\udf93 Sign up for NetworkChuck Academy: https://ntck.co/NC",
+        "id": 4679623,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=FEDiAHzS0zw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 565,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9x0AN7BWHpCDHSm9NiJFJQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/FEDiAHzS0zw/hqdefault.jpg",
+        "title": "Claude Code on your phone in 10 minutes",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Computerphile",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-29T20:37:38.020286+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-29T14:00:23+00:00",
+        "description": "When the 3D dataset is too small to create models of frogs on stilts we have to think of a different way - Lewis Stuart is based at the University of Nottingham and explains how you can use 2D diffusion to create 3D models.\n\nComputerphile is supported by Jane Street. Learn more about them (and exciting career opportunities) at: https://jane-st.co/computerphile\n\nThis video was filmed and edited by Sean Riley.\n\nComputerphile is a sister project to Brady Haran's Numberphile. More at https://www.bradyharanblog.com",
+        "id": 4681164,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=C1E500opYHA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 929,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9-y-6csu5WGm29I7JiwpnA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/C1E500opYHA/hqdefault.jpg",
+        "title": "Generating 3D Models with Diffusion - Computerphile",
+        "vote": 0
+    }
+]

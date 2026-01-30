@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "James Bruton",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-29T18:45:38.950042+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-29T16:00:52+00:00",
+        "description": "Ad: Check out PCBWay's Shared Projects section. Go to: https://www.pcbway.com/?from=JamesBruton\n\nLarger robots have more inertia, so we need to build actuator systems that can absorb some load as the robot moves. I did this in my robot dog projects with Quasi-direct-drive actuators that can be back-driven. But for really big robots this becomes impractical due to the size of the motors we'd need for such low reduction. \n\nIn this video I'm going to experiment with an actuator and sensor so I can make a variable-damped-spring with lots of power and velocity.\n\nYou can support me on Patreon, join my Discord, or buy my Merchandise:\n***************************\nDiscord: https://discord.com/invite/fc6MedG7eW\nPatreon: https://www.patreon.com/xrobots\nMerch Store: https://james-bruton.teemill.com/collection/all-products/\n***************************\n\nOther socials:\n***************************\nInstagram: https://www.instagram.com/xrobotsuk\nTwitter: https://twitter.com/xrobotsuk \nFacebook: https://",
+        "id": 4679082,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=_lugOwlUNH8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 852,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCUbDcUPed50Y_7KmfCXKohA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/_lugOwlUNH8/hqdefault.jpg",
+        "title": "Building a spring I can turn off",
+        "vote": 0
+    }
+]

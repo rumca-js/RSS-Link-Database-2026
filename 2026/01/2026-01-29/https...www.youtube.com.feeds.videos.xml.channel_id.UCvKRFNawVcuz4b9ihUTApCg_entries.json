@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "David Shapiro",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-29T20:11:41.836562+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-29T14:03:19+00:00",
+        "description": "Check out my Patreon community for exclusive Discord server! Links on main channel page.",
+        "id": 4680769,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=UcXtm9iOX5E",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 946,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvKRFNawVcuz4b9ihUTApCg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/UcXtm9iOX5E/hqdefault.jpg",
+        "title": "Energy! Chips! ...and INSURANCE? (WTF)",
+        "vote": 0
+    }
+]

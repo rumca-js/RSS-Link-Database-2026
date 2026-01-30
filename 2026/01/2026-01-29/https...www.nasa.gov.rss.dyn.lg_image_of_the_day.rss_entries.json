@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-29T19:29:18.457185+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-29T15:49:00+00:00",
+        "description": "A new image from NASA\u2019s James Webb Space Telescope of a portion of the Helix Nebula highlights comet-like knots, fierce stellar winds, and layers of gas shed off by a dying star interacting with its surrounding environment. Webb\u2019s image also shows the stark transition between the hottest gas to the coolest gas as the shell expands out from the central white dwarf.",
+        "id": 4679995,
+        "language": "en-us",
+        "link": "https://www.nasa.gov/image-detail/stsci-01kcmamz8zsmrtr9kkd8y6emrj",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 485,
+        "source_url": "https://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Webb Zooms into Helix Nebula",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Khan Academy",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-29T19:01:00.813786+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-29T18:07:49+00:00",
+        "description": "Write a class definition to define the template for a new data type, and then call the class to instantiate objects of that type. Trace how Python uses the __init__() method to initialize an object's attributes at the time it's created.\n\nView the program used in this video at:\nhttps://www.khanacademy.org/python-program/shellguy/6641834622828544\n\nCourses on Khan Academy are always 100% free. Start practicing\u2014and saving your progress\u2014now with our Intro to Computer Science - Python course!\n\nCourse link: https://www.khanacademy.org/computing/intro-to-python-fundamentals/x5279a44ae0ab15d6:building-software-with-classes\nCourse playlist: https://www.youtube.com/playlist?list=PLSQl0a2vh4HDkbhG0sDW0b-VZXykEIAe5\n\nKhan Academy is a nonprofit organization with the mission of providing a free, world-class education for anyone, anywhere. We offer quizzes, questions, instructional videos, and articles on a range of academic subjects, including math, biology, chemistry, physics, history, economics, f",
+        "id": 4679456,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=ocWCzDAH5lI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 977,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4a-Gbdw7vOaccHmFo40b9g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/ocWCzDAH5lI/hqdefault.jpg",
+        "title": "Classes and objects | Intro to CS - Python | Khan Academy",
+        "vote": 0
+    }
+]

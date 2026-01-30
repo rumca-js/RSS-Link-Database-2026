@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-29T20:56:36.534422+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-29T16:39:51+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nNetworks in C++ - What's Actually Changing? - Ignas Bagdonas - CppCon 2025\n---\n\nInterfacing to networks is an assumed given for pretty much any application and system today. Networks have a tendency to be overlooked \u2013 it is just a transport pipe that carries JSONs from here to there. From the perspective of C++ networks tend to be abstracted away by the layer of libraries of various sorts and flavors, and the interfaces and modes of operation are assumed to be fixed. Such an approach certainly has a merit for uses where neither the functionality nor the performance is much of a deciding factor \u2013 however, the network engineering itself is also advancing, there are new transports being universally deployed (QUIC), there are multiple attempts trying to define a network interface beyond the historical POSIX API, and the requirements for application performance and responsiveness demand for practically usable asynchronousness. This talk intends to discuss the devel",
+        "id": 4681504,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=dVSCMJlHXQM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/dVSCMJlHXQM/hqdefault.jpg",
+        "title": "Networks in C++ - What's Actually Changing? - Ignas Bagdonas - CppCon 2025",
+        "vote": 0
+    }
+]

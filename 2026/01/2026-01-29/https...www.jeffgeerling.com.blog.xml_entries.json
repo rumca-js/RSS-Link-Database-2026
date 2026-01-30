@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-29T20:06:38.436181+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-29T11:00:00+00:00",
+        "description": "<p>Recently <a href=\"https://x.com/Merocle/status/2015496917472489751\">this post from @Merocle</a> caught my eye:</p>\n<blockquote>\n<p>I'm fixing my iFixit soldering station. I haven't used it for a long time and the battery has gone overdischarge. I hope it will come back to life. Unfortunately, there are no replacements available for sale at the moment.</p>\n</blockquote>\n<figure class=\"insert-image\"><img src=\"https://www.jeffgeerling.com/blog/2026/ode-to-the-aa-battery/ifixit-soldering-usb-battery-merocle-torn-down.jpg\"\n alt=\"iFixit soldering hub torn down - used with permission\" width=\"500\" height=\"auto\">\n</figure>\n\n<p>Devices with built-in rechargeable batteries have been bugging me a lot lately. It's convenient to have a device you can take with you and use anywhere. And with modern Li-ion cells, battery life is remarkable.</p>",
+        "id": 4680630,
+        "language": "en",
+        "link": "https://www.jeffgeerling.com/blog/2026/ode-to-the-aa-battery",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 162,
+        "source_url": "https://www.jeffgeerling.com/blog.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.jeffgeerling.com/blog/2026/ode-to-the-aa-battery/ifixit-soldering-usb-battery-merocle-torn-down.jpg",
+        "title": "Ode to the AA Battery",
+        "vote": 0
+    }
+]

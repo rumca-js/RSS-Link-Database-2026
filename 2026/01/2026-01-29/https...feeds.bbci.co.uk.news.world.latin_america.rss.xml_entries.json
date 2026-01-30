@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-29T22:32:10.591508+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-29T21:48:37+00:00",
+        "description": "The change could pave the way for more foreign investment in the country's oil industry.",
+        "id": 4682429,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/cp80r4rdp3yo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 524,
+        "source_url": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b5e9/live/8080d990-fd59-11f0-809e-0391886361ed.jpg",
+        "title": "Venezuelan MPs approve bill to open up oil sector to private firms",
+        "vote": 0
+    }
+]
