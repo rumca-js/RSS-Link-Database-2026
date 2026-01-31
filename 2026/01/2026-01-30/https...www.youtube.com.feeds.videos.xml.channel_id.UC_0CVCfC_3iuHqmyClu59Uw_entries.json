@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ETA PRIME",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-30T17:21:36.206991+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-30T15:00:20+00:00",
+        "description": "n this video, I\u2019m testing Minisforum\u2019s brand new Thunderbolt 5 eGPU dock, the successor to the DG1. The DEG2 supports Thunderbolt 5, OCuLink, and USB4 v2, plus it adds an M.2 slot for storage, 2.5GbE Ethernet, extra USB ports, and up to 140W charging from the Thunderbolt 5 port. I build it DIY-style with an RTX 5070 (12GB) and an ATX PSU, then compare connection speeds using USB4 v2 vs USB4 v1 \n\nBuy It Here: Buy the DEG2 here: https://tidd.ly/4rn5eGa\n\nOn the Minisforum M02 Ultra (USB4 v2 ports), 3DMark Time Spy jumps from the built-in setup to 17K+ with the RTX eGPU, then I test games like Borderlands 4, Spider-Man 2, and Forza Horizon 5. I also hook it to a handheld (USB4) to see the real-world gains. Final verdict: TB5/USB4 v2 helps\u2014especially for tougher eGPU titles\u2014but if you\u2019re only on TB4, it may not be worth upgrading yet unless you need the extra I/O, M.2, and Ethernet.\n\nFollow Me On Twitter: https://twitter.com/theetaprime\nFollow Me On Instagram: https://www.instagram.com/eta",
+        "id": 4689344,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=A06IoGQw5DA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 100,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_0CVCfC_3iuHqmyClu59Uw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/A06IoGQw5DA/hqdefault.jpg",
+        "title": "The eGPU we\u2019ve been waiting for! Minisforum DEG2 Hands On First Look!",
+        "vote": 0
+    }
+]

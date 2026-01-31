@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-30T04:34:29.244093+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-30T03:10:13+00:00",
+        "description": "LILYGO has introduced its first ESP32-C5-based development boards, geared toward different form factors and usage models: the USB stick-style T-Dongle C5 and the more conventional T7-C5 development board. Both platforms support dual-band Wi-Fi 6 alongside Bluetooth LE. The T-Dongle C5 is a USB Type-A development board designed in a flash-drive form factor and housed in [&#8230;]",
+        "id": 4684689,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/sipeed-maixcam2-combines-4k-imaging-and-edge-ai-in-an-open-camera-platform-2",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "LILYGO Debuts ESP32-C5-Based T-Dongle C5 and T7-C5 Development Boards",
+        "vote": 0
+    }
+]

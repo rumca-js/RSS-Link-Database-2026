@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ACCU Conference",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-30T15:52:05.761468+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-30T15:00:23+00:00",
+        "description": "ACCU Membership: https://tinyurl.com/ydnfkcyn\n---\n\nA Sixth Seam in TDD? - Python Testing, Test Doubles & Legacy Code at Kosli - Jon Jagger - ACCU 2025 Short Talks\n---\n\nWhat if there's a sixth seam in test-driven development (TDD) that we\u2019ve overlooked?\n\nIn this lightning talk from ACCU 2025, Jon Jagger\u2014creator of Cyber-Dojo and co-founder at Kosli\u2014explores a novel idea in Python testing: an auto cache seam that enhances test performance and stability. This talk dives into Python unit testing techniques using pytest, exploring how to leverage a cache generated at the seam to replay test results, reducing flaky tests and improving CI feedback speed.\n\nIf you're familiar with test doubles\u2014dummy, stub, spy, mock, and fake\u2014you\u2019ll appreciate this perspective on introducing what might be a sixth test double. By using test seams (as described by Michael Feathers in Working Effectively with Legacy Code), Jon introduces a caching mechanism that acts like a combination of stub and spy, enabling t",
+        "id": 4688238,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=62EltmSbqro",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 421,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJhay24LTpO1s4bIZxuIqKw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/62EltmSbqro/hqdefault.jpg",
+        "title": "A Sixth Seam in TDD? - Python Testing, Test Doubles & Legacy Code at Kosli - Jon Jagger - ACCU 2025",
+        "vote": 0
+    }
+]

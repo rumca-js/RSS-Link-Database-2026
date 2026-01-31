@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-30T13:53:23.994183+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-30T13:18:23+00:00",
+        "description": "In this episode of the podcast, Cindy tells Quincy how she got into computer science thanks to a supportive teacher and skipping one of her favorite classes...",
+        "id": 4687376,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/xMrOFhk6Rng",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/xMrOFhk6Rng/hqdefault.jpg",
+        "title": "Getting into computer science thanks to a supportive teacher and skipping a favorite class",
+        "vote": 0
+    }
+]

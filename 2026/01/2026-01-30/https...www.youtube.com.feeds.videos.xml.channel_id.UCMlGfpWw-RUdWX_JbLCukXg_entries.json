@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-30T18:40:04.874403+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-30T16:02:09+00:00",
+        "description": "https://cppcon.org\n---\n\nCompiler Explorer: The Features You Never Knew Existed - Matt Godbolt - CppCon 2025\n---\n\nRemember when Compiler Explorer just showed assembly code? Those innocent days are long gone. What started as a simple \"what does my compiler do?\" tool (in bash!) has morphed into 100,000 lines of TypeScript powering 100 million compilations a year. It runs CUDA on actual GPUs, tests your code against 10 compilers simultaneously, and maintains 3,000+ compiler versions that refuse to retire. Join me as we excavate CE's archaeological layers of features, from ones you probably know about (\"it can run code!\"), through the mysterious Conformance Viewer and IDE mode, to the fun and interesting visualisations of your compiler's output.\n\nWe'll uncover the features hiding in plain sight: arbitrary subdomain URLs (badger.godbolt.org works!), keyboard shortcuts that make you look like a wizard, and the optimization pipeline viewer that shows exactly how -O3 turns your careful algorit",
+        "id": 4690295,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=3W0vE_VKokY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/3W0vE_VKokY/hqdefault.jpg",
+        "title": "Compiler Explorer: The Features You Never Knew Existed - Matt Godbolt - CppCon 2025",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unity",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-30T19:58:42.888664+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-30T18:34:58+00:00",
+        "description": "From a daydream to a bestseller! Dive into the making of Tiny Bookshop, the cozy, narrative, and management indie game, with David Zapfe-Wildemann (Game Designer) and Maurice Andreas (Programmer) from Neoludic Games. Learn how this small team perfected the game\u2019s painterly look with the Universal Render Pipeline (URP), optimized the game\u2019s massive content library using the Addressable Asset System, and more.\n\n\ud83d\udcda Play Tiny Bookshop: https://store.steampowered.com/app/2133760/Tiny_Bookshop/\n\n\ud83d\udcf9  Watch more videos: https://on.unity.com/resources\n\nTimestamp:\n\n[0:00] \u2013 Intro\n[0:50] \u2013 Landing the look\n[1:31] \u2013 Content optimization\n\nFollow Unity on social\n\ud83d\udc24 Twitter: https://twitter.com/unity\n\ud83d\udc69\ud83c\udffb\u200d\ud83c\udfebLinkedIn: https://www.linkedin.com/company/unity/\n\ud83d\udcf8 Instagram: https://www.instagram.com/unitytechnologies\n\ud83e\udd8b Bluesky: https://bsky.app/profile/unity.com\n\n#MadeWithUnity #GameDev #IndieGames #CozyGames #URP",
+        "id": 4690952,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=zBBYvFYyNgY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 683,
+        "source_url": "https://youtube.com/channel/UCG08EqOAXJk_YXPDsAvReSg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/zBBYvFYyNgY/hqdefault.jpg",
+        "title": "Tiny Bookshop: From a daydream to 500K copies sold",
+        "vote": 0
+    }
+]

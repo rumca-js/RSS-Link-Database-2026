@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-30T15:50:03.584666+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-30T11:00:39+00:00",
+        "description": "Play GRAMMY IQ \u2192 https://ibm.biz/BdpdYH \n\nHave open-source AI agents finally gone mainstream? This week on Mixture of Experts, host Tim Hwang is joined by Kaoutar El Maghraoui, Marina Danilevsky and Aaron Baughman. First, we dive into Moltbot (formerly Clawdbot), the open-source AI agent that\u2019s sparked a buying frenzy of Mac minis. What makes this agent different? Next, Anthropic CEO Dario Amodei is back with another essay, this time on AI\u2019s \u201cadolescence.\u201d Then, the Grammys are this weekend, we chat about IBM\u2019s AI-powered trivia experience, GRAMMY IQ. Aaron takes us through how the team scaled using AI agents, plus how to win tickets to the 2027 Grammys. Finally, Microsoft unveils Maia 200, their latest inference chip claiming 30% cost savings over NVIDIA. What does vertical integration mean for AI chip wars? All that and more on this week\u2019s Mixture of Experts. \n\n00:00 \u2013 Introduction \n01:11 \u2013 Moltbot (Clawdbot): Open-source agent revolution \n12:59 \u2013 Dario Amodei's \"Adolescence of Tech",
+        "id": 4688208,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=M-i1Uhzb1xA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/M-i1Uhzb1xA/hqdefault.jpg",
+        "title": "OpenClaw (Clawdbot): Open-source agents go mainstream",
+        "vote": 0
+    }
+]

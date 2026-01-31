@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kevin Stratvert",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-01-30T11:04:41.082394+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-01-30T08:00:32+00:00",
+        "description": "If your Excel reports keep breaking every time you add new data, the problem probably isn\u2019t Excel, it\u2019s how the report is built.\n\nVLOOKUP and XLOOKUP aren\u2019t bad formulas, but they\u2019re the wrong tool for recurring reports. Copying formulas down duplicates data, slows your file, and makes reports harder to maintain.\n\nIn this video, I\u2019ll show you the Excel workflow I actually use for reports:\n- Keep data in separate tables\n- Connect tables using the Excel Data Model\n- Build one Pivot Table that updates with a single refresh\n\nNo more copying formulas. No more rebuilding reports every month.\n\nHost: Kevin Stratvert\n\n\ud83d\udcda RESOURCES\n- Sample data to follow along: https://1drv.ms/x/c/b09f9559f6a16b6c/IQCuyu6tTO9UTKb7r9DIaSqTATWHA3hoWD2J8IJn1Bn5MKs?e=kd2Z3c\n\n\u231a TIMESTAMPS\n00:00 - Why reports break\n01:27 - A better workflow\n01:56 - Convert data to tables\n03:18 - Add tables to a data model\n05:25 - Create table relationships\n07:07 - Build the pivot table\n08:51 - Refresh the report\n09:22 - Add a revenue",
+        "id": 4686526,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=NAeKfj1JOtQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 958,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfJT_eYDTmDE-ovKaxVE1ig",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/NAeKfj1JOtQ/hqdefault.jpg",
+        "title": "Stop Using VLOOKUP for Reports (This Excel Workflow Is Better)",
+        "vote": 0
+    }
+]
