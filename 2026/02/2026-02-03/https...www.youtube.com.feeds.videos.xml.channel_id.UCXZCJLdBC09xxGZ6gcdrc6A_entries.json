@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "OpenAI",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-03T18:24:59.782284+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-03T18:04:15+00:00",
+        "description": "Andrew from the Codex engineering team shows how he uses automations in the Codex app to take care of the least fun parts of his job.\n\nIn this walkthrough, you'll see automations that:\n- Summarize yesterday's commits into a morning pulse\n- Upskill Codex overnight by fixing skills and scripts\n- Update personalization and AGENTS.md to reduce misunderstandings\n- Triage top Sentry issues with memory across runs\n- Keep PRs green by fixing CI failures and resolving merge conflicts\n\nThese automations run on a schedule, carry context forward, and help engineers stay focused on the work that needs their attention the most.\n\nChapters:\n00:00 Automating the \"unfun\" work\n00:18 Morning commit pulse\n00:47 Upskill: improve skills overnight\n01:20 AGENTS.md updates\n01:48 Sentry triage automation\n02:55 Merge conflicts and CI pain\n03:22 Keeping PRs green\n04:05 Auto-fixing CI and conflicts",
+        "id": 4721025,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=xHnlzAPD9QI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 935,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXZCJLdBC09xxGZ6gcdrc6A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/xHnlzAPD9QI/hqdefault.jpg",
+        "title": "Automate tasks with the Codex app",
+        "vote": 0
+    }
+]

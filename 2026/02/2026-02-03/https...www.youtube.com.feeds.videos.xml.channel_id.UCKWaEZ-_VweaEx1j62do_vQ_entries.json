@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-03T13:55:15.842489+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-03T12:00:34+00:00",
+        "description": "Ready to become a certified watsonx AI Assistant Engineer? Register now and use code IBMTechYT20 for 20% off of your exam \u2192 https://ibm.biz/BdpcLm\n\nLearn more about AI Agent Security here \u2192 https://ibm.biz/BdbNZM\n\nCan you trust autonomous AI? \ud83e\udd16 Jeff Crume & Josh Spurgin dive into securing and governing AI agents, tackling risks like prompt injection attacks, data poisoning, and AI bias. Learn actionable safeguards to build secure, transparent, and trustworthy AI systems.\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/BdpcLb\n\n#autonomousai #aiagents #aisecurity #aigovernance",
+        "id": 4718531,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=E_yPUsCpoC8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/E_yPUsCpoC8/hqdefault.jpg",
+        "title": "Securing & Governing Autonomous AI Agents: Risks & Safeguards",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "James Bruton",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-03T15:27:48.106101+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-03T15:12:16+00:00",
+        "description": "Ad: I went to the Igus DOBOT launch event. @igusUK provide a wide variety of automation solutions, and this event was to launch their partnership with DOBOT on the RBTX website. As well as selling DOBOT robots, the RBTX website integrates various related partners, so you can buy a ready-configured robot with compatible third-party sensors or a manipulator which will all work together. Check out https://rbtx.co.uk/",
+        "id": 4719293,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/RQIlLIVLys4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 852,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCUbDcUPed50Y_7KmfCXKohA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/RQIlLIVLys4/hqdefault.jpg",
+        "title": "igus RBTX & DOBOT Launch",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Huawei",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-03T04:13:10.269118+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-03T03:00:19+00:00",
+        "description": "A digital renaissance is unfolding at Padula Charterhouse, Italy's largest monastery and a UNESCO World Heritage site. The site has transformed into a hub where culture and community can thrive in the digital age, inviting young professionals and innovators to create, collaborate and build companies together.\n \nWith a fully optical FTTO network delivered by #Huawei, the site now supports cloud computing, collaboration tools and videoconferencing that help fuel learning, creativity and growth. Watch to discover more: https://bit.ly/3Ze2ZZW",
+        "id": 4715507,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=tbGNdEsuk_M",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 875,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtjV1_XU6gvPYyreaFScxBQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/tbGNdEsuk_M/hqdefault.jpg",
+        "title": "Revitalizing a UNESCO Monastery for the Digital Age",
+        "vote": 0
+    }
+]

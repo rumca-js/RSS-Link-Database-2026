@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-03T13:23:11.907623+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-03T13:05:34+00:00",
+        "description": "Shopify has a very public \"AI-first\" policy - they encourage their engineers to reflexively reach for AI when solving a problem. Cindy believes that this is because, in order to understand what AI CAN do, we have to first understand what it CAN'T do. And this is how they find those limits.",
+        "id": 4718288,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/aokdrllzkFQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/aokdrllzkFQ/hqdefault.jpg",
+        "title": "To understand what AI can do, we have to first understand what it CAN'T do.",
+        "vote": 0
+    }
+]

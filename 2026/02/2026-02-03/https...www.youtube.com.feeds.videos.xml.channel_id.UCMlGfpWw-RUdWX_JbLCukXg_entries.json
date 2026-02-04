@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-03T17:34:30.962651+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-03T16:02:06+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nThe Truth About Being a Programmer CEO - Greg Law - CppCon 2025\n---\n\nMany programmers think about starting a company. It\u2019s often not about getting rich so much as to pursue a vision for a computer program that is much bigger than one person could write alone. Like most programmers who start up, I had no formal training and little experience outside of software development. I was naively confident, and didn\u2019t know what I didn\u2019t know (it turned out that that was a LOT!) \n \nThe talk includes some of the lessons I\u2019ve learned along the way, many of which were a complete surprise. I\u2019ll cover getting investment, building the product, building a team, and getting and keeping customers. Little of this talk is directly about programming, but it is aimed at programmers who want to create code in order to create a business, or who want to create a business so that they can create the code they want. \n \nMuch of the content is also relevant for programmers who find themselv",
+        "id": 4720560,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=e8kNoLCW_Rs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/e8kNoLCW_Rs/hqdefault.jpg",
+        "title": "The Truth About Being a Programmer CEO - Greg Law - CppCon 2025",
+        "vote": 0
+    }
+]

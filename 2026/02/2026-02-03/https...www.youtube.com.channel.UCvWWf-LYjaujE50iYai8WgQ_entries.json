@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Paul's Hardware",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-03T22:53:44.887876+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-03T20:33:58+00:00",
+        "description": "The Most Reliable PC Hardware \nIntel ties AMD for most reliable CPUs in 2025 (per Puget Systems)\nhttps://www.pugetsystems.com/labs/articles/puget-systems-most-reliable-hardware-of-2025/ \nhttps://www.tomshardware.com/pc-components/cpus/intel-ties-amd-for-most-reliable-cpus-in-2025-system-builder-report-nvidias-founders-edition-gpus-dominate-with-the-lowest-failure-rates \n(AsRock) - https://wccftech.com/after-ryzen-9800x3d-several-reports-of-dead-ryzen-9600x-on-asrock-motherboards-surface-online/ \n(ASUS) - https://www.tomshardware.com/pc-components/motherboards/asus-announces-immediate-internal-review-of-800-series-motherboards-following-string-of-9800x3d-failures-users-report-multiple-chip-failures-in-recent-days",
+        "id": 4723212,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/6vo_mT9SHwQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 927,
+        "source_url": "https://www.youtube.com/channel/UCvWWf-LYjaujE50iYai8WgQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/6vo_mT9SHwQ/hqdefault.jpg",
+        "title": "The Most Reliable PC Hardware",
+        "vote": 0
+    }
+]
