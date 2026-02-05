@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-04T16:16:51.123329+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-04T16:02:11+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nAn Introduction to the new C++ 26 \"Reflection\" Feature - Inbal Levi - CppCon 2025\n---\n\nThis talk will introduce what is (likely) the final version of the \"\"Reflection\"\" feature targeting C++26. \n \nWith a proposal to introduce reflection to C++26 (including the \u201cstd::meta\u201d namespace) slated to be voted into the standard in June 2025, we can already start imagining a whole new world of possibilities. \n \nIn this session, we will dive into reflection and its transformative potential within our codebases. We will start with a brief history of \"\"reflection\"\" history. We'll continue with an introduction of utilities from the latest reflection proposal. Then, we delve deeper into practical applications and demonstrate solutions to problems that commonly use reflection and the power it holds. For the last part, we will explore the possibilities within \u201cReflection Libraries\u201d. This includes both \u201ctraditional\u201d libraries which provide functionality, and more \u201cnovel\u201d approa",
+        "id": 4729709,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=HBkG5DpLYo0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/HBkG5DpLYo0/hqdefault.jpg",
+        "title": "An Introduction to the new C++ 26 \"Reflection\" Feature - Inbal Levi - CppCon 2025",
+        "vote": 0
+    }
+]

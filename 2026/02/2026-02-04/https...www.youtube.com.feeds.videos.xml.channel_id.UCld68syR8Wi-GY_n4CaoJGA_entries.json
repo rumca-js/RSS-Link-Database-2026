@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-04T17:39:11.338979+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-04T16:30:30+00:00",
+        "description": "Recently it was announced that there was a massive attack on the Notepad++ infrastructure, if you are using this then you need to make sure you update ASAP, better yet, you should update yesterday\n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\nNotepad++ 8.8.9 Update: https://notepad-plus-plus.org/news/v889-released/\nNotepad++ Security Announcement: https://notepad-plus-plus.org/news/hijacked-incident-info-update/\nRapid7 Writeup: https://www.rapid7.com/blog/post/tr-chrysalis-backdoor-dive-into-lotus-blossoms-toolkit/\nSecurelist Writeup: https://securelist.com/notepad-supply-chain-attack/118708/\n\n=========Video Platforms==========\n\ud83c\udfa5 React: https://www.youtube.com/@BrodieRobertsonReacts\n\ud83c\udfa5 Podcast: https://techovertea.xyz/youtube\n\ud83c\udfae Gaming: https://brodierobertson.xyz/gamin",
+        "id": 4730496,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=gZAKvsIfxrs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 1,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/gZAKvsIfxrs/hqdefault.jpg",
+        "title": "The Notepad++ Situation Is Crazy",
+        "vote": 0
+    }
+]

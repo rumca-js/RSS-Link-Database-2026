@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-04T12:22:22.130248+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-04T11:00:23+00:00",
+        "description": "Explore the podcast \u2192https://ibm.biz/BdpFjA\n\nOpenClaw and Moltbook are extremely cool. They're also extremely dangerous. And they tell us just how far AI agent security has to go. \n\nIn this episode of Security Intelligence, Dave McGinnis, Seth Glasgow and Evelyn Anderson unpack how locally run AI agents are becoming a brand-new attack surface, and why defenders may be underestimating the risks. From misconfigured agent databases leaking API keys, to malicious \u201cskills\u201d that can quietly hijack trusted systems, we explore what happens when powerful AI tools are treated like just another app. \n\nWe also dig into a growing signal problem across cybersecurity:  \n\n- Why AI-generated \u201cslop\u201d is overwhelming bug bounty programs. \n- Why NIST may stop enriching vulnerabilities in the National Vulnerability Database. \n\nAlong the way, our panel debates a deeper question: Is AI a gift or a curse for security pros?  \n\nAll that and more on Security Intelligence \n\n00:00 - Intro \n01:03 - OpenClaw and the",
+        "id": 4727690,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=F0QCrxwwSg0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/F0QCrxwwSg0/hqdefault.jpg",
+        "title": "What cybersecurity pros need to know about OpenClaw and Moltbook",
+        "vote": 0
+    }
+]

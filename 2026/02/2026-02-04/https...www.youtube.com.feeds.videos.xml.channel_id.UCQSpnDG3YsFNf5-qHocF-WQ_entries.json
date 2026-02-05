@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ThioJoe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-04T16:36:14.712825+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-04T15:45:03+00:00",
+        "description": "There's a set of hidden Windows settings for the EU Microsoft does NOT want you to know.\n\nWhether they like it or not, Microsoft has to comply with international laws wherever they sell Windows. The European Union in particular has a lot of consumer-focused privacy laws that forces Microsoft to add certain options in Windows for EU users, but don't need to for other countries. So of course instead just giving everyone the feature, they only give it to those they are legally obligated to. They keep track of who they need to give the options to based on the initial country you choose upon installing Windows, and keep track of this. Normally you can't change this, but turns out there is a way.\n\n* Spreadsheet with the policies: https://github.com/ThioJoe/Resources-From-Videos/blob/main/Setting-Windows-Region-to-EU/Windows-Region-Policies.csv\n* The registry Path:  HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Control Panel\\DeviceRegion\n(As always, BE VERY CAREFUL if editing ",
+        "id": 4729935,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=MfBNxGw_5J8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 366,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQSpnDG3YsFNf5-qHocF-WQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/MfBNxGw_5J8/hqdefault.jpg",
+        "title": "How to Unlock Hidden \"Europe Only\" Windows Settings",
+        "vote": 0
+    }
+]

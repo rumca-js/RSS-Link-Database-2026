@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Techlore",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-04T18:43:15.118915+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-04T17:54:51+00:00",
+        "description": "A Minnesota state representative was assassinated after someone found her home address on people search websites. A new report reveals that even state privacy laws fail to protect public servants from data brokers. But here's the bigger problem: this affects everyone, not just politicians. I'll break down why current solutions are reactive, show you how to actually prevent this data from being collected in the first place, and explain what systemic changes we need to push for. Links to data removal tools, opt-out resources, and action steps are below.\n\n\ud83d\udcf1 RESOURCES IN VIDEO\n\u2022 Full report: https://thepublicservicealliance.com/psa-security-project/privacy-laws-report/\n\u2022 Wired Coverage: https://www.wired.com/story/how-data-brokers-can-fuel-violence-against-public-servants/\n\u2022 Proton Pass Kickback: https://go.getproton.me/SH1Iq\n\u2022 Proton Pass Standard Link: https://proton.me/pass\n\u2022 Our privacy resources: https://privacytools.techlore.tech/\n\u2022 Data Broker Manual Opt Out: https://github.com/yae",
+        "id": 4731254,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=CWi82YljpPw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 327,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/CWi82YljpPw/hqdefault.jpg",
+        "title": "Politicians Finally Care About Data Brokers (Because Now They're Victims)",
+        "vote": 0
+    }
+]

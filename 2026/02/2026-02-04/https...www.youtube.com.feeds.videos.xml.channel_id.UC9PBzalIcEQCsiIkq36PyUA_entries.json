@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Digital Foundry",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-04T16:54:12.910088+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-04T16:30:48+00:00",
+        "description": "Digital Foundry is now fully independent! Join the DF Supporter Program and support the team: https://bit.ly/3jEGjvx\n\nWe've already looked at DLSS 4.5 \"Preset M\", designed for 4K performance mode upscaling - but what about the more demanding \"Preset L\". This one's even more computationally expensive and best used on 40-series and 50-series GPUs. It's also meant for 3x3 upscaling - 4K from a base 720p, effectively. Alex takes a look at how Preset L compares to Preset M and older DLSS versions, then takes a look at 1440p performance - can upscaling from a base 480p to 1440p benefit older RTX graphics cards?\n\nGo here to check out DF merch! https://store.digitalfoundry.net\n\nSubscribe for more Digital Foundry: http://bit.ly/DFSubscribe\n\n00:00:00 Introduction\n00:00:50 Why is Preset L used for Ultra Performance Mode DLSS?\n00:03:15 Does Preset L improve on Preset M?\n00:06:26 What is going on with ray tracing noise?\n00:09:46 4K Ultra Performance mode behaviour\n00:12:48 1440p Ultra Performance ",
+        "id": 4730110,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Lv8tJoiApd8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 696,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9PBzalIcEQCsiIkq36PyUA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/Lv8tJoiApd8/hqdefault.jpg",
+        "title": "DLSS 4.5 Preset L Review: Nvidia's Most Advanced Upscaler Tested At 4K And 1440p",
+        "vote": 0
+    }
+]

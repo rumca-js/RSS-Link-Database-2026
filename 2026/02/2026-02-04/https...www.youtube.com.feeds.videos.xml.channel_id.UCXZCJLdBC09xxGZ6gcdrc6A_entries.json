@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "OpenAI",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-04T21:25:00.669417+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-04T18:29:45+00:00",
+        "description": "Ed Bayes from the Codex team shows how the Codex app pairs with Figma out of the box: prompt with a Figma link and have a working prototype in minutes.\n\nTakeaways:\n- One-click install for Figma with the Figma skill.\n- Pasting a Figma link is enough to kick off a strong first pass.\n- Codex can pull from your design system and get 80-90% there.\n- Interactive prototypes are key for building dynamic behavior.\n\nDesign-to-code is faster, and AI UX gets easier to stress test.\n\nChapters:\n00:00 One-click MCP install with Figma out of the box\n00:14 Paste a Figma link into Codex\n00:38 Watch hot reload progress in real time\n00:53 Compare against the original design system\n01:02 Polish the last 10-20%\n01:25 Why this is faster for AI-driven UI\n01:36 Stress test with interactive prototypes",
+        "id": 4732573,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=P7HXxl14dCA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 935,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXZCJLdBC09xxGZ6gcdrc6A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/P7HXxl14dCA/hqdefault.jpg",
+        "title": "How designers prototype using the Codex app",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Associated Press",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-04T11:09:33.213623+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-04T05:53:31+00:00",
+        "description": "They are the latest Palestinians in Gaza to die since a ceasefire deal, which has been punctuated by deadly Israeli strikes, came into effect on Oct. 10, 2025.",
+        "id": 4727020,
+        "language": "en",
+        "link": "https://www.npr.org/2026/02/04/nx-s1-5699274/israel-strikes-gaza-killing-19-mostly-women-and-children-after-saying-hamas-violated-deal",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 226,
+        "source_url": "https://feeds.npr.org/1002/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8640x5760+0+0/resize/8640x5760!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F16%2F65%2F0b82aac34b1badb3bd19a83958a3%2Fap26035301958442.jpg",
+        "title": "Israel strikes Gaza, killing 19, mostly women and children, after saying Hamas violated deal",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ETA PRIME",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-04T15:37:10.756627+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-04T15:01:01+00:00",
+        "description": "Intel\u2019s XeSS Multi-Frame Generation is already running on the MSI Claw AI (Arc 140V / Xe2) \u2014 and it\u2019s a game-changer. Here\u2019s the quick \u201chack\u201d to enable the Multi-Frame Gen override (2x/3x/4x) right inside Intel Graphics Software.\n\nBuy The MSI Claw 8 Ai At Best Buy: https://bestbuycreators.7tiv.net/VxLgrJ\n\nIn this video, I\u2019m taking an early look at XeSS Multi-Frame Generation on the MSI Claw AI / Claw 8, running natively (no streaming) on the Intel Arc 140V iGPU (Xe2). Officially, Multi-Frame Gen is tied to newer Intel GPU files, but with a simple file swap inside the driver package, you can unlock the Multi-Frame Gen Override toggle and push 2x / 3x / 4x frame generation.\n\nFollow Me On Twitter: https://twitter.com/theetaprime\nFollow Me On Instagram: https://www.instagram.com/etaprime/\n\nVip-URCDKey 25% New Year Sale code for software: ETA \nWindows 11 Pro Key($25):https://biitt.ly/RUZiX \nWindows 11 Home Key($23):https://biitt.ly/SQKqi \nWindows 10 Pro OEM Key($20):https://biitt.ly/KpEmf ",
+        "id": 4729354,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=TO84Y6AweS4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 100,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_0CVCfC_3iuHqmyClu59Uw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/TO84Y6AweS4/hqdefault.jpg",
+        "title": "XESS 3 Multi Frame Gen On MSI Claw 8 Ai Is INSANE!",
+        "vote": 0
+    }
+]
