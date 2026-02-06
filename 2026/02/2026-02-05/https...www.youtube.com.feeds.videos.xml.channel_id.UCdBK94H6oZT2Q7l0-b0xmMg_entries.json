@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ShortCircuit",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-06T00:37:08.600717+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-05T23:46:29+00:00",
+        "description": "Can the Anker Nano 45W wall wart save your phone?",
+        "id": 4743788,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/SoyXQcmSSDA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 792,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCdBK94H6oZT2Q7l0-b0xmMg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/SoyXQcmSSDA/hqdefault.jpg",
+        "title": "Can this save your phone?",
+        "vote": 0
+    }
+]

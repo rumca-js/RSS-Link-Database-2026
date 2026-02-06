@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Paul Sonne and Maria Varenikova",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-05T21:10:26.045103+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-05T20:46:01+00:00",
+        "description": "Moscow\u2019s forces fighting in Ukraine are experiencing outages on the front, Russian military bloggers said, days after Elon Musk said his satellite service had cut them off.",
+        "id": 4742328,
+        "language": "en-US",
+        "link": "https://www.nytimes.com/2026/02/05/world/europe/starlink-blocks-russian-troops-access.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 228,
+        "source_url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://static01.nyt.com/images/2026/02/05/multimedia/05int-russia-startlink-1-wbml/05int-russia-startlink-1-wbml-mediumSquareAt3X.jpg",
+        "title": "At Ukraine\u2019s Request, Starlink Denies Internet Access to Russian Troops",
+        "vote": 0
+    }
+]

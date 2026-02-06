@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/bbl4d3",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-05T14:49:37.672151+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-05T14:11:27+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>So I was browsing Google and I found a site <a href=\"https://goonview.com/\">Goonview</a> that let&#39;s you view Instagram profiles from public and private profiles without appearing as a viewer. </p> <p>The official Instagram APIs don\u2019t allow this unless the account owner authorizes your application. So I got a theory...<br/> I think some of these sites rely on tools like Apify or Puppeteer, but their access is usually pretty limited. They tend to use headless browsers or API workarounds to collect data without triggering Insta&#39;s usual view notification, but I viewed my own account via Goonview, and saw no user added to the story viewer list.</p> <p>So how do these websites let you view private instagram profiles?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/bbl4d3\"> /u/bbl4d3 </a> <br/> <span><a href=\"https://goonview.com/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/WeirdWebsites/com",
+        "id": 4738606,
+        "language": "en",
+        "link": "https://www.reddit.com/r/WeirdWebsites/comments/1qwmbb5/how_do_these_websites_let_you_view_private",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 579,
+        "source_url": "https://www.reddit.com/r/WeirdWebsites/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "How do these websites let you View Private Instagram profiles without following?",
+        "vote": 0
+    }
+]

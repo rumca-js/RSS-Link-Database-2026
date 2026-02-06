@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-05T07:39:54.009110+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-05T06:56:29+00:00",
+        "description": "GL.iNet has opened pre-orders for the Mudi 7 (GL-E5800), a portable travel router that combines 5G NR cellular connectivity with tri-band Wi-Fi 7 in a compact, battery-powered design. The device integrates high-speed wireless networking, dual SIM support, and a touchscreen interface for local configuration. The Mudi 7 is built around Qualcomm&#8217;s Dragonwing MBB Gen 3 [&#8230;]",
+        "id": 4735330,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/mudi-7-travel-router-runs-5g-nr-alongside-tri-band-wi-fi-7",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Mudi 7 travel router runs 5G NR alongside tri-band Wi-Fi 7",
+        "vote": 0
+    }
+]

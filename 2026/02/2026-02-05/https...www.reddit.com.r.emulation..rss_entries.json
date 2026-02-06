@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/takuarc",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-05T22:02:31.115669+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-05T02:30:33+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://github.com/takuarc/slot-1-melonDS-Launcher/releases/tag/v0.0.1\">DOWNLOAD</a> (Github)</p> <p>Hello, I saw <a href=\"https://www.reddit.com/r/emulation/comments/1nf77vd/release_melondslauncher_a_gui_launcher_for_the/\">this</a> post a few months ago while searching for a game browser/ viewer/launcher for melonDS. Sadly I am a MacOS user so just like any sane person, I vibe coded one.</p> <p>Theoretically it should work with other DS emulators but since I only use melonDS, I will just stick with it. I call it Slot-1.. </p> <p><a href=\"https://github.com/takuarc/slot-1-melonDS-Launcher\">https://github.com/takuarc/slot-1-melonDS-Launcher</a></p> <p>I kept it minimal and light, just like how melonDS is.</p> <p>Here are some of the &quot;features&quot; if you can call them that:</p> <p>- Cover art association to file is not by filename so feel free to change even after picking a cover art - the app will take care of it after refresh. You need",
+        "id": 4742748,
+        "language": "",
+        "link": "https://www.reddit.com/r/emulation/comments/1qw8y0m/release_slot1_melonds_game_browser_and_launcher",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 475,
+        "source_url": "https://www.reddit.com/r/emulation/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "[Release] Slot-1 melonDS game browser and launcher for MacOS (universal)",
+        "vote": 0
+    }
+]

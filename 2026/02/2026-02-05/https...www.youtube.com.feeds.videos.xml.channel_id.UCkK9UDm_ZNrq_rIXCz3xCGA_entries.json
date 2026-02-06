@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Lunduke Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-05T19:30:47.593839+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-05T17:01:18+00:00",
+        "description": "Connor McLaughlin, the developer of Duckstation, a popular Playstation emulator, calls NixOS and Arch Linux \"hostile package environments\", and blocks building for those Linux distributions.\n\nMore from The Lunduke Journal:\nhttps://lunduke.com/",
+        "id": 4741024,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=loiRyGi3wxY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 616,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkK9UDm_ZNrq_rIXCz3xCGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/loiRyGi3wxY/hqdefault.jpg",
+        "title": "PSX Emu Dev Says No Packaging for Arch or NixOS",
+        "vote": 0
+    }
+]

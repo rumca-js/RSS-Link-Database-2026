@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kai Lentit",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-05T19:12:40.927529+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-05T17:51:37+00:00",
+        "description": "Just use a VPS bro\u2026\n\nWith Jack Borrough.\n\nOpenclaw installation guide\nLinux server installation guide\nOpenClaw VPS setup\nNext-gen ai\nAnthropic Claude \nLinux server setup\nProgramming humor\nProgrammer memes\nSystems",
+        "id": 4740858,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=40SnEd1RWUU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 264,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCi8C7TNs2ohrc6hnRQ5Sn2w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/40SnEd1RWUU/hqdefault.jpg",
+        "title": "Interview with a \u2018Just use a VPS\u2019 bro (OpenClaw version)",
+        "vote": 0
+    }
+]

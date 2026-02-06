@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-05T16:17:01.752916+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-05T16:02:17+00:00",
+        "description": "https://cppcon.org\n---\n\nCMake Doesn't Have to Be Painful | Simple Strategies That Work - Bret Brown - CppCon 2025\n---\n\nCMake headaches? Modern CMake has been around for about a decade now, but in practice CMake use tends to be uneven and overcomplicated. This causes frustration among maintainers and steep learning curves among developers. It also results in overly complicated C++ projects. Even first-class open-source C++ projects often have CMake snarls and snags. Is there a basic CMake approach that just works?\n\nIn this talk, hear from a CMake veteran about how to keep it simple with CMake. We\u2019ll cover modern CMake principles to keep in mind while maintaining projects built with CMake. We\u2019ll talk about up-to-date CMake basics you\u2019ll find useful \u2013 and (some of) the bells and whistles you can skip. To make it easier to keep coming back to these concepts, these recommendations will all be demonstrated with a project you can refer back to. Along the way, we\u2019ll cover some new CMake featu",
+        "id": 4739588,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=NDfTwOvWIao",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/NDfTwOvWIao/hqdefault.jpg",
+        "title": "CMake Doesn't Have to Be Painful | Simple Strategies That Work - Bret Brown - CppCon 2025",
+        "vote": 0
+    }
+]

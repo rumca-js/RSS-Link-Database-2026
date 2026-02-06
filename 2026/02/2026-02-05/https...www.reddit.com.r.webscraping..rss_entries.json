@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/SimilarAccess1174",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-05T22:11:20.648622+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-05T17:48:08+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone,</p> <p>I\u2019m currently researching architectural patterns for real-time data retrieval and I\u2019ve hit a bit of a wall regarding high-velocity marketplaces (like Vinted, for example).</p> <p>I\u2019ve experimented with standard REST API polling (both web and mobile endpoints), but the latency and data consistency aren&#39;t where I need them to be. I\u2019ve noticed some third-party monitoring tools manage to surface listings almost instantaneously\u2014sometimes even before they appear in the general search index or while they seem to be in a &quot;pending&quot; state.</p> <p>Given the scale and the low cost of these services, I\u2019m questioning the underlying tech stack:</p> <ul> <li><strong>WebSockets/PubSub:</strong> How common is it for large e-commerce platforms to expose public or semi-public streams for internal state changes?</li> <li><strong>Edge Side Includes (ESI) or Cache Invalidation:</strong> Could they be intercepting data at a different layer?<",
+        "id": 4742817,
+        "language": "en",
+        "link": "https://www.reddit.com/r/webscraping/comments/1qws44y/vinted_trouble",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 467,
+        "source_url": "https://www.reddit.com/r/webscraping/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "vinted trouble",
+        "vote": 0
+    }
+]
