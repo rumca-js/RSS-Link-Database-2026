@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Louis Rossmann",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-06T23:09:06.062722+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-06T22:19:19+00:00",
+        "description": "BILL PAGE: https://app.leg.wa.gov/billsummary?Year=2025&BillNumber=2481&Initiative=False\n\nBILL TEXT: https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/House%20Bills/2481.pdf\n\nAI documentary: https://www.youtube.com/watch?v=5dZ_lvDgevk",
+        "id": 4752723,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=pxgPBVEFcyg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 201,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCl2mFZoRqjw_ELax4Yisf6w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/pxgPBVEFcyg/hqdefault.jpg",
+        "title": "This bill bans AI surge pricing in stores: SUPPORT THIS",
+        "vote": 0
+    }
+]

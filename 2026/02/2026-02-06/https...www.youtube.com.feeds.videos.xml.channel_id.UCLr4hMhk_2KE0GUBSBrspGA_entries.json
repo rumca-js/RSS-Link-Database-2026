@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kuba Klawiter",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-06T07:26:39.265693+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-06T06:10:09+00:00",
+        "description": "Mo\u017ce nie chodzi o Warszaw\u0119 nad Wis\u0142\u0105, ale historia tego samochodu bardzo mi si\u0119 spodoba\u0142a.",
+        "id": 4745554,
+        "language": "pl-PL",
+        "link": "https://www.youtube.com/watch?v=R5wbi6w8_Vc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 179,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLr4hMhk_2KE0GUBSBrspGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/R5wbi6w8_Vc/hqdefault.jpg",
+        "title": "Ameryka\u0144ski samoch\u00f3d z Warszawy, kt\u00f3ry naprawisz sam!",
+        "vote": 0
+    }
+]

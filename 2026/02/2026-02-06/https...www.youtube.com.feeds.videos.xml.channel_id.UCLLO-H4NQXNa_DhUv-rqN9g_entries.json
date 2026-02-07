@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CD-Action",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-06T14:57:47.049256+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-06T14:31:05+00:00",
+        "description": "Pazaak nie jest dla ka\u017cdego.",
+        "id": 4748611,
+        "language": "pl",
+        "link": "https://www.youtube.com/watch?v=vyANIumhWq0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 53,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLLO-H4NQXNa_DhUv-rqN9g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/vyANIumhWq0/hqdefault.jpg",
+        "title": "Ogrywam pierwszy raz Star Wars: Knights of the Old Republic!",
+        "vote": 0
+    }
+]

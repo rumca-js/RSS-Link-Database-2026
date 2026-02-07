@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeff Geerling",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-06T15:54:02.668880+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-06T15:00:28+00:00",
+        "description": "It's a pretty solid laptop, all things considered. But it launched into the worst timeline :(\n\nMy build included (some links are affiliate links):\n\n  - Argon ONE UP CM5 Laptop Shell for $400: https://argon40.com/products/argon-one-up-cm5-laptop-shell-main?_pos=16&_sid=a6a888f2c&_ss=r\n  - (Alternative) Argon ONE UP with CM5 8GB and NVME for $550: https://argon40.com/products/argon-one-up-cm5-laptop-core-system\n  - Raspberry Pi CM5 with WiFi 32GB eMMC / 16GB RAM ($210): https://www.pishop.us/product/raspberry-pi-compute-module-5-wireless-16gb-ram-32gb-emmc-cm5116032/\n  - Anker Nano II 45W GaN charger ($25): https://amzn.to/4qSybd9\n  - USB-C to USB-C Charging Cable ($10): https://amzn.to/4r3QrRa\n\nOther things mentioned:\n\n  - GitHub issue for Argon ONE UP: https://github.com/geerlingguy/raspberry-pi-pcie-devices/issues/744\n  - NIMO 15.6\" Intel N150 Laptop with 16GB of RAM ($399): https://amzn.to/46vUXzl\n  - Lenovo ThinkBook 16 Gen 2 ($599): https://amzn.to/45O9V3y\n\nSupport me on Patreon: ",
+        "id": 4749053,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=Ef70x0izkFU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 2,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 161,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR-DXc1voovS8nhAvccRZhg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/Ef70x0izkFU/hqdefault.jpg",
+        "title": "Raspberry Pi Laptop: Great execution, terrible timing",
+        "vote": 0
+    }
+]

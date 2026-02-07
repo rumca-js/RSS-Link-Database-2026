@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-06T17:07:18.600702+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-06T16:02:09+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nParallel Range Algorithms: The Evolution of Parallelism in C++ - Ruslan Arutyunyan - CppCon 2025\n---\n\nA talk will be given by one of the authors of the C++ proposal that aims to introduce  Parallel Range Algorithms, bringing together the power of C++ Ranges and parallel execution. This talk explores how these new algorithms improve code clarity, expressiveness, and performance. \n \nWe\u2019ll consider the following key aspects: \n \n-  What Parallel Range Algorithms are, and how they differ from C++17 parallel algorithms and serial range algorithms;\n-  What design choices were made, specifically addressing  bounded ranges  and range-as-the-output, and some corner cases; \n-  The performance implications of Parallel Range Algorithms \n-  The memory safety implications of Parallel Range Algorithms \n-  How these algorithms apply to heterogeneous computing based on  oneAPI DPC++ library (oneDPL) experience.\n  \nThis talk is based on an active  C++ standard proposal (P3179) t",
+        "id": 4749800,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=LVDr0132vUI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/LVDr0132vUI/hqdefault.jpg",
+        "title": "Parallel Range Algorithms: The Evolution of Parallelism in C++ - Ruslan Arutyunyan - CppCon 2025",
+        "vote": 0
+    }
+]

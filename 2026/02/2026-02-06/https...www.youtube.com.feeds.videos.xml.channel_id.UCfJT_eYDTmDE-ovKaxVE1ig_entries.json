@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kevin Stratvert",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-06T08:47:41.581476+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-06T08:01:10+00:00",
+        "description": "Have you ever shut down your Windows laptop, turned it back on, and the problem was still there?\nThat\u2019s not a coincidence. On modern versions of Windows, shut down is not the same as restart \u2014 and that difference is exactly why restarting fixes bugs when shutting down doesn\u2019t.\n\nIn this video, I\u2019ll show you:\n- Why Windows doesn\u2019t fully reset when you shut it down\n- How to prove it on your own computer using Task Manager\n- What Fast Startup actually does behind the scenes\n- When you should restart, sleep, or shut down\n- A hidden shortcut to force a true one-time shutdown\n- How to permanently disable Fast Startup if you want full control\n\nIf your Wi-Fi won\u2019t connect, Bluetooth is acting up, updates won\u2019t install, or your PC just feels \u201coff,\u201d this explains why restarting works \u2014 and when you should use it.\n\nWatch until the end for the fastest way to restart Windows without opening the Start menu.\n\nHost: Kevin Stratvert\n\n\u231a TIMESTAMPS\n0:00 - Why shutdown doesn\u2019t fix Windows problems\n0:24 - ",
+        "id": 4745885,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=vxPrLUCPd10",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 958,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfJT_eYDTmDE-ovKaxVE1ig",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/vxPrLUCPd10/hqdefault.jpg",
+        "title": "Why Restarting Fixes Windows Problems (And Shutting Down Doesn\u2019t)",
+        "vote": 0
+    }
+]

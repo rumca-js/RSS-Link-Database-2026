@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Billy Perrigo",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-06T15:27:59.157781+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-06T14:46:46+00:00",
+        "description": "AI promised to speed up drug discovery, but the real bottleneck is in clinical trials. This startup is using AI to accelerate them.",
+        "id": 4748849,
+        "language": "en-UK",
+        "link": "https://time.com/7372610/ai-drug-clinical-trials",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 317,
+        "source_url": "https://time.com/tech/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://api.time.com/wp-content/uploads/2026/02/ai-drug-discovery.jpg",
+        "title": "AI Could Reshape Clinical Trials\u2014and the Business of Pharma",
+        "vote": 0
+    }
+]

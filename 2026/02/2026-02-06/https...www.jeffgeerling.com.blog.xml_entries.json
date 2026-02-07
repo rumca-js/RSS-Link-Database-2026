@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-06T15:27:15.173678+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-06T09:00:00+00:00",
+        "description": "<p>Ever since the <a href=\"https://www.raspberrypi.com/products/compute-module-5/\">Raspberry Pi Compute Module 5</a> was introduced, I wondered why nobody built a decent laptop chassis around it.</p>\n<figure class=\"insert-image\"><img src=\"https://www.jeffgeerling.com/blog/2026/the-first-good-raspberry-pi-laptop/argon-one-up-laptop-hero-raspberry-pi-mug.jpg\"\n alt=\"Argon ONE UP laptop with Raspberry Pi mug on desk\" width=\"700\" height=\"auto\">\n</figure>\n\n<p>You could swap out a low spec CM5 for a higher spec, and get an instant computer upgrade. Or, assuming a CM6 comes out someday in the same form factor, the laptop chassis could get an entirely new life with that upgrade.</p>",
+        "id": 4748842,
+        "language": "en",
+        "link": "https://www.jeffgeerling.com/blog/2026/the-first-good-raspberry-pi-laptop",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 162,
+        "source_url": "https://www.jeffgeerling.com/blog.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.jeffgeerling.com/blog/2026/the-first-good-raspberry-pi-laptop/argon-one-up-laptop-hero-raspberry-pi-mug.jpg",
+        "title": "The first good Raspberry Pi Laptop",
+        "vote": 0
+    }
+]

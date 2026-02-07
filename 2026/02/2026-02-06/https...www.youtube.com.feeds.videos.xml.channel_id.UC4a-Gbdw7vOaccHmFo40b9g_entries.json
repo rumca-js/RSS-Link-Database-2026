@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Khan Academy",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-06T14:55:43.444782+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-06T13:23:33+00:00",
+        "description": "Courses on Khan Academy are always 100% free. Start practicing\u2014and saving your progress\u2014now! https://www.khanacademy.org/science/ap-college-physics-1\n\nLinear momentum is conserved in all interactions. If the net external force on the selected system is zero, the total momentum of the system is constant. If the net external force on the selected system is nonzero, momentum is transferred between the system and the environment. Conservation of momentum can be used to determine the velocity of objects in a system immediately before or after a collision or explosion.\n\nSections:\n00:00 - Momentum of a single particle\n01:00 - Conservation of linear momentum\n03:20 - Calculating velocity after collision\n05:43 - Sense check\n09:55 - Real world applications\n11:55 - Newton's third law\n14:13 - Emmy Noether\n14:46 - Summary\n\n------------------\n\nKhan Academy is a nonprofit organization with the mission of providing a free, world-class education for anyone, anywhere. Khan Academy has been translated in",
+        "id": 4748595,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=zQLxbN8dxJg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 977,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4a-Gbdw7vOaccHmFo40b9g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/zQLxbN8dxJg/hqdefault.jpg",
+        "title": "Conservation of linear momentum | AP Physics | Khan Academy",
+        "vote": 0
+    }
+]
