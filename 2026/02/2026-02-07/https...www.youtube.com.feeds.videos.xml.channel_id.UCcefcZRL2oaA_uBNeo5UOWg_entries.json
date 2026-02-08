@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-07T15:46:16.937584+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-07T15:00:13+00:00",
+        "description": "You\u2019ve probably already heard all about OpenClaw (formerly Clawdbot/Moltbot). The viral sensation is an open-source AI assistant that runs on your own device, connects with messaging apps you already use, and goes beyond chat to actually execute tasks like managing your email, calendars, files, workflows, and more. Now meet the man behind it. YC\u2019s Raphael Schaad sat down with Peter Steinberger, the creator of OpenClaw, to discuss the \u201caha\u201d moment behind the viral personal AI agent, why local-first agents could replace many of today\u2019s apps, and how personal agents will reshape the future of software.\n\nChapters:\n00:00 \u2013 OpenClaw takes over the internet\n00:44 \u2013 Life after going viral\n01:28 \u2013 Why OpenClaw took off, what sets it apart\n02:56 \u2013 Bots talking to bots (and hiring humans)\n04:11 \u2013 From \u201cGod AI\u201d to swarm intelligence\n05:07 \u2013 Peter\u2019s original \u201caha\u201d moment\n06:38 \u2013 Rebuilding the agent as a conversation\n07:38 \u2013 The moment it exceeded expectations\n10:21 \u2013 Are apps going to disappear?\n",
+        "id": 4756856,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=4uzGDAoNOZc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/4uzGDAoNOZc/hqdefault.jpg",
+        "title": "OpenClaw Creator Explains How He Built The Viral Agent",
+        "vote": 0
+    }
+]

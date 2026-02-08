@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-07T14:42:29.002753+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-07T13:32:19+00:00",
+        "description": "AI tools have made a lot of progress, but they're still not quite there for technical writing. They can make mistakes, get the tone wrong, fail to recognize important context, and so on. Ihechikara - who has done his fair share of technical writing and editing - talks about this with Quincy on the freeCodeCamp podcast.",
+        "id": 4756432,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/56Hv0LDjtWM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/56Hv0LDjtWM/hqdefault.jpg",
+        "title": "Why humans are still necessary in the technical writing and research process",
+        "vote": 0
+    }
+]

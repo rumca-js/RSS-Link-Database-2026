@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Shira Ovide",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-07T10:51:33.067725+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-07T10:00:00+00:00",
+        "description": "The hundreds of billions of dollars being spent by tech companies on AI projects are diverting resources from other parts of the economy.",
+        "id": 4755331,
+        "language": "en-US",
+        "link": "https://www.washingtonpost.com/technology/2026/02/07/ai-spending-economy-shortages",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 364,
+        "source_url": "https://feeds.washingtonpost.com/rss/business/technology",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "The AI boom is so huge it\u2019s causing shortages everywhere else",
+        "vote": 0
+    }
+]

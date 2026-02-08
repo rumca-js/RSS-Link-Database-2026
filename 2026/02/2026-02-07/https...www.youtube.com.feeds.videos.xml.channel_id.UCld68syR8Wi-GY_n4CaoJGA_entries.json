@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-07T17:47:27.809881+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-07T16:30:01+00:00",
+        "description": "A few months back Duckstation's developer Stenzek decided to pull support for the Arch Linux package and now we're seeing a new check and the same thing being done to NixOS\n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\nBlocking Arch: https://www.reddit.com/r/linux_gaming/comments/1mcofl4/duckstation_author_now_actively_blocking_arch/\nDuckstation Git AUR: https://aur.archlinux.org/cgit/aur.git/tree/PKGBUILD?h=duckstation-git\nPolyform Licence: https://polyformproject.org/licenses/strict/1.0.0/\nCC BY-NC-ND: https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en\nDuckstation New Change: https://github.com/stenzek/duckstation/commit/64d13882479e5598a1276e273d231c95a094158c\nNix Issue 1: https://github.com/NixOS/nixpkgs/issues/341915 \nNix Issue 2: https://github.com/NixOS/",
+        "id": 4757555,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=2OMxCC6BFxE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/2OMxCC6BFxE/hqdefault.jpg",
+        "title": "Duckstation Is Back At It Again",
+        "vote": 0
+    }
+]

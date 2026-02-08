@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-07T17:06:24.516734+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-07T16:30:01+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/2OMxCC6BFxE\" width=\"480\" alt=\"thumbnail\" title=\"Duckstation Is Back At It Again\" /></p>A few months back Duckstation's developer Stenzek decided to pull support for the Arch Linux package and now we're seeing a new check and the same thing being done to NixOS<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />Blocking Arch: https://www.reddit.com/r/linux_gaming/comments/1mcofl4/duckstation_author_now_actively_blocking_arch/<br />Duckstation Git AUR: https://aur.archlinux.org/cgit/aur.git/tree/PKGBUILD?h=duckstation-git<br />Polyform Licence: https://polyformproject.org/licenses/strict/1.0.0/<br />CC BY-NC-ND: https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en<br />Duckstation New C",
+        "id": 4757341,
+        "language": "en",
+        "link": "https://odysee.com/duckstation-is-back-at-it-again:f4499bf98592245b28cd50a92623e12999738034",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/2OMxCC6BFxE",
+        "title": "Duckstation Is Back At It Again",
+        "vote": 0
+    }
+]

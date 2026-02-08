@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-07T15:52:57.970280+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-07T09:00:00+00:00",
+        "description": "<p>In October, my Dad and I got to go behind the scenes at two St. Louis Blues (NHL hockey) games, and observe the massive team effort involved in putting together a modern digital sports broadcast.</p>\n<figure class=\"insert-image\"><img src=\"https://www.jeffgeerling.com/blog/2026/exploring-a-modern-smpte-2110-broadcast-truck-with-my-dad/blues-game-production-truck-prod-room.jpg\"\n alt=\"Broadcast production room in 45 Flex truck at a Blues game\" width=\"700\" height=\"auto\">\n</figure>\n\n<p>I wanted to explore the timing and digital side of a modern <a href=\"https://www.smpte.org/standards/st2110\">SMPTE 2110</a> mobile unit, and my Dad has been involved in studio and live broadcast for decades, so he enjoyed the experience as the engineer <em>not</em> on duty!</p>",
+        "id": 4756884,
+        "language": "en",
+        "link": "https://www.jeffgeerling.com/blog/2026/exploring-a-modern-smpte-2110-broadcast-truck-with-my-dad",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 162,
+        "source_url": "https://www.jeffgeerling.com/blog.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.jeffgeerling.com/blog/2026/exploring-a-modern-smpte-2110-broadcast-truck-with-my-dad/blues-game-production-truck-prod-room.jpg",
+        "title": "Exploring a Modern SMTPE 2110 Broadcast Truck With My Dad",
+        "vote": 0
+    }
+]
