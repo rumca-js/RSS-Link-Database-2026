@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-08T08:35:37.756959+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-08T08:35:36+00:00",
+        "description": "OpenClaw (formerly Moltbot and Clawdbot) has announced that it's partnering with Google-owned VirusTotal to scan skills that are being uploaded to ClawHub, its skill marketplace, as part of broader efforts to bolster the security of the agentic ecosystem.\n\"All skills published to ClawHub are now scanned using VirusTotal's threat intelligence, including their new Code Insight capability,\"",
+        "id": 4761143,
+        "language": "en-US",
+        "link": "https://thehackernews.com/2026/02/openclaw-integrates-virustotal-scanning.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 343,
+        "source_url": "https://feeds.feedburner.com/TheHackersNews",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "OpenClaw Integrates VirusTotal Scanning to Detect Malicious ClawHub Skills",
+        "vote": 0
+    }
+]

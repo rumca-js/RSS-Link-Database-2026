@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/Separate-Choice",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-08T16:22:20.465124+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-08T15:58:20+00:00",
+        "description": "<table> <tr><td> <a href=\"https://www.reddit.com/r/RISCV/comments/1qzckev/nes_emulator_on_a_1_esp32c3_riscv_mcu/\"> <img src=\"https://preview.redd.it/r44y04tmmaig1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f9e5003d567963649935c11ad6d94c96d0541385\" alt=\"NES Emulator on a $1 ESP32-C3 RISC-V MCU!!!\" title=\"NES Emulator on a $1 ESP32-C3 RISC-V MCU!!!\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Hey guys just sharing my attempt at making an NES emulator on the ESP32C3 microcontroller. I saw one or 2 ports of the NES emulator for other ESP32 but not the RISC-V core on the C3! I&#39;m working on making this portable acrosss other RISC-V MCUs and we require no external SRAM, PSRAM or anything! Getting 30-30 FPS average and runs really smooth...your entire build can be under $3!! As soon as I get the CH32H417 I&#39;m adding audio and video out! I&#39;ll link on YouTube so you can see it in action and a writeup so you can see how I did it! </p> <p><a href=\"https://youtu.be/uwq_g7",
+        "id": 4763417,
+        "language": "en",
+        "link": "https://www.reddit.com/r/RISCV/comments/1qzckev/nes_emulator_on_a_1_esp32c3_riscv_mcu",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 471,
+        "source_url": "https://www.reddit.com/r/RISCV/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://preview.redd.it/r44y04tmmaig1.jpeg?width=640&crop=smart&auto=webp&s=f9e5003d567963649935c11ad6d94c96d0541385",
+        "title": "NES Emulator on a $1 ESP32-C3 RISC-V MCU!!!",
+        "vote": 0
+    }
+]

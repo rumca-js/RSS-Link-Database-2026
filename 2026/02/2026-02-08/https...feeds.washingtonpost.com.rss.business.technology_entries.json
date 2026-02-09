@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Shira Ovide",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-08T10:22:22.056976+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-08T10:00:00+00:00",
+        "description": "We asked experts to review four commercials trying to win over the AI-skeptical American public.",
+        "id": 4761538,
+        "language": "en-US",
+        "link": "https://www.washingtonpost.com/technology/2026/02/08/super-bowl-ads-ai",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 364,
+        "source_url": "https://feeds.washingtonpost.com/rss/business/technology",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Can these Super Bowl ads make Americans love AI?",
+        "vote": 0
+    }
+]

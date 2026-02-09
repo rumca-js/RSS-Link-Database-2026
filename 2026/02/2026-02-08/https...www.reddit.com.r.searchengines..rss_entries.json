@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/GameCreep",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-08T09:29:04.251014+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-08T09:26:01+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>I am working a website built over nextjs 16.</p> <p>The problem is that google indexing all my page in minutes that has least content like homepage, /categories, /categories/ai these pages rarely have anything but got indexed.</p> <p>But not indexing the actual post. Shows Discovered: Currently not indexed.</p> <p>What could be the problem?</p> <p>robots.txt is good, sitemap is proper.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/GameCreep\"> /u/GameCreep </a> <br/> <span><a href=\"https://www.reddit.com/r/searchengines/comments/1qz4klb/google_indexing_problem_discovered_currently_not/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/searchengines/comments/1qz4klb/google_indexing_problem_discovered_currently_not/\">[comments]</a></span>",
+        "id": 4761333,
+        "language": "en",
+        "link": "https://www.reddit.com/r/searchengines/comments/1qz4klb/google_indexing_problem_discovered_currently_not",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 463,
+        "source_url": "https://www.reddit.com/r/searchengines/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Google Indexing problem: Discovered, Currently not indexed",
+        "vote": 0
+    }
+]
