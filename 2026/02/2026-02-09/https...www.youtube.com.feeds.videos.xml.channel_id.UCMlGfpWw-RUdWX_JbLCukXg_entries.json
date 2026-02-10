@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-09T17:06:31.385104+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-09T16:02:08+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nA Case-study in Rewriting a Legacy Gui Library for Real-time Audio Software in Modern C++ (Reprise) - Roth Michaels - CppCon 2025\n---\n\nA case-study in the design and development of [company name redacted] GUI library, for real-time audio software, in C++17 to eliminate common sources of bugs and increase developer productivity and how this design can be improved with C++20/23. This talk will use GlassProperties, a library for property serialization and accessor method synthesis. While written as part of a modern GUI library built with real-time audio, GlassProperties is a general purpose framework not tied to any one GUI library and could easily be adapted into your GUI or projects. \n \nIn this talk, we will cover the library design process, starting with analysis of legacy code and bugs to develop user problem statements. These user problems will be our guide for wrapping a legacy system with a new type-safe API using C++17 compile-time meta-programming. Once ",
+        "id": 4769959,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=ag_WNEDwFLQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/ag_WNEDwFLQ/hqdefault.jpg",
+        "title": "A Case-study in Rewriting a Legacy Gui Library for Real-time Audio Software in Modern C++ (Reprise)",
+        "vote": 0
+    }
+]

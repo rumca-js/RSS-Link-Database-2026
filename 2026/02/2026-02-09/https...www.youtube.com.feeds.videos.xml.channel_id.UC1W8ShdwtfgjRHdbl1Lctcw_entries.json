@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NASS",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-09T21:44:08.313239+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-09T20:40:48+00:00",
+        "description": "I colorized, fully restored, and added sound design to this rare footage filmed in California in August 1945, during the Victory over Japan Day celebrations in downtown San Diego, with additional scenes from San Francisco. Shot around August 14, 1945, the film documents public gatherings following the announcement of Japan\u2019s surrender, marking the official end of the Second World War. The images capture city streets filled with military personnel and civilians as news of the capitulation spread across the United States, offering a historical record of a pivotal moment that signaled the transition from global conflict to peace.\n\n\nvideo Restoration Process:\n\u2714 FPS boosted to 60 frames per second \n\u2714 Image resolution boosted up to 4K\n\u2714 Improved video sharpness and brightness with my own AviSynth scripts\n\u2714 Colorized only for the ambiance (not historically accurate)\n\u2714sound design added only for the ambiance\n\u2714restoration:(stabilisation,denoise,cleand,deblur) made with my own AviSynth and Vapo",
+        "id": 4772293,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=NDlUSeeRu0U",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 222,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC1W8ShdwtfgjRHdbl1Lctcw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/NDlUSeeRu0U/hqdefault.jpg",
+        "title": "San Diego, San Francisco 1945 in color, V-J Day [60fps, Remastered] Sound Design",
+        "vote": 0
+    }
+]

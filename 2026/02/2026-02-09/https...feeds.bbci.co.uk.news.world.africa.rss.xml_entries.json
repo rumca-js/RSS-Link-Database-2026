@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-09T13:46:53.448427+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-09T00:09:18+00:00",
+        "description": "Insurgents have carried out a wave of drone strikes on military positions in the region.",
+        "id": 4767674,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/cew8vldpzdyo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 521,
+        "source_url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8f7/live/184aa560-02d9-11f1-b7e1-afb6d0884c18.jpg",
+        "title": "How off-the-shelf drones are changing jihadist warfare in West Africa",
+        "vote": 0
+    }
+]

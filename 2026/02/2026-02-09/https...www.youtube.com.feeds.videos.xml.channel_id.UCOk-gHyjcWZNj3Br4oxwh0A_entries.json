@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Techno Tim",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-09T16:22:26.517510+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-09T15:59:28+00:00",
+        "description": "I took the Beelink ME Pro and tested it the way I\u2019d actually use a small NAS/homelab box: 2\u00d7 SATA drives for bulk storage, plus 3\u00d7 NVMe (boot + fast app pool). Then I built pools, set up SMB shares, tested real file transfers on 2.5G vs 5G, and finished with apps + Plex to see what the hardware can really do.\n\nBeelink ME Pro: https://amzn.to/3ZpYPxZ (affiliate link)   \nBeelink ME Pro: https://www.bee-link.com/products/beelink-me-pro (non-affiliate link)\n\nME Pro was sent to be for testing.\n\nVideo Notes: https://technotim.com/posts/beelink-me-pro/\n\nMerch Shop \ud83d\udecd\ufe0f: https://l.technotim.com/shop\nSupport me on Patreon: https://www.patreon.com/technotim\nSponsor me on GitHub: https://github.com/sponsors/timothystewart6\nSubscribe on Twitch: https://www.twitch.tv/technotim\nBecome a YouTube member: https://www.youtube.com/channel/UCOk-gHyjcWZNj3Br4oxwh0A/join\nGear Recommendations: https://l.technotim.com/gear\nGet Help in Our Discord Community: https://l.technotim.com/discord\n2nd channel: https://",
+        "id": 4768958,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=ngqe-vp7htk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 911,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCOk-gHyjcWZNj3Br4oxwh0A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/ngqe-vp7htk/hqdefault.jpg",
+        "title": "This Tiny NAS Is STACKED: 5GbE + NVMe + DDR5 (Beelink ME Pro)",
+        "vote": 0
+    }
+]

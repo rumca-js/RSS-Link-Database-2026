@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-09T22:51:52.770024+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-09T22:51:51+00:00",
+        "description": "Flying long-haul with Jetstar is about to look a whole lot different. These are the huge changes coming you need to know about.",
+        "id": 4772718,
+        "language": "en-au",
+        "link": "https://www.news.com.au/travel/travel-updates/jetstar-ditches-old-entertainment-screens-and-adds-wifi-in-huge-boeing-787-makeover/news-story/859df4785b13a678658fe8b7297e6060?from=rss-basic",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 409,
+        "source_url": "https://www.news.com.au/content-feeds/latest-news-travel",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://content.api.news/v3/images/bin/f65cb6ef25c972735bbba0abf85444f4?width=320",
+        "title": "Jetstar ditches old entertainment screens and adds Wi-Fi in huge Boeing 787 makeover",
+        "vote": 0
+    }
+]
