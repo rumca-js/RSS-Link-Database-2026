@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-10T12:00:01.610809+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-10T11:12:08+00:00",
+        "description": "The French president warns of growing threats from China, Russia and now the US, saying Europe faces a \"wake-up call\".",
+        "id": 4776654,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/ce8n1zdnpd3o",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 523,
+        "source_url": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2921/live/75367700-0675-11f1-9972-d3f265c101c6.jpg",
+        "title": "Macron urges Europe to start acting like world power",
+        "vote": 0
+    }
+]

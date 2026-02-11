@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-10T23:15:51.919959+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-10T22:00:15+00:00",
+        "description": "Stablecoin Financial Services",
+        "id": 4782559,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/N8ajU0uav80",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/N8ajU0uav80/hqdefault.jpg",
+        "title": "Stablecoin Financial Services",
+        "vote": 0
+    }
+]

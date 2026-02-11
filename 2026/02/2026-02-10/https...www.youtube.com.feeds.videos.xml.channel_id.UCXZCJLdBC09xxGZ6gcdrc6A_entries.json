@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "OpenAI",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-10T20:03:39.653786+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-10T19:30:48+00:00",
+        "description": "Deep research in ChatGPT is now powered by GPT-5.2.\n\nNow in deep research you can:\n- Connect to apps in ChatGPT and search specific sites\n- Track real-time progress and interrupt with follow-ups or new sources\n- View fullscreen reports\n\nRolling out starting today.\nhttps://chatgpt.com/features/deep-research/",
+        "id": 4781104,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=2gCqVb2lBwk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 935,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXZCJLdBC09xxGZ6gcdrc6A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/2gCqVb2lBwk/hqdefault.jpg",
+        "title": "Updates to deep research in ChatGPT",
+        "vote": 0
+    }
+]

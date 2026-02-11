@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/phgerin",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-10T18:30:19.995083+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-10T17:06:11+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><ul> <li><strong>NoSTalgia 2.0 Beta 1 is available!</strong> After 11 years since the last release (June 2015), NoSTalgia is finally back on modern Macs. This version is a port of the original emulator, completely rewritten for Apple Silicon with native Metal-accelerated graphics, cycle-accurate 68000 emulation, and a modern SwiftUI interface. Run your favorite Atari ST games and applications on M1/M2/M3/M4 Macs!</li> <li><a href=\"https://nostalgia.pghsoftware.be\">https://nostalgia.pghsoftware.be</a></li> <li>Complete rewrite for Apple Silicon (M1/M2/M3/M4)</li> <li>New Moira MC68000 CPU core with cycle-accurate emulation</li> <li>Metal-accelerated video rendering</li> <li>Native SwiftUI interface</li> <li>Built-in NoSTalgia HDD driver (in ROM)</li> <li>ACSI hard disk emulation with AHDI partition support</li> <li>Top/bottom overscan support</li> <li>YM2149 PSG with DMA sample playback</li> <li>Mouse synchronization with GEM cursor</li> <li>Keyboard joys",
+        "id": 4780310,
+        "language": "",
+        "link": "https://www.reddit.com/r/emulation/comments/1r16hga/nostalgia_atarist_emulator_for_mac_20_release",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 475,
+        "source_url": "https://www.reddit.com/r/emulation/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "NoSTalgia AtariST Emulator for Mac 2.0 release",
+        "vote": 0
+    }
+]

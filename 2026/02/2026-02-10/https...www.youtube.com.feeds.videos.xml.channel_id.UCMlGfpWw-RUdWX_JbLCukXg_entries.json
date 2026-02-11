@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-10T16:55:04.970268+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-10T16:02:12+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nBack to Basics: Master the static inline, const, and constexpr C++ Keywords - Andreas Fertig - CppCon 2025\n---\n\nC++ comes with a whole toolbox of keywords you can apply to types and functions. You think it's straightforward? My experience says otherwise. There are false-friends like static , which I often see misapplied. \n \nIn this talk, I will demystify those tricky little keywords. You'll learn what they really mean, how they behave in different contexts, and \u2014 most importantly \u2014 when to use them (and when not to). Think const, constexpr, consteval, constinit: yes, C++ has more flavors of constness than your local ice cream shop. We'll explore them all. \n \nWe'll go beyond syntax and dive into what's actually happening in the language. \n \nWhile the talk includes some features from C++23, most of what we cover is rooted in C++11 or even classic C++98. We'll touch on important concepts like the One Definition Rule (ODR) and top-level qualifiers, giving you a de",
+        "id": 4779315,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=hLakx0KYiR0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/hLakx0KYiR0/hqdefault.jpg",
+        "title": "Back to Basics: Master the static inline, const, and constexpr C++ Keywords - Andreas Fertig",
+        "vote": 0
+    }
+]

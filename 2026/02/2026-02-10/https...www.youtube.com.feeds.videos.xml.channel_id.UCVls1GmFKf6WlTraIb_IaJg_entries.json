@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "DistroTube",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-10T17:19:10.493234+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-10T16:30:47+00:00",
+        "description": "How to install Arch Linux via the command line installation process.  I will use UEFI, btrfs, zram, and install a popular Wayland compositor (niri).  \n\nNOTE:\nThis video was re-uploaded in order to correct a major mistake (by omission) made in the first version of this video.  I did not run the command to create the 'fstab' file.  Oops!  \n\nREFERENCED:\n\u25ba https://wiki.archlinux.org/title/Installation_guide\n\nWANT TO SUPPORT THE CHANNEL? \n\ud83d\udcb0 Patreon: https://www.patreon.com/distrotube \n\ud83d\udcb3 Paypal: https://www.paypal.com/donate/?hosted_button_id=MW3ZFGS8Q9JGW\n\ud83d\udecd\ufe0f Amazon: https://amzn.to/2RotFFi\n\ud83d\udc55 Teespring: https://teespring.com/stores/distrotube\n\nDT ON THE WEB:\n\ud83d\udd78\ufe0f Website: http://distro.tube\n\ud83d\udcc1 GitLab: https://gitlab.com/dwt1  \n\ud83d\udde8\ufe0f Mastodon: https://fosstodon.org/@distrotube\n\ud83d\udc6b Reddit: https://www.reddit.com/r/DistroTube/\n\ud83d\udcfd\ufe0f Odysee: https://odysee.com/@DistroTube:2\n\nFREE AND OPEN SOURCE SOFTWARE THAT I LIKE:\n\ud83c\udf10 Brave Browser - https://brave.com/\n\ud83d\udcfd\ufe0f Open Broadcaster Software: https://obsproject.com",
+        "id": 4779460,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=BUYFe5ejxfo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 95,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVls1GmFKf6WlTraIb_IaJg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/BUYFe5ejxfo/hqdefault.jpg",
+        "title": "An Arch Linux Installation Guide (2026) [Re-Uploaded]",
+        "vote": 0
+    }
+]

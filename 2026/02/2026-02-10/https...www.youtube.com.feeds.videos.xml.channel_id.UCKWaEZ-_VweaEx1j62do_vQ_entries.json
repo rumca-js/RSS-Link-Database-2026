@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-10T08:53:33.361941+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-10T05:00:48+00:00",
+        "description": "Ready to become a certified SOC Analyst - QRadar SIEM V7.5 Plus CompTIA Cybersecurity Analyst? Register now and use code IBMTechYT20 for 20% off of your exam \u2192 https://ibm.biz/BdbWJP\n\nLearn more about Zero Trust here \u2192 https://ibm.biz/BdbWJy\n\nCan you really trust AI agents? \ud83e\udd16 Jeff Crume explains how Zero Trust principles secure autonomous systems, safeguard non-human identities, and block threats like prompt injection. Discover how to innovate securely with AI-driven, cutting-edge defenses. \ud83d\udd12\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/BdpBw8\n\n#aiagents #zerotrust #cybersecurity",
+        "id": 4775533,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=d8d9EZHU7fw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/d8d9EZHU7fw/hqdefault.jpg",
+        "title": "Securing AI Agents with Zero Trust",
+        "vote": 0
+    }
+]

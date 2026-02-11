@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Computerphile",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-10T14:45:48.306415+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-10T14:01:50+00:00",
+        "description": "Demonstrating that you can filter data to smooth out the numbers, but whether it's weather data, stock market information or Taylor Swift, the math is the same! David Domminney Fowler takes us through it. \n\nFind out more from Dave at https://www.youtube.com/c/DavidDomminneyFowler \n\nComputerphile is supported by Jane Street. Learn more about them (and exciting career opportunities) at: https://jane-st.co/computerphile\n\nThis video was filmed and edited by Sean Riley.\n\nComputerphile is a sister project to Brady Haran's Numberphile. More at https://www.bradyharanblog.com",
+        "id": 4777909,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=zuZBkTNrv0g",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 929,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9-y-6csu5WGm29I7JiwpnA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/zuZBkTNrv0g/hqdefault.jpg",
+        "title": "Digital Signal Processing With Audio Data - Computerphile",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unreal Engine",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-10T17:51:43.170715+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-10T17:20:14+00:00",
+        "description": "Join lead Mutable developers for a technical two-hour masterclass on Mutable workflows, features, and best practices. This session breaks down high-level features such as Texture Packing, Reshape and Morphs, Performance optimizations, and the new \"dataless\" architecture.\n\nHelpful links:\n\nMutable Sample at Fab | https://www.fab.com/listings/209e82f6-ad40-4253-b565-d2f65b12efe7\nMutable Tutorials | https://dev.epicgames.com/community/learning/tutorials/yjw9/unreal-engine-mutable\nMutable Documentation | https://dev.epicgames.com/documentation/en-us/unreal-engine/mutable-skeletal-mesh-generation-in-unreal-engine",
+        "id": 4779816,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=NMfjZp0oKqs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 685,
+        "source_url": "https://youtube.com/channel/UCBobmJyzsJ6Ll7UbfhI4iwQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/NMfjZp0oKqs/hqdefault.jpg",
+        "title": "A Masterclass on Mutable Character Customization Workflows | Inside Unreal",
+        "vote": 0
+    }
+]

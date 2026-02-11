@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "redakcja",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-10T19:29:11.014375+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-10T18:06:49+00:00",
+        "description": "<p>Wszyscy zgodzimy si\u0119, \u017ce warto wiedzie\u0107, czy kto\u015b przypadkiem nie buszuje po naszej infrastrukturze &#8212; i to nie tylko wtedy, kiedy <a href=\"https://niebezpiecznik.pl/post/rosja-atak-polska-energetyka-oze-osd/\" target=\"_blank\">na jej styku stoi UTM od Fortinet</a> ;) Wiele z sieci jest ju\u017c\u00a0<strong>od dawna przej\u0119tych</strong>, ale niestety nie ka\u017cda firma potrafi wykry\u0107, \u017ce jej infrastruktura <strong>zosta\u0142a zhackowana</strong>. A przecie\u017c\u00a0narz\u0119dzi, kt\u00f3re w tym mog\u0105 pom\u00f3c, jest sporo&#8230;<span id=\"more-26871\"></span></p>\n<h3>SOC w praktyce: plusy, minusy i mo\u017cliwo\u015bci wielu platform</h3>\n<p>Zaczynamy <a href=\"https://sklep.niebezpiecznik.pl/opis/36\" target=\"_blank\">cykl kilku ok. dwu-godzinnych szkole\u0144</a>, kt\u00f3re mog\u0105 Wam rozwi\u0105za\u0107 powy\u017cszy problem, tj. <strong>wykry\u0107 anomalie w sieci oraz usun\u0105\u0107, a mo\u017ce nawet namierzy\u0107 atakuj\u0105cego</strong>. A tak\u017ce zbudowa\u0107 sw\u00f3j profesjonalny, firmowy albo p\u00f3\u0142-profesjonalny, domowy Security Operations Center i pozna\u0107 <strong>dziesi\u0105tki techni",
+        "id": 4780701,
+        "language": "pl-PL",
+        "link": "https://niebezpiecznik.pl/post/splunk-czy-wazuh-a-moze-lepiej-thehive-cortex-lub-cribl",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 239,
+        "source_url": "https://feeds.feedburner.com/niebezpiecznik",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://niebezpiecznik.pl/wp-content/uploads/2026/02/soc-w-praktyce-title-150x150.jpg",
+        "title": "Splunk czy Wazuh? A mo\u017ce lepiej TheHive, Cortex lub Cribl?",
+        "vote": 0
+    }
+]

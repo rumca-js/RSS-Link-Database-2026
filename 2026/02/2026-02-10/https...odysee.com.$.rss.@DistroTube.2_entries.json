@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "DistroTube",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-10T17:37:13.969972+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-10T16:30:47+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/BUYFe5ejxfo\" width=\"480\" alt=\"thumbnail\" title=\"An Arch Linux Installation Guide (2026) [Re-Uploaded]\" /></p>How to install Arch Linux via the command line installation process.  I will use UEFI, btrfs, zram, and install a popular Wayland compositor (niri).  <br /><br />NOTE:<br />This video was re-uploaded in order to correct a major mistake (by omission) made in the first version of this video.  I did not run the command to create the 'fstab' file.  Oops!  <br /><br />REFERENCED:<br />\u25ba https://wiki.archlinux.org/title/Installation_guide<br /><br />WANT TO SUPPORT THE CHANNEL? <br />\ud83d\udcb0 Patreon: https://www.patreon.com/distrotube <br />\ud83d\udcb3 Paypal: https://www.paypal.com/donate/?hosted_button_id=MW3ZFGS8Q9JGW<br />\ud83d\udecd\ufe0f Amazon: https://amzn.to/2RotFFi<br />\ud83d\udc55 Teespring: https://teespring.com/stores/distrotube<br /><br />DT ON THE WEB:<br />\ud83d\udd78\ufe0f Website: http://distro.tube<br />\ud83d\udcc1 GitLab: https://gitlab.com/dwt1  <br />\ud83d\udde8\ufe0f Mastodon: https://fosstodon.org/@",
+        "id": 4779679,
+        "language": "en",
+        "link": "https://odysee.com/an-arch-linux-installation-guide-%282026%29:151848218e58e85c0c85b322e5316fc1b4b516d2",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 518,
+        "source_url": "https://odysee.com/$/rss/@DistroTube:2",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/BUYFe5ejxfo",
+        "title": "An Arch Linux Installation Guide (2026) [Re-Uploaded]",
+        "vote": 0
+    }
+]
