@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-11T17:30:17.086041+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-11T16:30:32+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/s-W7mZhx7QQ\" width=\"480\" alt=\"thumbnail\" title=\"Wayland Positioning Protocol Is Finally Merged\" /></p>2 and half years and almost 1000 interactions later we finally see the window positioning protocol now going by xx-zones has finally been merge but what does this actually mean for Wayland<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />Historical Protocol: https://gitlab.freedesktop.org/wayland/wayland-protocols/-/issues/72<br />Protocol 1: https://gitlab.freedesktop.org/wayland/wayland-protocols/-/merge_requests/247<br />Protocol 2: https://gitlab.freedesktop.org/wayland/wayland-protocols/-/merge_requests/249<br />Current Protocol: https://gitlab.freedesktop.org/wayland/wayland-proto",
+        "id": 4789216,
+        "language": "en",
+        "link": "https://odysee.com/wayland-positioning-protocol-is-finally:a9eabe33b432db133e27ea5fd8a9da6ab437a85f",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/s-W7mZhx7QQ",
+        "title": "Wayland Positioning Protocol Is Finally Merged",
+        "vote": 0
+    }
+]

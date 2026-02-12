@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "OpenAI",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-11T20:23:57.072088+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-11T19:08:33+00:00",
+        "description": "Javi walks through a logging refactor and shows why Codex's self-verification is a step change: the model runs the app, finds the right session, and proves logs still flow.\n\nTakeaways:\n- Codex can validate its work by running tests and launching the app.\n- It excels at broad refactors that touch many files.\n- The model can find session IDs and query tools on its own.\n- Verification collapses a risky manual loop into minutes.\n\nWhen the agent can prove correctness, you can move faster with less risk.\n\nChapters:\n00:00 Why Codex has been a step change\n00:18 Self-verification: run tests and launch the app\n00:52 The task: a logging refactor across many files\n01:10 The risk: do not break observability\n01:28 How this used to be verified manually\n01:35 Ask the model to verify logs end-to-end\n01:50 It finds the session ID and queries logs MCP\n02:03 Proof: logs still pipe, task done fast",
+        "id": 4790832,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=dHCNpcNyoFM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 935,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXZCJLdBC09xxGZ6gcdrc6A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/dHCNpcNyoFM/hqdefault.jpg",
+        "title": "Codex checks its work for you",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CyberNewswire",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-11T14:41:10.954460+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-11T13:05:15+00:00",
+        "description": "New York, NY, 11th February 2026, CyberNewswire",
+        "id": 4787636,
+        "language": "en-US",
+        "link": "https://hackread.com/gitguardian-raises-50m-series-c-to-address-non-human-identities-crisis-and-ai-agent-security-gap",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 139,
+        "source_url": "https://www.hackread.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "GitGuardian Raises $50M Series C to Address Non-Human Identities Crisis and AI Agent Security Gap",
+        "vote": 0
+    }
+]

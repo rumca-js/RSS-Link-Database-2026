@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jack Wallen",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-11T11:32:40.724172+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-11T11:02:23+00:00",
+        "description": "<p><em>Cherry Studio wraps Ollama and other backends in a polished desktop client, so your AI tools feel like part of Linux instead of an afterthought.</em></p>\n<p>The post <a href=\"https://fossforce.com/2026/02/stop-living-in-the-browser-run-your-favorite-llms-on-linux-with-cherry-studio/\">Stop Living in the Browser: Run Your Favorite LLMs on Linux with Cherry Studio</a> appeared first on <a href=\"https://fossforce.com\">FOSS Force</a>.</p>",
+        "id": 4786043,
+        "language": "en-US",
+        "link": "https://fossforce.com/2026/02/stop-living-in-the-browser-run-your-favorite-llms-on-linux-with-cherry-studio",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 108,
+        "source_url": "https://fossforce.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Stop Living in the Browser: Run Your Favorite LLMs on Linux with Cherry Studio",
+        "vote": 0
+    }
+]

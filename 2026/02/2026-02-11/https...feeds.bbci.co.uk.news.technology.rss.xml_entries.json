@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-11T09:56:01.784470+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-11T09:49:13+00:00",
+        "description": "The Children's Commissioner suggested social media advertising for children should be banned.",
+        "id": 4785428,
+        "language": "en-US",
+        "link": "https://www.bbc.com/news/articles/c89kl834nv9o",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 28,
+        "source_url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4eff/live/c60eff20-06a8-11f1-8222-ad34ef3f6330.jpg",
+        "title": "Children 'bombarded' with weight loss drug ads online, says commissioner",
+        "vote": 0
+    }
+]

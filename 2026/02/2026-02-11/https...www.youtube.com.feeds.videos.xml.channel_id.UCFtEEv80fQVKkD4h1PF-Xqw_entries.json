@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Microsoft",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-11T18:31:13.161603+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-11T18:03:40+00:00",
+        "description": "What if the next Nobel-scale breakthrough begins with AI? In Episode 3 of On Second Thought, Sinead visits a quantum lab with John Link from the Microsoft Discovery team to explore how AI is transforming the scientific process. From running millions of virtual experiments to uncovering insights across chemistry, biology, and physics, they discuss how AI might help scientists think differently, not just faster.\n\nAbout the guest \nJohn Link has spent his career bringing disruptive technologies to market. He began in implantable medical devices and has since delivered innovation across gaming, mixed reality, quantum computing, and advanced AI for science. John holds a Master of Science in Software Engineering from Embry-Riddle Aeronautical University and lives in the Redmond area with his family.\n\nLearn more: https://aka.ms/OSTYT\n\nChapters:\n00:00 - Intro\n02:44 - Where does AI actually step into the lab?\n05:52 - How do we keep discovery trustworthy with AI?\n07:27 - What do AI-powered break",
+        "id": 4789860,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=eMAhM_SjpPg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 793,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFtEEv80fQVKkD4h1PF-Xqw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/eMAhM_SjpPg/hqdefault.jpg",
+        "title": "AI for Science | On Second Thought",
+        "vote": 0
+    }
+]

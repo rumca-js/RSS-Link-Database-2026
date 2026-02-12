@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ThioJoe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-11T16:40:39.835791+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-11T15:45:03+00:00",
+        "description": "The Windows 11 requirements aren't quite what they may seem.\n\nWindows 11 is notorious for its strict hardware requirements. And while many people have figured out ways around them, the fact is that the requirements are not arbitrary, and running it without the requirements (such as a certain CPU generation and TPM module), it probably isn't worth it. But what is the reason for those CPU requirements anyway? Turns out the supported CPUs all have a specific hardware feature which is required for other security features. So it might not be simply Microsoft's greed after all. But what could they be doing different?\n\nTime Stamps:\n0:00 - Intro\n0:50 - The Main Hardware Requirements\n3:10 - But It Still Runs On Old Hardware!\n4:46 - An Impossible Choice\n6:16 - They Don\u2019t Want A Repeat of Vista\n7:03 - What I Think  They Should Do\n8:36 - They Don\u2019t Care About the Money\n9:54 - It\u2019s Probably The Opposite",
+        "id": 4788688,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=XPyRI1J0vGU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 366,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQSpnDG3YsFNf5-qHocF-WQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/XPyRI1J0vGU/hqdefault.jpg",
+        "title": "Everyone is Wrong About Windows 11 Requirements (Except Me)",
+        "vote": 0
+    }
+]

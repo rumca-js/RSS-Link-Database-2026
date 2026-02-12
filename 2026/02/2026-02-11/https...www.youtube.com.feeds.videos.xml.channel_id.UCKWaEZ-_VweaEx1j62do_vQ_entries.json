@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-11T12:07:56.064589+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-11T11:01:11+00:00",
+        "description": "Explore the podcast \u2192 https://ibm.biz/BdpHsU\n\nAre enterprises moving too fast with AI\u2014and breaking security in the process? \n\nIn this episode of Security Intelligence, host Matt Kosinski is joined by Sridhar Muppidi, Nick Bradley and Jeff Crume to unpack a pivotal moment in cybersecurity. \n\nThe panel dives into the rapid rise of AI agents and the growing risks of shadow AI in the enterprise, comparing open-source agent platforms like OpenClaw with proprietary models such as Claude Opus 4.6 and its new agent teams. We explore how speed-first AI adoption, unsecured agent implementations and weak separation of duties are creating new attack surfaces\u2014and why executives may be unintentionally fueling the problem. \n\nThe conversation also examines the recent Notepad++ supply chain breach as a warning sign of broader software inventory and supplier risk failures, and analyzes DragonForce\u2019s attempt to reinvent ransomware as a scalable cartel business. \n\nAlong the way, we keep returning to a ke",
+        "id": 4786385,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=g9LO9M1ZLIk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/g9LO9M1ZLIk/hqdefault.jpg",
+        "title": "OpenClaw and Claude Opus 4.6: Where is AI agent security headed?",
+        "vote": 0
+    }
+]

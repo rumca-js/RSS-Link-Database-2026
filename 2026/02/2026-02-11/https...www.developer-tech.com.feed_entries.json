@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ryan Daws",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-11T18:29:40.193846+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-11T18:00:00+00:00",
+        "description": "<p>Google has shipped Android 17 beta 1 to developers and introduced a continuous &#8220;always-on&#8221; Canary release channel for updates. The change will mean new features and APIs will be pushed to developers immediately after internal testing rather than waiting for quarterly drops. The new Canary programme allows for early &#8220;battle-testing&#8221; of code, resulting in a [&#8230;]</p>\n<p>The post <a href=\"https://www.developer-tech.com/news/android-17-beta-continuous-canary-updates-for-developers/\">Android 17 beta intros continuous Canary updates for developers</a> appeared first on <a href=\"https://www.developer-tech.com\">Developer Tech News</a>.</p>",
+        "id": 4789828,
+        "language": "en-GB",
+        "link": "https://www.developer-tech.com/news/android-17-beta-continuous-canary-updates-for-developers",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 92,
+        "source_url": "https://www.developer-tech.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Android 17 beta intros continuous Canary updates for developers",
+        "vote": 0
+    }
+]

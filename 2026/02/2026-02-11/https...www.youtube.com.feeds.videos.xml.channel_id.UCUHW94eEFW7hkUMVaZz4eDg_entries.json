@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "minutephysics",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-11T23:00:39.694588+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-11T21:50:45+00:00",
+        "description": "Sign up for Brilliant for free and get 30 days of full access to all of their courses here: Brilliant.org/MinutePhysics. You\u2019ll also get 20% off an annual Premium subscription for all of Brilliant\u2019s content. Thanks to Brilliant for their support.\n\nThis video explains how the Fermi Paradox - the fact that aliens should mathematically be abundant in the universe and yet we haven't heard from any - actually makes sense when you take into account quantum technology. \n\nREFERENCES\n- On Interstellar Quantum Communication and the Fermi Paradox: https://doi.org/10.48550/arXiv.2408.02445\n- Quantum coherence to interstellar distances: https://doi.org/10.48550/arXiv.2009.00356\n- Exponential Separation of Quantum and Classical One-Way Communication Complexity for a Boolean Function: https://doi.org/10.48550/arXiv.quant-ph/0607174\n- Classical Interaction Cannot Replace a Quantum Message:\nhttps://doi.org/10.48550/arXiv.quant-ph/0703215\n\nLink to Patreon Supporters: http://www.minutephysics.com/suppor",
+        "id": 4792087,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=lZGyjR6Y9vw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 857,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCUHW94eEFW7hkUMVaZz4eDg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/lZGyjR6Y9vw/hqdefault.jpg",
+        "title": "The Quantum Fermi Paradox",
+        "vote": 0
+    }
+]

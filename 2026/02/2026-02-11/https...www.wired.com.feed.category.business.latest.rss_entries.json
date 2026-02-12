@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Joel Khalili",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-11T11:01:47.071315+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-11T10:55:24+00:00",
+        "description": "OpenAI, Anthropic, Google, and a host of other major tech companies have found common ground in F/ai, a new startup accelerator based out of Paris.",
+        "id": 4785844,
+        "language": "en-US",
+        "link": "https://www.wired.com/story/ai-industry-rivals-are-teaming-up-on-a-startup-accelerator",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 396,
+        "source_url": "https://www.wired.com/feed/category/business/latest/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media.wired.com/photos/698a526a09c90fdfe3c9c1d7/master/pass/Paris%20accelerator%20copy.jpg",
+        "title": "AI Industry Rivals Are Teaming Up on a Startup Accelerator",
+        "vote": 0
+    }
+]

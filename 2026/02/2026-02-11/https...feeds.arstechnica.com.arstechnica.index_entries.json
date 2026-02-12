@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Beth Mole",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-11T03:31:11.340453+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-11T01:21:12+00:00",
+        "description": "The move comes amid RFK Jr.'s relentless efforts to enact his anti-vaccine agenda.",
+        "id": 4783795,
+        "language": "en-US",
+        "link": "https://arstechnica.com/health/2026/02/fda-refuses-to-review-modernas-mrna-flu-vaccine",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 21,
+        "source_url": "https://feeds.arstechnica.com/arstechnica/index",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2020/12/GettyImages-1290558683-500x500.jpg",
+        "title": "FDA refuses to review Moderna's mRNA flu vaccine",
+        "vote": 0
+    }
+]
