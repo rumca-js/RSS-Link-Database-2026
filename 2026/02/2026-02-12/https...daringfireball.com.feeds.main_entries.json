@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Gruber",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-12T17:44:24.582291+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-12T17:13:31+00:00",
+        "description": "<p>Jeff Johnson:</p>\n\n<blockquote>\n  <p>In today\u2019s macOS 26.3 update, Apple implemented a \u201cfix\u201d for an\nissue I blogged about a month ago, <a href=\"https://lapcatsoftware.com/articles/2026/1/4.html\">macOS Tahoe broke Finder\ncolumns view</a>. (At the behest of John Gruber and the <a href=\"https://support.apple.com/guide/applestyleguide/c-apsgb744e4a3/1.0/web/1.0#apdef2437a79d084\">Apple\nStyle Guide</a>, I\u2019m now using the term \u201ccolumn view\u201d rather\nthan \u201ccolumns view.\u201d) Specifically, the issue was with the system\nsetting to always show scroll bars. [...]</p>\n\n<p>Without the path bar, the columns are now taller, but the vertical\nscrollers remain the same height as before, leaving vertical gaps,\na ridiculous amount of space between the bottom of the scrollers\nand the bottom of the columns, looking silly and amateurish.</p>\n\n<p>Did nobody inside Apple test this configuration either? Or do they\nsimply not care?</p>\n</blockquote>\n\n<p>In one sense, this whole issue with column view in the Finder",
+        "id": 4799260,
+        "language": "",
+        "link": "https://lapcatsoftware.com/articles/2026/2/4.html",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 489,
+        "source_url": "https://daringfireball.com/feeds/main",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "More MacOS 26.3 Finder Column View Silliness",
+        "vote": 0
+    }
+]

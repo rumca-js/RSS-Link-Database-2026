@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-12T17:13:01.647941+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-12T16:30:19+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/OHyWs323uPc\" width=\"480\" alt=\"thumbnail\" title=\"Linux From Scratch Drops SysV In Favour Of Pure Systemd\" /></p>Linux From Scatch is a project that every Linux user should try at least once but recently they had to make the controversial change of dropping the SysV or System V book in favour of just Systemd due to increased workload and lack of maintainers.<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />Phoronix Article: https://www.phoronix.com/news/LFS-Dropping-SysVinit<br />LFS OpenRC: https://linuxfromscratch.org/~zeckma/lfs-openrc/<br />Announcement: https://lists.linuxfromscratch.org/sympa/arc/lfs-dev/2026-02/msg00002.html<br />Second Thread: https://lists.linuxfromscratch.org/sy",
+        "id": 4799003,
+        "language": "en",
+        "link": "https://odysee.com/linux-from-scratch-drops-sysv-in-favour:214864c766a62b586257fdd938c6ee37930baf2f",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/OHyWs323uPc",
+        "title": "Linux From Scratch Drops SysV In Favour Of Pure Systemd",
+        "vote": 0
+    }
+]

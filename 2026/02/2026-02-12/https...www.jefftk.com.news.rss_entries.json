@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-13T02:26:45.297870+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-12T08:00:00+00:00",
+        "description": "<p><span>\n\nI use several AI models at work, switching between them based on which\nis best at the kind of work I'm doing.  In my limited testing I've\nfound Opus 4.6 to be the best coder (via Claude Code) and has the best\ntaste in writing, while GPT 5.2 Thinking is mildly smarter.  Gemini\n3.0 Pro feels like it has the capacity to be much smarter, but is very\noften held back by various strange errors.  The one I see the most is\nthat it has a lot of trouble accepting the changes to the world since\nits training data, and seems to put a lot of effort into keeping track\nof everything as a giant hypothetical.\n\n</span>\n\n<p>\n\nFor example, the first query I thought to test this on in writing this\npost was [Who leads the Department of War?] and it gave the reasonable\nanswer \"The Department of War is currently led by Secretary of War\nPete Hegseth,\" followed by a short explanation.  But if I open up the\nthinking it spent some of its processing time being very confused:\n\n</p>\n\n<p>\n\n</p>\n\n<blockquote",
+        "id": 4803279,
+        "language": "en-US",
+        "link": "https://www.jefftk.com/p/geminis-hypothetical-present",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 163,
+        "source_url": "https://www.jefftk.com/news.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Gemini's Hypothetical Present",
+        "vote": 0
+    }
+]

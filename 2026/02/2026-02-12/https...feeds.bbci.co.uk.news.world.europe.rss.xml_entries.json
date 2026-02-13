@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-12T13:18:51.007956+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-12T13:00:27+00:00",
+        "description": "Storm Nils batters several European countries, leaving one person dead and several others injured.",
+        "id": 4796648,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/c20l6d03e1no",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 523,
+        "source_url": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d318/live/fd9c5d40-0813-11f1-8fdd-d9a354700c27.jpg",
+        "title": "Driver killed and motorway collapses as storms hit France, Portugal and Spain",
+        "vote": 0
+    }
+]

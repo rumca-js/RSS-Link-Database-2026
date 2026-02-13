@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Eli the Computer Guy",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-12T12:39:38.092691+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-12T11:54:22+00:00",
+        "description": "Workbook and Code -- https://github.com/SiliconDojo/In-Person-Classes/tree/main/Building%20AI%20Powered%20Telephone%20Agents%20with%20Twilio%20and%20ElevenLabs\n\nSupport Content at - https://donorbox.org/etcg\nLinkedIn at - https://www.linkedin.com/in/eli-etherton-a15362211/\n\nWith Twilio and ElevenLabs you can easily build AI powered telephone agents to handle both inbound and outbound calls.\n\nWith Twilio you can get API access to a telephone number that allows your Python code to be able to use telephone services for communicating with your customers, Or for inbound calls Twilio will route the incoming call to a platform like ElevenLabs.\n\nElevenLabs now provides a number of services in relation to AI voice communications. You can clone your voice or use professionally created voices to communicate your messages. You can connect directly to a number of LLM providers to offer \"AI\" functionality, and you can trigger events and tools so that the AI agent can trigger actions to happen on ot",
+        "id": 4796444,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=g31yF_pNsr4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 102,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCD4EOyXKjfDUhCI6jlOZZYQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/g31yF_pNsr4/hqdefault.jpg",
+        "title": "Building AI Powered Telephone Agents in Python with Twilio and ElevenLabs",
+        "vote": 0
+    }
+]

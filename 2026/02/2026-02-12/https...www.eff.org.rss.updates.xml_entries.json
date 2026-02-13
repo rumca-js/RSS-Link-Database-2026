@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Rindala Alajaji",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-12T22:57:43.807971+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-12T21:18:57+00:00",
+        "description": "<div class=\"field field--name-body field--type-text-with-summary field--label-hidden\"><div class=\"field__items\"><div class=\"field__item even\"><p><span><a href=\"https://discord.com/press-releases/discord-launches-teen-by-default-settings-globally\">Discord has begun rolling out mandatory age verification</a> and the internet is, understandably, <a href=\"https://www.polygon.com/discord-face-id-requirement-backlash/\">freaking out</a>.</span></p>\n<p><span>At EFF, we\u2019ve been raising the alarm about age verification mandates for years. In December, we launched our </span><a href=\"https://www.eff.org/issues/age-verification\"><span>Age Verification Resource Hub</span></a><span> to push back against laws and platform policies that require users to hand over sensitive personal information just to access basic online services. At the time, age gates were largely enforced in polities where it was mandated by law. Now they\u2019re landing </span><a href=\"https://discord.com/press-releases/discord-launch",
+        "id": 4801953,
+        "language": "en",
+        "link": "https://www.eff.org/deeplinks/2026/02/discord-voluntarily-pushes-mandatory-age-verification-despite-recent-data-breach",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 101,
+        "source_url": "https://www.eff.org/rss/updates.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Discord Voluntarily Pushes Mandatory Age Verification Despite Recent Data Breach",
+        "vote": 0
+    }
+]

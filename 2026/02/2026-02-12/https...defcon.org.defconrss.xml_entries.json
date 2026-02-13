@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-13T01:26:49.097360+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-12T16:19:43+00:00",
+        "description": "<p><img src=\"https://defcon.org/images/defcon-33/post-images/franklin-almanack.webp\" alt=\"This isn't a marketing report\"/> </p>\n\n    <p>The <a href=\"https://media.defcon.org/DEF CON 33/DEF CON 33 Hackers' Almanack.pdf\">DEF CON 33 Hackers' Almanack</a> translates a year of hacker research into plain language for policymakers&mdash;covering offensive AI, cybercrime, authoritarian surveillance, and critical infrastructure vulnerabilities.<br><br>\n\n        This isn't a marketing report. It's a reality check.</p>",
+        "id": 4803035,
+        "language": "en",
+        "link": "https://media.defcon.org/DEF%20CON%2033/DEF%20CON%2033%20Hackers'%20Almanack.pdf",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 82,
+        "source_url": "https://defcon.org/defconrss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://defcon.org/images/defcon-33/post-images/franklin-almanack.webp",
+        "title": "DEF CON Franklin Project Hackers' Almanack released from DC33!",
+        "vote": 0
+    }
+]

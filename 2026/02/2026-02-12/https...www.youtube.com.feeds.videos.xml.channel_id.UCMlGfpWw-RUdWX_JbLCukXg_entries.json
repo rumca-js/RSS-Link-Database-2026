@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-13T00:49:28.260941+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-12T23:38:17+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nBack to Basics: Custom Allocators Explained - From Basics to Advanced - Kevin Carpenter - CppCon 2025\n---\n\nEffective memory management is crucial for building efficient and reliable C++ applications. Custom memory allocators provide a powerful tool for optimizing memory usage, reducing fragmentation, and improving performance. This talk will explore the intricacies of memory allocation in C++, from the basics of dynamic memory management to the implementation of custom allocators. Attendees will gain insights into the standard allocator model, techniques for designing custom allocators, and practical examples of their use in real-world applications. \n \nJoin us to unlock the full potential of memory management in your C++ projects. \n\n---\n\nSlides: https://github.com/kevinbcarpenter/b2b-custom-allocators\n\nWork at Hudson River Trading (HRT): https://tinyurl.com/safxfctf\n---\n\nKevin Carpenter\n \nKevin Carpenter, an experienced Software Engineer, excels in crafting hi",
+        "id": 4802778,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=RpD-0oqGEzE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/RpD-0oqGEzE/hqdefault.jpg",
+        "title": "Back to Basics: Custom Allocators Explained - From Basics to Advanced - Kevin Carpenter - CppCon",
+        "vote": 0
+    }
+]
