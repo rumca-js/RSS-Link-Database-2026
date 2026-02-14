@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-13T06:38:00.918613+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-13T00:59:16+00:00",
+        "description": "Two people were killed and one person was wounded after a shooting Thursday night on the campus of South Carolina State University, the school said.",
+        "id": 4804344,
+        "language": "en-US",
+        "link": "https://abcnews.go.com/US/2-dead-1-wounded-shooting-campus-south-carolina/story?id=130128754",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 81,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 9,
+        "source_url": "http://feeds.abcnews.com/abcnews/topstories",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://s.abcnews.com/images/US/hugine-suites_1770961247929_hpMain_4x3t_384.jpg",
+        "title": "2 dead, 1 wounded in shooting on campus South Carolina State University",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-13T02:23:38.253560+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-13T01:36:13+00:00",
+        "description": "<div id=\"remove_no_follow\">\n\t\t<div class=\"grid grid--cols-10@md grid--cols-8@lg article-column\">\n\t\t\t\t\t  <div class=\"col-12 col-10@md col-6@lg col-start-3@lg\">\n\t\t\t\t\t\t<div class=\"article-column__content\">\n<section class=\"wp-block-bigbite-multi-title\"><div class=\"container\"></div></section>\n\n\n\n<p>Microsoft has released a beta of TypeScript 6.0, an update to the company\u2019s <a href=\"https://www.infoworld.com/article/2257305/what-is-typescript-strongly-typed-javascript.html\">strongly typed JavaScript variant</a> that promises to be the last release based on the current JavaScript codebase. TypeScript 7.0 will debut a compiler and language service written in Go for better performance and scalability.</p>\n\n\n\n<p>The TypeScript 6.0 beta was announced <a href=\"https://devblogs.microsoft.com/typescript/announcing-typescript-6-0-beta/\">February 11</a>. Developers can access it through npm by running the command <code>npm install -D typescript@beta</code>. A production release of TypeScript 6.0 is p",
+        "id": 4803259,
+        "language": "en-US",
+        "link": "https://www.infoworld.com/article/4131798/last-javascript-based-typescript-arrives-in-beta.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 468,
+        "source_url": "https://www.infoworld.com/feed/",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Last JavaScript-based TypeScript arrives in beta",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Dan De Luce",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-13T04:02:08.568374+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-13T03:50:42+00:00",
+        "description": "The CIA released a new Mandarin-language video on Thursday appealing to members of China\u2019s military to spy for the United States and work toward \u201ca brighter future,\u201d weeks after Beijing ousted a top general as part of a purge of top brass.",
+        "id": 4803656,
+        "language": "en-US",
+        "link": "https://www.nbcnews.com/world/asia/cia-makes-new-push-recruit-spies-chinese-military-rcna258866",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 224,
+        "source_url": "https://feeds.nbcnews.com/nbcnews/public/world",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-02/260212-Peoples-Liberation-Army-vsb-2237-0357a3.jpg",
+        "title": "CIA makes new push to recruit spies from Chinese military",
+        "vote": 0
+    }
+]

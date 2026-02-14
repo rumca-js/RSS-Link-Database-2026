@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/Dependent_Dig_7009",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-13T01:32:28.835739+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-13T00:49:46+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone \ud83d\udc4b</p> <p>I\u2019ve been working on a small Django tool called <strong>django-migration-audit</strong>.</p> <p>The idea is simple: Django assumes that if a migration is recorded as applied, the database schema matches. But in reality, that\u2019s not always true.</p> <p>Things like:</p> <ul> <li>modified migration files after they were applied</li> <li>fake-applied migrations (<code>--fake</code>)</li> <li>manual schema changes</li> <li>squashed migration mismatches</li> <li>restored databases from backups</li> </ul> <p>can cause the database to drift away from what Django thinks happened.</p> <p>This tool performs two checks:</p> <ol> <li><strong>Trust Verification</strong> \u2013 Can we trust the migration history?</li> <li><strong>Reality Check</strong> \u2013 Does the live schema actually match what migrations imply?</li> </ol> <p>It\u2019s read-only and currently meant for development, staging, CI, or forensic debugging.</p> <p>Example usage:</p> <pre><code>p",
+        "id": 4803070,
+        "language": "",
+        "link": "https://www.reddit.com/r/django/comments/1r3ayxa/built_a_tool_to_audit_django_migration_drift",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 491,
+        "source_url": "https://www.reddit.com/r/django/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Built a tool to audit Django migration drift \u2014 looking for feedback",
+        "vote": 0
+    }
+]

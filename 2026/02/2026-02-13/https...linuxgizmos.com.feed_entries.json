@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-13T06:27:04.900633+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-13T06:19:53+00:00",
+        "description": "Radxa has introduced the Cubie A7S, a 51 x 51 mm single board computer built around the Allwinner A733. The compact board combines Cortex-A76 and Cortex-A55 CPU cores with LPDDR5 memory, PCIe 3.0 expansion, and an integrated NPU rated at 3 TOPS, targeting edge AI, vision, and embedded multimedia applications. The Allwinner A733 features a [&#8230;]",
+        "id": 4804302,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/radxa-cubie-a7s-integrates-a733-soc-risc-v-mcu-and-lpddr5-memory",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Radxa Cubie A7S Integrates A733 SoC, RISC-V MCU, and LPDDR5 Memory",
+        "vote": 0
+    }
+]

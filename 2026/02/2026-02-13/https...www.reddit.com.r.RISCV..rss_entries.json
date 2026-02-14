@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/Separate-Choice",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-13T06:25:18.967638+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-13T05:58:03+00:00",
+        "description": "<table> <tr><td> <a href=\"https://www.reddit.com/r/RISCV/comments/1r3hayh/i_ported_nuttx_to_ch32v_riscv_embedded_posix/\"> <img src=\"https://preview.redd.it/gzueqki3c7jg1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=11fbbf82420700122c5b39b312a173494808fdd8\" alt=\"I Ported NuttX to CH32V! RISC-V Embedded POSIX!\" title=\"I Ported NuttX to CH32V! RISC-V Embedded POSIX!\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>I was looking for a working port of NuttX for the CH32V RISC-V MCUs as its my goto RTOS on AVR and ARM, it&#39;s basically Linux Lite, but I have found support lacking for RISC-V CH32V with Nuttx. I found literally nothong on the topic. One post did casually mention it but nada. </p> <p>You see RISC-V Nuttx assumes CLINT and PLIC cause of how the trap handler works, calling mcause in to the PLIC/CLINT IRQ layer...there were so many quirks that I had to essentially replace the PLIC/CLINT interrupt backend with a PFIC backend..the mret exit problem I wa",
+        "id": 4804265,
+        "language": "en",
+        "link": "https://www.reddit.com/r/RISCV/comments/1r3hayh/i_ported_nuttx_to_ch32v_riscv_embedded_posix",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 471,
+        "source_url": "https://www.reddit.com/r/RISCV/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://preview.redd.it/gzueqki3c7jg1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=11fbbf82420700122c5b39b312a173494808fdd8",
+        "title": "I Ported NuttX to CH32V! RISC-V Embedded POSIX!",
+        "vote": 0
+    }
+]

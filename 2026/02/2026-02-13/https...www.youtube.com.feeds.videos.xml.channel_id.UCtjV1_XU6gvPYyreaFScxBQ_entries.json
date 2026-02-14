@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Huawei",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-13T02:35:15.439900+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-13T02:06:58+00:00",
+        "description": "New Year's Eve is a time to relax, right? Not for everyone! China Mobile Hong Kong works tirelessly behind the scenes with #Huawei to ensure all visitors to the city's hotspots can celebrate in style and wish their loved ones a \"#HappyNewYear!\" thanks to seamless connectivity! Learn more: https://bit.ly/3MCWvAW",
+        "id": 4803370,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=YHRt5wmmZXs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 875,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtjV1_XU6gvPYyreaFScxBQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/YHRt5wmmZXs/hqdefault.jpg",
+        "title": "A New Year for New Connections",
+        "vote": 0
+    }
+]

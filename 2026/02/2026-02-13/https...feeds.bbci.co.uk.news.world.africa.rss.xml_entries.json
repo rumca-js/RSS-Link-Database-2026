@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-13T00:55:08.333562+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-13T00:06:42+00:00",
+        "description": "The US president has shaken up international relations and the continent is working out where it stands.",
+        "id": 4802832,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/c2d7wk98xkko",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 521,
+        "source_url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8db/live/c89da2f0-004a-11f1-b7e1-afb6d0884c18.jpg",
+        "title": "A seat at the table or on the menu? Africa grapples with the new world order",
+        "vote": 0
+    }
+]

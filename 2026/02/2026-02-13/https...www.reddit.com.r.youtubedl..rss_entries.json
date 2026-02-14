@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/CompetitiveBird3315",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-13T06:24:24.852636+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-13T06:21:00+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>So, upon searching and reading posts, I can&#39;t download videos simultaneously like 50 videos? Per day? I&#39;m so confused what to use commands for this. I don&#39;t wanna get banned tho im using vpn. </p> <p>I just use this command, pls help this noob :D Thanks</p> <p>`yt-dlp -f &quot;bv*+ba/b&quot; --merge-output-format mp4 &quot;URL&quot;`</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/CompetitiveBird3315\"> /u/CompetitiveBird3315 </a> <br/> <span><a href=\"https://www.reddit.com/r/youtubedl/comments/1r3hqca/downloading_videos_have_limit_per_day/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/youtubedl/comments/1r3hqca/downloading_videos_have_limit_per_day/\">[comments]</a></span>",
+        "id": 4804244,
+        "language": "en",
+        "link": "https://www.reddit.com/r/youtubedl/comments/1r3hqca/downloading_videos_have_limit_per_day",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 791,
+        "source_url": "https://www.reddit.com/r/youtubedl/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Downloading videos have limit per day?",
+        "vote": 0
+    }
+]
