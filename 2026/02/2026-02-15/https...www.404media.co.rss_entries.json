@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Emanuel Maiberg",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-15T21:39:31.435540+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-15T20:14:36+00:00",
+        "description": "A story about an AI generated article contained fabricated, AI generated quotes.",
+        "id": 4814072,
+        "language": "en",
+        "link": "https://www.404media.co/ars-technica-pulls-article-with-ai-fabricated-quotes-about-ai-generated-article",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 5,
+        "source_url": "https://www.404media.co/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://images.unsplash.com/photo-1556075798-4825dfaaf498?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDN8fGdpdGh1YnxlbnwwfHx8fDE3NzExODYwNDN8MA&ixlib=rb-4.1.0&q=80&w=2000",
+        "title": "Ars Technica Pulls Article With AI Fabricated Quotes About AI Generated Article",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Uszi",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-15T19:17:19.610713+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-15T16:43:24+00:00",
+        "description": null,
+        "id": 4812626,
+        "language": "pl-PL",
+        "link": "https://www.youtube.com/watch?v=bdvoO7MvdP8",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 376,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCwSv086EAByBY-Z7y-QR_cQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/bdvoO7MvdP8/hqdefault.jpg",
+        "title": "Izraelski spyware Paragon - analiza wycieku panelu Graphite",
+        "vote": 0
+    }
+]

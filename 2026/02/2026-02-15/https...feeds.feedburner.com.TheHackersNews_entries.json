@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-15T18:35:29.935260+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-15T18:35:28+00:00",
+        "description": "Microsoft has disclosed details of a new version of the ClickFix social engineering tactic in which the attackers trick unsuspecting users into running commands that carry out a Domain Name System (DNS) lookup to retrieve the next-stage payload.\nSpecifically, the attack relies on using the \"nslookup\" (short for nameserver lookup) command to execute a custom DNS lookup triggered via the Windows",
+        "id": 4809882,
+        "language": "en-US",
+        "link": "https://thehackernews.com/2026/02/microsoft-discloses-dns-based-clickfix.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 343,
+        "source_url": "https://feeds.feedburner.com/TheHackersNews",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Microsoft Discloses DNS-Based ClickFix Attack Using Nslookup for Malware Staging",
+        "vote": 0
+    }
+]

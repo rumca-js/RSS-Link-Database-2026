@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Bryan Cockfield",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-15T19:08:42.791226+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-15T18:00:04+00:00",
+        "description": "<div><img width=\"800\" height=\"450\" src=\"https://hackaday.com/wp-content/uploads/2026/02/water-detection-main.jpg?w=800\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin: 0 auto; margin-bottom: 15px;\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://hackaday.com/wp-content/uploads/2026/02/water-detection-main.jpg 1422w, https://hackaday.com/wp-content/uploads/2026/02/water-detection-main.jpg?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2026/02/water-detection-main.jpg?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2026/02/water-detection-main.jpg?resize=800,450 800w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-attachment-id=\"916481\" data-permalink=\"https://hackaday.com/2026/02/15/dealing-with-intermittent-water-utilities/water-detection-main/\" data-orig-file=\"https://hackaday.com/wp-content/uploads/2026/02/water-detection-main.jpg\" data-orig-size=\"1422,800\" data-comments-opened=\"1\" data-image-meta=\"{&quot;aperture&quot;:&quot;0&",
+        "id": 4811537,
+        "language": "en-US",
+        "link": "https://hackaday.com/2026/02/15/dealing-with-intermittent-water-utilities",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 140,
+        "source_url": "https://hackaday.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://hackaday.com/wp-content/uploads/2026/02/water-detection-main.jpg",
+        "title": "Dealing With Intermittent Water Utilities",
+        "vote": 0
+    }
+]

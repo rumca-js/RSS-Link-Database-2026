@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-15T20:34:03.903781+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-15T20:14:18+00:00",
+        "description": "Investigators are looking into a glove containing DNA evidence recovered roughly two miles from Nancy Guthrie\u2019s residence. The glove appears to be consistent with a glove worn by an individual seen in the doorbell camera video from Guthrie\u2019s home.",
+        "id": 4813740,
+        "language": "en-US",
+        "link": "https://www.nbcnews.com/now/video/fbi-testing-dna-found-on-glove-consistent-with-type-seen-on-guthrie-doorbell-video-257722950000",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 223,
+        "source_url": "https://feeds.nbcnews.com/nbcnews/public/tech",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_02/1771186451447_now_brk_guthrie_glove_250215_1920x1080-ng2lql.jpg",
+        "title": "FBI testing DNA found on glove consistent with type seen on Guthrie doorbell video",
+        "vote": 0
+    }
+]

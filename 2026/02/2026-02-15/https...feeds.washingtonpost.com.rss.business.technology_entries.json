@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Will Oremus",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-15T19:14:28.142027+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-15T10:00:11+00:00",
+        "description": "NPR\u2019s David Greene says he was \u201ccompletely freaked out\u201d when he heard an AI voice that sounded just like his own, and he\u2019s suing over it.",
+        "id": 4812179,
+        "language": "en-US",
+        "link": "https://www.washingtonpost.com/technology/2026/02/15/david-greene-google-ai-podcast",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 364,
+        "source_url": "https://feeds.washingtonpost.com/rss/business/technology",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "He spent decades perfecting his voice. Now he says Google stole it.",
+        "vote": 0
+    }
+]
