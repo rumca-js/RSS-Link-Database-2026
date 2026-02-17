@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Hammond",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-16T15:01:07.936901+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-16T14:00:57+00:00",
+        "description": "https://jh.live/sublime-security-webinar || Catch the recap of more phishing schemes and trends to watch out in my webinar with Sublime Security :) https://jh.live/sublime-security-webinar\n\nLearn Cybersecurity and more with Just Hacking Training: https://jh.live/training\nSee what else I'm up to with: https://jh.live/newsletter\n\n\u2139\ufe0f Affiliates:\nLearn how to code with CodeCrafters: https://jh.live/codecrafters\nHost your own VPN with OpenVPN: https://jh.live/openvpn\nGet Blue Team Training and SOC Analyst Certifications with CyberDefenders: https://jh.live/cyberdefense",
+        "id": 4819049,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=djhX8Q4JuFU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 959,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVeW9qkBjo3zosnqUbG7CFw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/djhX8Q4JuFU/hqdefault.jpg",
+        "title": "TiKTok needs to fix this vulnerability",
+        "vote": 0
+    }
+]

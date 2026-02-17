@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/Separate-Choice",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-16T17:19:43.075389+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-16T16:28:58+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>I got NuttX up on the CH32V307 and said I&#39;d do a writeup so here it is!! Hope it saves someone a week or two if they&#39;re working with NuttX on these parts! Covers the PFIC, the MPIE trap, the D8C PLL encoding gotcha, GINTENR CSR 0x800 and all the other landmines.</p> <p>Link here:</p> <p><a href=\"https://rvembedded.com/blog_post/3/\">Porting Apache NuttX RTOS to the WCH CH32V307: A Deep Dive into the PFIC and Everything That Went Wrong</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Separate-Choice\"> /u/Separate-Choice </a> <br/> <span><a href=\"https://www.reddit.com/r/RISCV/comments/1r6e8x6/wrote_up_the_guide_for_apache_nuttx_on_ch32v307/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/RISCV/comments/1r6e8x6/wrote_up_the_guide_for_apache_nuttx_on_ch32v307/\">[comments]</a></span>",
+        "id": 4820154,
+        "language": "en",
+        "link": "https://www.reddit.com/r/RISCV/comments/1r6e8x6/wrote_up_the_guide_for_apache_nuttx_on_ch32v307",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 471,
+        "source_url": "https://www.reddit.com/r/RISCV/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Wrote up the guide for Apache NuttX on CH32V307 RISC-V MCU port for anyone interested!",
+        "vote": 0
+    }
+]

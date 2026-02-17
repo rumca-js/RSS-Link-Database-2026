@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "C++ Weekly With Jason Turner",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-16T17:43:16.521739+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-16T16:29:49+00:00",
+        "description": "\u261f\u261f Awesome T-Shirts! Sponsors! Books! \u261f\u261f\n\nC++ Best Practices - NDC Toronto - May 5,6 - https://ndctoronto.com/workshops/c-best-practices/fce45061e333\n\nA cross-platform IDE for C and C++, CLion is ready for your projects out of the box. Whether you're building large-scale projects or exploring C and C++ for the first time, CLion has everything you need to stay productive, focused, and in control: deep language understanding with intelligent code assistance, comprehensive build systems support, unit testing frameworks, advanced debugging, and embedded development. Check out all the details and give it a try today!\n\nhttps://jb.gg/clion_ide\n\n#clion \n\nEpisode details: https://github.com/lefticus/cpp_weekly/issues/521\n\nT-SHIRTS AVAILABLE!\n\n\u25ba The best C++ T-Shirts anywhere! https://jason-turner-shop.fourthwall.com/\n\n\nWANT MORE JASON?\n\n\u25ba My Training Classes: http://emptycrate.com/training.html\n\u25ba Follow me on twitter: https://twitter.com/lefticus\n\n\nSUPPORT THE CHANNEL\n\n\u25ba Patreon: https://www.p",
+        "id": 4820442,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=atEP9wbuaL0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 48,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxHAlbZQNFU2LgEtiqd2Maw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/atEP9wbuaL0/hqdefault.jpg",
+        "title": "C++ Weekly - Ep 520 - The Time GCC Broke Chrome",
+        "vote": 0
+    }
+]

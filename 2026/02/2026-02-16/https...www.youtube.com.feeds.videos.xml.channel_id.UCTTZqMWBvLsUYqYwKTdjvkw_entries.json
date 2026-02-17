@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mateusz Chrobok",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-16T15:03:23.589359+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-16T13:11:49+00:00",
+        "description": "Chcesz wi\u0119cej wiedzy? Do\u0142\u0105cz do AI devs na aidevs.pl \ud83d\udcbb\nBadanie: https://www.sciencedirect.com/science/article/pii/S2352154624000391?via%3Dihub",
+        "id": 4819056,
+        "language": "pl-PL",
+        "link": "https://www.youtube.com/shorts/EdSsWChbjZ0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 211,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTTZqMWBvLsUYqYwKTdjvkw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/EdSsWChbjZ0/hqdefault.jpg",
+        "title": "\ud83d\udc653mAI: Dlaczego m\u00f3zg to co\u015b wi\u0119cej ni\u017c suma neuron\u00f3w",
+        "vote": 0
+    }
+]

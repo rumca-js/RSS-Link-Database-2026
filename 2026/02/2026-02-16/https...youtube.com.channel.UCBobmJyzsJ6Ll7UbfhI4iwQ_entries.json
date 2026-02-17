@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unreal Engine",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-16T17:38:38.485671+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-16T16:45:08+00:00",
+        "description": "Take a look at Substrate, Unreal Engine\u2019s state-of-the-art modular material authoring and rendering framework that offers inherent support for layered and blended materials, enabling you to render high-quality materials with true physical accuracy. \n\nNow Production-Ready and enabled by default in Unreal Engine 5.7, Substrate introduces a new approach to material rendering and data storage, giving you greater flexibility and control over how materials are built and evaluated.\n\nFind out more about what\u2019s new in Unreal Engine 5.7 and download today: https://www.unrealengine.com/en-US/news/unreal-engine-5-7-is-now-available\n\n#ue5 #UnrealEngine5.7, #Substrate #UnrealEngine. #CGMaterials",
+        "id": 4820358,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=d1ncs8M6Lkg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 685,
+        "source_url": "https://youtube.com/channel/UCBobmJyzsJ6Ll7UbfhI4iwQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/d1ncs8M6Lkg/hqdefault.jpg",
+        "title": "Introduction to Substrate Materials | Unreal Engine 5.7",
+        "vote": 0
+    }
+]

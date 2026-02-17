@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-16T16:59:40.281581+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-16T16:02:05+00:00",
+        "description": "https://cppcon.org\n---\n\nBack to Basics: C++ Concepts - Jeff Garland - CppCon 2025\n---\n\nC++20 introduced concepts as a first-class language feature, formalizing a long-standing tradition of template-based constraints in modern C++. Concepts offer a new level of clarity, safety, and expressiveness\u2014and they\u2019re now fully supported by compilers and the standard library. \n \nThis tutorial takes a practical, hands-on approach to understanding and applying concepts in real-world C++ projects. We'll begin with the fundamentals: understanding concept definitions and the requires keyword. Then we'll explore the application of concepts from a library user point of view. Including as a variable declaration, return values, and function parameters. And finally, we'll survey and apply c++20 standard library concepts to typical development of a typical c++ class. \n \nIn Part II, we'll dig into writing custom concepts. We\u2019ll refactor a function to work with concepts, using this as a springboard to examin",
+        "id": 4820073,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=NpuNUGifL1M",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/NpuNUGifL1M/hqdefault.jpg",
+        "title": "Back to Basics: C++ Concepts - Jeff Garland - CppCon 2025",
+        "vote": 0
+    }
+]

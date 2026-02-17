@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeff Geerling",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-16T22:00:49.197880+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-16T21:31:04+00:00",
+        "description": "This is why we can't have nice things.\n\nReferenced in this video:\n\n  - Ars Technica's redaction: https://arstechnica.com/ai/2026/02/after-a-routine-code-rejection-an-ai-agent-published-a-hit-piece-on-someone-by-name/\n  - Ars Technica Author's response: https://bsky.app/profile/benjedwards.com/post/3mewgow6ch22p\n  - Scott Shambaugh's post on AI Agent Hit Piece: https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/\n  - OpenClaw: https://openclaw.ai\n  - OpenClaw author moves to OpenAI: https://steipete.me/posts/2026/openclaw\n  - The End of the Curl Bug Bounty: https://daniel.haxx.se/blog/2026/01/26/the-end-of-the-curl-bug-bounty/\n  - My GitHub: https://github.com/geerlingguy\n  - GitHub's new PR settings: https://github.blog/changelog/2026-02-13-new-repository-settings-for-configuring-pull-request-access/\n  - My blog migration from Drupal to Hugo: https://www.jeffgeerling.com/blog/2026/migrating-13000-comments-from-drupal-to-hugo/\n  - Yahoo article on NFT Fallout: https://uk.fi",
+        "id": 4822347,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=bZJ7A1QoUEI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 161,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR-DXc1voovS8nhAvccRZhg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/bZJ7A1QoUEI/hqdefault.jpg",
+        "title": "AI is destroying open source, and it's not even good yet",
+        "vote": 0
+    }
+]

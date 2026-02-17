@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Simon Willison",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-16T17:40:09.908832+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-16T16:38:57+00:00",
+        "description": null,
+        "id": 4820376,
+        "language": "en-us",
+        "link": "https://simonwillison.net/2026/Feb/16/rodney-claude-code/#atom-everything",
+        "manual_status_code": 0,
+        "page_rating": 28,
+        "page_rating_contents": 88,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 423,
+        "source_url": "https://simonwillison.net/atom/everything",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://static.simonwillison.net/static/2026/rodney-claude-desktop.jpg",
+        "title": "Rodney and Claude Code for Desktop",
+        "vote": 0
+    }
+]
