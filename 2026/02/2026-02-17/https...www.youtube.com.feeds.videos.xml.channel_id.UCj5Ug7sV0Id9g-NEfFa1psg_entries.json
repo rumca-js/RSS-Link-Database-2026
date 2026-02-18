@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Tomasz Samo\u0142yk",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-17T19:01:07.532172+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-17T07:00:31+00:00",
+        "description": null,
+        "id": 4825121,
+        "language": "pl-PL",
+        "link": "https://www.youtube.com/shorts/U6txvKi4e8k",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 372,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCj5Ug7sV0Id9g-NEfFa1psg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/U6txvKi4e8k/hqdefault.jpg",
+        "title": "Osoba wierz\u0105ca na terapii?",
+        "vote": 0
+    }
+]

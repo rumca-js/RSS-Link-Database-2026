@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Louis Rossmann",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-17T20:48:44.588472+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-17T19:41:57+00:00",
+        "description": "SOURCES:\nhttps://leg.colorado.gov/bills/SB26-090\nCISCO LOBBYING:\nhttps://www.opensecrets.org/federal-lobbying/clients/summary?id=D000000374\nhttps://lda.senate.gov/filings/public/filing/afaca26c-efa1-4554-a5ec-1103245b19d9/print/\nRELATED VIDEOS:\nhttps://www.youtube.com/watch?v=NzNDq3iCUP4\nhttps://www.youtube.com/watch?v=TBnCy2XYkR0\nhttps://www.youtube.com/watch?v=oMPxr7I90JM\nhttps://www.youtube.com/watch?v=Vk8x0iRr2ek\nhttps://www.youtube.com/watch?v=RJfWi5qRuAc\n\nhttps://www.youtube.com/watch?v=Bt2KDtDt940\nhttps://www.youtube.com/watch?v=Tdh85plH1lQ",
+        "id": 4827714,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=c2ECt0dxTks",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 201,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCl2mFZoRqjw_ELax4Yisf6w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/c2ECt0dxTks/hqdefault.jpg",
+        "title": "Cisco is destroying right to repair in the sneakiest way possible",
+        "vote": 0
+    }
+]

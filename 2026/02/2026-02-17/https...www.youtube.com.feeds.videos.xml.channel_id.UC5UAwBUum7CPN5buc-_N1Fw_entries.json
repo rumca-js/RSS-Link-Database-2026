@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Experiment",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-17T18:57:39.643015+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-17T12:57:28+00:00",
+        "description": "Try out Proton Mail, the secure email that protects your privacy: https://proton.me/mail/TheLinuxEXP\n\nGrab a brand new laptop or desktop running Linux: https://www.tuxedocomputers.com/en#\n\n\ud83d\udc4f SUPPORT THE CHANNEL:\nGet access to:\n- a Daily Linux News show\n- a weekly patroncast for more thoughts\n- your name in the credits\n\nYouTube: https://www.youtube.com/@thelinuxexp/join\nPatreon: https://www.patreon.com/thelinuxexperiment\n\nOr, you can donate whatever you want:\nhttps://paypal.me/thelinuxexp\nLiberapay: https://liberapay.com/TheLinuxExperiment/\n\n\ud83d\udc55 GET TLE MERCH\nSupport the channel AND get cool new gear: https://the-linux-experiment.creator-spring.com/\n\nTimestamps:\n00:00 Intro\n00:29 Sponsor: Proton Mail\n01:33 Plasma Login Manager\n03:13 Desktop: Look & Feel\n06:48 Under The Hood\n08:36 Window Manager & Wayland\n10:25 Widgets & other desktop changes\n14:15 System Monitor\n15:21 Spectacle\n16:17 Discover\n17:28 Settings\n20:23 Sponsor: Tuxedo Computers\n\n\n\n#linuxdesktop #linuxdistro #kdeplasma",
+        "id": 4824765,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=F0LgY39WTGQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 349,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5UAwBUum7CPN5buc-_N1Fw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/F0LgY39WTGQ/hqdefault.jpg",
+        "title": "KDE Plasma 6.6: a massive update !",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Gamers Nexus",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-17T23:46:03.870369+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-17T21:53:40+00:00",
+        "description": "Sponsor: Thermal Grizzly Duronaut on Amazon - https://geni.us/tpgcPMw\nThe GPU pricing situation improved substantially at the end of last year (2025), but as of 2026, it's trending in the wrong direction. In combination with DRAM (via VRAM) price spikes and GPU prioritization for AI data center builds and accelerators, consumer GPU prices have gone from their recovery curve to instead skyrocket. This will impact budget users who are most cost-sensitive the most, although the RTX 5090 sees the largest price increase over MSRP at now about a 100% increase on average. MSRP has ceased existing, and a major reason for a potential cancellation of GPU refreshes, such as the rumored RTX 50 Super series, could be that it's not possible to launch them without bringing MSRP higher than the on-paper MSRP (technically) of existing graphics cards.\n\nWatch the November update here: https://www.youtube.com/watch?v=7zVc4Ke6yDo\nWatch the first update from July of last year: https://www.youtube.com/watch",
+        "id": 4829056,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=ueEc_YBXmeY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 428,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChIs72whgZI9w6d6FhwGGHA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/ueEc_YBXmeY/hqdefault.jpg",
+        "title": "Presenting: Inevitable Opportunity to Screw Consumers | GPU Pricing Update",
+        "vote": 0
+    }
+]

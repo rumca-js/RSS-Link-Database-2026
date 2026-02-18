@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-17T18:21:19.121241+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-17T16:30:28+00:00",
+        "description": "What if I told you that an AI agent just tried to ruin the career of a developer on Matplotlib who was following Matplotlib policy to not allow AI agents, writing a hilarious blog post on the situation but it gets even better from there\n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\nIssue: https://github.com/matplotlib/matplotlib/issues/31130\nMerge Request: https://github.com/matplotlib/matplotlib/pull/31132\nOpenClaw Joins OpenAI:  https://www.itnews.com.au/news/openclaw-founder-joins-openai-623662\nAI Blog Post 1: https://crabby-rathbun.github.io/mjrathbun-website/blog/posts/2026-02-11-gatekeeping-in-open-source-the-scott-shambaugh-story.html\nAI Blog Post 2: https://crabby-rathbun.github.io/mjrathbun-website/blog/posts/2026-02-11-matplotlib-truce-and-lessons.html\nScott",
+        "id": 4822896,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=fMoUE59H9bs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/fMoUE59H9bs/hqdefault.jpg",
+        "title": "AI Agents Are Writing Hit Pieces On Developers",
+        "vote": 0
+    }
+]

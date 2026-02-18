@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Billy Perrigo",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-17T18:38:01.768754+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-17T13:00:00+00:00",
+        "description": "Why one insider turned against big tech",
+        "id": 4823497,
+        "language": "en-UK",
+        "link": "https://time.com/7378739/dex-hunter-torricke-tech-ai",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 317,
+        "source_url": "https://time.com/tech/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://api.time.com/wp-content/uploads/2026/02/Dex-Hunter-Torricke-AI-01a.jpg",
+        "title": "He Did PR for Zuckerberg, Musk, and Google. Now He Says He \u2018Only Told Half the Story\u2019",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/thedazellama",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-17T18:48:34.581486+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-17T05:54:56+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>Hey <a href=\"/r/rss\">r/rss</a>. I&#39;ve been building an app called Newsie (<a href=\"https://newsieapp.com/\">newsieapp.com</a>) and wanted to get some real feedback from people who actually care about RSS.</p> <p>The short version: it&#39;s a feed reader where you can also follow friends and see what they&#39;re reading and sharing. Think Google Reader&#39;s social features meets a modern RSS client. You follow websites, save articles, and optionally share things with friends who are also on the app.</p> <p>I built it because I missed the social side of Google Reader. I still use RSS daily, but I wanted a way to see what articles my friends found interesting without relying on Twitter/X or algorithmic feeds to surface that stuff.</p> <p><strong>Where it&#39;s at right now:</strong></p> <ul> <li>Progressive web app (works on mobile and desktop, no app store download needed)</li> <li>Free, no paid tier, no ads</li> <li>Supports RSS/Atom, OPML import</l",
+        "id": 4824035,
+        "language": "en",
+        "link": "https://www.reddit.com/r/rss/comments/1r6y0bb/im_building_an_rss_reader_with_a_social_layer",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 482,
+        "source_url": "https://www.reddit.com/r/rss/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "I'm building an RSS reader with a social layer - would love honest feedback from this community",
+        "vote": 0
+    }
+]

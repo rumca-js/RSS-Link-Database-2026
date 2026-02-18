@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-17T18:49:31.544619+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-17T16:02:19+00:00",
+        "description": "https://cppcon.org\n---\n\nBack to Basics: How To Improve C++ Code Reviews - Chandranath Bhattacharyya & Kathleen Baker - Chandranath Bhattacharyya & Kathleen Baker - CppCon 2025\n---\n\nCode reviews are meant to improve software quality, but do we keep repeating the same mistakes? This talk dives into concrete examples of common mistakes and, more importantly, provides actionable best practices to avoid them. \n \nWe'll explore frequently recurring issues identified in C++ code reviews, spanning fundamental practices like header management, naming, documentation, and scope control, impacting code clarity and correctness. The session will also address common pitfalls in leveraging core language features such as control flow, range-based for loops, enum class , and namespace management. We will examine improvements for parameter passing, return type handling (including std::optional and std::expected ), and crucial aspects of class design, covering initialization, member functions, special mem",
+        "id": 4824122,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=mMrIwY1n74g",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/mMrIwY1n74g/hqdefault.jpg",
+        "title": "Back to Basics: How To Improve C++ Code Reviews - Chandranath Bhattacharyya & Kathleen Baker",
+        "vote": 0
+    }
+]

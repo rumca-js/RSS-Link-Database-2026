@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-17T18:55:30.974056+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-17T15:00:42+00:00",
+        "description": "A very special guest on this episode of the Lightcone! Boris Cherny, the creator of Claude Code, sits down to share the incredible journey of developing one of the most transformative coding tools of the AI era. \n\n00:00 Intro\n01:45 The most surprising moment in the rise of Claude Code\n02:38 How Boris came up with the idea for Claude Code\n05:38 The elegant simplicity of terminals\n07:09 The first use cases\n09:00 What\u2019s in Boris\u2019 CLAUDE.md?\n11:29 How do you decide the terminal\u2019s verbosity? \n15:44 Beginner\u2019s mindset is key as the models improve\n18:56 Hyper specialists vs hyper generalists\n21:51 The vision for Claude teams\n23:48 Subagents\n25:12 A world without plan mode? \n28:38 Tips for founders to build for the future\n30:07 How much life does the terminal still have? \n30:57 Advice for dev tool founders\n32:11 Claude Code and TypeScript parallels \n35:34 Designing for the terminal was hard\n37:36 Other advice for builders\n40:31 Productivity per engineer\n41:36 Why Boris chose to join Anthropic",
+        "id": 4824565,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=PQU9o_5rHC4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/PQU9o_5rHC4/hqdefault.jpg",
+        "title": "Boris Cherny: How We Built Claude Code",
+        "vote": 0
+    }
+]

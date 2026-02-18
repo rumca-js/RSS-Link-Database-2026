@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-17T18:24:50.106027+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-17T12:01:08+00:00",
+        "description": "Today we\u2019re diving headfirst into the wild world of AI \u2014 and answering your questions from the comments! David Levy explores AI agents, machine learning workflows, cybersecurity challenges, and the growing world of local LLMs. Tell us what you want covered next below\ud83d\ude80\n\n0:00 - Intro\n0:28 - Can AI Find Me Love?\n1:40 - How Does AI Change The Landscape of Hacking?\n3:50 - What models do you use for creative text generation?\n5:18 - Can Machine learning be done locally?\n6:41 - Is Ollama a good choice for a production environment?\n7:41 - What the difference MCP vs A2A?\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/BdpH4T\n\nStill haven't subscribed to IBM Technology on YouTube? \u2192  https://ibm.biz/BdpHrY\n\nThe opinions expressed in this podcast are solely those of the participants and do not necessarily reflect the views of IBM or any other organization or entity. \n\n#aiagents #machinelearning #cybersecurity #llms",
+        "id": 4823008,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=ekrOZf_eOJM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/ekrOZf_eOJM/hqdefault.jpg",
+        "title": "You Asked About AI: Agents, Hacking & LLMs",
+        "vote": 0
+    }
+]

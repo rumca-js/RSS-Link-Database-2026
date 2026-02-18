@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "1littlecoder",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-17T21:10:30.107965+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-17T19:04:01+00:00",
+        "description": "\ud83d\udd25 Sign up here http://hostinger.com/1littlecoder and 1LITTLECODER coupon for 10% discount!  \ud83d\udd25\n\nThanks to Hostinger for sponsoring this video. \n\nInstall OpenClaw (Clawdbot) on Hostinger VPS - Quick Setup Guide\nDeploy your personal 24/7 AI assistant on Hostinger VPS using the one-click Docker template. OpenClaw connects to WhatsApp, Telegram, Slack, and Discord, running entirely on your infrastructure.\n\nWhat You'll Do:\nDeploy OpenClaw via Hostinger's Docker Manager catalog (2-3 minutes)\nConfigure your Gateway Token and optional API keys (Anthropic, OpenAI, Gemini)\nConnect WhatsApp by scanning a QR code\nAccess your AI assistant through a web interface at your-vps-ip:port\n\nhttps://www.hostinger.com/vps/docker/clawdbot\n\nThis tutorial covers both the Clawdbot / Openclaw Hostinger Docker Template and The CLI method (SSH into the VPS from Local Machine)\n\nFinally the tutorial ends with showing how to connect the VPS to a remote desktop machine and access clawdbot there!\n\nTimestamps\n\n0:00 Intro",
+        "id": 4828087,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=CZUYofFDs-U",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 948,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCpV_X0VrL8-jg3t6wYGS-1g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/CZUYofFDs-U/hqdefault.jpg",
+        "title": "OpenClaw is open! Run your 24x7 Clawdbot on a Secure VPS!",
+        "vote": 0
+    }
+]

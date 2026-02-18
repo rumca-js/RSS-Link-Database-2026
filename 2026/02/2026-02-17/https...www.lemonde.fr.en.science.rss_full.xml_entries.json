@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-17T18:52:19.086605+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-17T01:46:11+00:00",
+        "description": "Issa, a baby diagnosed with the rare Kasabach-Merritt syndrome, received treatment before birth through medication administered to his mother. This marks a medical first for this condition.",
+        "id": 4824313,
+        "language": "en-US",
+        "link": "https://www.lemonde.fr/en/science/article/2026/02/17/baby-treated-in-utero-for-rare-vascular-tumor-a-medical-first_6750552_10.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 190,
+        "source_url": "https://www.lemonde.fr/en/science/rss_full.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.lemde.fr/2026/02/16/165/0/6086/3043/644/322/60/0/a991545_ftp-1-ohvvu1gkgsdi-5195746-01-06.jpg",
+        "title": "Baby treated in utero for rare vascular tumor in medical first",
+        "vote": 0
+    }
+]

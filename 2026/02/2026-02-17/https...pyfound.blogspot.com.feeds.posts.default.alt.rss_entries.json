@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-17T18:45:17.569201+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-17T07:30:00+00:00",
+        "description": "<div class=\"js-commit-preview commit-preview\n        p-5 markdown-body\n        \n         \"><p>Thanks to the work of the Security Developer-in-Residence \nSeth Larson, the Python Security Response Team (PSRT) now has an \napproved <a href=\"https://peps.python.org/pep-0811/\" rel=\"nofollow\">public governance document</a> (PEP 811). Following the new governance structure the PSRT now <a href=\"https://devguide.python.org/developer-workflow/psrt/#members\" rel=\"nofollow\">publishes a public list of members</a>, has documented <a href=\"https://devguide.python.org/developer-workflow/psrt/#responsibilities-of-psrt-members\" rel=\"nofollow\">responsibilities for members</a> and <a href=\"https://devguide.python.org/developer-workflow/psrt/#responsibilities-of-psrt-admins\" rel=\"nofollow\">admins</a>, and a defined process for <a href=\"https://devguide.python.org/developer-workflow/psrt/#how-can-i-join-the-psrt\" rel=\"nofollow\">onboarding and offboarding members</a> to balance the needs of security and sus",
+        "id": 4823841,
+        "language": "en",
+        "link": "https://pyfound.blogspot.com/2026/02/join-the-python-security-response-team.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 267,
+        "source_url": "https://pyfound.blogspot.com/feeds/posts/default?alt=rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Join the Python Security Response Team!",
+        "vote": 0
+    }
+]

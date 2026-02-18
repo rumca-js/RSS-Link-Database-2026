@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Sourav Rudra",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-17T18:53:24.132823+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-17T15:05:30+00:00",
+        "description": "Wondering about the replacement? Gentoo is betting on Codeberg.",
+        "id": 4824341,
+        "language": "en-US",
+        "link": "https://itsfoss.com/news/gentoo-github-switch-begins",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 156,
+        "source_url": "https://news.itsfoss.com/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://itsfoss.com/content/images/2026/02/gentoo-github-move-away-banner.png",
+        "title": "Gentoo Takes the First Step to Ditch Microsoft Copilot-Infested GitHub",
+        "vote": 0
+    }
+]
