@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-18T17:44:22.013439+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-18T16:30:00+00:00",
+        "description": "A few weeks back KDE announced that the new Plasma Login Manager was going to require the use of Systemd and thus wouldn't work on FreeBSD or the other BSDs and whilst this is true it's only about the Login Manager not the rest of KDE Plasma\n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\n9to5Linux: https://9to5linux.com/kaos-linux-drops-kde-plasma-after-12-years-for-niri-noctalia-to-escape-systemd\nLinuxiac: https://linuxiac.com/kaos-2026-02-debuts-niri-wayland-desktop/\nXDA Developers: https://www.xda-developers.com/linux-distro-dropped-kde-plasma-support-tries-to-escape-systemd/\nKaOS News Post: https://kaosx.us/news/2026/kaos02/\nReddit Post: https://www.reddit.com/r/kde/comments/1r68jmi/a_quick_antifud_faq_to_debunk_the_kde_is_forcing/\nFreeBSd Wayland: https://x61.sh/l",
+        "id": 4835517,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=0l29JZxzong",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/0l29JZxzong/hqdefault.jpg",
+        "title": "KDE Plasma Is Still Not Dropping Non-Systemd and FreeBSD",
+        "vote": 0
+    }
+]

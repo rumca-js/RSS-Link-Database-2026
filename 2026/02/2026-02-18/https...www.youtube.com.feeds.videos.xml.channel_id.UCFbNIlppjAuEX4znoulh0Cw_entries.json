@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Web Dev Simplified",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-18T22:11:06.512855+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-18T17:57:28+00:00",
+        "description": "*FREE Accessibility Checklist* - _80+ items, 12+ categories_ \ud83d\udc49 https://webdevsimplified.com/accessibility-checklist.html\n*Become a web developer* with my *FREE Web Development Roadmap* - _260+ videos, 120+ projects, 60+ articles_ \ud83d\udc49 https://webdevsimplified.com/web-dev-roadmap.html\n\n\nAccessibility is something every app should strive for, but knowing what to do is often harder than actually making the accessibility changes themselves. That is why in this video I cover the top 17 must know accessibility changes that almost no one talks about. I also created a full checklist of over 80 accessibility items to check for that I use in every project.\n\n\n\ud83d\udcda Materials/References:\n\nFREE Accessibility Checklist: https://webdevsimplified.com/accessibility-checklist.html\nDialog Element Video: https://youtu.be/ywtkJkxJsdg\nDialog Element Article: https://blog.webdevsimplified.com/2023-04/html-dialog\nSkip Link Video: https://youtu.be/VUR0I5mqq7I\nCSS Simplified Course: https://courses.webdevsimplified.c",
+        "id": 4837795,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Y7nhXvJ7yH8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 994,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFbNIlppjAuEX4znoulh0Cw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/Y7nhXvJ7yH8/hqdefault.jpg",
+        "title": "If You Follow This Checklist Your Sites Will Be 100% Accessible",
+        "vote": 0
+    }
+]

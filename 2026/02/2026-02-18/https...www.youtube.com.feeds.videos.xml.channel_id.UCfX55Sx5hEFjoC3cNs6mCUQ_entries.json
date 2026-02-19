@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Foundation",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-18T20:10:43.346970+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-18T19:30:04+00:00",
+        "description": "Join us at the premier vendor-neutral open source conference, where developers and technologists come together to collaborate, share knowledge, and explore the latest innovations and advancements in open source technology. Learn more at https://events.linuxfoundation.org/\n\nSponsored Session: Installing OpenTelemetry, Today and Tomorrow - Ted Young, Grafana\n\nInstrumenting a large distributed system with OpenTelemetry involves installing many components. This can be intimidating, especially if you have ever used OpenTelemetry before. The docs can always be better, but are there fundamentals to how observability works that makes this difficult? Are there alternative approaches that could make it easier? In this talk, we will map all of the OpenTelemetry components to the system components that they target, and discuss the pitfalls and significant improvements that we have planned.",
+        "id": 4836585,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=M6UMq8e-tNI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 499,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfX55Sx5hEFjoC3cNs6mCUQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/M6UMq8e-tNI/hqdefault.jpg",
+        "title": "Sponsored Session: Installing OpenTelemetry, Today and Tomorrow - Ted Young, Grafana",
+        "vote": 0
+    }
+]

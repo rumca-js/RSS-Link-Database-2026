@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "OpenAI",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-18T23:25:18.025589+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-18T21:25:25+00:00",
+        "description": "Build faster, cheaper, and with lower latency using prompt caching. This Build Hour breaks down how prompt caching works and how to design your prompts to maximize cache hits. Learn what\u2019s actually being cached, when caching applies, and how small changes in your prompts can have a big impact on cost and performance. \n\nErika Kettleson (Solutions Engineer) covers:\n\u2022 What prompt caching is and why it matters for real-world apps\n\u2022 How cache hits work (prefixes, token thresholds, and continuity)\n\u2022 Best practices like using the Responses API and prompt_cache_key\n\u2022 How to measure cache hit rate, latency, and token savings\n\u2022 Customer Spotlight: Warp (ttps://www.warp.dev/) led by Suraj Gupta (Team Lead) to explain the impact of prompt caching\n\n\n\ud83d\udc49 Prompt Caching Docs: https://platform.openai.com/docs/guides/prompt-caching\n\ud83d\udc49 Prompt Caching 101 Cookbook: https://developers.openai.com/cookbook/examples/prompt_caching101\n\ud83d\udc49 Prompt Caching 201 Cookbook: https://developers.openai.com/cookbook/example",
+        "id": 4838470,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=tECAkJAI_Vk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 935,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXZCJLdBC09xxGZ6gcdrc6A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/tECAkJAI_Vk/hqdefault.jpg",
+        "title": "Build Hour: Prompt Caching",
+        "vote": 0
+    }
+]

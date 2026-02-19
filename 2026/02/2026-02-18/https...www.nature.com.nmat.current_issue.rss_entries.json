@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Guolin Yun",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-18T11:21:17.209295+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-18T00:00:00+00:00",
+        "description": null,
+        "id": 4832022,
+        "language": "en",
+        "link": "https://www.nature.com/articles/s41563-026-02508-7",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 81,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 231,
+        "source_url": "https://www.nature.com/nmat/current_issue/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Multiscale-structured miniaturized 3D force sensors",
+        "vote": 0
+    }
+]

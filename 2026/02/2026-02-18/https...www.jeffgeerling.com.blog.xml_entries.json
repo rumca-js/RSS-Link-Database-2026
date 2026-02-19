@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-18T21:33:15.406947+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-18T14:50:00+00:00",
+        "description": "<p>I run <a href=\"https://frigate.video\">Frigate</a> to record security cameras and detect people, cars, and animals when in view. My <a href=\"https://www.jeffgeerling.com/blog/2024/building-pi-frigate-nvr-axzezs-interceptor-1u-case/\">current Frigate server</a> runs on a Raspberry Pi CM4 and a <a href=\"https://amzn.to/4aWdOpQ\">Coral TPU</a> plugged in via USB.</p>\n<p>Raspberry Pi offers <a href=\"https://www.raspberrypi.com/products/ai-hat/\">multiple AI HAT+'s</a> for the Raspberry Pi 5 with built-in Hailo-8 or Hailo-8L AI coprocessors, and they're useful for low-power inference (like for image object detection) on the Pi. Hailo coprocessors can be used with other SBCs and computers too, if you buy an <a href=\"https://www.waveshare.com/hailo-8.htm\">M.2 version</a>.</p>",
+        "id": 4837488,
+        "language": "en",
+        "link": "https://www.jeffgeerling.com/blog/2026/frigate-with-hailo-for-object-detection-on-a-raspberry-pi",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 162,
+        "source_url": "https://www.jeffgeerling.com/blog.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Frigate with Hailo for object detection on a Raspberry Pi",
+        "vote": 0
+    }
+]

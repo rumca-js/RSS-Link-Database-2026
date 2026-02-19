@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-18T17:34:10.940132+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-18T16:02:04+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nPractical Reflection With C++26 - Barry Revzin - CppCon 2025\n---\n\nWith the adoption of Reflection for C++26, the landscape of what is possible has shifted. This talk will focus on implementing Struct-of-Arrays for an arbitrary aggregate, but will also take some detours to cover some techniques that will prove useful for solving a wide range of problems. \n---\n\nSlides: https://github.com/CppCon/CppCon2025/blob/main/Presentations/Practical_Reflection.pdf\n\nWork at Hudson River Trading (HRT): https://tinyurl.com/safxfctf\n---\n\nBarry Revzin\n \nBarry is a senior C++ developer at Jump Trading in Chicago, a technology and engineering-driven trading firm. After programming for many years, he got really into the nuances and intricacies of C++ by being unreasonably active on StackOverflow (where is he is the top contributor in every standard from C++14 up through C++26). A lot of his C++ knowledge comes from just answering questions that he doesn\u2019t know the answers to, espe",
+        "id": 4835295,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=ZX_z6wzEOG0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/ZX_z6wzEOG0/hqdefault.jpg",
+        "title": "Practical Reflection With C++26 - Barry Revzin - CppCon 2025",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-18T17:11:42.013587+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-18T16:30:00+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/0l29JZxzong\" width=\"480\" alt=\"thumbnail\" title=\"KDE Plasma Is Still Not Dropping Non-Systemd and FreeBSD\" /></p>A few weeks back KDE announced that the new Plasma Login Manager was going to require the use of Systemd and thus wouldn't work on FreeBSD or the other BSDs and whilst this is true it's only about the Login Manager not the rest of KDE Plasma<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />9to5Linux: https://9to5linux.com/kaos-linux-drops-kde-plasma-after-12-years-for-niri-noctalia-to-escape-systemd<br />Linuxiac: https://linuxiac.com/kaos-2026-02-debuts-niri-wayland-desktop/<br />XDA Developers: https://www.xda-developers.com/linux-distro-dropped-kde-plasma-support-tries-to-e",
+        "id": 4834939,
+        "language": "en",
+        "link": "https://odysee.com/kde-plasma-is-still-not-dropping-non:634a9cbffde541dec968f82ada59e6e1091f599f",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/0l29JZxzong",
+        "title": "KDE Plasma Is Still Not Dropping Non-Systemd and FreeBSD",
+        "vote": 0
+    }
+]

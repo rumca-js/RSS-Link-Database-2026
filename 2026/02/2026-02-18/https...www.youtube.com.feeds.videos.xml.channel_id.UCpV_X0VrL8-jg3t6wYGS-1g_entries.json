@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "1littlecoder",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-18T23:25:52.046132+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-18T20:45:54+00:00",
+        "description": "Claude Sonnet 4.6 is our most capable Sonnet model yet. It\u2019s a full upgrade of the model\u2019s skills across coding, computer use, long-context reasoning, agent planning, knowledge work, and design. Sonnet 4.6 also features a 1M token context window in beta.\n\n\nhttps://www.anthropic.com/news/claude-sonnet-4-6\n\nThe Token Problem (ARC AGI Reference) - https://x.com/GregKamradt/status/2023821415913582601\n\n\u2764\ufe0f If you want to support the channel \u2764\ufe0f\nSupport here:\nPatreon - https://www.patreon.com/1littlecoder/\nKo-Fi - https://ko-fi.com/1littlecoder\n\n\ud83e\udded Follow me on \ud83e\udded\nTwitter - https://twitter.com/1littlecoder",
+        "id": 4838471,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=lrnxZsP3e2s",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 948,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCpV_X0VrL8-jg3t6wYGS-1g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/lrnxZsP3e2s/hqdefault.jpg",
+        "title": "Claude Sonnet 4.6 in 7 mins!",
+        "vote": 0
+    }
+]

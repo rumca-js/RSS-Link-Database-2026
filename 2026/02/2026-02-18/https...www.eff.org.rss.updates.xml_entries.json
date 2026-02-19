@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Rindala Alajaji",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-18T01:42:44.021121+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-18T00:49:03+00:00",
+        "description": "<div class=\"field field--name-body field--type-text-with-summary field--label-hidden\"><div class=\"field__items\"><div class=\"field__item even\"><p><a href=\"https://docs.legis.wisconsin.gov/2025/proposals/sb130\"><span>Wisconsin\u2019s S.B. 130</span></a><span> / </span><a href=\"https://docs.legis.wisconsin.gov/2025/related/proposals/ab105\"><span>A.B. 105</span></a><span> is a spectacularly bad idea. </span></p>\n<p><span>It\u2019s an age-verification bill that effectively bans VPN access to certain websites for Wisconsinites and censors lawful speech. We wrote about it last November in our blog \u201c</span><a href=\"https://www.eff.org/deeplinks/2025/11/lawmakers-want-ban-vpns-and-they-have-no-idea-what-theyre-doing\"><span>Lawmakers Want to Ban VPNs\u2014And They Have No Idea What They're Doing</span></a><span>,\u201d but since then, the bill has passed the State Assembly and is </span><a href=\"https://x.com/FSCArmy/status/2023875905169629408\"><span>scheduled for a vote</span></a><span> in the State Senate tomorr",
+        "id": 4829829,
+        "language": "en",
+        "link": "https://www.eff.org/deeplinks/2026/02/eff-wisconsin-legislature-vpn-bans-are-still-terrible-idea",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 101,
+        "source_url": "https://www.eff.org/rss/updates.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "EFF to Wisconsin Legislature: VPN Bans Are Still a Terrible Idea",
+        "vote": 0
+    }
+]

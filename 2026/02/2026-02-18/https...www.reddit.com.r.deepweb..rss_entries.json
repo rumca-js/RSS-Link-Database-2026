@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/Final_Wrap_2094",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-18T00:03:47.925005+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-18T00:02:05+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone,</p> <p>Over the past several months I\u2019ve been building a Tor search engine called Lantern.</p> <p>I didn\u2019t want to clone existing engines. I kept running into the same problems and decided to try solving them:</p> <p>\u2022 Dead onion links showing up in results<br/> \u2022 Mirror spam and duplicate pages<br/> \u2022 Slow loading times<br/> \u2022 Cluttered or ugly interfaces<br/> \u2022 Too much noise, not enough relevance</p> <p>Lantern was built around a few core ideas:</p> <p><strong>Anonymous Logging</strong><br/> Search queries are not tied to users. There are no accounts, no tracking, and no identifiers. Aggregated queries may be stored briefly to power features like trending searches, but nothing is linked to individuals.</p> <p><strong>No JS</strong><br/> Plain HTML and CSS. No JavaScript. Fast inside Tor Browser.</p> <p><strong>Only Working links</strong><br/> Results are filtered against active onion services to reduce dead links.</p> <p><strong>Dedup",
+        "id": 4829218,
+        "language": "en",
+        "link": "https://www.reddit.com/r/deepweb/comments/1r7n92v/i_built_a_tor_search_engine_focused_on_uptime",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 543,
+        "source_url": "https://www.reddit.com/r/deepweb/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "I built a Tor search engine focused on uptime, deduplication, and mirror stability, looking for feedback",
+        "vote": 0
+    }
+]

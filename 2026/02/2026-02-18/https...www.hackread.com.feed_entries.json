@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Deeba Ahmed",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-18T18:35:34.895812+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-18T18:33:23+00:00",
+        "description": "A technical mistake in the popular Chat &#038; Ask AI app has left 300 million private messages from 25 million users exposed online. Discover what happened and how you can protect your personal data when using AI chatbots.",
+        "id": 4836140,
+        "language": "en-US",
+        "link": "https://hackread.com/firebase-misconfiguration-chat-ask-ai-users-expose",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 139,
+        "source_url": "https://www.hackread.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Firebase Misconfiguration Exposes 300M Messages From Chat & Ask AI Users",
+        "vote": 0
+    }
+]
