@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-19T16:47:11.403026+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-19T16:12:00+00:00",
+        "description": "This image of lysozyme crystals grown aboard the International Space Station was taken after the crystals returned to Earth in April 2024. Lysozyme is a protein found in bodily fluids like tears, saliva, and milk. It is used as a control compound to demonstrate well-formed crystals.",
+        "id": 4844653,
+        "language": "en-us",
+        "link": "https://www.nasa.gov/image-detail/jsc2024e038397-2",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 485,
+        "source_url": "https://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Crystals Grown in Space",
+        "vote": 0
+    }
+]

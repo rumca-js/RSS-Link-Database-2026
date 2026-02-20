@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ian Duncan",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-19T10:45:46.452529+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-19T10:00:28+00:00",
+        "description": "Authorities in New Mexico carried out an undercover investigation in their efforts to show that Meta was failing to protect children from predators.",
+        "id": 4841577,
+        "language": "en-US",
+        "link": "https://www.washingtonpost.com/technology/2026/02/19/meta-facebook-child-solicitation",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 364,
+        "source_url": "https://feeds.washingtonpost.com/rss/business/technology",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "He solicited a child on Facebook, even after Meta banned him",
+        "vote": 0
+    }
+]

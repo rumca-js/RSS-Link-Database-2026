@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "OpenAI",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-19T22:31:47.581413+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-19T17:26:03+00:00",
+        "description": "\"The Codex app lets you go further, do more in parallel, and go deeper on the problems you care about.\" -gdb",
+        "id": 4847342,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/GWBHH4LXwOY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 935,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXZCJLdBC09xxGZ6gcdrc6A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/GWBHH4LXwOY/hqdefault.jpg",
+        "title": "GDB on how the Codex app enables parallel work",
+        "vote": 0
+    }
+]

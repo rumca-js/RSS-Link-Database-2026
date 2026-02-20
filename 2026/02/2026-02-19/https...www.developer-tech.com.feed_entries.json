@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ryan Daws",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-19T15:57:54.862803+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-19T15:20:27+00:00",
+        "description": "<p>The npm registry now includes Socket security analysis links directly on package pages to help developers assess supply chain risks. This integration connects the default package view to Socket&#8217;s dependency analysis. For engineering teams managing complex cloud-native systems, evaluating third-party code requires looking beyond basic metadata. Making security data visible during the package discovery phase [&#8230;]</p>\n<p>The post <a href=\"https://www.developer-tech.com/news/socket-security-analysis-on-npm-shield-for-supply-chains/\">Socket security analysis on npm: A shield for supply chains</a> appeared first on <a href=\"https://www.developer-tech.com\">Developer Tech News</a>.</p>",
+        "id": 4844074,
+        "language": "en-GB",
+        "link": "https://www.developer-tech.com/news/socket-security-analysis-on-npm-shield-for-supply-chains",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 92,
+        "source_url": "https://www.developer-tech.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Socket security analysis on npm: A shield for supply chains",
+        "vote": 0
+    }
+]

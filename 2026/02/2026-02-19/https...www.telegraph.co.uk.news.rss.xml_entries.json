@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Chanel Zagon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-19T00:55:10.016947+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-19T00:26:49+00:00",
+        "description": "Murder investigation under way as police arrest four people over incident",
+        "id": 4839036,
+        "language": "en-UK",
+        "link": "https://www.telegraph.co.uk/news/2026/02/19/man-dies-after-stabbing-in-skate-park",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 81,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 355,
+        "source_url": "https://www.telegraph.co.uk/news/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Man dies after stabbing at skate park",
+        "vote": 0
+    }
+]

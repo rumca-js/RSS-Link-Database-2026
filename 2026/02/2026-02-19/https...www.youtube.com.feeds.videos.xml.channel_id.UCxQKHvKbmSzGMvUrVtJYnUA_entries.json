@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Learn Linux TV",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-19T17:06:01.903079+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-19T16:01:17+00:00",
+        "description": "Want to show system information at login in Linux\u2014without relying on neofetch?\nIn this hands-on Linux project, you\u2019ll build a custom Message of the Day (MOTD) that displays live system info every time you log in.\n\nThis video is designed as a learn-by-doing Linux project. You\u2019ll write a Bash script, create a systemd service, and set up a systemd timer to automatically regenerate your MOTD. By the end, you\u2019ll have a clean, professional login message that works across reboots and logins\u2014no manual commands required.\n\n*\u2764\ufe0f Consider becoming a Channel Member*\nSupport Linux Learning and gain acess to exclusive perks, such as ad-free content and early access to select videos. Your support really helps!!!\nJoin here \u279c https://learnlinux.link/member\n\n*\ud83d\udecd\ufe0f Support The Channel and Get Awesome Linux Swag!*\nHead on over to the Learn Linux TV Merch Shop and check out some great Linux-themed gear, including (but not limited to) T-shirts, drinkware, buttons, stickers and more!\n \u2022 \"apt install coffee\" T-S",
+        "id": 4844847,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=vmHuE6YbvTE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 997,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxQKHvKbmSzGMvUrVtJYnUA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/vmHuE6YbvTE/hqdefault.jpg",
+        "title": "Build a Custom Linux MOTD with Bash and systemd!",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-19T18:12:30.304067+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-19T16:30:21+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/jeY7xQ13v6I\" width=\"480\" alt=\"thumbnail\" title=\"Hyprland And Niri Changed Wayland Forever\" /></p>The window manager space on Wayland has completely changed over the past few years, there was a time when Sway was the only good choice but now you have both Hyprland a dynamic tiler and Niri a scroller and this has changed the equation for what you can do on Wayland.<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />Hyprland: https://hypr.land/<br />Niri: https://github.com/niri-wm/niri<br />Karousel: https://github.com/peterfajdiga/karousel<br />River Repo: https://codeberg.org/river/river<br />Hyprland Wiki: https://wiki.hypr.land/<br />Niri Wiki: https://github.com/niri-wm/niri/wiki/Confi",
+        "id": 4845492,
+        "language": "en",
+        "link": "https://odysee.com/hyprland-and-niri-changed-wayland:6ecca7457669fb152ec14ffa310c04cf2b491603",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/jeY7xQ13v6I",
+        "title": "Hyprland And Niri Changed Wayland Forever",
+        "vote": 0
+    }
+]

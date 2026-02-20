@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-19T16:37:24.678794+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-19T16:02:03+00:00",
+        "description": "https://cppcon.org\n---\n\nDuck Typing, the C++ Way: How Type Erasure Bends the Rules - Sarthak Sehgal - CppCon 2025\n---\n\nType erasure is one of C++'s most underrated yet powerful idioms - allowing you to write flexible, generic code while hiding concrete type information behind a unified interface. In this talk, we\u2019ll dive deep into how type erasure enables runtime polymorphism without inheritance, and draw parallels to duck typing in dynamic languages, but with C++ static safety guarantees. \n \nIn this talk, we\u2019ll explore how the C++ Standard Library leverages type erasure in tools like std::function and std::shared  ptr, making it possible to store, dispatch, and manage heterogeneous objects with minimal friction. Along the way, we\u2019ll uncover the inner workings of these abstractions by handcrafting a simplified version of std::function from scratch. We\u2019ll also examine how std::shared  ptr uses type erasure to maintain type safety while enabling polymorphic deletion. But it\u2019s not all ab",
+        "id": 4844598,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=HkoQAjwMyOc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/HkoQAjwMyOc/hqdefault.jpg",
+        "title": "Duck Typing, the C++ Way: How Type Erasure Bends the Rules - Sarthak Sehgal - CppCon 2025",
+        "vote": 0
+    }
+]

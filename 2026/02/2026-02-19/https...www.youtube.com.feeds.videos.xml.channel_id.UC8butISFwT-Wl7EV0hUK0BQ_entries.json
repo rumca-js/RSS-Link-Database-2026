@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-19T13:46:32.722581+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-19T12:52:33+00:00",
+        "description": "If you're prepping for interviews, Abbey has some practical tips to help you out.",
+        "id": 4842962,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/BrBMM2gIQN8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/BrBMM2gIQN8/hqdefault.jpg",
+        "title": "Prepping for interviews? Here are some practical tips to help you out.",
+        "vote": 0
+    }
+]

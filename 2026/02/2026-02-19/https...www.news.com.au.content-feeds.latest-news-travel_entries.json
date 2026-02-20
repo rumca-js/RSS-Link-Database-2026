@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-19T10:28:51.479958+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-19T10:28:48+00:00",
+        "description": "Qantas is preparing to slash dozens of head office jobs amid the airline\u2019s major leadership shake-up.",
+        "id": 4841447,
+        "language": "en-au",
+        "link": "https://www.news.com.au/travel/travel-updates/up-to-50-job-cuts-expected-in-qantas-head-office-amid-major-leadership-shakeup/news-story/b98b1ba368c836c78e03d9178d9db225?from=rss-basic",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 409,
+        "source_url": "https://www.news.com.au/content-feeds/latest-news-travel",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://content.api.news/v3/images/bin/75f4505b06a74aad349288839b7b9ba9?width=320",
+        "title": "Qantas roles face axe in leadership shake-up",
+        "vote": 0
+    }
+]

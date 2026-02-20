@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "AOrefkov",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-19T22:28:47.587010+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-19T20:04:04+00:00",
+        "description": "<blockquote>\n\t<h3>\n\t\t<a href=\"https://orefkov.github.io/simstr/articles/fast_concat.html\">So how do you quickly concatenate strings?</a></h3>\n</blockquote>\n<blockquote>\n\t<p>\n\t\tBy Aleksandr Orefkov</p>\n</blockquote>\n<p>\n\tFrom the article:</p>\n<blockquote>\n\t<p>\n\t\tAll practicing programmers have to concatenate strings. Precisely concatenate, we don&rsquo;t have some JavaScript or PHP, in C++ we have this fancy word for it. Programmers in other languages &#8203;&#8203;simply &ldquo;add&rdquo; strings together without much thought, without even thinking about this operation. After all, what could be simpler than</p>\n\t<pre class=\"prettyprint lang-cpp\">\nreturn \"The answer is \" + str_answer + \", count is \" + count;</pre>\n\t<p>\n\t\tBut while it&rsquo;s forgivable for script kiddies not to think about the meaning behind such a simple notation, it&rsquo;s unacceptable for an experienced developer to approach such an important issue so irresponsibly. An experienced developer, imagining such C++ code",
+        "id": 4847254,
+        "language": "en",
+        "link": "https://isocpp.org//blog/2026/02/so-how-do-you-quickly-concatenate-strings-aleksandr-orefkov",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "So how do you quickly concatenate strings? -- Aleksandr Orefkov",
+        "vote": 0
+    }
+]

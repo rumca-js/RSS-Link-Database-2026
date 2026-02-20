@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "1littlecoder",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-19T22:31:57.634166+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-19T19:52:27+00:00",
+        "description": "Building on the Gemini 3 series, 3.1 Pro represents a step forward in core reasoning. 3.1 Pro is a smarter, more capable baseline for complex problem-solving. This is reflected in our progress on rigorous benchmarks. On ARC-AGI-2, a benchmark that evaluates a model\u2019s ability to solve entirely new logic patterns, 3.1 Pro achieved a verified score of 77.1%. This is more than double the reasoning performance of 3 Pro.\n\n\nhttps://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/\n\n\nAgnoAI Multiagent system code - https://github.com/agno-agi/investment-team\n\n\u2764\ufe0f If you want to support the channel \u2764\ufe0f\nSupport here:\nPatreon - https://www.patreon.com/1littlecoder/\nKo-Fi - https://ko-fi.com/1littlecoder\n\n\ud83e\udded Follow me on \ud83e\udded\nTwitter - https://twitter.com/1littlecoder",
+        "id": 4847346,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Ibjkim_7gRw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 948,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCpV_X0VrL8-jg3t6wYGS-1g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/Ibjkim_7gRw/hqdefault.jpg",
+        "title": "Gemini 3.1 Pro in 9 mins!",
+        "vote": 0
+    }
+]

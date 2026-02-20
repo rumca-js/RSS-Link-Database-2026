@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Hammond",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-19T15:35:18.813863+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-19T14:00:27+00:00",
+        "description": "https://jh.live/flare-021926 || Manage threat intelligence and your exposed attack surface with Flare! Try a free trial and see what info is out there: https://jh.live/flare-021926\n\nhttps://www.bleepingcomputer.com/news/microsoft/microsoft-patches-actively-exploited-office-zero-day-vulnerability/\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-21509\nhttps://www.bleepingcomputer.com/news/security/russian-hackers-exploit-recently-patched-microsoft-office-bug-in-attacks/\nhttps://cert.gov.ua/article/6287250\nhttps://flare.io/learn/resources/blog/from-patch-to-exploit-flares-intelligence-on-cybercrime-after-january-2026-patch-tuesday\nhttps://www.virustotal.com/gui/file/c91183175ce77360006f964841eb4048cf37cb82103f2573e262927be4c7607f/detection\nhttps://gist.github.com/decalage2/26b6bfcd55c04b98c8474f2b21203e20\n\nLearn Cybersecurity and more with Just Hacking Training: https://jh.live/training\nSee what else I'm up to with: https://jh.live/newsletter\n\n\u2139\ufe0f Affiliates:\nLearn how to c",
+        "id": 4843887,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Ck8IPInn74A",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 959,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVeW9qkBjo3zosnqUbG7CFw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/Ck8IPInn74A/hqdefault.jpg",
+        "title": "Russia is hacking zero-days again",
+        "vote": 0
+    }
+]
