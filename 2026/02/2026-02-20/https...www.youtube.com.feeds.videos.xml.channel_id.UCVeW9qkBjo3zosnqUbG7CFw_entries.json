@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Hammond",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-20T14:27:06.381026+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-20T12:09:23+00:00",
+        "description": "Learn Cybersecurity and more with Just Hacking Training: https://jh.live/training\nSee what else I'm up to with: https://jh.live/newsletter\n\n\u2139\ufe0f Affiliates:\nLearn how to code with CodeCrafters: https://jh.live/codecrafters\nHost your own VPN with OpenVPN: https://jh.live/openvpn\nGet Blue Team Training and SOC Analyst Certifications with CyberDefenders: https://jh.live/cyberdefense",
+        "id": 4851423,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=wHT76Oad9nA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 959,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVeW9qkBjo3zosnqUbG7CFw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/wHT76Oad9nA/hqdefault.jpg",
+        "title": "The Payload Podcast #002 with Connor McGarr",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-20T14:54:04.514072+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-20T11:00:10+00:00",
+        "description": "Visit Mixture of Experts podcast page to get more AI content \u2192 https://ibm.biz/BdpsYq\n\nDo AI agents still need humans? This week on Mixture of Experts, guest host Matt Kosinski from Security Intelligence is joined by Mihai Criveti, Martin Keen and Kush Varshney. First, we unpack Google and DeepMind's massive USD $200B AI infrastructure investment in India\u2014 \u201cThe Biggest AI Infrastructure Deal in History.\u201d Is this about sovereignty, geography, or something else entirely? Next, Anthropic researcher Nicholas Carlini used Claude to build a fully operational 100,000-line C compiler autonomously. Our experts debate whether this is impressive or inevitable, and what it means for human developers. Then, a sobering reality check: 36% of AI agent skills contain security vulnerabilities. Finally, as IT leaders question AI ROI, we discuss the shift from \"how\" to \"how much\" and whether value-based pricing could change everything. All that and more on this week\u2019s Mixture of Experts. \n\n00:00 \u2013 Introd",
+        "id": 4851696,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=3Wb6cA4CBIQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/3Wb6cA4CBIQ/hqdefault.jpg",
+        "title": "India's USD $200B AI hub & Claude builds C compiler",
+        "vote": 0
+    }
+]

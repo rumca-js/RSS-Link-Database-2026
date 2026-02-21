@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Digital Foundry",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-20T15:39:19.930479+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-20T14:59:16+00:00",
+        "description": "Digital Foundry is now fully independent! Join the DF Supporter Program and support the team: https://bit.ly/3jEGjvx\n\nWhile looking into denoising with DLSS 4.5 on Unreal Engine 5 games, Alex made an intriguing discover: Star Wars Jedi Survivor has custom console commands that ease the CPU burden and vastly improve the camera and animation errors still seen in the game to this day. Alex believes these may be CPU optimisations for consoles that are dormant on the PC build - but can be used. So is this a complete \"fix\" for this most troublesome of PC ports? As you might imagine, the reality is a little more nuanced.\n\nExamine the DF Website: https://digitalfoundry.net\n\nGo here to check out DF merch! https://store.digitalfoundry.net\n\nSubscribe for more Digital Foundry: http://bit.ly/DFSubscribe\n\n00:00:00 Introduction\n00:01:08 What is wrong with Jedi Survivor on PC?\n00:02:49 How did Alex stumble on a potential fix?\n00:04:18 What is the fix and what is its effect?\n00:09:30 Are there any dow",
+        "id": 4852211,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=QpF25_fGLB4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 696,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9PBzalIcEQCsiIkq36PyUA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/QpF25_fGLB4/hqdefault.jpg",
+        "title": "Have We Fixed Star Wars Jedi Survivor on PC? Stuttering Camera/Animation Addressed",
+        "vote": 0
+    }
+]

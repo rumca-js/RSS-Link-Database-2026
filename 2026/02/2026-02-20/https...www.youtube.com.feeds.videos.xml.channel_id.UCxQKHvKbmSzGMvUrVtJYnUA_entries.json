@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Learn Linux TV",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-20T17:07:37.236820+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-20T15:00:27+00:00",
+        "description": "In this in-depth NixOS review, we'll explore what makes NixOS fundamentally different from traditional Linux distributions. From declarative configuration to fully reproducible systems, NixOS challenges everything you think you know about managing Linux.\n\nBut is it practical? Is it beginner friendly? And does the \u201cimmutable\u201d architecture actually make your system better? In this video, you'll get answers to those questions and more!\n\n*\u2764\ufe0f Consider becoming a Channel Member*\nSupport Linux Learning and gain acess to exclusive perks, such as ad-free content and early access to select videos. Your support really helps!!!\nJoin here \u279c https://learnlinux.link/member\n\n*\ud83d\udecd\ufe0f Support The Channel and Get Awesome Linux Swag!*\nHead on over to the Learn Linux TV Merch Shop and check out some great Linux-themed gear, including (but not limited to) T-shirts, drinkware, buttons, stickers and more!\n \u2022 \"apt install coffee\" T-Shirt \u279c https://learnlinux.link/apt-install-coffee\n \u2022 \"sudo\" T-Shirt \u279c https://lea",
+        "id": 4853175,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=GrOmDlM_28Y",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 997,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxQKHvKbmSzGMvUrVtJYnUA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/GrOmDlM_28Y/hqdefault.jpg",
+        "title": "NixOS Review: The Most Powerful Linux Distro in 2026?",
+        "vote": 0
+    }
+]

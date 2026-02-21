@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Billy Perrigo / Delhi",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-20T13:02:28.375121+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-20T09:00:00+00:00",
+        "description": "The India summit, like one in Paris before it, functioned more as a trade fair and an advertisement for the host nation\u2019s AI prowess than a venue for meaningful international diplomacy.",
+        "id": 4848323,
+        "language": "en-UK",
+        "link": "https://time.com/7379949/india-ai-impact-summit-us-china-middle-powers",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 317,
+        "source_url": "https://time.com/tech/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://api.time.com/wp-content/uploads/2026/02/GettyImages-2261851102.jpg",
+        "title": "India\u2019s AI Summit Brings Big Names, Little Impact",
+        "vote": 0
+    }
+]

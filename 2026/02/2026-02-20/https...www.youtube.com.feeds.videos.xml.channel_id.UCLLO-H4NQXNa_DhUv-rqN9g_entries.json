@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CD-Action",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-20T14:28:47.498266+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-20T13:28:06+00:00",
+        "description": "Pazaak?",
+        "id": 4851429,
+        "language": "pl",
+        "link": "https://www.youtube.com/watch?v=T0PS7sTbA0c",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 53,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLLO-H4NQXNa_DhUv-rqN9g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/T0PS7sTbA0c/hqdefault.jpg",
+        "title": "Gramy w KotOR-a. Wst\u0119p tylko dla intelektualist\u00f3w",
+        "vote": 0
+    }
+]

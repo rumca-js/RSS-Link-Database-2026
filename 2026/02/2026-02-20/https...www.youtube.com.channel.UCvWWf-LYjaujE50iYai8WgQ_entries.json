@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Paul's Hardware",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-20T18:28:35.940425+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-20T17:59:41+00:00",
+        "description": "GPU Olympics\nreferences - \nhttps://www.tomshardware.com/pc-components/gpus/usd5-000-rtx-5090-lightning-z-gets-killed-in-extreme-overclocking-attempt-cracking-the-gpu-msis-2-500-watt-xoc-bios-pushed-too-high-a-voltage-to-the-core \nhttps://wccftech.com/after-800w-and-1000w-bios-files-msi-rtx-5090-lightning-z-2500w-xoc-bios-leaked/ \nhttps://videocardz.com/newz/another-rtx-5090-2000w-xoc-bios-leaks-out-nvidia-extreme-oc-scene-is-slowly-waking-up",
+        "id": 4854019,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/x7Hb5wWBec0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 927,
+        "source_url": "https://www.youtube.com/channel/UCvWWf-LYjaujE50iYai8WgQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/x7Hb5wWBec0/hqdefault.jpg",
+        "title": "GPU Olympics",
+        "vote": 0
+    }
+]

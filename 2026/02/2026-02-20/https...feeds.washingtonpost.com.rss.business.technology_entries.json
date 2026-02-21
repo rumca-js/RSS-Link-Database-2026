@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Drew Harwell",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-20T13:10:00.730737+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-20T10:00:05+00:00",
+        "description": "A Nashville comedian\u2019s deportation hotline, set up as a joke, has gone viral among viewers who say it shows the \u201cbanality of evil personified\u201d in the U.S. immigration crackdown.",
+        "id": 4848872,
+        "language": "en-US",
+        "link": "https://www.washingtonpost.com/technology/2026/02/20/fake-ice-tip-line-viral",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 364,
+        "source_url": "https://feeds.washingtonpost.com/rss/business/technology",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "A fake ICE tip line reveals neighbors reporting neighbors",
+        "vote": 0
+    }
+]

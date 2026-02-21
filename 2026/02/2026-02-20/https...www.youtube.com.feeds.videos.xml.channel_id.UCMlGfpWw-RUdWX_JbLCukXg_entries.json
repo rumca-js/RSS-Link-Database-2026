@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-20T16:20:57.076862+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-20T16:02:12+00:00",
+        "description": "https://cppcon.org/\n---\n\nMore Speed & Simplicity: Practical Data-Oriented Design in C++ - Vittorio Romeo - CppCon 2025\nhttps://github.com/CppCon/CppCon2025\n\nData-Oriented Design (DOD) presents a different way of thinking: prioritizing data layout not only unlocks significant performance gains via cache efficiency but can also lead to surprising simplicity in the code that actually processes the data.\n\nThis talk is a practical introduction for C++ developers familiar with OOP. Through a step-by-step refactoring of a conventional OOP design, we\u2019ll both cover how data access patterns influence speed and how a data-first approach can clarify intent.\n\nWe\u2019ll measure the performance impact with benchmarks and analyze how the refactored code, particularly the data processing loops, can become more direct and conceptually simpler.\n\nKey techniques like Structure-of-Arrays (SoA) vs. Array-of-Structures (AoS) will be explained and benchmarked, considering their effects on both execution time and ",
+        "id": 4852657,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=SzjJfKHygaQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/SzjJfKHygaQ/hqdefault.jpg",
+        "title": "More Speed & Simplicity: Practical Data-Oriented Design in C++ - Vittorio Romeo - CppCon 2025",
+        "vote": 0
+    }
+]

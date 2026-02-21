@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Samantha Baldwin",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-20T13:02:01.625310+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-20T00:42:50+00:00",
+        "description": "<div class=\"field field--name-body field--type-text-with-summary field--label-hidden\"><div class=\"field__items\"><div class=\"field__item even\"><p><span></span></p>\n<p><span>We recently </span><a href=\"https://www.eff.org/about/opportunities/volunteer/coding-with-eff\"><span>introduced a policy</span></a><span> governing large language model (LLM) assisted contributions to EFF's open-source projects. At EFF, we strive to produce high quality software tools, rather than simply generating more lines of code in less time. We now explicitly require that contributors understand the code they submit to us and that comments and documentation be authored by a human.</span></p>\n\n<p><span>LLMs excel at producing code that </span><i><span>looks</span></i><span> mostly human generated, but can often have underlying bugs that can be replicated at scale. This makes LLM-generated code exhausting to review, especially with smaller, less resourced teams. LLMs make it easy for well-intentioned people to s",
+        "id": 4848294,
+        "language": "en",
+        "link": "https://www.eff.org/deeplinks/2026/02/effs-policy-llm-assisted-contributions-our-open-source-projects",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 101,
+        "source_url": "https://www.eff.org/rss/updates.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "EFF\u2019s Policy on LLM-Assisted Contributions to Our Open-Source Projects",
+        "vote": 0
+    }
+]

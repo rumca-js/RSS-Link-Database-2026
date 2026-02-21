@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kevin Stratvert",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-20T14:26:58.466789+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-20T08:00:34+00:00",
+        "description": "Do you have trouble keeping up with your assignments or To Do\u2019s? In this video, create an assignment tracker using Google Sheets and easily input them on your mobile device with a Google Form. \n\nYou'll create a Google Form to input all your required info, including assignment, class, difficulty rating, due date, and space for notes. \n\nThen we\u2019ll move on to customizing a Google Sheet to use dropdowns, smart chips, and formulas. We\u2019ll also add custom formulas to apply conditional formatting to mark an assignment as completed and add icons to identify upcoming due dates!\n\nFinally, we\u2019ll \u201cappify\u201d the form, adding an icon to your iPhone\u2019s home screen so you can enter your assignments with ease! \n\nHost: Jess Stratton\n#GoogleSheets #GoogleForms #Productivity #Student #Google\n\n\u231a TIMESTAMPS \n00:00 - Intro\n00:14 - Create a Google form to capture your input\n02:26 - Link the form responses to a Google Sheet\n02:55 - Publish and fill out your form\n04:16 - Open the newly created responses sheet\n04:2",
+        "id": 4851422,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=OldoLQZbnMw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 958,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfJT_eYDTmDE-ovKaxVE1ig",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/OldoLQZbnMw/hqdefault.jpg",
+        "title": "An Assignment Tracker You\u2019ll Actually Use | Google Sheets & Forms",
+        "vote": 0
+    }
+]

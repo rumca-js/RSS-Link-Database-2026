@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-20T22:23:50.645445+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-20T22:23:48+00:00",
+        "description": "When it comes to a hotel stay with a little one in tow, that \u201crest and relaxation\u201d we pine for poolside, at the hotel bar or simply with a book in the room doesn\u2019t always play out to script. Until now.",
+        "id": 4855823,
+        "language": "en-au",
+        "link": "https://www.news.com.au/travel/travel-advice/accommodation/hyatt-regency-sydney-hotel-reveals-gamechanging-perk-for-parents/news-story/8c738533e1c475e8cfe3ce9262994b2a?from=rss-basic",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 409,
+        "source_url": "https://www.news.com.au/content-feeds/latest-news-travel",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://content.api.news/v3/images/bin/70256d601752a66bed196f7aaa188be0?width=320",
+        "title": "Hotel\u2019s in-room move changes everything",
+        "vote": 0
+    }
+]
