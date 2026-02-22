@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-21T14:20:38.007709+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-21T13:32:20+00:00",
+        "description": "Coding and chess are similar in many ways. They're both require deep thinking, patience, time management skills, and creativity. Ihechikara discusses this with Quincy on the freeCodeCamp podcast.",
+        "id": 4859537,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/Tbqmz0ZP8q8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/Tbqmz0ZP8q8/hqdefault.jpg",
+        "title": "Coding and chess are similar - they're both require deep thinking, patience, and creativity",
+        "vote": 0
+    }
+]

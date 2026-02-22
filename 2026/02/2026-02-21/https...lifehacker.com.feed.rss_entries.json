@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Stephen Johnson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-21T08:04:37.435064+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-21T01:13:28+00:00",
+        "description": "Add \"television prices\" to the long list of things AI is changing.",
+        "id": 4857718,
+        "language": "en-us",
+        "link": "https://lifehacker.com/tech/why-ai-could-make-tvs-more-expensive",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 442,
+        "source_url": "https://lifehacker.com/feed/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://lifehacker.com/imagery/articles/01KHY8FFT9TW11MP3SKTAANQJ4/hero-image.png",
+        "title": "AI Could Make Your Next TV More Expensive",
+        "vote": 0
+    }
+]

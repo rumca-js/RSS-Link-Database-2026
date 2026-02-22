@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Pierluigi Paganini",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-21T11:46:42.479674+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-21T11:19:44+00:00",
+        "description": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds RoundCube Webmail flaws to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA)\u00a0added two RoundCube Webmail flaws to its Known Exploited Vulnerabilities (KEV) catalog. Below are the flaws added to the catalog: Roundcube is a popular webmail platform and has been repeatedly targeted [&#8230;]",
+        "id": 4858793,
+        "language": "en-US",
+        "link": "https://securityaffairs.com/188324/security/u-s-cisa-adds-roundcube-webmail-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 298,
+        "source_url": "https://securityaffairs.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "U.S. CISA adds RoundCube Webmail flaws to its Known Exploited Vulnerabilities catalog",
+        "vote": 0
+    }
+]

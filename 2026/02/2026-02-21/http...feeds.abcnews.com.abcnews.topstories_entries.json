@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-21T13:26:42.812397+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-21T07:24:58+00:00",
+        "description": "The U.S. team won its record-breaking 11th gold medal of the Winter Olympics when the trio of Kaila Kuhn, Connor Curran and Chris Lillis took the title in mixed aerials",
+        "id": 4859185,
+        "language": "en-US",
+        "link": "https://abcnews.com/Sports/wireStory/us-captures-record-11th-gold-medal-winter-olympics-130361024",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 81,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 9,
+        "source_url": "http://feeds.abcnews.com/abcnews/topstories",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://s.abcnews.com/images/Sports/wirestory_0790effb956f009dce0f87acf8f36c83_4x3_384.jpg",
+        "title": "US captures record 11th gold medal at the Winter Olympics",
+        "vote": 0
+    }
+]

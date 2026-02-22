@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Salem Techsperts",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-21T18:21:31.939205+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-21T16:33:37+00:00",
+        "description": "I found my childhood HP Pavilion in an e-waste bin and spent over 12 hours trying to turn it into the ultimate Windows XP gaming machine using era-appropriate hardware I had laying around the shop. But between fighting drivers, a bad install CD, and dealing with a 400MHz frontside bus, this project was a total retro tech nightmare. \n\nWe maxed out the RAM to 720MB of PC133 SDRAM, swapped in a Radeon 9250 256MB AGP video card, and even tried to cheat physics with a CF-to-IDE SSD adapter. But despite the upgrades and a bet involving a six-pack of Presidente, the reality of early 2000s hardware hit hard when I had to deal with insane input lag that I ran out of patience trying to troubleshoot. \n   \nSPECS \n   - CPU: Intel Pentium 4 1.7GHz (400MHz Frontside Bus) \n   - RAM: 768MB PC133 SDRAM\n   - GPU: Radeon 9250 256MB AGP (Upgraded from an Nvidia Riva TNT2) \n   - Storage: 8GB CF-to-IDE SSD / 40GB IDE HDD \n   - OS: Windows XP Professional 32bit\n   - Software: Bonzi Buddy 4.0, Winamp\n\n_______",
+        "id": 4860945,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=sGl5RwEbogs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 985,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCClfFsWcT3N2I7VTXXyt84A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/sGl5RwEbogs/hqdefault.jpg",
+        "title": "I Maxed Out My Childhood PC for Windows XP Gaming... and it STILL Sucks",
+        "vote": 0
+    }
+]
