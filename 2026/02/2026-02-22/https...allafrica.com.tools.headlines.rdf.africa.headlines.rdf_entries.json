@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-22T12:58:34.682509+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-22T12:30:07+00:00",
+        "description": "[allAfrica] A new scramble for Africa is underway. It is not marked by warships or colonial flags, but by battery supply chains, green transition targets, and high-level trade delegations. The race is for lithium, cobalt, graphite, manganese, platinum group metals and rare earth elements -- the minerals powering electric vehicles, renewable energy systems and digital infrastructure.",
+        "id": 4865395,
+        "language": "en",
+        "link": "https://allafrica.com/stories/202602220078.html",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 15,
+        "source_url": "https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Africa: Africa's Regional Blocs Must Prevent a Silent Scramble for Critical Minerals",
+        "vote": 0
+    }
+]

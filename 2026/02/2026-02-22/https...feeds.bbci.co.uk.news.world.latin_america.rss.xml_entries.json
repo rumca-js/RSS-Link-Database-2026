@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-22T07:39:07.022925+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-22T05:04:57+00:00",
+        "description": "The announcement by the head of Venezuela's National Assembly comes amid US pressure following the capture of ex-President Nicol\u00e1s Maduro.",
+        "id": 4863882,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/c93w9g2dvn5o",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 524,
+        "source_url": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b16/live/a6502d70-0f87-11f1-a06b-65b1643aad6b.jpg",
+        "title": "More than 1,500 Venezuelan political prisoners apply for amnesty",
+        "vote": 0
+    }
+]

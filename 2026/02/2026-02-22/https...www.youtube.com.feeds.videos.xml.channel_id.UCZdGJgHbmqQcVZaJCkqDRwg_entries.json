@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": null,
+        "author": "The Q",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-15T01:55:53.446583+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-22T02:58:58.310959+00:00",
+        "description": null,
+        "id": 3815604,
+        "language": "en",
+        "link": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZdGJgHbmqQcVZaJCkqDRwg",
+        "manual_status_code": 0,
+        "page_rating": 25,
+        "page_rating_contents": 80,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": true,
+        "source__id": 778,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZdGJgHbmqQcVZaJCkqDRwg",
+        "status_code": 615,
+        "tags": [],
+        "thumbnail": null,
+        "title": "The Q",
+        "vote": 0
+    }
+]

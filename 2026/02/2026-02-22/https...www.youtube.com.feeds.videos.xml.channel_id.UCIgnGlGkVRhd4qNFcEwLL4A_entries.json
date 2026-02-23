@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "AI Search",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-22T07:15:10.902575+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-22T03:25:30+00:00",
+        "description": "HUGE AI NEWS: Qwen Image 2512, DeepSeek mHC, iQuest Coder, & more \n#ai #ainews #aitools \n\nThanks to our sponsor Higgsfield. Try it for free: https://higgsfield.ai/?utm_source=AISearch #Higgsfield #Seedance2 #aivideo \n\nSources in order of mention:\nhttps://huggingface.co/Qwen/Qwen3.5-397B-A17B\nhttps://zunwang1.github.io/AnchorWeave\nhttps://cohere.com/blog/cohere-labs-tiny-aya\nhttps://github.com/KittenML/KittenTTS\nhttps://taalas.com/the-path-to-ubiquitous-ai/\nhttps://unicornanrocinu.github.io/LUVE_web/\nhttps://www.zyphra.com/post/zuna\nhttps://zeyuet.github.io/AudioX/\nhttps://guolanqing.github.io/Vec2Pix/\nhttps://aigeeksgroup.github.io/Code2Worlds/\nhttps://infini-ai-lab.github.io/MonarchRT\nGemini 3.1 Pro https://youtu.be/hSQciQsxV2w\nhttps://gemini.google/overview/music-generation/\nhttps://seed.bytedance.com/en/seed2\n\n0:00 AI news intro\n0:55 Qwen 3.5\n4:10 AnchorWeave\n6:24 Tiny Aya\n8:20 Kitten TTS\n10:36 Taalas chip\n12:54 Unitree performance\n15:26 Luve\n17:03 Higgsfield\n18:20 Zuna \n20:31 Audi",
+        "id": 4863369,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=fnMAIa2PEAk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 806,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIgnGlGkVRhd4qNFcEwLL4A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/fnMAIa2PEAk/hqdefault.jpg",
+        "title": "AI thought-to-text, Qwen 3.5, Lyria 3, realtime videos, 4D worlds, realtime TTS: AI NEWS",
+        "vote": 0
+    }
+]

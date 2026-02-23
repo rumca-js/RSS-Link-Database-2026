@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Julia McCoy",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-22T15:50:03.353933+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-22T15:21:19+00:00",
+        "description": "*Try Abacus AI Deep Agent: \ud83d\udc49 https://firstmovers.ai/DeepAgent*\n*Part two drops Tuesday*  \u2014 where we test what happens after a full week of real deployment.\n\n*OpenClaw exploded overnight \u2014 but there\u2019s a security problem nobody wants to admit.* \nAnd if you\u2019re deploying autonomous agents inside real systems, this matters more than the hype.\n\nOpenClaw showed the world what AI agents could become: multi-step, autonomous, goal-driven execution. Developers loved it. Communities formed instantly.\n\nBut when agents move from demos to production \u2014 touching codebases, customer data, internal tools \u2014 capability isn\u2019t enough.\n\nSecurity is.\n\nIn this DeepAgent Series breakdown:\n\u2022 What OpenClaw got right\n\u2022 The enterprise security gaps most teams are ignoring\n\u2022 Why autonomous agents are moving into operational workflows now\n\u2022 What \u201cSecure OpenClaw\u201d actually means in practice\n\u2022 A walkthrough of Abacus AI Deep Agent running real-world tasks end-to-end\n\nSOC-2 infrastructure. Role-based access. Isolated ma",
+        "id": 4866349,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Dtt4lO3goBk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 947,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqzK60-oUOEq36uU9B1MMUg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/Dtt4lO3goBk/hqdefault.jpg",
+        "title": "OpenClaw Is Broken. This Is The Future of Autonomous Agents",
+        "vote": 0
+    }
+]

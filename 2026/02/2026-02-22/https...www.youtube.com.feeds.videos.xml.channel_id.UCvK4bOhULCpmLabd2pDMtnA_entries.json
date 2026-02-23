@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": null,
+        "author": "Yes Theory",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-15T01:56:10.975361+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-22T03:02:33.012719+00:00",
+        "description": null,
+        "id": 3815619,
+        "language": null,
+        "link": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvK4bOhULCpmLabd2pDMtnA",
+        "manual_status_code": 0,
+        "page_rating": 25,
+        "page_rating_contents": 80,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": true,
+        "source__id": 783,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvK4bOhULCpmLabd2pDMtnA",
+        "status_code": 615,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Yes Theory",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-22T14:47:32.127673+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-22T13:43:36+00:00",
+        "description": "When you're working, work hard. And when you relax, relax hard. Mike discusses why this is important for productivity on the freeCodeCamp podcast.",
+        "id": 4866009,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/QMgIovzpYVw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/QMgIovzpYVw/hqdefault.jpg",
+        "title": "When you're working, work hard. And when you relax, relax hard.",
+        "vote": 0
+    }
+]

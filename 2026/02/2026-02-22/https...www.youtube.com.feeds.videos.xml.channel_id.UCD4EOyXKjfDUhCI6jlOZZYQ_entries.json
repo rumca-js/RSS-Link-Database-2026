@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Eli the Computer Guy",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-22T21:19:57.113332+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-22T20:32:04+00:00",
+        "description": "Code and Workbook on GitHub - https://github.com/SiliconDojo/In-Person-Classes/tree/main/Intro%20to%20SQL%20and%20Bottle%20for%20Building%20AI%20Apps%20in%20Python%20(Full%20Day)\n\nSupport Content at - https://donorbox.org/etcg\nLinkedIn at - https://www.linkedin.com/in/eli-etherton-a15362211/\n\nOur previous full day class taught you to use Python and Ollama to build AI powered scripts. Now we will take that to the next level by adding SQL so that you project can store records, and by using the Bottle Web App framework so that you can build a GUI web application.\n\nBy the end of the class you will be able to build a useful AI powered web app that demonstrates the key components to an AI \"Stack\"\n\nThis class will go over:\n\nWhat are Relational Databases\nWhat is SQLite\nHow to create databases, tables and records in SQL\nHow to modify and delete databases, tables and record in SQL\nHow to JOIN tables in SAL\nHow to use Python to interact with a SQL database\nWhat Bottle and Web App frameworks are\n",
+        "id": 4868313,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=AJ1qw8xYuxM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 102,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCD4EOyXKjfDUhCI6jlOZZYQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/AJ1qw8xYuxM/hqdefault.jpg",
+        "title": "Intro to SQL and Bottle for Building AI Apps in Python (Full Day)",
+        "vote": 0
+    }
+]

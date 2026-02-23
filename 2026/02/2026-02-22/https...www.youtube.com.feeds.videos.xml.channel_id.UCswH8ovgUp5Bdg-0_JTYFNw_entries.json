@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Russell Brand",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-22T18:50:26.216703+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-22T17:07:40+00:00",
+        "description": "Why does everything become political?",
+        "id": 4867497,
+        "language": "en-US",
+        "link": "https://www.youtube.com/shorts/LXddVynRUlI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 286,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCswH8ovgUp5Bdg-0_JTYFNw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/LXddVynRUlI/hqdefault.jpg",
+        "title": "Why does everything become political?",
+        "vote": 0
+    }
+]

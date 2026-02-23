@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-22T21:04:23.920162+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-22T14:00:01+00:00",
+        "description": "<a href=\"https://austinhenley.com/blog/dearresearchers.html\">https://austinhenley.com/blog/dearresearchers.html</a>",
+        "id": 4868231,
+        "language": "en-us",
+        "link": "https://austinhenley.com/blog/dearresearchers.html",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 25,
+        "source_url": "https://austinhenley.com/blog/feed.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Dear researchers: Is AI all you've got?",
+        "vote": 0
+    }
+]

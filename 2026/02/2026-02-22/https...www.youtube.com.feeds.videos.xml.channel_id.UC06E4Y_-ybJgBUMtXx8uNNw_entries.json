@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": null,
+        "author": "TheBackyardScientist",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-15T01:56:01.390128+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-22T03:00:29.939543+00:00",
+        "description": null,
+        "id": 3815610,
+        "language": "en",
+        "link": "https://www.youtube.com/feeds/videos.xml?channel_id=UC06E4Y_-ybJgBUMtXx8uNNw",
+        "manual_status_code": 0,
+        "page_rating": 25,
+        "page_rating_contents": 80,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": true,
+        "source__id": 789,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC06E4Y_-ybJgBUMtXx8uNNw",
+        "status_code": 615,
+        "tags": [],
+        "thumbnail": null,
+        "title": "TheBackyardScientist",
+        "vote": 0
+    }
+]
