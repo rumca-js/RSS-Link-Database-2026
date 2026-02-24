@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Critical Drinker",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-23T19:20:58.272955+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-23T19:00:30+00:00",
+        "description": "Some movies fall apart because of bad decisions, clashing egos or natural disasters, but this is the first one I've seen that looks to have been literally cursed. Join me for a true journey into production hell with the making of The Exorcist.",
+        "id": 4875965,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=WjWmfsqxfmU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 334,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSJPFQdZwrOutnmSFYtbstA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/WjWmfsqxfmU/hqdefault.jpg",
+        "title": "Production Hell - The Exorcist",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "JayzTwoCents",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-24T00:23:51.805652+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-23T23:25:50+00:00",
+        "description": "What really happens if you cheap out on your power supply?\nIn this video, we intentionally undersize a PSU and put it into a high-end gaming PC to see what actually happens under load. Does it just shut off? Does performance tank? Or can it silently damage your components over time?\n\nWe\u2019ll stress test the system, monitor power draw, check for voltage instability, and talk about protections like OCP, OPP, and ripple \u2014 and whether they actually save your hardware. If you\u2019ve ever wondered, \u201cIs 750W enough?\u201d or \u201cCan a weak PSU hurt my GPU or CPU?\u201d \u2014 this is the experiment you\u2019ve been waiting for.\n\nNo fear-mongering. No brand bias. Just real results... \n\nIf you're building a high-performance rig, overclocking, or pushing modern GPUs and CPUs to their limits, this is one component you don\u2019t want to gamble on.\n\u25cb Get your JayzTwoCents Merch Here! - https://www.jayztwocents.com\n\u25cb Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCkWQ0gDrqOCarmUKmppD7GQ/join\n\u25cb Join the ",
+        "id": 4878273,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Dy_kg_CH53E",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 760,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkWQ0gDrqOCarmUKmppD7GQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/Dy_kg_CH53E/hqdefault.jpg",
+        "title": "I pushed this PSU to 140% of its rating to see what would happen...",
+        "vote": 0
+    }
+]

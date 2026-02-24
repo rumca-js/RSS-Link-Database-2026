@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/commonsense34",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-23T15:47:22.686701+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-23T12:58:35+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone,</p> <p>I am writing this because of all the fear-mongering surrounding the safety of Hypervisor based bypasses. After extensively querying AI and searching the net for all possible risks, I came up with a solution that gets as close as possible to an air-gap(i.e. using two independent PCs).</p> <p>What you need:</p> <p>1)Encrypt your \u201csafe\u201d(main) installation with Veracrypt. This protects it against unwanted changes(e.g. viruses) from another compromised OS.</p> <p>2) Create a Veracrypt rescue disk on a FAT32 flash drive by following the application\u2019s instructions. This serves two purposes:</p> <p>First, it allows you to boot directly from the flash drive, bypassing any maliciously modified bootloader. Second, it enables you to restore the original bootloader once it has been altered.</p> <p>3) Install the \u201cunsafe\u201d OS(for Hypervisor games) on a separate physical drive. NOT on another partition of the same drive.</p> <p>Because many modern",
+        "id": 4873814,
+        "language": "en",
+        "link": "https://www.reddit.com/r/CrackWatch/comments/1rcgqme/about_the_security_concerns_of_the_hypervisor",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 528,
+        "source_url": "https://www.reddit.com/r/CrackWatch/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "About the security concerns of the Hypervisor method",
+        "vote": 0
+    }
+]

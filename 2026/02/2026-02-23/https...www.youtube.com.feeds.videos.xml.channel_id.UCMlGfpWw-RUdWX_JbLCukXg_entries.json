@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-23T16:58:55.218485+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-23T16:02:11+00:00",
+        "description": "https://cppcon.org\n---\n\nFix C++ Stack Corruptions with the Shadow Stack Library - Bartosz Moczulski - CppCon 2025\n---\n\nFatal stack micro-corruptions, mysterious segmentation faults, and bus errors tamed live on stage, come and see!\n\nOperating systems, compilers, libraries, and C++ language itself provide multiple tools and abstractions to protect against memory corruptions, both for heap and stack. Standard containers like std::array or std::vector can check rages when accessing members (except the [] operator, by design). GNU C Library (glibc) features MALLOC  CHECK  . Compilers come with address sanitizers and stack protectors onboard. Linux has mprotect(). Lastly, Valgrind can detect hard-to-imagine misbehaviors, although often at a cost that is impossible or impractical to accept. And would you believe that all these countermeasures are sometimes just not enough?! There are treacherous scenarios that can sneak through all of these defense lines and frame perfectly innocent functio",
+        "id": 4874475,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=-Qg0GaONwPE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/-Qg0GaONwPE/hqdefault.jpg",
+        "title": "Fix C++ Stack Corruptions with the Shadow Stack Library - Bartosz Moczulski - CppCon 2025",
+        "vote": 0
+    }
+]

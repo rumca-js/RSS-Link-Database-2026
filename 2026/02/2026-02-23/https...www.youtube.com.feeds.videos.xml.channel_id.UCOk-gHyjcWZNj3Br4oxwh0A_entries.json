@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Techno Tim",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-23T18:36:29.813156+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-23T18:07:32+00:00",
+        "description": "My homelab has changed again\u2026 2026.\nFull rack tour + upgrades: network, compute, storage, and power.\nSelf-hosting guide next - subscribe for the follow up.\n\nGEAR LIST (affiliate)\n\nRack & Accessories\n- 32u Rack https://amzn.to/3TlhdXb\n- 1u Brush Panels https://amzn.to/3hKNiaf\n- 1u Rack Mount Full Depth Shelf https://amzn.to/3jrm5Kp\n- Right Angle Extension Cord https://amzn.to/3Wl7gay\n- UniFi Power Distribution Pro https://l.technotim.com/unifi-power-tech\n\nNetwork\n- Patch Panel https://amzn.to/3YIKtHq\n- Wall Mount Patch Panel https://amzn.to/3WyvnCk\n- UniFi Flex 2.5 Mini https://l.technotim.com/unifi-switches\n- UniFi Fortress Gateway https://l.technotim.com/unifi-gateways\n- UniFi Pro XG 48 PoE https://l.technotim.com/unifi-switches\n\nServers & Accessories\n- UniFi UNAS Pro 4 https://l.technotim.com/unifi-network-storage\n- UniFi UNVR https://l.technotim.com/unifi-nvr\n- MinisForum MS-A1 https://amzn.to/3W6HMja\n- Beelink EQ 14 https://amzn.to/4c66WYd\n- HL15 https://store.45homelab.com/config",
+        "id": 4875501,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=-KJ0jmUgAmw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 911,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCOk-gHyjcWZNj3Br4oxwh0A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/-KJ0jmUgAmw/hqdefault.jpg",
+        "title": "My 2026 Homelab Tour (Rack + Servers + Network + Storage)",
+        "vote": 0
+    }
+]

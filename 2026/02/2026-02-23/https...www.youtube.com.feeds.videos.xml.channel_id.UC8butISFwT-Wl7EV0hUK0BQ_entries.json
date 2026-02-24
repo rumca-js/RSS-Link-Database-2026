@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-23T15:04:31.586369+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-23T13:17:29+00:00",
+        "description": "True or false: computers only understand 1s and 0s...?",
+        "id": 4873230,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/Ai00MsNabaE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/Ai00MsNabaE/hqdefault.jpg",
+        "title": "True or false: computers only understand 1s and 0s...?",
+        "vote": 0
+    }
+]

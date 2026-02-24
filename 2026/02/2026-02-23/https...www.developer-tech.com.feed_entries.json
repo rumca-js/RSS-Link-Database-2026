@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Rene Mulyandari",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-23T15:04:11.145689+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-23T14:36:51+00:00",
+        "description": "<p>When an application slows down, developers are usually the first to investigate. They profile execution paths, analyse database queries, inspect caching layers, and trace API dependencies. Often, everything looks correct. CPU use is stable. Memory pressure is low. Queries are indexed properly. Latency remains. In distributed systems, performance degradation increasingly originates in the network layer [&#8230;]</p>\n<p>The post <a href=\"https://www.developer-tech.com/news/the-infrastructure-decisions-that-developers-rarely-get-a-say-in/\">The infrastructure decisions that developers rarely get a say in</a> appeared first on <a href=\"https://www.developer-tech.com\">Developer Tech News</a>.</p>",
+        "id": 4873206,
+        "language": "en-GB",
+        "link": "https://www.developer-tech.com/news/the-infrastructure-decisions-that-developers-rarely-get-a-say-in",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 92,
+        "source_url": "https://www.developer-tech.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "The infrastructure decisions that developers rarely get a say in",
+        "vote": 0
+    }
+]

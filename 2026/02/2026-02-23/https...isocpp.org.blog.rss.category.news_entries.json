@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Hannes Hauswedell",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-23T23:02:09.683122+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-23T22:19:26+00:00",
+        "description": "<p>\n\tA look back on major design decisions in C++ Ranges and how they may be viewed today.</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://www.youtube.com/watch?v=nficAvk5RA4\" target=\"_blank\">Range adaptors - 5 years after C++20</a></h3>\n\t<p>\n\t\tby Hannes Hauswedell</p>\n</blockquote>\n<p>\n\tWatch now:</p>\n<blockquote>\n\t<div class=\"embed_media\">\n\t\t&lt;iframe allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"\" frameborder=\"0\" height=\"315\" referrerpolicy=\"strict-origin-when-cross-origin\" src=\"https://www.youtube-nocookie.com/embed/nficAvk5RA4?si=w86EVk7oX89uVcPg\" title=\"YouTube video player\" width=\"560\"&gt;&lt;/iframe&gt;</div>\n</blockquote>",
+        "id": 4877690,
+        "language": "en",
+        "link": "https://isocpp.org//blog/2026/02/range-adaptors-5-years-after-cpp20-hannes-hauswedell-meetingc-2025",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Range adaptors \u2013 5 years after C++20 -- Hannes Hauswedell",
+        "vote": 0
+    }
+]

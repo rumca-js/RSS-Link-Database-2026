@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kevin Stratvert",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-23T10:54:44.258370+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-23T08:00:57+00:00",
+        "description": "Google rolled out major upgrades to Gemini inside the Chrome browser in early 2026 \u2014 and they completely change how you work on the web!\n\nYou can now use Google\u2019s AI assistant directly inside Chrome as a built-in panel, without ever navigating to the Gemini website or app. Whether you prefer a clean side panel or a floating window that moves with you, Gemini is now fully integrated into your browsing experience.\n\nEven more impressive, Nano Banana \u2014 Google\u2019s AI image generation tool \u2014 is now built right into the Gemini panel, so you can create images without leaving the page you\u2019re on. And it doesn\u2019t stop there.\n\nWith the new Auto Browse feature, Gemini can actually take control of the browser and complete tasks for you based on your instructions \u2014 helping you research, navigate, and get work done faster. On top of that, Gemini can now connect to your Google apps, meaning it can assist with your Gmail, Calendar, Maps, and more \u2014 bringing real context and productivity directly into your",
+        "id": 4871670,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=gMQkl-8gHOg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 958,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfJT_eYDTmDE-ovKaxVE1ig",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/gMQkl-8gHOg/hqdefault.jpg",
+        "title": "5 New Ways to Use Gemini in the Chrome Browser",
+        "vote": 0
+    }
+]

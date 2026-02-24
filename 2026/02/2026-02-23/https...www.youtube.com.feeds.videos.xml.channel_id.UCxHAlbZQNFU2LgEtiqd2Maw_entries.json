@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "C++ Weekly With Jason Turner",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-23T17:59:08.452061+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-23T16:29:47+00:00",
+        "description": "Jason is joined this week by Jamie Pendergast to discuss the current job market, learning to program, and optimizing compilers.\n\nJamie is a 23 year old hobbyist C++ developer who enjoys building fun, niche, and creative projects - and they have recently taken an interest in compiler theory and development for the sake of fun in learning something new and challenging. Despite having a diverse set of skills in plenty of areas, such as backend development, video game development, and web development, they have been unable to land a job in any technical field.\n\n* [Designated Initializers, the best feature of C++20 \u00b7 Mathieu Ropert] https://mropert.github.io/2026/01/15/designed_initializers/\n* [Support for C++26 Reflection has been merged into GCC trunk! : r/cpp] https://www.reddit.com/r/cpp/comments/1qdn04o/support_for_c26_reflection_has_been_merged_into/\n* [Latest News From Upcoming C++ Conferences (2026-01-14) : r/cpp] https://www.reddit.com/r/cpp/comments/1qcv3n7/latest_news_from_upcom",
+        "id": 4875131,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=vzar4IDKTys",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 48,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxHAlbZQNFU2LgEtiqd2Maw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/vzar4IDKTys/hqdefault.jpg",
+        "title": "Job Hunting and Optimizing Compilers with Jamie Pendergast - CppCast Ep404 - C++ Weekly Ep 521",
+        "vote": 0
+    }
+]

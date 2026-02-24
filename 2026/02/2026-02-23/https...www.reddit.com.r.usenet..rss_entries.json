@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/kareshmon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-23T18:34:49.869330+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-23T17:34:15+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;ve had NZBGet set up with sonarr and radarr for quite awhile and have an older library with a lot of lower quality files and want to upgrade them to better quality automatically. </p> <p>Is something like Huntarr recommended for this? Or can I use my existing sonarr/radarr/indexer stack to do this? Just looking to save time with not having to manually search, pull down better posts I find, and then deleting the ones I&#39;m able to replace. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/kareshmon\"> /u/kareshmon </a> <br/> <span><a href=\"https://www.reddit.com/r/usenet/comments/1rcnyi6/best_way_to_autoupgrade_sonarrradarr_library/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/usenet/comments/1rcnyi6/best_way_to_autoupgrade_sonarrradarr_library/\">[comments]</a></span>",
+        "id": 4875475,
+        "language": "en",
+        "link": "https://www.reddit.com/r/usenet/comments/1rcnyi6/best_way_to_autoupgrade_sonarrradarr_library",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 550,
+        "source_url": "https://www.reddit.com/r/usenet/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Best way to auto-upgrade sonarr/radarr library",
+        "vote": 0
+    }
+]
