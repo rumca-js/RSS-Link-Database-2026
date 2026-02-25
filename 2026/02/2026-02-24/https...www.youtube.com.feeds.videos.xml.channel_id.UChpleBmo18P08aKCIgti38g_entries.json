@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Matt Wolfe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-25T00:02:59.325722+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-24T14:00:00+00:00",
+        "description": "A powerful open-source AI agent sounds cool, but running it yourself can get risky fast.\n\nOpenClaw (aka MoltBot/Clawdbot) runs directly on your machine, meaning it has access to your files, environment variables, and system. That\u2019s why so many people were excited and nervous at the same time.\n\nThe safer move is to self-host it on a VPS.\n\nWith Hostinger, you can run OpenClaw completely isolated from your personal computer, behind proper cloud security, and you don\u2019t have to manually set anything up. Their one-click Docker template deploys it for you in minutes.\n\nHead to hostinger.com/mw10 and use the coupon code MATTWOLFE to try out Clawdbot/MoltBot/OpenClaw easier and more securely.\n\n#AI #Clawdbot #OpenClaw #MoltBot #AItools",
+        "id": 4883406,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/fVFVfO48CQc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 933,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChpleBmo18P08aKCIgti38g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/fVFVfO48CQc/hqdefault.jpg",
+        "title": "How To Self-Host OpenClaw",
+        "vote": 0
+    }
+]

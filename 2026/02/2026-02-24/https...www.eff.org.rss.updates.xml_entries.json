@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Matthew Guariglia",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-25T00:21:27.165564+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-24T23:42:44+00:00",
+        "description": "<div class=\"field field--name-body field--type-text-with-summary field--label-hidden\"><div class=\"field__items\"><div class=\"field__item even\"><p><span>The Secretary of Defense has given </span><a href=\"https://www.npr.org/2026/02/24/nx-s1-5725327/pentagon-anthropic-hegseth-safety\"><span>an ultimatum</span></a><span> to the artificial intelligence company Anthropic in an attempt to bully them into making their technology available to the U.S. military without any restrictions for their use. Anthropic should stick by their principles and refuse to allow their technology to be used in the two ways they have publicly stated they would not support: </span><a href=\"https://www.wired.com/story/backchannel-anthropic-dispute-with-the-pentagon/\"><span>autonomous weapons systems and surveillance</span></a><span>. The Department of Defense has reportedly threatened to label Anthropic a \u201csupply chain risk,\u201d in retribution for not lifting restrictions on how their technology is used. According to <",
+        "id": 4884326,
+        "language": "en",
+        "link": "https://www.eff.org/deeplinks/2026/02/tech-companies-shouldnt-be-bullied-doing-surveillance",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 101,
+        "source_url": "https://www.eff.org/rss/updates.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Tech Companies Shouldn\u2019t Be Bullied Into Doing Surveillance",
+        "vote": 0
+    }
+]

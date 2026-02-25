@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-24T19:29:47.135732+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-24T15:03:00+00:00",
+        "description": "For the first time, an international team of astronomers have mapped the vertical structure of Uranus\u2019s upper atmosphere, uncovering how temperature and charged particles vary with height across the planet.",
+        "id": 4878972,
+        "language": "en-us",
+        "link": "https://www.nasa.gov/image-detail/uranus-january-2025",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 485,
+        "source_url": "https://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Webb Maps Uranus\u2019 Upper Atmosphere",
+        "vote": 0
+    }
+]

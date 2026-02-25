@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-24T19:40:16.326047+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-24T16:30:16+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/N53wMB9d4As\" width=\"480\" alt=\"thumbnail\" title=\"HDMI 2.1 Support Is Coming To Linux With A Catch\" /></p>You probably know that HDMI 2.1 is a no go on Linux with an AMD GPU, well that's only if you're an HDMI Forum member, who says you have to listen to there rules if you just reverse engineer the support.<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />HDMI 2.1 FRL Work: https://github.com/mkopec/linux/tree/hdmi_frl_amd_staging<br />Reddit Post: https://www.reddit.com/r/linux_gaming/comments/1r793et/hdmi_21_frl_looking_for_testers/<br />Xilinux Article:  https://www.phoronix.com/news/AMDGPU-HDMI-2.1-But-Xilinx<br />AMD Thread: https://gitlab.freedesktop.org/drm/amd/-/issues/1417#note_3",
+        "id": 4880385,
+        "language": "en",
+        "link": "https://odysee.com/hdmi-2.1-support-is-coming-to-linux-with:32cefbfec9ba120b269244c31931694c0380e908",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/N53wMB9d4As",
+        "title": "HDMI 2.1 Support Is Coming To Linux With A Catch",
+        "vote": 0
+    }
+]

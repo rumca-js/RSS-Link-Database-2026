@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unreal Engine",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-24T19:37:25.086513+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-24T15:03:30+00:00",
+        "description": "Watch this video to explore how Liquid Swords is using Unreal Engine to develop gritty, open-world action game \u2018Samson\u2019.\n\n\u2018Samson\u2019 is a character-driven action adventure set in Tyndalston, a city with a long memory and bad habits it can\u2019t shake. \n\nYou play Samson McCray, a former enforcer returning home with a massive debt after a heist goes wrong.  Every punch, crash, and choice matters as systems collide, consequences stack, and the clock keeps ticking. \n\nDiscover the UE5 tools that helped bring the game to life. \n\nRead the full interview here: https://epic.gm/dev-interviews-samson\n\nFind out more about creating games in Unreal Engine here: unrealengine.com/uses/games\n\n#Samson, #LiquidSwords, #UnrealEngine, #UE5, #OpenWorld, #ActionGame, #WorldPartition, #PCG, #ChaosDestruction, #Nanite, #Lumen, #VirtualShadowMaps, #UnrealInsights",
+        "id": 4879832,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=hNi62ughNkU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 685,
+        "source_url": "https://youtube.com/channel/UCBobmJyzsJ6Ll7UbfhI4iwQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/hNi62ughNkU/hqdefault.jpg",
+        "title": "Samson | Game Profile | Unreal Engine",
+        "vote": 0
+    }
+]

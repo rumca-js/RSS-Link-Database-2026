@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-24T21:45:48.596599+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-24T20:59:39+00:00",
+        "description": "<div id=\"link_wrapped_content\">\n<body><section class=\"wp-block-bigbite-multi-title\"><div class=\"container\"></div></section>\n\n\n\n<p>You may know the story by now: A Meta exec asked the viral OpenClaw AI tool to triage her inbox and suggest messages to delete, then watched in horror as the agent went rogue and nuked more than 200 emails, her frantic \u201cSTOP OPENCLAW\u201d prompt lost amid the bot\u2019s massive undertaking.</p>\n\n\n\n<p>The twist? The exec was Meta\u2019s lead AI safety officer, Summer Yue.</p>\n\n\n\n<figure class=\"wp-block-pullquote\"><blockquote><p>Yue\u2019s email apocalypse has highlighted a way we can prevent similar agentic AI horror stories.</p></blockquote></figure>\n\n\n\n<p>Yes, Yue unwittingly <a href=\"https://www.reddit.com/r/clawdbot/comments/1rd7zyq/openclaw_nukes_metas_ai_safety_directors_inbox/\">made herself a guinea pig for OpenClaw</a> and its runaway automations\u2013and indeed, pretty much <a href=\"https://www.pcworld.com/article/3064874/openclaw-ai-is-going-viral-dont-install-it.html\">an",
+        "id": 4880944,
+        "language": "en-US",
+        "link": "https://www.pcworld.com/article/3070207/an-ai-agent-nuked-200-emails-this-guardrail-stops-the-next-disaster.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 245,
+        "source_url": "https://www.pcworld.com/index.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Her AI agent nuked 200 emails. This guardrail stops the next disaster",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Lunduke Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-24T22:43:34.631155+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-24T16:22:20+00:00",
+        "description": "\"Age Attestation on Computing Devices\" (Colorado State Bill 26-051) would require age verification on all Operating Systems (both Open Source and proprietary), with fines for violations.\n\nMore from The Lunduke Journal:\nhttps://lunduke.com/",
+        "id": 4881770,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=TNdOuhO5bEg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 616,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkK9UDm_ZNrq_rIXCz3xCGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/TNdOuhO5bEg/hqdefault.jpg",
+        "title": "Democrats Introduce Bill to Require Age Verification on Linux, Windows",
+        "vote": 0
+    }
+]

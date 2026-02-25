@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-24T23:00:45.742543+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-24T21:55:22+00:00",
+        "description": "Boris Cherny, the creator of Claude Code, explains why coding will soon be solved for everyone.",
+        "id": 4882315,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/jnSGYd3gdOs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/jnSGYd3gdOs/hqdefault.jpg",
+        "title": "Coding Will Be Solved For Everybody",
+        "vote": 0
+    }
+]

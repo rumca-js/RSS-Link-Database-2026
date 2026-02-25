@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Joseph Cox",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-24T19:42:16.689899+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-24T15:40:49+00:00",
+        "description": "The creator of Nearby Glasses made the app after reading 404 Media's coverage of how people are using Meta's Ray-Bans smartglasses to film people without their knowledge or consent. \u201cI consider it to be a tiny part of resistance against surveillance tech.\u201d",
+        "id": 4880682,
+        "language": "en",
+        "link": "https://www.404media.co/this-app-warns-you-if-someone-is-wearing-smart-glasses-nearby",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 5,
+        "source_url": "https://www.404media.co/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.404media.co/content/images/2026/02/meta-glasses.png",
+        "title": "This App Warns You if Someone Is Wearing Smart Glasses Nearby",
+        "vote": 0
+    }
+]

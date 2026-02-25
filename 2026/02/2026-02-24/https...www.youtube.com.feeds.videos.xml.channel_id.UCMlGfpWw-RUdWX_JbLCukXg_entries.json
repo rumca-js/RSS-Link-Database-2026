@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-24T22:52:21.621362+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-24T16:02:05+00:00",
+        "description": "https://cppcon.org\n---\n\nFirst Principles While Designing C++ Applications - Prabhu Missier - CppCon 2025\n---\n\n\"The most important single aspect of software development is to be clear about what you are trying to build\" - Bjarne Stroustrup \n \nC++ is widely used in critical real-time systems across various domains such as Aerospace, Automotive and Defense to name a few and these systems usually have long lifecycles with extended maintenance cycles. Serious thought must be put into designing and implementing reliable, secure and maintainable solutions. This talk focuses on the author's first-hand experience with designing and implementing critical real-time systems in C++. Getting your class design right is a key factor in building a robust performant system with a strong foundation. This talk will focus on getting your basics right regardless of which version of C++ you are using. Drawing from his experience, the speaker will discuss aspects of class design, exploring composition and in",
+        "id": 4882175,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=8mLo5gXwn4k",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/8mLo5gXwn4k/hqdefault.jpg",
+        "title": "First Principles While Designing C++ Applications - Prabhu Missier - CppCon 2025",
+        "vote": 0
+    }
+]
