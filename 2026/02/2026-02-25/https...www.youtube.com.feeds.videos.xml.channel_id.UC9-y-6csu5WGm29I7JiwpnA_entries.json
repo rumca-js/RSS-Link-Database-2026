@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Computerphile",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-25T14:06:07.291236+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-25T13:31:16+00:00",
+        "description": "A checksum that's robust & trivial to compute with Matt Godbolt -- Check out Brilliant's courses and start for free at https://brilliant.org/computerphile/ (episode sponsor) -- More links in full description below \u2193\u2193\u2193\n\nComputerphile is supported by Jane Street. Learn more about them (and exciting career opportunities) at: https://jane-st.co/computerphile\n\nThis video was filmed and edited by Sean Riley.\n\nComputerphile is a sister project to Brady Haran's Numberphile. More at https://www.bradyharanblog.com",
+        "id": 4888993,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=_x0vbnUKYSU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 929,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9-y-6csu5WGm29I7JiwpnA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/_x0vbnUKYSU/hqdefault.jpg",
+        "title": "Cyclic Redundancy Check (CRC) - Computerphile",
+        "vote": 0
+    }
+]

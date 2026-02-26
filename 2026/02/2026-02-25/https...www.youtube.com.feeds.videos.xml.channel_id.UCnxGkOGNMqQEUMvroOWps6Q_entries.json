@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "JRE Clips",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-25T19:19:17.789376+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-25T18:01:02+00:00",
+        "description": "Taken from JRE MMA Show #174 w/Terence Crawford\nYouTube: https://youtu.be/huJVFuLmpd0\nJRE on Spotify: https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk",
+        "id": 4891985,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=pLGXjkZ4aEY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 157,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnxGkOGNMqQEUMvroOWps6Q",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/pLGXjkZ4aEY/hqdefault.jpg",
+        "title": "Terence Crawford on Beating Canelo and Retiring for Good",
+        "vote": 0
+    }
+]

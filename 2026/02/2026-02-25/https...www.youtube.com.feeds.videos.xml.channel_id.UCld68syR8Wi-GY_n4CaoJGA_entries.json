@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-25T18:14:48.521592+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-25T16:30:18+00:00",
+        "description": "For a long time Ladybird browser was going to adopt Swift lang but recently they did a port over to Rust and not just that, used AI to start off the port and this lead to a bit of controversy.\n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\nBlog Post: https://ladybird.org/posts/adopting-rust/\nLadybird Swift Issue: https://github.com/LadybirdBrowser/ladybird/issues/933\nPodcast Clip: https://www.youtube.com/watch?v=DSEZ2ZYLdHg\nTwitter Post: https://x.com/awesomekling/status/1822241531501162806\n\n=========Video Platforms==========\n\ud83c\udfa5 React: https://www.youtube.com/@BrodieRobertsonReacts\n\ud83c\udfa5 Podcast: https://techovertea.xyz/youtube\n\ud83c\udfae Gaming: https://brodierobertson.xyz/gaming\n\n==========Social Media==========\n\ud83c\udfa4 Discord: https://brodierobertson.xyz/discord\n\ud83d\udc26 Twitter: https://bro",
+        "id": 4891327,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=lBd5QGjCcGc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/lBd5QGjCcGc/hqdefault.jpg",
+        "title": "Ladybird Browser Gave Up C++ For Rust Lang",
+        "vote": 0
+    }
+]

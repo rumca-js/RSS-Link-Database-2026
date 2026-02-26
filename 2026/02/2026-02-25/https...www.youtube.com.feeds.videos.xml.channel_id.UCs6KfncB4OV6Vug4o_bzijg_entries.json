@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Techlore",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-25T21:35:37.511881+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-25T21:05:44+00:00",
+        "description": "Almost 40 organizations, including Techlore, published an open letter to Google opposing Android Developer Verification, a program that would require all developers to register with Google before distributing apps on Android starting September 2026. Before explaining why we signed, I need to address something: the widely-circulated narrative that Google already backed down from this. They didn't, and that misunderstanding may be the most dangerous part of the story right now.\n\n\u26a1 Sponsored by Kotlin by JetBrains - The language powering Signal, Mullvad VPN, F-Droid, and more. Start building cross-platform services today: https://links.techlore.tech/kotlin \n\n\ud83d\udcf1 RESOURCES IN VIDEO\n\u2022 Read the letter: https://keepandroidopen.org/open-letter/\n\u2022 Get Active & learn More: https://keepandroidopen.org/\n\u2022 F-Droid Blog: https://f-droid.org/en/2026/02/24/open-letter-opposing-developer-verification.html\n\n\ud83d\udd0e RELATED VIDEOS\nhttps://www.youtube.com/watch?v=ZXULhqK-TtQ\nhttps://www.youtube.com/watch?v=wRvqd",
+        "id": 4893027,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=5MZfGq5F1NU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 327,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/5MZfGq5F1NU/hqdefault.jpg",
+        "title": "I Signed a Letter to Google. Here's Why.",
+        "vote": 0
+    }
+]

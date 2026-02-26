@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Veritasium",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-25T21:12:44.255781+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-25T20:28:23+00:00",
+        "description": "How a single hack infected the world\u2019s most important operating system. Sponsored by NordVPN - Get exclusive NordVPN deal here: https://NordVPN.com/veritasium It\u2019s risk free with Nord\u2019s 30 day money-back guarantee!\n\nIf you\u2019re looking for a molecular modelling kit, try Snatoms, a kit I invented where the atoms snap together magnetically - https://ve42.co/SnatomsV \n\nSign up for the Veritasium newsletter for weekly science updates - https://ve42.co/Newsletter \n\n\u2580\u2580\u2580\n0:00 The Free Software Foundation\n5:03 Why is Linux so popular?\n9:57 The XZ Weakness\n12:07 End To End Encryption - SSH\n18:40 How To Compress Data\n23:47 How The .XZ Hack Worked\n34:24 A Bug In Jia\u2019s Code\n38:27 Henry Hacks Derek\n43:16 The Back Door Is Exposed\n47:16 Who is Jia Tan?\n50:33 Open Vs Closed Source\n\n\u2580\u2580\u2580\nA huge thank you to everyone who made this possible:\n\nRich Jones for his openness throughout this project.\n\nDenzel Farmer for his incredible breakdown.\n\nKarsten Nohl @hackingmatters, Yannis Hofmann, and Matthias Marx at ",
+        "id": 4892782,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=aoag03mSuXQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 2,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 379,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/aoag03mSuXQ/hqdefault.jpg",
+        "title": "How One Hack Nearly Took Down The Internet",
+        "vote": 0
+    }
+]

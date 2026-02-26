@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Microsoft",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-25T09:30:12.652628+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-25T09:15:01+00:00",
+        "description": "Munich\u2019s fire department is testing an AI voice bot to handle non\u2011emergency transport calls so dispatchers can focus on emergencies. Built with Microsoft Foundry and Azure AI, it\u2019s designed for multilingual hospital staff, strict data protection and human\u2011in\u2011the\u2011loop control.\n \nRead the full story: https://aka.ms/AAyqix3",
+        "id": 4886999,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=RyBIeZY4Li8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 793,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFtEEv80fQVKkD4h1PF-Xqw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/RyBIeZY4Li8/hqdefault.jpg",
+        "title": "The AI system supporting Munich Fire Department",
+        "vote": 0
+    }
+]

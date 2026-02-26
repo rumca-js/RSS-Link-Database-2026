@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-25T17:20:17.504089+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-25T16:30:18+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/lBd5QGjCcGc\" width=\"480\" alt=\"thumbnail\" title=\"Ladybird Browser Gave Up C++ For Rust Lang\" /></p>For a long time Ladybird browser was going to adopt Swift lang but recently they did a port over to Rust and not just that, used AI to start off the port and this lead to a bit of controversy.<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />Blog Post: https://ladybird.org/posts/adopting-rust/<br />Ladybird Swift Issue: https://github.com/LadybirdBrowser/ladybird/issues/933<br />Podcast Clip: https://www.youtube.com/watch?v=DSEZ2ZYLdHg<br />Twitter Post: https://x.com/awesomekling/status/1822241531501162806<br /><br />=========Video Platforms==========<br />\ud83c\udfa5 React: https://www.youtube.com/",
+        "id": 4890813,
+        "language": "en",
+        "link": "https://odysee.com/ladybird-browser-gave-up-c%2B%2B-for-rust:c09adac05aff3bf4c380e387c752de85eb9164ef",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/lBd5QGjCcGc",
+        "title": "Ladybird Browser Gave Up C++ For Rust Lang",
+        "vote": 0
+    }
+]

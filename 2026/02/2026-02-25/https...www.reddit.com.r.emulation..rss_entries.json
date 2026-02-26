@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/cuavas",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-25T16:22:06.659451+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-25T15:39:21+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><h1><a href=\"https://www.mamedev.org/?p=560\">MAME 0.286</a></h1> <p>It\u2019s time for MAME 0.286, bringing you more adventures in emulation. This month, we\u2019ve added support for SDL3, which will be used by default when building on macOS (the default is still SDL2 on other UNIX-like platforms). You can choose SDL2 or SDL3 by adding <code>OSD=sdl</code> or <code>OSD=sdl3</code> to your build options, respectively. There may be some teething issues, so if you build against SDL3 and things break, let us know.</p> <p>In arcade emulation, we\u2019ve added a rare early version of Mario Bros. (which may have served as the basis for the Apple II port), the original Tecmo release of Back Fire, and the elusive Monkichicchi no Fuwafuwa Puzzle. Outside arcades, dozens of systems have seen updates over the past few weeks, including the ZX Spectrum and its descendants, the Apple II family and clones, the Epson QX-10, the Canon X-07, and the Sharp MZ-80B. There are also some nice",
+        "id": 4890288,
+        "language": "",
+        "link": "https://www.reddit.com/r/emulation/comments/1regkmu/mame_0286",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 475,
+        "source_url": "https://www.reddit.com/r/emulation/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "MAME 0.286",
+        "vote": 0
+    }
+]

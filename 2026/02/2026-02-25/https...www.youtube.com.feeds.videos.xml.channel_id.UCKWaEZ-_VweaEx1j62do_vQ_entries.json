@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-25T13:23:30.833990+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-25T11:01:38+00:00",
+        "description": "Explore the Threat Intelligence Index 2026 \u2192 https://ibm.biz/Bdpi6d   \n\nFor years, stolen credentials were king\u2014the hacker\u2019s attack vector of choice. Until now. \n\nThe 2026 IBM X-Force Threat Intelligence Index reveals a surge in the exploitation of public-facing applications, overtaking identity-based attacks as the top initial access vector.  \n\nWhy are threat actors changing their tactics so dramatically\u2014and what does it mean for defenders? \n\nIn this episode of Security Intelligence, panelists Claire Nu\u00f1ez, Chris Caridi and Joe Xatruch break down the biggest findings from the latest Threat Intelligence Index, plus: \n\n\"-Infostealers that grab AI agents\u2019 \u201csouls\u201d\n\"-Compromised packages that drop AI agents as malware\"\n\"-The AI infrastructure flaws we can\u2019t seem to fix\"\n\"-Why threat intelligence is so siloed\u2014and what we can do about it\"\n\nAll that and more\u2014on Security Intelligence. \n\n00:00 - Introduction \n1:17 - Threat Intelligence Index 2026  \n16:22 - Stealing AI agents\u2019 souls  \n28:03 - A",
+        "id": 4888795,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=vcS02Vl6IU0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/vcS02Vl6IU0/hqdefault.jpg",
+        "title": "Exploits of public-facing apps are surging. Why?",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-25T16:25:02.598314+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-25T16:02:07+00:00",
+        "description": "https://cppcon.org\n---\n\nMatrix Multiplication Deep Dive || Cache Blocking, SIMD & Parallelization - Aliaksei Sala - CppCon 2025\n---\n\nMatrix multiplication is a fundamental operation in scientific computing, game development, AI, and numerous high-performance applications. While its mathematical definition is simple, achieving optimal performance in C++ is far from trivial. \n \nIn this talk, we will explore different optimization techniques for matrix multiplication, from naive implementations to highly tuned versions leveraging modern hardware features. We will cover key performance-enhancing strategies such as loop unrolling, cache blocking, SIMD vectorization, parallelization using threads and more. Through benchmarking and profiling, we will measure the real impact of these optimizations. \n \nBy the end of this session, attendees will gain insights into two critical questions: \n \nHow hard is it to implement an optimized matrix multiplication in C++? How effective is C++ for achieving",
+        "id": 4890365,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=GHctcSBd6Z4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/GHctcSBd6Z4/hqdefault.jpg",
+        "title": "Matrix Multiplication Deep Dive || Cache Blocking, SIMD & Parallelization - Aliaksei Sala - CppCon",
+        "vote": 0
+    }
+]

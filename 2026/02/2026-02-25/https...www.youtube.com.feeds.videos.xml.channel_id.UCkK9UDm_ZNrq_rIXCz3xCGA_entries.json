@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Lunduke Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-25T22:33:25.032292+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-25T22:18:31+00:00",
+        "description": "A new California Law (AB-1043), signed by Governor Gavin Newsom, requires all Operating Systems (from macOS to FreeBSD) to implement age verification, at the system level, this year.\n\nMore from The Lunduke Journal:\nhttps://lunduke.com/",
+        "id": 4893361,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Ie9-kgxKjIc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 616,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkK9UDm_ZNrq_rIXCz3xCGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/Ie9-kgxKjIc/hqdefault.jpg",
+        "title": "California Law to Require Linux, Windows Implement Age Verification by Jan 1, 2027",
+        "vote": 0
+    }
+]

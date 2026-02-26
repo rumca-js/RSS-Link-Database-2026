@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-25T14:01:44.207836+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-25T13:34:10+00:00",
+        "description": "The February 21, 2026 release of DietPi v10.1 introduces new hardware support, expands the software catalog with the WhoDB database management tool, and includes a range of enhancements and bug fixes across supported single-board computers. DietPi: DietPi is a lightweight, Debian-based operating system optimized for single-board computers and embedded devices. It focuses on minimal resource [&#8230;]",
+        "id": 4888982,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/dietpi-february-2026-update-adds-nanopi-zero2-support-and-whodb-database-tool",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "DietPi February 2026 Update Adds NanoPi Zero2 Support and WhoDB Database Tool",
+        "vote": 0
+    }
+]
