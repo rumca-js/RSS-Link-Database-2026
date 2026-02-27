@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-26T17:04:27.048396+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-26T16:02:10+00:00",
+        "description": "https://cppcon.org\n---\n\nChoose the Right C++ Parallelism Tool | Low-Level vs Async vs Coroutines vs Data Parallel - Eran Gilad - CppCon 2025\n---\n\nModern C++ offers a wealth of parallel programming features. Those features belong to four different programming models: low-level, a-sync, cooperative multitasking, and data parallel. The low-level model (or rather, non-model) contains the basic building blocks \u2013 threads, atomics, mutex etc. The a-sync model contains async, future and related classes. The cooperative multitasking model relies on coroutines. Lastly, the data parallel model contains the parallel algorithms. The four models aren\u2019t just different abstraction levels \u2013 each is appropriate for a different program structure. This talk will review the four models, describe the central features used by each model, and discuss the expected use case for each one. Since many of the parallelism features are not new to the language at this point, the talk will not focus on the details of ",
+        "id": 4899318,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=7a9AP4rD08M",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/7a9AP4rD08M/hqdefault.jpg",
+        "title": "Choose the Right C++ Parallelism Tool | Low-Level vs Async vs Coroutines vs Data Parallel",
+        "vote": 0
+    }
+]

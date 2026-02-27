@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-26T23:52:41.587454+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-26T22:28:58+00:00",
+        "description": "By now you probably know about Kent Overstreet's antics in the Linux kernel with BcacheFS but we're not here to talk about that today, instead we're here to talk his AI chat bot which he is convinced is sentient and feels real emotion.\n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\nWebsite: https://poc.bcachefs.org/\nWhite Paper: https://poc.bcachefs.org/paper.pdf\nThe Register: https://www.theregister.com/2026/02/25/bcachefs_creator_ai/\nReddit Post: https://www.reddit.com/r/bcachefs/comments/1rblll1/the_blog_of_an_llm_saying_its_owned_by_kent_and/\nFunny Thread: https://social.vlhl.dev/notice/B3gj1a7Xfl0evR4Hke\nIRC Logs: https://paste.xinu.at/6atmCN\n\n=========Video Platforms==========\n\ud83c\udfa5 React: https://www.youtube.com/@BrodieRobertsonReacts\n\ud83c\udfa5 Podcast: https://techovertea.",
+        "id": 4902186,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=oOzDI3mCv58",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/oOzDI3mCv58/hqdefault.jpg",
+        "title": "BCacheFS Developer Deployed His AI Girlfriend Helper",
+        "vote": 0
+    }
+]

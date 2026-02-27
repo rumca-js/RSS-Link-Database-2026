@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "1littlecoder",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-26T23:14:52.486606+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-26T20:47:42+00:00",
+        "description": "Introducing Nano Banana 2 (Gemini 3.1 Flash Image), our latest state-of-the-art image model. Now you can get the advanced world knowledge, quality and reasoning you love in Nano Banana Pro, at lightning-fast speed.\n\nhttps://blog.google/innovation-and-ai/technology/ai/nano-banana-2/\n\nPrompts:\n\nTesla Cybertruck \nhttps://fal.ai/models/fal-ai/nano-banana-2/edit?share=b4a98205-7917-4783-9b4d-bbe39ddcc551\n\nJohn Wick - https://fal.ai/models/fal-ai/nano-banana-2/edit?share=7bd06e51-f138-4321-8740-281096af3561\n\nHindi - Tamil Translation - https://fal.ai/models/fal-ai/nano-banana-2/edit?share=d1ca1855-b433-49ff-bf49-9a999f2c41d4\n\nHindi - English Translation - https://fal.ai/models/fal-ai/nano-banana-2/edit?share=b81c813b-ce65-4921-bfc9-962ac2687fab\n\n(OpenAI) Gradient Vertical Ad - https://fal.ai/models/fal-ai/nano-banana-2/playground?share=d7c47eb8-4d50-4198-9d22-de709ef3a817\n\nLong Instruction Following Test - https://fal.ai/models/fal-ai/nano-banana-2?share=51b21963-f14c-48e7-87fd-9118212cb959",
+        "id": 4902029,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=bKOmeb8zk0o",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 948,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCpV_X0VrL8-jg3t6wYGS-1g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/bKOmeb8zk0o/hqdefault.jpg",
+        "title": "Google Nano Banana 2 in 12 mins!",
+        "vote": 0
+    }
+]

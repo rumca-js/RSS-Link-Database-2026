@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-26T21:08:06.053662+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-26T14:30:00+00:00",
+        "description": "<p>Apparently Apple thinks nobody with a modern Mac uses spinning rust (hard drives with platters) anymore.</p>\n<p>I plugged in a hard drive from an old iMac into my Mac Studio using my <a href=\"https://amzn.to/4aP7e3d\">Sabrent USB to SATA Hard Drive</a> enclosure, and opened up Disk Utility, clicked on the top-level disk in the sidebar, and clicked 'Erase'.</p>\n<figure class=\"insert-image\"><img src=\"https://www.jeffgeerling.com/blog/2026/securely-erase-hard-drive-macos-tahoe/no-secure-erase-sabrent-media-macos-tahoe-disk-utility.png\"\n alt=\"Secure Erase option missing in macOS Tahoe Disk Utility\" width=\"700\" height=\"auto\">\n</figure>\n\n<p>Lo and behold, there's no 'Security Options' button on there, as there had been since\u2014I believe\u2014the very first version of Disk Utility in Mac OS X!</p>",
+        "id": 4901190,
+        "language": "en",
+        "link": "https://www.jeffgeerling.com/blog/2026/securely-erase-hard-drive-macos-tahoe",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 162,
+        "source_url": "https://www.jeffgeerling.com/blog.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.jeffgeerling.com/blog/2026/securely-erase-hard-drive-macos-tahoe/no-secure-erase-sabrent-media-macos-tahoe-disk-utility.png",
+        "title": "How to Securely Erase an old Hard Drive on macOS Tahoe",
+        "vote": 0
+    }
+]

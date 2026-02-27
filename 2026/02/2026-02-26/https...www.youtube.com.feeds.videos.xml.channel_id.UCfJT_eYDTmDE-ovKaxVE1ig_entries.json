@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kevin Stratvert",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-26T10:03:16.556637+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-26T08:00:16+00:00",
+        "description": "If you\u2019ve been wanting to learn n8n but weren\u2019t sure where to begin, this is the one workflow to build first. You can follow along by hosting n8n on a Hostinger VPS at https://hostinger.com/startn8n and use the coupon code STARTN8N for an extra discount. \n\nIn this video, you\u2019ll create a simple automation that watches your inbox for a specific keyword in the subject line, automatically downloads any attached file, and saves it to a folder in Google Drive, all without writing code. This is perfect for collecting travel receipts, tax documents, event photos, and any other files you need from multiple people. \n\nInstead of sending upload links and walking people through shared folders, you can simply say: \u201cEmail the file and include this keyword.\u201d n8n handles the rest.\n\nIn this video, you\u2019ll learn how to:\n\u2022 Use the Gmail Trigger in n8n\n\u2022 Filter emails using Gmail search syntax\n\u2022 Fetch message data and download attachments\n\u2022 Upload files automatically to Google Drive\n\u2022 Publish the workflow ",
+        "id": 4896225,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=H3HMdmmNuL4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 958,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfJT_eYDTmDE-ovKaxVE1ig",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/H3HMdmmNuL4/hqdefault.jpg",
+        "title": "The One n8n Automation Everyone Should Build",
+        "vote": 0
+    }
+]

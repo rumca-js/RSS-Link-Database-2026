@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Craft Computing",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-26T17:33:48.297275+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-26T16:39:17+00:00",
+        "description": "Thanks to Meter for sponsoring today's episode. If you're interested in learning more about how Meter can help with your IT Infrastructure, go to https://meter.com/craftcomputing to book a demo today.\n\nThe Nvidia Tesla P4 is one of the best addons for your homelab. It's a great for video encoding and decoding, and can even be used for gaming through Nvidia GRID. Today, we're running it on my Supermicro X79 Microcloud to see if this 9 year old card still has what it takes to run modern games.\n\nBut first... What am I drinking???\n\nCoffee. And it's nice and hot thanks to my Insulated Tumbler from https://craftcomputing.store\n\nProxmox vGPU Installation Script: https://github.com/wvthoog/proxmox-vgpu-installer\nPolloLoco's vGPU Installation Guide: https://gitlab.com/polloloco/vgpu-proxmox\nManual vGPU Install Tutorial: https://www.youtube.com/watch?v=jTXPMcBqoi8\n\n*Links to items below may be affiliate links for which I may be compensated*\n\nThe Nvidia Tesla P4 can be found here: https://ebay.u",
+        "id": 4899543,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=xY7vemc5OQI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 909,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCp3yVOm6A55nx65STpm3tXQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/xY7vemc5OQI/hqdefault.jpg",
+        "title": "My Cheapest Combo Yet - Cloud Gaming Server with an X79 Microcloud",
+        "vote": 0
+    }
+]

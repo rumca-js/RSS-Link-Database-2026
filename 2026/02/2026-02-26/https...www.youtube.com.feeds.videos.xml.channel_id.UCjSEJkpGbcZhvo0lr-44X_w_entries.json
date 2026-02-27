@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "TechHut",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-26T19:05:25.980189+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-26T17:34:01+00:00",
+        "description": "Big shout out to Micro Center for sponsoring this video: https://micro.center/3b8d52\nShop AI Workstations and More: https://micro.center/44c80e\nSign Up For a FREE 128gig Flash Drive: https://micro.center/dfa294\nVisit Micro Center News: https://micro.center/6bbda9\n\nI tested Intel's Arc Pro B60 against a used RTX 3090, both 24GB cards at roughly the same price. The B60 absolutely crushed it in transcoding with 26 simultaneous 4K streams at half the power draw. But the 3090 fought back hard on AI workloads thanks to CUDA. So which one actually makes sense for a homelab? Turns out, neither of them is going where I expected.\n\nAll benchmarks were run on Fedora using the same system, same test files, same scripts.\n\nBENCHMARK RESULTS\nSystem: Ryzen 7 3700X, DDR4, Fedora\nBoth cards: 24GB VRAM\nAll results: 3090 / B60\n\nVIDEO ENCODING\nHEVC 4K Encode (fps): 68 / 150\nHEVC 4K to 1080p (fps): 155 / 202\nAV1 4K Encode (fps): N/A / 138\nAV1 4K to 1080p (fps): N/A / 202\nHEVC Quality (VMAF): 85.8 / 89.8\nAV1",
+        "id": 4900335,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=owHOMsux0us",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 430,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjSEJkpGbcZhvo0lr-44X_w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/owHOMsux0us/hqdefault.jpg",
+        "title": "the Intel Arc is AWESOME for Home Servers... but not perfect (yet)",
+        "vote": 0
+    }
+]

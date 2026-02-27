@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "TechHut",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-26T18:27:26.842923+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-26T17:34:01+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/owHOMsux0us\" width=\"480\" alt=\"thumbnail\" title=\"the Intel Arc Pro B60 is AWESOME... but not perfect (yet)\" /></p>Big shout out to Micro Center for sponsoring this video: https://micro.center/3b8d52<br />Shop AI Workstations and More: https://micro.center/44c80e<br />Sign Up For a FREE 128gig Flash Drive: https://micro.center/dfa294<br />Visit Micro Center News: https://micro.center/6bbda9<br /><br />I tested Intel's Arc Pro B60 against a used RTX 3090, both 24GB cards at roughly the same price. The B60 absolutely crushed it in transcoding with 26 simultaneous 4K streams at half the power draw. But the 3090 fought back hard on AI workloads thanks to CUDA. So which one actually makes sense for a homelab? Turns out, neither of them is going where I expected.<br /><br />All benchmarks were run on Fedora using the same system, same test files, same scripts.<br /><br />BENCHMARK RESULTS<br />System: Ryzen 7 3700X, DDR4, Fedora<br />Both cards: 24GB V",
+        "id": 4900053,
+        "language": "en",
+        "link": "https://odysee.com/the-intel-arc-pro-b60-is-awesome...-but:28b8e7c78b9e4f9464ed1fca00c79636b749d82e",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 516,
+        "source_url": "https://odysee.com/$/rss/@TechHut:1",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/owHOMsux0us",
+        "title": "the Intel Arc Pro B60 is AWESOME... but not perfect (yet)",
+        "vote": 0
+    }
+]

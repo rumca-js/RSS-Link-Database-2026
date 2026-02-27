@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "JRE Clips",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-02-26T19:02:53.165996+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-02-26T18:04:26+00:00",
+        "description": "Taken from JRE #2460 w/Rachel Wilson\nYouTube: https://youtu.be/avY3bV5yxMM\nJRE on Spotify: https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk",
+        "id": 4900299,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=Qh-m2Wau3w0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 157,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnxGkOGNMqQEUMvroOWps6Q",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/Qh-m2Wau3w0/hqdefault.jpg",
+        "title": "Rachel Wilson on Margaret Sanger, Eugenics, and the CIA's Ties to Feminism",
+        "vote": 0
+    }
+]
