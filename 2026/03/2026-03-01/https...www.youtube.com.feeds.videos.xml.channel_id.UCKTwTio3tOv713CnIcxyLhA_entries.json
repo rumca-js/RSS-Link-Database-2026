@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": null,
+        "author": "Dungeon Soup",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-20T15:42:46.903313+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-01T18:58:30.886963+00:00",
+        "description": "I am the Wizard King, I do cartoons and things",
+        "id": 3857734,
+        "language": "en",
+        "link": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKTwTio3tOv713CnIcxyLhA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": true,
+        "source__id": 890,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKTwTio3tOv713CnIcxyLhA",
+        "status_code": 200,
+        "tags": [],
+        "thumbnail": "https://yt3.googleusercontent.com/awMsWYMrh5SF0sOJdHoO0xbddkJ4_Dczf2XK6XYyJ_NKeGgKryzFvGnmA1Jo68ZxuwQSikqK=s900-c-k-c0x00ffffff-no-rj",
+        "title": "Dungeon Soup",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ionut Arghire",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-01T19:50:07.333241+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-01T12:30:00+00:00",
+        "description": "<p>The AI was abused to write exploits, create tools, and automatically exfiltrate over 150GB of data.</p>\n<p>The post <a href=\"https://www.securityweek.com/hackers-weaponize-claude-code-in-mexican-government-cyberattack/\">Hackers Weaponize Claude Code in Mexican Government Cyberattack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+        "id": 4909661,
+        "language": "en-US",
+        "link": "https://www.securityweek.com/hackers-weaponize-claude-code-in-mexican-government-cyberattack",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 299,
+        "source_url": "https://www.securityweek.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Hackers Weaponize Claude Code in Mexican Government Cyberattack",
+        "vote": 0
+    }
+]

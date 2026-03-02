@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Waqas",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-01T21:28:29.953358+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-01T21:19:56+00:00",
+        "description": "Fake Xeno and Roblox gaming tools are spreading a Windows RAT (remote access trojan) using PowerShell and LOLBins, Microsoft Threat Intelligence warns.",
+        "id": 4913162,
+        "language": "en-US",
+        "link": "https://hackread.com/microsoft-fake-xeno-roblox-utilities-windows-rat",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 139,
+        "source_url": "https://www.hackread.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Fake Xeno and Roblox Utilities Used to Install Windows RAT, Microsoft Warns",
+        "vote": 0
+    }
+]

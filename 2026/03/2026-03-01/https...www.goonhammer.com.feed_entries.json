@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jonathan Bernhardt",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-01T19:38:38.526621+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-01T18:00:44+00:00",
+        "description": "Content We Liked is here! Editor Bernhardt is covering this week, bringing a somewhat different perspective than usual to the proceedings.",
+        "id": 4909293,
+        "language": "en-GB",
+        "link": "https://www.goonhammer.com/content-we-liked-1st-march-2026",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 136,
+        "source_url": "https://www.goonhammer.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Content We Liked: 1st March, 2026",
+        "vote": 0
+    }
+]

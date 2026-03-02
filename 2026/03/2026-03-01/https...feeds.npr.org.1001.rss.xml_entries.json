@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Nickolai Hammar",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-01T21:24:11.714671+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-01T15:51:44+00:00",
+        "description": "Here's a look at Iran, Israel and reactions from around the world after the U.S. and Israel launched strikes against Iran.",
+        "id": 4913103,
+        "language": "en-US",
+        "link": "https://www.npr.org/2026/03/01/g-s1-112094/iran-war-trump-israel-attack-photos-bahrain",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 242,
+        "source_url": "https://feeds.npr.org/1001/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "undefined",
+        "title": "Photos: U.S.-Israeli strikes in Iran and reactions from around the world",
+        "vote": 0
+    }
+]

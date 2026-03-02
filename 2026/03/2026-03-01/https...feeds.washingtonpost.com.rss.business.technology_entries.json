@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Will Oremus, Scott Nover",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-01T19:25:08.280137+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-01T10:00:44+00:00",
+        "description": "At the 184-year-old Cleveland Plain Dealer, a top editor\u2019s push to let AI draft news articles is boosting traffic \u2014 and spooking staffers.",
+        "id": 4908907,
+        "language": "en-US",
+        "link": "https://www.washingtonpost.com/technology/2026/03/01/ai-journalism-writing-cleveland-plain-dealer",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 364,
+        "source_url": "https://feeds.washingtonpost.com/rss/business/technology",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "An Ohio newspaper has a new star writer. It isn\u2019t human.",
+        "vote": 0
+    }
+]

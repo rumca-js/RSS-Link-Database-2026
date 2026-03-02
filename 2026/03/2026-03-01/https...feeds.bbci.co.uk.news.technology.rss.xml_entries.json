@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-01T19:01:36.036010+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-01T09:25:25+00:00",
+        "description": "Controversial proposals to turn land near HMP Kilmarnock into a technology hub are being advanced by energy company ILI Group.",
+        "id": 4907866,
+        "language": "en-US",
+        "link": "https://www.bbc.com/news/articles/c2d1ny161yyo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 28,
+        "source_url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e22/live/756a0770-13d9-11f1-801d-ed3cff6bf876.png",
+        "title": "Could a huge data centre revitalise Ayrshire - or ruin it?",
+        "vote": 0
+    }
+]

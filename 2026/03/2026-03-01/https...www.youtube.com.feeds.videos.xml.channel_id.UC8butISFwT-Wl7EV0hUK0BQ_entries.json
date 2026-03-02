@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-01T20:53:56.027998+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-01T13:43:25+00:00",
+        "description": "If you want to monetize an open source project, you have to define the problem you're solving and find the right incentives to get people to give you money. Evan discusses this with Quincy on the freeCodeCamp podcast.",
+        "id": 4912440,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/c1Op7YSTwhg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/c1Op7YSTwhg/hqdefault.jpg",
+        "title": "How do you monetize open source? Evan You shares his tips.",
+        "vote": 0
+    }
+]

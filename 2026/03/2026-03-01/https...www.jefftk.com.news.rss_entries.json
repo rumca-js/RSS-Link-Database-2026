@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-01T21:14:03.679797+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-01T08:00:00+00:00",
+        "description": "<p><span>\n\nWe present and formally deprecate WoFBench, a novel test that compares\nthe knowledge of Wings of Fire superfans to frontier AI models.  The\nbenchmark showed initial promise as a challenging evaluation, but\nunfortunately proved to be saturated on creation as AI models produced\noutput that was, to the extent of our ability to score responses,\nstatistically indistinguishable from entirely correct.\n\n</span>\n\n<p>\n\nBenchmarks are important tools for tracking the rapid advancements in\nmodel capabilities, but they are struggling to keep up with LLM\nprogress: frontier models <a href=\"https://www.anthropic.com/news/claude-opus-4-6\">now</a> <a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/\">consistently</a>\n<a href=\"https://openai.com/index/introducing-gpt-5-2/\">achieve</a>\nhigh scores on many popular benchmarks, raising questions about their\ncontinued ability to differentiate between models.\n\n</p>\n\n<p>\n\nIn response, we introduce WoFBench",
+        "id": 4912973,
+        "language": "en-US",
+        "link": "https://www.jefftk.com/p/introducing-and-deprecating-wofbench",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 163,
+        "source_url": "https://www.jefftk.com/news.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.jefftk.com/superfan-2-wofbench-initial-responses.jpg",
+        "title": "Introducing and Deprecating WoFBench",
+        "vote": 0
+    }
+]

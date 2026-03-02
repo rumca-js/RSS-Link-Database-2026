@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-01T19:56:05.702952+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-01T16:30:20+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/xZNh1PP7gfo\" width=\"480\" alt=\"thumbnail\" title=\"Wayland's Weston Might Actually Be Good Now\" /></p>Recently the Weston project decided to add in a new lua shell and this opens up a lot of opportunities for building a custom experience on top of it.<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />Weston Update: https://www.collabora.com/news-and-blog/news-and-events/weston-15-here-lua-shells-vulkan-rendering-smoother-display-stack.html<br /><br />=========Video Platforms==========<br />\ud83c\udfa5 React: https://www.youtube.com/@BrodieRobertsonReacts<br />\ud83c\udfa5 Podcast: https://techovertea.xyz/youtube<br />\ud83c\udfae Gaming: https://brodierobertson.xyz/gaming<br /><br />==========Social Media==========<br />\ud83c\udfa4",
+        "id": 4910172,
+        "language": "en",
+        "link": "https://odysee.com/wayland%27s-weston-might-actually-be-good:20d780b07e26e86a4bb90158e5b0ed12084e4a17",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/xZNh1PP7gfo",
+        "title": "Wayland's Weston Might Actually Be Good Now",
+        "vote": 0
+    }
+]
