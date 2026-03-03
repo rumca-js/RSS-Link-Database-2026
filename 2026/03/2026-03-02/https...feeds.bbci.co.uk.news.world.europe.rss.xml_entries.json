@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-02T20:30:46.366613+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-02T18:16:14+00:00",
+        "description": "Emmanuel Macron said eight countries could enjoy protection from France's nuclear umbrella - but that Paris would retain sole decision-making power.",
+        "id": 4920732,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/cj4zlnezrl7o",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 523,
+        "source_url": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb2e/live/e103afb0-1661-11f1-b1a8-d97a7a8b24a4.jpg",
+        "title": "France to boost nuclear arsenal and extend deterrence to European allies",
+        "vote": 0
+    }
+]

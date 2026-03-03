@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unreal Engine",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-02T18:31:56.354365+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-02T16:22:31+00:00",
+        "description": "Watch this video for a look at Elektrobit\u2019s new digital cockpit product line, the EB civion.\n\nThis suite of HMI solutions is designed to give automotive OEMs better supply chain control and accelerate the development of digital cockpits and applications for software-defined vehicles (SDVs).\n \nEB civion leverages Unreal Engine as a core component of its HMI software stack. Features such as simulated target displays enable rapid prototyping, while Niagara supports dynamic vehicle visual effects, level streaming handles large-scale ADAS data efficiently, and the material system powers real-time sensor visualization. \n\nFind out more about creating automotive human-machine interfaces with Unreal Engine here: unrealengine.com/uses/hmi\n\n#HMI, #HumanMachineInterfaces, #UnrealEngine, #Elektrobit, #EBCivion, #NiagaraVFX, #DigitalCockpit, #SoftwareDefinedVehicles, #ADAS, #CES2026",
+        "id": 4919812,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=ER9B-TKLXXc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 685,
+        "source_url": "https://youtube.com/channel/UCBobmJyzsJ6Ll7UbfhI4iwQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/ER9B-TKLXXc/hqdefault.jpg",
+        "title": "Elektrobit\u2019s EB Civion Digital Cockpit Suite, Powered by Unreal Engine 5",
+        "vote": 0
+    }
+]

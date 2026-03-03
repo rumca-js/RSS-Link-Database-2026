@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unity",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-02T18:31:07.155146+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-02T17:01:07+00:00",
+        "description": "Unity Graph Toolkit provides a graph-based framework for creating your own node-based tools to use in the Unity Editor. Create tools that enable non-technical teammates to build game systems without having to access code. \n\nThis video starts with steps for how to get started with Graph Toolkit. It then uses two sample projects for Graph Toolkit; you\u2019ll see how to expand a visual novel sample with new video and audio nodes, as well as a branching dialogue option. Find the other two-option node sample below.\n\nMore Resources\n\nGraph Toolkit features overview video: https://on.unity.com/GraphToolkitFeatures\n\nGraph Toolkit documentation: https://on.unity.com/GraphToolkitDocumentation\n\nTwo-option node sample:\nhttps://on.unity.com/GraphToolkitSamples\n\nTimestamps:\n\n00:00 Introduction\n00:48 Install Graph Toolkit\n02:32 Create a visual novel sample\n05:26 Two option node\n06:36 Editor tool\n07:52 Create a music node\n13:20 Create a video node",
+        "id": 4919811,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=hPtZzoThU_g",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 683,
+        "source_url": "https://youtube.com/channel/UCG08EqOAXJk_YXPDsAvReSg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/hPtZzoThU_g/hqdefault.jpg",
+        "title": "Unity Graph Toolkit Tutorial",
+        "vote": 0
+    }
+]

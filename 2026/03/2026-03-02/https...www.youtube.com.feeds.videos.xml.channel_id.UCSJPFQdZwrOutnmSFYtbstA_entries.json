@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Critical Drinker",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-02T20:38:48.887912+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-02T18:00:24+00:00",
+        "description": "Isn't it funny how people can completely miss the point of a movie when there's victim points to score, and virtues to signal? Well, let's take a look at the film at the centre of all the BAFTA controversy - the excellent true story of one man's struggle with Tourette's, I Swear.",
+        "id": 4920809,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=VKpc2npfY3Q",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 334,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSJPFQdZwrOutnmSFYtbstA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/VKpc2npfY3Q/hqdefault.jpg",
+        "title": "The Drinker Recommends... I Swear",
+        "vote": 0
+    }
+]

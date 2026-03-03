@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "DistroTube",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-02T16:11:20.165400+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-02T14:00:36+00:00",
+        "description": "The 'wc' command counts the number of lines, words or bytes in a file.\n\n- Count lines (-l) in a file:\n  wc -l path/to/file\n\n- Count words (-w) in a file:\n  wc -w path/to/file\n\n- Count bytes in a file:\n  wc -c path/to/file\n\n- Count characters (-m) in a file, taking multi-byte characters into account:\n  wc -m path/to/file\n\n- Count lines, words, and bytes in a file:\n  wc path/to/file\n  \n- Count lines, words, and bytes from stdin:\n  cat path/to/file | wc\n  NOTE This is NOT a \"useless use of cat\" since the output is slightly different than 'wc file'.\n \n- Get character length of the longest line in a file:\n  wc -L path/to/file\n\nREFERENCED:\n\u25ba https://gitlab.com/dwt1/vidman - Video Man Pages\n\nWANT TO SUPPORT THE CHANNEL? \n\ud83d\udcb0 Patreon: https://www.patreon.com/distrotube \n\ud83d\udcb3 Paypal: https://www.paypal.com/donate/?hosted_button_id=MW3ZFGS8Q9JGW\n\ud83d\udecd\ufe0f Amazon: https://amzn.to/2RotFFi\n\ud83d\udc55 Teespring: https://teespring.com/stores/distrotube\n\nDT ON THE WEB:\n\ud83d\udd78\ufe0f Website: http://distro.tube\n\ud83d\udcc1 GitLab: https://git",
+        "id": 4919127,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=ODkPRwd3l8w",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 95,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVls1GmFKf6WlTraIb_IaJg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/ODkPRwd3l8w/hqdefault.jpg",
+        "title": "'wc' - count words lines and bytes - Video Man Pages",
+        "vote": 0
+    }
+]

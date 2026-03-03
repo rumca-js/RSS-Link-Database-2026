@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "DistroTube",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-02T15:41:48.482790+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-02T14:00:36+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/ODkPRwd3l8w\" width=\"480\" alt=\"thumbnail\" title=\"'wc' - count words lines and bytes - Video Man Pages\" /></p>The 'wc' command counts the number of lines, words or bytes in a file.<br /><br />- Count lines (-l) in a file:<br />  wc -l path/to/file<br /><br />- Count words (-w) in a file:<br />  wc -w path/to/file<br /><br />- Count bytes in a file:<br />  wc -c path/to/file<br /><br />- Count characters (-m) in a file, taking multi-byte characters into account:<br />  wc -m path/to/file<br /><br />- Count lines, words, and bytes in a file:<br />  wc path/to/file<br />  <br />- Count lines, words, and bytes from stdin:<br />  cat path/to/file | wc<br />  NOTE This is NOT a \"useless use of cat\" since the output is slightly different than 'wc file'.<br /> <br />- Get character length of the longest line in a file:<br />  wc -L path/to/file<br /><br />REFERENCED:<br />\u25ba https://gitlab.com/dwt1/vidman - Video Man Pages<br /><br />WANT TO SUPPORT THE C",
+        "id": 4918644,
+        "language": "en",
+        "link": "https://odysee.com/%27wc%27-count-words-lines-and-bytes-video:3643465d0c420f052004c5f5b1ba97fa25162725",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 518,
+        "source_url": "https://odysee.com/$/rss/@DistroTube:2",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/ODkPRwd3l8w",
+        "title": "'wc' - count words lines and bytes - Video Man Pages",
+        "vote": 0
+    }
+]
