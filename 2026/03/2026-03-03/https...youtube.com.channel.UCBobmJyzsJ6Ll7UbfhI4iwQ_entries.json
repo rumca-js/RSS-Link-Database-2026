@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unreal Engine",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-03T17:41:59.416788+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-03T16:00:03+00:00",
+        "description": "Watch this video to discover how Embark Studios leveraged Unreal Engine to craft the expansive open world and gameplay of \u2018ARC Raiders\u2019, while Epic Online Services including voice chat and anti-cheat helped the team with backend services.\n\n\u2018ARC Raiders\u2019 is a critically acclaimed extraction shooter that won Best Multiplayer at The Game Awards 2025.\nThe game sees you deploy into a map full of other players to shoot and loot as much as you can before making an escape.\n\nRead our blog post for the full story of how the team at Embark Studios used Unreal Engine to bring this compelling and atmospheric game to life: https://epic.gm/dev-interviews-arc-raiders\n\n#ARCRaiders, #EmbarkStudios, #UnrealEngine, #UE5, #ExtractionShooter, #GameAwards, #WorldPartition, #RuntimeVirtualTexturing, #UnrealInsights, #EpicOnlineServices, #EasyAntiCheat",
+        "id": 4925440,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=uumyjE6vfdk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 685,
+        "source_url": "https://youtube.com/channel/UCBobmJyzsJ6Ll7UbfhI4iwQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/uumyjE6vfdk/hqdefault.jpg",
+        "title": "ARC Raiders | Game Profile | Unreal Engine",
+        "vote": 0
+    }
+]

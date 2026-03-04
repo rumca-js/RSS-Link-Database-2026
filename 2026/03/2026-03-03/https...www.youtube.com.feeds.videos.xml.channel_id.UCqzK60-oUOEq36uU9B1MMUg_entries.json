@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Julia McCoy",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-03T17:55:59.701528+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-03T15:00:06+00:00",
+        "description": "\ud83d\udc49 Try Abacus AI Deep Agent: https://firstmovers.ai/DeepAgent\n\ud83d\udc49 Watch part 1: https://www.youtube.com/watch?v=Dtt4lO3goBk\n\ud83d\udc49 Watch part 2: https://www.youtube.com/watch?v=CFBZzLU3IQI\n\n*AGI already feels real \u2014 and Abacus AI Deep Agent is running it in production today.*\n\nThe AGI moment didn\u2019t arrive with a headline. It crossed quietly \u2014 when secure infrastructure made autonomous AI agents deployable inside real enterprises.\n\nThis isn\u2019t hype. It\u2019s a pattern: breakthrough \u2192 gap \u2192 crossing. And AI agents just crossed.\n\nInside this breakdown:\n\u2022 Why enterprise AI agents hinge on governance, not just capability\n\u2022 How SOC-2, encryption, RBAC, isolated VMs, and audit logs change deployment\n\u2022 Real demos: contextual memory, code judgment, Slack prioritization, full-stack app design\n\u2022 What the AGI \u201cfelt experience\u201d actually means in production\n\nAI agents are no longer experiments. The infrastructure is credible. The capability is operational.\n\nIf this is what AGI feels like now, what happens as en",
+        "id": 4926162,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=c-uLJVqPkBY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 947,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqzK60-oUOEq36uU9B1MMUg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/c-uLJVqPkBY/hqdefault.jpg",
+        "title": "This Is What AGI Feels Like in Production",
+        "vote": 0
+    }
+]

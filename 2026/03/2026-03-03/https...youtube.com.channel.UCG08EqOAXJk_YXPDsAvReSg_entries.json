@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unity",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-03T17:41:43.600668+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-03T17:01:19+00:00",
+        "description": "The Sprite Atlas feature in Unity optimizes draw calls by packing sprites into a single texture, but what happens when the content you want to pack is generated at runtime, like a personalized character by the player, or a set of game elements unlocked by the player? In Unity 6.4, you can use the new Runtime Atlas API to create an atlas during gameplay. \n\nWatch the full length video for more details: https://on.unity.com/SpriteAtlasBestPractice",
+        "id": 4925437,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/rIWMzg2AatE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 683,
+        "source_url": "https://youtube.com/channel/UCG08EqOAXJk_YXPDsAvReSg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/rIWMzg2AatE/hqdefault.jpg",
+        "title": "Unity Tip: Sprite Atlas at runtime #UnityTipTuesday #Unity3d #UnityLearn #Unity2D",
+        "vote": 0
+    }
+]

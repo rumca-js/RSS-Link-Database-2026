@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-03T07:30:08.457504+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-03T03:59:26+00:00",
+        "description": "The incidents highlight the vulnerability of key technology infrastructure during military conflicts.",
+        "id": 4923708,
+        "language": "en-US",
+        "link": "https://www.bbc.com/news/articles/cgk28nj0lrjo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 28,
+        "source_url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5baa/live/a5e55a50-16b1-11f1-bf96-b78779c3b393.jpg",
+        "title": "Amazon says drones damaged three facilities in UAE and Bahrain",
+        "vote": 0
+    }
+]

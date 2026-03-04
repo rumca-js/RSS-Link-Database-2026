@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Lunduke Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-03T22:57:32.667278+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-03T19:27:31+00:00",
+        "description": "Ubuntu & Elementary OS developers are planning to add age verification functionality, in a way which impacts all Linux users, to comply with a new California law.\n\nUbuntu Mailing List screenshots:\nhttps://x.com/LundukeJournal/status/2028892521116635283\n\nMore from The Lunduke Journal:\nhttps://lunduke.com/",
+        "id": 4927960,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=ISQ8n4b5fw4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 616,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkK9UDm_ZNrq_rIXCz3xCGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/ISQ8n4b5fw4/hqdefault.jpg",
+        "title": "Ubuntu Planning Mandatory Age Verification",
+        "vote": 0
+    }
+]

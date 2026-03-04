@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Web Dev Simplified",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-03T17:57:32.520694+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-03T17:00:13+00:00",
+        "description": "*Master TypeScript utility types* with my *FREE TS Util Types Cheat Sheet* - _18+ types_ \ud83d\udc49 https://webdevsimplified.com/ts-utility-types-cheat-sheet.html\n*Become a senior TypeScript developer* with my *Full TypeScript Course* - _50+ videos, 10+ hours+_ \ud83d\udc49 https://courses.webdevsimplified.com/typescript-simplified/?utm_source=youtube&utm_medium=video-description&utm_term=video-id-63m2vvB4wo4\n\n\nOne of the best features of TypeScript is its inference, but that inference can also be a negative. In this video I talk all about why you may want to use explicit return types in TypeScript since it can solve many common typing issues and in some cases is even required by TypeScript.\n\n\n\ud83d\udcda Materials/References:\n\nFREE TS Utility Types Cheat Sheet: https://webdevsimplified.com/ts-utility-types-cheat-sheet.html\nTypeScript Simplified Course: https://courses.webdevsimplified.com/typescript-simplified/?utm_source=youtube&utm_medium=video-description&utm_term=video-id-63m2vvB4wo4\n\n\n\ud83c\udf0e Find Me Here:\n\nMy Blo",
+        "id": 4926300,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=63m2vvB4wo4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 994,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFbNIlppjAuEX4znoulh0Cw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/63m2vvB4wo4/hqdefault.jpg",
+        "title": "Stop Writing TypeScript Code Like This",
+        "vote": 0
+    }
+]

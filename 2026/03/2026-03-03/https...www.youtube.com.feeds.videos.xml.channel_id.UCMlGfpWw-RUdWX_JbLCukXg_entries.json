@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-03T17:43:27.053063+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-03T16:02:06+00:00",
+        "description": "https://cppcon.org\n---\n\nThreads vs Coroutines \u2014 Why C++ Has Two Concurrency Models - Conor Spilsbury - CppCon 2025\n---\n\nThe C++11 standard introduced a powerful set of tools for concurrency such as threads, mutexes, condition variables, and futures. More recently, C++20 introduced another powerful but fundamentally different concurrency abstraction in the form of coroutines. But coroutines are not just an evolution or a replacement for threads. Instead, they each solve different problems in different ways. Choosing the right tool for the job requires understanding how each works under the hood and where they shine. This talk will help build that intuition by looking at how each interacts with the operating system and hardware which will help make better decisions when choosing which to use. \n \nWe'll explore how threads and synchronization primitives work at the operating-system and hardware level, from thread creation and scheduling to where context switching and synchronization intro",
+        "id": 4925507,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=txffplpsSzg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/txffplpsSzg/hqdefault.jpg",
+        "title": "Threads vs Coroutines \u2014 Why C++ Has Two Concurrency Models - Conor Spilsbury - CppCon 2025",
+        "vote": 0
+    }
+]

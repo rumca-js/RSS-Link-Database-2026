@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-03T17:46:48.258221+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-03T13:21:24+00:00",
+        "description": "Nemesio Oseguera led the feared Jalisco New Generation Cartel until his death as a result of a firefight in February.",
+        "id": 4925682,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/c0j5v6e2py6o",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 524,
+        "source_url": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c9a/live/6ee74820-16ec-11f1-a08f-e920bb46cb87.jpg",
+        "title": "Mexican drug lord 'El Mencho' buried in golden coffin",
+        "vote": 0
+    }
+]

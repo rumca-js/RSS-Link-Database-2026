@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Blog Staff",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-03T21:49:23.682411+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-03T18:48:20+00:00",
+        "description": "<p>\n\tReflection is coming to C++26 and is arguably the most anticipated feature accepted into this version of the standard. With substantial implementation work already done in Clang and GCC, compile-time reflection in C++ is no longer theoretical &mdash; it&rsquo;s right around the corner.</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://semantics.bernardteo.me/2026/01/30/flavours-of-reflection.html\">Flavours of Reflection:&nbsp;Comparing C++26 reflection with similar capabilities in other programming languages</a></h3>\n\t<p>\n\t\tby Bernard Teo</p>\n</blockquote>\n<p>\n\tFrom the article:</p>\n<blockquote>\n\t<p>\n\t\tReflection is imminent. It is set to be part of C++26, and it is perhaps the most anticipated feature accepted into this version of the standard. Lots of implementation work has already been done for&nbsp;<a href=\"https://github.com/bloomberg/clang-p2996/tree/p2996\">Clang</a>&nbsp;and&nbsp;<a href=\"https://gcc.gnu.org/pipermail/gcc-patches/2025-November/700733.html\">GCC</a>&nbsp;&mdash; th",
+        "id": 4927315,
+        "language": "en",
+        "link": "https://isocpp.org//blog/2026/03/flavours-of-reflection-bernard-teo",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Flavours of Reflection -- Bernard Teo",
+        "vote": 0
+    }
+]

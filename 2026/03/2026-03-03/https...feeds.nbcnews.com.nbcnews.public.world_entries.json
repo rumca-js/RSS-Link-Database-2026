@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-03T21:48:01.959846+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-03T21:25:10+00:00",
+        "description": "Secretary of State Marco Rubio spoke to reporters on Capitol Hill while he was there to brief lawmakers on the U.S. military actions in Iran.",
+        "id": 4927301,
+        "language": "en-US",
+        "link": "https://www.nbcnews.com/now/video/rubio-addresses-military-action-in-iran-while-on-capitol-hill-to-brief-lawmakers-258633797598",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 224,
+        "source_url": "https://feeds.nbcnews.com/nbcnews/public/world",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_03/1772573102571_now_daily_b_rubio_iran_strikes_260303_1920x1080-row2c1.jpg",
+        "title": "Rubio addresses military action in Iran while on Capitol Hill to brief lawmakers",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jake Buehler",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-03T17:49:24.863876+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-03T08:30:00+00:00",
+        "description": "Experiment confirms bacteria could survive being blasted off world by impact",
+        "id": 4925841,
+        "language": "en-US",
+        "link": "https://www.science.org/content/article/microbes-might-be-able-planet-hop-asteroid-shrapnel",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 187,
+        "source_url": "https://www.science.org/rss/news_current.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Microbes might be able to planet hop on asteroid shrapnel",
+        "vote": 0
+    }
+]
