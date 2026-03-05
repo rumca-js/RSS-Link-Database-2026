@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-04T19:41:43.186605+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-04T16:30:13+00:00",
+        "description": "You probably know that Ubuntu has adopted uutils and sudo-rs, well in sudo-rs they decided to go and enable pwfeedback and this change was some what controversial so lets talk about it.\n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\npwfeedback CVE: https://www.sudo.ws/security/advisories/pwfeedback/\nSudo-rs change: https://github.com/trifectatechfoundation/sudo-rs/issues/1300\nPassword from Vibration: https://www.royalholloway.ac.uk/research-and-education/departments-and-schools/information-security/news/study-suggests-that-ai-can-detect-your-password-from-the-sound-of-keys-being-pressed/\nUbuntu Bug: https://bugs.launchpad.net/ubuntu/+source/sudo/+bug/194472\nUbuntu Change: https://bugs.launchpad.net/ubuntu/+source/rust-sudo-rs/+bug/2142721\n\n=========Video Platforms=====",
+        "id": 4931310,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=VrgZijnbCZY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/VrgZijnbCZY/hqdefault.jpg",
+        "title": "Sudo-rs Changed A 45 Year Old Security Default",
+        "vote": 0
+    }
+]

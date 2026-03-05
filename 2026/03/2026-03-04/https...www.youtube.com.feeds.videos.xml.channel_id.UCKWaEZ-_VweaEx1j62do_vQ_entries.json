@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-04T19:12:31.495327+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-04T11:01:23+00:00",
+        "description": "Can IAM handle AI? Find out \u2192 https://ibm.biz/BdpYPN\n\nA consumer just wanted to control his own personal robot vacuum with a PlayStation controller. He ended up controlling thousands of strangers\u2019 vacuums, too. \n\nThis week on Security Intelligence, we cover one of the wildest IoT security stories in recent memory: How one user accidentally built an army of 6,700 robot vacuums, and what it means for cybersecurity pros.  \n\nThen we turn to TOAD \u2014 telephone-oriented attack delivery \u2014 a deceptively low-tech social engineering method that's quietly becoming one of attackers' favorite tools. We talk about why it works and what defenders can actually do about an attack that skips most of your defenses entirely. \n\nAnd finally: healthcare's cybersecurity problems. This season of the hit medical drama The Pitt features a hospital-debilitating ransomware attack, which is perhaps one of the most realistic things to ever happen on a show known for its verisimilitude. We explore why ransomware is so",
+        "id": 4931007,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=lc5bp6wVVmQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/lc5bp6wVVmQ/hqdefault.jpg",
+        "title": "Is your robot vacuum safe? Here\u2019s why it matters.",
+        "vote": 0
+    }
+]

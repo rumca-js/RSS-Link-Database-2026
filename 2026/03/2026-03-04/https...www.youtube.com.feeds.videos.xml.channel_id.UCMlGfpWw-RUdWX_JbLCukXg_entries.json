@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-04T16:24:52.219912+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-04T16:02:18+00:00",
+        "description": "https://cppcon.org\n---\n\nFrom Pure ISO C++20 To Compute Shaders - Koen Samyn - CppCon 2025\n---\n\nModern graphics and compute projects still force developers to write every kernel twice\u2014once in C++ for CPU debugging and again in GLSL/HLSL for the GPU.\u202f This session shows how entirely standard C++20 can unify those worlds. C++ features such as constexpr, user defined literals and templates are used to write C++ source code that can be transpiled easily into GLSL or HLSL.\n\nAttendees will learn three reusable techniques:\n\nMetadata as templates, not attributes \u2013 e.g. resources like Buffer\uff1cfloat,0,2\uff1e encode set\u202f&\u202fbinding in ordinary non\u2011type parameters, so any ISO\u2011compliant compiler accepts the code and tooling can reflect it without macros or vendor keywords.\n\nCPU work\u2011group emulation \u2013 std::execution::par_unseq plus a per\u2011group std::barrier faithfully reproduces compute shader parallellism, enabling single\u2011step debugging in a familiar debugger.\n\nAST\u2011driven transpile & reflection \u2013 a lightwe",
+        "id": 4928201,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=hdzhhqvYExE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/hdzhhqvYExE/hqdefault.jpg",
+        "title": "From Pure ISO C++20 To Compute Shaders - Koen Samyn - CppCon 2025",
+        "vote": 0
+    }
+]

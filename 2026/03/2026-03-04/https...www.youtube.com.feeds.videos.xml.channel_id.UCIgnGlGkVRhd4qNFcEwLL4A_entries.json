@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "AI Search",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-04T21:12:10.186149+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-04T03:30:28+00:00",
+        "description": "Why do LLMs hallucinate. H-Neurons review #ai #ainews #agi #llm\n\nThanks to our sponsor Luma AI. Try it today! https://lumalabs.ai/aisearch20\n\nOriginal paper https://arxiv.org/abs/2512.01797\n\n0:00 Intro\n0:39 Why finding hallucinations are challenging\n1:05 AI hallucinations are everywhere\n2:46 Why do hallucinations happen\n3:50 Issues from training\n5:10 How AI works\n6:22 Finding H-Neurons\n12:52 Luma AI\n14:28 Shocking findings\n17:06 Proving causation\n17:52  More crazy findings\n24:55 How to solve hallucinations\n26:20 GPU giveaway\n\nRTX 5090 giveaway: https://ai-search.io/giveaway\nLearn AI: https://ai-search.io/courses\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSupport: https://ko-fi.com/aisearch\n\nHere's my equipment, in case you're wondering:\nLenovo Thinkbook: https://amzn.to/4jWeKwH\nDell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 \nGPU: Nvidia ",
+        "id": 4933349,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=1ONwQzauqkc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 806,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIgnGlGkVRhd4qNFcEwLL4A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/1ONwQzauqkc/hqdefault.jpg",
+        "title": "They solved AI hallucinations!",
+        "vote": 0
+    }
+]

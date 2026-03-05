@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-04T20:18:37.415849+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-04T16:36:00+00:00",
+        "description": "For the first time, a much younger version of the Sun has been caught red-handed blowing bubbles in the galaxy, by astronomers using NASA\u2019s Chandra X-ray Observatory.",
+        "id": 4932011,
+        "language": "en-us",
+        "link": "https://www.nasa.gov/image-detail/astrosphere-xray-infrared-2",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 485,
+        "source_url": "https://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Blowing Stellar Bubbles",
+        "vote": 0
+    }
+]

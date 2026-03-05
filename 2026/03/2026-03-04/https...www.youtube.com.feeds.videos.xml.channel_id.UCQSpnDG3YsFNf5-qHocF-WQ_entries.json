@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ThioJoe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-04T18:39:00.176737+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-04T15:45:04+00:00",
+        "description": "You can double your outputted screen resolution Nvidia and AMD graphics cards. But why?\n\nThere's a nifty feature in both Nvidia and AMD graphics cards which basically tells windows that the monitor resolution is up to double what it actually is. That's 2x for width and height, meaning 4x the pixels. For Nvidia it's called \"DSR\", and for AMD it's called \"Virtual Super Resolution\". But if your monitor's resolution is obviously based on the number of physical pixels on the panel, what's the point of this? I go over several practical reasons, such as getting much higher screen capture quality, fixing mismatched dual monitors, and more. \n\nTime Stamps:\n0:00 - Intro\n0:32 - How to Enable It\n1:39 - Using it in Windows\n2:26 - Scaling is the Key\n3:06 - Benefit For Screencaps\n3:54 - Useful For Mismatched Resolutions\n4:36 - Leave It On All The Time?\n5:25 - The DLDSR Options\n5:55 - Usage in Games\n6:54 - Making Things Look Smaller\n7:29 - A Downside",
+        "id": 4929827,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=UMaXwAfiFjA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 366,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQSpnDG3YsFNf5-qHocF-WQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/UMaXwAfiFjA/hqdefault.jpg",
+        "title": "Double Your Screen Resolution for Free",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-04T18:43:03.329860+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-04T16:30:13+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/VrgZijnbCZY\" width=\"480\" alt=\"thumbnail\" title=\"Sudo-rs Is Finally Showing Password Feedback By Default\" /></p>You probably know that Ubuntu has adopted uutils and sudo-rs, well in sudo-rs they decided to go and enable pwfeedback and this change was some what controversial so lets talk about it.<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />pwfeedback CVE: https://www.sudo.ws/security/advisories/pwfeedback/<br />Sudo-rs change: https://github.com/trifectatechfoundation/sudo-rs/issues/1300<br />Password from Vibration: https://www.royalholloway.ac.uk/research-and-education/departments-and-schools/information-security/news/study-suggests-that-ai-can-detect-your-password-from-the-sound-",
+        "id": 4929965,
+        "language": "en",
+        "link": "https://odysee.com/sudo-rs-is-finally-showing-password:2af6f17359216b22981affd9f7fedc53d1a9990d",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/VrgZijnbCZY",
+        "title": "Sudo-rs Is Finally Showing Password Feedback By Default",
+        "vote": 0
+    }
+]

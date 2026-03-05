@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Learn Linux TV",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-04T22:53:27.771144+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-04T19:30:06+00:00",
+        "description": "In this tutorial we build an automated Linux backup using rsync and a systemd timer.\n\nIn this step-by-step tutorial, we'll create a reliable rsync backup script, test it safely using dry-run mode, and automate it using a systemd service and timer so your backups run automatically. You\u2019ll also learn how to prevent silent backup failures by adding a mount check, and how to integrate healthchecks.io so you get alerts if your backup script fails.\n\nThis tutorial is perfect for Linux users, sysadmins, and homelab enthusiasts who want a simple, reliable, and transparent backup solution without relying on heavy backup software.\n\n*\u2764\ufe0f Consider becoming a Channel Member*\nSupport Linux Learning and gain acess to exclusive perks, such as ad-free content and early access to select videos. Your support really helps!!!\nJoin here \u279c https://learnlinux.link/member\n\n*\ud83d\udecd\ufe0f Support The Channel and Get Awesome Linux Swag!*\nHead on over to the Learn Linux TV Merch Shop and check out some great Linux-themed gea",
+        "id": 4935128,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=F3UzOrEtMYI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 997,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxQKHvKbmSzGMvUrVtJYnUA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/F3UzOrEtMYI/hqdefault.jpg",
+        "title": "How to Automate Linux Backups Using rsync and systemd",
+        "vote": 0
+    }
+]

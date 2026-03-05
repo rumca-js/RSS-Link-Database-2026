@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Rob Braxman Tech",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-04T18:47:59.674670+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-04T17:01:18+00:00",
+        "description": "00:00 - Introduction: The Reality of Age Verification in 2026\n01:39 - Chapter 1: Two Types of Age Verification Mandates Explained\n04:55 - Chapter 2: Deep Dive into Google\u2019s Play Age Signals API\n08:23 - Chapter 3: Microsoft\u2019s Strategy\u2014TPM, MSA, and Windows Hello\n10:34 - Chapter 4: How Protection Flags Become Predator Grooming Tools\n12:34 - Chapter 5: Sidelining Parents and the Illusion of Safety\n13:36 - Chapter 6: The Return of Client-Side Scanning (CSS)\n16:16 - Chapter 7: Impact on De-Googled OS and Linux Distributions\n\nLast year 25 states passed new laws requiring Age verification laws on sites with adult content. While this was pretty bad for Internet Privacy, it was actually trivial to overcome so I did not panic. But CALIFORNIA, decided to up the ante to pass a law that will likely impact all apps that all people use. California now wants age verification to be at the OS Level (Windows, Android, iOS, Linux). Sounds almost minor when you hear it but when you dig into the details, i",
+        "id": 4930051,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=lqt5czOckdw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 466,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYVU6rModlGxvJbszCclGGw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/lqt5czOckdw/hqdefault.jpg",
+        "title": "Age Verification Mandates: The \u2018Protect the Kids\u2019 Scam That\u2019s Building a Permanent Surveillance Grid",
+        "vote": 0
+    }
+]

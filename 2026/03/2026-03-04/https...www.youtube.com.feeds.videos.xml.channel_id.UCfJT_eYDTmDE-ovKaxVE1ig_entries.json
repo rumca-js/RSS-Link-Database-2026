@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kevin Stratvert",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-04T19:32:10.673262+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-04T08:00:31+00:00",
+        "description": "Take more control over your meetings in Microsoft Teams! This video shows 20 features to help power users schedule and facilitate meetings more efficiently. Learn how to define roles, set up meetings to record automatically, and make other configurations when scheduling meetings. You will also see several tools to use during your meetings to manage polls, generate live captions, show PowerPoint presentations the right way, and more. \n\nWhat you\u2019ll learn:\n\u2022 Test your meeting setup and optimize virtual backgrounds\n\u2022 Find the best time to schedule your meetings\n\u2022 Set up meetings more efficiently by setting roles, controlling the lobby, or setting meetings to record automatically\n\u2022 Share your screen or PowerPoint presentations effectively\n\u2022 Enable/disable permissions for meeting attendees\n\u2022 Run a poll during a meeting\n\u2022 Use the Together mode, Gallery view, Speaker view, or hide your own video\n\u2022 Enable live captions\n\u2022 Get help from Copilot during or after a meeting\n\u2022 Use the meeting facilit",
+        "id": 4931210,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=OEXshseuW0s",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 958,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfJT_eYDTmDE-ovKaxVE1ig",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/OEXshseuW0s/hqdefault.jpg",
+        "title": "Microsoft Teams: 20 Meeting Tips & Tricks",
+        "vote": 0
+    }
+]
