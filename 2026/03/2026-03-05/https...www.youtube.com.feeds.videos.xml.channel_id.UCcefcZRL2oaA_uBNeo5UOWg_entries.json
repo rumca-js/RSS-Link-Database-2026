@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-05T15:25:18.986612+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-05T15:15:02+00:00",
+        "description": "Startup School is back!\n\nHear from Jensen Huang, Sam Altman, Alexandr Wang, Jeff Dean, and more.\n\nJoin a hand-selected group of top CS students, researchers, and engineers for two days of talks, sessions with YC partners, and hands-on robotics demos, right here in San Francisco.\n\nRegister to attend at https://events.ycombinator.com/startup-school-2026.",
+        "id": 4939552,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/xTwSk1tEsFE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/xTwSk1tEsFE/hqdefault.jpg",
+        "title": "Startup School 2026",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-05T16:07:48.324408+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-05T12:00:59+00:00",
+        "description": "Ready to become a certified z/OS v3.x Administrator? Register now and use code IBMTechYT20 for 20% off of your exam \u2192 https://ibm.biz/BdpBkr\n\nLearn more about Agentic AI here \u2192 https://ibm.biz/BdpBks\n\nAI agents forget everything after a session, can they be smarter? \ud83e\udd14 Martin Keen breaks down Agentic Storage, showing how it gives LLMs persistent memory using RAG and MCP. Learn how safety layers like sandboxing and immutable versioning make AI systems safer and more reliable. \ud83d\ude80\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/BdpBki\n\n#agenticai #llm #aiworkflow",
+        "id": 4940350,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=TjvT9sI5mLE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/TjvT9sI5mLE/hqdefault.jpg",
+        "title": "What Is Agentic Storage? Solving AI\u2019s Limits with LLMs & MCP",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-05T17:15:03.569212+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-05T16:02:07+00:00",
+        "description": "https://cppcon.org\n---\n\nWait is it POSIX? Investigating Different OS and Library Implementations for Networking - Katherine Rocha - CppCon 2025\n---\n\nWhen it comes to networking, the default is using a library such as Boost or the operating system\u2019s functions, sometimes POSIX sometimes not. However sometimes design requirements lead us to using operating systems that are not Windows or Linux. Even with these constraints we may still want to have more sophisticated capabilities such as networking. There is benefit to these interfaces following existing POSIX API\u2019s, enabling use of libraries such as Boost.Asio and future networking additions to the standard library. In this talk we will be investigating what POSIX networking is through the networking functions in a real time operating system (RTOS). We will look at the RTEMS (an open source Real Time Operating System) implementation of POSIX networking and attempt to utilize Boost.Asio in RTEMS for basic networking. Through this experime",
+        "id": 4941431,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=wDyssd8V_6w",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/wDyssd8V_6w/hqdefault.jpg",
+        "title": "Wait is it POSIX? Investigating Different OS and Library Implementations for Networking - CppCon",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Lena Cohen",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-05T16:38:03.097676+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-05T14:00:38+00:00",
+        "description": "<div class=\"field field--name-body field--type-text-with-summary field--label-hidden\"><div class=\"field__items\"><div class=\"field__item even\"><p><span>We've all had the unsettling experience of seeing an ad online that reveals just how much advertisers know about our lives. You're right to be disturbed. Those very same online ad systems have been used by the government to warrantlessly track peoples' locations, new reporting has confirmed.</span></p>\n<p><span>For years, the internet advertising industry has been sucking up our data, including our location data, to serve us \"</span><a href=\"https://www.eff.org/deeplinks/2022/03/ban-online-behavioral-advertising\"><span>more relevant ads</span></a><span>.\" At the same time, we know that federal law enforcement agencies have been </span><a href=\"https://www.eff.org/deeplinks/2022/06/how-federal-government-buys-our-cell-phone-location-data\"><span>buying up our location data</span></a><span> from shady data brokers that most people have nev",
+        "id": 4940768,
+        "language": "en",
+        "link": "https://www.eff.org/deeplinks/2026/03/targeted-advertising-gives-your-location-government-just-ask-cbp",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 101,
+        "source_url": "https://www.eff.org/rss/updates.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "The Government Uses Targeted Advertising to Track Your Location. Here's What We Need to Do.",
+        "vote": 0
+    }
+]

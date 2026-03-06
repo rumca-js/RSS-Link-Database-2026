@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": null,
+        "author": "Sciencephile the AI",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-26T00:47:09.865711+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-05T00:56:41.723085+00:00",
+        "description": null,
+        "id": 3904237,
+        "language": "en",
+        "link": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7BhHN8NyMMru2RUygnDXSg",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 81,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": true,
+        "source__id": 802,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7BhHN8NyMMru2RUygnDXSg",
+        "status_code": 200,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Sciencephile the AI",
+        "vote": 0
+    }
+]

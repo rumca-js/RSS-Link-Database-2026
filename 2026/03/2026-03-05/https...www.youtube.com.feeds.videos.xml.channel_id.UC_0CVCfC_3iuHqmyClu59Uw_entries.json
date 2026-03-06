@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ETA PRIME",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-05T15:40:06.886606+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-05T15:10:00+00:00",
+        "description": "We are taking an old LCD Steam Deck and turning it into a completely local AI Agent\u2014meet the Steam Deck BMO!\nThis project is fully offline, meaning it doesn't need any cloud services to run (though you can connect it to the web for weather and searches if you want). We're using a quantized 4-Billion parameter GPT model running directly in memory, utilizing the Steam Deck's CPU, GPU, and 16GB of RAM. I ported this over to x86 based on an awesome original ARM/Raspberry Pi project by Brynpoly.\nSteam Deck LCD (Note: I used the LCD model because the OLED currently has audio/mic driver issues with this specific Ubuntu setup!\n\nBuy a used steam deck on eBay: https://ebay.us/5p9Fjj\n\nCheck Out the BMO Build Here by Brepoly: https://www.youtube.com/watch?v=l5ggH-YhuAw&t=1271s\n\nFollow Me On Twitter: https://twitter.com/theetaprime\nFollow Me On Instagram: https://www.instagram.com/etaprime/\n\nVip-URCDKey 25% code for software: ETA Windows 11 Pro Key($25):https://biitt.ly/RUZiX Windows 11 Home Key($",
+        "id": 4939872,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=zGb461BuWls",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 100,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_0CVCfC_3iuHqmyClu59Uw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/zGb461BuWls/hqdefault.jpg",
+        "title": "I Turned My Steam Deck Into A BMO Local Ai Agent!",
+        "vote": 0
+    }
+]

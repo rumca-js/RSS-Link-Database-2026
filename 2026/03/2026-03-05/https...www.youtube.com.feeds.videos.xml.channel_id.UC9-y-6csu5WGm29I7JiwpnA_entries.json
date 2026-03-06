@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Computerphile",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-05T16:49:35.329125+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-05T15:03:25+00:00",
+        "description": "Signal processing is just mathematics, so lets code a guitar sound in C. Dave Domminney Fowler continues the Digital Signal Processing conversation to show how your favourite tunes all rely on DSP. \n\nFind out more from Dave at  @domminney    \n\nComputerphile is supported by Jane Street. Learn more about them (and exciting career opportunities) at: https://jane-st.co/computerphile\n\nThis video was filmed and edited by Sean Riley.\n\nComputerphile is a sister project to Brady Haran's Numberphile. More at https://www.bradyharanblog.com",
+        "id": 4941183,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Ly1v1BRVpz4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 929,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9-y-6csu5WGm29I7JiwpnA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/Ly1v1BRVpz4/hqdefault.jpg",
+        "title": "Coding a Guitar Sound in C - Computerphile",
+        "vote": 0
+    }
+]

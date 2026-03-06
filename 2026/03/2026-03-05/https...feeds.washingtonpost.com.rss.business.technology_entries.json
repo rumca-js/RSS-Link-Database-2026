@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kevin Schaul",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-05T10:38:44.990178+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-05T10:00:28+00:00",
+        "description": "See how anyone can build a working app or website in minutes \u2014 no coding skills required.",
+        "id": 4938678,
+        "language": "en-US",
+        "link": "https://www.washingtonpost.com/technology/interactive/2026/claude-code-cowork-build-apps",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 364,
+        "source_url": "https://feeds.washingtonpost.com/rss/business/technology",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Anyone can code now. What will you build?",
+        "vote": 0
+    }
+]
