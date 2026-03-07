@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "iFixit",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-06T22:52:03.184957+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-06T18:54:14+00:00",
+        "description": "Do you have a multimeter? If not, you should. A multimeter is a cheap and essential tool for electronics diagnostics and repair.\n\nA multimeter is actually multiple tools crammed into one, a true Swiss Army Knife of electrical forensics. It can help you figure out where electricity is flowing: it tests for AC/DC voltage and current, continuity, resistance, capacitance, diodes, and non-contact voltage. \n\nYou can use it to check the voltage in an outlet, test old batteries in a drawer, and figure out exactly what part of a gadget has gone bad.\n\nGrab your Digital Multimeter today!\nhttps://www.ifixit.com/products/digital-multimeter\n\niFixit multimeter repair and maintenance guide: https://www.ifixit.com/Device/iFixit_Digital_Multimeter\n\nHow to use the iFixit digital multimeter: https://www.ifixit.com/Wiki/How_to_Use_Your_iFixit_CM-D20_Digital_Multimeter\n\niFixit\u2019s basic soldering guide: https://www.ifixit.com/Guide/How+To+Solder+and+Desolder+Connections/750\n\nJoin iFixit\u2019s Soldering School!\nh",
+        "id": 4950639,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=oI_CJA31GV4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 996,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHbx9IUW7eCeJsC4sBCTNBA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/oI_CJA31GV4/hqdefault.jpg",
+        "title": "Beginner\u2019s Guide to Using a Digital Multimeter",
+        "vote": 0
+    }
+]

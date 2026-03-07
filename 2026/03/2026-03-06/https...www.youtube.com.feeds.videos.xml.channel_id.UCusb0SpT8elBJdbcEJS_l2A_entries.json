@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": null,
+        "author": "Tale Foundry",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-27T00:51:22.229631+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-06T07:46:19.804391+00:00",
+        "description": null,
+        "id": 3910387,
+        "language": "en",
+        "link": "https://www.youtube.com/feeds/videos.xml?channel_id=UCusb0SpT8elBJdbcEJS_l2A",
+        "manual_status_code": 0,
+        "page_rating": 12,
+        "page_rating_contents": 40,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": true,
+        "source__id": 865,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCusb0SpT8elBJdbcEJS_l2A",
+        "status_code": 614,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Tale Foundry",
+        "vote": 0
+    }
+]

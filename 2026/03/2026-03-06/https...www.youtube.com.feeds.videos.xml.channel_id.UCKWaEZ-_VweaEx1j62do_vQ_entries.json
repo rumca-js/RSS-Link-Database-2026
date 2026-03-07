@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-06T12:09:03.179560+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-06T11:01:15+00:00",
+        "description": "Visit Mixture of Experts podcast page to get more AI content \u2192 https://ibm.biz/Bdp2fD\n\nIs Perplexity still focused on search? This week on Mixture of Experts, Host Tim Hwang is joined by Gabe Goodhart, Chris Hay and Aaron Baughman to break down what Perplexity Computer really offers\u2014and whether closed systems can compete with open alternatives like OpenClaw, LangGraph and AutoGPT. Next, Anthropic introduces memory import for Claude. Is memory still a competitive moat, or can users now seamlessly switch between AI providers? Then, meet NullClaw, a minimalist agent framework that runs on just 678 kilobytes. Our experts debate whether edge-based agent swarms are the future\u2014or just clever marketing. Finally, Particle6 unveils Tilly Norwood, the world\u2019s first AI actor. Would you give an Oscar to an algorithm? All that and more on this week\u2019s Mixture of Experts. \n\n00:00 -- Introduction \n1:07 -- Perplexity Computer \n11:23 -- Claude Import Memory \n24:14 -- NullClaw \n35:14 -- Tilly Norwood \n\nT",
+        "id": 4945275,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=iXAgtR-DO3I",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/iXAgtR-DO3I/hqdefault.jpg",
+        "title": "Inside Perplexity Computer\u2019s agent platform",
+        "vote": 0
+    }
+]

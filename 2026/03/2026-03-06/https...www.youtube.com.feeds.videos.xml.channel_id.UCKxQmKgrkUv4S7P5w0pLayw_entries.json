@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": null,
+        "author": "Comics Explained",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-27T00:48:22.683617+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-06T07:04:49.550577+00:00",
+        "description": null,
+        "id": 3910347,
+        "language": "en",
+        "link": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKxQmKgrkUv4S7P5w0pLayw",
+        "manual_status_code": 0,
+        "page_rating": 12,
+        "page_rating_contents": 40,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": true,
+        "source__id": 869,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKxQmKgrkUv4S7P5w0pLayw",
+        "status_code": 614,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Comics Explained",
+        "vote": 0
+    }
+]

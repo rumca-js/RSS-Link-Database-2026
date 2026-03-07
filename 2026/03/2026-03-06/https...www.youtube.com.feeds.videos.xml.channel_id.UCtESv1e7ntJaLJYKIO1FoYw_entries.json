@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": null,
+        "author": "Periodic Videos",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-27T00:50:32.342185+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-06T07:33:55.673514+00:00",
+        "description": null,
+        "id": 3910375,
+        "language": "en",
+        "link": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtESv1e7ntJaLJYKIO1FoYw",
+        "manual_status_code": 0,
+        "page_rating": 12,
+        "page_rating_contents": 40,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": true,
+        "source__id": 853,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtESv1e7ntJaLJYKIO1FoYw",
+        "status_code": 614,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Periodic Videos",
+        "vote": 0
+    }
+]

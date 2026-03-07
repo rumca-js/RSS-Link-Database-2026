@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": null,
+        "author": "Cool Worlds",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-27T00:48:31.005164+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-06T07:06:49.425608+00:00",
+        "description": null,
+        "id": 3910349,
+        "language": "en",
+        "link": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGHZpIpAWJQ-Jy_CeCdXhMA",
+        "manual_status_code": 0,
+        "page_rating": 12,
+        "page_rating_contents": 40,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": true,
+        "source__id": 834,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGHZpIpAWJQ-Jy_CeCdXhMA",
+        "status_code": 614,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Cool Worlds",
+        "vote": 0
+    }
+]

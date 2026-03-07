@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NetworkChuck",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-06T23:01:27.186071+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-06T16:16:52+00:00",
+        "description": "Level up your prompting skills with Coursera: https://ntck.co/coursera\n\nWatch the full video: https://youtu.be/pwWBcsxEoLk\n\n#ai #prompting #chatgpt #claude #promptengineering",
+        "id": 4950763,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/X-3aaDeP9Rw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 565,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9x0AN7BWHpCDHSm9NiJFJQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/X-3aaDeP9Rw/hqdefault.jpg",
+        "title": "the prompting trick nobody teaches you",
+        "vote": 0
+    }
+]

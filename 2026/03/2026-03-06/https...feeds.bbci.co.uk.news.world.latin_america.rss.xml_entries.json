@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-06T17:04:54.905561+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-06T16:42:25+00:00",
+        "description": "The BBC's Will Grant spoke to several Cubans as the country grapples with severe electricity shortages, which is attributed in part to US sanctions.",
+        "id": 4947905,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/videos/cn0ewj0e7j1o",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 524,
+        "source_url": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6dd0/live/3f8178f0-196f-11f1-b048-c9424b2cf5fd.jpg",
+        "title": "BBC looks at how Cubans are living with fuel shortages",
+        "vote": 0
+    }
+]

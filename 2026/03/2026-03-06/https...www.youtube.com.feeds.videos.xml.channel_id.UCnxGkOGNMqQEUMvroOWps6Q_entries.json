@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "JRE Clips",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-06T23:16:12.289785+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-06T18:00:08+00:00",
+        "description": "Taken from JRE MMA Show #175 w/Shakur Stevenson\nYouTube: https://youtu.be/6VFZlIwwRKc\nJRE on Spotify: https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk",
+        "id": 4950927,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=3ztwvQ5WBgk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 157,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnxGkOGNMqQEUMvroOWps6Q",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/3ztwvQ5WBgk/hqdefault.jpg",
+        "title": "Shakur Stevenson on Beating Teofimo Lopez and Training with Terence Crawford",
+        "vote": 0
+    }
+]

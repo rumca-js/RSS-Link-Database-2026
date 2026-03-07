@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeff Geerling",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-06T23:36:23.183974+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-06T15:00:16+00:00",
+        "description": "A man with a watch knows what time it is.\n\nMentioned in this video (some links are affiliate links):\n\n  - Excuse me, what precise time is it? https://media.ccc.de/v/39c3-excuse-me-what-precise-time-is-it\n  - PTP Wallclock open source project: https://github.com/Gemini2350/ptp-wallclock\n  - My blog post on the setup: https://www.jeffgeerling.com/blog/2026/ptp-wall-clock-impractical-too-precise/\n  - Geerling Engineering video on the Blues game and PTP: https://www.youtube.com/watch?v=8Ar4wmA4ujM\n  - Video on the Pico GPS mini rack clock: https://www.youtube.com/watch?v=E5qA4fgdS28\n  - Video on the Mitxela Precision Clock Mk IV: https://www.youtube.com/watch?v=aBDgD032DEI\n\nParts needed for the build:\n\n  - Raspberry Pi 4 B: https://www.raspberrypi.com/products/raspberry-pi-4-model-b/\n  - Adafruit RGB Matrix HAT: https://www.adafruit.com/product/2345\n  - (2x) Waveshare 64x32 LED RGB Matrix Panel: https://www.waveshare.com/RGB-Matrix-P3-64x32.htm\n  - 3D Printable joining bracket: https://ww",
+        "id": 4951147,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=7r-cH1tcl_g",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 161,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR-DXc1voovS8nhAvccRZhg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/7r-cH1tcl_g/hqdefault.jpg",
+        "title": "I built a new clock, and now I'm not sure what time it is",
+        "vote": 0
+    }
+]

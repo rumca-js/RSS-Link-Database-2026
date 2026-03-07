@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": null,
+        "author": "Bricky",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-27T00:47:56.873973+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-06T06:58:50.740000+00:00",
+        "description": null,
+        "id": 3910342,
+        "language": "en",
+        "link": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqdcfoz9hDXCXbJDaklkwjQ",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 81,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": true,
+        "source__id": 816,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqdcfoz9hDXCXbJDaklkwjQ",
+        "status_code": 200,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Bricky",
+        "vote": 0
+    }
+]

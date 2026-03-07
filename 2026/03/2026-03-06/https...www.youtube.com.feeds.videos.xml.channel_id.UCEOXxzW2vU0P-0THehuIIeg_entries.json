@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": null,
+        "author": "Captain Disillusion",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-27T00:48:01.269636+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-06T07:00:16.695641+00:00",
+        "description": null,
+        "id": 3910343,
+        "language": "en",
+        "link": "https://www.youtube.com/feeds/videos.xml?channel_id=UCEOXxzW2vU0P-0THehuIIeg",
+        "manual_status_code": 0,
+        "page_rating": 12,
+        "page_rating_contents": 40,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": true,
+        "source__id": 815,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCEOXxzW2vU0P-0THehuIIeg",
+        "status_code": 614,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Captain Disillusion",
+        "vote": 0
+    }
+]

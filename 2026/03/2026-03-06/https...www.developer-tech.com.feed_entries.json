@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ryan Daws",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-06T11:22:18.148419+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-06T10:12:02+00:00",
+        "description": "<p>Evaluating LLMs for mobile programming tasks has become easier with Google introducing a leaderboard that benchmarks how well AI models handle Android development. Engineering teams often struggle to gauge which tools actually understand platform nuances. By setting a reliable baseline, software developers can identify capability gaps and pick models that actually improve app quality. Benchmarking [&#8230;]</p>\n<p>The post <a href=\"https://www.developer-tech.com/news/google-intros-benchmark-ai-models-for-android-development/\">Google intros benchmark of AI models for Android development</a> appeared first on <a href=\"https://www.developer-tech.com\">Developer Tech News</a>.</p>",
+        "id": 4943790,
+        "language": "en-GB",
+        "link": "https://www.developer-tech.com/news/google-intros-benchmark-ai-models-for-android-development",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 92,
+        "source_url": "https://www.developer-tech.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Google intros benchmark of AI models for Android development",
+        "vote": 0
+    }
+]

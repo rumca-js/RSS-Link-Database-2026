@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": null,
+        "author": "Real Science",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-27T00:50:44.730251+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-06T07:37:10.914425+00:00",
+        "description": null,
+        "id": 3910378,
+        "language": "en",
+        "link": "https://www.youtube.com/feeds/videos.xml?channel_id=UC176GAQozKKjhz62H8u9vQQ",
+        "manual_status_code": 0,
+        "page_rating": 12,
+        "page_rating_contents": 40,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": true,
+        "source__id": 859,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC176GAQozKKjhz62H8u9vQQ",
+        "status_code": 614,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Real Science",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": null,
+        "author": "JaDropping Science",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-27T00:49:25.271162+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-06T07:21:23.458264+00:00",
+        "description": null,
+        "id": 3910361,
+        "language": "en",
+        "link": "https://www.youtube.com/feeds/videos.xml?channel_id=UCK70H_67YRgeA513ZHA2TIg",
+        "manual_status_code": 0,
+        "page_rating": 12,
+        "page_rating_contents": 40,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": true,
+        "source__id": 846,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCK70H_67YRgeA513ZHA2TIg",
+        "status_code": 614,
+        "tags": [],
+        "thumbnail": null,
+        "title": "JaDropping Science",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/Loud_Ice4487",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-06T12:42:42.554954+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-06T12:09:14+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>I\u2019m automating a website workflow using <strong>Python + Playwright</strong>. Initially I faced <strong>Cloudflare Turnstile</strong> issues, but I managed to get past that by connecting Playwright to my <strong>real Chrome browser using CDP</strong>.</p> <p>The automation works now, but after running it multiple times <strong>my IP starts getting blocked</strong>, which breaks the workflow.</p> <p>I wanted to ask:</p> <ul> <li>Is there a <strong>better way to manage the browser/session</strong> for this kind of automation?</li> <li>Can services like <strong>Browserless or remote browsers</strong> help avoid this issue?</li> <li>Has anyone tried integrating <strong>AI coding agents (like Claude Code)</strong> for handling this kind of automation?</li> <li>How do people usually run <strong>Playwright on protected sites</strong> without getting blocked?</li> </ul> <p>Looking for a <strong>simple and stable approach</strong> if anyone has experience with",
+        "id": 4945717,
+        "language": "en",
+        "link": "https://www.reddit.com/r/webscraping/comments/1rmcapo/how_to_handle_ip_blocks_with_playwright",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 467,
+        "source_url": "https://www.reddit.com/r/webscraping/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "how to handle IP blocks with Playwright + Cloudflare Turnstile?",
+        "vote": 0
+    }
+]

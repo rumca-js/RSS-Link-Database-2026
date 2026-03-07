@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": null,
+        "author": "Science Time",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-27T00:50:52.349916+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-06T07:38:58.486697+00:00",
+        "description": null,
+        "id": 3910380,
+        "language": "en",
+        "link": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxoz4YfS4M3H3C57FD4jW4Q",
+        "manual_status_code": 0,
+        "page_rating": 12,
+        "page_rating_contents": 40,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": true,
+        "source__id": 820,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxoz4YfS4M3H3C57FD4jW4Q",
+        "status_code": 614,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Science Time",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": null,
+        "author": "CBR",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-27T00:48:05.836547+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-06T07:01:07.607910+00:00",
+        "description": null,
+        "id": 3910344,
+        "language": "en",
+        "link": "https://youtube.com/channel/UCuCk_7b2_4uSr6y5hFmjuMQ",
+        "manual_status_code": 0,
+        "page_rating": 19,
+        "page_rating_contents": 60,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": true,
+        "source__id": 872,
+        "source_url": "https://youtube.com/channel/UCuCk_7b2_4uSr6y5hFmjuMQ",
+        "status_code": 614,
+        "tags": [],
+        "thumbnail": null,
+        "title": "CBR",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": null,
+        "author": "The Thought Emporium",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-27T00:51:45.834464+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-06T07:49:07.988811+00:00",
+        "description": null,
+        "id": 3910391,
+        "language": "en",
+        "link": "https://www.youtube.com/feeds/videos.xml?channel_id=UCV5vCi3jPJdURZwAOO_FNfQ",
+        "manual_status_code": 0,
+        "page_rating": 12,
+        "page_rating_contents": 40,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": true,
+        "source__id": 849,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCV5vCi3jPJdURZwAOO_FNfQ",
+        "status_code": 614,
+        "tags": [],
+        "thumbnail": null,
+        "title": "The Thought Emporium",
+        "vote": 0
+    }
+]

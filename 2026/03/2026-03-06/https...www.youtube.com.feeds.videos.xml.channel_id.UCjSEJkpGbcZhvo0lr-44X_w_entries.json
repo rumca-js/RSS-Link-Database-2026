@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "TechHut",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-06T17:42:40.961706+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-06T15:12:03+00:00",
+        "description": "Go to https://surfshark.com/techhut or use code TECHHUT at checkout to get 4 extra months of Surfshark VPN!\n\nOverseerr and Jellyseerr have merged into a single app called Seer, and in this video we're migrating my existing Overseerr instance over and taking a look at what makes this tool so great for managing your media server requests.\n\nFull Writeup: https://techhut.tv/seerr-overseerr-migration\nCompose files: https://github.com/TechHutTV/homelab/tree/main/media\n\nWhether you're running Plex or Jellyfin, Seer gives your users a clean and beautiful way to discover and request content that ties right into your Sonarr and Radarr setup. We also go over the Docker Compose stack so you can get this spun up nice and easy.\n\n0:00 - Overseerr is Now Seer\n0:53 - Sponsor: Surfshark\n2:19 - How to Migrate from Overseerr to Seer\n3:12 - Migration on Unraid\n4:50 - Updating the Container Settings\n6:23 - Verifying the Migration Worked\n6:56 - Seer Overview & Sonarr/Radarr Setup\n8:09 - Managing Users & Req",
+        "id": 4948264,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Kdq4HN3cFmw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 1,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 430,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjSEJkpGbcZhvo0lr-44X_w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/Kdq4HN3cFmw/hqdefault.jpg",
+        "title": "You need to DITCH Overseerr and Migrate to Seerr",
+        "vote": 0
+    }
+]

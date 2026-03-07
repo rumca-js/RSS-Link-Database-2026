@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-06T19:36:52.453539+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-06T18:03:29+00:00",
+        "description": "An exclusive look at how we designed this week\u2019s cover",
+        "id": 4949178,
+        "language": "en",
+        "link": "https://www.economist.com/the-world-this-week/2026/03/06/cover-story-newsletter-a-war-without-a-strategy",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 337,
+        "source_url": "https://www.economist.com/the-world-this-week/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Cover Story newsletter: A war without a strategy",
+        "vote": 0
+    }
+]

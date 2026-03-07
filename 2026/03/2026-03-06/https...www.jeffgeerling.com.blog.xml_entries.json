@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-06T16:44:27.834330+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-06T09:00:00+00:00",
+        "description": "<p>After seeing Oliver Ettlin's 39C3 presentation <a href=\"https://media.ccc.de/v/39c3-excuse-me-what-precise-time-is-it\">Excuse me, what precise time is It?</a>, I wanted to replicate the PTP (<a href=\"https://en.wikipedia.org/wiki/Precision_Time_Protocol\">Precision Time Protocol</a>) clock he used live to demonstrate PTP clock sync:</p>\n<figure class=\"insert-image\"><img src=\"https://www.jeffgeerling.com/blog/2026/ptp-wall-clock-impractical-too-precise/39c3-oliver-ettlin-ptp-clock.jpg\"\n alt=\"Oliver Ettlin with PTP wallclock at 39C3\" width=\"700\" height=\"auto\">\n</figure>\n\n<p>I pinged him on LinkedIn inquiring about the build (I wasn't the only one!), and shortly thereafter, he published <a href=\"https://github.com/Gemini2350/ptp-wallclock\">Gemini2350/ptp-wallclock</a>, a repository with rough instructions for the build, and his C++ application to display PTP time (if available on the network) on a set of two LED matrix displays, using a Raspberry Pi.</p>",
+        "id": 4947648,
+        "language": "en",
+        "link": "https://www.jeffgeerling.com/blog/2026/ptp-wall-clock-impractical-too-precise",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 162,
+        "source_url": "https://www.jeffgeerling.com/blog.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.jeffgeerling.com/blog/2026/ptp-wall-clock-impractical-too-precise/39c3-oliver-ettlin-ptp-clock.jpg",
+        "title": "A PTP Wall Clock is impractical and a little too precise",
+        "vote": 0
+    }
+]

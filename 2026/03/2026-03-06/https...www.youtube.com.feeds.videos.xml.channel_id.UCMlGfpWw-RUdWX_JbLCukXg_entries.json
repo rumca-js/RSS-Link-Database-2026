@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-06T23:28:40.784248+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-06T20:02:23+00:00",
+        "description": "https://cppcon.org\n---\n\nEnd-to-End Latency Metrics From Distributed Trace - Kusha Maharshi - CppCon 2025\n---\n\nIn this talk, we'll delve into how we utilized distributed trace to address a prevalent need at a large technology company that serves the finance industry: timing requests from point A to point Z in a complex system, where a whole alphabet's worth of steps occur in between. We'll show how tracing, an open source telemetry standard, helped us generate insights from tracking requests in a complicated, microservices-driven architecture. We'll discuss the challenges faced and lessons learned while building a C++ solution that turns trace data into end-to-end latency metrics. We hope to inspire attendees to apply these lessons to telemetry solutions tailored to their own firms' needs. \n \nDistributed tracing was introduced within our company before it was a stable, open standard. We saw its potential and invested in solutions that utilized its rich, cross-service information. Howev",
+        "id": 4951064,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=0bPqGN5J7f0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/0bPqGN5J7f0/hqdefault.jpg",
+        "title": "End-to-End Latency Metrics From Distributed Trace - Kusha Maharshi - CppCon 2025",
+        "vote": 0
+    }
+]
