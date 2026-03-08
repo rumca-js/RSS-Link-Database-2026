@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Scott Manley",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-07T19:02:07.624603+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-07T17:43:45+00:00",
+        "description": "There are limits on conventional jet engines as the supersonic air entering the engine slows down and heats up to the point it can damage the engine, even ramjets have problems above about mach 5 as more of the pressure is lost to heat during the compression stage of the engine. Scramjets are jet engines which don't slow the air to subsonic speeds, so they lose less to heat and can continue to operate up to speeds of at least Mach 9, and probably more.\n\n\nFollow me on Twitter for more updates:\nhttps://twitter.com/DJSnM\n\nI have a discord server where I regularly turn up:\nhttps://discord.gg/zStmKbM\n\nIf you really like what I do you can support me directly through Patreon\nhttps://www.patreon.com/scottmanley",
+        "id": 4956107,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=TFIBGVYL8Yw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 829,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxzC4EngIsMrPmbm6Nxvb-A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/TFIBGVYL8Yw/hqdefault.jpg",
+        "title": "Scramjets - The Fastest Jet Engines",
+        "vote": 0
+    }
+]

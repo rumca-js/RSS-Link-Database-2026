@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-07T07:24:41.524273+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-07T01:47:51+00:00",
+        "description": "Aaron Judge leads Team USA to dominant World Baseball Classic victory over Brazil with first-inning homer as captain delivers in tournament opener.",
+        "id": 4953044,
+        "language": "en-US",
+        "link": "https://www.foxnews.com/sports/aaron-judge-leads-team-usa-world-baseball-classic-opener-win-over-brazil",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 120,
+        "source_url": "https://moxie.foxnews.com/google-publisher/latest.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/aaron-judge-homer.jpg?ve=1&tl=1",
+        "title": "Aaron Judge leads Team USA to World Baseball Classic opener win over Brazil",
+        "vote": 0
+    }
+]

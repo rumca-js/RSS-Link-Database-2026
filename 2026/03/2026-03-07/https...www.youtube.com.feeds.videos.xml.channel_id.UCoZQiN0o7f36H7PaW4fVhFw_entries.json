@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Retro Game Corps",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-07T15:31:02.443230+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-07T14:00:05+00:00",
+        "description": "There is now an Android port of Xemu available, so let's check it out.\n\nDownload it here (free): https://github.com/rfandango/xemu-android/releases/tag/1.1.3\nXemu documentation: https://xemu.app/docs/required-files/\nAndroid handheld starter guide: https://youtu.be/I4mqgcDYZFo\nROCKNIX video: https://youtu.be/xrrjPQE9vRs\n\nWays to support this channel:\nRGC merch: https://store.retrogamecorps.com\nYT channel membership: https://www.youtube.com/channel/UCoZQiN0o7f36H7PaW4fVhFw/join\nPatreon: https://www.patreon.com/retrogamecorps\nKo-Fi: https://ko-fi.com/retrogamecorps\n\nTimestamps:\n00:00 introduction\n01:02 background\n03:33 required files\n05:10 installation and setup\n07:26 settings configuration\n10:10 launching games\n11:42 game testing (RP6)\n19:00 Snapdragon 8 Elite (Odin 3)\n21:13 ROCKNIX (with Xemu)\n25:01 summary and conclusion\n\nFind me on Discord! https://discord.gg/retrohandhelds\n\nTheme song written by Jim Gray of Our Ghosts:\nhttps://ourghosts.bandcamp.com/track/my-first-day-at-the-retro-g",
+        "id": 4955009,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=3FLlaGUzm2Q",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 823,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCoZQiN0o7f36H7PaW4fVhFw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/3FLlaGUzm2Q/hqdefault.jpg",
+        "title": "Xbox Emulation on Android is Here!",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Hardware Haven",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-07T17:20:17.927138+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-07T16:01:48+00:00",
+        "description": "Use code HARDWAREHAVENFB50 to get 50% OFF your first Factor box plus free breakfast for 1 year at https://bit.ly/3ZgtL3D!\n\n_Sorry for the poor audio quality at times. I'm still getting used to some new workflows._\n\n\u25ba Want to support the channel and unlock some perks in the process? \nBecome a RAID member on Patreon or YouTube!\n\ud83d\udd13 Patreon: https://www.patreon.com/hardwarehaven\n\ud83d\udd13 YouTube: https://www.youtube.com/channel/UCgdTVe88YVSrOZ9qKumhULQ/join\n \n\u25ba Useful Links: \n- Frigate Docs: https://docs.frigate.video/ \n- Compiling Coral Driver: https://www.reddit.com/r/frigate_nvr/comments/1km57vu/coral_tpu_installation_for_ubuntu_2504/\n_*NOTE: when following these instructions for Debian 13, ignore the `MODULE_IMPORT_NS(DMA_BUF)` step.*_\n- Reolink specific settings: https://www.reddit.com/r/frigate_nvr/comments/1hnjvua/example_config_for_reolink_cameras/ \n\n\u25ba Checkout items I used (includes affiliate links from which I may receive compensation):\n\ud83d\udecd\ufe0f Reolink RLC-510a: https://reolink.com/product/r",
+        "id": 4955608,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=O3Zx8WVW1MA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 910,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCgdTVe88YVSrOZ9qKumhULQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/O3Zx8WVW1MA/hqdefault.jpg",
+        "title": "My New Local-Only Security Camera Setup",
+        "vote": 0
+    }
+]

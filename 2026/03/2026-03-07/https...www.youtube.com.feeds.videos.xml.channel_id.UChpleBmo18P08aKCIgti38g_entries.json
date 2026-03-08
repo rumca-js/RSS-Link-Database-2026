@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Matt Wolfe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-07T14:50:31.848695+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-07T14:21:10+00:00",
+        "description": "OpenAI just dropped GPT-5.4... but should you care?\n\nTo be totally honest: If you use ChatGPT for brainstorming or basic questions, you probably won\u2019t notice a huge difference. It\u2019s a marginal upgrade for the average user. \n\nBUT, if you are a coder or power user, this is actually a big deal. It can:\n\ud83d\udcbb Navigate desktops better and use your mouse/keyboard to perform tasks.\n\u26a1\ufe0f Perform coding tasks faster and smarter than 5.3 Codex.\n\ud83d\udd0e Perform better web searches.\n\ud83d\udcc2 Go up to a 1 million token context, which is a massive upgrade for API users.\n\nHave you tried it yet? Let me know in the comments.\n\n\nAnd for the full breakdown of this and all the biggest AI model releases and news from the past week, go check out my full video linked here.\n\n#openai #ai #chatgpt #ainews",
+        "id": 4954858,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/g0AxIEMcEfM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 933,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChpleBmo18P08aKCIgti38g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/g0AxIEMcEfM/hqdefault.jpg",
+        "title": "Is GPT-5.4 Worth It?",
+        "vote": 0
+    }
+]

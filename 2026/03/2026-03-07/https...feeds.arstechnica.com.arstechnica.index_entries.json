@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jennifer Ouellette",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-07T22:37:05.289971+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-07T21:06:46+00:00",
+        "description": "Werner Herzog directed this evocative NatGeo documentary of an ornithologist's quest to find a new species.",
+        "id": 4957168,
+        "language": "en-US",
+        "link": "https://arstechnica.com/science/2026/03/hunting-for-elusive-ghost-elephants",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 21,
+        "source_url": "https://feeds.arstechnica.com/arstechnica/index",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/ghost2-500x500-1772823881.jpg",
+        "title": "Hunting for elusive \"ghost elephants\"",
+        "vote": 0
+    }
+]

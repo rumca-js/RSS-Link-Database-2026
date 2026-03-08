@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-07T03:11:39.476862+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-07T01:56:20+00:00",
+        "description": "US President Donald Trump will meet with ideologically-aligned Latin American leaders to try and counter China's influence in the region.",
+        "id": 4952239,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/c5yvw0zwpd5o",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 524,
+        "source_url": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a985/live/c69bef90-19b1-11f1-b9ec-35cf11968638.jpg",
+        "title": "China spent years building ties in Latin America. Can Trump make room for the US?",
+        "vote": 0
+    }
+]

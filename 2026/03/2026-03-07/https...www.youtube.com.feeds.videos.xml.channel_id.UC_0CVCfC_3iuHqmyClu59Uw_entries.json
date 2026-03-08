@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ETA PRIME",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-07T17:01:58.398209+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-07T16:20:00+00:00",
+        "description": "Today, I'm showing you the absolute easiest way to play REAL PC games natively on your Android phone, tablet, or handheld! We aren't using cloud gaming or streaming\u2014this is true emulation. With the latest updates, you can now run your Steam, Epic Games, GOG, and even Amazon Games libraries directly on your Android device.\n\nGet game native here: https://github.com/utkarshdalal/GameNative\n\nIn this complete setup guide, we walk through installing the app, bypassing common download errors with a quick VPN trick, and dialing in the best container settings (Proton, Wine, and Box64) to get the most performance out of your chipset. Whether you're using an older Snapdragon 865 or pushing maximum frames on the new Snapdragon 8 Elite, this is a game-changer for mobile emulation. While I'm showcasing the Red Magic 10 in this video, I'll definitely be putting the Red Magic 11 Pro through its paces with this setup soon, so stay tuned!\n\nFollow Me On Twitter: https://twitter.com/theetaprime\nFollow Me",
+        "id": 4955454,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=g-ygCXH5tFs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 100,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_0CVCfC_3iuHqmyClu59Uw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/g-ygCXH5tFs/hqdefault.jpg",
+        "title": "The Easiest Way to Emulate PC Games On Your Phone! (No Cloud)",
+        "vote": 0
+    }
+]

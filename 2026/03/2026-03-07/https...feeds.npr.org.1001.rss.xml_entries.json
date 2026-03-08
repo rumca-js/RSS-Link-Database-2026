@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Associated Press",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-07T05:53:25.083636+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-07T00:42:59+00:00",
+        "description": "President Trump is set to gather with Latin American leaders on Saturday at his Miami-area golf club as his administration looks to turn attention to the Western Hemisphere, at least for a moment.",
+        "id": 4952798,
+        "language": "en-US",
+        "link": "https://www.npr.org/2026/03/07/g-s1-112852/trump-americas-summit",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 242,
+        "source_url": "https://feeds.npr.org/1001/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2496x1664+0+0/resize/2496x1664!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffb%2F2a%2F4249e3ae4db1b4c13e06a9b27705%2Fap26065833449340.jpg",
+        "title": "Trump looks to turn attention to Western Hemisphere at Americas summit",
+        "vote": 0
+    }
+]

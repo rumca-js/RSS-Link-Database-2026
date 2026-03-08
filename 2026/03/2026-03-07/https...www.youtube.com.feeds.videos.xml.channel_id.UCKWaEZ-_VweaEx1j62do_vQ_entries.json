@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-07T14:41:41.285470+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-07T12:01:07+00:00",
+        "description": "Ready to become a certified watsonx Generative AI Engineer? Register now and use code IBMTechYT20 for 20% off of your exam \u2192 https://ibm.biz/Bdp4DL\n\nLearn more about OWASP's Top 10 LLM Vulnerabilities here \u2192 https://ibm.biz/BdpRG6\n\nAre your AI models secure? \ud83e\udd14 Jeff Crume explains OWASP's Top 10 for LLMs, including risks like prompt injection and data leaks. Discover actionable tips like firewalls and access controls to safeguard your AI systems from attacks and vulnerabilities. \ud83d\udd12\n\nRead the Cost of a Data Breach report  \u2192 https://ibm.biz/BdpRG5\n\n#owasp #llmsecurity #aithreats #aisecurity",
+        "id": 4954823,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=gUNXZMcd2jU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/gUNXZMcd2jU/hqdefault.jpg",
+        "title": "OWASP's Top 10 Ways to Attack LLMs: AI Vulnerabilities Exposed",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Rational Animations",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-07T20:29:19.760164+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-07T19:10:57+00:00",
+        "description": "This video is about weak-to-strong generalization: whether a weaker AI can successfully teach a stronger AI. This is important for superintelligence alignment, because humans may eventually need to supervise AIs that are smarter than they are. If weak supervisors can help align stronger AIs, then humans (or future AIs helping humans) might be able to align superintelligence. In this video, we explore OpenAI\u2019s experiments on this question in depth.\n\nRead the paper here: https://arxiv.org/abs/2312.09390\n\nRobert Miles AI Safety: @RobertMilesAI \n\nAI Safety courses by BlueDot Impact: https://bluedot.org/\n\n\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580PATREON, MEMBERSHIP, MERCH\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\n\n\ud83d\udfe0 Patreon: https://www.patreon.com/rationalanimations\n\n\ud83d\udd35 Channel membership: https://www.youtube.com/channel/UCgqt1RE0k0MIr0LoyJRy2lg/join \n\n\ud83d\udfe2 Merch: https://rational-animations-shop.fourthwall.com\n\n\ud83d\udfe4 Ko-fi, for one-time and recurring donations: https://ko-fi.com/rationalanimations\n\n\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580SOCIAL & DISCORD\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\n\nRational ",
+        "id": 4956587,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=INP8ru2Tj5M",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 879,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCgqt1RE0k0MIr0LoyJRy2lg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/INP8ru2Tj5M/hqdefault.jpg",
+        "title": "The dumbest AI taught the smartest AI. Here\u2019s how that went\u2026",
+        "vote": 0
+    }
+]
