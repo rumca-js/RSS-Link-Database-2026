@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-08T07:13:25.531867+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-08T01:38:45+00:00",
+        "description": "Scientists discover underwater mountain ranges, golden towers of coral, and never-before-seen sea creatures.",
+        "id": 4957543,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/cgmllk32g72o",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 524,
+        "source_url": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c38/live/36d191f0-1978-11f1-801d-ed3cff6bf876.jpg",
+        "title": "Spectacular images reveal unique sea creatures and corals off Caribbean islands",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "AI Search",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-08T10:02:21.126735+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-08T03:30:54+00:00",
+        "description": "HUGE AI NEWS: Qwen 3.5, LTX 2.3, Kiwi Edit, HY WU, FireRed 1.1, CUDA agent & more #ai #ainews #aitools #aivideo #agi \n\nThanks to our sponsor Higgsfield. Try it today: https://higgsfield.ai/soul-cinema?utm_source=youtube_s&utm_medium=theaisearch&utm_campaign=soul_cinema&utm_content=in_a73af\n\nSources in order of mention:\nhttps://showlab.github.io/Kiwi-Edit/\nhttps://tencent-hy-wu.github.io/\nhttps://lg-li.github.io/project/cubecomposer/\nhttps://huggingface.co/FireRedTeam/FireRed-Image-Edit-1.1\nhttps://pku-yuangroup.github.io/Helios-Page/\nhttps://dagroup-pku.github.io/SpatialT2I/\nhttps://hanjq17.github.io/Spectrum/\nhttps://cuda-agent.github.io/\nhttps://pointcept.github.io/Utonia/\nhttps://free-edit.github.io/page/\nhttps://liuwei283.github.io/RealWonder/\nhttps://correr-zhou.github.io/HiFi-Inpaint/\nhttps://huggingface.co/collections/Qwen/qwen35\nhttps://ltx.io/model/ltx-2-3\nGPT 5.4 review https://youtu.be/YRyjkmmW5Ek\nhttps://artifixer2026.github.io/\nhttps://research.nvidia.com/labs/sil/project",
+        "id": 4959384,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=KRE8JqTAEQk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 806,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIgnGlGkVRhd4qNFcEwLL4A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/KRE8JqTAEQk/hqdefault.jpg",
+        "title": "LTX 2.3, GPT 5.4, CUDA agent, realtime AI videos, new image models, 360 videos: AI NEWS",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "David Bombal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-08T16:22:57.048435+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-08T15:01:32+00:00",
+        "description": "In this episode, David Bombal sits down with vulnerability researcher Vladimir Tokarev (with Dawid on the interview) to show what AI-assisted vulnerability research looks like when it actually works.\n\nVladimir walks through two real vulnerability case studies and uses them to explain a practical workflow for finding bugs faster with LLMs, without pretending the AI is \u201cfully autonomous.\u201d\n\nDemo 1: Gemini CLI command injection\nVladimir demonstrates a command injection issue in Gemini CLI tied to the IDE / VS Code extension install flow. He shows how a malicious VSIX file name or path can be crafted so that when the install command is executed, the system ends up running an attacker-controlled command (the demo uses a harmless calculator launch to prove execution). The conversation then breaks down what a VSIX is, what the realistic attack paths are (user tricked into installing a malicious extension or placing it in the right directory), and why this class of bug matters for endpoints ru",
+        "id": 4961301,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=tya56SPQW78",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 984,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP7WmQ_U4GB3K51Od9QvM0w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/tya56SPQW78/hqdefault.jpg",
+        "title": "Why No Auto Vuln Agent? 4 Limits Blocking AI Bug Hunting",
+        "vote": 0
+    }
+]

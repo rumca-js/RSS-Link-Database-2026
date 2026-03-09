@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/docular_no_dracula",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-08T08:12:32.175320+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-08T02:05:06+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>A friend sent me this email thread: <a href=\"https://lists.riscv.org/g/sig-soft-cpu/message/293\">&quot;To P or Not To P?&quot; </a>[1], (I have to say whoever wrote this subject line is a genius) the P extension folks are debating whether to break P into sub-extensions. Which got me thinking... we have the same mess on the B side.</p> <p>B in RISC-V is <code>Zba + Zbb + Zbs</code>. That&#39;s it. Not <code>Zbc</code>, not <code>Zbkb</code>. Just three.</p> <p>I hit this while reviewing Andrew Jones&#39; RFC for exporting rva23u64 detection to userspace. The kernel currently <a href=\"https://lore.kernel.org/all/qjj6rwl7kysulsjkpmqsh4ttxowgj6i7p5ewxxrkqe7zginau2@psteng6ylgz7/\">hides bundle extensions from users</a>, and when I brought up B&#39;s special case, even the maintainers started questioning whether that 2023 design choice still holds up. [2]</p> <p>RISC-V&#39;s extensibility is great until you have to name everything.</p> <p>What would Shakespe",
+        "id": 4958457,
+        "language": "en",
+        "link": "https://www.reddit.com/r/RISCV/comments/1rns9er/to_b_or_not_to_b_riscvs_naming_problem",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 471,
+        "source_url": "https://www.reddit.com/r/RISCV/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "To B or not to B? RISC-V's naming problem",
+        "vote": 0
+    }
+]

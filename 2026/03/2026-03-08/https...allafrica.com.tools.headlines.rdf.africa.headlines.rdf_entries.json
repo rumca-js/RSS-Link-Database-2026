@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-08T10:16:29.325480+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-08T09:07:46+00:00",
+        "description": "[allAfrica] As tensions escalate again across the Middle East, global oil markets are entering another period of uncertainty. Even the threat of disruptions to tanker routes or energy infrastructure in the region can send crude prices sharply higher.",
+        "id": 4959452,
+        "language": "en",
+        "link": "https://allafrica.com/stories/202603080014.html",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 15,
+        "source_url": "https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Africa: Africa Cannot Stop Middle East Wars -- But It Can Cut Its Fuel Bill",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/AmazingStardom",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-08T20:19:37.747125+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-08T18:58:18+00:00",
+        "description": "<table> <tr><td> <a href=\"https://www.reddit.com/r/developer/comments/1rod4ev/how_go_slices_work_under_the_hood_what_makes_them/\"> <img src=\"https://external-preview.redd.it/mjeNSZescF6uC3eE_V2SrH-TJEkbwcsz_kWaUVFJjhE.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=f164b1d703d7a5ec55f32bf7ea146a64e3f7b80a\" alt=\"How Go Slices Work Under the Hood: What Makes Them Stand Out from Other Languages\" title=\"How Go Slices Work Under the Hood: What Makes Them Stand Out from Other Languages\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Go slices may look simple, but the mechanism behind them is elegant and efficient.</p> <p>In this article, I break down how Go manages slice memory, growth, and performance \u2014 and why this design stands out compared to many other languages.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/AmazingStardom\"> /u/AmazingStardom </a> <br/> <span><a href=\"https://journal.hexmos.com/understanding-go-slices-algorithm/\">[link]</a",
+        "id": 4962571,
+        "language": "en",
+        "link": "https://www.reddit.com/r/developer/comments/1rod4ev/how_go_slices_work_under_the_hood_what_makes_them",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 508,
+        "source_url": "https://www.reddit.com/r/developer/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://external-preview.redd.it/mjeNSZescF6uC3eE_V2SrH-TJEkbwcsz_kWaUVFJjhE.png?width=640&crop=smart&auto=webp&s=f164b1d703d7a5ec55f32bf7ea146a64e3f7b80a",
+        "title": "How Go Slices Work Under the Hood: What Makes Them Stand Out from Other Languages",
+        "vote": 0
+    }
+]

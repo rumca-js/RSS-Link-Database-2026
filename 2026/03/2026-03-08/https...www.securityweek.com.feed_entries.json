@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Eduard Kovacs",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-08T12:16:17.281902+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-08T12:15:00+00:00",
+        "description": "<p>WatchTowr reports seeing exploitation attempts for CVE-2026-20127 from numerous unique IP addresses.</p>\n<p>The post <a href=\"https://www.securityweek.com/recent-cisco-catalyst-sd-wan-vulnerability-now-widely-exploited/\">Recent Cisco Catalyst SD-WAN Vulnerability Now Widely Exploited</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+        "id": 4959991,
+        "language": "en-US",
+        "link": "https://www.securityweek.com/recent-cisco-catalyst-sd-wan-vulnerability-now-widely-exploited",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 299,
+        "source_url": "https://www.securityweek.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Recent Cisco Catalyst SD-WAN Vulnerability Now Widely Exploited",
+        "vote": 0
+    }
+]

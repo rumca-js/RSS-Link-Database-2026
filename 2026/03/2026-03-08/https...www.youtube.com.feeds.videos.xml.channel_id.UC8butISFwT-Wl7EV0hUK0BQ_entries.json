@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-08T13:40:51.817730+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-08T12:43:26+00:00",
+        "description": "What's it like being thrown into an exiting codebase and being expected to figure it out? Robby discusses this on the freeCodeCamp podcast.",
+        "id": 4960375,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/ldkfMvE36FI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/ldkfMvE36FI/hqdefault.jpg",
+        "title": "How to handle being thrown into an existing codebase and being expected to figure it out",
+        "vote": 0
+    }
+]

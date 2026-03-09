@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-08T08:33:39.161192+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-08T02:57:15+00:00",
+        "description": "Kenyan celebrities are driving a surge in weight\u2011loss and cosmetic procedures, sparking criticism and concerns.",
+        "id": 4958933,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/cq6qq6q2692o",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 521,
+        "source_url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b83/live/a88a83f0-18c5-11f1-9120-a910fc22c6ac.jpg",
+        "title": "Weight-loss treatments boom as Kenyan attitudes to beauty change",
+        "vote": 0
+    }
+]
