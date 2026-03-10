@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Engineering Mindset",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-10T00:59:01.491343+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-09T16:00:45+00:00",
+        "description": "How RCDs and GFCIs prevent electric shock. Many people think a standard circuit breaker (MCB) protects them, but it only protects wiring. In this video we explain RCD / GFCI protection, how they work, and when they fail.\n\ud83c\udf81FLUKE 1674 FC - https://amzn.to/40S50vi\n\ud83d\udc49 FLUKE 1674 FC Specification - https://tinyurl.com/Fluke-1674FC\n\nWHAT WE COVER IN THIS VIDEO:\n\u26a1 MCB vs RCD -- Why a standard circuit breaker only protects your wires, while you can still get a lethal shock.\n\u26a1 THE PHYSICS OF A TRIP -- How a toroidal transformer and magnetic flux detect tiny current imbalances (leakage) in milliseconds.\n\u26a1 GLOBAL STANDARDS -- The difference between RCCB, RCBO, and GFCI (North America vs. UK vs. Europe).\n\u26a1 THE \"BLINDED\" RCD -- Why modern LED chargers and EV chargers can cause Type AC RCDs to fail (Saturation).\n\u26a1 LIVE BENCH TESTING -- We use a Fluke Multifunction Tester and an Oscilloscope to see the trip waveform in real-time.\n\nGFCI Circuit tutorial\ud83d\udc49 https://youtu.be/Qi0ynSQw-wc\nGet your engineers",
+        "id": 4972558,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=TUno2IT-KZY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 961,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCk0fGHsCEzGig-rSzkfCjMw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/TUno2IT-KZY/hqdefault.jpg",
+        "title": "Why This Doesn't Make You Safe",
+        "vote": 0
+    }
+]

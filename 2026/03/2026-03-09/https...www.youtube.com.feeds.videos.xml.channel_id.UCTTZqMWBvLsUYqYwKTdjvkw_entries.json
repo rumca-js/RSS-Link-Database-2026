@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mateusz Chrobok",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-09T11:29:13.089094+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-09T05:45:01+00:00",
+        "description": "By ochroni\u0107 si\u0119 przed zaawansowan\u0105 AI, musieliby\u015bmy j\u0105 izolowa\u0107, ogranicza\u0107 jej dost\u0119p do informacji, monitorowa\u0107 jej procesy poznawcze, a w ostateczno\u015bci by\u0107 gotowi j\u0105 wy\u0142\u0105czy\u0107. Brzmi strasznie? \nChcesz wi\u0119cej wiedzy? Do\u0142\u0105cz do AI_devs na aidevs.pl  \ud83d\udcbb \nBadanie: https://www.researchgate.net/publication/392020541_Is_there_a_tension_between_AI_safety_and_AI_welfare",
+        "id": 4966283,
+        "language": "pl-PL",
+        "link": "https://www.youtube.com/watch?v=BVjirEFGTGw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 211,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTTZqMWBvLsUYqYwKTdjvkw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/BVjirEFGTGw/hqdefault.jpg",
+        "title": "\ud83e\udd16 3mAI: Jak ochroni\u0107 si\u0119 przed zaawansowan\u0105 AI?",
+        "vote": 0
+    }
+]

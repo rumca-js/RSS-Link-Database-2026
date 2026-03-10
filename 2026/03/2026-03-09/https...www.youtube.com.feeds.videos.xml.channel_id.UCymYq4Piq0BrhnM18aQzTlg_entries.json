@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Lon.TV",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-10T02:26:15.670275+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-09T22:45:06+00:00",
+        "description": "Find compatible devices on Amazon - https://lon.tv/pxd0g (compensated affiliate link) - If Meshtastic isn't doing anything for you, Meshcore might be a good alternative. The Meshcore routing model is more efficient and deterministic vs. Meshtastic and I'm seeing a very robus network growing here in Connecticut! See more radio: https://www.youtube.com/playlist?list=PLCZHp4d1HnItwWP5D8XtInVH1mym6g1SU and subscribe! http://lon.tv/s\n\nVIDEO INDEX:\n00:00 - Intro\n01:49 - Device Pricing and availability\n01:56 - Radio Prices\n02:48 - Level Setting Expectations\n03:46 - No License Required\n04:12 - Meshtastic vs. Meshcore\n05:37 - Message Routing Demo\n07:54 - How Meshcore Routing Works\n08:46 - Setting up Meshcore on a Compatible Device\n12:47 - Configuring a repeater\n14:05 - Room Server BBS!\n15:06 - Conclusion\n\nVisit my Blog! https://blog.lon.tv\n\nSubscribe to my email lists! \nWeekly Breakdown of Posted Videos:  - https://lon.tv/email\nDaily Email From My Blog Posts! https://lon.tv/digest\n\nSee my seco",
+        "id": 4973039,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=dhdWNXGGeE8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 199,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCymYq4Piq0BrhnM18aQzTlg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/dhdWNXGGeE8/hqdefault.jpg",
+        "title": "Communicating Off Grid: Is Meshcore Better than Meshtastic?",
+        "vote": 0
+    }
+]

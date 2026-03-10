@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Chris Stuckmann",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-09T18:49:02.393632+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-09T16:00:08+00:00",
+        "description": "Chris Stuckmann reviews The Bride!, starring Jessie Buckley, Christian Bale, Annette Bening, Pen\u00e9lope Cruz, Peter Sarsgaard, Jake Gyllenhaal, John Magaro. Directed by Maggie Gyllenhaal.",
+        "id": 4970050,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=5IOuJa9vQL0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 618,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCqEeDAUf4Mg0GgEN658tkA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/5IOuJa9vQL0/hqdefault.jpg",
+        "title": "The Bride! - Movie Review",
+        "vote": 0
+    }
+]

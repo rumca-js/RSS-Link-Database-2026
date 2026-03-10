@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-09T22:21:39.824639+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-09T20:02:13+00:00",
+        "description": "https://cppcon.org\n---\n\nCache Me Maybe: The Performance Secret Every C++ Developer Needs - Michelle D'Souza - CppCon 2025\n---\n\nCalling all code detectives! Grab your trench coats and magnifying glasses ... it's time to crack the case of sluggish C++ performance. In this thrilling investigation, we'll uncover the hidden world of your computer's built-in cache and how to harness it to turbocharge your code. \n \nWe'll comb through the fundamentals of caches like seasoned sleuths, uncover clues on optimizing access patterns, and interrogate suspects like false sharing and cache unfriendly data structures. We will also examine benchmark evidence based on real-world production code, exposing how each technique delivers the goods. \n \nBy the end of this mission, you'll be armed with a detective's toolkit of cache savvy strategies, ready to solve cross-platform performance mysteries and bring blazing fast code to justice. Cache you at this session, maybe! \n---\n\nSlides: https://github.com/CppCon",
+        "id": 4971684,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=VhKq0nzPTh0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/VhKq0nzPTh0/hqdefault.jpg",
+        "title": "Cache Me Maybe: The Performance Secret Every C++ Developer Needs - Michelle D'Souza - CppCon 2025",
+        "vote": 0
+    }
+]

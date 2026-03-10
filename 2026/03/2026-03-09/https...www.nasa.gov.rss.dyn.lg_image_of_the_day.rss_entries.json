@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-09T16:23:16.080425+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-09T15:10:00+00:00",
+        "description": "A brain-new image from Webb! What looks like a brain (complete with what appear as left and right hemispheres) is actually a dying star blowing off a shell of gas, and within that shell, a cloud of various gases.",
+        "id": 4968757,
+        "language": "en-us",
+        "link": "https://www.nasa.gov/image-detail/55119277748-0ef8ca558f-o",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 485,
+        "source_url": "https://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Webb Studies Cranium Nebula",
+        "vote": 0
+    }
+]

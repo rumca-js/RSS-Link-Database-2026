@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "1littlecoder",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-09T22:49:50.468777+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-09T21:59:32+00:00",
+        "description": "OpenAI to acquire Promptfoo\n\nhttps://github.com/promptfoo/promptfoo\n\nWe\u2019re acquiring Promptfoo, an AI security platform that helps enterprises identify and remediate vulnerabilities in AI systems during development. Once the acquisition is finalized we will integrate Promptfoo\u2019s technology directly into OpenAI Frontier, our platform for building and operating AI coworkers.\n\nAs enterprises deploy AI coworkers into real workflows, evaluation, security, and compliance become foundational requirements. Enterprises need systematic ways to test agent behavior, detect risks before deployment, and maintain clear records to support oversight, governance, and accountability over time.\n\nThe Promptfoo team, led by Ian Webster and Michael D\u2019Angelo, has built a powerful suite of tools trusted by over 25 percent of Fortune 500 companies, along with a widely used open-source\u2060(opens in a new window) CLI and library for evaluating and red-teaming LLM applications. Together, we will continue building th",
+        "id": 4971873,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=E8UObj_R2mM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 948,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCpV_X0VrL8-jg3t6wYGS-1g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/E8UObj_R2mM/hqdefault.jpg",
+        "title": "OpenAI Just Solved AI's Biggest Security Problem",
+        "vote": 0
+    }
+]

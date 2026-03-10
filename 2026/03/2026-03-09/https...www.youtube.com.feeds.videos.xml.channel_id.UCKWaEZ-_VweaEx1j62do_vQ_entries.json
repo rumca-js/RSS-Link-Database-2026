@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-09T16:34:17.649220+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-09T11:00:51+00:00",
+        "description": "Ready to become a certified watsonx AI Assistant Engineer? Register now and use code IBMTechYT20 for 20% off of your exam \u2192 https://ibm.biz/BdpReK\n\nLearn more about Retrieval Augmented Generation (RAG) here \u2192 https://ibm.biz/BdpReG\n\nAre massive context windows replacing RAG? \ud83e\udd14 Martin Keen breaks down RAG vs. long context in LLM workflows. Explore how vector databases, semantic search, and embedding models impact AI performance to help you choose the right solution for your applications. \ud83d\ude80\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/BdpRee\n\n#retrievalaugmentedgeneration #llm #aiworkflow #vectordatabase",
+        "id": 4968826,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=UabBYexBD4k",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/UabBYexBD4k/hqdefault.jpg",
+        "title": "Is RAG Still Needed? Choosing the Best Approach for LLMs",
+        "vote": 0
+    }
+]
