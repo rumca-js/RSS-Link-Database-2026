@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Gruber",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-10T23:10:28.179773+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-10T22:48:40+00:00",
+        "description": "<p>Just over a decade ago, <a href=\"https://daringfireball.net/2015/09/the_iphones_6s#:~:text=BENCHMARKS\">reviewing the then-new iPhones 6S</a>, I could tell which way the silicon wind was blowing. Year-over-year, the A9 CPU in the iPhone 6S was 1.6\u00d7 faster than the A8 in the iPhone 6. Impressive. But what really struck me was comparing the 6S\u2019s GeekBench scores to MacBooks. The A9, in 2015, benchmarked comparably to a two-year old MacBook Air from 2013. More impressively, it <em>outperformed the then-new no-adjective MacBook in single-core performance</em> (by a factor of roughly 1.1\u00d7) and was only 3 percent slower in multi-core. That was a comparison to <a href=\"https://www.apple.com/newsroom/2015/03/09Apple-Unveils-All-New-MacBook/\">the base $1,300 model MacBook with a 1.1 GHz dual-core Intel Core M processor</a>, not the $1,600 model with a 1.2 GHz Core M. But, still\u2009\u2014\u2009the iPhone 6S outperformed a brand-new $1,300 MacBook, and drew even with a $1,600 model. I called that \u201castoundi",
+        "id": 4981676,
+        "language": "",
+        "link": "https://daringfireball.net/2026/03/the_macbook_neo",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 489,
+        "source_url": "https://daringfireball.com/feeds/main",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "\u2605 The MacBook Neo",
+        "vote": 0
+    }
+]

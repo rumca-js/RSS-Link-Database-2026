@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Maxwell Zeff",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-10T05:38:49.505411+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-10T05:00:00+00:00",
+        "description": "Meta\u2019s former chief AI scientist has long argued that human-level AI will come from mastering the physical world, not language. His new startup, AMI, aims to prove it.",
+        "id": 4973837,
+        "language": "en-US",
+        "link": "https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 396,
+        "source_url": "https://www.wired.com/feed/category/business/latest/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media.wired.com/photos/69ab547169eb9242c51148d7/master/pass/Yann-LeCun-QA-Business-2198379404.jpg",
+        "title": "Yann LeCun Raises $1 Billion to Build AI That Understands the Physical World",
+        "vote": 0
+    }
+]

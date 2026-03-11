@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-10T21:12:23.162255+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-10T20:10:56+00:00",
+        "description": "The author is best known for his novel A World for Julius, which chronicles the frivolous lives of the elite.",
+        "id": 4980793,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/ce82j8j8l25o",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 524,
+        "source_url": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b62/live/06797340-1c9a-11f1-8f3c-8366692412b1.jpg",
+        "title": "Acclaimed Peruvian writer Alfredo Bryce Echenique dies aged 87",
+        "vote": 0
+    }
+]

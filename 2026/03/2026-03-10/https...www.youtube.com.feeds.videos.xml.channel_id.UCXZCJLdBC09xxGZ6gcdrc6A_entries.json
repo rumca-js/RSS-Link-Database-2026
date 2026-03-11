@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "OpenAI",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-10T18:51:48.636755+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-10T17:42:29+00:00",
+        "description": "Build agent-powered workflows for real engineering work with Codex and OpenAI APIs. In this Build Hour, you'll learn how teams are moving beyond pair programming to agentic delegation, where AI systems can take on entire engineering tasks from planning to execution. \n\nCharlie Guo (DevEx), Ryan Lopopolo (Future of Work), Mitch Troyanovsky (Cofounder, Basis) cover how to:\n\u2022 Ship new features faster using Codex, with real examples from Basis: https://www.getbasis.ai/\n\u2022 Build agent-driven systems using new API capabilities like hosted shell, skills, and websockets\n\u2022 Evaluate and improve agents using the Agent Legibility Score framework\n\u2022 Apply Harness Engineering techniques to make agent workflows reliable in production\n\u2022 Use GPT-5.4 for large-context reasoning, computer-use tasks, and tool-based agent workflows\n\u2022 Reduce manual overhead by turning complex logic into reusable agent-driven flows\n\n\ud83d\udc49 Codex docs: https://developers.openai.com/codex\n\ud83d\udc49 API docs: https://developers.openai.com/api",
+        "id": 4979695,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=rhsSqr0jdFw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 935,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXZCJLdBC09xxGZ6gcdrc6A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/rhsSqr0jdFw/hqdefault.jpg",
+        "title": "Build Hour: API & Codex",
+        "vote": 0
+    }
+]

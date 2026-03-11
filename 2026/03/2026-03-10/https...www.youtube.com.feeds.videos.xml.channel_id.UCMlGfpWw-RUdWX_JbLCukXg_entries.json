@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-10T19:22:37.327439+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-10T19:05:18+00:00",
+        "description": "https://cppcon.org\n---\n\nIt\u2019s Dangerous to Go Alone: A Game Developer Tutorial - Michael Price - CppCon 2025\n---\n\nMany developers know about game engines, especially popular ones like Unreal Engine, but the game engine is just one part of a much larger set of tools, SDKs, infrastructure, and practices that you need to understand if you are serious about game development with C++. If you are an aspiring game developer, or someone who is just curious about what makes game development with C++ different, this talk is the walkthrough you need to get started. \n \nTogether, we\u2019ll add a graphically rich user interface to an existing library that already contains game logic. Along the way, you\u2019ll learn the basics of an Unreal Engine 5.5 application, why git is not as dominant in game development as it is in other industries, and how to get your application on a major online game store. \n \nWhether you're aiming to design innovative games or simply want to discover tools or techniques you can app",
+        "id": 4979924,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=TIXf24aUmA0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/TIXf24aUmA0/hqdefault.jpg",
+        "title": "It\u2019s Dangerous to Go Alone: A Game Developer Tutorial - Michael Price - CppCon 2025",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Learn Linux TV",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-10T20:07:37.482915+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-10T19:00:15+00:00",
+        "description": "Is Linux uptime really something to brag about? Many system administrators proudly show off servers that haven\u2019t been rebooted in months or even years\u2014but that mindset can actually create serious problems!\n\nIn this video, I'll break down why you might be revealing more than you intended to, and why rebooting your Linux server regularly can actually be a best practice. From applying security updates to maintaining system reliability, avoiding reboots can introduce risks that many sysadmins overlook.\n\n*\u2764\ufe0f Consider becoming a Channel Member*\nSupport Linux Learning and gain acess to exclusive perks, such as ad-free content and early access to select videos. Your support really helps!!!\nJoin here \u279c https://learnlinux.link/member\n\n*\ud83d\udecd\ufe0f Support The Channel and Get Awesome Linux Swag!*\nHead on over to the Learn Linux TV Merch Shop and check out some great Linux-themed gear, including (but not limited to) T-shirts, drinkware, buttons, stickers and more!\n \u2022 \"apt install coffee\" T-Shirt \u279c https:/",
+        "id": 4980391,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=9mUAKbuRrCk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 997,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxQKHvKbmSzGMvUrVtJYnUA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/9mUAKbuRrCk/hqdefault.jpg",
+        "title": "The Linux Uptime Obsession (Stop Bragging About This)",
+        "vote": 0
+    }
+]

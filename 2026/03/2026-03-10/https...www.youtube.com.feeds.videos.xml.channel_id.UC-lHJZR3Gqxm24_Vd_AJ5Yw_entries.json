@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": null,
+        "author": "PewDiePie",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-31T22:55:03.812111+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-10T22:55:56.610441+00:00",
+        "description": "I make videos.",
+        "id": 3954580,
+        "language": "en",
+        "link": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-lHJZR3Gqxm24_Vd_AJ5Yw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": true,
+        "source__id": 893,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-lHJZR3Gqxm24_Vd_AJ5Yw",
+        "status_code": 200,
+        "tags": [],
+        "thumbnail": "https://yt3.googleusercontent.com/vik8mAiwHQbXiFyKfZ3__p55_VBdGvwxPpuPJBBwdbF0PjJxikXhrP-C3nLQAMAxGNd_-xQCIg=s900-c-k-c0x00ffffff-no-rj",
+        "title": "PewDiePie",
+        "vote": 0
+    }
+]

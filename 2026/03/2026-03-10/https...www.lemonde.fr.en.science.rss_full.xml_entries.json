@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-10T12:28:43.136818+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-10T12:28:42+00:00",
+        "description": "The awards, which celebrate the sillier side of science, have held raucous ceremonies that see the winners showered with paper aeroplanes at universities in Massachusetts since 1991. The 36th edition will be held in the Swiss city of Zurich on September 3.",
+        "id": 4976035,
+        "language": "en-US",
+        "link": "https://www.lemonde.fr/en/science/article/2026/03/10/ig-nobel-prizes-moving-to-europe-because-us-unsafe-to-visit_6751289_10.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 190,
+        "source_url": "https://www.lemonde.fr/en/science/rss_full.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.lemde.fr/2024/09/12/135/0/3561/1780/644/322/60/0/dfb5ea7_1726138499846-ap19256012540979.jpg",
+        "title": "Ig Nobel prizes moving to Europe because US 'unsafe' to visit",
+        "vote": 0
+    }
+]

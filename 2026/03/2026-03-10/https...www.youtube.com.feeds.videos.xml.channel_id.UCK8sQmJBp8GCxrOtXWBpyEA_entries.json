@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Google",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-11T00:10:22.267343+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-10T20:45:28+00:00",
+        "description": "Breast cancer affects 1 in 8 women worldwide, and in the UK, a shortage of radiologists puts immense pressure on staff in radiology departments to deal with the backlog of people waiting for scans. To help reduce the burden on resources and staff, new ways of screening need to be investigated. \n\nGoogle partnered with Imperial College London and three NHS trusts on the Artificial Intelligence in Mammography Screening (AIMS) study to explore how an AI reader, integrated in place of a second human reader in the UK\u2019s existing two reader plus arbitration system, performs in a real-world setting.\n\nResults of the AIMS study, recently published in \u201cNature Cancer,\u201d showed that an AI reader could successfully integrate in to the UK\u2019s existing system in place of a human reader, reducing the overall workload of radiologists and allowing them to focus their time and care on patients who needed it the most. \n\nNote: The patients featured in this video did not participate in the study and are sharing",
+        "id": 4982047,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=4BzoMc3acOY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 777,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCK8sQmJBp8GCxrOtXWBpyEA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/4BzoMc3acOY/hqdefault.jpg",
+        "title": "Helping Radiologists Detect Breast Cancer with AI",
+        "vote": 0
+    }
+]
