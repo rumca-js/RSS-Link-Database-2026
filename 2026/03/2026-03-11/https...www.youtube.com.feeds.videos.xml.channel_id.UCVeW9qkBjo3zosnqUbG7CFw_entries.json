@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Hammond",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-11T16:14:51.308457+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-11T13:01:38+00:00",
+        "description": "Big thanks to Keanu for showing me all the cool stuff in GraphSpy! Check it out for yourself: https://github.com/RedByte1337/GraphSpy\n\nKeanu's: ...\nGithub: https://github.com/RedByte1337\nTwitter/X: https://x.com/RedByte1337\nLinkedIn: https://www.linkedin.com/in/keanunys/\n\nLearn Cybersecurity and more with Just Hacking Training: https://jh.live/training\nSee what else I'm up to with: https://jh.live/newsletter\n\n\u2139\ufe0f Affiliates:\nLearn how to code with CodeCrafters: https://jh.live/codecrafters\nHost your own VPN with OpenVPN: https://jh.live/openvpn\nGet Blue Team Training and SOC Analyst Certifications with CyberDefenders: https://jh.live/cyberdefense",
+        "id": 4987851,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=qEtoKC32UoE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 959,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVeW9qkBjo3zosnqUbG7CFw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/qEtoKC32UoE/hqdefault.jpg",
+        "title": "GraphSpy: Hacker's Tooling Deep Dive (w/ creator @RedByte1337!)",
+        "vote": 0
+    }
+]

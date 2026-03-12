@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-11T03:40:25.458928+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-11T03:40:24+00:00",
+        "description": "A Chinese tourist who crashed her hire car while touring South Australia, killing her brother, has been spared jail.",
+        "id": 4983141,
+        "language": "en-au",
+        "link": "https://www.news.com.au/travel/travel-updates/incidents/grandmothertobe-who-killed-brother-in-148kmh-crash-walks-free-from-court/news-story/d4cd0ae770b552ec5670c22a3e253eaa?from=rss-basic",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 409,
+        "source_url": "https://www.news.com.au/content-feeds/latest-news-travel",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://content.api.news/v3/images/bin/26ac8f59ff6e387ea6244a2588e58464?width=320",
+        "title": "Tourist kills brother in 148km/h horror crash",
+        "vote": 0
+    }
+]

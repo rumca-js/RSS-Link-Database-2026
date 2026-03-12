@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-12T00:46:59.266674+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-11T18:28:46+00:00",
+        "description": "Norway's police attorney says the authorities are investigating whether a foreign state actor was involved.",
+        "id": 4989629,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/cx2grl7lrrmo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 523,
+        "source_url": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/994a/live/148b98d0-1d78-11f1-a77a-39b849d4606b.png",
+        "title": "Three brothers arrested after explosion at US embassy in Oslo",
+        "vote": 0
+    }
+]

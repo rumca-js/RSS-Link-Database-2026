@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Blog Staff",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-12T01:23:04.870584+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-11T18:54:09+00:00",
+        "description": "<p>\n\t<img alt=\"logo.png\" src=\"https://isocpp.org/files/img/logo.png\" style=\"width: 225px; margin: 10px; float: right;\" />Finding out how to implement features from the standard library can be a useful learning exercise. Quasar Chunawala explores implementing your own version of std::vector.</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://accu.org/journals/overload/34/191/chunawala/\">Implementing vector&lt;T&gt;</a></h3>\n\t<p>\n\t\tby Quasar Chunawala</p>\n</blockquote>\n<p>\n\tFrom the article:</p>\n<blockquote>\n\t<p>\n\t\tThe most fundamental STL data-structure is the&nbsp;<code>vector</code>. In this article, I am going to explore writing a custom implementation of the&nbsp;<code>vector</code>&nbsp;data-structure. The standard library implementation&nbsp;<code>std::vector</code>&nbsp;is a work of art, it is extremely efficient at managing memory and has been tested&nbsp;<em>ad nauseam</em>. It is much better, in fact, than a homegrown alternative would be.</p>\n\t<p>\n\t\tWhy then write our own custom&nbsp",
+        "id": 4990752,
+        "language": "en",
+        "link": "https://isocpp.org//blog/2026/03/implementing-vectort-quasar-chunawala",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://isocpp.org/files/img/logo.png",
+        "title": "Implementing vector -- Quasar Chunawala",
+        "vote": 0
+    }
+]

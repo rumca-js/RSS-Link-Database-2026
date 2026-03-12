@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Google",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-12T01:53:42.497734+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-11T16:59:49+00:00",
+        "description": "Google partnered with Imperial College London and three NHS trusts on the Artificial Intelligence in Mammography Screening (AIMS) study to explore how an AI reader, integrated in place of a second human reader in the UK\u2019s existing two reader plus arbitration system, performs in a real-world setting.\n\nThis is an investigational AI tool not yet approved for clinical use; it is not intended to replace professional medical judgment. All imagery has been de-identified per data protection legislation.",
+        "id": 4991211,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/rZyUyOzNY8A",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 777,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCK8sQmJBp8GCxrOtXWBpyEA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/rZyUyOzNY8A/hqdefault.jpg",
+        "title": "Can AI help Imperial College of London and the NHS improve the mammography screening process?",
+        "vote": 0
+    }
+]

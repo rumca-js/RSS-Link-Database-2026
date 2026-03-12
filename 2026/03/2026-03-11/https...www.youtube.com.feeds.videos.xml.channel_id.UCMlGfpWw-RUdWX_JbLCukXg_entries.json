@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-11T20:54:12.472991+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-11T17:14:42+00:00",
+        "description": "https://cppcon.org\n---\n\nSeamless Static Analysis with Cppcheck: From IDE to CI and Code Review - Daniel Marjam\u00e4ki - CppCon 2025\n---\n\nStatic analysis should be part of your development workflow\u2014not a separate step. With the right setup, you can get immediate results without switching tools.\n\nIn this talk, we\u2019ll explore how Cppcheck, a powerful open-source static analysis tool, can be smoothly integrated into your entire development pipeline. You\u2019ll learn how to:\n\n- Use a unified Cppcheck configuration across your IDE and CI pipeline to get real-time feedback as you code that will always match the warnings you get in CI.\n\n- Generate SARIF reports from Cppcheck and incorporate them into code review platforms for streamlined collaboration.\n\n- Extend Cppcheck by integrating clang-tidy, enabling combined analysis in a single run\u2014and discuss the benefits of doing so.\n\nIf you\u2019re looking to tighten feedback loops, reduce friction in code quality workflows, and get more out of your static analy",
+        "id": 4988333,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=7u97LZYxu3g",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/7u97LZYxu3g/hqdefault.jpg",
+        "title": "Seamless Static Analysis with Cppcheck: From IDE to CI and Code Review - Daniel Marjam\u00e4ki",
+        "vote": 0
+    }
+]

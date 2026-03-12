@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Foundation",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-12T00:50:33.488238+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-11T16:51:00+00:00",
+        "description": "Sponsored by LF Education\n\nAI is capturing imaginations and budgets. But beneath every high-performing AI system lies a quieter truth: AI runs on open source \u2014 and on people who know how to make it work.\n\nLinux, Kubernetes, and cloud native infrastructure form the backbone of modern AI. Without them, models don\u2019t scale, systems don\u2019t deploy reliably, and AI never moves beyond experimentation. As AI adoption accelerates, the professionals who understand this full stack \u2014 and can connect infrastructure, platforms, and real-world outcomes \u2014 are becoming indispensable.\n\nIn this conversation, Clyde Seepersad, Linux Foundation Education, and Christophe Sauthier, Cloud Native Computing Foundation, will explore why demand is growing not just for AI specialists, but for IT professionals with cross-functional fluency across Linux, cloud native, platform engineering, and security. They\u2019ll unpack how these skills create career leverage, expand role optionality, and position professionals to guide",
+        "id": 4989694,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=ssBZnOxVsA0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 499,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfX55Sx5hEFjoC3cNs6mCUQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/ssBZnOxVsA0/hqdefault.jpg",
+        "title": "AI Runs on Open Source & Real Humans: Why You Need Linux & Cloud Native Skills to Power AI at Scale",
+        "vote": 0
+    }
+]

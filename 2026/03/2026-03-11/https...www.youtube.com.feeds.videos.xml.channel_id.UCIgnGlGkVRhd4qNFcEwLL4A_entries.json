@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "AI Search",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-11T07:40:32.133365+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-11T02:30:18+00:00",
+        "description": "LTX-2.3 installation tutorial and review. LTX 2.3 vs LTX 2 #ai #aivideo #aitools\n\nLTX 2.3 https://ltx.io/model/ltx-2-3\nWan2GP https://github.com/deepbeepmeep/Wan2GP\n\nGit: https://git-scm.com/install/windows\nMiniconda: https://www.anaconda.com/download\n\n0:00 LTX 2.3 intro\n1:06 Fight scene\n2:16 Samurai sword fight\n3:19 Will Smith test\n4:24 Anime test\n5:17 Singing and dancing\n6:31 Opera and orchestra\n7:19 Anatomy test\n8:11 Figure skating\n8:51 3D pixar test\n9:38 Camera movement and text\n10:53 First frame last frame\n12:09 Vertical format\n13:15 How to install LTX 2.3\n15:08 Git\n16:10 Installation continued\n17:08 Conda\n19:48 Installation continued\n22:00 How to use LTX 2.3 in Wan2GP\n27:10 Image to video\n28:00 First frame last frame\n28:57 Controlnet\n\n\nLearn AI: https://ai-search.io/courses\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSupport: https://ko-fi.com/aisearch\n\nHere's my equipment, in case you're wondering:\nLenovo Thinkbook: https://amzn.to/4jW",
+        "id": 4984027,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=KaQbt6NYrzY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 806,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIgnGlGkVRhd4qNFcEwLL4A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/KaQbt6NYrzY/hqdefault.jpg",
+        "title": "Best local AI video generator with sound is here!",
+        "vote": 0
+    }
+]

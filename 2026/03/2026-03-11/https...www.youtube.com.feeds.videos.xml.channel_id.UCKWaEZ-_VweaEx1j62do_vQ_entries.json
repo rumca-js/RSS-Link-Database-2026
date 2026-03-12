@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-11T14:19:39.731950+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-11T12:16:34+00:00",
+        "description": "Follow the Security Intelligence podcast on your preferred platform \u2192  https://ibm.biz/BdpznT\n\nDid you miss out on the [un]prompted AI security conference? So did most of us. Except our very own Dustin \u201cEvil Mog\u201d Heywood, who joins us today to share highlights from the event. \n\nAnd speaking of [un]prompted, we also discuss one of the biggest announcements to come out of the event: the Zero Day Clock. This coalition of experts is arguing that we need to radically rethink vulnerability management in the face of plummeting time-to-exploit values for new vulnerabilities.  \n\nAmong their demands that might prove to be quite controversial: holding software makers liable for flaws and building more disposable architecture. \n\nThen we talk about some notably nasty AI agent behavior, including manipulating prescriptions and writing mean blog posts about human users. \n\nFinally, we round out the week with a discussion of burnout among cybersecurity pros. We\u2019re working, on average, 10 overtime hour",
+        "id": 4986695,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=4Htg_J4DcgU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/4Htg_J4DcgU/hqdefault.jpg",
+        "title": "The conference that changed our minds about AI",
+        "vote": 0
+    }
+]

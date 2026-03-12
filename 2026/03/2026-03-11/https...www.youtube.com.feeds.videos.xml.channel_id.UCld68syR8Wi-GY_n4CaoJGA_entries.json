@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-12T00:26:03.928386+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-11T16:30:27+00:00",
+        "description": "Whilst developers are dealing with AI slop contributions to there repos, at the same time there's a whole new problem to deal with, using AI to \"rewrite\" the project to effectively launder the code out to another license, in this case from LGPL to MIT\n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\nChardet Repo: https://github.com/chardet/chardet\nMorten Linderud Post: https://chaos.social/@Foxboron/116170859737134271\nLog: https://github.com/chardet/chardet/releases/tag/7.0.0\nGithub PR: https://github.com/chardet/chardet/pull/322\nMark Pilgrim: https://github.com/chardet/chardet/issues/327\nAI Copyright: https://www.reuters.com/legal/government/us-supreme-court-declines-hear-dispute-over-copyrights-ai-generated-material-2026-03-02/\n\n=========Video Platforms==========\n\ud83c\udfa5 Rea",
+        "id": 4989017,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=XctEf6czvtk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/XctEf6czvtk/hqdefault.jpg",
+        "title": "A Whole New Challenge For Open Source Licenses",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Digital Foundry",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-11T16:04:41.430391+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-11T15:29:03+00:00",
+        "description": "Content sponsored by Nvidia. Horror-based games are all about the atmosphere - and with Resident Evil, Capcom knows it. In this video, Alex goes back to the origins of the Resident Evil aesthetic, and how its pre-rendered, static backgrounds delivered a unique sense of atmospheric horror that full 3D couldn't quite match... until now. We break down how the realism is ramped up and how the horror is enhanced with the arrival of path-traced graphics.\n\n00:00:00 Introduction\n00:00:43 How light and shadow shaped horror in Resident Evil's past\n00:06:50 Path tracing direct lighting to maximise atmosphere\n00:12:55 How path tracing improves reflections and indirect lighting\n00:17:57 Getting a next-gen experience above consoles on PC",
+        "id": 4987678,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=jC98WaHzd4I",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 696,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9PBzalIcEQCsiIkq36PyUA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/jC98WaHzd4I/hqdefault.jpg",
+        "title": "How Resident Evil Requiem PC Path Tracing Amplifies The Horror [Sponsored]",
+        "vote": 0
+    }
+]

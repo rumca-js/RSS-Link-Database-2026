@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "1littlecoder",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-12T02:11:07.157737+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-11T20:32:11+00:00",
+        "description": "Today we\u2019re releasing Gemini Embedding 2, our first fully multimodal embedding model built on the Gemini architecture, in Public Preview via the Gemini API and Vertex AI.\n\nExpanding on our previous text-only foundation, Gemini Embedding 2 maps text, images, videos, audio and documents into a single, unified embedding space, and captures semantic intent across over 100 languages. This simplifies complex pipelines and enhances a wide variety of multimodal downstream tasks\u2014from Retrieval-Augmented Generation (RAG) and semantic search to sentiment analysis and data clustering.\n\n\n\nhttps://colab.research.google.com/drive/1MEx_3cL1FBNqv80Bg1QfpzQFhJ9YY_Oy?usp=sharing\n\n\n\u2764\ufe0f If you want to support the channel \u2764\ufe0f\nSupport here:\nPatreon - https://www.patreon.com/1littlecoder/\nKo-Fi - https://ko-fi.com/1littlecoder\n\n\ud83e\udded Follow me on \ud83e\udded\nTwitter - https://twitter.com/1littlecoder",
+        "id": 4991425,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=iojpox2fWPQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 948,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCpV_X0VrL8-jg3t6wYGS-1g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/iojpox2fWPQ/hqdefault.jpg",
+        "title": "Gemini Embedding 2 Hands-on in 8 mins!",
+        "vote": 0
+    }
+]
