@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kevin Stratvert",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-12T14:06:14.103792+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-12T12:31:06+00:00",
+        "description": "Google Maps just introduced one of the biggest updates to driving navigation in the past decade.\n\nIn this video, I join the Google Maps team in Seattle to test the new 3D driving experience, part of Google Maps\u2019 new Immersive Navigation, and see how it changes the way navigation works in real-world conditions.\n\nInstead of a flat map, Google Maps now shows layered roads, tunnels, terrain, and landmarks in 3D, helping drivers better understand complex intersections and avoid wrong turns. The goal is simple: make the map match what you actually see through your windshield.\n\nThis new Immersive Navigation experience helps drivers understand complicated roads more intuitively by showing elevation, overpasses, tunnels, and landmarks in a way that mirrors the real world.\n\nYou'll also learn how AI and Google Gemini help build these maps using satellite imagery, Street View, and road data.\n\nFinally, I\u2019ll show you how to enable the new 3D driving experience / Immersive Navigation so you can try ",
+        "id": 4995124,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=iDcGQMx66Vg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 958,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfJT_eYDTmDE-ovKaxVE1ig",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/iDcGQMx66Vg/hqdefault.jpg",
+        "title": "Google Maps Just Changed Driving Forever (New 3D Navigation)",
+        "vote": 0
+    }
+]

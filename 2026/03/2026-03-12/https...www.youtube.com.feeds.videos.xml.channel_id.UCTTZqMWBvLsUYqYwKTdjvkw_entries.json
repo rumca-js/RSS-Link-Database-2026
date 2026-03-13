@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mateusz Chrobok",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-12T12:06:48.438826+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-12T07:18:19+00:00",
+        "description": "Telefon skanuje w tle pakiety identyfikacyjne Bluetooth wysy\u0142ane przez urz\u0105dzenia w pobli\u017cu. W tych kr\u00f3tkich komunikatach znajduje si\u0119 mi\u0119dzy innymi identyfikator producenta przypisany w standardzie Bluetooth. Je\u015bli aplikacja wykryje identyfikator nale\u017c\u0105cy do firmy produkuj\u0105cej smart-okulary - np. Meta Platforms, Snap Inc. albo Luxottica Group - u\u017cytkownik dostaje powiadomienie, \u017ce w pobli\u017cu mo\u017ce znajdowa\u0107 si\u0119 takie urz\u0105dzenie. \n\u0179r\u00f3d\u0142o: https://zurl.co/07NaZ #shorts",
+        "id": 4994202,
+        "language": "pl-PL",
+        "link": "https://www.youtube.com/shorts/BBFSHKCmJLE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 211,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTTZqMWBvLsUYqYwKTdjvkw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/BBFSHKCmJLE/hqdefault.jpg",
+        "title": "\ud83d\udc53 Uwaga, wykryto inteligentne okulary!",
+        "vote": 0
+    }
+]

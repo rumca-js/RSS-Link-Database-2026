@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-12T20:09:30.521249+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-12T19:48:29+00:00",
+        "description": "https://cppcon.org\n---\n\nKnockin' on Header's Door: An Overview of C++ Modules - Alexsandro Thomas - CppCon 2025\n---\n\nC++20 modules introduce a major shift in how code is organized and built, aiming to solve long-standing issues with headers and improve both compile times and code encapsulation. This talk offers an overview of what modules are and how they differ from traditional header files. We will cover practical considerations for introducing modules into existing codebases and designing new projects with a module-first approach, while exploring the latest and upcoming advancements of this feature as of 2025. \n \nWe'll walk through the differences in compilation, visibility, and dependency management compared to the preprocessor-based model. We'll also explore the current landscape of C++ module support across major compilers and briefly examine the state of tooling integration with build systems and package managers. In addition, we\u2019ll discuss the limitations, ongoing ecosystem ga",
+        "id": 4998524,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=fZrDG_he9sE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/fZrDG_he9sE/hqdefault.jpg",
+        "title": "Knockin' on Header's Door: An Overview of C++ Modules - Alexsandro Thomas - CppCon 2025",
+        "vote": 0
+    }
+]

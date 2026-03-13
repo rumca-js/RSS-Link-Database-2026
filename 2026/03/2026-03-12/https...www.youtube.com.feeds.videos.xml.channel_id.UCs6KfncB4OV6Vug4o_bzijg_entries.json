@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Techlore",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-12T02:40:49.485569+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-12T00:27:09+00:00",
+        "description": "California passed a law forcing operating systems to track your age and report it to every app you use. It takes effect January 1, 2027, and applies to *EVERY* operating system. Colorado, Illinois, Louisiana, New York, Texas, and Utah have similar bills pending. Here's what's happening and what you can do.\n\nStart learning cyber security with TryHackMe: https://tryhackme.com/techlore\nUse code \"TECHLORE25\" to get 25% off an annual subscription!\n\n\ud83d\udcf1 RESOURCES IN VIDEO\n\u2022 System76 Blog: https://blog.system76.com/post/system76-on-age-verification\n\u2022 Contact Colorado: https://leg.colorado.gov/\n\u2022 Contact CA: https://www.assembly.ca.gov/assemblymembers\n\u2022 EFF Resources: https://www.eff.org/issues/age-verification\n\u2022 Contact House Reps: https://www.house.gov/representatives/find-your-representative\n\u2022 Register: https://www.theregister.com/2026/03/10/foss_age_verification_2/\n\u2022 Phoronix: https://www.phoronix.com/news/Colorado-Maybe-Exclude-OSS\n\u2022 9to5Linux: https://9to5linux.com/ubuntu-fedora-linux-min",
+        "id": 4991688,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=Ywy_MD3Idow",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 327,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/Ywy_MD3Idow/hqdefault.jpg",
+        "title": "Your OS Must Now Report Your Age to Every App",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": null,
+        "author": "Harry Jaggard",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-02T14:48:29.986668+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-12T14:52:02.179278+00:00",
+        "description": "Professional idiot completing side missions",
+        "id": 3964483,
+        "language": "en",
+        "link": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8fwExOkHg0_fX_XJcR31NA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": true,
+        "source__id": 900,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8fwExOkHg0_fX_XJcR31NA",
+        "status_code": 200,
+        "tags": [],
+        "thumbnail": "https://yt3.googleusercontent.com/MwWbpKfxG14Upp_JytrrSQIXpkvFStdNhTfFu4KWJZFbCBkgcXkEKKiI7cqE7Rn1FvAqdpSDuoU=s900-c-k-c0x00ffffff-no-rj",
+        "title": "Harry Jaggard",
+        "vote": 0
+    }
+]

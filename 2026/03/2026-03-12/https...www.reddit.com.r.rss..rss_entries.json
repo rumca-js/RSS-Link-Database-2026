@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/TheKrzysiek",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-12T20:34:06.048842+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-12T19:54:25+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>tldr; I use a Discord bot Mirror to send me new images from artists, but I&#39;ve had issues with getting it to work with twitter</p> <p>Ideally it would be just from the &quot;media&quot; tab, as then I would just see the new images without other stuff I won&#39;t care about</p> <p>I tried sites like nitter but those didnt want to work either</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/TheKrzysiek\"> /u/TheKrzysiek </a> <br/> <span><a href=\"https://www.reddit.com/r/rss/comments/1rs18qn/can_i_get_an_rss_feed_of_the_media_tab_from_a/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rss/comments/1rs18qn/can_i_get_an_rss_feed_of_the_media_tab_from_a/\">[comments]</a></span>",
+        "id": 4998716,
+        "language": "en",
+        "link": "https://www.reddit.com/r/rss/comments/1rs18qn/can_i_get_an_rss_feed_of_the_media_tab_from_a",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 482,
+        "source_url": "https://www.reddit.com/r/rss/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Can I get an RSS feed of the media tab from a Twitter/X profile, that works with a Discord bot?",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-12T05:16:20.114509+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-12T04:56:13+00:00",
+        "description": "MYIR has introduced the MYC-YM62LX system-on-module based on Texas Instruments&#8217; AM62Lx processor family, along with the MYD-YM62LX development board. The platform is intended for embedded and industrial systems such as HMI devices, PLC controllers, EV charging equipment, medical systems, and industrial automation. The MYC-YM62LX measures 43 &#215; 45 mm and is powered by the TI [&#8230;]",
+        "id": 4992313,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/myir-launches-am62lx-based-myc-ym62lx-som-with-3x-can-fd-and-8x-uart",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "MYIR Launches AM62Lx-based MYC-YM62LX SoM with 3\u00d7 CAN-FD and 8\u00d7 UART",
+        "vote": 0
+    }
+]

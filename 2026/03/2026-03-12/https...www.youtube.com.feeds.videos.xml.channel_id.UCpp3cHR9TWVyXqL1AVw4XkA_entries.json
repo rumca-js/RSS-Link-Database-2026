@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": null,
+        "author": "Mike Okay",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-11-02T14:48:33.246532+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-12T14:53:35.060581+00:00",
+        "description": "I like adventures",
+        "id": 3964484,
+        "language": "en",
+        "link": "https://www.youtube.com/feeds/videos.xml?channel_id=UCpp3cHR9TWVyXqL1AVw4XkA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": true,
+        "source__id": 901,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCpp3cHR9TWVyXqL1AVw4XkA",
+        "status_code": 200,
+        "tags": [],
+        "thumbnail": "https://yt3.googleusercontent.com/e9Z3htcbpM9rFaP0RBN5ULiXZqx4D8ruqL8DByt4BzJEajkAoXnmOuSxYGAaI_DMv_3zqZQoRQ=s900-c-k-c0x00ffffff-no-rj",
+        "title": "Mike Okay",
+        "vote": 0
+    }
+]
