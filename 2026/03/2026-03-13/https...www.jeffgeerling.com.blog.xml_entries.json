@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-13T14:23:20.206105+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-13T09:00:00+00:00",
+        "description": "<p>Recently I came into posession of a few Apple Xserves. The one in question today is an Xserve G5, <a href=\"https://everymac.com/systems/apple/xserve/specs/xserve_g5_2.0.html\">RackMac3,1</a>, which was built when Apple at the top\u2014and bottom\u2014of it's PowerPC era.</p>\n<figure class=\"insert-image\"><img src=\"https://www.jeffgeerling.com/blog/2026/restoring-xserve-g5-apple-server/xserve-g5-hero.jpeg\"\n alt=\"Xserve G5 on Jeff&#39;s desk\" width=\"700\" height=\"auto\">\n</figure>\n\n<p>This isn't the first Xserve\u2014that honor belongs to the G4<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup>. And it wasn't the last\u2014there were a few generations of Intel Xeon-powered RackMacs that followed. But in my opinion, it was the most interesting.</p>\n<p>Unfortunately, being manufactured in 2004, this Mac's Delta power supply suffers from the <a href=\"https://en.wikipedia.org/wiki/Capacitor_plague\">Capacitor Plague</a>. The PSU tends to run hot, and some of the capacitors were",
+        "id": 5004536,
+        "language": "en",
+        "link": "https://www.jeffgeerling.com/blog/2026/restoring-xserve-g5-apple-server",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 162,
+        "source_url": "https://www.jeffgeerling.com/blog.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.jeffgeerling.com/blog/2026/restoring-xserve-g5-apple-server/xserve-g5-hero.jpeg",
+        "title": "Restoring an Xserve G5: When Apple built real servers",
+        "vote": 0
+    }
+]

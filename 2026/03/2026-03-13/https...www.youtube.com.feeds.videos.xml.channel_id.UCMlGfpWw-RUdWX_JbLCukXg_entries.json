@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-13T17:09:06.663278+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-13T16:02:25+00:00",
+        "description": "https://cppcon.org\n---\n\nModern C++ for Embedded Systems: From Fundamentals to Real-Time Solutions - Rutvij Girish Karkhanis - CppCon 2025\n---\n\nWhile C has long been the dominant language in embedded systems development, modern C++ offers a rich set of features that can significantly improve code quality, robustness, and efficiency \u2014 all without sacrificing performance on resource-constrained devices. \n \nThis session introduces practical, real-world techniques for applying modern C++ to embedded systems. It is divided into three focused parts: \n \nPart 1: Getting Started with Embedded C++ This section lays the foundation for writing efficient, safe embedded code in C++. It covers key language features, design semantics, and optimization strategies suitable for microcontrollers, helping developers transition from C to C++ with confidence. \n \nPart 2: C++ Components for Embedded Systems This section explores powerful C++ constructs \u2014 including class types, templates, and selected STL compo",
+        "id": 5006027,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=7uwPcCfcv1k",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/7uwPcCfcv1k/hqdefault.jpg",
+        "title": "Modern C++ for Embedded Systems: From Fundamentals to Real-Time Solutions - Rutvij Girish Karkhanis",
+        "vote": 0
+    }
+]

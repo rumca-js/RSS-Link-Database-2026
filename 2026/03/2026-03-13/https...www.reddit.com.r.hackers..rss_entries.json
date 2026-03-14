@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/EchoOfOppenheimer",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-13T11:08:12.575486+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-13T10:15:59+00:00",
+        "description": "<table> <tr><td> <a href=\"https://www.reddit.com/r/hackers/comments/1rsjg98/ai_allows_hackers_to_identify_anonymous_social/\"> <img src=\"https://external-preview.redd.it/PrldNJ6hoGI2Pe7ehvm8o19mKLQpGs2filphJXRdBzQ.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=70a11fa146cc6d0f0a7008184b6038aee2796178\" alt=\"AI allows hackers to identify anonymous social media accounts\" title=\"AI allows hackers to identify anonymous social media accounts\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>A new study reveals that AI has made it vastly easier for malicious hackers to uncover the real identities behind anonymous social media profiles. Researchers found that Large Language Models (LLMs) like ChatGPT can cost-effectively scrape and cross-reference tiny details across different platforms to de-anonymize users.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/EchoOfOppenheimer\"> /u/EchoOfOppenheimer </a> <br/> <span><a href=\"https://www.theguardian.com",
+        "id": 5003244,
+        "language": "en",
+        "link": "https://www.reddit.com/r/hackers/comments/1rsjg98/ai_allows_hackers_to_identify_anonymous_social",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 536,
+        "source_url": "https://www.reddit.com/r/hackers/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://external-preview.redd.it/PrldNJ6hoGI2Pe7ehvm8o19mKLQpGs2filphJXRdBzQ.jpeg?width=640&crop=smart&auto=webp&s=70a11fa146cc6d0f0a7008184b6038aee2796178",
+        "title": "AI allows hackers to identify anonymous social media accounts",
+        "vote": 0
+    }
+]

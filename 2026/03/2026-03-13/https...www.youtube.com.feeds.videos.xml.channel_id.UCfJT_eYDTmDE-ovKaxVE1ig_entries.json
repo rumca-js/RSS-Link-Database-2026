@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kevin Stratvert",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-13T11:13:55.936026+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-13T07:00:33+00:00",
+        "description": "Copilot Agents are specialized AI assistants that can handle tasks or answer questions within specific, defined parameters. You can use agents in Copilot or make your own agents using the Copilot Agent Builder or Copilot Studio.\n\nAgents can even work autonomously or link to applications, facilitating workflows across multiple applications. This video shows how agents work in general, then shows how to put agents to work immediately in Microsoft 365 Copilot. Microsoft provides several pre-made agents. There are also third-party agents that make Copilot act as an AI front-end for different apps and services. This video also shows how to easily create your own agent using the Copilot Agent Builder, or how to build more advanced agents using Copilot Studio.\n\nWhat you\u2019ll learn:\n- What are Agents\n- Using Agents in Microsoft 365 Copilot\n- Use Agents provided by Microsoft, including the Researcher and Analyst Agents\n- Analyze and modify spreadsheets using the Agent Mode in Excel\n- Expand Copi",
+        "id": 5003264,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=UTRTZMwElWg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 958,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfJT_eYDTmDE-ovKaxVE1ig",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/UTRTZMwElWg/hqdefault.jpg",
+        "title": "Make your Own Agents in Copilot | Complete Tutorial",
+        "vote": 0
+    }
+]

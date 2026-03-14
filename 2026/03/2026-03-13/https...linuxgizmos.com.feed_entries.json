@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-13T05:57:23.903701+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-13T04:30:12+00:00",
+        "description": "Forlinx has introduced the FET-MX95xx-C SoM built around NXP&#8217;s i.MX95 applications processor family and demonstrated a multimodal industrial security solution at Embedded World 2026. The demo combines the i.MX95 processor with an Ara240 AI computing card to accelerate edge inference workloads. The module integrates the NXP i.MX9596 processor, which combines six Arm Cortex-A55 cores running [&#8230;]",
+        "id": 5001896,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/forlinx-showcases-i-mx95-based-fet-mx95xx-c-som-at-embedded-world-2026",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Forlinx Showcases i.MX95-Based FET-MX95xx-C SoM at Embedded World 2026",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-13T13:57:15.872001+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-13T13:11:56+00:00",
+        "description": "The move forms part of a broader process of returning cultural artefacts to African countries that started in 2017.\u200e",
+        "id": 5004275,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/cvg3yv2e9p1o",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 521,
+        "source_url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7446/live/acf80b00-1eca-11f1-84c5-132fa5d854db.jpg",
+        "title": "France returns sacred 'talking drum' looted during colonial rule to Ivory Coast",
+        "vote": 0
+    }
+]

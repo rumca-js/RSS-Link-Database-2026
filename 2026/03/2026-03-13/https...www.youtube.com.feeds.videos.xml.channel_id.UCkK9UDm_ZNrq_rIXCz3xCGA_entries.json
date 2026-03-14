@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Lunduke Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-13T17:37:41.004742+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-13T16:34:29+00:00",
+        "description": "Plus: In response to California Age Verification law, SUSE VP of Engineering says, \"SUSE will not be adopting a policy stating that our products can't be sold or used in California.\"\n\nMore from The Lunduke Journal:\nhttps://lunduke.com/",
+        "id": 5006358,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=ionbTb8YnAo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 616,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkK9UDm_ZNrq_rIXCz3xCGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/ionbTb8YnAo/hqdefault.jpg",
+        "title": "World's Oldest Linux Company, SUSE, is For Sale... Again.",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeff Geerling",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-13T17:35:33.391714+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-13T14:01:14+00:00",
+        "description": "A #MARCHintosh project: my first Xserve!\n\nShop Micro Center's Monitor Madness Event: https://micro.center/1eb0c8\nSign up for a FREE 128 gig Flash Drive at Micro Center's Newest Store: https://micro.center/c1a7b6\nVisit Micro Center News: https://micro.center/310248\n\nThings I mentioned in the video (some links are affiliate links):\n\n  - Apple's U.S. Manufacturing and ACDC Servers: https://www.apple.com/newsroom/2026/02/apple-accelerates-us-manufacturing-with-mac-mini-production/\n  - House of Moth Xserve G5 PSU Recap Guide: https://thehouseofmoth.com/recapping-an-xserve-g5-power-supply-part-1-preparations/\n  - 65scribe video on Apple Network Server 500: https://www.youtube.com/watch?v=PsVAdrdkyoA\n  - Menda IPA bottle: https://amzn.to/4sb2igE\n  - Kimwipes: https://amzn.to/4rBEIsw\n  - Apple's 2002 Special Event (Xserve G4 launch): https://archive.org/details/2002-05-13-wwdc-xserve-introduction\n  - Hakko FX-888DX Soldering station: https://amzn.to/4cHQy0k\n  - iFixit FixMat Magnetic Project ",
+        "id": 5006322,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=kFnvZ4NWr00",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 161,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR-DXc1voovS8nhAvccRZhg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/kFnvZ4NWr00/hqdefault.jpg",
+        "title": "Apple used to make REAL servers",
+        "vote": 0
+    }
+]

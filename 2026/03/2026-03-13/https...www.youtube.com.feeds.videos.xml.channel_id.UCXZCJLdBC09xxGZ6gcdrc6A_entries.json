@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "OpenAI",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-13T21:20:02.077000+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-13T20:08:30+00:00",
+        "description": "We\u2019re introducing Skills in beta for ChatGPT Business and Enterprise.\n\nSkills are reusable, shareable workflows that tell ChatGPT exactly how to do a specific task, enabling ChatGPT to do that task better and more consistently. A skill can bundle instructions, examples, and even code. Once a skill has been created and installed, ChatGPT can automatically use a skill (or multiple skills) when it\u2019s helpful.\n\nA skill can include instructions and supporting resources you want ChatGPT to use whenever you ask it to do a specific task. And for more structured work, skills can include a set of steps that run the same way every time.\n\nSkills are available in beta in ChatGPT Business and Enterprise. Skills are also supported in Codex and the API. While they don\u2019t sync across products yet, OpenAI skills follow the Agent Skills open standard\u2014so you can download them from one product and install them in another.",
+        "id": 5008007,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=qh93rLRPw80",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 935,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXZCJLdBC09xxGZ6gcdrc6A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/qh93rLRPw80/hqdefault.jpg",
+        "title": "ChatGPT skills in beta for ChatGPT Business & Enterprise",
+        "vote": 0
+    }
+]
