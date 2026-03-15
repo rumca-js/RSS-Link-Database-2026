@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-14T09:46:49.991521+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-14T05:00:53+00:00",
+        "description": "Deglobalisation is expensive for individual countries, but a windfall for their suppliers",
+        "id": 5011189,
+        "language": "en",
+        "link": "https://www.ft.com/content/7938e68a-22f9-4e83-8f66-302fd8f94297",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 110,
+        "source_url": "https://www.ft.com/rss/home",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F38d52fd0-5d61-459a-b8f5-54dbadbb4bcb.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "title": "Sovereign AI is a bet on the economies of anti-scale",
+        "vote": 0
+    }
+]

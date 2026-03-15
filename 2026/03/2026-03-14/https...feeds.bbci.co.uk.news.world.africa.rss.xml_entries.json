@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-14T01:51:50.576010+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-14T00:39:24+00:00",
+        "description": "Rostam Aziz's purchase raises questions about continued journalistic independence in the region.",
+        "id": 5009585,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/cy0d7k75l2go",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 521,
+        "source_url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d538/live/205dd780-1eb9-11f1-a071-59d480923043.jpg",
+        "title": "Fears for press freedom as billionaire takes control of East Africa's largest media house",
+        "vote": 0
+    }
+]

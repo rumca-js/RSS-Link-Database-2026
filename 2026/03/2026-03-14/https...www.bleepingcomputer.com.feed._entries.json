@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Lawrence Abrams",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-14T22:17:50.072436+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-14T17:48:14+00:00",
+        "description": "Microsoft has released an out-of-band (OOB) update to fix a security vulnerabilities affecting Windows 11 Enterprise devices that receive hotpatch updates instead of the regular Patch Tuesday cumulative updates. [...]",
+        "id": 5015011,
+        "language": "en-US",
+        "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-11-oob-hotpatch-to-fix-rras-rce-flaw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 40,
+        "source_url": "https://www.bleepingcomputer.com/feed/",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Microsoft releases Windows 11 OOB hotpatch to fix RRAS RCE flaw",
+        "vote": 0
+    }
+]

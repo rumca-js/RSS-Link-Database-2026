@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Gruber",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-14T22:30:16.777770+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-14T22:06:02+00:00",
+        "description": "<p>iFixit:</p>\n\n<blockquote>\n  <p>Is Apple\u2019s most affordable laptop ever also one of its most repairable? For years, opening a MacBook has usually meant fighting your way through glue and buried parts.</p>\n\n<p>But the Neo stands out, with increasingly good day-one manuals, less-painful keyboard repairs, and a screwed-in battery tray that sent cheers across the iFixit office. This laptop proves that things can be made more affordable <em>and</em> more repairable at the same time.</p>\n</blockquote>\n\n<p>That conclusion is backwards, I think. I suspect the MacBook Neo is more repairable not despite of its lower price, but <em>because</em> of its lower price. It\u2019s designed and engineered to be easier, and thus cheaper, to assemble. And the aspects that make it easier to assemble make it easier to disassemble.</p>\n\n<p>Regarding the Neo\u2019s 2.7-pound weight:</p>\n\n<blockquote>\n  <p>We were all a bit curious as to why the cheaper and less feature rich Neo weighed the same as a MacBook Air M3, ea",
+        "id": 5015107,
+        "language": "",
+        "link": "https://www.ifixit.com/News/116152/macbook-neo-is-the-most-repairable-macbook-in-14-years",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 489,
+        "source_url": "https://daringfireball.com/feeds/main",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "iFixit\u2019s MacBook Neo Teardown",
+        "vote": 0
+    }
+]

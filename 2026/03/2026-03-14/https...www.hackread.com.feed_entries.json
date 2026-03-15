@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Deeba Ahmed",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-14T13:34:03.712578+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-14T12:37:00+00:00",
+        "description": "ShinyHunters claims it stole up to 1 petabyte of data from Telus Digital, including support recordings, code, and employee records after a breach.",
+        "id": 5012262,
+        "language": "en-US",
+        "link": "https://hackread.com/shinyhunters-1-petabyte-data-breach-telus-digital",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 139,
+        "source_url": "https://www.hackread.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "ShinyHunters Claims 1 Petabyte Data Theft from Telecom Giant Telus",
+        "vote": 0
+    }
+]

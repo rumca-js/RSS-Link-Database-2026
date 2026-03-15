@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/omasanori",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-14T05:13:31.213401+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-14T03:39:20+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>Note that <a href=\"https://arxiv.org/abs/2508.13840\">Is RISC-V ready for High Performance Computing? An evaluation of the Sophon SG2044</a> (preprint) by the same author is closely related to this article as it evaluates the successor of the processor evaluated in the article</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/omasanori\"> /u/omasanori </a> <br/> <span><a href=\"https://dl.acm.org/doi/10.1145/3757348.3757367\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/RISCV/comments/1rt8z80/what_is_riscv_and_why_should_we_care/\">[comments]</a></span>",
+        "id": 5010338,
+        "language": "en",
+        "link": "https://www.reddit.com/r/RISCV/comments/1rt8z80/what_is_riscv_and_why_should_we_care",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 471,
+        "source_url": "https://www.reddit.com/r/RISCV/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "What is RISC-V and why should we care?",
+        "vote": 0
+    }
+]

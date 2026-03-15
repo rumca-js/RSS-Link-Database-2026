@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Lunduke Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-15T00:11:28.345978+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-14T19:56:01+00:00",
+        "description": "It's true, Meta lobbied for specific age verification laws. But that is only a small part of the story, which involves Google, Apple, OpenAl... and even Roblox.\n\nThe Meta Lobbying document:\nhttps://github.com/upper-up/meta-lobbying-and-other-findings\n\nMore from The Lunduke Journal:\nhttps://lunduke.com/",
+        "id": 5015555,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=s6Nu6FMRWrQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 616,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkK9UDm_ZNrq_rIXCz3xCGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/s6Nu6FMRWrQ/hqdefault.jpg",
+        "title": "Is Meta Behind the Age Verification Laws?",
+        "vote": 0
+    }
+]
