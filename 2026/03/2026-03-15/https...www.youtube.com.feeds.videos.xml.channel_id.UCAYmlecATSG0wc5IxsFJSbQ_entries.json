@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Doug Sharpe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-15T16:50:56.284233+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-15T16:00:45+00:00",
+        "description": "Rent a Human allows AI agents to rent humans to complete physical tasks in the real world and refers to itself as the \u201cmeat space layer for AI\u201d",
+        "id": 5019436,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/Yb1OKJOfgGI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 811,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCAYmlecATSG0wc5IxsFJSbQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/Yb1OKJOfgGI/hqdefault.jpg",
+        "title": "AI Agents Can Now Rent Humans #funfact",
+        "vote": 0
+    }
+]

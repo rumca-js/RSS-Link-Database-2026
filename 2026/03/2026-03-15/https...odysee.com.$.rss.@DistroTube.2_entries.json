@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "DistroTube",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-15T14:25:06.044653+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-15T13:00:05+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/2bI-HlSG3_I\" width=\"480\" alt=\"thumbnail\" title=\"'head'- print the beginning of files - Video Man Pages\" /></p>The 'head' command is used to print the beginning lines of a file.<br /><br />- Print first 10 lines in a file:<br />  head path/to/file<br /><br />- Print first 10 lines of multiple files:<br />  head path/to/file1 path/to/file2 ...<br /><br />- Print the first 5 lines (-n 5) of a file:<br />  head -n 5 path/to/file<br /><br />- Print everything but the last 5 lines (-n -5) of a file:<br />  head -n -5 path/to/file<br /><br />- Print the first 12 bytes (-c) of a file:<br />  head -c 12 path/to/file<br /><br />- Print everything but the last few bytes of a file:<br />  head -c -12 path/to/file<br /><br />- Use verbose mode (-v) to print headers giving file names:<br />  head -v file1<br />  NOTE When running 'head' on multiple files, verbose is the default mode.<br /><br />- Use quiet mode (-q) to suppress the printing of headers giving",
+        "id": 5018703,
+        "language": "en",
+        "link": "https://odysee.com/%27head%27-print-the-beginning-of-files:742cb2b5c93f1f83693fdc40dc67bc703636e7c5",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 518,
+        "source_url": "https://odysee.com/$/rss/@DistroTube:2",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/2bI-HlSG3_I",
+        "title": "'head'- print the beginning of files - Video Man Pages",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "David Bombal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-15T19:37:56.625560+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-15T14:30:25+00:00",
+        "description": "Big thanks to @ThreatLocker for sponsoring my trip to ZTW26 and also for sponsoring this video.  To start your free trial with ThreatLocker please use the following link:  https://www.threatlocker.com/davidbombal\n\nAre you looking to get into bug bounty hunting but feel overwhelmed or worried the field is oversaturated? In this video, full-time bug bounty hunter Justin Gardner shares a realistic, actionable guide to web hacking for beginners.\n\nWe dive straight into the practical side with five live demonstrations of common web vulnerabilities\u2014all done using just your browser and DevTools. Justin explains how Insecure Direct Object Reference (IDOR), Broken Access Controls, Cross-Site Scripting (XSS), and Cross-Site Request Forgery (CSRF) work in the real world, including stories of finding these exact bugs on major platforms like Google.\n\nAfter the demos, we tackle the biggest questions new hackers have: Is there still money to be made in 2026? How has AI changed the landscape? And what",
+        "id": 5020371,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=KBIQE9fo8mU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 984,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP7WmQ_U4GB3K51Od9QvM0w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/KBIQE9fo8mU/hqdefault.jpg",
+        "title": "Top 4 Web hacking demos for aspiring hackers (with labs and CTF)",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mateusz Chrobok",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-15T20:04:02.844000+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-15T17:00:45+00:00",
+        "description": "\ud83c\udfed\u00a0Przemys\u0142 to nie tylko fabryki produkuj\u0105ce \u015brubki. To woda w kranie, pr\u0105d w gniazdku, ciep\u0142o w kaloryferze i gofry w \u017babce. Ka\u017cdy proces mo\u017ce by\u0107 zaatakowany \u2013 pytanie, jakie b\u0119d\u0105 skutki i kto poniesie odpowiedzialno\u015b\u0107. Witajcie w \u015bwiecie bezpiecze\u0144stwa OT, w kt\u00f3rym elektrownie dzia\u0142aj\u0105 bez patchy przez p\u00f3\u0142 roku a rosyjski malware atakuje systemy safety. Razem z Zuzann\u0105 Wieczorek, prezesk\u0105 firmy Tekniska, rozmawiamy o tym, czego nie wida\u0107: o systemach steruj\u0105cych fabrykami, elektrowniami i infrastrukturze krytycznej. Dlaczego IT-owcy odbijaj\u0105 si\u0119 od \"\u015bciany z kolcami\", gdy wchodz\u0105 w \u015bwiat przemys\u0142u? I dlaczego atak na OZE w grudniu 2025 \"uda\u0142 si\u0119 i nie uda\u0142\" jednocze\u015bnie.\n \nLinki:\n\ud83d\udc64\u00a0Zuzanna Wieczorek \u2013 prezeska Tekniska, ekspertka od bezpiecze\u0144stwa OT z ponad 15-letnim do\u015bwiadczeniem. Organizatorka konferencji CyberTek w Katowicach, gdzie spotyka si\u0119 spo\u0142eczno\u015b\u0107 OT.\nTekniska: https://tekniska.pl\u00a0\nCyberTek 2026 (13-14 maja, Katowice): https://cybertek.com.pl\n\nPolecajki od Zuzanny:\n\n\ud83d\udcda\u00a0",
+        "id": 5020475,
+        "language": "pl-PL",
+        "link": "https://www.youtube.com/watch?v=XLRcCQ8YEEE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 211,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTTZqMWBvLsUYqYwKTdjvkw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/XLRcCQ8YEEE/hqdefault.jpg",
+        "title": "TL;DR_04 Walka o bezpiecze\u0144stwo polskich przedsi\u0119biorstw feat. Zuzanna Wieczorek",
+        "vote": 0
+    }
+]

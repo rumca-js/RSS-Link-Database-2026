@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Andrew Curry",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-16T02:03:38.859118+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-15T08:01:00+00:00",
+        "description": "A collapsed roof preserved wood from one of the world\u2019s oldest weaving machines",
+        "id": 5022197,
+        "language": "en-US",
+        "link": "https://www.science.org/content/article/bronze-age-loom-weaves-tale-ancient-textiles",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 187,
+        "source_url": "https://www.science.org/rss/news_current.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Bronze Age loom weaves a tale of ancient textiles",
+        "vote": 0
+    }
+]

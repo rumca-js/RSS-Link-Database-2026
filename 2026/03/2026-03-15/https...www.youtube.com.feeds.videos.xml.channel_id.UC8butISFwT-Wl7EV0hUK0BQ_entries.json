@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-15T13:36:44.577193+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-15T12:43:21+00:00",
+        "description": "As a freelance dev, treat every email or phone call as if it could become 10 more",
+        "id": 5018487,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/NCfxtLZQSzA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/NCfxtLZQSzA/hqdefault.jpg",
+        "title": "As a freelance dev, treat every email or phone call as if it could become 10 more",
+        "vote": 0
+    }
+]

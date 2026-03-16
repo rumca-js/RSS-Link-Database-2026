@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Techno Tim",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-15T15:31:29.038248+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-15T15:18:36+00:00",
+        "description": "I\u2019m finally doing a full tour of the services I\u2019m running in my homelab in 2026.\n\nIn my last homelab video, I focused on the hardware. This time, I\u2019m breaking down the software and services behind it all: Proxmox, TrueNAS, Kubernetes, Docker, monitoring, media, home automation, document management, AI tools, and more.\n\nI cover what I run, why I use it, and how it all fits together across my home lab and co-location setup.\n\nThank you to all of the open source projects in this video.  \n\nVideo Notes: https://technotim.com/posts/homelab-services-tour-2026/\n\nMerch Shop \ud83d\udecd\ufe0f: https://l.technotim.com/shop\nSupport me on Patreon: https://www.patreon.com/technotim\nSponsor me on GitHub: https://github.com/sponsors/timothystewart6\nSubscribe on Twitch: https://www.twitch.tv/technotim\nBecome a YouTube member: https://www.youtube.com/channel/UCOk-gHyjcWZNj3Br4oxwh0A/join\nGear Recommendations: https://l.technotim.com/gear\nGet Help in Our Discord Community: https://l.technotim.com/discord\n2nd channel: h",
+        "id": 5019051,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=efl2kuPNEpE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 911,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCOk-gHyjcWZNj3Br4oxwh0A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/efl2kuPNEpE/hqdefault.jpg",
+        "title": "What\u2019s Actually Running in My Homelab? (50+ Self-Hosted Services)",
+        "vote": 0
+    }
+]

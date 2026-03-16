@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Eduard Kovacs",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-15T10:40:34.647577+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-15T10:00:00+00:00",
+        "description": "<p>Personal information such as names, email addresses, and phone numbers was accessed by hackers.</p>\n<p>The post <a href=\"https://www.securityweek.com/loblaw-data-breach-impacts-customer-information/\">Loblaw Data Breach Impacts Customer Information</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+        "id": 5017620,
+        "language": "en-US",
+        "link": "https://www.securityweek.com/loblaw-data-breach-impacts-customer-information",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 299,
+        "source_url": "https://www.securityweek.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Loblaw Data Breach Impacts Customer Information",
+        "vote": 0
+    }
+]

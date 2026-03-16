@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-15T20:52:09.913402+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-15T19:35:14+00:00",
+        "description": "AMYboard is a compact DIY music synthesizer board designed for integration into custom music projects or installation as a Eurorack-compatible 10HP module. The board is powered by an ESP32-S3 module and runs the open-source AMY synthesizer engine, which supports multiple synthesis techniques including virtual analog, FM, wavetable, and sample playback. The system is built around [&#8230;]",
+        "id": 5020625,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/amyboard-esp32-s3-synth-board-supports-midi-cv-and-eurorack-integration",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "AMYboard ESP32-S3 Synth Board Supports MIDI, CV, and Eurorack Integration",
+        "vote": 0
+    }
+]

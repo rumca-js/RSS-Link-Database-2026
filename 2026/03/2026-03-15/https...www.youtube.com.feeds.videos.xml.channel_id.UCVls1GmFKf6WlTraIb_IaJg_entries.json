@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "DistroTube",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-15T14:37:20.514252+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-15T13:00:05+00:00",
+        "description": "The 'head' command is used to print the beginning lines of a file.\n\n- Print first 10 lines in a file:\n  head path/to/file\n\n- Print first 10 lines of multiple files:\n  head path/to/file1 path/to/file2 ...\n\n- Print the first 5 lines (-n 5) of a file:\n  head -n 5 path/to/file\n\n- Print everything but the last 5 lines (-n -5) of a file:\n  head -n -5 path/to/file\n\n- Print the first 12 bytes (-c) of a file:\n  head -c 12 path/to/file\n\n- Print everything but the last few bytes of a file:\n  head -c -12 path/to/file\n\n- Use verbose mode (-v) to print headers giving file names:\n  head -v file1\n  NOTE When running 'head' on multiple files, verbose is the default mode.\n\n- Use quiet mode (-q) to suppress the printing of headers giving file names:\n  head -q file1 file2\n  NOTE When running 'head' on a single file, quiet is the default mode.\n\nREFERENCED:\n\u25ba https://gitlab.com/dwt1/vidman - Video Man Pages\n\nWANT TO SUPPORT THE CHANNEL? \n\ud83d\udcb0 Patreon: https://www.patreon.com/distrotube \n\ud83d\udcb3 Paypal: https://www.",
+        "id": 5018764,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=2bI-HlSG3_I",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 95,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVls1GmFKf6WlTraIb_IaJg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/2bI-HlSG3_I/hqdefault.jpg",
+        "title": "'head'- print the beginning of files - Video Man Pages",
+        "vote": 0
+    }
+]

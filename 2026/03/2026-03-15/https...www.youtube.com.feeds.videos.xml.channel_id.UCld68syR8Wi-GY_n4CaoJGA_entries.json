@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-15T18:13:27.161336+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-15T16:30:19+00:00",
+        "description": "You've probably heard about Rust being brought into the kernel by now but another language was once on the table, that being C++ but whatever happened to that and why won't it ever happen now\n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\nCatV Emails: https://harmful.cat-v.org/software/c++/linus\n2024 Discussion: https://www.phoronix.com/news/CPP-Linux-Kernel-2024-Discuss\n\n=========Video Platforms==========\n\ud83c\udfa5 React: https://www.youtube.com/@BrodieRobertsonReacts\n\ud83c\udfa5 Podcast: https://techovertea.xyz/youtube\n\ud83c\udfae Gaming: https://brodierobertson.xyz/gaming\n\n==========Social Media==========\n\ud83c\udfa4 Discord: https://brodierobertson.xyz/discord\n\ud83d\udc26 Twitter: https://brodierobertson.xyz/twitter\n\ud83c\udf10 Mastodon: https://brodierobertson.xyz/mastodon\n\ud83d\udda5\ufe0f GitHub: https://brodierobertson.xyz/github\n\n=",
+        "id": 5019875,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=rVm9K4zICX0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/rVm9K4zICX0/hqdefault.jpg",
+        "title": "Why C++ Never Got Into The Linux Kernel",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-15T10:03:14.729076+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-15T09:01:58+00:00",
+        "description": "We went hands-on with the top external hard drives available today to help you find the best storage solutions.",
+        "id": 5017471,
+        "language": "en-US",
+        "link": "https://www.zdnet.com/article/best-external-hard-drive",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 406,
+        "source_url": "https://www.zdnet.com/news/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "The best external hard drives of 2026: Expert tested",
+        "vote": 0
+    }
+]

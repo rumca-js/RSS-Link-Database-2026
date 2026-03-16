@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "AI Search",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-15T08:28:40.436690+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-15T03:45:12+00:00",
+        "description": "HUGE AI NEWS: Qwen Image 2512, DeepSeek mHC, iQuest Coder, & more \n#ai #ainews #aitools #aivideo Thanks to our sponsor Higgsfield. Try Cinema Studio today! https://higgsfield.ai/s/cinema-studio-2-0-theaisearch-INifxi\n\nSources in order of mention:\nhttps://pq-yang.github.io/projects/MatAnyone2/\nhttps://github.com/AMAP-ML/RL3DEdit\nhttps://inspatio.github.io/worldfm/\nhttps://wildactor.github.io/\nhttps://blog.comfy.org/p/from-workflow-to-app-introducing\nhttps://huggingface.co/circlestone-labs/Anima\nhttps://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-embedding-2/\nhttps://visionary-laboratory.github.io/holi-spatial/\nhttps://huggingface.co/black-forest-labs/FLUX.2-klein-9b-kv\nhttps://shotverse.github.io/\nhttps://spherelab.ai/diagdistill/\nhttps://xiaobiaodu.github.io/mobile-gs-project/\nhttps://developer.nvidia.com/blog/introducing-nemotron-3-super-an-open-hybrid-mamba-transformer-moe-for-agentic-reasoning/\nhttps://effectmaker.github.io/\nhttps://www.hume.ai/blog/opens",
+        "id": 5016831,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=qWzo3ws0uWU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 806,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIgnGlGkVRhd4qNFcEwLL4A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/qWzo3ws0uWU/hqdefault.jpg",
+        "title": "AI maps, realtime 3D worlds, multi-shot videos, new TTS, new anime model: AI NEWS",
+        "vote": 0
+    }
+]
