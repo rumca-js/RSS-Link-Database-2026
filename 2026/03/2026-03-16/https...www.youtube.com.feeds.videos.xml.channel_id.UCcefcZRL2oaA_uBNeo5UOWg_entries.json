@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-16T13:38:43.748135+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-16T13:00:14+00:00",
+        "description": "In this episode of The Lightcone, we talk with Mukund and Madhav Jha, the founders of Emergent - an AI platform that lets anyone build and ship production-ready software. In just eight months, users have created more than 7 million apps on Emergent, with the number doubling in just the last 45 days. We discuss how they built one of the most powerful AI coding agents, why they focused on non-technical users and what it's like building for a global audience from India.\n\nApply to Y Combinator: https://www.ycombinator.com/apply\nWork at a startup: https://www.ycombinator.com/jobs\n\nChapters:\n\n00:00 - Intro\n01:06 - What Is Emergent?\n01:18 - Founder Backstory\n02:09 - From AI Testing to General Coding Agents\n02:52 - Getting Ahead of the Market\n04:18 - The Pivot to Non-Technical Users\n05:22 - Why Second Movers Can Win in AI\n09:04 - Building for Production, Not Just Prototypes\n18:21 - Live Demo: Building Apps with Emergent\n24:40 - How Emergent Hires and Runs a Lean Team\n29:04 - Is SaaS Dead? The",
+        "id": 5025722,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=8SVocWnDHwE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/8SVocWnDHwE/hqdefault.jpg",
+        "title": "Agents For Non-Technical Users",
+        "vote": 0
+    }
+]

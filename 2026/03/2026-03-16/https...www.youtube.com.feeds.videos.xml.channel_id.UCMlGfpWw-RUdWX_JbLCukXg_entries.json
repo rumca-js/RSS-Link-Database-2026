@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-16T13:05:57.131940+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-16T12:00:06+00:00",
+        "description": "Register Now: https://cppcon.org/\n12th-18th September 2026 - Aurora, Colorado, USA\n\nJoin us for CppCon, the annual week-long face-to-face gathering for the entire C++ community. This conference is organized by the C++ community for the community, offering inspirational talks and a friendly atmosphere. Whether you are a C++ novice or an expert, CppCon will appeal to anyone interested in programming and software development.\n\nCppCon is the annual, week-long face-to-face gathering for the entire C++ community. The conference is organized by the C++ community for the community. You will enjoy inspirational talks and a friendly atmosphere designed to help attendees learn from each other, meet interesting people, and generally have a stimulating experience. Taking place this year in Aurora, Colorado, near the Denver airport, and including multiple diverse tracks, the conference will appeal to anyone from C++ novices to experts.\n\nWhat you can expect at CppCon:\n- Invited talks and panels: Eac",
+        "id": 5025412,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=8T71azsPTfE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/8T71azsPTfE/hqdefault.jpg",
+        "title": "Why Every C++ Developer Should Attend CppCon 2026 - 12th-18th September",
+        "vote": 0
+    }
+]

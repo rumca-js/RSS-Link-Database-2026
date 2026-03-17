@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kevin Stratvert",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-16T08:29:54.526286+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-16T07:00:20+00:00",
+        "description": "This OpenClaw tutorial for beginners walks you through setting up a 24/7 AI assistant that reads your email and calendar, with no technical skills required.\n\u26a1 Get started with Zapier MCP \u279c https://bit.ly/46YKrkC \n\nFirst, you'll learn why OpenClaw is powerful and why that power creates real security risks, including the \"lethal trifecta\" that turns any AI agent into a potential weapon. \n\nNext, you'll install OpenClaw on its own cloud server through DigitalOcean so it runs 24/7 without touching your personal computer. Then, you'll connect it to Telegram so you can message your assistant from your phone anytime. \n\nAfterward, you'll use Zapier MCP to give your OpenClaw agent read-only access to Gmail and Google Calendar, controlling exactly what it can and can't do. \n\nYou'll build a morning briefing that checks your calendar at 5am and sends you a summary of your meetings before you even open your laptop. \n\nThen, you'll set up an email triage skill that categorizes your inbox by importanc",
+        "id": 5023776,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=UULGy-f6aE0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 958,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfJT_eYDTmDE-ovKaxVE1ig",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/UULGy-f6aE0/hqdefault.jpg",
+        "title": "OpenClaw Setup Tutorial for Beginners (The Safer Way)",
+        "vote": 0
+    }
+]

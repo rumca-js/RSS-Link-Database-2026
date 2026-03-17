@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "OpenAI",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-16T18:15:15.050652+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-16T17:00:00+00:00",
+        "description": "Healthcare systems around the world are under strain, and both patients and clinicians are feeling the impact. OpenAI's Head of Health Dr. Nate Gross and Karan Singhal, who leads Health AI Research, discuss how AI can help address the biggest challenges. They cover how OpenAI is training models to handle sensitive health questions in collaboration with physicians, and how that foundation is unlocking a new generation of tools for patients, clinicians, and healthcare systems.\n\nChapters:\n00:00:38 \u2013 Origins of Nate and Karan\u2019s interest in AI and healthcare\n00:05:01 \u2013 Strategy for building AI tools for clinicians\n00:06:57 \u2013 How AI models are trained for health use cases\n00:10:15 \u2013 How OpenAI is able to score well on health evals\n00:14:21 \u2013 Key challenges deploying AI in healthcare\n00:21:05 \u2013 Collaboration with hospitals and healthcare systems\n00:23:05 \u2013 Practical everyday uses of AI health assistants\n00:26:43 \u2013 Biggest \u201cwow\u201d moment during development\n00:28:46 \u2013 Feedback from clinicians an",
+        "id": 5028195,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=VAzryGwnJW8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 935,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXZCJLdBC09xxGZ6gcdrc6A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/VAzryGwnJW8/hqdefault.jpg",
+        "title": "Building AI for better healthcare \u2014 the OpenAI Podcast Ep. 14",
+        "vote": 0
+    }
+]

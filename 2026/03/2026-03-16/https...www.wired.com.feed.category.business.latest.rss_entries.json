@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kate Knibbs",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-16T09:32:24.170732+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-16T09:30:00+00:00",
+        "description": "As the legal war over how to regulate prediction markets rages on, financial institutions are embracing the industry anyway.",
+        "id": 5024036,
+        "language": "en-US",
+        "link": "https://www.wired.com/story/prediction-markets-find-a-welcome-on-wall-street",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 396,
+        "source_url": "https://www.wired.com/feed/category/business/latest/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media.wired.com/photos/699ddcf010296269438bfcfe/master/pass/What-Happens-When-People-Can-Bet-on-Everything-Business.jpg",
+        "title": "Wall Street Is Already Betting on Prediction Markets",
+        "vote": 0
+    }
+]

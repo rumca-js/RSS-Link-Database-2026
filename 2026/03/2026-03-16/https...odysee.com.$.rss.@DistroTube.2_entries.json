@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "DistroTube",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-16T13:21:57.355962+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-16T12:31:41+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/Ug5u1OT1sxQ\" width=\"480\" alt=\"thumbnail\" title=\"'tail' - print the ending of files - Video Man Pages\" /></p>The 'tail' command is used to print the ending lines of a file.<br /><br />- Print last 10 lines in a file:<br />  tail path/to/file<br /><br />- Print last 10 lines of multiple files:<br />  tail path/to/file1 path/to/file2 ...<br /><br />- Print last 5 lines (-n 5) in file:<br />  tail -n 5 path/to/file<br /><br />- Print a file starting from line number 5 (-n +5):<br />  tail -n +5 path/to/file<br /><br />- Print the first 12 bytes (-c 12) from the end of a given file:<br />  tail -c 12 path/to/file<br /><br />- Print the last lines of a given file and keep reading it (following it) until CTRL-C:<br />  tail -f path/to/file<br />  NOTE Useful if running 'tail' on a file that is being appended constantly.<br /><br />- Show last 5 lines (-n 5) in a file, follow for changes (-f), and check every 5 seconds (-s 5):<br />  tail -n 5 -s 5 -f ",
+        "id": 5025535,
+        "language": "en",
+        "link": "https://odysee.com/%27tail%27-print-the-ending-of-files-video:8e368013a26dd5c3ca595fcc4af5466e7aba29a3",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 518,
+        "source_url": "https://odysee.com/$/rss/@DistroTube:2",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/Ug5u1OT1sxQ",
+        "title": "'tail' - print the ending of files - Video Man Pages",
+        "vote": 0
+    }
+]

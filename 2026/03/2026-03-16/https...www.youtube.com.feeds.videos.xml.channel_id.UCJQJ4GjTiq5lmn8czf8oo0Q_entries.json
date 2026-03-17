@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "PowerCert Animated Videos",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-16T19:07:18.917514+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-16T12:19:10+00:00",
+        "description": "Visit http://brilliant.org/PowerCert/ for a free 30 day trial and a 20% discount on the annual premium subscription\n\nA jump server (jump box, bastion host) is a server that allows you to securely access other servers or networks in a more limited security zone. It operates as a gateway, letting you access servers in a private network while keeping them safe from direct access from the outside.",
+        "id": 5028638,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=mwQBqhDS7z8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 995,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJQJ4GjTiq5lmn8czf8oo0Q",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/mwQBqhDS7z8/hqdefault.jpg",
+        "title": "What is a Jump Server? (Bastion Host)",
+        "vote": 0
+    }
+]

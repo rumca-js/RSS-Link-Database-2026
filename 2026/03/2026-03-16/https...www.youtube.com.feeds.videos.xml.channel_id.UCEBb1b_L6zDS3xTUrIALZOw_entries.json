@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "MIT OpenCourseWare",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-16T18:00:18.516612+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-16T17:45:06+00:00",
+        "description": "Science Photographer Felice Frankel explains why viewers need to approach scientific images with a critical lens, especially in an era of digital editing and AI-generated images.",
+        "id": 5028061,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/YyUOD5LZDMs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 437,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCEBb1b_L6zDS3xTUrIALZOw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/YyUOD5LZDMs/hqdefault.jpg",
+        "title": "A Critical Lens on Science Images",
+        "vote": 0
+    }
+]

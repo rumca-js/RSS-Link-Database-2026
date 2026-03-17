@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-16T13:21:33.715543+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-16T12:17:27+00:00",
+        "description": "Want your 3D object to spin? Ania teaches you how to use the .rotateY() method in Three.js.",
+        "id": 5025527,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/NWONA48L6_w",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/NWONA48L6_w/hqdefault.jpg",
+        "title": "How to use the .rotateY() method in Three.js to make your 3D objects spin",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Joe Mullin",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-16T20:20:02.644520+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-16T19:26:54+00:00",
+        "description": "<div class=\"field field--name-body field--type-text-with-summary field--label-hidden\"><div class=\"field__items\"><div class=\"field__item even\"><p>Imagine a newspaper publisher announcing it will no longer allow libraries to keep copies of its paper.\u00a0</p>\n<p><span>That\u2019s effectively what\u2019s begun happening online in the last few months. The Internet Archive\u2014the world\u2019s largest digital library\u2014has preserved newspapers since it went online </span><a href=\"https://en.wikipedia.org/wiki/Wayback_Machine\"><span>in the mid-1990s</span></a><span>. The Archive\u2019s mission is to preserve the web and make it accessible to the public. To that end, the organization operates the Wayback Machine, which now contains </span><a href=\"https://blog.archive.org/trillion/\"><span>more than one trillion archived web pages</span></a><span>\u00a0and is used daily by journalists, researchers, and courts.</span></p>\n<p><span>But in recent months The New York Times </span><a href=\"https://www.niemanlab.org/2026/01/news-pub",
+        "id": 5029162,
+        "language": "en",
+        "link": "https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 101,
+        "source_url": "https://www.eff.org/rss/updates.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Blocking the Internet Archive Won\u2019t Stop AI, But It Will Erase the Web\u2019s Historical Record",
+        "vote": 0
+    }
+]

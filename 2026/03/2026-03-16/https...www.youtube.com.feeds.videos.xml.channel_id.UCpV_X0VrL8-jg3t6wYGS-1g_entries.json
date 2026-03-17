@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "1littlecoder",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-17T01:17:32.327908+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-16T23:06:29+00:00",
+        "description": "Mistral Small 4 is a powerful hybrid model capable of acting as both a general instruction model and a reasoning model. It unifies the capabilities of three different model families\u2014Instruct, Reasoning (previously called Magistral), and Devstral\u2014into a single, unified model.\n\nWith its multimodal capabilities, efficient architecture, and flexible mode switching, it is a powerful general-purpose model for any task. In a latency-optimized setup, Mistral Small 4 achieves a 40% reduction in end-to-end completion time, and in a throughput-optimized setup, it handles 3x more requests per second compared to Mistral Small 3.\n\nMistral Small 4 Collection - https://huggingface.co/collections/mistralai/mistral-small-4\n\nhttps://huggingface.co/mistralai/Mistral-Small-4-119B-2603\n\nTo further improve efficiency you can either take advantages of:\n\nSpeculative decoding thanks to our trained eagle head mistralai/Mistral-Small-4-119B-2603-eagle.\n4 bit float precision quantization thanks to our NVFP4 check",
+        "id": 5031259,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=58liwXNw_80",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 948,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCpV_X0VrL8-jg3t6wYGS-1g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/58liwXNw_80/hqdefault.jpg",
+        "title": "Mistral Small 4 in 8 mins!",
+        "vote": 0
+    }
+]
