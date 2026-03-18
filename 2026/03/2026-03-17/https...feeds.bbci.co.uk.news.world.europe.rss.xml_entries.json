@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-17T19:13:28.331666+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-17T18:55:17+00:00",
+        "description": "King Felipe appears to have helped thaw frosty relations with Mexico while reviving a fierce debate over events 500 years ago.",
+        "id": 5037572,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/c33j3ne2mjlo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 523,
+        "source_url": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ff7/live/2064f3d0-2224-11f1-b297-95b0a0a8331e.jpg",
+        "title": "Spanish king reopens debate on conquest of Mexico by acknowledging 'abuse'",
+        "vote": 0
+    }
+]

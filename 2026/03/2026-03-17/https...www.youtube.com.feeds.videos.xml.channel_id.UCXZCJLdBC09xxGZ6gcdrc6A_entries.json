@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "OpenAI",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-17T22:04:11.709809+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-17T21:00:42+00:00",
+        "description": "Yusuke Kaji, GM of AI for Business at Rakuten, shares how Codex is enabling his team. Check out the full video: https://www.youtube.com/watch?v=gZQQR_tDGuM",
+        "id": 5039011,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/uobQ5nOkPZ4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 935,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXZCJLdBC09xxGZ6gcdrc6A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/uobQ5nOkPZ4/hqdefault.jpg",
+        "title": "Rakuten x Codex: AI can empower you",
+        "vote": 0
+    }
+]

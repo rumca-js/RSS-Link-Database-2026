@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-17T18:27:32.376172+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-17T16:02:13+00:00",
+        "description": "https://cppcon.org\n---\n\nBuilding a Career Off-Road - Sherry Sontag - CppCon 2025\n---\n\nCollaboration can exist beyond titles and hierarchy, and personal growth can thrive alongside collective success. Managers and individual contributors from four companies will discuss how they have created space where creativity and trust matter more than job descriptions. They will share real-world lessons from the teams they\u2019ve led, reinvented, and even  left. Whether you\u2019re navigating your first leadership role, building a team, or just trying to grow without losing yourself in the org chart, this discussion will help you find balance between team needs and individual growth\n\nModerated by Bloomberg\u2019s Sherry Sontag, our panel features:\n\n- John Farrier, author of \u201cC++ Algorithms and Data Structures\u201d and founder, Polyrhythm Software\n- Enrique Tobis, Senior Software Engineer, Optiver\n- Tom Sellek, Development Team Lead, CrowdStrike\n- John Pavan, Engineering Team Lead, Bloomberg\n- Callum Piper,  Senior",
+        "id": 5037012,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=SNZlxHDrwM4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/SNZlxHDrwM4/hqdefault.jpg",
+        "title": "Building a Career Off-Road - Sherry Sontag - CppCon 2025",
+        "vote": 0
+    }
+]

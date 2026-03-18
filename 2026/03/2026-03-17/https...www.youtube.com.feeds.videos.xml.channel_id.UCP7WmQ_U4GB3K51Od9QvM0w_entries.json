@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "David Bombal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-17T18:08:25.630454+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-17T16:00:45+00:00",
+        "description": "Big thank you to Infoblox for sponsoring this video.  To learn more about Infoblox please visit:  https://www.infoblox.com/ \n\nDo you know the difference between encrypted DNS and secure DNS? DNS veteran Cricket Liu, author of DNS and Bind, joins David Bombal to break down common misconceptions, explain the crucial distinction between security and privacy; and outline a massive update to the NIST Secure DNS Deployment Guide (SP 800-81). If you run a network, you cannot afford to ignore this control point.\n\nDetailed Breakdown: \nDNS is the Achilles' heel of internet infrastructure. While newer protocols like DNS over HTTPS (DoH) and DNS over TLS (DoT) solve the cleartext privacy problem, they do not stop malware, phishing, or data exfiltration. In fact, attackers are now using encrypted DNS against us.\n\nIn this deep-dive interview, Cricket Liu explains how DNS security must evolve beyond simple encryption to include Protective DNS (PDNS) using Response Policy Zones (RPZ). Learn how to tu",
+        "id": 5036792,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Rrr4HrI8E6g",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 984,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP7WmQ_U4GB3K51Od9QvM0w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/Rrr4HrI8E6g/hqdefault.jpg",
+        "title": "The one BIG mistake you are making with DNS security today",
+        "vote": 0
+    }
+]

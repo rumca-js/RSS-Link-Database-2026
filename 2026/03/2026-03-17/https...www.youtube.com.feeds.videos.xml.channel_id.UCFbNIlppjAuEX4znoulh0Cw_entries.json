@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Web Dev Simplified",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-17T17:05:55.338011+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-17T16:00:40+00:00",
+        "description": "The npm site is a great place to find information about the packages you use, but has many glaring issues. The biggest is that npm\u2019s search feature is terrible and makes finding packages nearly impossible and this is only compounded with the advent of AI which leads to so many more packages being released than ever before. In this video I will show you why I think npmx will replace npm and why it is such a better package repository.\n\n\n\ud83d\udcda Materials/References:\n\nNpmx: https://npmx.dev\nTanstack Hotkeys Video: https://youtu.be/S26VdcWQzRQ\n\n\n\ud83c\udf0e Find Me Here:\n\nMy Blog: https://blog.webdevsimplified.com/\nMy Courses: https://courses.webdevsimplified.com/\nPatreon: https://www.patreon.com/WebDevSimplified\nTwitter: https://twitter.com/DevSimplified\nDiscord: https://discord.gg/7StTjnR\nGitHub: https://github.com/WebDevSimplified\nCodePen: https://codepen.io/WebDevSimplified\n\n\n\u23f1\ufe0f Timestamps:\n\n00:00 - Introduction\n00:33 - What is Npmx\n02:25 - Extra Npmx Package Information\n05:29 - Npmx Bonus Features\n\n",
+        "id": 5035529,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=PRBlLjHIV74",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 994,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFbNIlppjAuEX4znoulh0Cw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/PRBlLjHIV74/hqdefault.jpg",
+        "title": "NPM Is Dead",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unreal Engine",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-17T16:35:31.735262+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-17T13:29:38+00:00",
+        "description": "Watch this video to learn more about the ambitious co-op, tactical objective-based extraction shooter \u2018DarkSwarm\u2019.\n\nDeveloped in UE5 by the small but ambitious team at Bitfire Games, \u2018DarkSwarm\u2019 features procedurally generated levels, loads of weaponry, and finely tuned gameplay designed for its drop-in/drop-out multiplayer. \n\nWe caught up with Bitfire\u2019s CEO and Co-Founder Hans Oxmond to find out how the indie team is bringing its bold brand of colorful co-op combat and accessible multiplayer to life. \n\nPlus, we discuss the role that key UE5 features, optimization tools, and source code access are playing during development.\n\nFind out more about creating games in Unreal Engine here: unrealengine.com/uses/indie-games\n\n#DarkSwarm, #BitfireGames, #UnrealEngine, #UE5, #ExtractionShooter",
+        "id": 5034753,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=vYAcxSYpMpQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 685,
+        "source_url": "https://youtube.com/channel/UCBobmJyzsJ6Ll7UbfhI4iwQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/vYAcxSYpMpQ/hqdefault.jpg",
+        "title": "DarkSwarm | Developer Interview | Unreal Engine",
+        "vote": 0
+    }
+]

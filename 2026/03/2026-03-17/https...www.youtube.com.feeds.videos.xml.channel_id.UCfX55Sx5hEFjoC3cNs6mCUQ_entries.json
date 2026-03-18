@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Foundation",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-17T19:05:28.279416+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-17T16:28:38+00:00",
+        "description": "Sponsored by Komodor\n\nIn this webinar, we\u2019ll trace our own reliability journey - from reactive incident chaos to data-driven prevention and, ultimately, AI-powered self-healing. After analyzing over a million real production incidents, we hit the predictability paradox: why repeatable failures still catch teams off guard if most Kubernetes outages follow recognizable patterns that we can systematically address?\n\nWe discovered the undeniable truth that in modern sprawling Cloud-Native infrastructures, no two issues are the same, and none exist in isolation. Deterministic approaches break at a certain scale, and AI agents can\u2019t replace humans by executing a simple runbook. We\u2019ll review the 6 main categories of failures, how the same error can have different root causes, why the same fix doesn\u2019t always apply, and how to provide AI agents with the right context to achieve human-level reasoning during RCA.\n\nWe\u2019ll conclude with a forward-looking view of AI agents as reliability partners, a ",
+        "id": 5037459,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=HKQAHH5oLTs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 499,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfX55Sx5hEFjoC3cNs6mCUQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/HKQAHH5oLTs/hqdefault.jpg",
+        "title": "LF Live Webinar: Context Engineering for Self-Healing AI SRE",
+        "vote": 0
+    }
+]
