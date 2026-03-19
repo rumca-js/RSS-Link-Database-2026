@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-18T20:18:41.019542+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-18T12:30:21+00:00",
+        "description": "<p><img src=\"https://defcon.org/images/defcon-singapore/post-images/hackerjeopardy.webp\" alt=\"DEF CON hacker jeopardy\"/> </p>\n\n    <p>We are looking for charismatic, quick-witted, and tech-savvy individuals to take the stage as hosts of DEF CON's Hacker Jeopardy Singapore! If you have a knack for command-line humor, a deep well of cybersecurity trivia, and the ability to keep a rowdy room of hackers entertained, we want to hear from you.<br><br>\n\n    This isn't your average trivia night. As a host, you will:</p><ul class=\"square\">\n    <li>Local Presence: Ideally based in or able to travel to Singapore for the event, with a deep understanding of local hacker history and references.\n    <li>Command the Room: Moderate the game with energy, keeping the pace fast and the vibes high. Bring your own flair\u2014whether it's dry wit, high energy, or niche infosec references.\n    <li>Technical Literacy: You should know your nmap from your netcat and your 0-days from your 0ld-days. Use your technical",
+        "id": 5048007,
+        "language": "en",
+        "link": "https://defcon.org/html/defcon-singapore/dc-singapore-cfhjh.html",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 82,
+        "source_url": "https://defcon.org/defconrss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://defcon.org/images/defcon-singapore/post-images/hackerjeopardy.webp",
+        "title": "Call for Hosts: Hacker Jeopardy at DEF CON Singapore",
+        "vote": 0
+    }
+]

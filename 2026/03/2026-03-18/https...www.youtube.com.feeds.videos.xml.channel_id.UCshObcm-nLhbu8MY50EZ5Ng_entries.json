@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Benn Jordan",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-18T21:32:35.069015+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-18T20:21:24+00:00",
+        "description": null,
+        "id": 5048553,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/6jEjvZMDgV0",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 615,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCshObcm-nLhbu8MY50EZ5Ng",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/6jEjvZMDgV0/hqdefault.jpg",
+        "title": "I'm here to disrupt the finance synthesizer scene.",
+        "vote": 0
+    }
+]

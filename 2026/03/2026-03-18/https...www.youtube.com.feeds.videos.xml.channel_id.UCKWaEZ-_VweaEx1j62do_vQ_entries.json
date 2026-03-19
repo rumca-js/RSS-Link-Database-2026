@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-18T11:45:41.151255+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-18T10:15:03+00:00",
+        "description": "Listen to our latest episode, Can IAM handle AI? \u2192 https://ibm.biz/Bdpqkb\n\nDoes your AI agent talk too much? It\u2019s not just an annoying habit\u2014it\u2019s a security concern. \n\nOn this episode of Security Intelligence, Sridhar Muppidi, Claire Nu\u00f1ez and Dave Bales join me to discuss Guardio\u2019s research into \u201cagentic blabbering,\u201d and how attacks can use an agent\u2019s reasoning process against it.  \n\nIn experiments with the agentic Perplexity Comet browser, Guardio researchers were able to design foolproof phishing websites just by listening to agent\u2019s running monologue as it traversed the web.  \n\nWhat does it mean for agentic security when sophisticated AI reasoning processes can be weaponized? \n\nThen, we chat about Microsoft Azure CTO Mark Russinovich\u2019s discovery that Claude Opus can reverse engineer 40-year-old (practically ancient, by software standards) code. Did AI just expand the attack surface to include every compiled binary ever written? \n\nPlus: Contrast Security CISO David Lindner claims t",
+        "id": 5043193,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=MV4VbPmehOQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/MV4VbPmehOQ/hqdefault.jpg",
+        "title": "Perplexity Comet, agentic blabbering, and the shift-left failure",
+        "vote": 0
+    }
+]

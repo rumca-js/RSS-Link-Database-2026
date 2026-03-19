@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Retro Game Corps",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-18T14:37:58.088082+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-18T14:01:14+00:00",
+        "description": "Many powerful Android-based handhelds (those that use a Snapdragon chip) can also boot into Linux, which turns the device into a simple but powerful gaming-focused system.  Here's how to set it up on devices like the AYN Thor, Odin 2 handhelds, and the Retroid Pocket 6.\n\nWritten guide with all the links: https://retrogamecorps.com/2025/03/03/linux-on-the-odin-2-rocknix-guide/\nROCKNIX wiki: https://rocknix.org/\n\nWays to support this channel:\nRGC merch: https://store.retrogamecorps.com\nYT channel membership: https://www.youtube.com/channel/UCoZQiN0o7f36H7PaW4fVhFw/join\nPatreon: https://www.patreon.com/retrogamecorps\nKo-Fi: https://ko-fi.com/retrogamecorps\n\nTimestamps:\n00:00 introduction\n01:12 supported handhelds\n02:17 why try it out?\n04:56 reasons to avoid it\n07:30 installation\n11:11 first boot\n16:04 adding ROMs and BIOS\n23:03 settings configuration\n30:01 gameplay notes\n31:54 AYN Thor setup\n37:03 booting back into Android\n37:56 summary and conclusion\n\nFind me on Discord! https://discord",
+        "id": 5044624,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=hc883Myq1Ik",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 823,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCoZQiN0o7f36H7PaW4fVhFw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/hc883Myq1Ik/hqdefault.jpg",
+        "title": "Linux on the AYN Thor (and Other Handhelds)",
+        "vote": 0
+    }
+]

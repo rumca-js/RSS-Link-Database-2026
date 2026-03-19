@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Google",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-18T21:51:19.667363+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-18T21:43:47+00:00",
+        "description": "From sign language tutors to live stream simulators, here are 3 clever ways the community is building with Gemini to learn new skills.  #GoogleGemini #Gemini3",
+        "id": 5048674,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/2PTGSlb4sPg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 777,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCK8sQmJBp8GCxrOtXWBpyEA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/2PTGSlb4sPg/hqdefault.jpg",
+        "title": "3 clever ways to learn new skills using your webcam and Gemini.",
+        "vote": 0
+    }
+]

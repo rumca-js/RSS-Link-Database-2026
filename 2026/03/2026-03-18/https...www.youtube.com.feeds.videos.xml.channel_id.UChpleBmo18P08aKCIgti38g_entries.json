@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Matt Wolfe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-18T15:37:20.554316+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-18T14:31:57+00:00",
+        "description": "OpenClaw just got WAY easier (and safer) to install.\n\nI was just at NVIDIA GTC 2026 and there were a TON of cutting-edge AI announcements and releases (all the highlights are in my latest YouTube video) but this one stood out the most. \n\nI watched them fully install OpenClaw on my DGX Spark device in like 2 minutes. It was a 1-line installation with NemoClaw that includes an additional security layer for peace of mind.\n\nThis is a near state-of-the-art model running fully on my device without any cloud or API calls needed.\n\nThis is going to make the barrier to entry for installing OpenClaw WAY lower.\n\n#ai #nvidia #gtc2026 #ainews #openclaw",
+        "id": 5045120,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/vpTvoxIrlHs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 933,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChpleBmo18P08aKCIgti38g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/vpTvoxIrlHs/hqdefault.jpg",
+        "title": "This Took 2 Minutes And Changes Everything",
+        "vote": 0
+    }
+]

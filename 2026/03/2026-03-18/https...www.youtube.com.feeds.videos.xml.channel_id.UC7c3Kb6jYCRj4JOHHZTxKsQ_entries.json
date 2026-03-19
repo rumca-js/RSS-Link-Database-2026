@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "GitHub",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-18T16:32:31.935333+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-18T15:01:02+00:00",
+        "description": "Evan Boyle from the GitHub Copilot CLI team shares advanced tips to level up your terminal workflow. Learn how to query your local SQLite database to pull up session history and recover context from past bug fixes. You can even ask Copilot to analyze your prompting habits to help you write better commands.\n\n#CopilotCLI #GitHubCopilot #GitHub\n\nWork with Copilot CLI: https://github.com/features/copilot/cli?utm_source=social-youtube-memory&utm_medium=social&utm_campaign=copilot-cli-ga-phase-two-2026\n\nStay up-to-date on all things GitHub by connecting with us:\n\nYouTube: https://gh.io/subgithub\nBlog: https://github.blog\nX: https://twitter.com/github\nLinkedIn: https://linkedin.com/company/github\nInsider newsletter: https://resources.github.com/newsletter/\nInstagram: https://www.instagram.com/github\nTikTok: https://www.tiktok.com/@github\n\nAbout GitHub\nIt\u2019s where over 180 million developers create, share, and ship the best code possible. It\u2019s a place for anyone, from anywhere, to build anythi",
+        "id": 5045464,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=XHTc6XF0gdk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 1005,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7c3Kb6jYCRj4JOHHZTxKsQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/XHTc6XF0gdk/hqdefault.jpg",
+        "title": "How to query your Copilot CLI session history | Advanced tips & tricks",
+        "vote": 0
+    }
+]

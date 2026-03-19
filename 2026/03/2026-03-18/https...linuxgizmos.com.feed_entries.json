@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-18T04:53:50.452204+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-18T04:14:22+00:00",
+        "description": "System76 has introduced an updated version of its Thelio Mira desktop, featuring AMD Ryzen 9000 series processors, revised thermal design, and improved serviceability. The system targets workstation, development, and compute-heavy workloads, including data processing and machine learning. The refreshed Thelio Mira is offered as a configurable system alongside preconfigured Premium and Elite variants. System76 states [&#8230;]",
+        "id": 5041127,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/thelio-mira-desktop-updated-with-ryzen-9000-cpus-and-revised-chassis",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Thelio Mira Desktop Updated with Ryzen 9000 CPUs and Revised Chassis",
+        "vote": 0
+    }
+]

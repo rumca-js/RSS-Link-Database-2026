@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ThioJoe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-18T16:33:55.136456+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-18T15:45:07+00:00",
+        "description": "Your printer is wasting your color ink and money, here's how to stop it.\n\nOne of the most infuriating things is that dreaded warning from your printer that you are completely out of ink. In my case, it told me I was completely out of color toner. The problem is, I NEVER print in color. Something was causing literally ALL of the toner to be completely wasted over the years I've had it, and I didn't know. And it's happening to you too. There are two possible reasons depending on whether you have an Inkjet or Laser printer. The first is Color Mixing, where it mixes color ink even when printing black text. The other reason is automatic calibration, which is mostly for laser printers, but happens regularly. That's what wasted mine. So I go over how to fix both of these issues.\n\nTime Stamps:\n0:00 - Intro\n0:34 - Reason 1: Color Mixing\n1:46 - Reason 2: Auto Calibration\n2:19 - Fix 1: How To Disable Color Mixing\n4:05 - Creating the Virtual Printer\n7:33 - Fix 2: How To Stop Auto Calibration",
+        "id": 5045476,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=R7KH7KbQ928",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 366,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQSpnDG3YsFNf5-qHocF-WQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/R7KH7KbQ928/hqdefault.jpg",
+        "title": "Stop Your Printer Wasting Color Ink on Black Text",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Thoughty2",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-18T21:41:20.875458+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-18T21:01:10+00:00",
+        "description": "The rules of duelling were a simple match of fighting to the death - unless you already had a disadvantage. Then things got weird.",
+        "id": 5048627,
+        "language": "en-US",
+        "link": "https://www.youtube.com/shorts/vbpeDI3C71w",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 367,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCRlICXvO4XR4HMeEB9JjDlA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/vbpeDI3C71w/hqdefault.jpg",
+        "title": "Trial By Combat: The Birthplace of Duels",
+        "vote": 0
+    }
+]

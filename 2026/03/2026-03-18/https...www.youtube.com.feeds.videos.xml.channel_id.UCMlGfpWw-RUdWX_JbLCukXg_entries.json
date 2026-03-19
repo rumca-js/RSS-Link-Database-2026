@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-18T17:31:17.406113+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-18T16:02:03+00:00",
+        "description": "https://cppcon.org\n---\n\nThe Pattern Matching We Already Have - Braden Ganetsky - CppCon 2025\n---\n\nAll the way since C++98, we have already had pattern matching in C++! It's limited to specific places, but it's there. Template argument deduction, function overload resolution, and class template specializations are all instances of pattern matching in the C++ language, dating all the way back to the original standard. \n \nThe C++11 additions to the language also require library constructs to help deal with type deduction in forwarding references, namely std::forward, among others. Even experienced C++ developers may run into unexpected situations using it, especially in newer scenarios like concepts from C++20. This talk will lay clear the rules of forwarding and std::forward, and how you can forward your arguments properly every time. \n \nThis interactive talk is a deep dive into template argument deduction, helping you to understand it at deeper level across all of C++'s lifespan. Almos",
+        "id": 5046098,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=zB6ORpZjneQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/zB6ORpZjneQ/hqdefault.jpg",
+        "title": "The Pattern Matching We Already Have - Braden Ganetsky - CppCon 2025",
+        "vote": 0
+    }
+]

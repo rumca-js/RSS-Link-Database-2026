@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Fireship",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-18T18:53:23.530199+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-18T17:56:58+00:00",
+        "description": "Railway is the easiest way to deploy anything. Get $20 in free credits - https://railway.com/?referralCode=fireship\n\nThe famo.us rendering engine was supposed to change web dev forever back in 2012. But after raising $30m, that never happened. Let's take a look back in time to understand why.\n\n#coding #javascript #opensource \n\n\ud83d\uddde\ufe0f Newsletter: https://bytes.dev\n\ud83e\udde0 Courses: https://fireship.dev",
+        "id": 5047120,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=ReAnFFqvCeA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 584,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/ReAnFFqvCeA/hqdefault.jpg",
+        "title": "The rise and fall of famo.us...",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kuba Klawiter",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-18T07:56:00.812208+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-18T06:55:29+00:00",
+        "description": "Od niedawna mo\u017cna pyta\u0107 mapy google'a o r\u00f3\u017cne rzeczy. Postanowi\u0142em to przetestowa\u0107.",
+        "id": 5041838,
+        "language": "pl-PL",
+        "link": "https://www.youtube.com/shorts/ernCGLNRNLQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 179,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLr4hMhk_2KE0GUBSBrspGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/ernCGLNRNLQ/hqdefault.jpg",
+        "title": "AI w Google Maps",
+        "vote": 0
+    }
+]
