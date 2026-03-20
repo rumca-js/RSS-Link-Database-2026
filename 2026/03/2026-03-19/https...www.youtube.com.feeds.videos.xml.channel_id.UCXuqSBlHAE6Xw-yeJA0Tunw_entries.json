@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Linus Tech Tips",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-19T18:02:05.966015+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-19T17:38:20+00:00",
+        "description": "Explaining every DLSS Version that NVIDIA Released",
+        "id": 5056541,
+        "language": "en-US",
+        "link": "https://www.youtube.com/shorts/zLF-kT-DwuA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 194,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXuqSBlHAE6Xw-yeJA0Tunw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/zLF-kT-DwuA/hqdefault.jpg",
+        "title": "Every DLSS Explained in 60 seconds",
+        "vote": 0
+    }
+]

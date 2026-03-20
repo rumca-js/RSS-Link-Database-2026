@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Screen Junkies",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-19T18:57:26.331607+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-19T18:03:48+00:00",
+        "description": "Does Scott Mantz know the year every movie was released? Yes! Yes he does!",
+        "id": 5056948,
+        "language": "en-US",
+        "link": "https://www.youtube.com/shorts/d9PZWiDWqRM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 296,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCOpcACMWblDls9Z6GERVi1A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/d9PZWiDWqRM/hqdefault.jpg",
+        "title": "Scott Mantz has A Beautiful Mind (2002)",
+        "vote": 0
+    }
+]

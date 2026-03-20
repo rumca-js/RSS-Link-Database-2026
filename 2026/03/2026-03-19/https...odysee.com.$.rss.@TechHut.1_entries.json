@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "TechHut",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-19T14:00:30.100522+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-19T12:52:38+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/z0HPuNFkmt4\" width=\"480\" alt=\"thumbnail\" title=\"Replace Cloudflare Tunnels with THIS - Self-Hosted Reverse Proxy + Remote Access\" /></p>Click this link https://www.boot.dev?promo=TECHHUT and use my code TECHHUT to get 25% off your first payment for boot.dev. Thank you Boot.Dev for Sponsoring! <br /><br />In this video I walk you through a complete self-hosted NetBird setup from scratch. We're talking a VPS install with Caddy handling TLS, Pocket ID as a self-hosted OIDC provider so you can use passkeys, the new reverse proxy feature to publicly expose services without touching your home router, high availability routing peers for homelab access, and access control policies you can actually use for family or team setups.<br /><br />\ud83d\udcd6 RESOURCES<br />my NetBird Setup: https://bit.ly/homelab-netbird<br />NetBird Docs: https://bit.ly/selfhost-netbird<br />Hostinger: https://hostinger.com/techhut10<br /><br />By the end you'll have a solid foundation",
+        "id": 5054029,
+        "language": "en",
+        "link": "https://odysee.com/replace-cloudflare-tunnels-with-this:80fa792ea2f0b1ad3c4a088789c4583a7c8b9993",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 516,
+        "source_url": "https://odysee.com/$/rss/@TechHut:1",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/z0HPuNFkmt4",
+        "title": "Replace Cloudflare Tunnels with THIS - Self-Hosted Reverse Proxy + Remote Access",
+        "vote": 0
+    }
+]

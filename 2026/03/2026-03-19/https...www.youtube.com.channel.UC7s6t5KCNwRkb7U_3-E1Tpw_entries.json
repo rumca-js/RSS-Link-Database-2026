@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jake Baldino",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-19T01:23:28.944193+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-19T00:16:41+00:00",
+        "description": "Nvidia revealed DLSS5, generating a lot of debate in the gaming world. Does it go too far? Look just right? Ruin the artistic vibe of games? I have a lot to say so bear with me.\n\n~~SOURCES~~\n\nhttps://www.nvidia.com/en-us/geforce/forums/geforce-graphics-cards/5/583738/dlss-5-faq/\n\nhttps://www.reddit.com/r/hardware/comments/1rvwube/dlss_5_fixing_it_in_post/",
+        "id": 5050016,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=mfwH20riJp4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 608,
+        "source_url": "https://www.youtube.com/channel/UC7s6t5KCNwRkb7U_3-E1Tpw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/mfwH20riJp4/hqdefault.jpg",
+        "title": "About DLSS5...",
+        "vote": 0
+    }
+]

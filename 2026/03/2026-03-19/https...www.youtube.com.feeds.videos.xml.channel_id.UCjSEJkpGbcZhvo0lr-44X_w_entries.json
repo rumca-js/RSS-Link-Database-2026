@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "TechHut",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-19T13:33:03.667731+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-19T12:52:38+00:00",
+        "description": "Click this link https://www.boot.dev?promo=TECHHUT and use my code TECHHUT to get 25% off your first payment for boot.dev. Thank you Boot.Dev for Sponsoring! \n\nIn this video I walk you through a complete self-hosted NetBird setup from scratch. We're talking a VPS install with Caddy handling TLS, Pocket ID as a self-hosted OIDC provider so you can use passkeys, the new reverse proxy feature to publicly expose services without touching your home router, high availability routing peers for homelab access, and access control policies you can actually use for family or team setups.\n\n\ud83d\udcd6 RESOURCES\nmy NetBird Setup: https://bit.ly/homelab-netbird\nNetBird Docs: https://bit.ly/selfhost-netbird\nHostinger: https://hostinger.com/techhut10\n\nBy the end you'll have a solid foundation for remote access to your homelab from anywhere in the world, with no open ports at home.\n\nFull bias disclosure - I work for NetBird. But it genuinely is one of the best open-source tools I've used for homelab remote acce",
+        "id": 5053833,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=z0HPuNFkmt4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 430,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjSEJkpGbcZhvo0lr-44X_w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/z0HPuNFkmt4/hqdefault.jpg",
+        "title": "Replace Cloudflare Tunnels and Pangolin with THIS - Self-Hosted Reverse Proxy + Remote Access",
+        "vote": 0
+    }
+]

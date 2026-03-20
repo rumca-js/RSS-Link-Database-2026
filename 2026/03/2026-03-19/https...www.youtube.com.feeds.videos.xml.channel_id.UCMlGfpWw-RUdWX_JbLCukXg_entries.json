@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-19T18:27:32.755710+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-19T17:19:19+00:00",
+        "description": "https://cppcon.org\n---\n\nUpgrading Sea of Thieves From C++14 to C++20 Wasn't Easy Here's Why - Keith Stockdale - CppCon 2026\n---\n\nRare put in huge amounts of work to bring Sea of Thieves to PlayStation 5 and to upgrade from the old XDK and UWP platforms to the new GDK platform. In this session, Rare will discuss why they made the decision to take this opportunity to also upgrade from C++14 to C++20. It shouldn\u2019t be much harder than changing a 14 to a 20, right? How hard could it be? \n \nRare will discuss all the work that was involved in upgrading their language standard and share some anecdotes of some of the challenges that were met along the way. They will go through the benefits that they have felt from this upgrade along with some plans for continuing this work in the future. \n \n---\n\nSlides: https://github.com/CppCon/CppCon2025/blob/main/Presentations/Changing_Cpp14_To_Cpp20.pdf\n\nWork at Hudson River Trading (HRT): https://tinyurl.com/safxfctf\n---\n\nKeith Stockdale\n \nKeith Stockdale",
+        "id": 5056714,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=b6j6SZiXmoo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/b6j6SZiXmoo/hqdefault.jpg",
+        "title": "Upgrading Sea of Thieves From C++14 to C++20 Wasn't Easy Here's Why - Keith Stockdale - CppCon 2026",
+        "vote": 0
+    }
+]

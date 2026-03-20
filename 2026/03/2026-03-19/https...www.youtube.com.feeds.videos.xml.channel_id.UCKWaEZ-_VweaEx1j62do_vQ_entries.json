@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-19T13:29:05.100992+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-19T11:00:00+00:00",
+        "description": "Ready to become a certified watsonx Data Scientist? Register now and use code IBMTechYT20 for 20% off of your exam \u2192 https://ibm.biz/Bdpij5\n\nLearn more about Linear Algebra for Machine Learning here \u2192 https://ibm.biz/BdpijN\n\nHow do machines learn to recognize cats and dogs in images? \ud83d\udc3e Fangfang Lee explains how linear algebra powers machine learning, from vectors and matrices to SVD and cosine similarity. Learn how these concepts transform raw data into actionable intelligence for AI and neural networks!\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/Bdpij7\n\n#machinelearning #linearalgebra #aiconcepts",
+        "id": 5053780,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=-KKxtHwxKhE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/-KKxtHwxKhE/hqdefault.jpg",
+        "title": "How Linear Algebra Powers Machine Learning (ML)",
+        "vote": 0
+    }
+]

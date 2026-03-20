@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Computerphile",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-19T16:11:05.163544+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-19T15:46:03+00:00",
+        "description": "When considering how things connect together in a network, time can be an extremely important factor. Dr Richard G Clegg of Queen Mary University London takes us through networks using Page rank and Lord of the Rings. \n\nnb. this film contains two fellas getting the facts of Lord of the Rings wrong on multiple occasions, we look forward to the inevitable comments.\n\nRichard's github: https://github.com/richardclegg/computerphile_demos/\n\nThe open source software Richard mentioned can be found at https://raphtory.com  \n\nComputerphile is supported by Jane Street. Learn more about them (and exciting career opportunities) at: https://jane-st.co/computerphile\n\nThis video was filmed and edited by Sean Riley.\n\nComputerphile is a sister project to Brady Haran's Numberphile. More at https://www.bradyharanblog.com",
+        "id": 5055410,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=ZP6Bh3iWklQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 929,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9-y-6csu5WGm29I7JiwpnA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/ZP6Bh3iWklQ/hqdefault.jpg",
+        "title": "Temporal Networks, Where Page Rank meets Lord of the Rings - Computerphile",
+        "vote": 0
+    }
+]
