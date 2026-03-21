@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "David Bombal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-20T16:53:35.409768+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-20T14:30:27+00:00",
+        "description": "Big thanks to @ThreatLocker  for sponsoring my trip to ZTW26 and also for sponsoring this video.  To start your free trial with ThreatLocker please use the following link:  https://www.threatlocker.com/davidbombal\n\nDiscover how easily hackers prompt engineer malware in 2026. Kieran Human from ThreatLocker demonstrates bypassing Microsoft Copilot guardrails to write PowerShell ransomware.\n\n// Kieran Human\u2019s SOCIAL //\nLinkedIn: https://www.linkedin.com/in/kieran-human-5495ab170/\n\n// GitHub page REFERENCE //\nhttps://github.com/ztwAdmin/ZTW-2026\n\n// David's SOCIAL // \nDiscord: https://discord.com/invite/usKSyzb \nX: https://www.twitter.com/davidbombal \nInstagram: https://www.instagram.com/davidbombal \nLinkedIn: https://www.linkedin.com/in/davidbombal \nFacebook: https://www.facebook.com/davidbombal.co \nTikTok: http://tiktok.com/@davidbombal \nYouTube: https://www.youtube.com/@davidbombal\nSpotify:  https://open.spotify.com/show/3f6k6gERfuriI96efWWLQQ\nSoundCloud:  https://soundcloud.com/davidb",
+        "id": 5065218,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=F2_0Rs36fSA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 984,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP7WmQ_U4GB3K51Od9QvM0w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/F2_0Rs36fSA/hqdefault.jpg",
+        "title": "Warning and demo: Hackers can use AI to create malware",
+        "vote": 0
+    }
+]

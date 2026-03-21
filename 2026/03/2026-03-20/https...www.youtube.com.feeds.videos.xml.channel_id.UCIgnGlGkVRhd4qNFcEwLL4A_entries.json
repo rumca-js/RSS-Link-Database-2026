@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "AI Search",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-20T05:20:45.856798+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-20T03:26:10+00:00",
+        "description": "Foundation-1 installation tutorial. AI for music samples, stems, loops. Follows key, bar count, and BPM #ai #aimusic #aisong #suno\n\nThanks to our sponsor Abacus AI. Try ChatLLM & DeepAgent here: http://chatllm.abacus.ai/?token=aisearch\n\nFoundation 1: https://huggingface.co/RoyalCities/Foundation-1\nRC Stable Audio Tools https://github.com/RoyalCities/RC-stable-audio-tools\nFoundation 1 for ComfyUI https://github.com/Saganaki22/ComfyUI-Foundation-1\n\nGit https://git-scm.com/install/windows\nConda https://www.anaconda.com/docs/getting-started/miniconda/install/overview#anaconda-website\n\nOther open source AI music models:\nHeartmula https://youtu.be/54YB-hjZDR4\nACE Step 1.5 https://youtu.be/QzddQoCKKss\n\n0:00 Foundation 1 intro\n0:32 Foundation-1 demos\n4:58 Full music production example\n8:20 Generating MIDI files\n9:30  Production continued \n12:12 ChatLLM\n13:19 Additional specs and guidelines\n15:33 How to install Foundation-1\n16:32 Git\n17:30 Installation continued\n18:38 Conda\n21:24 Installation ",
+        "id": 5060637,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=CMuwP0u-Sjg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 806,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIgnGlGkVRhd4qNFcEwLL4A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/CMuwP0u-Sjg/hqdefault.jpg",
+        "title": "Finally, AI for music production! Free & open source",
+        "vote": 0
+    }
+]

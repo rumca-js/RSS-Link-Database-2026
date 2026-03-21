@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-20T17:01:27.261135+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-20T16:02:18+00:00",
+        "description": "https://cppcon.org\n---\n\nCan Standard C++ Replace CUDA for GPU Acceleration? - Elmar Westphal - CppCon 2025\n---\n\nOn top of the woes of multi-threaded programming itself, coding for GPUs used to be about dealing with kernels, separate memory domains, warps, blocks and other strange things. Later, life became easier and you could sprinkle in a bunch of pragmas, hoping that your favorite language extension would deal with all of this for you, and better memory model abstractions came up that were less painful to deal with. In recent years, new drivers (seemingly) levelled the boundaries between memory domains and new compilers allow us to deploy code to the GPU using standard C++ execution policies. The performance of the generated code is often similar to that of its CUDA-C++ counterpart. Of course there is no magic bullet to shoot at your (legacy) code and there are caveats, but come and see how using standard parallelism (also) for programming GPUs makes it a lot easier to write portab",
+        "id": 5065240,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=EOvukoCyW7A",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/EOvukoCyW7A/hqdefault.jpg",
+        "title": "Can Standard C++ Replace CUDA for GPU Acceleration? - Elmar Westphal - CppCon 2025",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-20T00:27:43.587140+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-20T00:27:41+00:00",
+        "description": "Sydney Airport has officially opened its new dining precinct inside Terminal 3 \u2013 home to Qantas \u2013 but there\u2019s one thing you won\u2019t find there.",
+        "id": 5059438,
+        "language": "en-au",
+        "link": "https://www.news.com.au/travel/travel-advice/airports/sydney-airport-11-new-dining-destinations-now-open-inside-t3-domestic/news-story/266ac058b8eb062946727fab673ac9d8?from=rss-basic",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 409,
+        "source_url": "https://www.news.com.au/content-feeds/latest-news-travel",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://content.api.news/v3/images/bin/3fe39cad6efe4344789917c8a608aa55?width=320",
+        "title": "New Qantas terminal won\u2019t have this",
+        "vote": 0
+    }
+]
