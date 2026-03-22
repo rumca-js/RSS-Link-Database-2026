@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Eduard Kovacs",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-21T11:11:43.390484+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-21T11:00:00+00:00",
+        "description": "<p>The vulnerability is tracked as CVE-2025-32975 and it may have been exploited in attacks against the education sector.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-quest-kace-vulnerability-potentially-exploited-in-attacks/\">Critical Quest KACE Vulnerability Potentially Exploited in Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+        "id": 5070660,
+        "language": "en-US",
+        "link": "https://www.securityweek.com/critical-quest-kace-vulnerability-potentially-exploited-in-attacks",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 299,
+        "source_url": "https://www.securityweek.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Critical Quest KACE Vulnerability Potentially Exploited in Attacks",
+        "vote": 0
+    }
+]

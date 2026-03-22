@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Alexandra Marquez",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-21T18:41:45.044825+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-21T18:19:04+00:00",
+        "description": "Robert Mueller III, the second-longest serving FBI director in the agency's history, who later served as the special counsel who oversaw the investigation into Russian interference in the 2016 election, has died.",
+        "id": 5073096,
+        "language": "en-US",
+        "link": "https://www.nbcnews.com/politics/politics-news/robert-mueller-former-special-counsel-dies-rcna264561",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 223,
+        "source_url": "https://feeds.nbcnews.com/nbcnews/public/tech",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-03/260321-Robert-Mueller-ch-1316-663f6d.jpg",
+        "title": "Robert Mueller, former special counsel who led Trump-Russia probe, dies at 81",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Paresh Dave",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-21T00:31:11.297791+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-21T00:03:20+00:00",
+        "description": "The Department of Defense alleges the AI developer could manipulate models in the middle of war. Company executives argue that\u2019s impossible.",
+        "id": 5068529,
+        "language": "en-US",
+        "link": "https://www.wired.com/story/anthropic-denies-sabotage-ai-tools-war-claude",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 396,
+        "source_url": "https://www.wired.com/feed/category/business/latest/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media.wired.com/photos/69bdd83054a6d8f67d317f75/master/pass/Anthropic-Denies-It-Could-Sabotage-AI-Tools-In-Middle-of-War-Business.jpg",
+        "title": "Anthropic Denies It Could Sabotage AI Tools During War",
+        "vote": 0
+    }
+]

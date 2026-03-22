@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-21T18:04:58.847268+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-21T18:04:55+00:00",
+        "description": "A young Aussie girl rented a room at 25 Cromwell St during her gap year in the UK. She had no idea her landlords were the nation\u2019s worst serial killers.",
+        "id": 5072933,
+        "language": "en-au",
+        "link": "https://www.news.com.au/travel/travel-updates/travel-stories/australian-woman-had-no-idea-she-was-living-with-the-uks-worst-serial-killers/news-story/5eb8a9bb518e8e7dabd825894f39cf3a?from=rss-basic",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 409,
+        "source_url": "https://www.news.com.au/content-feeds/latest-news-travel",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://content.api.news/v3/images/bin/3e3ae153e0e1ff7425940fbdf67ae3f8?width=320",
+        "title": "Australian woman survives living with UK\u2019s worst serial killers",
+        "vote": 0
+    }
+]

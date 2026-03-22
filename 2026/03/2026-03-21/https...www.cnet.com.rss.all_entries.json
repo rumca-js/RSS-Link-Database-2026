@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Tyler Lacoma",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-21T11:51:06.775528+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-21T11:00:00+00:00",
+        "description": "Ikea's Varmblixt lamp showed up at CES 2026 with new smart features. Now that I've tried it, I'm not letting it go.",
+        "id": 5070851,
+        "language": "en-US",
+        "link": "https://www.cnet.com/home/smart-home/ikea-smart-lamp-varmblixt-glowing-doughnut-happiness",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 57,
+        "source_url": "https://www.cnet.com/rss/all",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.cnet.com/a/img/resize/89fab20d2f52ee52a398ed3ac8c1efcd584af9c4/hub/2026/03/20/e77ecbdf-8049-4bb1-932d-fd0b48dffb2d/ikea-smart-lamp-main.jpg?auto=webp&width=300",
+        "title": "My New Ikea Smart Lamp Is a Glowing Doughnut of Happiness",
+        "vote": 0
+    }
+]

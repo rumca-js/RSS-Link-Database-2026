@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Gamers Nexus",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-22T00:06:01.655549+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-21T21:45:11+00:00",
+        "description": "Sponsor: Arctic MX-7 Thermal Paste on Amazon https://geni.us/WbHJ\nCrimson Desert just launched. We tested the day 1 patch and launch version of Crimson Desert across 25 GPUs, 3 resolutions, all graphics presets, and also tested for simulation time error (alongside frametime spike issues and framerate). During the testing, we encountered numerous bugs across 3 test computers and 2 GPU vendors; Intel was immune to these bugs, which is because Intel Arc simply doesn't work at all for Crimson Desert. When GN emailed Intel, the company put together a statement and distributed it to all of the media to state that Pearl Abyss refused to grant the company early access. Crimson Desert bugs include crashing to desktop, hard system resets, all objects turning pink or yellow at times, game freezes without a crash, and silent settings reductions spread across both NVIDIA and AMD GPUs. This does not appear to be a driver or computer issue, but rather a game issue. In these benchmarks, we look at th",
+        "id": 5074701,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=1tz4u5oYx_o",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 428,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChIs72whgZI9w6d6FhwGGHA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/1tz4u5oYx_o/hqdefault.jpg",
+        "title": "Crimson Desert GPU Benchmarks, Bugs, Simulation Error Tests, & Intel Arc Gets Screwed",
+        "vote": 0
+    }
+]

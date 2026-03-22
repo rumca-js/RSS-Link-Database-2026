@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Scott Manley",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-21T19:35:31.487605+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-21T18:38:31+00:00",
+        "description": "We all know that computer hardware has been miniaturized while performance has increased to frankly ridiculous levels. My Phone beats supercomputers from the 1990's.\nBut I wanted to see if I could fly a lunar lander simulation using a ZX Spectrum, my first computer, using the first programming language I ever learned. It turns out that the limitations in this are not related to the CPU or memory, but to the I/O and my patience for developing old software.\n\nThis uses kRPC to talk to a Python Program which in turn talks to a ZX Spectrum via the Interface 1 Serial Port\n\nhttps://forum.kerbalspaceprogram.com/topic/130742-112x-krpc-control-the-game-using-c-c-java-lua-python-ruby-haskell-c-arduino-v054/\n\nFollow me on Twitter for more updates:\nhttps://twitter.com/DJSnM\n\nI have a discord server where I regularly turn up:\nhttps://discord.gg/zStmKbM\n\nIf you really like what I do you can support me directly through Patreon\nhttps://www.patreon.com/scottmanley",
+        "id": 5073462,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=XQTh1Davsj8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 829,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxzC4EngIsMrPmbm6Nxvb-A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/XQTh1Davsj8/hqdefault.jpg",
+        "title": "Can My First Computer Fly A Spaceship? 1982 ZX Spectrum Flight Computer",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kyle Melnick",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-21T12:36:06.956707+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-21T12:00:37+00:00",
+        "description": "\u201cAs controversial as AI is right now, this is one of those areas where it\u2019s a real win,\u201d said Julie Castle, chief executive of Best Friends Animal Society.",
+        "id": 5071001,
+        "language": "en-US",
+        "link": "https://www.washingtonpost.com/lifestyle/2026/03/21/ai-lost-pet-petco",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 364,
+        "source_url": "https://feeds.washingtonpost.com/rss/business/technology",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "These people used AI to help find their lost pets",
+        "vote": 0
+    }
+]

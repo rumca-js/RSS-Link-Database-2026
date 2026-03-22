@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-21T01:55:38.241236+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-21T01:05:03+00:00",
+        "description": "The messages are clear: the full-scale invasion is a defensive war and patriotism means unquestionable loyalty.",
+        "id": 5068851,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/c7vq5g64y98o",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 523,
+        "source_url": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a76/live/d2f8e2c0-239d-11f1-934f-036468834728.jpg",
+        "title": "Russia's school propaganda was  highlighted by Oscar-winning film - but does it work?",
+        "vote": 0
+    }
+]
