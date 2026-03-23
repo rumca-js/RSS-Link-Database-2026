@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "David Bombal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-22T17:07:14.844651+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-22T14:30:24+00:00",
+        "description": "Thank you to ThreatLocker for sponsoring my trip to ZTW26 and also for sponsoring this video. To start your free trial with ThreatLocker please use the following link:  https://www.threatlocker.com/davidbombal\n\nAre your passwords and 2FA enough to stop a modern cyber attack? In this interview, Rob from\nThreatLocker breaks down the dangerous reality of password reuse, SIM swapping, and why\ntraditional SMS MFA is no longer bulletproof.\n\nWe dive deep into how threat actors use reverse proxies like Evilginx to steal session cookies, allowing them to bypass multi-factor authentication and hijack your accounts without ever needing your password.\n\nDiscover why relying on legacy VPNs and leaving firewall ports open to the internet massively\nincreases your attack surface, leaving your organization just one brute-force attack away from\nransomware. Finally, we explore the mechanics of ThreatLocker\u2019s Zero Trust Network Access\nand Cloud Access, detailing how denying by default and routing through ",
+        "id": 5078639,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=b_KDCLBVng0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 984,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP7WmQ_U4GB3K51Od9QvM0w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/b_KDCLBVng0/hqdefault.jpg",
+        "title": "Did you know that Evilginx allows Hackers to Defeat 2FA",
+        "vote": 0
+    }
+]

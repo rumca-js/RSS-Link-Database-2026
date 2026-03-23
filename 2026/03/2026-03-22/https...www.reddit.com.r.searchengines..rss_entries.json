@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/Unlikely_Square_2023",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-22T23:50:41.755800+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-22T23:30:23+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p><strong>Building a multi-source AI search layer with observability and action execution (Vassago)</strong></p> <p><a href=\"https://search.deanconsulting.tech\">https://search.deanconsulting.tech</a> </p> <p>Working on a search system that tries to go beyond &quot;chat with your data.&quot;</p> <p>Currently powered by Ollama but the model is secondary \u2014 the architecture is the point. Combining:</p> <ul> <li>Multi-source querying (SQL, logs, APIs, files) in a single layer</li> <li>Cross-system validation and comparison mode</li> <li>Anomaly and change detection over time</li> <li>Confidence and risk scoring on results</li> <li>Action execution via scripts and workflows</li> </ul> <p>Example: instead of returning a summary for &quot;why are sales off?&quot; \u2014 it identifies the drop, correlates a likely cause, validates across systems, and surfaces a suggested fix with optional execution.</p> <p>Basically trying to collapse search + observability + automat",
+        "id": 5080777,
+        "language": "en",
+        "link": "https://www.reddit.com/r/searchengines/comments/1s10ufa/vassago",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 463,
+        "source_url": "https://www.reddit.com/r/searchengines/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "VASSAGO",
+        "vote": 0
+    }
+]

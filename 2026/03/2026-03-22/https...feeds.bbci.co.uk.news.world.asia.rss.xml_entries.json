@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-23T00:26:54.123829+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-22T09:27:40+00:00",
+        "description": "Today's brides say they are inspired by wedding of Taiwanese popstar Jay Chou at the abbey in 2015.",
+        "id": 5080900,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/cjd8k82p9j5o",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 522,
+        "source_url": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b71/live/42fd7440-247b-11f1-9ac5-2fb77b4b4b71.jpg",
+        "title": "How a medieval English abbey became a Chinese wedding destination",
+        "vote": 0
+    }
+]

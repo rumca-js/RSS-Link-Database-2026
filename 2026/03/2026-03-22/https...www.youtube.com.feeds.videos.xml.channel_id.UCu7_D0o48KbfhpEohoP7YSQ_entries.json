@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Andreas Spiess",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-22T10:41:39.949407+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-22T08:00:46+00:00",
+        "description": "After my last video, many of you asked for a deeper look at how I actually work with AI and the ESP32. So today I will show you a real example project \u2014 an iOS voice keyboard for any computer.\nBut that\u2019s only half of the story.\nYou will also see how I automatically test ESP32 devices using an \u201cESP32 workbench\u201d \u2014 a Raspberry Pi running special software that allows an AI agent to program, flash, monitor, and even test Wi-Fi and BLE behavior of ESP32 boards.\nThe second part is a full walk-through, from the installation of Claude Code till the test of the project, if you want to see the extreme power of today\u2019s AI\n\nMy second channel: https://www.youtube.com/@HB9BLA\n\nLinks:\nCase for Pi Zero 2W: https://s.click.aliexpress.com/e/_c3LngBgj\nUSB hub with Ethernet (micro USB for Raspberry): https://de.aliexpress.com/item/1005007714577602.html\nThin Ethernet cable ideal for Desktop: https://s.click.aliexpress.com/e/_c43uarOf\nESP32-S3 Supermini (no reset/GPOI0 pins): https://s.click.aliexpress.com/",
+        "id": 5076643,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=nmGEedloQ6E",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 17,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCu7_D0o48KbfhpEohoP7YSQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/nmGEedloQ6E/hqdefault.jpg",
+        "title": "AI-Driven ESP32 Workflow (Spec \u2192 Code \u2192 Test) using Claude Code",
+        "vote": 0
+    }
+]

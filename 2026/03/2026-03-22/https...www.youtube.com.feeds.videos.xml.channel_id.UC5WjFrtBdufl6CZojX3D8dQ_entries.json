@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Tesla",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-22T07:47:21.000123+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-22T03:15:59+00:00",
+        "description": "Join Us: http://terafab.ai\nTERAFAB: the next step to becoming a galactic civilization\n\nTogether with SpaceX & xAI, we're building the largest chip manufacturing facility ever (1TW/year) \u2013 combining logic, memory & advanced packaging under one roof.\n\nTo harness as much power as possible from the Sun, we need to send 100 million tons of solar capture into space \u2013 per year.\n\nThis requires massive scale.\n\u2013 Capability to launch millions of tons of mass into orbit\n\u2013 Solar-powered AI satellites\n\u2013 Millions of Tesla Optimus robots to help build it out\n\nAll of these need chips: 100-200GW of chips for Optimus alone, plus terawatts for solar-powered AI satellites.\n\nThat's more than all the chip manufacturers in the world combined can provide today, or even by 2030 (based on projected production growth).\n\nWe're building TERAFAB to close the gap between today\u2019s chip production & the future's demand \u2013 a future among the stars",
+        "id": 5076000,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=HcxEGykMZc4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 805,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5WjFrtBdufl6CZojX3D8dQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/HcxEGykMZc4/hqdefault.jpg",
+        "title": "TERAFAB",
+        "vote": 0
+    }
+]

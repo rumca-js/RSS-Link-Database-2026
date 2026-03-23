@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-22T03:02:02.955779+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-22T02:02:40+00:00",
+        "description": "Another total failure of its power grid underlines Cuba's hardship under a US-imposed fuel blockade.",
+        "id": 5075221,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/cvg0l44yxrvo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 524,
+        "source_url": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f79/live/464c5270-257e-11f1-a79a-77e93010d956.jpg",
+        "title": "National blackout hits Cuba for second time in a week",
+        "vote": 0
+    }
+]

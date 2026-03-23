@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jake Peterson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-22T23:34:16.695032+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-22T23:00:00+00:00",
+        "description": "Not every Galaxy is covered.",
+        "id": 5080642,
+        "language": "en-us",
+        "link": "https://lifehacker.com/tech/samsung-galaxy-officially-supports-airdrop",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 442,
+        "source_url": "https://lifehacker.com/feed/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://lifehacker.com/imagery/articles/01KM6DY5E2ENKBV3JQ8P57JCXQ/hero-image.jpg",
+        "title": "Samsung Now Officially Supports AirDrop, but Only for These Devices",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "TechHut",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-22T13:58:29.826673+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-22T12:00:02+00:00",
+        "description": "Redeem at https://get.brevo.com/techhut or with code TECHHUT50 to save 50% on Starter and Standard Plans for the first 3 months (new paying customers only)\n\nNextcloud Hub 26 is out and it's a substantial release. They rewrote a big chunk of how Nextcloud handles files under the hood, added a ton of quality of life improvements to Talk and Mail, and expanded federation across more apps. In this video we go through how to update your all-in-one instance and cover all the changes worth knowing about.\n\n\ud83d\udcd6 RESOURCES\nGuide: https://www.youtube.com/watch?v=DFUmfHqQWyg\nRelease: https://nextcloud.com/blog/nextcloud-hub26-winter/\nKeynote: https://www.youtube.com/watch?v=DhCYe1-ZPks\n\n\ud83c\udfc6 FOLLOW TECHHUT\nX (Twitter): https://bit.ly/twitter-techhut\nMASTODON: https://bit.ly/mastodon-techhut\nBlueSky: https://bsky.app/profile/techhut.bsky.social\nINSTAGRAM: https://bit.ly/personal-insta\n\n\ud83d\udc4f SUPPORT TECHHUT (all links below this line will earn us commission)\nBUY A COFFEE: https://buymeacoffee.com/techhut\nYO",
+        "id": 5077558,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=6wMeL9xlzag",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 430,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjSEJkpGbcZhvo0lr-44X_w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/6wMeL9xlzag/hqdefault.jpg",
+        "title": "Google Drive KILLER Just Got Even Better - Nextcloud Hub 26 + Upgrade Guide",
+        "vote": 0
+    }
+]

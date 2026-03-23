@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "GitHub",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-22T14:37:00.492688+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-22T14:00:25+00:00",
+        "description": "Tech social media has been debating whether the Model Context Protocol (MCP) is dead, arguing that basic shell commands are enough. But as Gergely Orosz points out, once you reach enterprise scale like Uber, AI agents need secure and consistent connections to internal services. MCP was built exactly for this. Plus, we talk about the FastMCP team hosting a literal funeral for MCP on April 1st in NYC. Let us know if you are team MCP or team CLI in the comments!\n\n#MCP #AI #FastMCP\n\nStay up-to-date on all things GitHub by connecting with us:\n\nYouTube: https://gh.io/subgithub\nBlog: https://github.blog\nX: https://twitter.com/github\nLinkedIn: https://linkedin.com/company/github\nInsider newsletter: https://resources.github.com/newsletter/\nInstagram: https://www.instagram.com/github\nTikTok: https://www.tiktok.com/@github\n\nAbout GitHub\nIt\u2019s where over 180 million developers create, share, and ship the best code possible. It\u2019s a place for anyone, from anywhere, to build anything\u2014it\u2019s where the w",
+        "id": 5077780,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/N-s68IAsvOg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 1005,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7c3Kb6jYCRj4JOHHZTxKsQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/N-s68IAsvOg/hqdefault.jpg",
+        "title": "Is MCP actually dead?",
+        "vote": 0
+    }
+]

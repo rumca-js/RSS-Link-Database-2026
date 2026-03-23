@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-22T15:26:28.493051+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-22T15:26:27+00:00",
+        "description": "Part of the launch site in Kazakhstan collapsed during the lift-off of Soyuz MS-28 in November last year, temporarily preventing Russia from being able to send cosmonauts into space.",
+        "id": 5078079,
+        "language": "en-US",
+        "link": "https://www.lemonde.fr/en/international/article/2026/03/22/russia-resumes-use-of-space-launch-site-damaged-in-accident_6751699_4.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 190,
+        "source_url": "https://www.lemonde.fr/en/science/rss_full.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.lemde.fr/2026/03/22/0/0/3600/1800/644/322/60/0/5f1cbd4_ftp-1-ciphu8nj1ofy-2026-03-22t124821z-699806283-rc2o9ka6mzam-rtrmadp-3-space-iss-launch.JPG",
+        "title": "Russia resumes use of space launch site damaged in accident",
+        "vote": 0
+    }
+]

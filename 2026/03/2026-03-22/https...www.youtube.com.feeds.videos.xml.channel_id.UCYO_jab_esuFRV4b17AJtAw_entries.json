@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "3Blue1Brown",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-22T13:14:58.053800+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-22T12:59:00+00:00",
+        "description": "Escher's Print Gallery, and the tour of complex analysis it invites.\nCheck out our virtual career fair: 3b1b.co/talent\nJoin channel supporters to see videos early: 3b1b.co/support\nAn equally valuable form of support is to simply share the videos.\nHome page: https://www.3blue1brown.com\n\nOriginal paper by de Smit and Lenstra:\nhttps://pub.math.leidenuniv.nl/~smitbde/papers/2003-de_smit-lenstra-escher.pdf\n\nTimestamps:\n\n0:00 - The print gallery\n13:04 - Conformal maps from complex analysis\n21:41 - The complex exponential\n25:56 - The complex logarithm\n32:32 - 3b1b Talent\n33:14 - Constructing the key function\n40:16 - The deeper math behind Escher\n\n------------------\n\nThese animations are largely made using a custom Python library, manim.  See the FAQ comments here:\nhttps://3b1b.co/faq#manim\n\nMusic by Vincent Rubinetti.\nhttps://vincerubinetti.bandcamp.com/album/the-music-of-3blue1brown\nhttps://open.spotify.com/album/1dVyjwS8FBqXhRunaG5W5u\n\n------------------\n\n3blue1brown is a channel about ani",
+        "id": 5077362,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=ldxFjLJ3rVY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 884,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYO_jab_esuFRV4b17AJtAw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/ldxFjLJ3rVY/hqdefault.jpg",
+        "title": "Escher's most mathematically interesting piece",
+        "vote": 0
+    }
+]

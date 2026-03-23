@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-22T01:48:18.553244+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-22T00:21:08+00:00",
+        "description": "[RFI] French now ranks ahead of Arabic as the fourth most widely spoken language in the world, according to a report published this week ahead of Friday's international day of the French language.",
+        "id": 5075022,
+        "language": "en",
+        "link": "https://allafrica.com/stories/202603220018.html",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 15,
+        "source_url": "https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Africa: French Overtakes Arabic to Become World's Fourth Most Spoken Language",
+        "vote": 0
+    }
+]
