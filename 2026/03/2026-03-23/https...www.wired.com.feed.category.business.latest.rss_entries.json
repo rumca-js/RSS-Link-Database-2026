@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Joel Khalili",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-23T09:29:38.922077+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-23T09:00:00+00:00",
+        "description": "As data center developers queue up to connect to power grids across Europe, network operators are experimenting with novel ways of clearing room for them.",
+        "id": 5082970,
+        "language": "en-US",
+        "link": "https://www.wired.com/story/europe-squeeze-power-energy-grid-ai-data-center",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 396,
+        "source_url": "https://www.wired.com/feed/category/business/latest/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media.wired.com/photos/69bda22b3c74bb28e577eb8a/master/pass/business_ai_data_center_power_grid.jpg",
+        "title": "The AI Race Is Pressuring Utilities to Squeeze More From Europe\u2019s Power Grids",
+        "vote": 0
+    }
+]

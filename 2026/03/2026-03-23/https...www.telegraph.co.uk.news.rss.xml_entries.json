@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Abbir Dib",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-23T04:37:07.940786+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-23T04:01:53+00:00",
+        "description": "Firefighters battle blaze reportedly targeting Jewish emergency medical service",
+        "id": 5081752,
+        "language": "en-UK",
+        "link": "https://www.telegraph.co.uk/news/2026/03/23/golders-green-fire-jewish-volunteer-ambulances",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 81,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 355,
+        "source_url": "https://www.telegraph.co.uk/news/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Jewish ambulances set on fire in Golders Green",
+        "vote": 0
+    }
+]

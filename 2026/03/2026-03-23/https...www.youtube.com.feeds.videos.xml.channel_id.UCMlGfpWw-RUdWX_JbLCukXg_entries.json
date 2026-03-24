@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-23T16:44:08.791780+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-23T16:02:15+00:00",
+        "description": "https://cppcon.org\n---\n\nHow C++ Finally Beats Rust at JSON Serialization - Daniel Lemire & Francisco Geiman Thiesen - CppCon 2025\n---\n\nJSON, or JavaScript Object Notation, has become a cornerstone for storing and exchanging data. Its appeal lies in its simplicity\u2014human-readable text that elegantly captures structured data through attribute-value pairs and arrays: {\"age\": 5, \"name\": \"Daniel\", \"toys\": [\"wooden dog\", \"little car\"]}. JSON is intuitive yet powerful. But ingesting and producing JSON can turn into a performance choke point. In C++, it can be a tedious, error-prone task. Programmers wrestle with unexpected content, manually mapping data to and from native structures, all while striving for speed and safety. \n \nWith languages like Java, C#, Zig, Rust, or Python, JSON serialization and deserialization typically requires far less work. In particular, Rust's serde library blends convenience with high speed. We wish for a C++ library to automatically handle JSON production and con",
+        "id": 5086293,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Mcgk3CxHYMs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/Mcgk3CxHYMs/hqdefault.jpg",
+        "title": "How C++ Finally Beats Rust at JSON Serialization - Daniel Lemire & Francisco Geiman Thiesen",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-23T00:40:55.958696+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-23T00:28:35+00:00",
+        "description": "M5Stack has added the M5StampS3 BAT, a compact embedded module based on the ESP32-S3 platform with integrated battery power management. The module is intended for IoT and low-power applications requiring wireless connectivity and flexible GPIO access in a small form factor. The module is built around the ESP32-S3-PICO-1-N8R8 system-in-package, featuring a dual-core Xtensa LX7 processor [&#8230;]",
+        "id": 5080941,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/m5stamps3-bat-module-combines-esp32-s3-and-battery-management",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "M5StampS3 BAT Module Combines ESP32-S3 and Battery Management",
+        "vote": 0
+    }
+]

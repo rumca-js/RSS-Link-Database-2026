@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Paul's Hardware",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-23T21:50:06.020196+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-23T21:06:04+00:00",
+        "description": "Intel\u2019s New CPUs - The Good and the Bad\nReview References \n250K Plus\n video\nHardware Unboxed - https://youtu.be/inyjqk1bGQ8\nGamers Nexus - https://youtu.be/aeweNYELwkY \n article\nhttps://www.pcgamer.com/hardware/processors/intel-core-ultra-5-250k-plus-review/ \nhttps://www.techpowerup.com/review/intel-core-ultra-5-250k-plus/ \n270K Plus\nhttps://www.tomshardware.com/pc-components/cpus/intel-core-ultra-7-270k-plus-review \nBoth 250K Plus and 270K Plus\nhttps://www.computerbase.de/artikel/prozessoren/intel-core-ultra-5-250k-plus-core-ultra-7-270k-plus-test.96502/seite-2 \nhttps://hardwareand.co/dossiers/cpu/test-des-core-ultra-5-250k-plus-et-core-ultra-7-270k-plus-pas-juste-un-simple-refresh?start=5",
+        "id": 5088692,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/isG0hVRE7t8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 927,
+        "source_url": "https://www.youtube.com/channel/UCvWWf-LYjaujE50iYai8WgQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/isG0hVRE7t8/hqdefault.jpg",
+        "title": "Intel's New CPUs - The Good and the Bad",
+        "vote": 0
+    }
+]

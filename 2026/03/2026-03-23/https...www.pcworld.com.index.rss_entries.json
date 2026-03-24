@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-23T14:18:11.859135+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-23T14:15:25+00:00",
+        "description": "<div id=\"link_wrapped_content\">\n<body><section class=\"wp-block-bigbite-multi-title\"><div class=\"container\"></div></section>\n\n\n\n<p><strong>Update on March 23, 2026:</strong> Over the weekend, Microsoft released an emergency update that addresses app login issues in Windows 11. The update\u00a0(<a href=\"https://support.microsoft.com/en-us/topic/march-21-2026-kb5085516-os-builds-26200-8039-and-26100-8039-out-of-band-09e85404-1cb6-4ed4-9ca5-3e40d74307b9\">KB5085516</a>)\u00a0is now available for Windows 11 25H2 and 24H2 and is designed to ensure that the presence of an internet connection is correctly detected during the login process. You can install it via Windows Update, where it will be listed as an optional update.</p>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\">\n\n\n\n<p><strong>Original story from March 20th:</strong> Ever since <a href=\"https://www.pcworld.com/article/3087001/windows-11-just-got-a-bunch-of-new-features-with-march-update.html\">Windows 11\u2019s big March update</a>, u",
+        "id": 5085082,
+        "language": "en-US",
+        "link": "https://www.pcworld.com/article/3094619/windows-11s-emergency-update-fixes-broken-microsoft-app-logins.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 245,
+        "source_url": "https://www.pcworld.com/index.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Windows 11\u2019s emergency update fixes broken Microsoft app logins",
+        "vote": 0
+    }
+]
