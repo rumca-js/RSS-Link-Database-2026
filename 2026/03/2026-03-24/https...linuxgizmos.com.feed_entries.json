@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-24T04:18:35.935408+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-24T04:05:55+00:00",
+        "description": "MINIX is offering the ER939-AI, a compact mini PC built around AMD&#8217;s Ryzen AI Max+ 395 processor. The system targets high-performance desktop workloads in a small form factor, combining a 16-core CPU, integrated graphics, and an on-chip neural processing unit. The platform uses the Ryzen AI Max+ 395, a 16-core, 32-thread processor with boost frequencies [&#8230;]",
+        "id": 5090704,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/m5stamps3-bat-module-combines-esp32-s3-and-battery-management-2",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "M5StampS3 BAT Module Combines ESP32-S3 and Battery Management",
+        "vote": 0
+    }
+]

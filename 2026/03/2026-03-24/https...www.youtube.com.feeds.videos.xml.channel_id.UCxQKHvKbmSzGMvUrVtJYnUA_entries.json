@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Learn Linux TV",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-25T01:02:55.830928+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-24T22:15:01+00:00",
+        "description": "In this video, I explore how AI can be used for System Administration by integrating Claude Code. I walk through a real experiment where I tested AI against my infrastructure automation workflow to see how useful AI really is for sysadmins.\n\nIs AI a blessing or a curse? Check out the video to learn more about this experiment as well as my findings.\n\n*\ud83d\udcd6 Check out my brand-new Linux Troubleshooting eBook!*\nContains expert strategies to help you level-up your System Administration game. Packed with advice, best practices as well as some Linux-related life hacks!\n \u2022 Check it out here \u279c https://learnlinux.link/troubleshooting-ebook\n\n*\ud83d\udd25 Top Recommendations*\n \u2022 Get $100 Credit to Practice on Akamai (Linode) \u279c https://learnlinux.link/linode\n \u2022 Linux Commands Cheat Sheet \u279c https://learnlinux.link/linux-commands\n \u2022 30% Off Linux Foundation Certifications (Use code \"LEARNLINUXTV\") \u279c https://learnlinux.link/lf\n \u2022 Professional tutoring from yours truly \u279c https://learnlinux.link/tutor-me\n\n*\ud83d\udee0\ufe0f SysAd",
+        "id": 5099699,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=VeM6ENfZANo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 997,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxQKHvKbmSzGMvUrVtJYnUA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/VeM6ENfZANo/hqdefault.jpg",
+        "title": "I Let AI Run My Sysadmin Tasks\u2026 Here\u2019s What Happened",
+        "vote": 0
+    }
+]

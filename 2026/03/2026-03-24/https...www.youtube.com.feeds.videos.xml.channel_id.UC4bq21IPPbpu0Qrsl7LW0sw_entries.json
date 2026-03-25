@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Slidebean",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-24T18:25:19.032194+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-24T17:39:40+00:00",
+        "description": "That \u201c4K\u201d movie you\u2019re streaming?\nIt\u2019s probably upscaled from 2K.\n\nAnd even worse, it\u2019s heavily compressed.\n\nStreaming: 40 Mbps\n4K Blu-ray: 144 Mbps\n\nSame resolution.\nVery different quality.\n\nBecause real image quality isn\u2019t just pixels.\nIt\u2019s bitrate, color, and detail.\n\n\ud83d\udc49 Want the full breakdown? Watch it on our YouTube channel",
+        "id": 5096727,
+        "language": "",
+        "link": "https://www.youtube.com/shorts/XmDU6BupOn4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 728,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4bq21IPPbpu0Qrsl7LW0sw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/XmDU6BupOn4/hqdefault.jpg",
+        "title": "4K streaming isn\u2019t really 4K",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Gruber",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-24T21:58:40.630463+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-24T21:39:04+00:00",
+        "description": "<p>Samsung:</p>\n\n<blockquote>\n  <p>Samsung is introducing AirDrop support to the Galaxy S26 series,\nmaking it easier for users to share content between devices using\nQuick Share.</p>\n\n<p>The feature will begin rolling out from March 23, starting in\nKorea and expanding to more regions including Europe, Hong Kong,\nJapan, Latin America, North America, Southeast Asia, and Taiwan.\nAirDrop support will initially be available on the Galaxy S26\nseries, with expansion to additional devices to be announced at a\nlater date/</p>\n</blockquote>\n\n<p>I presume, but don\u2019t know for certain, that they\u2019re using the same reverse-engineered implementation of AirDrop that <a href=\"https://blog.google/products/android/quick-share-airdrop/\">Google announced for its Pixel 10 phones back in November</a>, and for which Google offered <a href=\"https://security.googleblog.com/2025/11/android-quick-share-support-for-airdrop-security.html\">a wee bit of technical details</a> to vouch for the security of the implement",
+        "id": 5098391,
+        "language": "",
+        "link": "https://news.samsung.com/us/samsung-airdrop-quick-share-galaxy-s26-series",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 489,
+        "source_url": "https://daringfireball.com/feeds/main",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Following Google\u2019s Lead With Pixel Phones, Samsung Announces AirDrop Support With Galaxy S26 Phones",
+        "vote": 0
+    }
+]

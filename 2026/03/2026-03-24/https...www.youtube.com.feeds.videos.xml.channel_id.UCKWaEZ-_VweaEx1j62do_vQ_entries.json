@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-24T11:29:13.070840+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-24T11:00:11+00:00",
+        "description": "Ready to become a certified watsonx AI Assistant Engineer? Register now and use code IBMTechYT20 for 20% off of your exam \u2192 https://ibm.biz/Bdpiku\n\nLearn more about AI As A Service here \u2192 https://ibm.biz/BdpikL\n\nWhat if you could control AI like your own private cloud? \ud83e\udd2f Cedric Clyburn explains how AI Models-as-a-Service simplifies deployment, supports agentic AI, and enables RAG workflows, all while ensuring privacy and governance. Learn how to scale secure, effective AI in hybrid and private environments!\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/BdpikC\n\n#aimodels #agenticai #retrievalaugmentedgeneration",
+        "id": 5092797,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=81FbpXpfxTc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/81FbpXpfxTc/hqdefault.jpg",
+        "title": "AI Models as a Service: Powering Agentic AI, Privacy, & RAG",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-24T18:09:06.384416+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-24T16:30:03+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/8bAN4Jam974\" width=\"480\" alt=\"thumbnail\" title=\"I Spoke To The Dev Behind The Systemd Birth Date Change\" /></p>Today I spoke with the developer who introduced the PR to Systemd which added in a birth date field to userdb which spawned a massive drama and much worse as he describes in what has happened to him following that.<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />=========Video Platforms==========<br />\ud83c\udfa5 React: https://www.youtube.com/@BrodieRobertsonReacts<br />\ud83c\udfa5 Podcast: https://techovertea.xyz/youtube<br />\ud83c\udfae Gaming: https://brodierobertson.xyz/gaming<br /><br />==========Social Media==========<br />\ud83c\udfa4 Discord: https://brodierobertson.xyz/discord<br />\ud83d\udc26 Twitter: https://brodierobertson.xyz/twitter<br />\ud83c\udf10 Mastod",
+        "id": 5096604,
+        "language": "en",
+        "link": "https://odysee.com/i-spoke-to-the-dev-behind-the-systemd:45fa8fe0240ed4738553eefabeb123c1bfeed702",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/8bAN4Jam974",
+        "title": "I Spoke To The Dev Behind The Systemd Birth Date Change",
+        "vote": 0
+    }
+]

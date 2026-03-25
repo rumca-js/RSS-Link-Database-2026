@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/NXGZ",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-24T02:17:51.711795+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-24T01:42:02+00:00",
+        "description": "<table> <tr><td> <a href=\"https://www.reddit.com/r/emulation/comments/1s20iwo/scorpio_emu_first_ingame_graphics_xbox_one/\"> <img src=\"https://external-preview.redd.it/bRV8tYWdOBbg_ZQ_lH9hWvJywHCp4MkOTw3Tt8LDhZw.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=b58cf20b810cfa733e22a29d92d4aa786f62f8b9\" alt=\"Scorpio Emu - First In-Game Graphics (Xbox One Emulation Progress) AI assisted\" title=\"Scorpio Emu - First In-Game Graphics (Xbox One Emulation Progress) AI assisted\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><a href=\"https://www.youtube.com/watch?v=i96tGAj5Atg\">Progress Update</a> for Scorpio Emu, a Xbox One emulator.</p> <p>Current Milestone;</p> <p>Successfully booting Sonic Mania into the title screen loop. Graphics are being translated from GCN to SPIR-V in real-time with stable 50 FPS.</p> <p><strong>Next Development Steps;</strong></p> <ul> <li>Implementing XInput for controller support</li> <li>Finalizing Audio stubs and synchronization</li> <li>Optimizing the Shad",
+        "id": 5090265,
+        "language": "",
+        "link": "https://www.reddit.com/r/emulation/comments/1s20iwo/scorpio_emu_first_ingame_graphics_xbox_one",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 475,
+        "source_url": "https://www.reddit.com/r/emulation/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://external-preview.redd.it/bRV8tYWdOBbg_ZQ_lH9hWvJywHCp4MkOTw3Tt8LDhZw.jpeg?width=320&crop=smart&auto=webp&s=b58cf20b810cfa733e22a29d92d4aa786f62f8b9",
+        "title": "Scorpio Emu - First In-Game Graphics (Xbox One Emulation Progress) AI assisted",
+        "vote": 0
+    }
+]

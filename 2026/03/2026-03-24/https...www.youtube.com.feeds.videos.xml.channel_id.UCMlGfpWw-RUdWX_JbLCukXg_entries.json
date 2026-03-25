@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-24T16:26:33.446576+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-24T16:02:03+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nBack to Basics: Move Semantics - Ben Saks - CppCon 2025\n---\n\nWhile many C++ programmers are familiar with the broad idea of move semantics, even experienced C++ programmers often struggle with the fine details. For example, many programmers are unclear on exactly when an object is considered implicitly movable and when std::move() is required to make the object movable. This is especially unfortunate because using std::move() when it's unnecessary sometimes degrades performance. \n \nThis session starts by explaining how move semantics can substantially improve performance for certain types. It then shows how to implement a type with move semantics, and explores some important design issues in creating these types. After that, it explains how types like std::vector\uff1cT\uff1e can operate much more efficiently on objects of types that support move semantics. \n \nYou'll leave this session with a clearer understanding of: \n \n-  how to implement move-semantic types, \n-  how ",
+        "id": 5095440,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=szU5b972F7E",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/szU5b972F7E/hqdefault.jpg",
+        "title": "Back to Basics: Move Semantics - Ben Saks - CppCon 2025",
+        "vote": 0
+    }
+]
