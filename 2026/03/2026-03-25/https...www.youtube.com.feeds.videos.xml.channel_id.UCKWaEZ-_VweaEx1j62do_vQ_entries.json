@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-25T11:39:39.872787+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-25T10:00:33+00:00",
+        "description": "Follow the Security Intelligence podcast on your preferred platform \u2192  https://ibm.biz/BdpyGe\n\nSomeone finally cracked the Xbox One after 13 years. Here\u2019s why security pros should care. \n\nOn this episode of Security Intelligence, panelists Ian Molloy, Seth Glasgow and Kimmie Farrington discuss the Xbox One hack presented at RE//verse 2026. More than just a neat story of one hacker\u2019s ingenuity, there are some important takeaways for practitioners here. \n\nBut before that, we get into promptware, a new model for understanding attacks on LLMs that goes beyond the basics of prompt injections. Formulated by a handful of prominent cybersecurity researchers, including Bruce Schneier, promptware urges defenders to start thinking about the full AI attack kill chain, not just the front door. \n\nThen we dive into a new analysis of cloud attack trends from IBM X-Force's Omari Jones, which finds that cybercriminals are targeting cloud ecosystems rather than cloud infrastructure. How do we need to sh",
+        "id": 5102691,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=HycfWDXMr5Q",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/HycfWDXMr5Q/hqdefault.jpg",
+        "title": "Promptware, cloud security trends for 2026, and what the Xbox One hack means for cybersecurity",
+        "vote": 0
+    }
+]

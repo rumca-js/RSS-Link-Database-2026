@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ryan Daws",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-25T13:39:23.230508+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-25T12:45:24+00:00",
+        "description": "<p>Securing dynamic AI agent code execution requires true workload isolation\u2014a challenge Cloudflare\u2019s new API was built to solve. Letting AI operate autonomously introduces engineering difficulties, particularly when securing the environment where these tasks execute. We are seeing agents perform tasks by writing programs to interact with APIs rather than making standard tool calls. Directly evaluating [&#8230;]</p>\n<p>The post <a href=\"https://www.developer-tech.com/news/isolating-dynamic-ai-agent-code-execution-cloudflare-api/\">Isolating dynamic AI agent code execution with Cloudflare\u2019s API</a> appeared first on <a href=\"https://www.developer-tech.com\">Developer Tech News</a>.</p>",
+        "id": 5103642,
+        "language": "en-GB",
+        "link": "https://www.developer-tech.com/news/isolating-dynamic-ai-agent-code-execution-cloudflare-api",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 92,
+        "source_url": "https://www.developer-tech.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Isolating dynamic AI agent code execution with Cloudflare\u2019s API",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Google DeepMind",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-25T17:07:11.274779+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-25T16:00:42+00:00",
+        "description": "Last month, we introduced Lyria 3, featuring custom music generation designed to spark creative expression. Now, we\u2019re bringing our most advanced music generation model to more Google products, and introducing Lyria 3 Pro. This advanced version allows the creation of tracks up to 3 minutes long, with customization and creative control.\n\nLearn more: https://blog.google/innovation-and-ai/technology/ai/lyria-3-pro \n\n___\nSubscribe to our channel https://www.youtube.com/@googledeepmind\nFind us on X https://twitter.com/GoogleDeepMind\nFollow us on Instagram https://instagram.com/googledeepmind\nAdd us on Linkedin https://www.linkedin.com/company/deepmind/",
+        "id": 5105822,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=hv8ZI7foGZk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 934,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP7jMXSY2xbc3KCAE0MHQ-A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/hv8ZI7foGZk/hqdefault.jpg",
+        "title": "Introducing Lyria 3 Pro",
+        "vote": 0
+    }
+]

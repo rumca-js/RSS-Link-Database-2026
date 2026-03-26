@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Lunduke Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-25T23:48:19.106697+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-25T23:05:54+00:00",
+        "description": "Two very different reactions to Age Verification. Slackware says, \"I doubt these laws would survive a challenge.\" While Fedora says, \"It's a matter of hopefully, just adopting a standard API.\"\n\nMore from The Lunduke Journal:\nhttps://lunduke.com/",
+        "id": 5109204,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=M5Wd39RNzvg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 616,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkK9UDm_ZNrq_rIXCz3xCGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/M5Wd39RNzvg/hqdefault.jpg",
+        "title": "Slackware Says No to Age Verification, But Fedora Linux Says Yes",
+        "vote": 0
+    }
+]

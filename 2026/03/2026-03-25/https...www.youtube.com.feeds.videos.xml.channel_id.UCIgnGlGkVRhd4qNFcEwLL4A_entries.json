@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "AI Search",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-25T07:44:06.610430+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-25T03:22:55+00:00",
+        "description": "How GPT and other large language models (LLMs) work. Transformers deep dive. #ai #llm #machinelearning #datascience #agi \n\nThanks to our sponsor Genspark. Try it for free https://bit.ly/4uM3PLS\n\nAttention is all you need https://arxiv.org/html/1706.03762v7\n\n0:00 Intro\n0:33 The transformer model\n1:30 Predicting the next word\n2:30 Tokenization\n5:06 Representing meaning\n7:17 Positional encoding\n9:17 Attention head\n14:49 Genspark\n16:35 Multiple heads\n19:30 Add and norm\n21:45 Feed forward neural net\n24:08 Multiple decoder blocks\n24:50 Final layer\n27:03 Training the model\n\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSupport: https://ko-fi.com/aisearch\n\nHere's my equipment, in case you're wondering:\nLenovo Thinkbook: https://amzn.to/4jWeKwH\nDell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 \nGPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS\nMic: Shur",
+        "id": 5100593,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=U2hZFMVNSE0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 806,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIgnGlGkVRhd4qNFcEwLL4A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/U2hZFMVNSE0/hqdefault.jpg",
+        "title": "How does AI actually work? Transformers explained",
+        "vote": 0
+    }
+]

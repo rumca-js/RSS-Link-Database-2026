@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Huawei",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-25T10:56:47.595892+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-25T10:06:54+00:00",
+        "description": "Orange Middle East & Africa and #Huawei are deploying AI enabled, solar powered base stations to deliver reliable connectivity in remote areas of Africa.\n \nThe new AI Solar approach tackles unreliable power infrastructure, harsh environmental conditions, and high operating costs that have historically limited network expansion. The system combines solar power with AI driven forecasting and energy management tools to keep sites operational during prolonged periods of poor weather.",
+        "id": 5102279,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=JtTgykhgtCk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 875,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtjV1_XU6gvPYyreaFScxBQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/JtTgykhgtCk/hqdefault.jpg",
+        "title": "Orange and Huawei Expand Remote Connectivity in Africa Using AI Solar",
+        "vote": 0
+    }
+]

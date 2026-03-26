@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-25T16:32:22.743988+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-25T16:02:13+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nThe Wonderful World of Designing a USB Stack Using Modern C++ - Madeline Schneider - CppCon 2025\n---\n\nHave you ever wondered how to design a library to abstract and manage complex communication protocols like USB? Have you ever wondered which parts of a protocol need to be hardware abstractions and which parts are hardware agnostic? Well you\u2019re in luck, my mentor and I have designed a USB stack from the ground up in modern C++! We found that the public offerings did not meet our needs. Our requirements are: \n\n- Resource efficient \n- Portable \n- Modular \n- Convenient to use \n- Distributable via single pre-built binary using conan \n- Without allocations after initialization \n\nIn this talk you\u2019ll learn the basics of how USB works at the lowest level from a software perspective. You\u2019ll learn why malleability and freedom are so important for USB device development and how C++ makes such a library design easy to implement. Embark with me on a deep-dive into shaping ",
+        "id": 5105497,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Kbj_c-12yrA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/Kbj_c-12yrA/hqdefault.jpg",
+        "title": "The Wonderful World of Designing a USB Stack Using Modern C++ - Madeline Schneider - CppCon 2025",
+        "vote": 0
+    }
+]

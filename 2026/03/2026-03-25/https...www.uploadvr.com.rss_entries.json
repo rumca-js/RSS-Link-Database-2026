@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mike Johnson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-25T20:03:46.454862+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-25T12:37:15+00:00",
+        "description": "We talked with Andrew Eiche of Job Simulator&#39;s Owlchemy Labs at GDC about how the company stays relevant in an ever-changing VR landscape.",
+        "id": 5107566,
+        "language": "en",
+        "link": "https://www.uploadvr.com/job-simulators-developer-on-evolving-in-vr-with-dimensional-double-shift",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 375,
+        "source_url": "https://www.uploadvr.com/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.uploadvr.com/content/images/2026/03/DDS-Key-Art-1.png",
+        "title": "Job Simulator&#x27;s Developer On Evolving In VR with Dimensional Double Shift",
+        "vote": 0
+    }
+]

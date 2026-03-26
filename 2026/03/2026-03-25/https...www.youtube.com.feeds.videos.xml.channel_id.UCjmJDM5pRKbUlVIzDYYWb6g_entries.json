@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Warner Bros.",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-25T07:56:52.611243+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-25T04:03:22+00:00",
+        "description": "In honor of Tolkien Reading Day and the destruction of the One Ring, we bring you a special announcement.",
+        "id": 5100858,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=HMHh4L2626A",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 693,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjmJDM5pRKbUlVIzDYYWb6g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/HMHh4L2626A/hqdefault.jpg",
+        "title": "We bring you a special announcement",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "OpenAI",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-25T18:46:52.124731+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-25T16:55:00+00:00",
+        "description": "The more AI can do, the more we need to ask what it should and shouldn\u2019t do. In this episode, OpenAI researcher Jason Wolfe joins host Andrew Mayne to talk about the Model Spec, the public framework that defines intended model behavior. They discuss how the Model Spec works in practice, including how the chain of command handles conflicts between instructions, and how OpenAI evolves it based on feedback, real-world use, and new model capabilities.\n\nMore on our approach to the Model Spec: https://openai.com/index/our-approach-to-the-model-spec/\n\nChapters\n\n00:00 Introduction\n01:10 What is the Model Spec?\n03:55 How does the Model Spec work in practice?\n06:26 Transparency: Where to read the Model Spec & give feedback\n07:51 How did the Model Spec originate?\n10:02 How does the spec translate into model behavior?\n11:26 What is the hierarchy / chain of command?\n13:35 Handling edge cases like Santa Claus\n17:41 How does the Model Spec evolve over time?\n19:59 What happens when models disagree wi",
+        "id": 5106880,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=H8GMRxG8suw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 935,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXZCJLdBC09xxGZ6gcdrc6A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/H8GMRxG8suw/hqdefault.jpg",
+        "title": "Episode 15 - Inside the Model Spec",
+        "vote": 0
+    }
+]

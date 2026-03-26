@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Babylon Bee",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-25T01:11:38.376503+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-25T00:30:00+00:00",
+        "description": "The United States is bringing in Chick-fil-A employees to manage airport security checkpoints, leading to dramatically reduced wait times and even eliminating lines at some locations. This fast food intervention has made a significant impact, with customers waiting over five minutes receiving free chicken sandwich coupons. Perhaps Chick-fil-A should manage everything!",
+        "id": 5099728,
+        "language": "en-US",
+        "link": "https://www.youtube.com/shorts/jyRsW71cuCw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 31,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCyl5V3-J_Bsy3x-EBCJwepg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/jyRsW71cuCw/hqdefault.jpg",
+        "title": "Chick Fil-A Takes Over TSA Eliminating Airport Wait Times",
+        "vote": 0
+    }
+]
