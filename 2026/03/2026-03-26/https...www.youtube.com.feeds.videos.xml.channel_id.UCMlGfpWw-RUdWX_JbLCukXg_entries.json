@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-26T16:45:57.328045+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-26T16:02:07+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nGraphics Programming with SDL 3 - Mike Shah - CppCon 2025\n---\n\nThe C++ programming language does not have a standard graphics library, However, there exists many popular graphics frameworks for cross-platform graphics. In this talk, I will provide an introduction to the Simple Directmedia Layer (SDL) library, which has at the start of 2025 released version 3. This library for several decades has been a standard in the games and graphics industry. Throughout this talk, I will show how to get started with the library, some more advanced examples (including compiling graphics applications to web), and then talk about what a standard graphics library could look like in C++, or if it is even necessary. I will also talk about the 3D GPU library in SDL3. Attendees will leave this talk ready to build multimedia / game applications and with an understanding on if SDL3 is the right tool for them. \n---\n\nSlides: https://github.com/CppCon/CppCon2025/blob/main/Presentations",
+        "id": 5115678,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=tV1giXd0-Us",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/tV1giXd0-Us/hqdefault.jpg",
+        "title": "Why Every C++ Game Developer Should Learn SDL 3 Now - Mike Shah - CppCon 2025",
+        "vote": 0
+    }
+]

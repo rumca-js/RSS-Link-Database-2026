@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Microsoft",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-26T16:25:01.288941+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-26T15:59:44+00:00",
+        "description": "Answer ALS and ALS Therapy Development Institute both work to improve the quality of life\u00a0for\u00a0people living with\u00a0the\u00a0neurodegenerative\u00a0disease\u00a0ALS. The nonprofits partnered with Microsoft to build a free,\u00a0global, and secure\u00a0database called\u00a0Neuromine. Based on Microsoft Azure, the research hub houses trillions of data points provided by\u00a0people living with ALS, now easily accessible by scientists across the globe. The hub is speeding research, bringing\u00a0experts closer to treatments and a cure.",
+        "id": 5115282,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=cKV4KSIhhbI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 793,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFtEEv80fQVKkD4h1PF-Xqw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/cKV4KSIhhbI/hqdefault.jpg",
+        "title": "Answer ALS speeds progress toward treatments and cures through Microsoft Azure",
+        "vote": 0
+    }
+]

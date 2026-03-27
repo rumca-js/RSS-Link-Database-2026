@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-26T04:15:01.896229+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-26T04:07:26+00:00",
+        "description": "Pine64 has published a community update following FOSDEM 2026, outlining recent development activity, hardware demonstrations, and production challenges affecting its device lineup. The update highlights progress on PineNote and PineTab2 software, early work on PineTime Pro, and the impact of the ongoing DRAM shortage on several products. The FOSDEM 2026 event provided an opportunity for [&#8230;]",
+        "id": 5110427,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/pine64-fosdem-2026-update-details-pinenote-and-pinetab2-progress",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Pine64 FOSDEM 2026 Update Details PineNote and PineTab2 Progress",
+        "vote": 0
+    }
+]

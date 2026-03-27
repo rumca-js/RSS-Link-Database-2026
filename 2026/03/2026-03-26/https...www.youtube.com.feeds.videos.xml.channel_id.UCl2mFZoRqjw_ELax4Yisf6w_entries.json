@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Louis Rossmann",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-26T01:36:33.989675+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-26T00:27:18+00:00",
+        "description": "https://consumerrights.wiki/index.php?title=Nissan_EVconnect_application_shutdown\nhttps://www.theguardian.com/environment/2026/mar/14/nissan-leaf-app-shutdown-nissanconnect-ev-app\nhttps://consumerrights.wiki/w/Nissan\nhttps://www.youtube.com/watch?v=EozPi1qmH44\nhttps://ballotpedia.org/Massachusetts_Question_1,_%22Right_to_Repair_Law%22_Vehicle_Data_Access_Requirement_Initiative_(2020)\nhttps://www.youtube.com/post/UgkxgfYO-XhTLxoG_Jx4pnatEpSh4Fomm_Ge\nhttps://www.thedrive.com/tech/2348/the-nissan-leaf-is-extremely-hackable\nhttps://www.theguardian.com/technology/2016/feb/24/hackers-nissan-leaf-heating-access-driving-history\nhttps://cybernews.com/security/nissan-900gb-data-leak-ransomware/#:~:text=In%20December%202025%2C%20hackers%20exfiltrated,in%20Australia%20and%20New%20Zealand.\nhttps://consumerrights.wiki/w/General_Motors_data_collection_and_sharing_controversy\nhttps://wiki.futo.org/index.php/Introduction_to_a_Self_Managed_Life:_a_13_hour_%26_28_minute_presentation_by_FUTO_software\nhtt",
+        "id": 5109740,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=tmER0QjhSWA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 201,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCl2mFZoRqjw_ELax4Yisf6w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/tmER0QjhSWA/hqdefault.jpg",
+        "title": "Nissan enshittifies cars after getting hacked a billion times",
+        "vote": 0
+    }
+]

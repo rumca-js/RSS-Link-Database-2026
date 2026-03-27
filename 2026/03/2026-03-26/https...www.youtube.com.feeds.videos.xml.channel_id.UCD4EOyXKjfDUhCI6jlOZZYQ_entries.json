@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Eli the Computer Guy",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-26T18:34:08.062114+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-26T17:56:04+00:00",
+        "description": "RSVP for In Person Classes at -- https://www.SiliconDojo.com\nSupport Content at - https://donorbox.org/etcg\nLinkedIn at - https://www.linkedin.com/in/eli-etherton-a15362211/\n\nYou do know that being a technology professional is about more than writing function calls... right???\n\nWriting code is simple. Deploying secure, reliable systems that can endure catastrophic disaster and can be maintained long into the future is where it all becomes a bit more complicated.\n\nThis class is going to go over the fundamentals of cyber security and disaster recovery in the age of AI. We'll discuss how to create layered defenses, how to build AI systems that will not self destruct your infrastructure, and how to build systems that can handle a \"biblical flood\"\n\nWe'll also discuss how to keep your \"vibe coders\" from helpfully burning your server room to the ground. What happens if a user with Global Admin privileges VPN's into your network after they installed OpenClaw on their local system???\n\nThis cla",
+        "id": 5116827,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=iUkXEMmIXcc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 102,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCD4EOyXKjfDUhCI6jlOZZYQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/iUkXEMmIXcc/hqdefault.jpg",
+        "title": "Intro to Cyber Security for AI Projects",
+        "vote": 0
+    }
+]

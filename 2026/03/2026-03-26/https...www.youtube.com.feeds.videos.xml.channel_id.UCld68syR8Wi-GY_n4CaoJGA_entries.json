@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-26T17:43:05.254826+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-26T16:30:01+00:00",
+        "description": "Valve is making 2 big changes on Linux finally, firstly SteamOS is going Wayland by default and also finally the Linux Steam client on Linux is going 64 bit.\n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\nSteam Change: https://store.steampowered.com/news/app/1675200/view/532126482488623649\nGaming On Linux Article: https://www.gamingonlinux.com/2026/03/new-steam-beta-can-run-the-linux-client-inside-a-container-with-64bit/\nSteam Flatpak: https://flathub.org/en/apps/com.valvesoftware.Steam\nWindows Announcement: https://steamcommunity.com/games/593110/announcements/detail/528740542771627405\nArch Linux Wow64: https://archlinux.org/news/transition-to-the-new-wow64-wine-and-wine-staging/\n\n=========Video Platforms==========\n\ud83c\udfa5 React: https://www.youtube.com/@BrodieRobertsonReac",
+        "id": 5116214,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=6KX58rBgy7s",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/6KX58rBgy7s/hqdefault.jpg",
+        "title": "Valve Is Making Some Big Changes To Steam On Linux",
+        "vote": 0
+    }
+]

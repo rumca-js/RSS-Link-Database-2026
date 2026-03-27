@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-26T17:45:49.762154+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-26T17:29:13+00:00",
+        "description": "US District Judge Jane Boyle said the company had failed to show it had suffered any harm under federal competition laws.",
+        "id": 5116289,
+        "language": "en-US",
+        "link": "https://www.bbc.com/news/articles/c05dlm0l0jgo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 28,
+        "source_url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a734/live/95be3b70-292f-11f1-b930-6bf1eac08e0d.jpg",
+        "title": "Elon Musk's X advertising boycott lawsuit dismissed by US judge",
+        "vote": 0
+    }
+]

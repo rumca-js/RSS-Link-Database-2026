@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Craft Computing",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-26T22:04:06.729702+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-26T20:53:18+00:00",
+        "description": "Thanks to Verda for sponsoring our coverage of GTC 2026. Go to https://verda.com/?utm_source=craft-computing&utm_campaign=sponsorship&utm_content=GTC2026, and use code CRAFT-GTC-2026 for $50 in credit!\n\nDatacenters use a ton of power, and \"how much power\" is a number that gets larger everyday. But it's not just the power that's holding things back. Cooling, water consumption, and even land use are all major factors for modern datacenters to solve, and Panthalassa is an Oregon-company that might have just figured out how to make it all work, and their solution is fully renewable.\n\nPanthalassa is developing a solid-state wave generator, capable of up to 1MW of energy production. But as part of these generators, they're also going to integrate datacenters that will literally float out at sea. Infinite cooling capabilities, unlimited free energy, no land use. Check out their development over at https://panthalassa.com, or this documentary to learn more: https://www.youtube.com/watch?v=Q7P",
+        "id": 5118510,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=4wR1qwgycXk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 909,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCp3yVOm6A55nx65STpm3tXQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/4wR1qwgycXk/hqdefault.jpg",
+        "title": "Datacenter Tour with Alembic, plus 100% Renewable Datacenters from Panthalassa!",
+        "vote": 0
+    }
+]

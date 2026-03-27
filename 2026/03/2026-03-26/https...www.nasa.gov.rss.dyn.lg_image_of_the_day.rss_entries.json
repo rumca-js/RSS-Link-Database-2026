@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-26T17:26:04.526632+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-26T16:59:00+00:00",
+        "description": "NASA\u2019s IXPE observed the outer rim of the supernova remnant highlighted in purple in the inset. Data from IXPE is combined with data from NASA\u2019s Chandra X-ray Observatory and ESA\u2019s XMM-Newton.",
+        "id": 5116019,
+        "language": "en-us",
+        "link": "https://www.nasa.gov/image-detail/rcw86-xray-ixpe-optical-f2bd3a",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 485,
+        "source_url": "https://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "NASA's IXPE Gets Fresh Look at Supernova",
+        "vote": 0
+    }
+]

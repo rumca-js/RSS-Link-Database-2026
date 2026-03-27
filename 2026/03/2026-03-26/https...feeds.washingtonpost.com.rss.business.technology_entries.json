@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Shira Ovide",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-26T09:07:09.050964+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-26T09:00:00+00:00",
+        "description": "Most Americans have negative views of artificial intelligence, but recent history suggests that won\u2019t prevent it from becoming widely used.",
+        "id": 5111655,
+        "language": "en-US",
+        "link": "https://www.washingtonpost.com/technology/2026/03/26/americans-dont-trust-ai-will-probably-keep-using-it-anyway",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 364,
+        "source_url": "https://feeds.washingtonpost.com/rss/business/technology",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "AI is just another technology Americans don\u2019t like but can\u2019t stop using",
+        "vote": 0
+    }
+]
