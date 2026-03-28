@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeff Geerling",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-27T14:41:16.228363+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-27T14:00:00+00:00",
+        "description": "Video like it's 1999. Welcome to #MARCHintosh, FireWire edition!\n\nShop Micro Center's Monitor Madness Event: https://micro.center/1eb0c8\nSign up for a FREE 128 gig Flash Drive at Micro Center's Newest Store: https://micro.center/c1a7b6\nVisit Micro Center News: https://micro.center/310248\n\nLinks to things I mentioned in this video (some links are affiliate links):\n\n  - How to use FireWire on a Pi: https://www.jeffgeerling.com/blog/2026/firewire-on-a-raspberry-pi/\n  - Equip-1 Firehat: https://equip-1.c-e.group\n  - Equip-1 Firehat Crowd Supply page: https://www.crowdsupply.com/computer-equipment-group/equip-1\n  - Open MRU: https://www.reddit.com/r/tapeless/comments/1n3aqsk/open_mru_raspberry_pi_5_based_mrucapture_device/\n  - toqer tv's video on Open MRU: https://www.youtube.com/watch?v=Fa4BIMdgVtM\n  - StarTech IEEE 1394 Mini PCIe FireWire card: https://amzn.to/4lRrQeU\n  - GeeekPi PCIe to Mini PCIe HAT for Pi 5: https://amzn.to/47U0vFj\n  - PiSugar 3 Plus: https://amzn.to/4uy23Oe\n  - FireW",
+        "id": 5123789,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=BuKeW45OL-g",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 161,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR-DXc1voovS8nhAvccRZhg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/BuKeW45OL-g/hqdefault.jpg",
+        "title": "Apple Abandoned It. I Saved It with a Raspberry Pi.",
+        "vote": 0
+    }
+]

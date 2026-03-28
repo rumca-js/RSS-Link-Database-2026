@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-27T14:55:47.104020+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-27T14:00:55+00:00",
+        "description": "Fran\u00e7ois Chollet has spent years asking a different question than most of the AI world. Instead of scaling what already works, he\u2019s trying to understand what intelligence actually is\u2014and how to build it from first principles. In this episode of Lightcone, he traces that path from his early work on deep learning to the creation of the ARC prize, and the launch of ARC V3, a new benchmark designed to measure something deeper than performance: the ability to learn, adapt, and reason efficiently in entirely new environments. He explains why today\u2019s systems may be hitting limits, what recent breakthroughs really mean, and why reaching true general intelligence may require a fundamentally different approach.\n\n00:00 - AGI by 2030?\n00:31 - Introducing Ndea: A New Path Beyond Deep Learning\n01:08 - A New ML Paradigm \n01:30 - Replacing neural nets with compact symbolic programs\n03:04 - Why Ndea Isn\u2019t Competing With Coding Agents\n05:20 - Why Everyone Might Be Wrong About Scaling LLMs\n07:22 - Why C",
+        "id": 5123842,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=k2ZLQC8P7dc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/k2ZLQC8P7dc/hqdefault.jpg",
+        "title": "Fran\u00e7ois Chollet: ARC-AGI-3, Beyond Deep Learning & A New Approach To ML",
+        "vote": 0
+    }
+]

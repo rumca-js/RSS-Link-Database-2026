@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Scott Manley",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-27T10:26:00.692907+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-27T10:05:35+00:00",
+        "description": "Hyperspectral imaging is a technology used by a new generation of satellites which captures the Earth and other targets using hundreds of colors. This enables spectrometry to be applied to every pixel in an image,  which is immensely powerful, allowing the mapping of materials in the image. This technology can be used to identify specific chemicals in a pixel, you can localize minerals, molecules, pigments based on observational data from aircraft of satellites making remote observations.\n\n\nFollow me on Twitter for more updates:\nhttps://twitter.com/DJSnM\n\nI have a discord server where I regularly turn up:\nhttps://discord.gg/zStmKbM\n\nIf you really like what I do you can support me directly through Patreon\nhttps://www.patreon.com/scottmanley",
+        "id": 5122172,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=HSWdIawJ46w",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 829,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxzC4EngIsMrPmbm6Nxvb-A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/HSWdIawJ46w/hqdefault.jpg",
+        "title": "New Hyperspectral Satellites See 'Impossible' Color Details",
+        "vote": 0
+    }
+]

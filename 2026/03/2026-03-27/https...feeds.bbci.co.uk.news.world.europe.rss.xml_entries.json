@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-27T15:36:47.904316+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-27T14:25:02+00:00",
+        "description": "The move follows similar steps in other European countries, including France and Spain.",
+        "id": 5124065,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/cwyv70de9exo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 523,
+        "source_url": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac00/live/32ed6610-29e3-11f1-9def-51999882d8d7.jpg",
+        "title": "Austria plans social media ban for under-14s",
+        "vote": 0
+    }
+]

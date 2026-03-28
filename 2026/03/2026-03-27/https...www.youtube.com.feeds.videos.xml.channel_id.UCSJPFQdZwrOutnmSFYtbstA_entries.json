@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Critical Drinker",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-27T21:13:20.671510+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-27T20:23:50+00:00",
+        "description": "Another day, another franchise updated for modern audiences, this time Harry Potter And The Philosopher's Stone on HBO Max. And boy, have they updated it...",
+        "id": 5125816,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=teeGwtLa0FI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 334,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSJPFQdZwrOutnmSFYtbstA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/teeGwtLa0FI/hqdefault.jpg",
+        "title": "Harry Potter - Here We Go Again...",
+        "vote": 0
+    }
+]
