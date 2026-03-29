@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-28T02:24:41.732821+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-28T01:06:54+00:00",
+        "description": "African and Caribbean nations want countries which benefited from slavery to pay compensation but it will not be straightforward.",
+        "id": 5126777,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/c0rxqng5pyno",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 521,
+        "source_url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4bda/live/bb0003b0-29f6-11f1-bd95-37df7a1bede9.jpg",
+        "title": "'The gravest crime against humanity': What does the UN vote on slavery mean?",
+        "vote": 0
+    }
+]

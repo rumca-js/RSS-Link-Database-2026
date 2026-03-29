@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Salem Techsperts",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-28T12:41:13.502464+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-28T12:00:55+00:00",
+        "description": "Salem Testsperts here! I had fun with this insane mod. If this nonsense proves anything, it's that Apple purposely undercooled this chip for a number of reasons. Conserve battery, and to not cannibalize their other laptops. But just imagine if this heatsink was done properly!\nScores below!\n\nAll increases are from the base \nGeekbench:\nBase: Single core 3571, multi core 8731\nWith silicon pad: Single core 3615 (1.2% increase), Multicore 9119 (4.4% increase)\nOn the laptop cooler: Single core 3585 (0.4% increase), Multicore 9203 (5.4% increase) \nWith the heatsink: Single core 3624 (1.4% increase), Multicore 9492 (8.7% increase)\n\nCinebench:\nBase: Multithread 1465, Single thread 492 at 3:40\nWith silicon pad: Multithread 1718 (17.3% increase), 570 singlethread (15.9% increase)\nOn the laptop cooler: Multithread 1689 (15.3% increase), no singlethread provided because I ran out of patience\nWIth the heatsink: Multithread 1967 (34.2% increase), Singlethread 639 (29.8% increase)\nCold air blower: Mu",
+        "id": 5128071,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=mmThH0dvcaE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 985,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCClfFsWcT3N2I7VTXXyt84A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/mmThH0dvcaE/hqdefault.jpg",
+        "title": "I Built The World\u2019s Fastest MacBook Neo",
+        "vote": 0
+    }
+]

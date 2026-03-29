@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-28T17:52:35.119650+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-28T16:30:10+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/Z_izlx7AnTU\" width=\"480\" alt=\"thumbnail\" title=\"This Wayland Compositor Changes How We Build Window Managers\" /></p>You've probably heard that building a Wayland compositor is a lot of work compared to building an X11 Window Manager, but what if there was a way to make things considerably easier. Well River is doing exactly that to Wayland<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />River Update: https://isaacfreund.com/blog/river-window-management/<br /><br />=========Video Platforms==========<br />\ud83c\udfa5 React: https://www.youtube.com/@BrodieRobertsonReacts<br />\ud83c\udfa5 Podcast: https://techovertea.xyz/youtube<br />\ud83c\udfae Gaming: https://brodierobertson.xyz/gaming<br /><br />==========Social Med",
+        "id": 5129207,
+        "language": "en",
+        "link": "https://odysee.com/this-wayland-compositor-changes-how-we:b9ca4bee3f2cf160200d0d07e64f94b0309d2d24",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/Z_izlx7AnTU",
+        "title": "This Wayland Compositor Changes How We Build Window Managers",
+        "vote": 0
+    }
+]

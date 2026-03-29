@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Nick Hilden",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-28T12:40:41.017869+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-28T12:00:25+00:00",
+        "description": "The city's contemporary art scene tends to go overlooked, despite the world-class museum, a cluster of ambitious galleries and unexpected art encounters scattered across its many neighborhoods.",
+        "id": 5128068,
+        "language": "en",
+        "link": "https://observer.com/2026/03/istanbul-art-guide-cultural-travel-best-museums-galleries",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 243,
+        "source_url": "http://www.observer.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "title": "Observer\u2019s Guide to the Best Art in Istanbul",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-28T21:46:29.495702+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-28T20:36:03+00:00",
+        "description": "The Israeli military confirms it killed Ali Shoeib from the Hezbollah-affiliated Al Manar TV.",
+        "id": 5129953,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/cgme1j70294o",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 525,
+        "source_url": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cfbf/live/63449610-2ac1-11f1-934f-036468834728.jpg",
+        "title": "Three Lebanese journalists killed in Israeli strike, say broadcasters",
+        "vote": 0
+    }
+]

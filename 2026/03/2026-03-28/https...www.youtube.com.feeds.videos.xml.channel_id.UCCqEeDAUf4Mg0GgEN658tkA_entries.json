@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Chris Stuckmann",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-28T17:12:55.113751+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-28T16:01:02+00:00",
+        "description": "Chris Stuckmann reviews The Mummy Returns, starring Brendan Fraser, Rachel Weisz, John Hannah, Arnold Vosloo, Oded Fehr, Patricia Velasquez, Freddie Boath, Dwayne Johnson, Adewale Akinnuoye-Agbaje. Directed by Stephen Sommers.",
+        "id": 5129093,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=tH0ldvvboWI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 618,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCqEeDAUf4Mg0GgEN658tkA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/tH0ldvvboWI/hqdefault.jpg",
+        "title": "The Mummy Returns (25th Anniversary) - Movie Review",
+        "vote": 0
+    }
+]

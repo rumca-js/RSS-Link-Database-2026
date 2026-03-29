@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-28T12:57:28.366311+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-28T11:57:38+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nPanel: What We Learned About AI Tools For C++ Engineers - Hosted by Guy Davidson - CppCon 2025\n---\n\nThere are plenty of AI tools being advertised for C++ engineers: Claude, Copilot, Gemini, Intellicode and many others. There is also a lot of fear, uncertainty and doubt about who should use them, what level of competency is required to make good use of them, whether they will put us out of a job, how good or useful the output is, and so on. This has lead to hostility, which includes usage bans in some environments.\n\nAll of us are curious about how tools can improve the lot of the humble C++ engineer at all levels of skill, whether these tools are imbued with AI or not. Senior members of the C++ training, tooling and authoring community would like to offer a panel discussing their experience of using these tools, how they have improved their workflow, where the shortcomings lie and what the ideal future will hold. They are also keen to hear the experiences of ot",
+        "id": 5128139,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=XPyGQm6-lsI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/XPyGQm6-lsI/hqdefault.jpg",
+        "title": "Panel: What We Learned About AI Tools For C++ Engineers - Hosted by Guy Davidson - CppCon 2025",
+        "vote": 0
+    }
+]

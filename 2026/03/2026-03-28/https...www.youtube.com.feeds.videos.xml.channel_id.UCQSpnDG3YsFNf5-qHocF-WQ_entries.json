@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ThioJoe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-28T16:27:31.888961+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-28T15:45:07+00:00",
+        "description": "Someone always brings up Linux, but really how is it different from Windows?\n\nTime Stamps:\n0:00 - Intro\n0:25 - There\u2019s no one \u201cLinux\u201d\n1:36 - Distributions\n2:06 - The Terminal\n2:35 - Installing Software\n3:56 - Root User\n6:12 - The File System\n7:24 - Executables\n8:44 - There\u2019s No Registry\n9:05 - Is Linux Better?\n9:45 - Compatibility\n10:29 - Try It Out",
+        "id": 5128917,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=mYW6ZQHuTsE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 366,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQSpnDG3YsFNf5-qHocF-WQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/mYW6ZQHuTsE/hqdefault.jpg",
+        "title": "What the HECK is Linux, Anyway?",
+        "vote": 0
+    }
+]

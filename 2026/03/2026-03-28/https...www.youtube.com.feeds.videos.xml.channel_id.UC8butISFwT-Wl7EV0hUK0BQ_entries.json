@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-28T13:07:30.711819+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-28T12:32:40+00:00",
+        "description": "Do web devs NEED to understand low-level programming concepts? Chris doesn't think so...and he discusses why on the freeCodeCamp podcast.",
+        "id": 5128180,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/uWRdzJTpcpI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/uWRdzJTpcpI/hqdefault.jpg",
+        "title": "Do web devs NEED to understand low-level programming concepts? Chris doesn't think so...",
+        "vote": 0
+    }
+]

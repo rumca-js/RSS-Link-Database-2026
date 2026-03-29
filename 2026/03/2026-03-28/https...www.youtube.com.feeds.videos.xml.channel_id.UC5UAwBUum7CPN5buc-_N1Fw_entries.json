@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Experiment",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-28T10:21:52.058510+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-28T09:34:26+00:00",
+        "description": "Use a secure, encrypted, and fast VPN with Proton VPN: https://protonvpn.com/TheLinuxEXP\n\nGrab a brand new laptop or desktop running Linux: https://www.tuxedocomputers.com/en#\n\n\n\ud83d\udc4f SUPPORT THE CHANNEL:\nGet access to:\n- a Daily Linux News show\n- a weekly patroncast for more thoughts\n- your name in the credits\n\nYouTube: https://www.youtube.com/@thelinuxexp/join\nPatreon: https://www.patreon.com/thelinuxexperiment\n\nOr, you can donate whatever you want:\nhttps://paypal.me/thelinuxexp\nLiberapay: https://liberapay.com/TheLinuxExperiment/\n\n\ud83d\udc55 GET TLE MERCH\nSupport the channel AND get cool new gear: https://the-linux-experiment.creator-spring.com/\n\nTimestamps:\n00:00 Intro\n00:33 Sponsor: Proton VPN\n01:30 GrapheneOS won't comply with age verification laws\n03:10 SystemD adds date of birth field for age verification\n04:56 SystemD forked to remove date of birth field\n07:54 Fedora project lead suggests using standard Age check API\n10:16 SteamOS adds Steam Machine support, Wayland by default\n11:59 Libre",
+        "id": 5127698,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=IYtqghw3LVY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 349,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5UAwBUum7CPN5buc-_N1Fw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/IYtqghw3LVY/hqdefault.jpg",
+        "title": "Linux Age verification, SteamOS moves to Wayland & Other Linux Weekly News",
+        "vote": 0
+    }
+]

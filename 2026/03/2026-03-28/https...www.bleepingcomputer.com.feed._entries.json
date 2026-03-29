@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Bill Toulas",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-28T14:48:47.998339+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-28T10:35:10+00:00",
+        "description": "A new info-stealing malware named Infinity Stealer is targeting macOS systems with a Python payload packaged as an executable using the open-source Nuitka compiler. [...]",
+        "id": 5128524,
+        "language": "en-US",
+        "link": "https://www.bleepingcomputer.com/news/security/new-infinity-stealer-malware-grabs-macos-data-via-clickfix-lures",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 40,
+        "source_url": "https://www.bleepingcomputer.com/feed/",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "New Infinity Stealer malware grabs macOS data via ClickFix lures",
+        "vote": 0
+    }
+]
