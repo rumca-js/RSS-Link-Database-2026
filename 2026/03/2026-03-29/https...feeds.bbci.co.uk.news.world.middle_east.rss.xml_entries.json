@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-29T15:35:45.522893+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-29T15:20:44+00:00",
+        "description": "The BBC's Middle East correspondent reports from the funerals of three journalists killed by a targeted attack in southern Lebanon.",
+        "id": 5132360,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/videos/ce354d73v2ko",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 525,
+        "source_url": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e882/live/17d2aa90-2b7b-11f1-a79a-77e93010d956.jpg",
+        "title": "Hundreds in Beirut mourn journalists killed in Israeli strike",
+        "vote": 0
+    }
+]

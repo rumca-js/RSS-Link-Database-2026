@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-30T00:01:00.063177+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-29T23:07:12+00:00",
+        "description": "Mainland firms are using the territory to test products and as a springboard for global expansion.",
+        "id": 5133922,
+        "language": "en-US",
+        "link": "https://www.bbc.com/news/articles/c8d5v404m96o",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 28,
+        "source_url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e6b4/live/4807f780-29e4-11f1-934f-036468834728.jpg",
+        "title": "Why Chinese tech companies are racing to set up in Hong Kong",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Inside Edition",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-29T14:19:33.100260+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-29T13:00:54+00:00",
+        "description": "These were frightening air balloon accidents. In 2015, a hot air balloon attempted an emergency landing in a neighborhood, and neighbors raced to pull the balloon to the ground. In 2019, a San Diego Zoo Safari Park balloon ride got bumpy, causing riders to sway all over the place. In 2021, a balloon basket hit a reservoir and plunged passengers into icy waters. Inside Edition Digital's Andrea Swindall has more.",
+        "id": 5132010,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=hbti4OQ2Bi0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 719,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9k-yiEpRHMNVOnOi_aQK8w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/hbti4OQ2Bi0/hqdefault.jpg",
+        "title": "Frightening Hot Air Balloon Accidents",
+        "vote": 0
+    }
+]
