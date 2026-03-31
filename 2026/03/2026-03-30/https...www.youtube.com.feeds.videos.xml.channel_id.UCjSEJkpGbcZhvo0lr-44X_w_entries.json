@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "TechHut",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-30T12:29:11.533998+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-30T11:28:12+00:00",
+        "description": "Thanks to Plura.sh for sponsoring this video! Book a demo or try it out at https://plural.sh\n\nKubernetes always looked way too complicated to me - until I actually sat down and set it up. In this video I spin up a full K3S cluster across three Zimaboard 2s, deploy a workload, and show off the load balancing, self-healing, and scaling that makes Kubernetes worth learning.\n\nWhether you're studying for a DevOps role or just want to tinker, your home lab is the cheapest and lowest pressure place to start. Full written guide with all the commands linked below. \n\n\ud83d\udcd6 RESOURCES\nWritten Guide: https://techhut.tv/kubernetes-homelab-k3s-cluster\n\n\ud83c\udfc6 FOLLOW TECHHUT\nX (Twitter): https://bit.ly/twitter-techhut\nMASTODON: https://bit.ly/mastodon-techhut\nBlueSky: https://bsky.app/profile/techhut.bsky.social\nINSTAGRAM: https://bit.ly/personal-insta\n\n\ud83d\udc4f SUPPORT TECHHUT (all links below this line will earn us commission)\nBUY A COFFEE: https://buymeacoffee.com/techhut\nYOUTUBE MEMBER: https://bit.ly/members-te",
+        "id": 5135945,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=tzj59F02TFU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 430,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjSEJkpGbcZhvo0lr-44X_w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/tzj59F02TFU/hqdefault.jpg",
+        "title": "FINALLY Set Up Kubernetes in My Home Server (it was easy)",
+        "vote": 0
+    }
+]

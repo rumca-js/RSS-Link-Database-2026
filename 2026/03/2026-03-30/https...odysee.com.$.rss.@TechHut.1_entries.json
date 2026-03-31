@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "TechHut",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-30T12:39:27.334118+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-30T11:28:12+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/tzj59F02TFU\" width=\"480\" alt=\"thumbnail\" title=\"FINALLY Set Up Kubernetes in My Home Server (it was easy)\" /></p>Thanks to Plura.sh for sponsoring this video! Book a demo or try it out at https://plural.sh<br /><br />Kubernetes always looked way too complicated to me - until I actually sat down and set it up. In this video I spin up a full K3S cluster across three Zimaboard 2s, deploy a workload, and show off the load balancing, self-healing, and scaling that makes Kubernetes worth learning.<br /><br />Whether you're studying for a DevOps role or just want to tinker, your home lab is the cheapest and lowest pressure place to start. Full written guide with all the commands linked below. <br /><br />0:00 - Kubernetes in the Home Lab<br />0:46 - K8s vs Docker Compose - Which Should You Use?<br />1:17 - Hardware Overview: Zimaboard 2<br />2:12 - Sponsor: Plural<br />3:48 - Kubernetes Concepts Explained (Nodes, Pods, Services)<br />4:55 - What is K3",
+        "id": 5136030,
+        "language": "en",
+        "link": "https://odysee.com/finally-set-up-kubernetes-in-my-home:1503ec4f05d469e88d56bdcc54bc092341c66ee7",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 516,
+        "source_url": "https://odysee.com/$/rss/@TechHut:1",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/tzj59F02TFU",
+        "title": "FINALLY Set Up Kubernetes in My Home Server (it was easy)",
+        "vote": 0
+    }
+]

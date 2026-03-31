@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NetworkChuck",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-30T15:02:19.831674+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-30T14:08:00+00:00",
+        "description": "Get your own VPS and set up OpenClaw: https://hostinger.com/ncopenclaw Use code NETWORKCHUCK!\n\nOpenClaw has 308K GitHub stars \u2014 more than React, more than the Linux kernel. But what IS it actually? I set it up on a VPS, gave it a Telegram bot, and watched it build a news briefing and server monitoring dashboard in minutes \u2014 something that took an entire n8n workflow video to do before. But I also kinda hate it. In this video, I cut through the hype and give you my honest take as someone who built the same thing with Claude Code before OpenClaw existed.\n\nIn this video, you'll learn how to install OpenClaw on a Linux VPS in under 5 minutes, connect it to Telegram, build an AI news briefing agent and IT monitoring dashboard, understand the four pillars of OpenClaw (AI models, channels, memory, and tools), configure security with the built-in security audit, set up tool profiles and red lines, and decide if OpenClaw is right for you. Whether you're an AI enthusiast drowning in hype or a s",
+        "id": 5136771,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=T-HZHO_PQPY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 565,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9x0AN7BWHpCDHSm9NiJFJQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/T-HZHO_PQPY/hqdefault.jpg",
+        "title": "OpenClaw......RIGHT NOW??? (it's not what you think)",
+        "vote": 0
+    }
+]

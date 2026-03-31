@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-30T15:23:57.110215+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-30T15:02:21+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nHow to Build Type Traits in C++ Without Compiler Intrinsics Using Static Reflection - Andrei Zissu - CppCon 2025\n---\n\nType traits are a powerful feature of C++ that allows programmers to query and manipulate the properties of types at compile time. They are widely used in generic programming and metaprogramming to enable static polymorphism, type-based dispatching, and compile-time optimization. However, not all type traits can be implemented using the C++ language alone. Some type traits, such as std::is_class, require special support from the compiler in the form of compiler intrinsics or built-ins. These intrinsics are non-portable functions or variables that are recognized and handled by the compiler directly, rather than being defined in a library. \n \n In this talk, we will have a quick overview of the current state of type traits and of static reflection in C++. We will then see how these two worlds can join forces to give us a superior portable product,",
+        "id": 5136849,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=EcqiwhxKZ4g",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/EcqiwhxKZ4g/hqdefault.jpg",
+        "title": "How to Build Type Traits in C++ Without Compiler Intrinsics Using Static Reflection - Andrei Zissu",
+        "vote": 0
+    }
+]

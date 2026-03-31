@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-30T10:16:17.673238+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-30T09:46:42+00:00",
+        "description": "The tanker has reached Cuban waters just hours after Donald Trump said he had \"no problem\" with it arriving.",
+        "id": 5135384,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/czrevyx28z2o",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 524,
+        "source_url": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8c3/live/519c96d0-2c18-11f1-a165-7f32552c9375.jpg",
+        "title": "Russian oil tanker reaches Cuba after Trump appears to loosen blockade",
+        "vote": 0
+    }
+]

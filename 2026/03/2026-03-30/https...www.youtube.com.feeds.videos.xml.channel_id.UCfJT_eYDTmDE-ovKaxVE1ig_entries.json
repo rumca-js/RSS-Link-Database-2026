@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kevin Stratvert",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-30T08:58:51.070936+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-30T07:00:05+00:00",
+        "description": "Does your resume say you know Excel\u2026 but you\u2019ve never actually used it? Let\u2019s fix that.\n\nIn this video, I\u2019ll walk you through Excel from scratch, step by step. You\u2019ll learn the core basics you actually need to get started, including how to enter data, format your spreadsheet, use tables, create charts, and even use formulas and functions.\n\nWe\u2019ll build a real example together using a simple sales tracker, so you can follow along and immediately apply what you learn.\n\nYou\u2019ll also see how Excel\u2019s built-in AI (Copilot) can help analyze your data, generate insights, and save you time.\n\nBy the end of this video, you\u2019ll have a solid foundation and the confidence to start using Excel on your own.\n\nHost: Kevin Stratvert\n\n\u231a TIMESTAMPS\n00:00 - Introduction\n00:14 - Understand cells, rows & columns\n00:40 - Enter data and build your first sheet\n01:37 - Format numbers for readability\n02:03 - Adjust column width and auto-fit\n02:29 - Convert data into a table (CTRL+T)\n03:39 - Highlight trends with con",
+        "id": 5135122,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Ai0MV7twEBE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 958,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfJT_eYDTmDE-ovKaxVE1ig",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/Ai0MV7twEBE/hqdefault.jpg",
+        "title": "How to Use Excel (Beginner Tutorial)",
+        "vote": 0
+    }
+]

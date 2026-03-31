@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unity",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-30T17:08:18.035226+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-30T15:55:38+00:00",
+        "description": "In this tutorial, we\u2019ll take a closer look at the Unity Studio user interface. Learn how to navigate essential panels like the Hierarchy, Project, Inspector, and Scene View. We\u2019ll also show you how to add 3D models, move around your scene, and adjust object properties.\n\nFor assistance or questions, please check out our documentation for helpful articles and guides:\nhttps://on.unity.com/StudioInterface\n\nIf you still need help, contact our support team at: \nunitystudio-support@unity3d.com",
+        "id": 5137497,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=T6OoI34dIT4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 683,
+        "source_url": "https://youtube.com/channel/UCG08EqOAXJk_YXPDsAvReSg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/T6OoI34dIT4/hqdefault.jpg",
+        "title": "Unity Studio \u2013 Exploring the Interface: Basic UI Elements",
+        "vote": 0
+    }
+]

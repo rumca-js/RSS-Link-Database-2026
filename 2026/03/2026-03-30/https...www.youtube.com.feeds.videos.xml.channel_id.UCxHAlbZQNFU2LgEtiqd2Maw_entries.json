@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "C++ Weekly With Jason Turner",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-30T17:27:44.185682+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-30T15:29:48+00:00",
+        "description": "\u261f\u261f Awesome T-Shirts! Sponsors! Books! \u261f\u261f\n\n\ud83e\uddd1\ud83c\udf93 LEARN how to WRITE \u270d\ufe0f , RECOGNIZE \ud83d\udc40 , and GENERATE \ud83e\udd16  better C++!\n\nPreview: https://youtu.be/Ipr6ntCAm9A \nApr 9 (online): https://cpponline.uk/workshop/performance-and-safety-in-cpp-crash-course/ \nMay 5-7 (Toronto, CA): https://ndctoronto.com/workshops/c-best-practices/fce45061e333 \nJun 15-16 (Folkestone, UK): https://accuonsea.uk/tickets/ \nSep 12-13 (Aurora, CO): https://cppcon.org/class-2026-best-practices/ \nSep 21-22 (Kongsberg, NO): https://ndctechtown.com/tickets\n\nA cross-platform IDE for C and C++, CLion is ready for your projects out of the box. Whether you're building large-scale projects or exploring C and C++ for the first time, CLion has everything you need to stay productive, focused, and in control: deep language understanding with intelligent code assistance, comprehensive build systems support, unit testing frameworks, advanced debugging, and embedded development. Check out all the details and give it a try today!\n\nhttps://jb",
+        "id": 5137577,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=vivaDVFNj4U",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 48,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxHAlbZQNFU2LgEtiqd2Maw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/vivaDVFNj4U/hqdefault.jpg",
+        "title": "C++ Weekly - Ep 526 - Stop asserting on nullptr!",
+        "vote": 0
+    }
+]
