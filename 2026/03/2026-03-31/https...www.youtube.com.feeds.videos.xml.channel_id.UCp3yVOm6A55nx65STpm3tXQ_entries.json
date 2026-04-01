@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Craft Computing",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-31T18:52:18.121669+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-31T17:02:04+00:00",
+        "description": "Thanks to Meter for sponsoring today's episode. If you're interested in learning more about how Meter can help with your IT Infrastructure, go to https://meter.com/craftcomputing to book a demo today.\n\nAlso a huge things to Supermicro for sending over the AS-2126HS-TN for review. Supermicro is also allowing me to keep this server, so let me know what crazy things I should do to it in the comments below. That said, this is still a fair review, and Supermicro had no input or requirements for this video, or any future projects on the channel.\n\nAMD's Epyc Turin architecture has been out for over a year now, but that doesn't make it any less exciting. Zen 5 might have been a bit of a letdown on the consumer side of things, but the efficiency and performance gains in their server chips has been an absolute game changer.\n\nCase in point, the AMD Epyc 9965, featuring 192 Zen 5c cores running at up to 3.7GHz, making for a single server with 384-Cores and 768-Threads, along with 24-Channels of D",
+        "id": 5142866,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=gljME_7aMM8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 909,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCp3yVOm6A55nx65STpm3tXQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/gljME_7aMM8/hqdefault.jpg",
+        "title": "THREE HUNDRED EIGHTY FOUR CORES - Supermicro AS-2126HS-TN w/ 2x AMD Epyc 9965",
+        "vote": 0
+    }
+]

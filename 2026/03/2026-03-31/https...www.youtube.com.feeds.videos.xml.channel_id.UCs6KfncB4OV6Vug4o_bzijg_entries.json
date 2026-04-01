@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Techlore",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-31T03:50:18.346614+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-31T03:24:44+00:00",
+        "description": "This week's Surveillance Report covers two sophisticated zero-click iOS exploit frameworks: Coruna and DarkSword hit hundreds of millions of iPhones in the span of a single week. Google finally revealed their controversial Android sideloading \"advanced flow,\" and it involves a 24-hour wait, developer mode unlock, and a wall of warning screens just to install an APK. Meanwhile, Instagram has quietly killed end-to-end encryption in DMs, Colorado is pushing OS-level age verification that would even drag Linux into compliance, and the EU's chat control battle took a wild turn.\n\n\ud83d\udcf1 RESOURCES IN VIDEO\n\u2022 https://techlore.tech/coruna-and-darksword-ios-exploits-explained-what-iphone-users-need-to-do-right-now/\n\n\ud83e\udde1 SUPPORT TECHLORE\nSupport our mission to defend digital rights for everyone:\nhttps://www.youtube.com/channel/UCs6KfncB4OV6Vug4o_bzijg/join\n\u2022 All Our Support Methods: https://techlore.tech/support/\n\n\ud83d\udd10 MORE FROM TECHLORE\n\u2022 Homepage & Newsletter: https://techlore.tech\n\u2022 Our Course, Go Inco",
+        "id": 5139744,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=qllpVoCVQSE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 327,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/qllpVoCVQSE/hqdefault.jpg",
+        "title": "Two iOS Exploits Just Hit 100M+ iPhones \u2014 How To Check Yours",
+        "vote": 0
+    }
+]

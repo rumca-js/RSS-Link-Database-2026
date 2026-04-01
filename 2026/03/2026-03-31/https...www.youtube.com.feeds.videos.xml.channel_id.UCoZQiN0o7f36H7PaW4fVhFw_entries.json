@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Retro Game Corps",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-31T18:39:47.637308+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-31T14:00:00+00:00",
+        "description": "There is a new collection of shaders that create a unique visual effect on Game Boy Color emulation: it seeks to mimic the experience of playing the original (non-backlit) device in a sunlit environment.  This video will show you how to set up the Pixel Transparency Sunlight Shimmer shader on your favorite Android-based emulation handheld.\n\nMore info on the shader: https://github.com/mattakins/Pixel_Transparency\nDonate to the developer: https://ko-fi.com/mattakins\n\nAndroid handheld starter guide: https://youtu.be/I4mqgcDYZFo\n\nWays to support this channel:\nRGC merch: https://store.retrogamecorps.com\nYT channel membership: https://www.youtube.com/channel/UCoZQiN0o7f36H7PaW4fVhFw/join\nPatreon: https://www.patreon.com/retrogamecorps\nKo-Fi: https://ko-fi.com/retrogamecorps\n\nTimestamps:\n00:00 introduction\n01:27 example handhelds\n03:12 initial setup\n06:25 applying the shader\n08:39 color correction\n09:37 testing the shader\n10:47 shadows and sharpness\n12:10 shader parameters\n13:52 Retroid Pock",
+        "id": 5142586,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Y387hW45FZ4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 823,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCoZQiN0o7f36H7PaW4fVhFw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/Y387hW45FZ4/hqdefault.jpg",
+        "title": "This New Game Boy Color Shader is Neat",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "James Bruton",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-31T09:29:39.565155+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-31T06:00:02+00:00",
+        "description": "Ad: Check out PCBWay for all your project needs! Get $10 off orders over $30 with code: PCBWay-JamesBruton-10 - https://www.pcbway.com/?from=JamesBruton\n\nThis is the first in a series of designs that you can build. All of my projects are open source, but most people don\u2019t actually build things like the AT-AT you can ride on, or ball-wheeled bikes.\nSo it\u2019s time for a series of smaller more accessible projects, and the first one is a fun robot dog, and it\u2019s really easy to understand how it works. I\u2019m using basic parts like an Arduino Uno and standard R/C servos, and this design is in two sizes, one using standard sized R/C servos and the other using the smaller 9g servos.\n\nEnhanced downloads on my Patreon: https://www.patreon.com/xrobots\nFree Downloads: https://github.com/XRobots/YouCanBuildDog\n\nYou can support me on Patreon, join my Discord, or buy my Merchandise:\n***************************\nDiscord: https://discord.com/invite/fc6MedG7eW\nPatreon: https://www.patreon.com/xrobots\nMerch S",
+        "id": 5140749,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=2eKb_2N0SBI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 852,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCUbDcUPed50Y_7KmfCXKohA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/2eKb_2N0SBI/hqdefault.jpg",
+        "title": "The Simple Robot Dog that You Can Build",
+        "vote": 0
+    }
+]

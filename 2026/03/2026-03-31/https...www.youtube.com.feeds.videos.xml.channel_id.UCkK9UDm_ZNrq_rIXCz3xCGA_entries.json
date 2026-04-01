@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Lunduke Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-31T19:01:45.813409+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-31T16:58:27+00:00",
+        "description": "Framework Computer continues to expand the number of Open Source projects it financially supports, but GNOME (who said Framework had \"Hitler Particles\") is no longer on that list.\n\nMore from The Lunduke Journal:\nhttps://lunduke.com/",
+        "id": 5143152,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=5hMv1cGkeEs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 616,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkK9UDm_ZNrq_rIXCz3xCGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/5hMv1cGkeEs/hqdefault.jpg",
+        "title": "Framework Sponsors KDE & XFCE, Drops GNOME",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-31T18:56:33.567233+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-31T15:02:27+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nBeyond Sequential Consistency: Unlocking Hidden Performance Gains - Christopher Fretz - CppCon 2025\n---\n\nIn 2011, C++ introduced a formally defined memory model, providing a foundation for portable, multi-threaded code with well-defined correctness guarantees. This was a major milestone, enabling expressive threading primitives and safe concurrency patterns while allowing low-level optimizations for performance. \n \n By default, C++ atomics enforce sequential consistency, which ensures intuitive, predictable behavior. However, these strong guarantees often exceed what\u2019s necessary for correctness and come with a performance cost. \n \n This talk delves into weaker memory orderings, particularly acquire/release and relaxed semantics, using a ring buffer as a practical example of how they can be used. We\u2019ll also examine how the C++ memory model maps to real hardware, focusing on x86\u2019s native guarantees, and comparing against less coherent platforms like ARM. We'll e",
+        "id": 5143020,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=6AnHbZbLr2o",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/6AnHbZbLr2o/hqdefault.jpg",
+        "title": "Beyond Sequential Consistency: Unlocking Hidden Performance Gains - Christopher Fretz - CppCon 2025",
+        "vote": 0
+    }
+]

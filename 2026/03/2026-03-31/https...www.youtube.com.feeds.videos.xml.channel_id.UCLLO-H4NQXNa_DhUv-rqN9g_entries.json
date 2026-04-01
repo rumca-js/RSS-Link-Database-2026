@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CD-Action",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-31T09:57:34.592594+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-31T08:56:17+00:00",
+        "description": "Spoiler, jest bardzo dobre",
+        "id": 5140839,
+        "language": "pl",
+        "link": "https://www.youtube.com/watch?v=t0epGuf7t5g",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 53,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLLO-H4NQXNa_DhUv-rqN9g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/t0epGuf7t5g/hqdefault.jpg",
+        "title": "Czy s\u0142yszeli\u015bcie jak fantastyczn\u0105 gr\u0105 jest Control?",
+        "vote": 0
+    }
+]

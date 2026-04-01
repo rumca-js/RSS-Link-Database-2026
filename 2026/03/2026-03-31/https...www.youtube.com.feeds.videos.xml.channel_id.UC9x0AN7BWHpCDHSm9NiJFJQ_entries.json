@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NetworkChuck",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-31T18:36:51.607889+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-31T15:00:51+00:00",
+        "description": "Axios, the most popular HTTP library with over 100 million weekly downloads, was just hijacked in one of the most sophisticated supply chain attacks in history. A hacker took over the lead maintainer's npm account, injected a phantom dependency that deploys a cross-platform remote access trojan in 1.1 seconds, and the malware erases itself leaving no trace. I break down exactly how it happened, explain what a supply chain attack is, and show you how to check if YOUR system is affected.\n\nnpm supply chain attack, axios hacked, axios npm compromised, supply chain attack explained, npm install malware, remote access trojan, axios 1.14.1, plain-crypto-js, npm security, javascript security, open source security, postinstall script attack, supply chain hack 2026\n\nTIMESTAMPS:\n0:00 - npm install just became DANGEROUS\n0:41 - How the attack happened\n0:52 - What is Axios? (and why you probably have it)\n1:39 - The account takeover\n2:20 - The ONE line of code that did it all\n3:06 - How it was disco",
+        "id": 5142471,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=eGSsoSEppNU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 1,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 565,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9x0AN7BWHpCDHSm9NiJFJQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/eGSsoSEppNU/hqdefault.jpg",
+        "title": "the WORST hack of 2026",
+        "vote": 0
+    }
+]

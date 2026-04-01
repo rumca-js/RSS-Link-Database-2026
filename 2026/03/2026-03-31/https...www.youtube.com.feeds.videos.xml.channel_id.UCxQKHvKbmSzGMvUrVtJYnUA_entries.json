@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Learn Linux TV",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-31T18:27:20.807885+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-31T13:35:26+00:00",
+        "description": "Is AI actually useful in Linux \u2014 or is it just a gimmick?\n\nSloppix is a brand new Linux distro with AI features baked right in \u2014 terminal assistance, automated sysadmin tasks, and more. So I put it to the test.\n\nBut by the end, there's a bigger question worth asking:\nAI is being bolted onto every tool, every distro, and every workflow in the Linux space right now \u2014 and a lot of it is AI slop dressed up as innovation. It's worth stopping to think about what we're actually gaining, and what we're losing when we let AI do the thinking for us.\n\n*\ud83d\udc55 Get your very own Sloppix Shirt for a limited time!*\nUntil April 14th, get a limited edition Sloppix T-shirt!\n \u2022 Get yours here \u279c https://learnlinux.link/sloppix-shirt\n\n*\ud83d\udcd6 Check out my brand-new Linux Troubleshooting eBook!*\nContains expert strategies to help you level-up your System Administration game. Packed with advice, best practices as well as some Linux-related life hacks!\n \u2022 Check it out here \u279c https://learnlinux.link/troubleshooting-ebo",
+        "id": 5142120,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=IjYxD4ieJD0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 997,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxQKHvKbmSzGMvUrVtJYnUA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/IjYxD4ieJD0/hqdefault.jpg",
+        "title": "Meet Sloppix \u2014 The New AI-Powered Linux Distro!",
+        "vote": 0
+    }
+]

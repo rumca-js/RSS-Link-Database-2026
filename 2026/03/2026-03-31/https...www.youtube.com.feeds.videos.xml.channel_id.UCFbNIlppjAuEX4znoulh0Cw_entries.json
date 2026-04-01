@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Web Dev Simplified",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-31T18:26:42.912955+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-31T16:00:00+00:00",
+        "description": "The new CSS corner-shape property may seem niche in use, but it allows you to do some crazy things in CSS that used to be entirely impossible! In this video I will show you how this property works all the way from the basics to the more advanced use cases.\n\n\n\ud83c\udf0e Find Me Here:\n\nMy Blog: https://blog.webdevsimplified.com/\nMy Courses: https://courses.webdevsimplified.com/\nPatreon: https://www.patreon.com/WebDevSimplified\nTwitter: https://twitter.com/DevSimplified\nDiscord: https://discord.gg/7StTjnR\nGitHub: https://github.com/WebDevSimplified\nCodePen: https://codepen.io/WebDevSimplified\n\n\n\u23f1\ufe0f Timestamps:\n\n00:00 - Introduction\n00:26 - corner-shape Basics\n02:30 - superellipse\n04:10 - Animation Example\n05:12 - Icon Example\n06:44 - Speech Bubble Example\n08:15 - Funky Shape Example\n09:15 - Browser Support\n\n\n#CSS #WDS #AdvancedCSS",
+        "id": 5142108,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=AhBL2MYlQj0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 994,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFbNIlppjAuEX4znoulh0Cw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/AhBL2MYlQj0/hqdefault.jpg",
+        "title": "New CSS Property corner-shape Is Amazing",
+        "vote": 0
+    }
+]

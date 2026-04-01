@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Fireship",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-31T19:57:28.653028+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-31T18:58:40+00:00",
+        "description": "Mux is the best video API for developers. Get $50 in free credits - https://mux.com/fireship\n\nYesterday, a precision-guided remote access trojan was discovered in Axios, a JavaScript library with over 100 million downloads on npm. But this wasn't your average RAT - let's take a look at how this highly sophisticated attack was pulled off and what to do if you're compromised.\n\n#coding #programming #hack \n\n\u2139\ufe0f More Info:\n- https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan\n\n\ud83d\udd16 Topics Covered\n- What is Axios\n- Axios RAT attack\n- What to do if you're compromised\n\nWant more Fireship?\n\n\ud83d\uddde\ufe0f Newsletter: https://bytes.dev\n\ud83e\udde0 Courses: https://fireship.dev",
+        "id": 5143520,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=o7NYXvYohYk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 584,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/o7NYXvYohYk/hqdefault.jpg",
+        "title": "Millions of JS devs just got penetrated by a RAT\u2026",
+        "vote": 0
+    }
+]

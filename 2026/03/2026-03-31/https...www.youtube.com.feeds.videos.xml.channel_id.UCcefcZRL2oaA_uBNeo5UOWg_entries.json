@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-03-31T19:11:22.888730+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-03-31T16:00:18+00:00",
+        "description": "In this episode of Founder Firesides, YC Managing Partner Jared Friedman talks to Karine Mellata, co-founder of Variance (W23), who is coming out of stealth and announcing their $21 million Series A. Variance builds purpose-built AI agents for risk and compliance \u2014 automating fraud detection, content review, and identity verification for Fortune 500 companies and platforms like GoFundMe. They discuss why Variance built in the shadows for three years, detecting state-sponsored fraud rings, and the accident that nearly ended the company.\n\nhttps://www.variance.com/\n\n00:00 \u2013 $21M Raise: Coming Out of Stealth\n00:49 \u2013 The AI That Keeps the Internet Safe\n01:28 \u2013 Why They Stayed Secret for 3 Years\n02:26 \u2013 You\u2019ve Used This Without Knowing It\n02:57 \u2013 How GoFundMe Stops Scams\n03:59 \u2013 How Scammers Use Big News Events\n05:50 \u2013 Checking IDs and Businesses Online\n07:44 \u2013 How the AI Agents Work\n09:28 \u2013 The Hardest Problem: Bad Data\n12:07 \u2013 Why This Only Works Now\n14:22 \u2013 Catching Organized Fraud Group",
+        "id": 5143304,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=JF6XIixstmQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/JF6XIixstmQ/hqdefault.jpg",
+        "title": "This AI Company Catches Fraud Across the Internet",
+        "vote": 0
+    }
+]
