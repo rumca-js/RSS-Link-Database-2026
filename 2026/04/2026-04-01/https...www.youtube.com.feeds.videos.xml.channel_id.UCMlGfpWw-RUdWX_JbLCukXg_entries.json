@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-01T16:13:20.134161+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-01T15:02:06+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nDynamic Asynchronous Tasking with Dependencies - Tsung-Wei (TW) Huang - CppCon 2025\n---\n\nStandard C++ provides std::async for launching asynchronous tasks, but its use in building complex parallel applications is severely limited by the lack of native support for task dependencies. In practice, many real-world parallel applications, such as those in scientific computing, data processing, gaming, trading, and electronic design automation, rely on tasks that depend on the completion of others. Without an explicit way to express these task dependencies, developers are often forced to manage synchronization manually or rely on custom partitioning, which introduces unnecessary complexity and hampers performance. \n \nTo overcome this challenge, this talk introduces a modern C++ programming model called AsyncTask, designed to support dynamic asynchronous tasking with dependencies. Unlike traditional construct-and-run models, AsyncTask enables developers to create and ",
+        "id": 5147997,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=6Jd9Zyl9SDc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/6Jd9Zyl9SDc/hqdefault.jpg",
+        "title": "Dynamic Asynchronous Tasking with Dependencies - Tsung-Wei (TW) Huang - CppCon 2025",
+        "vote": 0
+    }
+]

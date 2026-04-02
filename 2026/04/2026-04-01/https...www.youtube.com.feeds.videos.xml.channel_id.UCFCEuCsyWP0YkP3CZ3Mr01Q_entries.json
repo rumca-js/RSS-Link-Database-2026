@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Plain Bagel",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-01T13:40:24.847343+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-01T12:33:47+00:00",
+        "description": "Some exciting news for the channel!",
+        "id": 5147199,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=uh72gMH2vik",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 733,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFCEuCsyWP0YkP3CZ3Mr01Q",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/uh72gMH2vik/hqdefault.jpg",
+        "title": "Exciting Announcement",
+        "vote": 0
+    }
+]

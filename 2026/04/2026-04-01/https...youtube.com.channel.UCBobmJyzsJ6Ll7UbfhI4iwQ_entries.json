@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unreal Engine",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-01T17:25:41.850145+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-01T16:29:38+00:00",
+        "description": "Watch this video to discover how Unreal Engine is becoming the preferred tool for kids\u2019 animation, enabling fast iteration, rapid project turnaround, and a wide range of animation styles.\n\nWe caught up with the creators of three popular children\u2019s animation series to find out why they chose to build out an animation pipeline with Unreal Engine at its core.\n\nOddBot used the engine to produce \u2018Playdate with Winnie the Pooh\u2019, while the YouTube hit \u2018Silly Crocodile\u2019 is written, voice-acted, and animated entirely in UE5 by Cory Williams. Meanwhile, \u2018BellyFant\u2019, another successful series of animated shorts on YouTube, is produced by a small team using Unreal Engine.\n\nTake a look and discover how real-time workflows have enabled these solo creators and lean teams to punch well above their weight. \n\nFind out more about animating in Unreal Engine here: unrealengine.com/uses/animation\n\n#KidsAnimation, #Cartoons, #UnrealEngine, #UE5, #Oddbot, #SillyCrocodile, #Bellyfant, #PlaydateWithWinnieThePo",
+        "id": 5148403,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=BYcDNHMFChU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 685,
+        "source_url": "https://youtube.com/channel/UCBobmJyzsJ6Ll7UbfhI4iwQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/BYcDNHMFChU/hqdefault.jpg",
+        "title": "Meet the studios using Unreal Engine to create the new wave of kids\u2019 animation",
+        "vote": 0
+    }
+]

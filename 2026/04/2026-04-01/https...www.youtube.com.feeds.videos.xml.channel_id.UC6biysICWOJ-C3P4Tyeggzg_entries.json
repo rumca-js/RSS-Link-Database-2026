@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Low Level",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-01T17:29:20.906051+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-01T17:14:09+00:00",
+        "description": "Go see if your company's creds have been compromised @ https://go.lowlevel.tv/flare2026\n\nhttps://github.com/califio/publications/blob/main/MADBugs/CVE-2026-4747/claude-prompts.txt\n\n\ud83c\udfeb MY COURSES\nSign-up for my FREE 3-Day C Course: https://lowlevel.academy\n\n\ud83e\uddd9\u200d\u2642\ufe0f HACK YOUR CAREER\nWanna learn to hack? Join my new CTF platform: https://stacksmash.io\n\n\u2328\ufe0f KEYBOARD\nLike what you hear? Grab a Q5 at https://go.lowlevel.tv/keyboard\n\n\ud83d\udd25COME HANG OUT   \nCheck out my other stuff: https://lowlevel.tv",
+        "id": 5148431,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Nl27jPrXOrE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 1,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 736,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6biysICWOJ-C3P4Tyeggzg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/Nl27jPrXOrE/hqdefault.jpg",
+        "title": "No, Seriously. AI is REALLY Good at Hacking Now",
+        "vote": 0
+    }
+]

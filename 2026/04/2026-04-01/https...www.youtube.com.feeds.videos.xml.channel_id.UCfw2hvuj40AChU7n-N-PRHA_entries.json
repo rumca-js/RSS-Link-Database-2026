@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Apple Explained",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-01T05:16:59.324816+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-01T04:26:10+00:00",
+        "description": "Start learning cyber security with TryHackMe: https://tryhackme.com/appleexplained. Use my code \"APPLE25\" to get 25% off on annual subscription.\n________\n\nIt\u2019s been almost 19 years since Apple released the original iPhone. And I\u2019ve always wanted to do a deep dive on each generation. So let\u2019s start today, with the original model from 2007. Which is causally referred to as the iPhone 2G. But its official name was, and continues to be; \u2018iPhone.\u2019 Now to truly appreciate what made the first iPhone special, you have to understand\nthe smartphone market prior to its release.",
+        "id": 5145314,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=E_z3wncrHyY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 714,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfw2hvuj40AChU7n-N-PRHA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/E_z3wncrHyY/hqdefault.jpg",
+        "title": "History of the Original iPhone",
+        "vote": 0
+    }
+]

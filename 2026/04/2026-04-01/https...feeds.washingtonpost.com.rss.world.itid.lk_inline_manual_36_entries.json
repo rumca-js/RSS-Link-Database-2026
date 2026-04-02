@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ellen Nakashima, John Hudson, Alex Horton, Karen DeYoung",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-01T19:28:41.799876+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-01T18:58:41+00:00",
+        "description": "A plan briefed to Trump last week to insert ground forces to remove Iran\u2019s nuclear material would be a very difficult endeavor of a type never before attempted in wartime.",
+        "id": 5149022,
+        "language": "en-US",
+        "link": "https://www.washingtonpost.com/national-security/2026/04/01/trump-commando-plan-seize-iran-uranium",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 365,
+        "source_url": "https://feeds.washingtonpost.com/rss/world?itid=lk_inline_manual_36",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Risky commando plan to seize Iran\u2019s uranium came at Trump\u2019s request",
+        "vote": 0
+    }
+]

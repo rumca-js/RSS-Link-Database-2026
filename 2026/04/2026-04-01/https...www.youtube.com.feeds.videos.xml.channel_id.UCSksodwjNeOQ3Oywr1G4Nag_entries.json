@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Engineezy",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-02T00:27:45.163296+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-01T23:12:59+00:00",
+        "description": "Straight Line Redemption\n\u2022\u2022\u2022\nI want to redeem myself for the squiggly line drawing mechanism from my last video.  I made a poor motor choice and used a servo that kind of jitters as it moves.  This was one of the reasons the lines had a ripple in them, but what was worse were the absolute trash I used for bearings.  They were supposed to be ABEC 3 rated, but they weren\u2019t even close.  I decided to try using them anyway.  It was a bad idea, and after swapping them with some higher quality bearings, and after using a stepper motor instead of that garbage servo, now we have some much straighter lines.\n\u2022\u2022\u2022\n#engineering #mechanicalengineering #mechanicaldesign #mechanism",
+        "id": 5150153,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/31R8x41B4S8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 858,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSksodwjNeOQ3Oywr1G4Nag",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/31R8x41B4S8/hqdefault.jpg",
+        "title": "Straight Line Redemption",
+        "vote": 0
+    }
+]

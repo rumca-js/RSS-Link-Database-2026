@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": null,
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-01T00:26:07.960625+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-01T00:23:51+00:00",
+        "description": "BleepingComputer - All Stories",
+        "id": 5144578,
+        "language": "en",
+        "link": "https://www.bleepingcomputer.com/feed",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source_url": "",
+        "status_code": 200,
+        "tags": [],
+        "thumbnail": null,
+        "title": "BleepingComputer",
+        "vote": 0
+    }
+]

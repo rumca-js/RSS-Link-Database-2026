@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Foundation",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-01T06:31:44.587590+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-01T05:15:59+00:00",
+        "description": "Join us at the premier vendor-neutral open source conference, where developers and technologists come together to collaborate, share knowledge, and explore the latest innovations and advancements in open source technology. Learn more at https://events.linuxfoundation.org/\n\nKeynote: LF Energy: An Innovative Ecosystem Powering the Future of Energy Through Open Source - Christophe Villemer, Executive Vice President, Savoir-faire Linux\n\nLF Energy brings together utilities, vendors, and technology leaders to build an open and innovative ecosystem for the future of energy. By sharing open platforms, common standards, and production-grade technologies such as SEAPATH, the community accelerates digitalization, strengthens resilience, and reduces vendor lock-in. This keynote will highlight how collaborative open source development creates real business value for grid operators and industry players, and why it is becoming essential for modern, interoperable, and future-ready energy systems.",
+        "id": 5145503,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=-qcZDlX-bNY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 499,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfX55Sx5hEFjoC3cNs6mCUQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/-qcZDlX-bNY/hqdefault.jpg",
+        "title": "Keynote: LF Energy: An Innovative Ecosystem Powering the Future of Energy Through Ope... C. Villemer",
+        "vote": 0
+    }
+]

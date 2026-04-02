@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-01T13:18:38.131111+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-01T12:29:21+00:00",
+        "description": "Joke of the day: Why do programmers prefer dark mode?",
+        "id": 5147016,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/ADAtpF-0gTw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/ADAtpF-0gTw/hqdefault.jpg",
+        "title": "Joke of the day: Why do programmers prefer dark mode?",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "AI Search",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-01T03:54:06.069660+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-01T03:23:03+00:00",
+        "description": "Attention Residuals by Kimi AI. Adaptive, continuous learning AI models. #ai #ainews #llm #airesearch #agi \n\nThanks to our sponsor Wondercraft. Use my code AI-SEARCH to get $25 OFF! https://www.wondercraft.ai/?via=ref\n\nOriginal paper: https://arxiv.org/abs/2603.15031\nTransformers explainer: https://youtu.be/U2hZFMVNSE0\n\n0:00 Intro\n0:27 AI\u2019s amnesia problem\n1:50 Design of deep AI models\n3:19 Residual connections\n6:50 The genius of current language models\n9:03 Applying attention to residuals\n13:05 Wondercraft\n15:22 Infra problems\n17:46 Compute results\n18:50 Performance results\n20:45 Wider or deeper\n22:22 From static to adaptive\n\n\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSupport: https://ko-fi.com/aisearch\n\nHere's my equipment, in case you're wondering:\nLenovo Thinkbook: https://amzn.to/4jWeKwH\nDell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0",
+        "id": 5145116,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=2IfAVV7ewO0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 806,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIgnGlGkVRhd4qNFcEwLL4A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/2IfAVV7ewO0/hqdefault.jpg",
+        "title": "They fixed AI\u2019s memory problem!",
+        "vote": 0
+    }
+]

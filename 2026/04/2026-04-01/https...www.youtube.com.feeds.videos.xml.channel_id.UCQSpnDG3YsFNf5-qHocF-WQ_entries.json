@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ThioJoe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-01T03:32:56.402703+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-01T02:55:32+00:00",
+        "description": "how to unlock windows ultimate performance mode\n\nspecial command:\npowercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61",
+        "id": 5145072,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=_Rm55YL91ZE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 366,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQSpnDG3YsFNf5-qHocF-WQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/_Rm55YL91ZE/hqdefault.jpg",
+        "title": "How to unlock Windows Ultimate Performance (NOT april fools)",
+        "vote": 0
+    }
+]
