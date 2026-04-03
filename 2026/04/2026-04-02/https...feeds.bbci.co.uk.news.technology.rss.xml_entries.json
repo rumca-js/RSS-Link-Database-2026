@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-02T15:01:40.607185+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-02T14:38:24+00:00",
+        "description": "Some experts believe it highlights a social media shift as platforms boost short video.",
+        "id": 5152988,
+        "language": "en-US",
+        "link": "https://www.bbc.com/news/articles/cgqk718l4neo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 28,
+        "source_url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9704/live/87b58840-2e92-11f1-90b9-6ffcd881a7dc.jpg",
+        "title": "Fewer UK adults posting on social media, Ofcom finds",
+        "vote": 0
+    }
+]

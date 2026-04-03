@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-02T15:59:24.068957+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-02T15:02:04+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nWork Contracts in Action: Advancing High-performance, Low-latency Concurrency in C++ - Michael Maniscalco - CppCon 2025\n---\n\nReal-time systems such as high-frequency trading, game engines, and embedded control demand predictable, low-latency execution. However, conventional C++ task-based concurrency models, including futures, promises, lock-free techniques, MPMC queues, and other synchronization mechanisms, typically introduce coordination overhead and latency, limiting the system's ability to meet performance requirements. \n \nWork Contracts, introduced in 2024, is a lock-free, wait-free C++ concurrency framework engineered to minimize latency by eliminating the contention and coordination overhead inherent in existing task-based concurrency models. Its signal-based task orchestration sidesteps blocking and unnecessary synchronization entirely, enabling fine-grained, non-blocking task dependencies. This makes it well-suited for latency-sensitive domains like ",
+        "id": 5153281,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=5ghAa7B5bF0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/5ghAa7B5bF0/hqdefault.jpg",
+        "title": "Work Contracts in Action: Advancing High-performance, Low-latency Concurrency - Michael Maniscalco",
+        "vote": 0
+    }
+]

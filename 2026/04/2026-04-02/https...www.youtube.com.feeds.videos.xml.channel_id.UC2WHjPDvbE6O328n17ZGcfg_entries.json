@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ForrestKnight",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-02T14:01:14.426620+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-02T13:30:30+00:00",
+        "description": "Check out Greptile, the best AI code reviewer I've ever used: https://jetty.to/greptile\n\nSo Claude Code's source code has been leaked. A person by the name of Chaofan Shou found that Claude Code's npm package included a source map file. Which is a JSON file that, well, quite literally contains all of the original source code embedded inside it.\n\nSources\nChaofan Shou's original post: https://x.com/Fried_rice/status/2038894956459290963\nKuber Mehta writeup: https://kuber.studio/blog/AI/Claude-Code's-Entire-Source-Code-Got-Leaked-via-a-Sourcemap-in-npm,-Let's-Talk-About-it\nRust/Python rewrite (claw-code): https://github.com/instructkr/claw-code\nVentureBeat analysis: https://venturebeat.com/technology/claude-codes-source-code-appears-to-have-leaked-heres-what-we-know\nFortune coverage (source leak): https://fortune.com/2026/03/31/anthropic-source-code-claude-code-data-leak-second-security-lapse-days-after-accidentally-revealing-mythos/\nFortune coverage (CMS leak): https://fortune.com/2026/0",
+        "id": 5152714,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=ESwH-_xFS_M",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 118,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2WHjPDvbE6O328n17ZGcfg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/ESwH-_xFS_M/hqdefault.jpg",
+        "title": "So Claude Code's Source Code Was Just Leaked...",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mateusz Chrobok",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-02T16:06:58.480905+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-02T15:38:38+00:00",
+        "description": "Wyobra\u017acie sobie tak\u0105 sytuacj\u0119. Firma przez przypadek publikuje w sieci instrukcj\u0119, jak dzia\u0142a ich produkt od \u015brodka. Nie dane klient\u00f3w ani has\u0142a, tylko ca\u0142y kod \u017ar\u00f3d\u0142owy narz\u0119dzia. I w\u0142a\u015bnie to przytrafi\u0142o si\u0119 31 marca z Claude Codem, czyli narz\u0119dziem do pracy z AI od Anthropica. W du\u017cym uproszczeniu jeden drobny b\u0142\u0105d w konfiguracji i plik, kt\u00f3ry nie powinien wyl\u0105dowa\u0107 w paczce instalacyjnej, pozwoli\u0142 ka\u017cdemu pobra\u0107 setki tysi\u0119cy liniijek kodu. I to bez \u017cadnego w\u0142amania czy hakierskich trik\u00f3w. \n\u0179r\u00f3d\u0142a: https://zurl.co/TinrH https://zurl.co/MGKKv #shorts",
+        "id": 5153312,
+        "language": "pl-PL",
+        "link": "https://www.youtube.com/shorts/DuwwSEzbeow",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 211,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTTZqMWBvLsUYqYwKTdjvkw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/DuwwSEzbeow/hqdefault.jpg",
+        "title": "\ud83d\udeb0 O wycieku Claude Code",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-02T10:58:47.329597+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-02T10:47:16+00:00",
+        "description": "It is the latest sign of warming relations between the US and Venezuela after Nicol\u00e1s Maduro was seized in a commando raid.",
+        "id": 5151876,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/cje4l9de0d1o",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 524,
+        "source_url": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a22/live/f7ec8a60-2e7d-11f1-8dc4-7bd9501845f2.jpg",
+        "title": "US lifts sanctions on Venezuelan interim leader Dely Rodr\u00edguez",
+        "vote": 0
+    }
+]

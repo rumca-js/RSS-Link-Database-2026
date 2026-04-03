@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unreal Engine",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-02T14:47:19.081757+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-02T14:00:34+00:00",
+        "description": "Watch this video to find out how PurpleSector combined UE5 with photogrammetry and machine vision technology to build a virtual factory for optimizing the production of Cadbury Creme Eggs.\n\nCadbury makes 1.5 million Creme Eggs daily\u201420 eggs every second, wrapped at high speed. With wrapping too fast to spot by eye, engineers need a way to ensure wrapping machines perform at 100%.\n\nFind out how PurpleSector created a super-accurate virtual environment that replicates real-world conditions in the factory, enabling Cadbury to spot areas where efficiencies can be made in the process, ensuring consistent production volumes and perfectly wrapped Creme Eggs, every time.\n\nFind out more about simulation in Unreal Engine here: unrealengine.com/uses/simulation\n\n#CadburyCremeEggs, #UnrealEngine, #UE5, #PurpleSector, #VirtualFactory, #Photogrammetry, #MachineVision, #Simulation",
+        "id": 5152880,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Mg1JWGUeDvs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 685,
+        "source_url": "https://youtube.com/channel/UCBobmJyzsJ6Ll7UbfhI4iwQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/Mg1JWGUeDvs/hqdefault.jpg",
+        "title": "A UE5-powered virtual factory to optimize Cadbury Creme Egg production",
+        "vote": 0
+    }
+]
