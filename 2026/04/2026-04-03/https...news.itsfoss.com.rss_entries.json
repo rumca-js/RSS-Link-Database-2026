@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Sourav Rudra",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-03T15:30:47.955400+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-03T11:28:22+00:00",
+        "description": "These two launches ought to keep Big Tech on their toes.",
+        "id": 5159681,
+        "language": "en-US",
+        "link": "https://itsfoss.com/news/proton-workspace-launch",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 156,
+        "source_url": "https://news.itsfoss.com/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://itsfoss.com/content/images/2026/04/proton-workspace-meet-launch-banner.png",
+        "title": "Proton Launches Workspace and Meet, Takes Aim at Google and Microsoft",
+        "vote": 0
+    }
+]

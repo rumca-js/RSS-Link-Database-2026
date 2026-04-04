@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Foundation",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-03T17:27:48.082268+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-03T16:30:54+00:00",
+        "description": "Software manufacturers worldwide are now facing mandatory vulnerability reporting deadlines, five-year support obligations, and billion-euro fines \u2014 and most have no idea what's inside their own products. The EU Cyber Resilience Act (CRA) isn't a future concern; key obligations, including vulnerability reporting, begin in September 2026, with full compliance required by December 2027.\nBrian Fox, Co-founder & CTO of Sonatype, and Christopher \"CRob\" Robinson, CTO of the Open Source Security Foundation (OpenSSF), break down exactly what CRA compliance requires, why the open source ecosystem is at the center of this regulatory storm, and what manufacturers must do right now to avoid becoming the next cautionary tale.\nKey Topics Covered:\nCRA enforcement timeline: September 2026 vulnerability reporting deadlines vs. December 2027 full compliance requirements\nSoftware Bill of Materials (SBOM) as the foundational compliance tool \u2014 including transitive dependency mapping\nHow AI-generated vulne",
+        "id": 5162418,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=O4EiukQ8nUk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 499,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfX55Sx5hEFjoC3cNs6mCUQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/O4EiukQ8nUk/hqdefault.jpg",
+        "title": "CRA Compliance: Billions in Fines, 5-Year Support Mandates & Your Software Stack",
+        "vote": 0
+    }
+]

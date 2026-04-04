@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "DistroTube",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-03T15:06:47.207156+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-03T13:01:02+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/WZMf-fC45ak\" width=\"480\" alt=\"thumbnail\" title=\"'date' - print or set date and time - Video Man Pages\" /></p>The 'date' command prints or sets the date and time.<br /><br />- Print the current date/time, using the default locale's format:<br />  date +%c<br /> <br />- Print the current date/time in UTC, using default format:<br />  date -u<br /> <br />- Print the current date/time in UTC, using the ISO 8601 format:<br />  date -u +%Y-%m-%dT%H:%M:%S%Z<br /><br />- Print the date only using the ISO 8601 format:<br />  date +%F<br />   -or- <br />  date +\"%Y-%m-%d\"<br /><br />- Print the date in MM/DD/YY format:<br />  date +%D<br />   -or-<br />  date +\"%m/%d/%y\"<br />  <br />- Print the time in HH:MM:SS format:<br />  date +%T<br />   -or-<br />  date +\"%H:%M:%S\"<br /><br />- Print the current date as a Unix timestamp (seconds since the Unix epoch):<br />  date +%s<br /> <br />- Convert a Unix timestamp date (ex: 1773665635) to the default forma",
+        "id": 5158252,
+        "language": "en",
+        "link": "https://odysee.com/%27date%27-print-or-set-date-and-time-video:dc194876083f1d6173e2c83c48f83296ff3743c3",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 518,
+        "source_url": "https://odysee.com/$/rss/@DistroTube:2",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/WZMf-fC45ak",
+        "title": "'date' - print or set date and time - Video Man Pages",
+        "vote": 0
+    }
+]

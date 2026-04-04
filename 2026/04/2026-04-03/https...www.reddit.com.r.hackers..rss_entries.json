@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/manateecoltee",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-03T18:31:48.264864+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-03T18:20:48+00:00",
+        "description": "<table> <tr><td> <a href=\"https://www.reddit.com/r/hackers/comments/1sblfe0/recruitment_exodus_arq/\"> <img src=\"https://preview.redd.it/wxpbo5cap0tg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=da1da1a319cc1edee56ae92fc276d468f03b6c94\" alt=\"Recruitment: Exodus ARQ\" title=\"Recruitment: Exodus ARQ\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>import React, { useState, useEffect } from &#39;react&#39;;</p> <p>import { Activity, Shield, Zap, Globe, Flame, Target, Lock, Eye } from &#39;lucide-react&#39;;</p> <p>const AlchemicalSymbol = ({ type, color = &quot;white&quot;, size = 60 }) =&gt; {</p> <p>const symbols = {</p> <p>// Sovereign - Antimony (The Globe/Authority)</p> <p>sovereign: (</p> <p>&lt;svg viewBox=&quot;0 0 100 100&quot; width={size} height={size}&gt;</p> <p>&lt;circle cx=&quot;50&quot; cy=&quot;65&quot; r=&quot;25&quot; fill=&quot;none&quot; stroke={color} strokeWidth=&quot;4&quot; /&gt;</p> <p>&lt;path d=&quot;M50 40 V15 M35 25 H65&quot; stroke={color} strokeWid",
+        "id": 5162978,
+        "language": "en",
+        "link": "https://www.reddit.com/r/hackers/comments/1sblfe0/recruitment_exodus_arq",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 536,
+        "source_url": "https://www.reddit.com/r/hackers/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://preview.redd.it/wxpbo5cap0tg1.jpeg?width=640&crop=smart&auto=webp&s=da1da1a319cc1edee56ae92fc276d468f03b6c94",
+        "title": "Recruitment: Exodus ARQ",
+        "vote": 0
+    }
+]

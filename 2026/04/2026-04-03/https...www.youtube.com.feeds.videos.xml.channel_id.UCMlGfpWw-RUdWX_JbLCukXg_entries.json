@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-03T16:03:03.612093+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-03T15:02:06+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nConstexpr STL Containers: Why C++20 Still Falls Short - Sergey Dobychin - CppCon 2025\n---\n\nOne of the most powerful features that sets C++ apart from many other languages is its ability to perform complex constant evaluation at compile time using constexpr. With each new language standard, these capabilities have expanded \u2014 and C++20 took a big step forward by allowing dynamic memory allocation in constexpr functions via operator new. This made it possible, for example, to use containers like std::vector and std::string in constexpr code.\n\nHowever, there\u2019s still a key limitation: you can only use these containers in constexpr functions \u2014 not as top-level constexpr objects. That means you can't declare a constexpr std::vector or std::string at global scope and use it later in runtime without overhead for initialization. The language still doesn\u2019t fully support top-level dynamic containers in constant expressions.\n\nIn this talk, I\u2019ll explore the current state of",
+        "id": 5160876,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Py4GJaCHwkA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/Py4GJaCHwkA/hqdefault.jpg",
+        "title": "Constexpr STL Containers: Why C++20 Still Falls Short - Sergey Dobychin - CppCon 2025",
+        "vote": 0
+    }
+]

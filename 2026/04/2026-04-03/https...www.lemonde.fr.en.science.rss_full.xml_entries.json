@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-03T03:25:46.685303+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-03T03:25:43.156395+00:00",
+        "description": "Astronauts Reid Wiseman, Victor Glover, Christina Koch and Canadian Hansen spent their first hours in space performing checks and troubleshooting minor problems on the spacecraft. The 10-day Artemis 2 mission, which launched on Wednesday from Kennedy Space Center in Florida, is aimed at paving the way for a Moon landing in 2028.",
+        "id": 5155834,
+        "language": "en-US",
+        "link": "https://www.lemonde.fr/en/science/article/2026/04/03/artemis-ii-astronauts-blast-towards-the-moon-after-spending-the-day-in-earth-s-orbit_6752068_10.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 190,
+        "source_url": "https://www.lemonde.fr/en/science/rss_full.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.lemde.fr/2026/04/02/262/0/5000/2500/644/322/60/0/0603166_ftp-1-hrneh1jc6a6p-459b1f05fc93446ea5fcd9a91e5a6e3b-0-5019151001584a21b0164c948b5a5405.jpg",
+        "title": "Artemis II astronauts blast towards the Moon after spending the day in Earth's orbit",
+        "vote": 0
+    }
+]

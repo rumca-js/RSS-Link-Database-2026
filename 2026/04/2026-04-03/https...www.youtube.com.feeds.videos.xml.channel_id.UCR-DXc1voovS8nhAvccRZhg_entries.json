@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeff Geerling",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-03T15:02:41.730931+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-03T14:00:20+00:00",
+        "description": "Wi-Fi still required phone lines for a time. A belated #MARCHintosh video.\n\nShop Micro Center's Monitor Madness Event: https://micro.center/1eb0c8\nSign up for a FREE 128 gig Flash Drive at Micro Center's Newest Store: https://micro.center/c1a7b6\nVisit Micro Center News: https://micro.center/310248\n\nIf you want to replicate this setup, here's what you need (some links are affiliate links):\n\n  - My Pi ISP project: https://github.com/geerlingguy/pi-isp\n  - Raspberry Pi 3, 4, or 5 (or equivalent) ($35)\n  - StarTech.com 56K USB Dial-up Modem ($45): https://amzn.to/3NJMeTZ\n  - Viking DLE-200B Two-Way Line Simulator ($120): https://amzn.to/3NnJETN\n  - (Optional, but retro-cool) Traditional Bell-style telephone ($36): https://amzn.to/3PPmpme\n\nAlso referenced in this video:\n\n  - MacWorld 1999 New York Keynote: https://archive.org/details/1999-07-21-macworld-new-york-keynote\n  - Steve Jobs says \"Jump!\" and Phil Schiller does https://www.youtube.com/watch?v=1MR4R5LdrJw\n  - Steve Jobs introduces ",
+        "id": 5158228,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=GbIoEZZwcgw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 161,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR-DXc1voovS8nhAvccRZhg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/GbIoEZZwcgw/hqdefault.jpg",
+        "title": "Dial \"1\" for Wi-Fi",
+        "vote": 0
+    }
+]

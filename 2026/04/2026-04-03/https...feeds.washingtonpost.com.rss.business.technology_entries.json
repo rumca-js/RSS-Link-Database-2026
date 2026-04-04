@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Will Oremus",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-03T11:32:50.486001+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-03T10:00:06+00:00",
+        "description": "The new mobile app offers Americans \u201ca direct line to the White House,\u201d delivering pro-Trump news, curated updates and a rose-tinted view of the president.",
+        "id": 5156829,
+        "language": "en-US",
+        "link": "https://www.washingtonpost.com/technology/2026/04/03/trump-white-house-news-app",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 364,
+        "source_url": "https://feeds.washingtonpost.com/rss/business/technology",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "On the White House\u2019s news app, Trump is always winning",
+        "vote": 0
+    }
+]

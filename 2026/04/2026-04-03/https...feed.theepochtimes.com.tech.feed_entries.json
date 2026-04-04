@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Dylan Morgan",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-03T23:04:41.374032+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-03T22:43:54+00:00",
+        "description": "OpenAI announced on Tuesday that it closed its latest funding round with $122 billion at an $852 billion valuation, its largest round to date. Softbank co-led the round alongside a16z, D. E. Shaw Ventures, MGX TPG, and T. Rowe Price Associates. Amazon, Softbank, and NVIDIA invested $50 billion, $30 billion, and $30 billion, respectively, while [&#8230;]",
+        "id": 5164844,
+        "language": "en-US",
+        "link": "https://www.theepochtimes.com/us/openai-raises-122-billion-at-852-billion-valuation-6007877",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 105,
+        "source_url": "https://feed.theepochtimes.com/tech/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.theepochtimes.com/assets/uploads/2026/02/05/id5981510-GettyImages-2173285360-1080x720.jpg",
+        "title": "OpenAI Raises $122 Billion at $852 Billion Valuation",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/After_Somewhere_2254",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-03T11:57:32.031971+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-03T11:53:51+00:00",
+        "description": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/After_Somewhere_2254\"> /u/After_Somewhere_2254 </a> <br/> <span><a href=\"http://github.com/EdoardoBambini/Agent-Armor-Iaga\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/ReverseEngineering/comments/1sbbh75/open_source_runtime_that_deepinspects_ai_agent/\">[comments]</a></span>",
+        "id": 5157133,
+        "language": "",
+        "link": "https://www.reddit.com/r/ReverseEngineering/comments/1sbbh75/open_source_runtime_that_deepinspects_ai_agent",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 476,
+        "source_url": "https://www.reddit.com/r/ReverseEngineering/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Open source runtime that deep-inspects AI agent protocol traffic (MCP/ACP) \u2014 Rust",
+        "vote": 0
+    }
+]

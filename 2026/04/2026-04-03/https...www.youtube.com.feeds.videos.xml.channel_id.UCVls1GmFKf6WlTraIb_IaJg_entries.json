@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "DistroTube",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-03T14:17:15.320507+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-03T13:01:02+00:00",
+        "description": "The 'date' command prints or sets the date and time.\n\n- Print the current date/time, using the default locale's format:\n  date +%c\n \n- Print the current date/time in UTC, using default format:\n  date -u\n \n- Print the current date/time in UTC, using the ISO 8601 format:\n  date -u +%Y-%m-%dT%H:%M:%S%Z\n\n- Print the date only using the ISO 8601 format:\n  date +%F\n   -or- \n  date +\"%Y-%m-%d\"\n\n- Print the date in MM/DD/YY format:\n  date +%D\n   -or-\n  date +\"%m/%d/%y\"\n  \n- Print the time in HH:MM:SS format:\n  date +%T\n   -or-\n  date +\"%H:%M:%S\"\n\n- Print the current date as a Unix timestamp (seconds since the Unix epoch):\n  date +%s\n \n- Convert a Unix timestamp date (ex: 1773665635) to the default format:\n  date -d @1773665635\n \n- Convert a given date to the Unix timestamp format:\n  date -d \"2020-03-01 00:00\" +%s -u\n \n- Display the current date using the RFC-3339 format (YYYY-MM-DD hh:mm:ss TZ) and printing seconds (s):\n  date --rfc-3339 s\n  NOTE Instead of 's' for seconds, you could use 'n' ",
+        "id": 5157774,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=WZMf-fC45ak",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 95,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVls1GmFKf6WlTraIb_IaJg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/WZMf-fC45ak/hqdefault.jpg",
+        "title": "'date' - print or set date and time - Video Man Pages",
+        "vote": 0
+    }
+]

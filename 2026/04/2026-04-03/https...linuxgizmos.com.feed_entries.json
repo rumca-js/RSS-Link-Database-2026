@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-03T15:32:17.360448+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-03T05:04:51+00:00",
+        "description": "Radxa has updated its Taco carrier board with a new revision designed around the Raspberry Pi Compute Module 5, targeting storage-heavy and network-oriented applications. The platform integrates multiple SATA interfaces, dual Ethernet ports, and PCIe expansion in a compact form factor. The V1.61 revision transitions the design to support the Raspberry Pi CM5 exclusively, replacing [&#8230;]",
+        "id": 5159954,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/radxa-taco-updated-for-raspberry-pi-cm5-with-5x-sata-and-raid-support",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Radxa Taco Updated for Raspberry Pi CM5 with 5\u00d7 SATA and RAID Support",
+        "vote": 0
+    }
+]
