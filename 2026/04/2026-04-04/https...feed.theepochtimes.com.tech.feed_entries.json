@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "James Xu",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-04T17:04:55.758544+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-04T16:44:00+00:00",
+        "description": "The MATCH Act would ban sales and servicing of key lithography machines to China and push allies to adopt similar restrictions.",
+        "id": 5169223,
+        "language": "en-US",
+        "link": "https://www.theepochtimes.com/us/bipartisan-bill-seeks-tougher-curbs-on-chinese-chipmaking-tools-6007909",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 105,
+        "source_url": "https://feed.theepochtimes.com/tech/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.theepochtimes.com/assets/uploads/2022/07/22/ASML-chip-making-machine-1-1080x720.jpg",
+        "title": "Bipartisan Bill Seeks Tougher Curbs on Chinese Chipmaking Tools",
+        "vote": 0
+    }
+]

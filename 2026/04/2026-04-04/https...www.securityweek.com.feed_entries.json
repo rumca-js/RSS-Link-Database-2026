@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ionut Arghire",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-04T11:12:01.454695+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-04T10:31:00+00:00",
+        "description": "<p>Hackers stole over 300GB of data from the Commission\u2019s AWS environment, including personal information.</p>\n<p>The post <a href=\"https://www.securityweek.com/european-commission-confirms-data-breach-linked-to-trivy-supply-chain-attack/\">European Commission Confirms Data Breach Linked to Trivy Supply Chain Attack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+        "id": 5167374,
+        "language": "en-US",
+        "link": "https://www.securityweek.com/european-commission-confirms-data-breach-linked-to-trivy-supply-chain-attack",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 299,
+        "source_url": "https://www.securityweek.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "European Commission Confirms Data Breach Linked to Trivy Supply Chain Attack",
+        "vote": 0
+    }
+]

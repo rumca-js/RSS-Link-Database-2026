@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-04T03:51:43.528718+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-04T03:40:22+00:00",
+        "description": "M5Stack has introduced several new and updated products, including the CardKB2 keyboard unit, the Stamp-P4 module based on the ESP32-P4, a matching Wi-Fi expansion module, and an updated Core2 for AWS development kit. The lineup spans input devices, embedded modules, and IoT-focused development platforms. The CardKB2 is a compact 42-key keyboard built around the ESP32-C61HF4, [&#8230;]",
+        "id": 5165862,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/m5stack-updates-lineup-with-cardkb2-keyboard-esp32-p4-modules-and-core2-for-aws-kit",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "M5Stack Refreshes Lineup with CardKB2 Keyboard, ESP32-P4 Modules, and Core2 for AWS",
+        "vote": 0
+    }
+]

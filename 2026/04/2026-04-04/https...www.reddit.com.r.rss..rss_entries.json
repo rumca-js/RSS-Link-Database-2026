@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/busterghost65",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-04T11:48:18.710955+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-04T11:08:50+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>Hello. I&#39;m using an an android e-reader (Boox Go 7) which drains battery basically ~2% a minute when wifi is on. I&#39;m looking for an RSS reader that automatically downloads the full articles rather than the 100-ish character nugget of information that is in the default feed, basically so I can connect to wifi, refresh the reader and turn off wifi again, and read full articles without worrying about battery drain. Thanks.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/busterghost65\"> /u/busterghost65 </a> <br/> <span><a href=\"https://www.reddit.com/r/rss/comments/1sc6h6t/rss_reader_that_downloads_the_full_articles/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rss/comments/1sc6h6t/rss_reader_that_downloads_the_full_articles/\">[comments]</a></span>",
+        "id": 5167529,
+        "language": "en",
+        "link": "https://www.reddit.com/r/rss/comments/1sc6h6t/rss_reader_that_downloads_the_full_articles",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 482,
+        "source_url": "https://www.reddit.com/r/rss/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "RSS reader that downloads the full articles automatically?",
+        "vote": 0
+    }
+]

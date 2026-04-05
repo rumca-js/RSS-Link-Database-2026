@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NetworkChuck",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-04T02:00:18.793419+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-04T00:37:56+00:00",
+        "description": null,
+        "id": 5165535,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/GE1c4Tb3Zsw",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 565,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9x0AN7BWHpCDHSm9NiJFJQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/GE1c4Tb3Zsw/hqdefault.jpg",
+        "title": "Anthropic says NO MORE OpenClaw!!",
+        "vote": 0
+    }
+]

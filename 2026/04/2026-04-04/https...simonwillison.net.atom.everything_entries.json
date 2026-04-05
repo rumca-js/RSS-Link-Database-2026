@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Simon Willison",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-04T04:14:54.064751+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-04T02:20:17+00:00",
+        "description": null,
+        "id": 5165942,
+        "language": "en-us",
+        "link": "https://simonwillison.net/2026/Apr/4/kyle-daigle/#atom-everything",
+        "manual_status_code": 0,
+        "page_rating": 28,
+        "page_rating_contents": 87,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 423,
+        "source_url": "https://simonwillison.net/atom/everything",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Quoting Kyle Daigle",
+        "vote": 0
+    }
+]

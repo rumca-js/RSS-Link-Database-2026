@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Liam Dawe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-04T14:11:58.402120+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-04T14:04:04+00:00",
+        "description": "Wine, part of what makes Proton run so many Windows games on Linux, just had a very interesting release that will help game modding.<p><img src=\"https://www.gamingonlinux.com/uploads/tagline_gallery/wine-generic.jpg\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonlinux.com/2026/04/wine-11-6-is-an-exciting-release-to-make-modding-windows-games-on-linux-simpler/\">GamingOnLinux</a>.</p>",
+        "id": 5168235,
+        "language": "en-us",
+        "link": "https://www.gamingonlinux.com/2026/04/wine-11-6-is-an-exciting-release-to-make-modding-windows-games-on-linux-simpler",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 130,
+        "source_url": "https://www.gamingonlinux.com/article_rss.php",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.gamingonlinux.com/uploads/tagline_gallery/wine-generic.jpg",
+        "title": "Wine 11.6 is an exciting release to make modding Windows games on Linux simpler",
+        "vote": 0
+    }
+]

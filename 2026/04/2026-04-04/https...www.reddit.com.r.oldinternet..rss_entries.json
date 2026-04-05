@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/Sober-Thoughtz",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-04T15:47:24.272754+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-04T15:46:02+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>To anybody who might be following my little NodeWorld project - I&#39;d decided that with all of the login page animation, we shouldn&#39;t have a static index load. The spinning button was okay.... but.</p> <p>Alas! When you login, you get vortexed into the world, and upon logout, you get sucked back into the login screen! PHP sessions are used - so vortex-out is (obviously) on Logout click only.</p> <p>Watcha think?</p> <p>#BringFlashBackButHTML5IsCoolToo</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Sober-Thoughtz\"> /u/Sober-Thoughtz </a> <br/> <span><a href=\"https://i.redd.it/u85jg8wj27tg1.gif\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/oldinternet/comments/1sccl4c/tnw_gets_animated_loading_logout_to_match_landing/\">[comments]</a></span>",
+        "id": 5168768,
+        "language": "en",
+        "link": "https://www.reddit.com/r/oldinternet/comments/1sccl4c/tnw_gets_animated_loading_logout_to_match_landing",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 798,
+        "source_url": "https://www.reddit.com/r/oldinternet/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "T.N.W. Gets Animated Loading / Logout to Match Landing Page! (GIF prev. attached)",
+        "vote": 0
+    }
+]

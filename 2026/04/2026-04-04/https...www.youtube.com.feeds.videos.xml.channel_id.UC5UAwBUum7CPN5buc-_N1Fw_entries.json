@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Experiment",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-04T09:19:15.953030+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-04T09:00:30+00:00",
+        "description": "Grab a brand new laptop or desktop running Linux: https://www.tuxedocomputers.com/en#\n\n\n\ud83d\udc4f SUPPORT THE CHANNEL:\nGet access to:\n- a Daily Linux News show\n- a weekly patroncast for more thoughts\n- your name in the credits\n\nYouTube: https://www.youtube.com/@thelinuxexp/join\nPatreon: https://www.patreon.com/thelinuxexperiment\n\nOr, you can donate whatever you want:\nhttps://paypal.me/thelinuxexp\nLiberapay: https://liberapay.com/TheLinuxExperiment/\n\n\ud83d\udc55 GET TLE MERCH\nSupport the channel AND get cool new gear: https://the-linux-experiment.creator-spring.com/\n\nTimestamps:\n\n00:00 Intro\n00:34 OnlyOffice accuses EuroOffice of breaking their license\n02:39 OnlyOffice suspends partnership with Nextcloud\n04:15 Trouble between Collabora and The Document Foundation\n07:06 Wayland session restore protocol is now official\n08:40 Wayland fractional scaling improvements\n09:43 Copilot slots ads into PRs and merge requests\n12:14 Ubuntu MATE loses its maintainer\n13:56 GNOME fully drops Google Drive support\n15:52 L",
+        "id": 5166934,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=eweMlWewcVg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 349,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5UAwBUum7CPN5buc-_N1Fw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/eweMlWewcVg/hqdefault.jpg",
+        "title": "Trouble for OpenSource Office Suites, Wayland fixes 2 major features & other Linux Weekly News",
+        "vote": 0
+    }
+]

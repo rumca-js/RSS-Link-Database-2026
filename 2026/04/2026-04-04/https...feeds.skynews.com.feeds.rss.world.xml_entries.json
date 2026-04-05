@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-04T09:22:33.219190+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-04T09:22:31.606277+00:00",
+        "description": "Kribi route",
+        "id": 5166967,
+        "language": "en-US",
+        "link": "https://news.sky.com/story/french-owned-ship-transits-through-iran-controlled-strait-of-hormuz-13527829",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 305,
+        "source_url": "https://feeds.skynews.com/feeds/rss/world.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://e3.365dm.com/26/04/1920x1080/skynews-kribi-route-osint-strait-of-hormuz_7210674.png?20260404094401",
+        "title": "<a href='https://news.sky.com/story/iran-war-latest-trump-tehran-us-israel-kharg-island-netanyahu-lebanon-strikes-drone-live-sky-news-13509565?postid=11458523#liveblog-body' target='_blank'>French-owned ship transits through Iran-controlled Strait of Hormuz route</a>",
+        "vote": 0
+    }
+]
