@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "AI Search",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-05T03:56:21.145056+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-05T03:30:05+00:00",
+        "description": "HUGE AI NEWS: Gemma 4, Qwen 3.6, Wan 2.7, OmniVoice, DreamLite Claude Code leak, GLM-5V & more #ai #ainews #aitools #aivideo #agi\n\nThanks to our sponsor Higgsfield. Try out Seedance 2.0 on their business plan: https://higgsfield.ai/s/seedance-2-0-theaisearch-zMbvBw\n\nSources in order of mention:\nhttps://blog.google/innovation-and-ai/technology/developers-tools/gemma-4/\nhttps://void-model.github.io/\nhttps://alaya-studio.github.io/renderer/\nhttps://gen-searcher.vercel.app/\nhttps://tokendial.github.io/\nhttps://github.com/meituan-longcat/LongCat-AudioDiT\nhttps://github.com/shitagaki-lab/see-through\nhttps://kj-chen666.github.io/Hybrid-Memory-in-Video-World-Models/\nhttps://carlofkl.github.io/dreamlite/\nhttps://x.com/Fried_rice/status/2038894956459290963\nhttps://henghuiding.com/PSDesigner/\nhttps://qwen.ai/blog?id=qwen3.5-omni\nhttps://qwen.ai/blog?id=qwen3.6\nhttps://zhu-han.github.io/omnivoice/\nhttps://yxlao.github.io/lgtm/\nhttps://handx-project.github.io/\nhttps://docs.z.ai/guides/vlm/glm-5v-t",
+        "id": 5172078,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=o5rGuknRw2A",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 806,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIgnGlGkVRhd4qNFcEwLL4A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/o5rGuknRw2A/hqdefault.jpg",
+        "title": "Google\u2019s open-source AI, Claude Code leaked, new Wan, new Qwen, image gen on phone: AI NEWS",
+        "vote": 0
+    }
+]

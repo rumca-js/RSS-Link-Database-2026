@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Deeba Ahmed",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-05T16:43:58.171483+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-05T16:16:30+00:00",
+        "description": "LinkedIn is accused in the BrowserGate report of tracking 6,000+ browser extensions on users\u2019 PCs, raising concerns over privacy and data collection practices.",
+        "id": 5175335,
+        "language": "en-US",
+        "link": "https://hackread.com/browsergate-linkedin-track-browser-extensions-user-pc",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 139,
+        "source_url": "https://www.hackread.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "BrowserGate: LinkedIn Tracks 6,000+ Browser Extensions on Users\u2019 PCs",
+        "vote": 0
+    }
+]

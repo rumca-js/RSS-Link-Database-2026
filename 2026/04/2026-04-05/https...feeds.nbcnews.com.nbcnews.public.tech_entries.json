@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-05T15:21:28.065038+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-05T13:26:26+00:00",
+        "description": "In an interview with Meet the Press, Sen. Tim Kaine (D-Va.) reacts to the latest developments in the war with Iran as the White House asks Congress to approve a major increase to the Pentagon budget.",
+        "id": 5174831,
+        "language": "en-US",
+        "link": "https://www.nbcnews.com/meet-the-press/video/tim-kaine-calls-on-trump-to-dial-back-the-rhetoric-after-u-s-jet-is-downed-full-interview-260736581530",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 223,
+        "source_url": "https://feeds.nbcnews.com/nbcnews/public/tech",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_04/1775395574585_mtp_full_kaine_260405_S3_1920x1080-w6fmyo.jpg",
+        "title": "Tim Kaine calls on Trump to 'dial back the rhetoric' after US jet is downed in Iran: Full interview",
+        "vote": 0
+    }
+]

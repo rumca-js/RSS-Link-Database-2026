@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-05T06:58:02.993798+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-05T00:13:07+00:00",
+        "description": "UConn beat Illinois 71-62 in the Final Four.",
+        "id": 5172623,
+        "language": "en-US",
+        "link": "https://abcnews.com/Sports/wireStory/uconn-reaches-3rd-national-title-game-4-seasons-131736437",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 81,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 9,
+        "source_url": "http://feeds.abcnews.com/abcnews/topstories",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://s.abcnews.com/images/Sports/wirestory_8744f407ee6aebe710f84c642bfe41ba_4x3_384.jpg",
+        "title": "UConn reaches third national title game in four seasons",
+        "vote": 0
+    }
+]

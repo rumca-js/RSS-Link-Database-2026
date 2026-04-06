@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "GitHub",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-05T19:08:09.780104+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-05T18:28:36+00:00",
+        "description": "Watch how to fix a security vulnerability without writing a single line of code. Dependabot automatically finds risky packages in your repository and opens a pull request with the fixed version. You just need to review the changes, run your tests, and merge the fix. Learn how to enable this feature in your repository settings today. For more tips, check out GitHub for Beginners season 3: https://youtu.be/zhxXaFzzJYA\n\n#Security #Dependabot #GitHub\n\nStay up-to-date on all things GitHub by connecting with us:\n\nYouTube: https://gh.io/subgithub\nBlog: https://github.blog\nX: https://twitter.com/github\nLinkedIn: https://linkedin.com/company/github\nInsider newsletter: https://resources.github.com/newsletter/\nInstagram: https://www.instagram.com/github\nTikTok: https://www.tiktok.com/@github\n\nAbout GitHub\nIt\u2019s where over 180 million developers create, share, and ship the best code possible. It\u2019s a place for anyone, from anywhere, to build anything\u2014it\u2019s where the world builds software. https://gi",
+        "id": 5176136,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/kyjQXPTuvqo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 1005,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7c3Kb6jYCRj4JOHHZTxKsQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/kyjQXPTuvqo/hqdefault.jpg",
+        "title": "How to fix vulnerabilities automatically with Dependabot",
+        "vote": 0
+    }
+]

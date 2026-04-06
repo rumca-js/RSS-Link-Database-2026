@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-05T15:13:53.648089+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-05T13:58:01+00:00",
+        "description": "[allAfrica] For decades, Africa's place in the global economy was framed through the lens of aid,how much was given, where it went, and whether it made a difference. That narrative is steadily shifting. Across the continent, a more self-directed model is emerging, driven by trade, domestic resource mobilization, and investment. While the transition is uneven, the direction is clear: Africa is reducing its reliance on aid and redefining its development path.",
+        "id": 5174765,
+        "language": "en",
+        "link": "https://allafrica.com/stories/202604050182.html",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 15,
+        "source_url": "https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Africa: Africa's Quiet Pivot-From Aid Dependence to Self-Driven Growth",
+        "vote": 0
+    }
+]
