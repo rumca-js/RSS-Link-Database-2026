@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Fireship",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-06T19:41:45.527510+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-06T18:37:57+00:00",
+        "description": "Try Blacksmith for free to run your GitHub Actions 2x faster - https://www.blacksmith.sh/\n\nCursor 3 just introduced its own frontier model that's been suspiciously dominating all the trust me bro benchmarks. But it turns out there's a catch... \n\n#coding  #programming\n\nWant more Fireship?\n\n\ud83d\uddde\ufe0f Newsletter: https://bytes.dev\n\ud83e\udde0 Courses: https://fireship.dev",
+        "id": 5183511,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=JSuS-zXMVwE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 584,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/JSuS-zXMVwE/hqdefault.jpg",
+        "title": "Cursor ditches VS Code, but not everyone is happy...",
+        "vote": 0
+    }
+]

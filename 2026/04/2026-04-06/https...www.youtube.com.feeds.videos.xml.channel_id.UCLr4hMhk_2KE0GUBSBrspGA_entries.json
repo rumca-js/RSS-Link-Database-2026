@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kuba Klawiter",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-06T18:44:18.677877+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-06T18:00:06+00:00",
+        "description": "Odcinek zawiera fragment sponsorowany hackathonu, o kt\u00f3rym wi\u0119cej mo\u017cecie poczyta\u0107 tutaj: https://colosseum.com/frontier, a zapisa\u0107 si\u0119 tutaj: https://bit.ly/3NKqDes. Dodatkowe wydarzenia: https://bit.ly/4e5rHEc\n\nLinki:\nStrona gdzie mo\u017cna si\u0119 zapisa\u0107 na puszczanie b\u0105k\u00f3w dla nauki: https://www.flatus.info\nStrona cz\u0142owieka, kt\u00f3ry wylecza\u0142 raka przy pomocy AI: https://osteosarc.com\nArtyku\u0142 o bezg\u0142owych ludzkich klonach: https://bit.ly/4ctVl4I",
+        "id": 5183110,
+        "language": "pl-PL",
+        "link": "https://www.youtube.com/watch?v=fwV2lXjAg40",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 179,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLr4hMhk_2KE0GUBSBrspGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/fwV2lXjAg40/hqdefault.jpg",
+        "title": "Ile b\u0105k\u00f3w dziennie to norma? Tech Week",
+        "vote": 0
+    }
+]

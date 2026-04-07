@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-06T00:52:51.964766+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-06T00:52:49.980325+00:00",
+        "description": "An Easter getaway has turned to a nightmare for two people who were seriously injured when a gas bottle exploded at a NSW caravan park.",
+        "id": 5177615,
+        "language": "en-au",
+        "link": "https://www.news.com.au/travel/travel-updates/incidents/two-people-seriously-injured-after-gas-bottle-explodes-at-tweed-heads-caravan-park/news-story/51dc201890d090e83a972d3ca802876b?from=rss-basic",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 409,
+        "source_url": "https://www.news.com.au/content-feeds/latest-news-travel",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://content.api.news/v3/images/bin/47b58a3b562a57e71213439711eeafcc?width=320",
+        "title": "Two seriously hurt in gas bottle explosion",
+        "vote": 0
+    }
+]

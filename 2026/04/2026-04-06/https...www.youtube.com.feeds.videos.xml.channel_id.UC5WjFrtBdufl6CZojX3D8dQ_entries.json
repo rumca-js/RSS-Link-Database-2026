@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Tesla",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-06T19:31:33.431205+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-06T18:58:08+00:00",
+        "description": "Tesla, SpaceX, and xAI are launching the most epic chip-building effort ever - combining logic, memory and advanced packaging under one roof.\n\nTerafab will close the gap between today's chip production and the future's demand - a future among the stars.\n\nJoin us on our journey \u2013 https://terafab.ai\n\nTo The Stars: 0:00-1:17\nTerafab Keynote: 1:17-27:07",
+        "id": 5183383,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Txt3Wodav1o",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 805,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5WjFrtBdufl6CZojX3D8dQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/Txt3Wodav1o/hqdefault.jpg",
+        "title": "Terafab Keynote | Building AI Chips for Earth & Space",
+        "vote": 0
+    }
+]

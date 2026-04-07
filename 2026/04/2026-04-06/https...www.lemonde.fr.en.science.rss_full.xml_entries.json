@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-06T18:40:20.169778+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-06T18:40:17.278813+00:00",
+        "description": "The Artemis II team broke the previous record set by 1970's Apollo 13 mission, which they are expected to surpass by approximately 4,105 miles. The astronauts are journeying around the Moon, in which they'll spend more than six hours analyzing and documenting lunar surface features.",
+        "id": 5183097,
+        "language": "en-US",
+        "link": "https://www.lemonde.fr/en/science/article/2026/04/06/historic-day-artemis-ii-astronauts-travel-further-into-space-than-ever-before_6752162_10.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 190,
+        "source_url": "https://www.lemonde.fr/en/science/rss_full.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.lemde.fr/2026/04/06/160/0/1920/960/644/322/60/0/3a59317_ftp-1-nqolgryzjm1c-5694084-01-06.jpg",
+        "title": "'Historic day': Artemis II astronauts travel further into space than ever before",
+        "vote": 0
+    }
+]

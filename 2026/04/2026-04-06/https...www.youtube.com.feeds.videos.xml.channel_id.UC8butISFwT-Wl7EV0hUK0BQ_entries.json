@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-06T12:40:09.497036+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-06T12:17:21+00:00",
+        "description": "If you want to make social media work for you, focus on building true connections rather than gaining tons of followers. Those relationships will be more meaningful and fruitful in the long run.",
+        "id": 5180366,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/pRcITcZ4laM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/pRcITcZ4laM/hqdefault.jpg",
+        "title": "If you want to make social media work for you, focus on building true connections",
+        "vote": 0
+    }
+]

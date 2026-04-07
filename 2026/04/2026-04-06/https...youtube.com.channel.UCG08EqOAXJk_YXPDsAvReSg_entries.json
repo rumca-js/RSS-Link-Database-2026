@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unity",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-06T17:58:47.164635+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-06T17:00:42+00:00",
+        "description": "In this video, Unity\u2019s Rambod Kermanizadeh outlines the strategic advantages and expansion of Unity IAP, emphasizing how it provides studios with greater control over their in-game economies and revenue streams. He also discusses production verifying the tech and working with SciPlay.\n\nLearn more: unity.com/products/iap\n\n[0:00] Intro\n[1:50] Production verifying Unity IAP\n[3:20] Looking toward the future of Unity IAP\n\n#Unity #IAP #ProductionVerification",
+        "id": 5182731,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=WfHk28A8p-w",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 683,
+        "source_url": "https://youtube.com/channel/UCG08EqOAXJk_YXPDsAvReSg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/WfHk28A8p-w/hqdefault.jpg",
+        "title": "How we test Unity IAP in production (and why it matters)",
+        "vote": 0
+    }
+]

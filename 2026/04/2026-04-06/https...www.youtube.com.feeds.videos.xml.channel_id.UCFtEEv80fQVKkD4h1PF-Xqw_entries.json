@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Microsoft",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-06T20:17:43.073519+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-06T20:07:25+00:00",
+        "description": "Microsoft coworkers move across a game board where every space opens a conversation about family. Each roll reveals a story worth sharing.",
+        "id": 5183767,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=afAVnSG_nas",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 793,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFtEEv80fQVKkD4h1PF-Xqw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/afAVnSG_nas/hqdefault.jpg",
+        "title": "Families\u00a0shape the people who build\u00a0Microsoft",
+        "vote": 0
+    }
+]
