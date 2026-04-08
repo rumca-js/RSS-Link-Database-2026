@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/Economy-Department47",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-07T11:55:41.057303+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-07T11:30:57+00:00",
+        "description": "<table> <tr><td> <a href=\"https://www.reddit.com/r/developer/comments/1setb68/i_was_tired_of_using_webbased_tools_for_base64/\"> <img src=\"https://external-preview.redd.it/Y2I2N3k1cHA3cnRnMSzTRfNf7L_bkeH8gURZZVWulA-wD9HdmaNVMCzzlw5M.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=41dccaf908ab0129a53e7079ceeb03eee3b745a6\" alt=\"I was tired of using web-based tools for Base64 and JSON, so I built an offline-first CLI for macOS (50+ tools)\" title=\"I was tired of using web-based tools for Base64 and JSON, so I built an offline-first CLI for macOS (50+ tools)\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Like most devs, I use tools for Base64, JSON formatting, JWT decoding, and Cron parsing every day. I got tired of Googling &quot;Base64 decode&quot; and pasting sensitive data into random websites, so I built Devly.</p> <p>I just released v2.0, which adds a full CLI. It\u2019s designed for macOS workflows and handles everything locally/offline.</p> <p>What makes it different:</p> <p>It\u2019s ",
+        "id": 5188579,
+        "language": "en",
+        "link": "https://www.reddit.com/r/developer/comments/1setb68/i_was_tired_of_using_webbased_tools_for_base64",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 508,
+        "source_url": "https://www.reddit.com/r/developer/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://external-preview.redd.it/Y2I2N3k1cHA3cnRnMSzTRfNf7L_bkeH8gURZZVWulA-wD9HdmaNVMCzzlw5M.png?width=640&crop=smart&auto=webp&s=41dccaf908ab0129a53e7079ceeb03eee3b745a6",
+        "title": "I was tired of using web-based tools for Base64 and JSON, so I built an offline-first CLI for macOS (50+ tools)",
+        "vote": 0
+    }
+]

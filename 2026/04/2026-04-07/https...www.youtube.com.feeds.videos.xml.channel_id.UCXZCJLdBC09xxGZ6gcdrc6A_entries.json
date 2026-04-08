@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "OpenAI",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-07T22:24:48.263463+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-07T20:36:27+00:00",
+        "description": "AI is advancing faster than most people realize. In this OpenAI Forum conversation, Sam Altman joins Josh Achiam and Adrien Ecoffet to talk about what\u2019s coming next.\n\nThey discuss the pace of progress toward more capable AI systems, what these tools could unlock\u2014from scientific breakthroughs to new ways of building companies\u2014and the challenges society needs to prepare for. The conversation also looks at who gets access to AI, how to make sure the benefits are widely shared, and what it will take for institutions and individuals to keep up.",
+        "id": 5194067,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=ZpUKNYcgM-E",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 935,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXZCJLdBC09xxGZ6gcdrc6A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/ZpUKNYcgM-E/hqdefault.jpg",
+        "title": "Sam Altman on Building the Future of AI",
+        "vote": 0
+    }
+]

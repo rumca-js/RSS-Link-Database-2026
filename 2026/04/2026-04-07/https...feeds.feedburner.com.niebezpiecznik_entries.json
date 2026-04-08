@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Marcin Maj",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-07T10:28:55.283569+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-07T09:43:18+00:00",
+        "description": "<p>Wstrzykiwanie wrogich, czyli zap\u0119tlonych hiperlinkami mia\u0142kich tre\u015bci, kt\u00f3re maj\u0105 zapcha\u0107 i og\u0142upi\u0107 AI, to tylko jeden ze sposob\u00f3w oszukiwania agent\u00f3w AI wchodz\u0105cych na strony internetowe. Oczywi\u015bcie tre\u015bci te nie s\u0105 widzialne dla zwyk\u0142ych u\u017cytkownik\u00f3w. A jakie s\u0105 inne sposoby wystrychiwania AI na dudka? I czy mog\u0105 one wp\u0142ywa\u0107 tylko na konkretne agenty? Pr\u00f3b\u0119 stworzenia klasyfikacji &#8220;pu\u0142apek na AI&#8221; podj\u0119li badacze z Google DeepMind.<span id=\"more-26986\"></span></p>\n<h3>&#8220;I\u0107 stont bocie!&#8221;</h3>\n<p>Nie od dzi\u015b wiadomo, \u017ce <a href=\"https://niebezpiecznik.pl/post/twoj-agent-ai-moze-ukrasc-dane-lub-nabrac-sie-na-phishing-i-co-teraz/\">agenty AI da si\u0119 zmanipulowa\u0107</a>. Mo\u017cna ukrywa\u0107 niebezpieczne polecenia dla AI w instrukcjach formatowania Markdown albo LaTeX (tzw. (indirect) prompt injection). Mo\u017cna te\u017c zatruwa\u0107 wiedz\u0119 w systemach RAG albo tworzy\u0107\u00a0tzw. pu\u0142apki przeci\u0105\u017ceniowe. Co jaki\u015b czas trafiamy na publikacje dotycz\u0105ce takich rzeczy i czasami maj\u0105 one charakter",
+        "id": 5188009,
+        "language": "pl-PL",
+        "link": "https://niebezpiecznik.pl/post/ataki-na-agenty-ai-boty-ai-scrapery-ai",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 239,
+        "source_url": "https://feeds.feedburner.com/niebezpiecznik",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://niebezpiecznik.pl/wp-content/uploads/2026/04/ai-agent-risks-150x150.jpg",
+        "title": "Jak mo\u017cna wykiwa\u0107 Twoje agenty AI oraz boty AI kradn\u0105ce tre\u015bci z Twojej strony?",
+        "vote": 0
+    }
+]

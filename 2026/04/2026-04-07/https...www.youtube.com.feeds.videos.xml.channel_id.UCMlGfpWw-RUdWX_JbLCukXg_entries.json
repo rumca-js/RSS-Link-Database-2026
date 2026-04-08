@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-07T15:27:14.681091+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-07T15:02:08+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\ngroov: Asynchronous Handling of Special Function Registers - Michael Caisse - CppCon 2025\n---\n\nMicrocontrollers commonly use Special Function Registers (SFRs) to configure, control, and monitor operations ranging from IO devices to clock speeds and timers. These registers are exposed as addressable memory where words can be carved into fields of varying bit lengths and access rules.\n\ngroov is a library that allows definition of registers as compositions of fields and access rules. Reads and writes to fields are \"optimized\" (combined) at compile time to reduce the number of operations. When writing a subset of the fields to a register, groov can preserve the values of the remaining fields by performing a read-modify-write.\n\nMany device functions are modeled as registers and not all of them are local to the processor's memory bus. Remote devices can communicate via I2C, SPI, CAN, or some other interface with non-trivial latency. These remote registers present ch",
+        "id": 5190527,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=TjSL-XCyUJY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/TjSL-XCyUJY/hqdefault.jpg",
+        "title": "groov: Asynchronous Handling of Special Function Registers - Michael Caisse - CppCon 2025",
+        "vote": 0
+    }
+]

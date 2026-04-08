@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-07T15:57:55.269853+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-07T15:56:44+00:00",
+        "description": "<div id=\"link_wrapped_content\">\n<body><section class=\"wp-block-bigbite-multi-title\"><div class=\"container\"></div></section>\n\n\n\n\t\t<div class=\"promo_wrap promo_wrap_sticky\" id=\"sticky-promo-block\">\n\t\t\t<div class=\"row_wrapper\">\n\t\t\t\t<div class=\"column_wrapper\">\n\t\t\t\t\t<p class=\"eyebrow\">NOW 25% OFF</p>\n\t\t\t\t\t<p class=\"promo-title\"><strong>Logitech M705 Wireless Mouse</strong></p>\n\t\t\t\t\t\n\t\t\t\t</div>\n\t\t\t\t<div class=\"more_btn\"><a href=\"https://www.amazon.com/dp/B087Z733CM/?tag=pcworld02-20&#038;asc_refurl=https://www.pcworld.com\" target=\"_blank\" class=\"sticky-promotion-view-deal-link\" data-vars-link-position=\"Floating Conversion Unit\">View Deal</a></div>\n\t\t\t</div>\n\t\t</div>\n\t\t<script>\n\t\t(function () {\n\t\t\tdocument.querySelector(\"#sticky-promo-block a\").addEventListener(\"click\", function(e) {\n\t\t\t\tconst debug = document.location.host.search(/lndo.site|go-vip.net/) !== -1;\n\t\t\t\tconst text = this.closest(\"#sticky-promo-block\").querySelector(\"p.promo-title\").textContent;\n\t\t\t\tconst data = {\n\t\t\t\t\tevent: \"s",
+        "id": 5190773,
+        "language": "en-US",
+        "link": "https://www.pcworld.com/article/3108419/my-favorite-logitech-wireless-mouse-is-just-30-right-now.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 245,
+        "source_url": "https://www.pcworld.com/index.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "My favorite Logitech wireless mouse is just $30 right now",
+        "vote": 0
+    }
+]

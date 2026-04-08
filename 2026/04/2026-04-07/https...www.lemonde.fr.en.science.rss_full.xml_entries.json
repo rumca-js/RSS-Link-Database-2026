@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-07T22:27:49.170790+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-07T22:27:47.515313+00:00",
+        "description": "The crew shared an image that was a nod to the iconic Earthrise image taken by the Apollo 8 mission from 1968.",
+        "id": 5194081,
+        "language": "en-US",
+        "link": "https://www.lemonde.fr/en/science/article/2026/04/07/artemis-ii-astronauts-head-towards-earth-sharing-lunar-flyby-moments_6752198_10.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 190,
+        "source_url": "https://www.lemonde.fr/en/science/rss_full.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.lemde.fr/2026/04/07/0/0/5568/2784/644/322/60/0/1cca8c6_ftp-1-tobr0vpjf62i-bdd54c820a9e4e678bd31c81011b514b-1-ebffa30c84f8466684dc2677cc5cbd22.jpg",
+        "title": "Artemis II astronauts head towards earth, sharing lunar flyby moments",
+        "vote": 0
+    }
+]

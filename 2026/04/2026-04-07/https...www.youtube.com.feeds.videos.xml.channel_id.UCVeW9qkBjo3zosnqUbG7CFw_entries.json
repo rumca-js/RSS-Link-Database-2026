@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Hammond",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-07T15:41:28.856410+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-07T13:02:00+00:00",
+        "description": "https://jh.live/varonis || Secure your AI and the data that powers it, with Varonis! Try their free risk assessment: https://jh.live/varonis\n\nhttps://ipurple.team/2026/03/25/toast-notifications/\nhttps://learn.microsoft.com/en-us/windows/apps/develop/notifications/app-notifications/adaptive-interactive-toasts?tabs=appsdk\nhttps://learn.microsoft.com/en-us/windows/apps/develop/notifications/app-notifications/toast-schema\nhttps://learn.microsoft.com/en-us/uwp/schemas/tiles/toastschema/element-action\nhttps://learn.microsoft.com/en-us/windows/apps/develop/notifications/app-notifications/toast-desktop-apps\nhttps://learn.microsoft.com/en-us/windows/win32/shell/enable-desktop-toast-with-appusermodelid\nhttps://learn.microsoft.com/en-us/windows/apps/develop/launch/handle-uri-activation\nhttps://learn.microsoft.com/en-us/windows/apps/design/shell/tiles-and-notifications/notifications-visualizer\nhttps://github.com/Windos/BurntToast\n\nLearn Cybersecurity and more with Just Hacking Training: https://j",
+        "id": 5190667,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=wrAFZLa1TAk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 959,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVeW9qkBjo3zosnqUbG7CFw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/wrAFZLa1TAk/hqdefault.jpg",
+        "title": "Hackers make FAKE notifications",
+        "vote": 0
+    }
+]

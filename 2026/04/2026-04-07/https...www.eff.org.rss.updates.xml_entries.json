@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Christoph Schmon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-07T19:50:07.431176+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-07T19:24:13+00:00",
+        "description": "<div class=\"field field--name-body field--type-text-with-summary field--label-hidden\"><div class=\"field__items\"><div class=\"field__item even\"><p><span data-contrast=\"auto\">The EU\u2019s\u00a0<a href=\"https://www.eff.org/deeplinks/2022/05/eu-commissions-new-proposal-would-undermine-encryption-and-scan-our-messages\">so-called Chat Control plan</a>, which would mandate mass scanning and other encryption breaking measures, has had </span><a href=\"https://www.eff.org/deeplinks/2025/12/after-years-controversy-eus-chat-control-nears-its-final-hurdle-what-know\"><span data-contrast=\"none\">some good news lately</span></a><span data-contrast=\"auto\">. The most controversial idea, the forced requirement to scan encrypted messages, was given up by EU member states. And now, another win for privacy: the EU Parliament has dealt a real blow to voluntary mass-scanning of chats by voting to </span><a href=\"https://www.europarl.europa.eu/news/en/press-room/20260325IPR39207/child-sexual-abuse-online-voluntary-detec",
+        "id": 5192878,
+        "language": "en",
+        "link": "https://www.eff.org/deeplinks/2026/04/eu-parliament-blocks-mass-scanning-our-chats-whats-next",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 101,
+        "source_url": "https://www.eff.org/rss/updates.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "EU Parliament Blocks Mass-Scanning of Our Chats\u2014What's Next?",
+        "vote": 0
+    }
+]

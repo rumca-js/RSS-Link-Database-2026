@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-07T13:48:53.772906+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-07T11:01:18+00:00",
+        "description": "Learn more about AI Code-Generation here \u2192 https://ibm.biz/BdpZqb\n\n\u26a0\ufe0f Is AI code generation putting your software at risk? Patrick Nyeste reveals how code risk intelligence and shift left security can embed real-time guardrails into developer workflows. Learn how AI-assisted coding improves resilience and reduces risks across the SDLC. Watch now to secure your code!\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/BdpZqp\n\n#riskintelligence #aicoding #shiftleft #sdlc",
+        "id": 5189561,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=lYDkcC9DDaM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/lYDkcC9DDaM/hqdefault.jpg",
+        "title": "Code Risk Intelligence: Securing AI Coding at Scale in Real Time",
+        "vote": 0
+    }
+]

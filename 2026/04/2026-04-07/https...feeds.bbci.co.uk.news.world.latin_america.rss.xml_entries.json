@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-07T13:03:38.205352+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-07T12:19:46+00:00",
+        "description": "Adriana Rivas moved from Chile to Australia in the 1970s, working there as a nanny and cleaner.",
+        "id": 5189009,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/c8r40d4xdngo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 524,
+        "source_url": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/389d/live/35c3e150-3278-11f1-b6b5-c5856fa3f77a.jpg",
+        "title": "Chilean woman accused of Pinochet-era kidnaps loses extradition battle",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Learn Linux TV",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-07T15:40:25.921965+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-07T14:00:16+00:00",
+        "description": "New to Raspberry Pi? This beginner's guide covers everything you need to know to get up and running \u2014 from choosing the right model to installing Raspberry Pi OS and taking your first look around the desktop.\n\n*\ud83c\udf81 Support LLTV and Purchase Raspberry Pi Hardware*\nIf you're in the market for a Raspberry Pi, consider these affiliate links:\n \u2022 Raspberry Pi 5  \u279c https://learnlinux.link/pi-5\n \u2022 Raspberry Pi Kit \u279c https://learnlinux.link/pi-5-kit\n \u2022 Pi 500 \u279c https://learnlinux.link/pi-500\n \u2022 Pi 500+ \u279c https://learnlinux.link/pi-500-plus\n\n*\ud83d\udcd6 Check out my brand-new Linux Troubleshooting eBook!*\nContains expert strategies to help you level-up your System Administration game. Packed with advice, best practices as well as some Linux-related life hacks!\n \u2022 Check it out here \u279c https://learnlinux.link/troubleshooting-ebook\n\n*\ud83d\udd25 Top Recommendations*\n \u2022 Get $100 Credit to Practice on Akamai (Linode) \u279c https://learnlinux.link/linode\n \u2022 Linux Commands Cheat Sheet \u279c https://learnlinux.link/linux-commands\n ",
+        "id": 5190666,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=3zEzh5-f4KA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 997,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxQKHvKbmSzGMvUrVtJYnUA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/3zEzh5-f4KA/hqdefault.jpg",
+        "title": "How to Get Started with Raspberry Pi (Complete Beginner's Guide)",
+        "vote": 0
+    }
+]
