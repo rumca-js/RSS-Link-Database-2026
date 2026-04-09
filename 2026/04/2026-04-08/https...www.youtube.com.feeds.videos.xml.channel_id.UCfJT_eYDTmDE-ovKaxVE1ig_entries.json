@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kevin Stratvert",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-08T15:56:23.424734+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-08T13:49:07+00:00",
+        "description": "Want automatic subtitles in the free version of DaVinci Resolve? In this video I show you step-by-step how to use the Magic Subtitles Lite plugin from MrAlexTech to generate AI subtitles, create animated word-by-word captions, and drop them directly onto your timeline inside the free version of DaVinci Resolve. We\u2019ll go through download, install, setup with Vibe, and a full workflow from download to subtitle generation, all without needing Resolve Studio. Perfect for YouTube videos, Shorts, TikToks, and Reels.\n\nHost: Tim Seneker\n\n\ud83d\udcda RESOURCES\n- Magic Subtitles Lite: https://www.mralextech.com/a/hrt6x\n\n\u231a TIMESTAMPS\n0:00 - Download MagicSubtitlesLite\n0:39 - Install MagicSubtitlesLite and Add to Timeline\n1:13 - Install Vibe\n1:44 - Basic Subtitle Settings\n2:17 - Actually Create the Subtitles\n2:35 - Export Subtitles\n2:47 - Add Subtitles to Timeline for Customization/Animation\n\n\ud83d\udcfa RELATED VIDEOS\n- Playlist with all my videos on DaVinci Resolve: https://www.youtube.com/playlist?list=PLlKpQrBME",
+        "id": 5200331,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=5li9ATlKKp8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 958,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfJT_eYDTmDE-ovKaxVE1ig",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/5li9ATlKKp8/hqdefault.jpg",
+        "title": "How to Auto Generate Subtitles in DaVinci Resolve (FREE Method)",
+        "vote": 0
+    }
+]

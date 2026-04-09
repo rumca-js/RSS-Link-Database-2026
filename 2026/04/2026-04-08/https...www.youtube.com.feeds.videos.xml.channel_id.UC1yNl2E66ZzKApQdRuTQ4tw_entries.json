@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Sabine Hossenfelder",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-08T15:17:47.205550+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-08T15:01:34+00:00",
+        "description": "Take back your personal data with Incogni! Use code Sabine at the link below and get 60% off annual plans: https://incogni.com/sabine\n\nProgress in quantum computing as an industry has been relatively stagnant for a while now. But over the past few weeks, that\u2019s changed. Multiple groups focused on quantum cryptography (using quantum computers to break previously-unbreakable encryption protocols) published breakthrough papers in their field, raising concerns that quantum computers could break the crypto industry sooner than we thought. Let\u2019s take a look.\n\nScott Aaronson Interview: https://open.spotify.com/episode/0177EEZfsAiQowwKasEIbm?si=&nd=1&dlsi=5e7eb3630be34e38\n\n\ud83d\udc55T-shirts, mugs, posters and more: \u279c https://sabines-store.dashery.com/\n\ud83d\udc8c Support me on Donorbox \u279c https://donorbox.org/swtg\n\ud83d\udc49 Transcript with links to references on Patreon \u279c https://www.patreon.com/Sabine\n\ud83d\udcdd Transcripts and written news on Substack \u279c https://sciencewtg.substack.com/\n\ud83d\udce9 Free weekly science newsletter  \u279c http",
+        "id": 5200039,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=qV7hQEtr3ic",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 589,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC1yNl2E66ZzKApQdRuTQ4tw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/qV7hQEtr3ic/hqdefault.jpg",
+        "title": "Quantum Computers Just Got Much More Dangerous",
+        "vote": 0
+    }
+]

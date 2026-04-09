@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-08T11:37:10.906582+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-08T10:16:24+00:00",
+        "description": "Visit the Security Intelligence the podcast page \u2192 https://ibm.biz/BdpmAn\n\nWhat happens when one of the world\u2019s most popular AI coding tools falls into the wrong hands? \n\nOn this episode of Security Intelligence, Nick Bradley, Dave Bales and JR Rao discuss the Claude Code source code leak. Attackers are already using the opportunity to spread malware through fake repos, but the real question is how threat actors might use their newfound knowledge of Claude Code\u2019s internals to wreak havoc on AI agents and the CI/CD pipeline. \n\nThen, we follow up on our old friends TeamPCP, Shiny Hunters and Lapsus$, whose overlapping data breach claims are causing no small amount of confusion and consternation among security pros. We examine the credential rotation problem and the uneven security surface of modern supply chains that helped get us in this mess. \n\nPlus: Threat intelligence usually focuses on attacks that did happen. But what if we started talking about the ones that didn\u2019t? And do cyberc",
+        "id": 5198012,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=qtFtECYOzZE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/qtFtECYOzZE/hqdefault.jpg",
+        "title": "The Claude Code source code leak: Takeaways for cybersecurity pros",
+        "vote": 0
+    }
+]

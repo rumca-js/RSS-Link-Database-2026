@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-08T13:41:41.065992+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-08T12:29:25+00:00",
+        "description": "The magic of web dev: continuously and quickly improving your project. No waiting on app store approvals required. Chris discusses this with Quincy on the freeCodeCamp podcast.",
+        "id": 5199049,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/Dg5KwM2ndMg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/Dg5KwM2ndMg/hqdefault.jpg",
+        "title": "The magic of web dev: continuously and quickly improving your project. No waiting required.",
+        "vote": 0
+    }
+]

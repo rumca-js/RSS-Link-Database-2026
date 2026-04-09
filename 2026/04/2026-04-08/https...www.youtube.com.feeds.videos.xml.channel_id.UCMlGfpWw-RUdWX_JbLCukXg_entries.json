@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-08T15:33:59.462149+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-08T15:02:10+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nClean code! Horrible Performance? - Sandor Dargo - CppCon 2025\n---\n\nClean code promises readability, maintainability, and clarity. But is it possible that the pursuit of clean code comes at a catastrophic cost to performance? Some sceptics argue that adhering to clean code practices means sacrificing years - if not decades - of hardware advancements. Is clean code really that expensive? Let\u2019s explore the complex relationship between clean code and software performance. In this talk, we\u2019ll delve into what makes software performant. We\u2019ll demystify the effects of clean code on performance and discover what real bottlenecks are that you\u2019ll encounter while working on enterprise software. \n \nBut what is performance, really? While many immediately think of raw runtime speed, the landscape is far more intricate. We\u2019ll explore different facets of performance, including compile-time efficiency, memory usage, and the performance of developers themselves. However, our pr",
+        "id": 5200156,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=nLts4S8xSd4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/nLts4S8xSd4/hqdefault.jpg",
+        "title": "Clean code! Horrible Performance? - Sandor Dargo - CppCon 2025",
+        "vote": 0
+    }
+]

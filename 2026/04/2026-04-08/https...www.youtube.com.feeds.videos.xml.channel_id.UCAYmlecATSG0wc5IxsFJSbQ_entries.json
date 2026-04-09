@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Doug Sharpe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-08T16:51:52.918177+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-08T16:01:11+00:00",
+        "description": "A judge in Italy ruled that Netflix price increases were illegal and ordered the company to reset peoples monthly price back to when they signed up and refund them for any amount they have been charged over what they agreed to pay",
+        "id": 5200887,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/eUvljvi0npM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 811,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCAYmlecATSG0wc5IxsFJSbQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/eUvljvi0npM/hqdefault.jpg",
+        "title": "Netflix Price Increases Are Illegal #funfact",
+        "vote": 0
+    }
+]

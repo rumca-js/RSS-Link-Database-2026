@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ryan Daws",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-08T16:44:12.851477+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-08T16:36:06+00:00",
+        "description": "<p>Threat actors are actively compromising five major open-source repositories, putting the entire programming ecosystem on high alert. Since enterprise software development relies heavily on these external components, the threat level is severe. North Korean state-sponsored operators successfully breached npm, PyPI, Go Modules, crates.io, and Packagist. They bypass standard corporate firewalls by disguising Remote Access Trojans [&#8230;]</p>\n<p>The post <a href=\"https://www.developer-tech.com/news/how-threat-actors-exploiting-programming-ecosystems-in-2026/\">How threat actors are exploiting programming ecosystems in 2026</a> appeared first on <a href=\"https://www.developer-tech.com\">Developer Tech News</a>.</p>",
+        "id": 5200765,
+        "language": "en-GB",
+        "link": "https://www.developer-tech.com/news/how-threat-actors-exploiting-programming-ecosystems-in-2026",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 92,
+        "source_url": "https://www.developer-tech.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "How threat actors are exploiting programming ecosystems in 2026",
+        "vote": 0
+    }
+]

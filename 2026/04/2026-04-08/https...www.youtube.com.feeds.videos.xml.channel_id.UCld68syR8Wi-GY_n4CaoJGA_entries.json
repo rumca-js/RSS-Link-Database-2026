@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-08T19:07:16.445320+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-08T17:30:01+00:00",
+        "description": "There's one really annoying problem on Linux and that is the annoying wallet and keyring prompts that we see on Linux like Kwallet and gnome-keyring and to my surprise there is some work going on through something called secretservice to make these vastly less annoying.\n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\nReddit Post: https://www.reddit.com/r/kde/comments/1s8osw2/how_do_i_disable_this_kde_wallet_popup/\nBlog 1: https://notmart.org/blog/2025/04/towards-a-transition-from-kwallet-to-secret-service/\nBlog 2: https://notmart.org/blog/2025/07/kwallet-to-secretservice-a-client-application-name-wanted/\nBlog 3: https://notmart.org/blog/2026/01/kwallet-secretservice-oo7-the-story-so-far/\n\n=========Video Platforms==========\n\ud83c\udfa5 React: https://www.youtube.com/@BrodieRoberts",
+        "id": 5202166,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=4XN_1MVwZJ0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/4XN_1MVwZJ0/hqdefault.jpg",
+        "title": "This One Annoying Linux Problem Is Finally Ending",
+        "vote": 0
+    }
+]

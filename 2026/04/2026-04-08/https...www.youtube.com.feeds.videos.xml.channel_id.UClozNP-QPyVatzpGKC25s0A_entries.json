@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brad Colbow",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-08T16:06:39.047722+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-08T16:00:23+00:00",
+        "description": "Time for our weekly news roundup",
+        "id": 5200464,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=W_vFVd8Sq7k",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 44,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UClozNP-QPyVatzpGKC25s0A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/W_vFVd8Sq7k/hqdefault.jpg",
+        "title": "What Tech Are You Looking Forward to This Year?",
+        "vote": 0
+    }
+]
