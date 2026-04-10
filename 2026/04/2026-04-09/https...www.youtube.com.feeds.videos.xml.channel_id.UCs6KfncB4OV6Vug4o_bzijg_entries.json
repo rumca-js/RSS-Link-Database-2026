@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Techlore",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-09T04:26:11.765209+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-09T04:01:02+00:00",
+        "description": "Microsoft silently suspended developer accounts for WireGuard, VeraCrypt, and Windscribe with zero warning, leaving these critical open source security tools unable to push updates to Windows users. VeraCrypt users with full system encryption may face boot failures after July 2026. But this is bigger than a Microsoft support failure, it's what Big Tech ecosystem gatekeeping actually looks like when it goes wrong.\n\n\ud83d\udcf1 RESOURCES IN VIDEO\n\u2022 Veracrypt: https://techcrunch.com/2026/04/08/veracrypt-encryption-software-windows-microsoft-lock-boot-issues/\n\u2022 Windscribe & Wireguard: https://techcrunch.com/2026/04/08/wireguard-vpn-developer-cant-ship-software-updates-after-microsoft-locks-account/\n\u2022 Windscribe Tweet: https://x.com/windscribecom/status/2041929519628443943\n\u2022 VPN Finder: https://vpn.techlore.tech/\n\n\ud83d\udd0e RELATED VIDEOS\nhttps://youtu.be/5MZfGq5F1NU\n\n\ud83e\udde1 SUPPORT TECHLORE\nSupport our mission to defend digital rights for everyone:\nhttps://www.youtube.com/channel/UCs6KfncB4OV6Vug4o_bzijg/join\n\u2022",
+        "id": 5205154,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=fTui3CQuL9I",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 327,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/fTui3CQuL9I/hqdefault.jpg",
+        "title": "Microsoft BANNED WireGuard, VeraCrypt & Windscribe With Zero Warning",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kevin Stratvert",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-09T08:20:16.576839+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-09T07:00:03+00:00",
+        "description": "This KaneAI tutorial shows you how to test your entire app in plain English, from generating test cases to auto-healing when your UI changes.\n\ud83e\uddea Try KaneAI free for 14 days \u279c https://kaneai.kevinstratvert.com \n\nFirst, you'll watch KaneAI generate five complete test scenarios from a single text prompt and run them all at once against a live website. \n\nNext, you'll learn how KaneAI works under the hood, including the difference between Quick Author for one-off tests and Scenario Generation for testing entire workflows from a requirements document. \n\nThen, you'll discover how to test your own localhost app by connecting a LambdaTest Tunnel so KaneAI can reach the code running on your computer. \n\nAlong the way, you'll create a real test using both manual clicks and natural language commands in the same session, covering a LinkBio app built with Claude Code. \n\nAfterward, you'll see the auto-healing demo, in which the app's entire interface is redesigned, and KaneAI still passes the same tes",
+        "id": 5206184,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=1dVaUR-vWdU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 958,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfJT_eYDTmDE-ovKaxVE1ig",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/1dVaUR-vWdU/hqdefault.jpg",
+        "title": "KaneAI Tutorial - Test Your Entire App in Plain English",
+        "vote": 0
+    }
+]

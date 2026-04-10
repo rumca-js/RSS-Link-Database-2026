@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-09T18:03:57.092036+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-09T17:30:05+00:00",
+        "description": "I never expected to see drama in the FOSS document editor space, but out of nowhere 2 things are happening around the same time, NextCloud with there new EuroOffice vs OnlyOffice and The Document Foundation with LibreOffice vs Collabora with the Collabora Productivity.\n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\nNextCloud Post: https://nextcloud.com/blog/press_releases/industry-initiative-launches-euro-office-as-true-sovereign-office-suite/\nEuroOffice: https://github.com/Euro-Office\nOnlyOffice Response: https://www.onlyoffice.com/blog/2026/03/onlyoffice-flags-license-violations-in-euro-office-project-by-nextcloud-and-ionos\nThe Document Foundation Vote: https://community.documentfoundation.org/t/vote-revoke-votes-related-to-libreoffice-online-atticiziation-and-freezi",
+        "id": 5210766,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=Sk11hvLZiEA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/Sk11hvLZiEA/hqdefault.jpg",
+        "title": "The Linux Open Source Document Editors Are Fighting",
+        "vote": 0
+    }
+]

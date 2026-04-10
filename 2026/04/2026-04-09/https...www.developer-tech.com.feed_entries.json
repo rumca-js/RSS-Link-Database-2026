@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ryan Daws",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-09T16:23:07.861728+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-09T15:09:13+00:00",
+        "description": "<p>Google has launched TorchTPU, an engineering stack enabling PyTorch workloads to run natively on TPU infrastructure for enterprise AI. The machine learning talent pool almost universally writes code in Python using the PyTorch framework. However, extracting maximum performance from that code traditionally required tying it to Nvidia GPUs due to a tight historical integration with [&#8230;]</p>\n<p>The post <a href=\"https://www.developer-tech.com/news/google-torchtpu-native-pytorch-ai-execution/\">Google TorchTPU enables native PyTorch AI execution</a> appeared first on <a href=\"https://www.developer-tech.com\">Developer Tech News</a>.</p>",
+        "id": 5209713,
+        "language": "en-GB",
+        "link": "https://www.developer-tech.com/news/google-torchtpu-native-pytorch-ai-execution",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 92,
+        "source_url": "https://www.developer-tech.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Google TorchTPU enables native PyTorch AI execution",
+        "vote": 0
+    }
+]

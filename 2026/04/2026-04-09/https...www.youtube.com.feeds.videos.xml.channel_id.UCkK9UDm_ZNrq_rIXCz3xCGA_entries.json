@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Lunduke Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-09T17:14:46.006294+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-09T15:42:37+00:00",
+        "description": "Linux is dropping support for 486 CPU's. Heck, I'm still upset about losing support for the 386. We should bring it back. Let me explain why.\n\nMore from The Lunduke Journal:\nhttps://lunduke.com/",
+        "id": 5210314,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=aEwjZqmgCts",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 616,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkK9UDm_ZNrq_rIXCz3xCGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/aEwjZqmgCts/hqdefault.jpg",
+        "title": "The Case for 486 Support in Linux (And Everywhere Else)",
+        "vote": 0
+    }
+]

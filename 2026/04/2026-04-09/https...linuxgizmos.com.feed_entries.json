@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-09T06:01:01.818485+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-09T05:08:15+00:00",
+        "description": "RealSense has introduced the RealSense ID Pro F500, a facial authentication module designed for access control, kiosks, and identity verification systems. The solution combines depth sensing, vision processing, and local computation to support secure biometric authentication without relying on cloud-based processing. The module integrates an active stereo depth system with a neural network pipeline for [&#8230;]",
+        "id": 5205581,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/realsense-id-pro-f500-combines-depth-sensing-and-on-device-biometrics",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "RealSense ID Pro F500 Combines Depth Sensing and On-Device Biometrics",
+        "vote": 0
+    }
+]

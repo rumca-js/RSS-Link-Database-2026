@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Primal Space",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-09T11:33:01.560656+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-09T11:30:35+00:00",
+        "description": "You may think that a silk dress and binary coding have very little to do with one another, but actually they\u2019re more closely related than you think.\n\nLong before computers existed, silk weavers were already working with systems that worked a lot like digital code. On early looms, a series of pedals, shafts, and beams controlled the threads: press a pedal and a shaft lifts; release it and the threads fall back into place.\n\nEach movement determined which strands of silk rose and which stayed down, shaping the pattern thread by thread. By combining these motions in different sequences, weavers could create incredibly complex designs.",
+        "id": 5207316,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/b6O4aJtr_l4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 840,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UClZbmi9JzfnB2CEb0fG8iew",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/b6O4aJtr_l4/hqdefault.jpg",
+        "title": "China\u2019s Earliest Binary Coding Machine",
+        "vote": 0
+    }
+]

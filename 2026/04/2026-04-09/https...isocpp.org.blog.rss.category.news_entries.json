@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Blog Staff",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-09T22:28:19.743106+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-09T21:36:20+00:00",
+        "description": "<p>\n\tInspired by a similar previous thread showcasing cool uses for C++26 reflection.</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://www.reddit.com/r/cpp/comments/1rgo4s9/power_of_c26_reflection_strong_opaque_type/\">Power of C++26 Reflection: Strong (opaque) type definitions&nbsp;</a></h3>\n</blockquote>\n<p>\n\tFrom the article:</p>\n<blockquote>\n\t<p>\n\t\tWith reflection, you can easily create \"opaque\" type definitions, i.e \"strong types\". It works by having an inner value stored, and wrapping over all public member functions.</p>\n\t<p>\n\t\tNote: I am using queue_injection { ... } with the EDG experimental reflection, which afaik wasn&#39;t actually integrated into the C++26 standard, but without it you would simply need two build stages for codegen. This is also just a proof of concept, some features aren&#39;t fully developed (e.g aggregate initialization)</p>\n\t<pre>\nstruct Item { /* ... */ }; // name, price as methods&#10;&#10;struct FoodItem;&#10;struct BookItem;&#10;struct MovieItem;&#10;&#10;",
+        "id": 5212904,
+        "language": "en",
+        "link": "https://isocpp.org//blog/2026/04/power-of-cpp26-reflection-strong-opaque-type-definitions-r-cpp",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Power of C++26 Reflection: Strong (opaque) type definitions --  r/cpp",
+        "vote": 0
+    }
+]

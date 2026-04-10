@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "JRE Clips",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-09T18:02:13.987130+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-09T17:00:01+00:00",
+        "description": "Taken from JRE #2481 w/Duncan Trussell\nYouTube: https://youtu.be/vrRJimixWEc\nJRE on Spotify: https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk",
+        "id": 5210751,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=-FbDvcSeqKg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 157,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnxGkOGNMqQEUMvroOWps6Q",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/-FbDvcSeqKg/hqdefault.jpg",
+        "title": "Duncan Trussell Created a Charles Manson Chatbot and Learned a Dangerous Lesson About AI",
+        "vote": 0
+    }
+]

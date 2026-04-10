@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-09T17:06:10.169253+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-09T15:51:00+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nBeyond the Big Green Button: Demystifying the Embedded Build Process - Morten Winkler J\u00f8rgensen - CppCon 2025\n---\n\nFor many embedded developers, the \"big green button\" in the IDE obscures the complexity of what actually happens when code is built and flashed to a device. When it fails, especially for newcomers, it can leave them stranded without insight into what went wrong. \n \nThis talk breaks down the full process of building embedded software \u2014 from source code to flashed binary. We\u2019ll cover each main stage: preprocessing, compilation, assembling, linking, and flashing. Along the way, we\u2019ll show how build systems like Make and CMake orchestrate these steps and how they can be leveraged for better control and automation. \n \nWe'll also explore the kinds of errors that typically arise in each stage, how to interpret them, and most importantly, how to fix them. By walking through the build chain both manually and using automation tools, attendees will develop a",
+        "id": 5210131,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=UekVdzMCAa0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/UekVdzMCAa0/hqdefault.jpg",
+        "title": "Beyond the Big Green Button: Demystifying the Embedded Build Process - Morten Winkler J\u00f8rgensen",
+        "vote": 0
+    }
+]

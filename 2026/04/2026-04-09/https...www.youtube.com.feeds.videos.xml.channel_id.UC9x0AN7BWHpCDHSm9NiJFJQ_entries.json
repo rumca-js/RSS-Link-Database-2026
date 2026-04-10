@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NetworkChuck",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-09T15:09:29.916786+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-09T14:25:50+00:00",
+        "description": "Try Perplexity Computer (I'm working with Perplexity on this one to give you an honest look): https://ntck.co/perplexity\n\nPerplexity Computer is a $200/month AI system that orchestrates 19 frontier models, runs in the cloud while you sleep, and builds real apps from a single prompt. I built my own AI system \u2014 103 skills, multiple models, AI employees \u2014 and didn't want to like it. But after building 7 real projects from my phone in Japan, I have to be honest about what happened.\n\nIn this video, you'll learn how Perplexity Computer works under the hood \u2014 Firecracker micro VMs, multi-model orchestration, sandboxed sub-agents \u2014 and see real projects built from scratch: a gaming website, a cult investigation dashboard, a self-improving Japanese learning app, and more. Whether you're evaluating AI coding tools or looking for the fastest way to turn ideas into real apps, this honest review covers the good, the bad, and the real credit costs.\n\n---\n\nJoin the NetworkChuck Academy!: https://ntck",
+        "id": 5208970,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=G3jvn7n-68Y",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 565,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9x0AN7BWHpCDHSm9NiJFJQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/G3jvn7n-68Y/hqdefault.jpg",
+        "title": "i didn't want to like this....",
+        "vote": 0
+    }
+]

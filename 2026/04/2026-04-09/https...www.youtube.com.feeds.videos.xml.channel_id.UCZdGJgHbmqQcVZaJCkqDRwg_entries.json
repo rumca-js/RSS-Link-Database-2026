@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Q",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-09T10:40:28.847394+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-09T10:25:43+00:00",
+        "description": "Scribe turns any process into a step-by-step guide automatically \u2014 no extra work.\n\ud83d\udc49 Try it here: https://scribe.how/theq\n\nIf you want to see how I used it in a real project:\n\ud83d\udc49 https://youtu.be/zW2cOVHllP8?si=O-0nnt1LUqILF0PG",
+        "id": 5206889,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/D_RwfN0HvSE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 778,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZdGJgHbmqQcVZaJCkqDRwg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/D_RwfN0HvSE/hqdefault.jpg",
+        "title": "I Stopped Writing Guides!",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/qashto",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-09T14:03:34.089033+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-09T13:44:52+00:00",
+        "description": "<table> <tr><td> <a href=\"https://www.reddit.com/r/emulation/comments/1sgq1x4/nostlan_v36_supports_latest_mame/\"> <img src=\"https://preview.redd.it/4x5jutz356ug1.jpg?width=140&amp;height=87&amp;auto=webp&amp;s=07423946fa2cc7fec5fcb4add3c9856a53562771\" alt=\"Nostlan v3.6 : Supports Latest MAME\" title=\"Nostlan v3.6 : Supports Latest MAME\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><h1>Changelog</h1> <ul> <li>Nostlan&#39;s automatic emulator app installer now gets the latest version of every emulator</li> <li>fixed issue that broke the image browser feature</li> <li>support for the latest version of MAME (v0.287), which uses SDL 3 on macOS</li> </ul> <p>Full Devlog: <a href=\"https://quinton-ashley.itch.io/nostlan/devlog/1484433/nostlan-v36-supports-latest-mame\">https://quinton-ashley.itch.io/nostlan/devlog/1484433/nostlan-v36-supports-latest-mame</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/qashto\"> /u/qashto </a> <br/> <span><a href=\"ht",
+        "id": 5208417,
+        "language": "",
+        "link": "https://www.reddit.com/r/emulation/comments/1sgq1x4/nostlan_v36_supports_latest_mame",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 475,
+        "source_url": "https://www.reddit.com/r/emulation/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://preview.redd.it/4x5jutz356ug1.jpg?width=140&height=87&auto=webp&s=07423946fa2cc7fec5fcb4add3c9856a53562771",
+        "title": "Nostlan v3.6 : Supports Latest MAME",
+        "vote": 0
+    }
+]
