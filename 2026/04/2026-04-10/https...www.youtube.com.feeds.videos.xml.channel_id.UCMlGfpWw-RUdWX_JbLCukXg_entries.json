@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-10T15:44:33.824713+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-10T15:36:21+00:00",
+        "description": "https://cppcon.org/\n---\n\nC++: Some Assembly Required - Matt Godbolt - CppCon 2025\n\nJoin Matt in exploring how the C++ ecosystem has evolved through the interplay of intentional design and emergent collaboration. Standards committees craft language features and compiler teams implement them, but something amazing happens in the spaces between: tools appear, communities form, and solutions emerge that nobody quite planned for. What started as individual developers solving their own problems has grown into an interconnected ecosystem that shapes how we all write C++.\n\nFrom documentation to testing, from build systems to package managers, we'll examine how the C++ community has assembled itself around shared pain points and accidental standards. Using examples and perhaps too many rainforest metaphors, this talk celebrates not just the language we've built, but the organic ecosystem that's grown up around it. Come discover why C++'s greatest strength might be that it's always required som",
+        "id": 5218744,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=zoYT7R94S3c",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/zoYT7R94S3c/hqdefault.jpg",
+        "title": "C++: Some Assembly Required - Matt Godbolt - CppCon 2025",
+        "vote": 0
+    }
+]

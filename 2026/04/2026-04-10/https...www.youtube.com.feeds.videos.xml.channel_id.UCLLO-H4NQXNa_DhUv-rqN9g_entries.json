@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CD-Action",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-10T19:07:27.409451+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-10T17:55:04+00:00",
+        "description": "Ko\u0144czymy",
+        "id": 5220471,
+        "language": "pl",
+        "link": "https://www.youtube.com/watch?v=Dv8brJZ_17Q",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 53,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLLO-H4NQXNa_DhUv-rqN9g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/Dv8brJZ_17Q/hqdefault.jpg",
+        "title": "Control: s\u0142uchamy Take Control i do domu",
+        "vote": 0
+    }
+]

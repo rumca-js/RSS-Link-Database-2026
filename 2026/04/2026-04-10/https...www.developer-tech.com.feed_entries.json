@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Muhammad Zulhusni",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-10T09:31:57.902607+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-10T09:00:00+00:00",
+        "description": "<p>Large codebases often come with a hidden problem. It is not always the code itself, but the knowledge around it. Over time, teams build systems that rely on decisions, fixes, and workarounds that are rarely written down in full. That \u201ctribal knowledge\u201d tends to live in scattered documents, old tickets, or in the minds of [&#8230;]</p>\n<p>The post <a href=\"https://www.developer-tech.com/news/meta-uses-ai-agents-to-help-developers-understand-large-codebases/\">Meta uses AI agents to help developers understand codebases</a> appeared first on <a href=\"https://www.developer-tech.com\">Developer Tech News</a>.</p>",
+        "id": 5215842,
+        "language": "en-GB",
+        "link": "https://www.developer-tech.com/news/meta-uses-ai-agents-to-help-developers-understand-large-codebases",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 92,
+        "source_url": "https://www.developer-tech.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Meta uses AI agents to help developers understand codebases",
+        "vote": 0
+    }
+]

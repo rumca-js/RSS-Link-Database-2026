@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Foundation",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-10T15:58:51.548214+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-10T15:24:53+00:00",
+        "description": "Most AI agent prototypes never make it to production. The reason? They fail spectacularly when networks drop, machines crash, or state gets lost mid-transaction. Imagine processing a Stripe payment, the system crashes, and your workflow restarts\u2014charging the customer twice. That's the reliability gap killing enterprise AI adoption today.\nIn this exclusive interview with Swapnil Bhartiya at TFiR, Mark Fussell, Co-creator and Core Maintainer of Dapr, explains how Dapr Agents 1.0 solves the Day 2 operational nightmare of running AI agents at scale. Built on Dapr's durable workflow engine and battle-tested in Kubernetes environments, this CNCF graduated project provides the recovery guarantees that microservices-plus-LLM architectures desperately need.\nKey Topics Covered:\n \u2022 Durable execution patterns for stateful AI workflows with automatic crash recovery and checkpoint logging\n \u2022 How Dapr's workflow engine prevents duplicate transactions and data loss during network failures in distribu",
+        "id": 5218844,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=x55c4w4pz20",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 499,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfX55Sx5hEFjoC3cNs6mCUQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/x55c4w4pz20/hqdefault.jpg",
+        "title": "AI Agents Fail in Production. Here's Why State Management Matters | Mark Fussell, Dapr",
+        "vote": 0
+    }
+]

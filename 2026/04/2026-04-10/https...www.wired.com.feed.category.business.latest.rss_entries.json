@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Maxwell Zeff",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-10T00:27:55.536301+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-10T00:19:53+00:00",
+        "description": "The ChatGPT-maker testified in favor of an Illinois bill that would limit when AI labs can be held liable\u2014even in cases where their products cause \u201ccritical harm.\u201d",
+        "id": 5213565,
+        "language": "en-US",
+        "link": "https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 396,
+        "source_url": "https://www.wired.com/feed/category/business/latest/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media.wired.com/photos/69d81fc99011397f817a1986/master/pass/OpenAI-Backs-Bill-That-Lets-AI-Labs-Dodge-Liability-for-Critical-Harms-Business-2244268254.jpg",
+        "title": "OpenAI Backs Bill That Would Limit Liability for AI-Enabled Mass Deaths or Financial Disasters",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Lunduke Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-10T21:12:59.016341+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-10T19:56:08+00:00",
+        "description": "Anthropic announces Claude Mythos Al. Says it's too powerful for the public to see it.  Then partners with The Linux Foundation to use it to develop the Linux kernel.\n\nMore from The Lunduke Journal:\nhttps://lunduke.com/",
+        "id": 5221320,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=hLTLA-JL8Rg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 616,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkK9UDm_ZNrq_rIXCz3xCGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/hLTLA-JL8Rg/hqdefault.jpg",
+        "title": "Anthropic & Linux Foundation Sitting in a Tree...",
+        "vote": 0
+    }
+]

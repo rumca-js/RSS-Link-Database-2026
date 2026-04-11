@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-10T04:42:14.748013+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-10T04:31:59+00:00",
+        "description": "F&#38;S Elektronik Systeme has introduced an M.2 AI accelerator based on the NXP Ara-240, designed to offload inference workloads from embedded systems. It targets edge applications requiring low-latency processing, including machine vision, multimodal inference, and real-time analytics. The accelerator delivers up to 40 TOPS of AI performance through the Ara-240 architecture, which integrates multiple neural [&#8230;]",
+        "id": 5214656,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/fs-m-2-ai-accelerator-uses-nxp-ara-240-for-edge-inference-workloads",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "F&S M.2 AI Accelerator Uses NXP Ara-240 for Edge Inference Workloads",
+        "vote": 0
+    }
+]
