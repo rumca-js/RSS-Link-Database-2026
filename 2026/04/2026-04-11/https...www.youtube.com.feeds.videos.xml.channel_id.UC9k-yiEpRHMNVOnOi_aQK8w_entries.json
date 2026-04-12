@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Inside Edition",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-11T13:59:53.633164+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-11T13:00:03+00:00",
+        "description": "Jennifer Linares from Virginia is battling a rare autoimmune disease that comes with one of the most inconvenient side effects. Dermatomyositis causes muscle weakness and painful rashes on the skin, according to the Cleveland Clinic. One of the side effects Jenn endures is that her skin has become photosensitive, so she's allergic to the sun. She shares her story with Inside Edition Digital's Andrea Swindall.",
+        "id": 5225639,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=aUC9922G1AE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 719,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9k-yiEpRHMNVOnOi_aQK8w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/aUC9922G1AE/hqdefault.jpg",
+        "title": "Virginia Woman's Rare Autoimmune Disease Makes Her Allergic To Sun",
+        "vote": 0
+    }
+]

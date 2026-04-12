@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-11T12:22:40.498695+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-11T11:00:31+00:00",
+        "description": "Ready to become a certified watsonx Data Scientist? Register now and use code IBMTechYT20 for 20% off of your exam \u2192 https://ibm.biz/BdpjWN\n\nLearn more about Technical Debt here \u2192 https://ibm.biz/BdpjW7\n\n\u26a0\ufe0f What happens when AI takes off before it's ready? Jeff Crume breaks down the causes, risks, and solutions to AI technical debt, covering data quality, model evaluation, scalability, and governance. Learn how to tackle AI technical debt and build smarter systems!\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/BdpjWW\n\n#ai #technicaldebt #machinelearning #aiprojects",
+        "id": 5225133,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=DgXV8QSlI4U",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/DgXV8QSlI4U/hqdefault.jpg",
+        "title": "What is AI Technical Debt? Key Risks for Machine Learning Projects",
+        "vote": 0
+    }
+]

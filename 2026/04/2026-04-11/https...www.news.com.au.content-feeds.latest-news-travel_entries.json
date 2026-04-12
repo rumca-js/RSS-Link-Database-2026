@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-11T23:59:37.809415+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-11T23:59:34.599535+00:00",
+        "description": "A seven-year-old girl\u2019s body has been pulled from the water in a school holiday tragedy in Queensland.",
+        "id": 5228695,
+        "language": "en-au",
+        "link": "https://www.news.com.au/travel/travel-updates/incidents/7yo-girl-dead-in-queensland-drowning-tragedy/news-story/25aeb38215d976279c8097c9ce05a829?from=rss-basic",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 409,
+        "source_url": "https://www.news.com.au/content-feeds/latest-news-travel",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://content.api.news/v3/images/bin/7d234f85b85d8add0dcc9ec1d16947e6?width=320",
+        "title": "7yo girl dead in drowning tragedy",
+        "vote": 0
+    }
+]

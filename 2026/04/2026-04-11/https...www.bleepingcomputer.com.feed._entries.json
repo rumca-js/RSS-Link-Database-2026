@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Sergiu Gatlan",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-11T14:55:05.368170+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-11T10:20:40+00:00",
+        "description": "An international law enforcement action led by the U.K.'s National Crime Agency (NCA) has identified over 20,000 victims of cryptocurrency fraud across Canada, the United Kingdom, and the United States. [...]",
+        "id": 5225967,
+        "language": "en-US",
+        "link": "https://www.bleepingcomputer.com/news/security/police-identifies-20-000-victims-in-international-crypto-fraud-crackdown",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 40,
+        "source_url": "https://www.bleepingcomputer.com/feed/",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Over 20,000 crypto fraud victims identified in international crackdown",
+        "vote": 0
+    }
+]

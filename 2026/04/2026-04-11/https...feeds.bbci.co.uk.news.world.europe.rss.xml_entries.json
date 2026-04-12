@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-11T20:17:15.282914+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-11T18:55:40+00:00",
+        "description": "The far-right party is riding high in the opinion polls in the eastern state of Saxony-Anhalt.",
+        "id": 5227641,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/cwy3wwgyd6do",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 523,
+        "source_url": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0752/live/9cda8020-35c9-11f1-aa65-43b95e4e356e.jpg",
+        "title": "Germany's far-right AfD adopts 'radical' manifesto ahead of key polls",
+        "vote": 0
+    }
+]
