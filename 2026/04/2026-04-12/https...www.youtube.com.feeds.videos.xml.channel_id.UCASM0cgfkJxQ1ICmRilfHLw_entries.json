@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Patrick Boyle",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-12T14:28:35.773287+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-12T13:30:06+00:00",
+        "description": "\ud83d\ude80 Streamline your entire business with Odoo \u2014 the all-in-one, easy-to-use ERP platform that centralizes, automates, and scales your operations from sales and accounting to inventory and eCommerce \ud83d\udcc8\u2699\ufe0f. Try Odoo for 15 days (no credit card required) \ud83d\udc49\ud83c\udffb https://www.odoo.com/r/t7p\n\nIn October 2021, Mark Zuckerberg stood in front of the world and announced that the future of human interaction would be something called the metaverse. He was so confident about this that he renamed his three-billion-user company after it. Over the following four years, Meta spent $88 billion building a virtual world that almost nobody visited, featuring avatars that \u2014 for reasons that were never fully explained \u2014 did not have legs. Wall Street predicted five billion users. Consultants declared it too big to ignore. A man paid $450,000 to become Snoop Dogg's virtual neighbour. The metaverse peaked at around 900 daily users. This is the story of what went wrong, and what it cost.\n\nPatrick's Books:\nStatistics Fo",
+        "id": 5232029,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=8BaSBjxNg-M",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 732,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCASM0cgfkJxQ1ICmRilfHLw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/8BaSBjxNg-M/hqdefault.jpg",
+        "title": "Mark Zuckerberg Spent $88 Billion on a World With No Legs",
+        "vote": 0
+    }
+]

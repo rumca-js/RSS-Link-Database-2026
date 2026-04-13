@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Lunduke Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-12T18:39:08.110930+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-12T17:46:25+00:00",
+        "description": "When did Programmers and Engineering Manager forget the hard-learned truths of software development? Did every engineer with experience retire recently?\n\nJoel on Software:\nhttps://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/\n\nMore from The Lunduke Journal:\nhttps://lunduke.com/",
+        "id": 5233399,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=I-45xve554I",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 616,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkK9UDm_ZNrq_rIXCz3xCGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/I-45xve554I/hqdefault.jpg",
+        "title": "The Worst Software Engineering Mistake: Deciding to Rewrite the Code from Scratch",
+        "vote": 0
+    }
+]

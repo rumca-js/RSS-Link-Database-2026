@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ThioJoe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-12T01:26:12.650118+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-12T00:15:17+00:00",
+        "description": "I don't know if ANY software is safe anymore.\n\nRecently the official download website for popular software CPU-Z and HWMonitor was compromised, and the official download links were redirected to malware. The malicious files were named to impersonate the software. Both the installer and portable versions were compromised. In this video I talk about how it happened, what the malicious versions looked like, and more.\n\n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\n\u2022 My Desktop Wallpapers \u21e8 https://thiojoe.art/\n\u21e8 http://Instagram.com/ThioJoe\n\u21e8 http://Twitter.com/ThioJoe\n\u21e8 http://Facebook.com/ThioJoeTV\n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac",
+        "id": 5229015,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=uDefSgWhwRw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 366,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQSpnDG3YsFNf5-qHocF-WQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/uDefSgWhwRw/hqdefault.jpg",
+        "title": "They Hacked CPU-Z -- Were You Infected?",
+        "vote": 0
+    }
+]

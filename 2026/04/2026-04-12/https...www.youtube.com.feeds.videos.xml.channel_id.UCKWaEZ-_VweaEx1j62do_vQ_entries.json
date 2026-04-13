@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-12T12:59:47.500371+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-12T11:00:55+00:00",
+        "description": "Ready to become a certified z/OS v3.x Administrator? Register now and use code IBMTechYT20 for 20% off of your exam \u2192 https://ibm.biz/BdpZc9\n\nLearn more about Identity and Access Management (IAM) here \u2192 https://ibm.biz/BdpZcC\n\n\ud83d\ude80 How can IAM secure dynamic AI systems? Grant Miller explains 4 steps to manage agentic IAM, covering accountability, least privilege enforcement, and real-time detection. Learn how maturity models can safeguard data, prevent abuse, and futureproof AI workflows. \n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/BdpZcQ\n\n#ai #iam #agenticai #aiaccountability",
+        "id": 5231451,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=e8ela6puxig",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/e8ela6puxig/hqdefault.jpg",
+        "title": "IAM for AI: 4 Steps to Secure and Futureproof Agentic Systems",
+        "vote": 0
+    }
+]

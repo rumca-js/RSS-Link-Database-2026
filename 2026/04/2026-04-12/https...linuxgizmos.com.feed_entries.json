@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-12T03:12:31.681802+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-12T02:10:57+00:00",
+        "description": "Waveshare recently featured the PocketTerm35-Pi5, a handheld Linux terminal based on the Raspberry Pi 5, with an integrated display, keyboard, and battery in a compact form factor. It supports command-line interaction, development workflows, and portable system access without external peripherals. Internally, the system includes a Raspberry Pi 5 (1GB variant in this configuration), along with [&#8230;]",
+        "id": 5229341,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/pocketterm35-pi5-handheld-linux-terminal-with-raspberry-pi-5-and-3-5-display",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "PocketTerm35-Pi5 Handheld Linux Terminal with Raspberry Pi 5 and 3.5\u2033 Display",
+        "vote": 0
+    }
+]

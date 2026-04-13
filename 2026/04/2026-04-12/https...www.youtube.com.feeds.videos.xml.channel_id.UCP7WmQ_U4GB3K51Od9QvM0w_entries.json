@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "David Bombal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-12T16:11:52.740972+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-12T14:00:39+00:00",
+        "description": "Are AI attackers winning the cybersecurity war? In this video, I sit down with Daniel Miessler, a 25-year security veteran, to discuss the terrifying reality of AI-driven cyber attacks and the massive advantage hackers have today. But it is not all doom and gloom. Daniel introduces his open-source project, PAI (Personal AI Infrastructure), demonstrating how you can build a customized, local AI assistant to automate your workflow, defend your data, and level up your tech skills. We cover everything from AI agents conducting prompt injection CTFs (like Gandalf) in real-time, to the future of work and why the ultimate goal of many corporations is zero human employees. Whether you are worried about AI replacing your job or you want to learn how to leverage local LLMs, Linux, and agentic AI to become an unstoppable force, this conversation is your blueprint for surviving and thriving in the 2026 tech landscape.\n\nGo here to get PAI for free: https://github.com/danielmiessler/Personal_AI_Inf",
+        "id": 5232593,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=OvLCY2F_3MA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 984,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP7WmQ_U4GB3K51Od9QvM0w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/OvLCY2F_3MA/hqdefault.jpg",
+        "title": "Hackers are using AI to win. 3 ways to STOP them in 2026.",
+        "vote": 0
+    }
+]

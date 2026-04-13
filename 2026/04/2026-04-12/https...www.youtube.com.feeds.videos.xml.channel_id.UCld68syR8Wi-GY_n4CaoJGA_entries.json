@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-12T20:24:14.840609+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-12T17:30:28+00:00",
+        "description": "You wouldn't often think that an entire C function would need to be eliminated from the kernel but recently exactly that was done.\n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\nMastodon Post: https://hachyderm.io/@kees/116282745861595200\n2020 Work: https://github.com/KSPP/linux/issues/90\nRecent Merge: https://git.kernel.org/pub/scm/linux/kernel/git/kees/linux.git/commit/?h=dev/v7.0-rc2/strncpy&id=be568570cf71c5db5d6039ac077d90e3767c2fe1\nStrncpy: https://stackoverflow.com/questions/1258550/why-should-you-use-strncpy-instead-of-strcpy\nOlder Post: https://randomascii.wordpress.com/2013/04/03/stop-using-strncpy-already/\n\n=========Video Platforms==========\n\ud83c\udfa5 React: https://www.youtube.com/@BrodieRobertsonReacts\n\ud83c\udfa5 Podcast: https://techovertea.xyz/youtube\n\ud83c\udfae Gaming: https://b",
+        "id": 5233998,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=yiuQB1Dq3Xk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/yiuQB1Dq3Xk/hqdefault.jpg",
+        "title": "The Linux Kernel Eliminated This Entire C Function",
+        "vote": 0
+    }
+]

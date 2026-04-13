@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Eduard Kovacs",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-12T08:23:38.489961+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-12T07:45:26+00:00",
+        "description": "<p>The vulnerability is tracked as CVE-2026-34621 and Adobe has confirmed that it can be exploited for arbitrary code execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/adobe-patches-reader-zero-day-exploited-for-months/\">Adobe Patches Reader Zero-Day Exploited for Months</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+        "id": 5230297,
+        "language": "en-US",
+        "link": "https://www.securityweek.com/adobe-patches-reader-zero-day-exploited-for-months",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 299,
+        "source_url": "https://www.securityweek.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Adobe Patches Reader Zero-Day Exploited for Months",
+        "vote": 0
+    }
+]

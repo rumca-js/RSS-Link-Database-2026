@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mateusz Chrobok",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-12T16:36:00.324325+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-12T16:00:36+00:00",
+        "description": "\ud83e\udd8b\u00a0Projekt Glasswing to nowy produkt Anthropica, kt\u00f3ry dost\u0119pny jest - ze wzgl\u0119d\u00f3w bezpiecze\u0144stwa - praktycznie jedynie dla najwi\u0119kszych \u015bwiatowych korporacji. Nie ma jednak - przynajmniej oficjalnie - zagra\u017ca\u0107\u00a0ca\u0142ej ludzko\u015bci, a jest po prostu odpowiedzi\u0105 na ostatnie, dynamiczne zmiany na rynku podatno\u015bci w oprogramowaniu. Czy tak jest w rzeczywisto\u015bci?\n\n\ud83d\udc49\ud83c\udffb Przygotowuj\u0119 kurs o zabezpieczaniu LLM-\u00f3w. Premiera w maju. Zapisz si\u0119 na list\u0119 zainteresowanych: https://bezpiecznellm.uczmnie.pl/listazainteresowanych \ud83d\udc48\ud83c\udffb autopromocja \n \n\u0179r\u00f3d\u0142a:\n\ud83e\udd8b\u00a0Project Glasswing\nhttps://www.anthropic.com/glasswing\n\n\u23f0\u00a0From Vulnerability to Exploitation\nhttps://zerodayclock.com/\n\n\ud83d\udd0d\u00a0Assessing Claude Mythos Preview\u2019s cybersecurity capabilities\nhttps://red.anthropic.com/2026/mythos-preview/\n\n\ud83e\uddfe\u00a0System Card: Claude Mythos Preview\nhttps://www-cdn.anthropic.com/08ab9158070959f88f296514c21b7facce6f52bc.pdf\n\n\ud83d\udc26\u00a0Zvi Mowshowitz: Claude Mythos is different\nhttps://x.com/TheZvi/status/2042356147043406066\n\n\u274c\u00a0Zvi Mowshowitz: Th",
+        "id": 5232729,
+        "language": "pl-PL",
+        "link": "https://www.youtube.com/watch?v=Mt8Ox0M_Y-w",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 211,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTTZqMWBvLsUYqYwKTdjvkw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/Mt8Ox0M_Y-w/hqdefault.jpg",
+        "title": "Bezpiecze\u0144stwo zn\u00f3w staje si\u0119 tajemnic\u0105. #Mythos.",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Techno Tim",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-12T16:07:54.747618+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-12T15:39:40+00:00",
+        "description": "I set out to build a real 3-2-1 backup system for my homelab\u2026 and it turned into a way bigger project than expected. What started as offsite backup for 30TB of data ended with a second TrueNAS server, a full NAS rebuild, and a third backup copy with a much simpler restore experience.\n\nVideo Notes: https://technotim.com/posts/321-backup/\n\nNote: Ubiquiti previously sent me the UNAS months for testing, but this video is not sponsored and they had no input on this video.\n\nMerch Shop \ud83d\udecd\ufe0f: https://l.technotim.com/shop\nSupport me on Patreon: https://www.patreon.com/technotim\nSponsor me on GitHub: https://github.com/sponsors/timothystewart6\nSubscribe on Twitch: https://www.twitch.tv/technotim\nBecome a YouTube member: https://www.youtube.com/channel/UCOk-gHyjcWZNj3Br4oxwh0A/join\nGear Recommendations: https://l.technotim.com/gear\nGet Help in Our Discord Community: https://l.technotim.com/discord\n2nd channel: https://www.youtube.com/@TechnoTimTinkers\n\n(Affiliate links may be included in this desc",
+        "id": 5232571,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=wwt9dDhsgJw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 911,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCOk-gHyjcWZNj3Br4oxwh0A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/wwt9dDhsgJw/hqdefault.jpg",
+        "title": "I Built My Own Offsite 3-2-1 Backup System",
+        "vote": 0
+    }
+]

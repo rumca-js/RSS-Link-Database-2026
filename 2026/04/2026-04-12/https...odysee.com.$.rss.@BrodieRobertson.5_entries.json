@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-12T18:18:19.359758+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-12T17:30:28+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/yiuQB1Dq3Xk\" width=\"480\" alt=\"thumbnail\" title=\"The Linux Kernel Eliminated This Entire C Function\" /></p>You wouldn't often think that an entire C function would need to be eliminated from the kernel but recently exactly that was done.<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />Mastodon Post: https://hachyderm.io/@kees/116282745861595200<br />2020 Work: https://github.com/KSPP/linux/issues/90<br />Recent Merge: https://git.kernel.org/pub/scm/linux/kernel/git/kees/linux.git/commit/?h=dev/v7.0-rc2/strncpy&id=be568570cf71c5db5d6039ac077d90e3767c2fe1<br />Strncpy: https://stackoverflow.com/questions/1258550/why-should-you-use-strncpy-instead-of-strcpy<br />Older Post: https://randoma",
+        "id": 5233294,
+        "language": "en",
+        "link": "https://odysee.com/the-linux-kernel-eliminated-this-entire:f4ee9c84f8c66cb8f74005b901bf9f7b0eb1ed2c",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/yiuQB1Dq3Xk",
+        "title": "The Linux Kernel Eliminated This Entire C Function",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-12T12:52:05.538210+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-12T12:48:01+00:00",
+        "description": "The world waits for Trump's verdict after the talks failed to yield a deal, writes the BBC's Lyse Doucet.",
+        "id": 5231423,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/c5y943x2g8qo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 525,
+        "source_url": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ad6/live/d13b6fd0-366b-11f1-879d-1b2f5c3919b8.jpg",
+        "title": "After Iran talks falter, will Trump escalate or negotiate?",
+        "vote": 0
+    }
+]

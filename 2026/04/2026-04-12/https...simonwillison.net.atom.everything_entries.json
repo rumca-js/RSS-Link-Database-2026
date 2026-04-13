@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Simon Willison",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-13T02:50:52.704628+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-12T23:57:53+00:00",
+        "description": null,
+        "id": 5235648,
+        "language": "en-us",
+        "link": "https://simonwillison.net/2026/Apr/12/mlx-audio/#atom-everything",
+        "manual_status_code": 0,
+        "page_rating": 28,
+        "page_rating_contents": 87,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 423,
+        "source_url": "https://simonwillison.net/atom/everything",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Gemma 4 audio with MLX",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Dave's Garage",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-12T14:49:11.901366+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-12T14:03:13+00:00",
+        "description": "Dave uses a PDP-11 to train a real Neural Network complete with Transformers and Attention so you can see them at their most basic.\n\nGet the shirt: https://www.teepublic.com/t-shirt/25242239-digital-equipment-corporation-1957",
+        "id": 5232133,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=OUE3FSIk46g",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 907,
+        "source_url": "https://youtube.com/channel/UCNzszbnvQeFzObW0ghk0Ckw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/OUE3FSIk46g/hqdefault.jpg",
+        "title": "Training a Neural Network on a Vintage PDP-11 from 1979!",
+        "vote": 0
+    }
+]
