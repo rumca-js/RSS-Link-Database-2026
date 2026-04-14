@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Moon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-13T14:49:34.386049+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-13T14:14:32+00:00",
+        "description": "We\u2019re hiring writers.\n\nIf you love this style of content and think you could write scripts that belong here, apply below.\nSerious writers only.\n\n\ud83d\udc49 Apply here: https://forms.gle/f8wKd1xmW4RgoH5f6",
+        "id": 5239463,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=Yootr6Vf7E0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 216,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCmFeOdJI3IXgTBDzqBLD8qg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/Yootr6Vf7E0/hqdefault.jpg",
+        "title": "The CIA Wrote The Movies You Grew Up On",
+        "vote": 0
+    }
+]

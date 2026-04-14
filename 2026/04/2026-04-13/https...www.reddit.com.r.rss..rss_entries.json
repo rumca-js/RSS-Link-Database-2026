@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/shimroot",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-13T08:05:43.353695+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-13T07:55:58+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>I vibecoded an extension and interface on top of FreshRSS. I use an LLM to group similar articles and present them in a instastory-like layout so I can go through the most important topics in the last 24h.</p> <p>Not open for registration, what you see is what you get. Trying to understand if others would be interested in something like this before commiting to building something bigger.</p> <p>Address is <a href=\"https://toffu.app\">https://toffu.app</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/shimroot\"> /u/shimroot </a> <br/> <span><a href=\"https://www.reddit.com/r/rss/comments/1sk486b/instastorylike_interface_for_freshrss/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rss/comments/1sk486b/instastorylike_interface_for_freshrss/\">[comments]</a></span>",
+        "id": 5236826,
+        "language": "en",
+        "link": "https://www.reddit.com/r/rss/comments/1sk486b/instastorylike_interface_for_freshrss",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 482,
+        "source_url": "https://www.reddit.com/r/rss/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Instastory-like interface for FreshRSS",
+        "vote": 0
+    }
+]

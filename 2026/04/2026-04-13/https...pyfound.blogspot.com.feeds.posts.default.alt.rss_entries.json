@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-13T19:24:45.567720+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-13T18:01:00+00:00",
+        "description": "<p><span style=\"font-family: Arial, sans-serif; font-size: 11pt; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-emoji: normal; font-variant-numeric: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;\">After nearly five wonderful years at the Python Software Foundation as the inaugural CPython Developer in Residence, it's time for me to move on. I feel honored and honestly so lucky to have had the opportunity to kick off the program that now includes several wonderful full-time engineers. I'm glad to see the program left in good hands. The vacancy created by my departure will be filled after PyCon US as the PSF is currently focused on delivering a strong event. I'm happy to share that </span><a href=\"https://about.facebook.com/meta/\" style=\"text-decoration-line: none;\"><span style=\"color: #1155cc; font-family: Arial, sans-serif; font-size: 11pt; font-variant-alternates: normal; font-variant-east-asian: normal",
+        "id": 5241938,
+        "language": "en",
+        "link": "https://pyfound.blogspot.com/2026/04/reflecting-on-five-years-as-psfs-first.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 267,
+        "source_url": "https://pyfound.blogspot.com/feeds/posts/default?alt=rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEhtUayHgoeMYEyB6XwbVMZscpChzV4510xMgphpi29hahrGN-rmUW3GzIfn892orljnqRI7_P_EXA04oGyJWP1hm5uM9O233mYug1i8rEFbrb_aiHjKBNNRhL19cP1IL7ypxT099EbUjxsXkH7Q8lIlbJWPcoEfFU5so7svOtUvs0ABF75NeQ=w400-h400",
+        "title": "Reflecting on Five Years as the PSF\u2019s First CPython Developer in Residence",
+        "vote": 0
+    }
+]

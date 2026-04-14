@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Lon.TV",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-13T23:58:22.974076+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-13T22:45:01+00:00",
+        "description": "Two of my favorite retro machines of all time, the 3DO and the Apple IIgs, now have working beta cores running on the MiSTer's FPGA. They still have some bugs to work out, but so far things are looking great. See more MiSTer - https://www.youtube.com/playlist?list=PLCZHp4d1HnIsu43ZJ6R3cbDYgLH5ZQULh and subscribe! http://lon.tv/s\n\n3DO Core: https://lon.tv/3docore\nIIGS Core: https://lon.tv/iigscore\n\nVIDEO INDEX:\n00:00 - Intro\n00:52 - Booting up Road Rash 3DO\n03:15 - Wing Commander 3\n04:31 - Total Eclipse\n04:53 - Captain Quazar Demo\n05:00 - Space Hulk Demo\n05:10 - Return fire\n05:25 - CRT compatibilty\n05:44 - Games that don't work yet\n06:16 - Apple IIgs\n\nVisit my Blog! https://blog.lon.tv\n\nSubscribe to my email lists! \nWeekly Breakdown of Posted Videos:  - https://lon.tv/email\nDaily Email From My Blog Posts! https://lon.tv/digest\n\nSee my second channel for supplementary content : http://lon.tv/extras\n\nFollow me on Amazon too! http://lon.tv/amazonshop\n\nJoin the Facebook group to connect wi",
+        "id": 5243712,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=lUFOruurasw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 199,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCymYq4Piq0BrhnM18aQzTlg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/lUFOruurasw/hqdefault.jpg",
+        "title": "New MiSTer Cores! 3DO and Apple IIgs FPGA Betas Show Promise",
+        "vote": 0
+    }
+]

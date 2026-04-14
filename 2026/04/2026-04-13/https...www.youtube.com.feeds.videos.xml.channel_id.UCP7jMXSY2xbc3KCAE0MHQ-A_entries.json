@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Google DeepMind",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-13T11:35:00.908278+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-13T09:30:33+00:00",
+        "description": "Gemma 4 is our newest family of open models. You can now run advanced reasoning, native vision and audio, and agentic tool-use on anything from high-end workstations to mobile phones. Learn more \u2192  https://deepmind.google/models/gemma/gemma-4/",
+        "id": 5237990,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/6VV5Gvmtrl4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 934,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP7jMXSY2xbc3KCAE0MHQ-A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/6VV5Gvmtrl4/hqdefault.jpg",
+        "title": "What\u2019s new in Gemma 4?",
+        "vote": 0
+    }
+]

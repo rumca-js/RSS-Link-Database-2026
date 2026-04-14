@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Dell Cameron",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-13T16:15:57.441113+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-13T16:01:30+00:00",
+        "description": "More than 70 organizations, including the ACLU, EPIC, and Fight for the Future, say the AI smart glasses feature would endanger abuse victims, immigrants, and LGBTQ+ people.",
+        "id": 5240189,
+        "language": "en-US",
+        "link": "https://www.wired.com/story/meta-ray-ban-oakley-smart-glasses-no-face-recognition-civil-society",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 396,
+        "source_url": "https://www.wired.com/feed/category/business/latest/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media.wired.com/photos/69dd120fd5415cb89341a838/master/pass/GettyImages-2265766888.jpg",
+        "title": "Meta Is Warned That Facial Recognition Glasses Will Arm Sexual Predators",
+        "vote": 0
+    }
+]

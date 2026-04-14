@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Engineezy",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-13T18:07:57.426522+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-13T17:41:15+00:00",
+        "description": "The Square Drawing Mechanism\n\u2026\nCheck out SOLIDWORKS for Makers in my profile and use code ENGINEEZY for 20% off @solidworks  @dassaultsystemes \n\u2022\u2022\u2022\nRotating motion naturally makes circles but getting a mechanism to draw sharp 90\u00b0 corners from a spinning motor is a bit more complicated. The secret is a sliding connector link driven by the motor, paired with an elastic that pushes the carriage on an x-y gantry to its extremes. The elastic is what forces the sharp corners instead of rounding them off. I Designed the whole thing in @SolidWorks, including a latch system that drops the pen down when you're ready to draw.\n\u2022\u2022\u2022\nWhat shape should I draw next?\n\u2022\u2022\u2022\n#engineezy #mechanicalengineering #engineering #mechanisms #solidworks #3dprinting #drawingmachine #ad",
+        "id": 5241295,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/i-HaSwbO-Ys",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 858,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSksodwjNeOQ3Oywr1G4Nag",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/i-HaSwbO-Ys/hqdefault.jpg",
+        "title": "This Mechanism Draws a Square",
+        "vote": 0
+    }
+]

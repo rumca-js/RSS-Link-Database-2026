@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-13T17:06:29.118112+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-13T15:27:46+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nPersistence Squared: Persisting Persistent Data Structures - Juan Pedro Bolivar Puente - CppCon 2025\n---\n\nPersistent data structures are used to implement immutable containers, so that they are manipulated by producing new values, leaving the old ones intact. To do so efficiently, these new values do not contain a copy of the whole structure. Instead only the changed parts are created new, and the rest of the structure is shared internally between old and new values. We call this  structural sharing  , and is crucial feature to implement immutable data structures efficiently. It opens the door to radically simpler software architectures, specially for interactive applications or highly concurrent systems. \n \nHowever, structural sharing is traditionally preserved in memory only. When serializing multiple values to disk, these are linearized\u2014-for example, by writing out sequences as JSON arrays\u2014-losing whatever sharing may exist between these values. A similar t",
+        "id": 5240713,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=HmmRVdYMP-g",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/HmmRVdYMP-g/hqdefault.jpg",
+        "title": "Persistence Squared: Persisting Persistent Data Structures - Juan Pedro Bolivar Puente - CppCon 2025",
+        "vote": 0
+    }
+]

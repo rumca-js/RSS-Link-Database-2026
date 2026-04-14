@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "GitHub",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-13T15:16:15.988432+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-13T15:01:05+00:00",
+        "description": "Did you know you can host your static websites completely for free? This episode of our beginner series covers everything you need to know about getting started with GitHub Pages. Follow along as we select a project, set up deployment through GitHub Actions, and configure a custom domain. It is a great way to showcase your web projects to the world. \n\n#GitHubPages #GitHub #WebsiteHosting\n\nGitfolio: https://github.com/github-samples/gitfolio?utm_source=youtube-episode-4&utm_medium=video&utm_campaign=gfb-s3-2026\n\n\u2014 CHAPTERS \u2014 \n\n00:00 Introduction to GitHub pages \n00:55 Deploy from a branch \n01:26 Deploy using GitHub Actions \n02:44 Add a custom domain \n03:15 Enforce HTTPS \n03:31 Recap and outro\n\nStay up-to-date on all things GitHub by connecting with us:\n\nYouTube: https://gh.io/subgithub\nBlog: https://github.blog\nX: https://twitter.com/github\nLinkedIn: https://linkedin.com/company/github\nInsider newsletter: https://resources.github.com/newsletter/\nInstagram: https://www.instagram.com/git",
+        "id": 5239722,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=b2r9Cdvssi0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 1005,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7c3Kb6jYCRj4JOHHZTxKsQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/b2r9Cdvssi0/hqdefault.jpg",
+        "title": "Getting started with GitHub Pages for beginners | Tutorial",
+        "vote": 0
+    }
+]
