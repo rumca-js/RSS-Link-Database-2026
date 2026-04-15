@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/JohnDisinformation",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-14T23:08:30.249272+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-14T22:54:57+00:00",
+        "description": "<table> <tr><td> <a href=\"https://www.reddit.com/r/developer/comments/1slodf3/latest_phantom_tide_changes_stable_workspace/\"> <img src=\"https://external-preview.redd.it/lv3pJwG2qJZTWPKy1nmapU5j_HxmwqTd-oouUEf-QLQ.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=edbc3e9e6e5a0f923186ab664e0b0ad6f7377681\" alt=\"Latest Phantom Tide changes: stable workspace, better aircraft search, stronger maritime context\" title=\"Latest Phantom Tide changes: stable workspace, better aircraft search, stronger maritime context\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Built a fairly big update to Phantom Tide and I am honestly proud of how this is shaping up. Hoping it is alright to share here. This release was focused on making the product feel more like a serious analyst workspace and less like a dashboard that constantly fights the user.</p> <p>The biggest change is that the browser now defaults to a stable workspace. Instead of silently reapplying every visible change on a timer, Phantom Tid",
+        "id": 5253285,
+        "language": "en",
+        "link": "https://www.reddit.com/r/developer/comments/1slodf3/latest_phantom_tide_changes_stable_workspace",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 508,
+        "source_url": "https://www.reddit.com/r/developer/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://external-preview.redd.it/lv3pJwG2qJZTWPKy1nmapU5j_HxmwqTd-oouUEf-QLQ.png?width=640&crop=smart&auto=webp&s=edbc3e9e6e5a0f923186ab664e0b0ad6f7377681",
+        "title": "Latest Phantom Tide changes: stable workspace, better aircraft search, stronger maritime context",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "JRE Clips",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-14T17:27:05.463089+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-14T17:01:18+00:00",
+        "description": "Taken from JRE #2482 w/Duncan Trussell\nYouTube: https://youtu.be/vrRJimixWEc\nJRE on Spotify: https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk",
+        "id": 5250662,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=xSPlwSpxFm4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 157,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnxGkOGNMqQEUMvroOWps6Q",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/xSPlwSpxFm4/hqdefault.jpg",
+        "title": "\"Spend It or Lose It\" - Former Navy SEAL Explains How Military Budgets Work",
+        "vote": 0
+    }
+]

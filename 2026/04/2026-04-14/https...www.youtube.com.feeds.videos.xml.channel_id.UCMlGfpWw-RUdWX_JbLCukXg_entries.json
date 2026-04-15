@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-14T15:33:35.357055+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-14T15:02:08+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nCTRACK: C++ Performance Tracking and Bottleneck Discovery - Grischa Hauser - CppCon 2025\n---\n\nFinding performance bottlenecks in complex C++ applications has always been a challenge\u2014existing tools often require significant integration effort, add substantial runtime overhead, or lack the granularity needed for precise insights. This session introduces CTRACK, an open-source, header-only C++17 library born from our frustration with these limitations, which has since gained significant traction in the C++ community, even contributing to performance improvements in major projects like ClickHouse. \n \nCTRACK emerged from our experience managing large legacy codebases where traditional profilers failed us: we needed something with minimal integration overhead, near-zero runtime cost, and the ability to work seamlessly in both development and production environments. I'll share our journey developing CTRACK, demonstrating how its unique approach of simply adding a on",
+        "id": 5249519,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=en4OQvZePqg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/en4OQvZePqg/hqdefault.jpg",
+        "title": "CTRACK: C++ Performance Tracking and Bottleneck Discovery - Grischa Hauser - CppCon 2025",
+        "vote": 0
+    }
+]

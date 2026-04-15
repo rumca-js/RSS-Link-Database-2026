@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Dave's Garage",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-14T19:50:36.659049+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-14T18:41:28+00:00",
+        "description": "What are the origins of the 6502 assembly code that you see onscreen through the Terminator's vision?  Dave traces its origins and explains its purpose.\n\nComments with question marks get answered on our weekly ShopTalk!:\nhttps://youtu.be/iT0T52OV9B8",
+        "id": 5251883,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=NebvccLHutQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 907,
+        "source_url": "https://youtube.com/channel/UCNzszbnvQeFzObW0ghk0Ckw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/NebvccLHutQ/hqdefault.jpg",
+        "title": "Terminator: The Story of the 6502 Code You See Onscreen",
+        "vote": 0
+    }
+]

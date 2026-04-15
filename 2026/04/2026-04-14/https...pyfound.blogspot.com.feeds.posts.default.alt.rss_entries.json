@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-14T14:30:10.029219+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-14T14:13:00+00:00",
+        "description": "<p>The PyCon US 2026 team has already covered some of the <a href=\"https://pycon.blogspot.com/2026/04/stories-from-pycon-us-hotels.html\">fun, unexpected, and meaningful reasons</a> you\u2019ll want to stay in the PyCon US hotel block. The PSF wants to use our blog to give a different angle, to keep being transparent with you, and share a little bit of real talk on the economics of holding a conference in the US at this moment in time. The short version is, if you\u2019re joining us in Long Beach, please book the official PyCon US hotels through your PyCon US 2026 dashboard, because bookings in our hotel block are critical to the economic viability of the event.</p><h2 style=\"text-align: left;\">Context on hotel bookings &amp; PyCon US</h2><p>For many years, PyCon US has relied on hotel booking commissions to help pay for our conference space. This helps us keep the event tickets affordable and to continue offering Travel Grants to community members who might not otherwise be able to attend PyCon",
+        "id": 5248842,
+        "language": "en",
+        "link": "https://pyfound.blogspot.com/2026/04/pycon-us-2026-hotels.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 267,
+        "source_url": "https://pyfound.blogspot.com/feeds/posts/default?alt=rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "PyCon US 2026: Why we're asking you to think about your hotel reservation",
+        "vote": 0
+    }
+]

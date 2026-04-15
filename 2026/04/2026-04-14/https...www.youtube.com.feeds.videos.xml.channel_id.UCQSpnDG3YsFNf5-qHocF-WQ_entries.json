@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ThioJoe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-14T15:50:39.768787+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-14T14:45:04+00:00",
+        "description": "This bug has existed for far too long, IT'S TIME TO STOP\n\nThere's a really annoying bug on YouTube where the overlay on videos you've partly watched is wrong. Often times it will show a video as being 100% fully watched, but it's not. You maybe watched only a part of the video, or often times you barely even started it. But I found other examples where even simply scrolling through the playlist would cause the progress bar to change quite randomly. YouTube really needs to fix this.\n\n\n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\n\u2022 My Desktop Wallpapers \u21e8 https://thiojoe.art/\n\u21e8 http://Instagram.com/ThioJoe\n\u21e8 http://Twitter.com/ThioJoe\n\u21e8 http://Facebook.com/ThioJoeTV\n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac",
+        "id": 5249624,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=WM7V93aeBk4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 366,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQSpnDG3YsFNf5-qHocF-WQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/WM7V93aeBk4/hqdefault.jpg",
+        "title": "YouTube MUST Fix This Stupid Annoying Bug",
+        "vote": 0
+    }
+]

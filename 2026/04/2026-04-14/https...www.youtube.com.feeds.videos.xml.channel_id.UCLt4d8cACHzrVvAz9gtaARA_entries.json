@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Neuralink",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-14T17:52:58.942819+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-14T16:56:28+00:00",
+        "description": "What is neuron degeneration? \n\nSkyler, a machine learning engineer at Neuralink, shares how brain-computer interfaces could bypass neural pathways that are broken due to ALS, helping restore the ability to speak to those who have lost it.\n\nWatch the full story here: https://youtu.be/u8mmn9lOIyw\n\nNote: Neuralink devices are investigational and are not commercially available or FDA approved. There are no guaranteed benefits from participating in a Neuralink clinical trial.",
+        "id": 5250817,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/kO6iakLQN0Y",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 874,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLt4d8cACHzrVvAz9gtaARA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/kO6iakLQN0Y/hqdefault.jpg",
+        "title": "Building Brain Interfaces For ALS",
+        "vote": 0
+    }
+]

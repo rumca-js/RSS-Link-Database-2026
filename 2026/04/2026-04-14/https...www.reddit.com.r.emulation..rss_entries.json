@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/HueponiK",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-14T15:12:07.623912+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-14T14:01:21+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>Swanstation didn&#39;t see much progress for a while. And beetlepsx_hw, as great as it its, still missing few things (i.e. supersample into 2x). So here are the instructions of how to build your own Goosestation from Duckstation: </p> <p><a href=\"https://codeberg.org/hueponik/goosestation-overlay\">https://codeberg.org/hueponik/goosestation-overlay</a> <a href=\"https://aur.archlinux.org/packages/goosestation-libretro\">https://aur.archlinux.org/packages/goosestation-libretro</a> </p> <p>Bonus features: - no$psx XBOO bios support - FMV crop to 16/9 - No Windows support Disclaimer: It&#39;s not thoroughly tested, so nothing is guaranteed to work</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/HueponiK\"> /u/HueponiK </a> <br/> <span><a href=\"https://www.reddit.com/r/emulation/comments/1sl9lcu/goosestation_libretro_core/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/emulation/comments/1sl9lcu/goosest",
+        "id": 5249248,
+        "language": "",
+        "link": "https://www.reddit.com/r/emulation/comments/1sl9lcu/goosestation_libretro_core",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 475,
+        "source_url": "https://www.reddit.com/r/emulation/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Goosestation libretro core",
+        "vote": 0
+    }
+]

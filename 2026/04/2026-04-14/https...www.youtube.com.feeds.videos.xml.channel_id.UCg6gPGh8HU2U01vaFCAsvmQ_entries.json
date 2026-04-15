@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Chris Titus Tech",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-14T12:16:43.241955+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-14T11:15:07+00:00",
+        "description": "After 25+ years as a systems administrator, I thought hacking an unpatched Windows 10 machine would be straightforward. I was wrong \u2014 and you deserve to know the truth.\nIn this video, I follow up on my previous Windows 10 end-of-life warning, this time putting Metasploit to the test against an unpatched Windows 10 1607 install using the infamous EternalBlue/DoublePulsar exploit. The results? Way more complicated than I expected.\nHere's what I cover:\n\nWhy a secure network stopped exploits cold \u2014 even with the firewall disabled\nThe reality of using Metasploit as a non-expert\nWhy staying on Windows 10 isn't the death sentence I made it sound like\nThe best options if you need to stay on Windows 10 (hint: LTSC + secure network)\nWhy Linux might be your best long-term move\n\nThe bottom line: Unpatched systems are still a risk \u2014 but the biggest vulnerability has always been the person sitting at the keyboard.\n\ud83d\udd14 Subscribe for more real-world cybersecurity breakdowns, sysadmin tips, and honest t",
+        "id": 5247669,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=YJhN7N8gtEc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 444,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCg6gPGh8HU2U01vaFCAsvmQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/YJhN7N8gtEc/hqdefault.jpg",
+        "title": "Sorry Windows 10 Users...",
+        "vote": 0
+    }
+]

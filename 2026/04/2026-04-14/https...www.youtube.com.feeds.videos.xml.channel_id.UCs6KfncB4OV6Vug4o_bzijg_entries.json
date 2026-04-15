@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Techlore",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-14T16:41:03.652322+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-14T16:00:09+00:00",
+        "description": "Age verification laws are spreading fast, but most coverage is either panic or dismissal, with very little clarity on what these laws say, who they apply to, or what they mean for free software. In this episode of Techlore Talks, Henry sits down with Jithendra Palepu, who has a legal background and Free Software Foundation Europe volunteer, to actually make sense of it. Age verification, age estimation, age gating, and self-declaration, why the difference matters enormously, and more. We examine what California's AB 1628 actually requires, we discuss why MidnightBSD's decision to ban California users may have backfired against the very principles it was trying to protect, and so much more. If you've had strong reactions to these laws but struggled to fully back them up, this one's for you.\n\nNote: Sorry about the video issues, our recording tool had a lot of problems, but audio is still solid \ud83d\ude4f\n\n\ud83d\udd17 SOURCES & LINKS\n\u2022 Free Software Foundation Europe: https://fsfe.org\n\u2022 FSFE \u2014 Youth Hackin",
+        "id": 5250128,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=5iKvQk7drd4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 327,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/5iKvQk7drd4/hqdefault.jpg",
+        "title": "The Age Verification Debate Nobody Is Getting Right (FSFE Interview)",
+        "vote": 0
+    }
+]

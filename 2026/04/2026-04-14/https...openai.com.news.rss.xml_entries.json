@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-14T20:44:08.053440+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-14T00:00:00+00:00",
+        "description": "OpenAI expands its Trusted Access for Cyber program, introducing GPT-5.4-Cyber to vetted defenders and strengthening safeguards as AI cybersecurity capabilities advance.",
+        "id": 5252285,
+        "language": "en",
+        "link": "https://openai.com/index/scaling-trusted-access-for-cyber-defense",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 953,
+        "source_url": "https://openai.com/news/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Trusted access for the next era of cyber defense",
+        "vote": 0
+    }
+]

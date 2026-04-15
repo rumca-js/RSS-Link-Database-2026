@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Matt Wolfe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-14T14:07:34.184476+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-14T13:13:29+00:00",
+        "description": "Why is NO ONE talking about this?!\n\nMeet GLM-5.1, the new open-source beast of a model from Z.ai that\u2019s officially outperforming industry giants like GPT-5.4 and Opus 4.6 on complex coding tasks.\n\nAND it\u2019s open-weight under the MIT license, so you can download it, fine-tune it, and run it locally. \n\nTo stay up-to-date on all the AI news, check out my weekly videos like the one linked here.\n\n#AI #AInews #TechNews #opensource",
+        "id": 5248669,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/0T3xgE_diIw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 933,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChpleBmo18P08aKCIgti38g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/0T3xgE_diIw/hqdefault.jpg",
+        "title": "Insane Open Source AI Model Just Dropped",
+        "vote": 0
+    }
+]
