@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Muhammad Zulhusni",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-15T09:52:31.410171+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-15T09:00:00+00:00",
+        "description": "<p>Software flaws can take months, sometimes years, to surface. AI bug discovery has the potential to speed up how vulnerabilities are found. New AI systems are finding bugs at a pace developers may struggle to match. Recent reporting by The Wall Street Journal says AI models can scan large codebases and in some cases generate [&#8230;]</p>\n<p>The post <a href=\"https://www.developer-tech.com/news/ai-is-accelerating-bug-discovery-faster-than-teams-can-respond/\">AI discovers bugs faster than teams can respond</a> appeared first on <a href=\"https://www.developer-tech.com\">Developer Tech News</a>.</p>",
+        "id": 5256414,
+        "language": "en-GB",
+        "link": "https://www.developer-tech.com/news/ai-is-accelerating-bug-discovery-faster-than-teams-can-respond",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 92,
+        "source_url": "https://www.developer-tech.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "AI discovers bugs faster than teams can respond",
+        "vote": 0
+    }
+]

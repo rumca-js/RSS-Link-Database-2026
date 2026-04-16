@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-15T12:29:01.948994+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-15T12:24:28+00:00",
+        "description": "The move will make it easier for the banks to conduct transactions in dollars.",
+        "id": 5257517,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/cd6llepv9gqo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 524,
+        "source_url": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5af/live/dcc72bc0-38c1-11f1-883f-2b010a576163.jpg",
+        "title": "US eases sanctions on state-run Venezuelan banks",
+        "vote": 0
+    }
+]

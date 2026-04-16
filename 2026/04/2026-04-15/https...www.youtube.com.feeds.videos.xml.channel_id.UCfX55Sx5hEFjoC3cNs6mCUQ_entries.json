@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Foundation",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-15T19:10:29.234612+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-15T18:07:03+00:00",
+        "description": "AI infrastructure is scaling to hundreds of thousands of automatically generated queries per second. But traditional search methods can't keep up\u2014inaccurate vector search results drive compute waste and hallucinations across your AI stack. This isn't just a performance problem. It's an architectural crisis that impacts every enterprise deploying agentic AI at scale.\nIn this exclusive interview with Swapnil Bhartiya at TFiR, Bianca Lewis, Executive Director of the OpenSearch Software Foundation, explains how OpenSearch has evolved from an AWS fork into critical AI infrastructure powering NVIDIA's agentic AI platform. Since joining the Linux Foundation 18 months ago, OpenSearch has doubled downloads to 1.4 billion, expanded to over 400 contributing companies, and secured enterprise deployments at Changi Airport and Atlassian.\nKey Topics Covered:\n \u2022 Hybrid search architecture combining lexical and semantic search to prevent AI hallucinations and reduce compute costs\n \u2022 AI-native telemetr",
+        "id": 5261104,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=yCLTYVPh4aI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 499,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfX55Sx5hEFjoC3cNs6mCUQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/yCLTYVPh4aI/hqdefault.jpg",
+        "title": "Why AI Infrastructure Needs OpenSearch to Prevent Hallucinations | Bianca Lewis, OpenSearch",
+        "vote": 0
+    }
+]

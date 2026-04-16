@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-15T20:39:27.227236+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-15T17:30:07+00:00",
+        "description": "After 21 years virtual desktops finally work properly on KDE Plasma as of version 6.7 but the world wasn't done by an existing KDE developer, instead by someone new who wanted to take on a challenge, this with all the other big changes coming and Plasma 6.7 looks amazing.\n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\nOld Video: https://www.youtube.com/watch?v=AmdqMFGnJlc\nBug Report: https://bugs.kde.org/show_bug.cgi?id=107302\nPast Report: https://invent.kde.org/plasma/kdeplasma-addons/-/merge_requests/910\nOld This Week In KDE: https://blogs.kde.org/2025/11/08/this-week-in-plasma-virtual-desktops-only-on-the-primary-screen/\nNew Merge Request: https://invent.kde.org/plasma/kwin/-/merge_requests/8602\n\n=========Video Platforms==========\n\ud83c\udfa5 React: https://www.youtube.com/@B",
+        "id": 5261841,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=KQu1oRRVAVo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/KQu1oRRVAVo/hqdefault.jpg",
+        "title": "KDE Plasma 6.7 Is Shaping Up To Be Amazing",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-15T15:21:42.635735+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-15T15:02:21+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nFrom C+ to C++: Modernizing a GameBoy Emulator - Tom Tesch - CppCon 2025\n---\n\nAfter my CPPCON 2024 talk on writing the world\u2019s fastest GameBoy emulator in Modern C++, several audience members reached out with emulators of their own. One stood out: a clean, test-driven implementation written in what its author jokingly called \u201cC+\u201d \u2014 describing it as C enhanced with C++\u2019s std::vector. \n \n In this follow-up talk, I\u2019ll walk through the process of porting that implementation to modern C++, exploring how the language\u2019s high-level constructs can affect both clarity and performance. This is not a rewrite for its own sake, but a pragmatic investigation into what modern C++ can offer in terms of speed, maintainability, and expressiveness \u2014 and whether we can do better than a minimal, well-crafted C-with-classes baseline. \n \n I\u2019ll also examine what it takes to make the codebase compatible with multithreaded execution, and reflect on the real-world trade-offs encountered ",
+        "id": 5259113,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=ScmhRNSrRP4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/ScmhRNSrRP4/hqdefault.jpg",
+        "title": "From C+ to C++: Modernizing a GameBoy Emulator - Tom Tesch - CppCon 2025",
+        "vote": 0
+    }
+]

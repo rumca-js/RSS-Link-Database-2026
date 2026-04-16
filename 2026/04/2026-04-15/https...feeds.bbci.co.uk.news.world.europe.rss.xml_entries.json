@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-15T07:44:09.869129+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-15T07:37:09+00:00",
+        "description": "The man who ended Viktor Orb\u00e1n's 16 years of continuous rule, P\u00e9ter Magyar, is calling for a speedy transfer of power.",
+        "id": 5255638,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/cx2ddd0xyl5o",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 523,
+        "source_url": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7347/live/2428a790-3896-11f1-a836-373ce269a87a.jpg",
+        "title": "Magyar to meet Hungarian president as Trump says next PM 'a good man'",
+        "vote": 0
+    }
+]

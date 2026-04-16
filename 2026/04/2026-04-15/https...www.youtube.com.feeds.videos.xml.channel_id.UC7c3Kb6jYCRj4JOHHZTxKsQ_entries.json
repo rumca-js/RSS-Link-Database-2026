@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "GitHub",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-15T15:42:31.310042+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-15T13:00:31+00:00",
+        "description": "Meet Brittany Ellich, a Staff Software Engineer here at GitHub, and explore the custom productivity tool she built using the GitHub Copilot CLI. Because she prefers visual interfaces over the command line, she used GitHub Copilot to vibe code a personalized command center. Her app features an AI chat agent named Marvin, unified task lists, and calendar integrations. Watch to see how she built it and learn why creating your own AI tools is the best way to learn. \n\nHer project is open source, check it out: https://github.com/features/copilot/cli?utm_source=social-youtube-build-a-game-cli-features-cta&utm_medium=social&utm_campaign=dev-pod-copilot-cli-2026\n\n#GitHubCopilot #CopilotCLI #VibeCoding \n\nStay up-to-date on all things GitHub by subscribing and following us at: \nYouTube: http://bit.ly/subgithub \nBlog: https://github.blog \nX: https://twitter.com/github \nLinkedIn: https://linkedin.com/company/github \nInstagram: https://www.instagram.com/github \nTikTok: https://www.tiktok.com/@githu",
+        "id": 5259287,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=BDZKubrUO1M",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 1005,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7c3Kb6jYCRj4JOHHZTxKsQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/BDZKubrUO1M/hqdefault.jpg",
+        "title": "How a GitHub engineer built an AI Productivity hub with Copilot CLI",
+        "vote": 0
+    }
+]

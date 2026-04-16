@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "OpenAI",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-15T18:34:42.439925+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-15T17:34:29+00:00",
+        "description": "Fix it like a pro with ChatGPT\n\nDirector : Abhinav Pratiman\nDOP : Tassaduq Hussain\nProduction House : Early Man Film\nCreative agency: Hue & Why",
+        "id": 5260961,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=CPq1V7sH38I",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 935,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXZCJLdBC09xxGZ6gcdrc6A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/CPq1V7sH38I/hqdefault.jpg",
+        "title": "Bala Vs Waterfall | With ChatGPT",
+        "vote": 0
+    }
+]

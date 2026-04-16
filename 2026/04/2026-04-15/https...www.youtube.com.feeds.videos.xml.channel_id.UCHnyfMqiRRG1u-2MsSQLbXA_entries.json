@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Veritasium",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-15T17:15:06.560153+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-15T16:40:38+00:00",
+        "description": "How we hacked MKBHD! Sponsored by Incogni - Use code veritasium at https://incogni.com/veritasium to get an exclusive 60% off.\n\nIf you\u2019re looking for a molecular modelling kit, try Snatoms, a kit I invented where the atoms snap together magnetically - https://ve42.co/SnatomsV   \n\nSign up for the Veritasium newsletter for weekly science updates - https://ve42.co/Newsletter\n\n\u2580\u2580\u2580\n0:00 Stealing $10,000 From MKBHD\n4:04 How The Hack Works\n8:29 High Value vs Low Value Transactions\n10:18 Tricking The Card Reader\n14:20 Transit Mode\n15:22 Why does this hack only work with Visa?\n17:10 How does RSA encryption work?\n20:13 How can you prevent this hack?\n21:59 What are Visa doing about it?\n\n\u2580\u2580\u2580\nA huge thank you to professors Ioana Boureanu from the University of Surrey and Tom Chothia from the University of Birmingham, for supporting us with the execution and the explanation of the hack. This video would not have been possible without their support. A big thanks, too, to the University of Surrey for",
+        "id": 5260206,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=PPJ6NJkmDAo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 379,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/PPJ6NJkmDAo/hqdefault.jpg",
+        "title": "Can you steal $10,000 from a locked iPhone?",
+        "vote": 0
+    }
+]

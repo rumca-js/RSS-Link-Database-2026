@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CodingEntrepreneurs",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-15T07:51:53.848923+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-15T01:15:06+00:00",
+        "description": "\u2b50\ufe0f Get Ghost for fast free postgres right now: https://b.link/ghost-jmyt\n\nI built a pipeline to automatically grab my starred GitHub repos, extract trending repos, and the hackernews feed into a single Postgres database using Ghost and GitHub Actions.\n\nNow any AI agent I use can search anything I've ever saved or have been interested in. This video will show you exactly how. We'll fork the repo, add a custom runbook, and learn to build your own personal data pipeline. Own the algorithm!\n\n\u2705 Code: https://github.com/codingforentrepreneurs/remember-me\n\u2705 Subscribe: https://cfe.sh/youtube\n\n\u23f1\ufe0f Chapters\n00:00 Welcome\n00:06:57 Getting Started with GitHub\n00:11:00 Postgres for Agents with Ghost\n00:14:53 Your First Markdown Runbook\n00:18:05 Run Markdown as Code \u2014 Hacker News\n00:20:20 Run Markdown as Code with an AI Coding Agent\n00:26:46 GitHub Action Workflow for Hacker News Automation\n00:32:14 Ghost API Key for Full Automation\n00:36:50 GitHub Personal Access Token",
+        "id": 5255690,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=blFouj5orYo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 74,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCWEHue8kksIaktO8KTTN_zg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/blFouj5orYo/hqdefault.jpg",
+        "title": "All My Bookmarks Ready for All My AI Agents",
+        "vote": 0
+    }
+]

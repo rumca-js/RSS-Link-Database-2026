@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Lunduke Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-15T18:56:02.746279+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-15T18:01:38+00:00",
+        "description": "H.R. 8250 (\"To require operating system providers to verity the age of any user of an operating system, and for other purposes.\") has been introduced in the U.S. Congress.\n\nOperating System Age Verification Tracker:\nhttps://github.com/BryanLunduke/DoesItAgeVerify\n\nMore from The Lunduke Journal:\nhttps://lunduke.com/",
+        "id": 5261072,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=12YONf1Wl0I",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 616,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkK9UDm_ZNrq_rIXCz3xCGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/12YONf1Wl0I/hqdefault.jpg",
+        "title": "New Federal Law to Require Age Verification on All Operating Systems",
+        "vote": 0
+    }
+]

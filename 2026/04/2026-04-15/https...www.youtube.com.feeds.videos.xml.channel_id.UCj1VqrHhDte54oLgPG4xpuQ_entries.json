@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Stuff Made Here",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-15T21:14:57.167044+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-15T20:01:57+00:00",
+        "description": "Check out https://brilliant.org/StuffMadeHere/ for a free 30-day trial and 20% off your annual premium subscription!\n\nSee how I designed and made the club: https://youtu.be/JQB8aNKyeao\n\nI decided to spend months giving my robotic club a massive software upgrade so that it can understand physics and solve challenging mini golf holes. \n\nSources:\nAckley function vis: https://en.wikipedia.org/wiki/Differential_evolution#/media/File:Ackley.gif\n3D Scanner video: https://www.revopoint3d.com/products/trackit-optical-tracking-3d-scanner",
+        "id": 5262074,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=2OfjZ3ORJfc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 833,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCj1VqrHhDte54oLgPG4xpuQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/2OfjZ3ORJfc/hqdefault.jpg",
+        "title": "Robot club vs 5 crazy holes",
+        "vote": 0
+    }
+]

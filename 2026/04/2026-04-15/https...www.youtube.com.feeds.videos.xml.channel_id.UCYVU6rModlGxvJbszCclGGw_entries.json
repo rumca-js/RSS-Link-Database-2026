@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Rob Braxman Tech",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-15T16:39:12.674400+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-15T16:00:59+00:00",
+        "description": "The go to solution for remote access has been Sonic Wall appliances. Or if you don't want to spend the money, you go for the riskier Port Forwarding option. These options have been eclipsed by two new technologies I will introduce today: Tailscale Mesh VPN and Rusk Desk for Desktop Remote access.\n\n----------------------------------\nBraX3 Privacy Phone and Brax Open_Slate are on https://braxtech.net. These are crowdfunded on https://indiegogo.com.\n-----------------------------------\nBrax Virtual Phone, De-Googled Phones, BytzVPN, BraxMail, BraxRouters are available on https://brax.me\n-----------------------------------\nMerch Store \nhttps://my-store-c37a50.creator-spring.com/\n-----------------------------------\n\n\nI'm the Internet Privacy Guy. I'm a public interest technologist. I'm here to educate. You are losing your Internet privacy and Internet security every day if you don't fight for it. Your data is collected with endless permanent data mining. Learn about a TOR router, a VPN , an",
+        "id": 5259909,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=VZZW4A1wwTg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 466,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYVU6rModlGxvJbszCclGGw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/VZZW4A1wwTg/hqdefault.jpg",
+        "title": "How Tailscale+Rustdesk Makes Remote Access Simple and Truly Private",
+        "vote": 0
+    }
+]

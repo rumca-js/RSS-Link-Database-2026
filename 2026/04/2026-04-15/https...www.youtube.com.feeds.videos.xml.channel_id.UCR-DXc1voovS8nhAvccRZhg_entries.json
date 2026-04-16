@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeff Geerling",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-15T08:00:25.853293+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-15T05:00:11+00:00",
+        "description": "This new mainboard brings Arm to the Framework 13.\n\nThings I referenced in this video:\n\n  - Framework 13: https://frame.work/laptop13\n  - MetaComputing AI PC Mainboard: https://metacomputing.io/products/metacomputing-aipc?variant=50604798640434\n  - All my test data: https://github.com/geerlingguy/sbc-reviews/issues/103\n  - Radxa's guide for Frigate NVR on Cix P1: https://docs.radxa.com/en/orion/o6/app-development/artificial-intelligence/frigate-cix\n\nMetaComputing sent their Arm AI PC mainboard for testing, and because of that, I mark this video as \"sponsored\" in YouTube's settings. They did not pay for this video, nor have any say in its contents. See my review sample policy here: https://github.com/geerlingguy/youtube\n\nSupport me on Patreon: https://www.patreon.com/geerlingguy\nSponsor me on GitHub: https://github.com/sponsors/geerlingguy\nMerch: https://www.redshirtjeff.com\n2nd Channel: https://www.youtube.com/@GeerlingEngineering\n3rd Channel: https://www.youtube.com/@Level2Jeff\n\nCont",
+        "id": 5255749,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=CIb87SJ4xwo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 161,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR-DXc1voovS8nhAvccRZhg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/CIb87SJ4xwo/hqdefault.jpg",
+        "title": "Arm comes to the Framework 13",
+        "vote": 0
+    }
+]

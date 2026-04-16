@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "JRE Clips",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-15T18:31:31.223995+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-15T17:01:14+00:00",
+        "description": "Taken from JRE #2483 w/Spencer Pratt\nYouTube: https://youtu.be/pDfm9RaIIv4\nJRE on Spotify: https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk",
+        "id": 5260931,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=u2tPfFDmVhs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 157,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnxGkOGNMqQEUMvroOWps6Q",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/u2tPfFDmVhs/hqdefault.jpg",
+        "title": "Fires, Fraud, and Homelessness: Why Spencer Pratt Is Running for Mayor of LA",
+        "vote": 0
+    }
+]
