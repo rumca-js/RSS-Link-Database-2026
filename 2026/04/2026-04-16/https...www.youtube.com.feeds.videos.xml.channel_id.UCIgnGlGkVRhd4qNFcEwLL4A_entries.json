@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "AI Search",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-16T07:52:51.959564+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-16T03:27:50+00:00",
+        "description": "Ernie Image review & installation tutorial. How to use Ernie Image in ComfyUI #ai #aitools #imagegenerator #aiart\n\nThanks to our sponsor Gamma. Try it today: https://gamma.app/?utm_source=youtube&utm_medium=influencer&utm_campaign=imagine&utm_content=akg_theAIsearch\n\nhttps://huggingface.co/baidu/ERNIE-Image\nComfyUI tutorial https://youtu.be/g74Cq9Ip2ik\nhttps://huggingface.co/unsloth/ERNIE-Image-Turbo-GGUF\n\n0:00 Ernie Image intro\n0:42 Ernie Image demos\n2:01 Ernie vs Z Image\n2:12 Tricky prompts\n4:20 Text rendering\n5:50 Posters and infographics\n6:54 Manga and comics\n7:53 Other tricky prompts\n9:12 Art styles\n10:27 Gamma Imagine\n11:41 Anatomy tests\n12:39 Clock and wine glass\n13:18 Benchmarks \n14:42 VRAM requirements\n15:08 How to use Ernie in ComfyUI\n19:58 Ernie with low vram\n\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSupport: https://ko-fi.com/aisearch\n\nHere's my equipment, in case you're wondering:\nLenovo Thinkbook: https://amzn.to/4jWeKwH\nDell",
+        "id": 5265236,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=A_nAU8h9YOY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 806,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIgnGlGkVRhd4qNFcEwLL4A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/A_nAU8h9YOY/hqdefault.jpg",
+        "title": "New BEST local AI image generator is here!",
+        "vote": 0
+    }
+]

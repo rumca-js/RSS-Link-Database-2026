@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-16T15:43:22.934751+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-16T15:02:22+00:00",
+        "description": "https://cppcon.org\n---\n\nLeverage AI Agents to Refactor and Modernize C++ Code - Jubin Chheda - CppCon 2025\n---\n\nLarge commercial C++ code\u2011bases often harbor invisible debt: subtle code smells, brittle or missing tests, and pockets of pre\u2011modern syntax that resist incremental refactors. Recent advances in large language models (LLMs) make it possible to automate many of these pain points\u2014continuously, safely, and at scale\u2014without rewriting every file by hand.\n\nThis session demonstrates an end\u2011to\u2011end tool\u2011chain that combines static\u2011analysis signals with LLM prompts to (1) surface and prioritize code smells, (2) generate or extend unit\u2011tests around risky regions, and (3) propose standards\u2011conformant modernizations (e.g., std::unique_ptr, ranges, coroutines). Attendees will see live examples drawn from a multi\u2011million\u2011line production repository and learn concrete patterns\u2014shell wrappers, guardrails, and review workflows\u2014that keep the model helpful while preventing \u201challucinated\u201d fixes fro",
+        "id": 5268935,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=vAySFnu-Z18",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/vAySFnu-Z18/hqdefault.jpg",
+        "title": "Leverage AI Agents to Refactor and Modernize C++ Code - Jubin Chheda - CppCon 2025",
+        "vote": 0
+    }
+]

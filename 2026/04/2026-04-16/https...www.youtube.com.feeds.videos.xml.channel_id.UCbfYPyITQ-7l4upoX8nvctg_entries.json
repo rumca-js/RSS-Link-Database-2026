@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Two Minute Papers",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-16T19:19:25.896306+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-16T17:44:48+00:00",
+        "description": "\u2764\ufe0f Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\nLinks:\nhttps://deepmind.google/models/gemma/gemma-4/\nhttps://ai.google.dev/gemma/docs/core/model_card_4\n\nFine tuning with Matt Mireles: https://x.com/mattmireles/status/2041606508220489786\n\nOther sources:\nhttps://x.com/googlegemma/status/2041256042882105666?s=46\nhttps://x.com/nakazakifam/status/2041286410930446370\nhttps://x.com/measure_plan/status/2039815699695104343\nhttps://x.com/maddiedreese/status/2041677327604838685?s=46\nhttps://x.com/steipete/status/2042615534567457102?s=46\nhttps://x.com/maziyarpanahi/status/2042592050940449260?s=46\nhttps://x.com/adrgrondin/status/2041962263507083340?s=46\nhttps://x.com/evgeniymikholap/status/2041104232648950170\nhttps://www.youtube.com/watch?v=u4ydH-QvPeg\nhttps://www.reddit.com/r/learnmachinelearning/comments/1sjs14m/implementing_gemma_3_and_sliding_window_attention/\nhttps://www.reddit.com/r/Anthropic/comments/1lxhmb4/claude_ban_for_no_reason/\nhttps://www.tldrlegal",
+        "id": 5270974,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Sk9tvyRSCgY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 945,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbfYPyITQ-7l4upoX8nvctg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/Sk9tvyRSCgY/hqdefault.jpg",
+        "title": "DeepMind\u2019s New AI: A Gift To Humanity",
+        "vote": 0
+    }
+]

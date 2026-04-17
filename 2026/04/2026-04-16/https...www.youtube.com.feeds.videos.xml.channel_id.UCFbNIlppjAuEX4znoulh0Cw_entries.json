@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Web Dev Simplified",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-16T17:22:48.051270+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-16T16:01:12+00:00",
+        "description": "\ud83c\udf0e Find Me Here:\n\nMy Blog: https://blog.webdevsimplified.com/\nMy Courses: https://courses.webdevsimplified.com/\nPatreon: https://www.patreon.com/WebDevSimplified\nTwitter: https://twitter.com/DevSimplified\nDiscord: https://discord.gg/7StTjnR\nGitHub: https://github.com/WebDevSimplified\nCodePen: https://codepen.io/WebDevSimplified\n\n\n#Shorts",
+        "id": 5269993,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/h1ZPBYhTT1k",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 994,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFbNIlppjAuEX4znoulh0Cw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/h1ZPBYhTT1k/hqdefault.jpg",
+        "title": "You Need To Use This TSConfig Setting",
+        "vote": 0
+    }
+]

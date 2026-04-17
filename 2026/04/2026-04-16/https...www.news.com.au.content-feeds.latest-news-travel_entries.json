@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-16T04:53:38.086638+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-16T04:53:35.952791+00:00",
+        "description": "The annual festival of Songkran usually signifies a dazzling week-long celebration. Just 72 hours in, this year\u2019s event paints a picture that\u2019s anything but.",
+        "id": 5264451,
+        "language": "en-au",
+        "link": "https://www.news.com.au/travel/travel-updates/incidents/191-people-killed-at-songkran-worlds-largest-water-fight-in-thailand/news-story/ff58bbffb196d307ad0a2aa570e66933?from=rss-basic",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 409,
+        "source_url": "https://www.news.com.au/content-feeds/latest-news-travel",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://content.api.news/v3/images/bin/a825bf36bfaa757163237e0a87a03ba0?width=320",
+        "title": "191 people killed at Songkran, \u2018world\u2019s largest water fight\u2019 in Thailand",
+        "vote": 0
+    }
+]

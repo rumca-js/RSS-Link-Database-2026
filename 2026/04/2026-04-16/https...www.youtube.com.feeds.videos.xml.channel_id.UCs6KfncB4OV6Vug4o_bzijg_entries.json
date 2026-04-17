@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Techlore",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-16T07:19:19.764556+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-16T06:00:26+00:00",
+        "description": "Tuta just launched their encrypted cloud storage in closed beta, Tuta Drive, and I got early access. This is what I think of Tuta's full zero-knowledge workspace that Big Tech still won't build. Here's my first look, who it's actually for, and how it stacks up against competitors like Proton Drive, as well as what we can expect in the future. I'd love to hear any of your questions, I'll be following Tuta Drive's progress closely and will keep you updated as this develops!\n\n\ud83d\udd17 SOURCES & LINKS\n\u2022 Tuta Drive, Currently in Closed Beta: https://tuta.com/drive\n\u2022 Tuta Encryption: https://tuta.com/blog/post-quantum-cryptography\n\u2022 Tuta Kickback Link: https://tuta.com/?t-src=techlore\n\u2022 Written breakdown: https://techlore.tech/tuta-drive-first-look-the-encrypted-platform-that-does-what-google-and-apple-wont/\n\n\ud83d\udd0e RELATED VIDEOS\nhttps://www.youtube.com/watch?v=0wgpuiIoG_g\nhttps://www.youtube.com/watch?v=Cn8sLpvuEKY\n\n\ud83e\udde1 SUPPORT TECHLORE\n\u2022 Become a Techlorian: https://techlore.tech/support/#/portal/sign",
+        "id": 5265008,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=NcpEwYMXYBQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 327,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/NcpEwYMXYBQ/hqdefault.jpg",
+        "title": "Tuta Drive First Look: The Encrypted Workspace Big Tech Won't Build",
+        "vote": 0
+    }
+]

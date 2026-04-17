@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-16T09:31:39.640503+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-16T09:20:20+00:00",
+        "description": "At least nine were killed in a school shooting in southern Turkey on Wednesday, a day after another attack injured 16 people at a high school.",
+        "id": 5265723,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/cz9025d7jqzo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 523,
+        "source_url": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a554/live/9da68dc0-396e-11f1-a650-6399b8700755.jpg",
+        "title": "Turkish police order 83 arrests over online praise for school shootings",
+        "vote": 0
+    }
+]

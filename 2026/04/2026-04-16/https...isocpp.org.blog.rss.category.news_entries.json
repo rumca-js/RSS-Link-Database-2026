@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Blog Staff",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-16T20:26:55.012327+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-16T19:42:23+00:00",
+        "description": "<p>\n\t<img alt=\"rosa-devirtualization.png\" src=\"https://isocpp.org/files/img/rosa-devirtualization.png\" style=\"width: 400px; margin: 10px; float: right;\" />Ever wondered why your clean, object-oriented design sometimes slows things down? This piece breaks down how virtual dispatch impacts performance&mdash;and how techniques like devirtualization and static polymorphism can eliminate that overhead entirely.</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://david.alvarezrosa.com/posts/devirtualization-and-static-polymorphism/\">Devirtualization and Static Polymorphism</a></h3>\n\t<p>\n\t\tby David &Aacute;lvarez Rosa</p>\n</blockquote>\n<p>\n\tFrom the article:</p>\n<blockquote>\n\t<p>\n\t\tEver wondered why your &ldquo;clean&rdquo; polymorphic design underperforms in benchmarks? Virtual dispatch enables polymorphism, but it comes with hidden overhead: pointer indirection, larger object layouts, and fewer inlining opportunities.</p>\n\t<p>\n\t\tCompilers do their best to devirtualize these calls, but it isn&rsquo;t",
+        "id": 5271406,
+        "language": "en",
+        "link": "https://isocpp.org//blog/2026/04/devirtualization-and-static-polymorphism-david-alvarez-rosa",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://isocpp.org/files/img/rosa-devirtualization.png",
+        "title": "Devirtualization and Static Polymorphism -- David \u00c1lvarez Rosa",
+        "vote": 0
+    }
+]

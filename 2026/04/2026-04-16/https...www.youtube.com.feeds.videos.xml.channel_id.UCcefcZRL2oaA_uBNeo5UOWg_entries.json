@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-16T14:53:24.756289+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-16T14:00:07+00:00",
+        "description": "Physical Intelligence is building a foundation model that can control any robot to do any task \u2014 what the team describes as the GPT-1 moment for robotics. The company's cross-embodiment approach trains across many different robot platforms, and recent results show tasks being performed zero-shot that last year required hundreds of hours of data collection.\n\nIn this episode of The Lightcone, co-founder Quan Vuong sat down with Garry, Jared, Diana, and Harj to talk about why robotics is finally ready for its scaling moment, how PI runs its models in the cloud rather than on-device, and the playbook for what Quan sees as a Cambrian explosion of vertical robotics companies.\n\n00:00 The new robotics startup equation\n00:41 Intro: GPT-1 moment for robotics\n03:05 How AI unlocked robotics (RT-2, PaLM-E)\n06:17 Breakthrough: multi-robot scaling (Open-X)\n09:12 The real bottleneck: data\n13:10 Emergence: zero-shot robot skills\n16:01 Real-world demos: laundry & warehouses\n22:21 Robotics becomes a dat",
+        "id": 5268377,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=4EsUaur0nsQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/4EsUaur0nsQ/hqdefault.jpg",
+        "title": "Robots Are Finally Starting to Work",
+        "vote": 0
+    }
+]
