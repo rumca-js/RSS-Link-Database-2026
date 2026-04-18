@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/ES-DE_Frontend",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-17T13:09:54.612434+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-17T12:34:32+00:00",
+        "description": "<table> <tr><td> <a href=\"https://www.reddit.com/r/emulation/comments/1snzog2/running_esde_on_riscv_hardware/\"> <img src=\"https://external-preview.redd.it/28gTKhp1gq71Qiz0O-ADImYYVrB2C6QAYvpskMWIHyY.png?width=140&amp;height=140&amp;auto=webp&amp;s=48ef4b55dca4ba0eeb9c0fe69dfe0ab689708fe5\" alt=\"Running ES-DE on RISC-V hardware\" title=\"Running ES-DE on RISC-V hardware\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><a href=\"https://preview.redd.it/0bh2eylrvqvg1.png?width=3840&amp;format=png&amp;auto=webp&amp;s=11063a401af5366be562458971baada2b5b32427\">RISC-V logo</a></p> <p>So this is definitely an experimental undertaking but I&#39;ve just bought a Waveshare VisionFive2 RISC-V single-board computer to see whether ES-DE could run on it. This is a cheap and low-power device so I didn&#39;t have that much hope for good performance, and I actually had no idea whether ES-DE could even run on such hardware when I ordered it.</p> <p>For those that are not familiar with RISC-V it&#39;s a ",
+        "id": 5276896,
+        "language": "",
+        "link": "https://www.reddit.com/r/emulation/comments/1snzog2/running_esde_on_riscv_hardware",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 475,
+        "source_url": "https://www.reddit.com/r/emulation/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://external-preview.redd.it/28gTKhp1gq71Qiz0O-ADImYYVrB2C6QAYvpskMWIHyY.png?width=140&height=140&auto=webp&s=48ef4b55dca4ba0eeb9c0fe69dfe0ab689708fe5",
+        "title": "Running ES-DE on RISC-V hardware",
+        "vote": 0
+    }
+]

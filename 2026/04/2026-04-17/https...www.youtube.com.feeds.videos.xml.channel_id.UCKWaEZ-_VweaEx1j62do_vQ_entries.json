@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-17T12:40:04.751919+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-17T10:01:05+00:00",
+        "description": "Visit Mixture of Experts podcast page to get more AI content \u2192 https://ibm.biz/~NSAAWAkss\n\nAnthropic dropped Claude Opus 4.7, what\u2019s new with this release? This week on Mixture of Experts, host Tim Hwang is joined by Chris Hay, Abraham Daniels and Lauren McHugh-Ollende. First, a special segment with Chris Hay and Aili McConnon analyze Anthropic's surprise release of Claude Opus 4.7 and what it means for the AI model race. Next, Apple is back with a bold three-pronged wearables strategy\u2014AI-powered glasses, enhanced AirPods, and a camera pendant. Will Apple get AI wearables right? Then, a fascinating Gallup poll reveals AI adoption is surging in the workplace\u2014half of American workers now use AI regularly. Later, Google DeepMind released critical research on harmful manipulation. Can AI exploit our vulnerabilities to trick us into bad decisions? Finally, in one of the wildest pivots we've seen, Allbirds is becoming an AI compute infrastructure company. All that and more on this week's Mi",
+        "id": 5276708,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Z_L5KO_GW4o",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/Z_L5KO_GW4o/hqdefault.jpg",
+        "title": "Claude Opus 4.7, Apple\u2019s AI glasses and Allbirds AI pivot",
+        "vote": 0
+    }
+]

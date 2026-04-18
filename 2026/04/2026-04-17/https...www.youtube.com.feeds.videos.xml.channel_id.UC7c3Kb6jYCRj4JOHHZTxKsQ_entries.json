@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "GitHub",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-17T16:15:23.569464+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-17T15:00:06+00:00",
+        "description": "Welcome back to another episode of The Download! This week, we cover the severe supply chain attack on the Axios npm package and explore how AI models are spontaneously protecting each other. We are also excited to announce that the GitHub Copilot SDK is now in public preview and the Copilot CLI supports local models. Plus, learn about Claude Mythos finding decades-old vulnerabilities and Milla Jovovich's viral AI memory tool. Drop a comment to let us know which story surprised you the most! \n\n#DevNews #GitHubCopilot #GitHub\n\n\u2014 CHAPTERS \u2014  \n\n00:00 Welcome to The Download  \n00:32 Axios package hijacked in supply chain attack  \n01:45 MCP gets enterprise-ready with security roadmap  \n02:58 GitHub Universe 2026 call for speakers  \n03:38 GitHub Copilot SDK hits public preview  \n04:34 Copilot CLI supports BYOK and local models  \n05:07 Anthropic's Claude Mythos takes on cybersecurity  \n06:21 AI models are protecting each other  \n07:28 Milla Jovovich's MemPalace AI tool goes viral \n08:44 Outr",
+        "id": 5278487,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=0vvY2AGg4sM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 1005,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7c3Kb6jYCRj4JOHHZTxKsQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/0vvY2AGg4sM/hqdefault.jpg",
+        "title": "The Download: Copilot SDK, Claude Mythos, AI models are protecting each other & more",
+        "vote": 0
+    }
+]

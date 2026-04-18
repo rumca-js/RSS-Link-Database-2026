@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-17T16:33:06.073864+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-17T15:02:05+00:00",
+        "description": "https://cppcon.org/\n---\n\nLightning Talk: Algebraic Path Problems Done Quick: Or how to find the best* path from one talk to another - Stefan Ivanov - CppCon 2025\n\nWhat\u2019s the optimal path through a conference if you want to use the bathroom, grab coffee, socialize, and pick up the best merch \u2014 all in under 15 minutes? In this lightning talk, Stefan Ivanov, a developer at Maven Securities, turns that everyday problem into an algebraic path problem.\n\nUsing ideas from shortest path algorithms, semirings, and lexicographic products, the talk shows how multiple constraints can be combined into a single optimization model \u2014 with humor, minimal math, and no C++ code. A fast and entertaining look at how abstract algebra can show up in very practical (and slightly silly) ways.\n---\n\nWork at Hudson River Trading (HRT): https://tinyurl.com/safxfctf\n---\n\nStefan Ivanov\n__\n\nCppCon is the annual, week-long face-to-face gathering for the entire C++ community. The conference is organized by the C++ comm",
+        "id": 5278706,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Fcun7lDfTRQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/Fcun7lDfTRQ/hqdefault.jpg",
+        "title": "Algebraic Path Problems Done Quick: Or how to find the best* path from one talk to another",
+        "vote": 0
+    }
+]

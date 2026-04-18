@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "David Bombal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-17T16:10:15.276305+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-17T14:00:06+00:00",
+        "description": "NOTE: DNS or HTTPS / Encrypted DNS won't make you invisible. Watch and find out.\n\nSome people believe that encrypted DNS makes them invisible, but is this video I use a live Wireshark capture to prove that your ISP can still see every website you visit. You will learn how to verify your own privacy leaks and a VPN are necessary to truly go dark on the wire.\n\nIn this deep-dive network lab, we use Wireshark and a physical ethernet tap to expose the truth about modern web privacy. You will see firsthand how your ISP can still track every website you visit, even when using encrypted DNS (DNS over HTTPS) and TLS 1.3. We demonstrate how the Server Name Indication (SNI) field in the Client Hello packet leaks your destination in plain text. The video explores advanced privacy technologies like Encrypted Client Hello (ECH) in Firefox and Cloudflare, explains why these features often break corporate filtering, and proves why a VPN remains the only definitive way to hide your traffic from networ",
+        "id": 5278424,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=46hy3r_1VqY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 984,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP7WmQ_U4GB3K51Od9QvM0w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/46hy3r_1VqY/hqdefault.jpg",
+        "title": "How your ISP tracks you (even with encrypted DNS)",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/jonocodes",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-17T07:41:25.687315+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-17T06:43:07+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"http://stashcast.net\">StashCast</a> is an application for downloading online media (audio/video) for offline consumption and exposing it via podcast feeds, so you can watch it later. It runs as a single user Django web app.</p> <h1>Demo</h1> <p><a href=\"https://github.com/jonocodes/stashcast#demo\"></a></p> <p>Demo instance running here: <a href=\"https://demo.stashcast.net/\">https://demo.stashcast.net/</a></p> <p>The user is &#39;demo&#39; and the password is &#39;demo&#39; spelled backwards. The demo user can not add/remove/update content.</p> <h1>Motivation</h1> <p><a href=\"https://github.com/jonocodes/stashcast#motivation\"></a></p> <p>I created this since friends and family often send me links to listen to a single episode of a podcast via Apple Podcasts, or a single lecture on youtube. I don&#39;t want to subscribe to the show to listen to a single eposide, but I do want to listen to it - later.</p> </div><!-- SC_ON --> &#32; submitted by ",
+        "id": 5274845,
+        "language": "en",
+        "link": "https://www.reddit.com/r/rss/comments/1snt3xl/i_made_a_personalized_feed_for_your_found_media",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 482,
+        "source_url": "https://www.reddit.com/r/rss/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "I made a personalized feed for your found media",
+        "vote": 0
+    }
+]

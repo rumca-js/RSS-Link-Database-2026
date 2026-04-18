@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-17T06:22:50.999781+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-17T05:41:19+00:00",
+        "description": "The Orange Pi Zero 3W is a new single-board computer in a 65 &#215; 32 mm form factor built around the Allwinner A733 processor. The design integrates an octa-core CPU, LPDDR5 memory, and wireless connectivity in a compact layout. The A733 SoC combines two Arm Cortex-A76 cores with six Cortex-A55 cores, operating at up to [&#8230;]",
+        "id": 5274485,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/orange-pi-zero-3w-expands-lineup-with-a733-based-compact-sbc",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Orange Pi Zero 3W arrives with A733 SoC in 65 \u00d7 32 mm design",
+        "vote": 0
+    }
+]
