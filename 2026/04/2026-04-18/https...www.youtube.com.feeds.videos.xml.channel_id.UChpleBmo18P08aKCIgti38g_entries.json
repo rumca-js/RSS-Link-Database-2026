@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Matt Wolfe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-18T14:13:43.195618+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-18T13:17:37+00:00",
+        "description": "The biggest AI update this week isn't a new model, it's a new interface.\n\nThis week, pretty much every major AI company\u2014OpenAI, Anthropic, and Google\u2014rolled out major UI updates.\n\nBut the one that stood out most to me? OpenAI's Codex.\n\nIt's really starting to become an AI \u201csuper app.\u201d\n\nHere\u2019s what changed:\n\ud83d\udcbb It can now control your computer (click, type, navigate)\n\ud83d\udca1 Run tasks in the background while you keep working\n\ud83c\udfde\ufe0f Generate images directly inside the app\n\ud83d\udd28 Build apps \u2192 test them \u2192 and even use them for you\n\nFeels like we\u2019re getting closer to that \u201cone app that does everything\u201d faster than expected.\n\nWould you use this \"super app\"? \ud83d\udc47\n\n#AI #Ainews #Codex #OpenAI #AiAgent",
+        "id": 5285232,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/BLdY1fqy8FE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 933,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChpleBmo18P08aKCIgti38g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/BLdY1fqy8FE/hqdefault.jpg",
+        "title": "Testing Out OpenAI's New \"Super App\"",
+        "vote": 0
+    }
+]

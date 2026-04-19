@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-18T21:14:48.696401+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-18T18:58:26+00:00",
+        "description": "The Mexican president says there were never tension over Spainish colonisation, which had become a thorny issue.",
+        "id": 5287441,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/cp86r29l45go",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 524,
+        "source_url": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f750/live/f7e22680-3b28-11f1-bdd4-fdf1a2a9ebde.jpg",
+        "title": "Mexico's Sheinbaum denies 'diplomatic crisis' with Spain after conquest row",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Retro Game Corps",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-18T14:23:37.339392+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-18T14:00:14+00:00",
+        "description": "At long last, we have Steam running on ARM-based handhelds like the AYN Thor, Odin 2, and Retroid Pocket 6. This is all thanks to some recent updates from Valve and the ROCKNIX development team.\n\nROCKNIX tutorial: https://youtu.be/hc883Myq1Ik\nWritten guide: https://retrogamecorps.com/2025/03/03/linux-on-the-odin-2-rocknix-guide/\nROCKNIX wiki: https://rocknix.org/\nROCKNIX discord: https://discord.gg/seTxckZjJy\nProtonDB: https://www.protondb.com/\n\nWays to support this channel:\nRGC merch: https://store.retrogamecorps.com\nYT channel membership: https://www.youtube.com/channel/UCoZQiN0o7f36H7PaW4fVhFw/join\nPatreon: https://www.patreon.com/retrogamecorps\nKo-Fi: https://ko-fi.com/retrogamecorps\n\nTimestamps:\n00:00 introduction\n02:46 ROCKNIX installation\n04:25 install Steam\n06:44 some potential tweaks\n08:32 game testing\n15:41 summary and conclusion\n\nFind me on Discord! https://discord.gg/retrohandhelds\n\nTheme song written by Jim Gray of Our Ghosts:\nhttps://ourghosts.bandcamp.com/track/my-first",
+        "id": 5285272,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=9XPRBz3aV6s",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 823,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCoZQiN0o7f36H7PaW4fVhFw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/9XPRBz3aV6s/hqdefault.jpg",
+        "title": "Steam on ARM Linux is Finally Here",
+        "vote": 0
+    }
+]

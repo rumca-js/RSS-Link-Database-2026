@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-18T11:28:54.093430+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-18T11:00:42+00:00",
+        "description": "Ready to become a certified watsonx Generative AI Engineer? Register now and use code IBMTechYT20 for 20% off of your exam \u2192 https://ibm.biz/BdpPUB\n\nLearn more about AI Productivity here \u2192 https://ibm.biz/BdpP6Q\n\nWe're all using AI in our day\u2011to\u2011day lives\u2014at home, at work, and across critical systems. Dan Wiegand explains how RAG, LLMs, and agentic AI improve accuracy, automation, and operations in mainframe and hybrid cloud environments. Discover how these AI tools boost productivity and help teams get trusted results \ud83e\udd16\u2728\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/BdpP6w\n\n#generativeai #aiops #aiagents #mainframe",
+        "id": 5284358,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=RNYdP6CYrOw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/RNYdP6CYrOw/hqdefault.jpg",
+        "title": "How AI, RAG, and Agents Transform Mainframe Operations",
+        "vote": 0
+    }
+]

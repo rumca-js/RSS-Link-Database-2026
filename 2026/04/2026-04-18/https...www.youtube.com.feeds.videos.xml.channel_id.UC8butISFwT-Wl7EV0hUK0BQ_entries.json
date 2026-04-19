@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-18T12:47:48.725093+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-18T12:32:26+00:00",
+        "description": "Software itself has no value. It's the solutions that are valuable, and that will sell.",
+        "id": 5284728,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/04LPpj7lQlA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/04LPpj7lQlA/hqdefault.jpg",
+        "title": "Software itself has no value. It's the solutions that are valuable, and that will sell.",
+        "vote": 0
+    }
+]

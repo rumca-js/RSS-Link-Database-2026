@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kevin Stratvert",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-18T15:11:19.966829+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-18T13:23:57+00:00",
+        "description": "Want to run powerful AI directly on your own computer for free? In this video, I\u2019ll show you exactly how to set up Google\u2019s Gemma 4 on your PC step by step using LM Studio.\n\nWith just a few clicks, you can install the model, run it locally, and start using it for real tasks like summarizing notes, extracting action items, and more. The best part? Everything runs on your machine, so your data stays private and you don\u2019t need any subscriptions.\n\nIf you\u2019ve ever wanted to use AI offline or avoid paying for tools like ChatGPT, this is one of the easiest ways to get started.",
+        "id": 5285471,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/5Us80J7zLyM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 958,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfJT_eYDTmDE-ovKaxVE1ig",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/5Us80J7zLyM/hqdefault.jpg",
+        "title": "How to Run Google Gemma 4 on Your PC (Free)",
+        "vote": 0
+    }
+]

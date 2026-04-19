@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Nitasha Tiku",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-18T14:56:21.449751+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-18T13:57:44+00:00",
+        "description": "Groups concerned that AI could evade human control are recruiting content creators to warn the masses about the dangers of smarter machines.",
+        "id": 5285420,
+        "language": "en-US",
+        "link": "https://www.washingtonpost.com/technology/2026/04/18/ai-doom-influencers-safety",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 364,
+        "source_url": "https://feeds.washingtonpost.com/rss/business/technology",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Inside a growing movement warning AI could turn on humanity",
+        "vote": 0
+    }
+]

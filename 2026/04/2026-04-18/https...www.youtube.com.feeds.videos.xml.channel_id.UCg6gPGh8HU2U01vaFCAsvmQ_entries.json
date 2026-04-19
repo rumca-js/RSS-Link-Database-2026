@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Chris Titus Tech",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-18T12:00:19.134513+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-18T11:15:09+00:00",
+        "description": "Is your home network actually secure \u2014 or are you just hoping it is?\nIn this video, we cut through the noise and cover what actually matters when it comes to basic network security. No VPN shilling, no affiliate links, no bloated security suites \u2014 just real, actionable steps you can take today.\n\nWhat we cover:\n\n- How to scan your external gateway with GRC Shields Up\n- Using TCPView (Windows) and netstat/lsof (Linux) to see exactly what's talking to the outside world\n- The ports you need to know about: SSH (22), RDP (3389), VNC (5900), and more\n- Why your ISP-provided router is probably your biggest vulnerability\n- Router recommendations that are actually worth your money (and what to avoid)\n- The truth about VPNs \u2014 when they help and when they're just hype\n- Software firewalls for both Windows and Linux\n- How to audit and block unknown devices on your network\n\nThe bottom line: Security is a journey, not a destination. Nobody is ever 100% safe \u2014 but knowing where to look puts you miles",
+        "id": 5284469,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=n7cjd5E_nsc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 444,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCg6gPGh8HU2U01vaFCAsvmQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/n7cjd5E_nsc/hqdefault.jpg",
+        "title": "Network Security Basics - Are you doing these things?",
+        "vote": 0
+    }
+]

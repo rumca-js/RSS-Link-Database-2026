@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Dave's Garage",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-19T02:26:48.893135+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-18T23:47:05+00:00",
+        "description": "Ever wonder why Task Manager shows a CPU value that doesn't \"feel\" right?  Dave explains why Task Manager shows you the values it does and how they are determined.  Comments with question marks get answered on our weekly ShopTalk:  https://youtu.be/iT0T52OV9B8",
+        "id": 5288588,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=HiHMQN3kQlQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 907,
+        "source_url": "https://youtube.com/channel/UCNzszbnvQeFzObW0ghk0Ckw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/HiHMQN3kQlQ/hqdefault.jpg",
+        "title": "Task Manager is LYING About Your CPU Usage (Here's the Truth)",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Gretchen Vogel",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-18T13:17:59.666371+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-18T07:30:00+00:00",
+        "description": "Children who had cerebral malaria or severe malaria anemia have lower scores on tests measuring general cognition and math achievement",
+        "id": 5284901,
+        "language": "en-US",
+        "link": "https://www.science.org/content/article/severe-malaria-may-affect-children-s-cognitive-abilities-more-decade-later",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 187,
+        "source_url": "https://www.science.org/rss/news_current.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Severe malaria may affect children\u2019s cognitive abilities more than a decade later",
+        "vote": 0
+    }
+]

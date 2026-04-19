@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Colin and Samir",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-18T15:20:54.554793+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-18T14:37:08+00:00",
+        "description": "Get clarity\nhttps://www.colinandsamir.com/vision\n\nCome to Press Publish LA\nhttps://www.presspublish.la",
+        "id": 5285531,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=evwBqYv_G4E",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 721,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCamLstJyCa-t5gfZegxsFMw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/evwBqYv_G4E/hqdefault.jpg",
+        "title": "10 harsh YouTube lessons we wish we knew at 20",
+        "vote": 0
+    }
+]

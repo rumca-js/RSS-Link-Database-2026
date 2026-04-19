@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Liam Dawe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-18T11:12:19.029051+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-18T10:25:33+00:00",
+        "description": "Wine 11.7 is out now for this impressive compatibility layer to run Windows apps and games on Linux.<p><img src=\"https://www.gamingonlinux.com/uploads/tagline_gallery/wine-generic.jpg\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonlinux.com/2026/04/wine-11-7-released-with-directsound-7-1-support-vbscript-improvements-msxml-updates/\">GamingOnLinux</a>.</p>",
+        "id": 5284280,
+        "language": "en-us",
+        "link": "https://www.gamingonlinux.com/2026/04/wine-11-7-released-with-directsound-7-1-support-vbscript-improvements-msxml-updates",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 130,
+        "source_url": "https://www.gamingonlinux.com/article_rss.php",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.gamingonlinux.com/uploads/tagline_gallery/wine-generic.jpg",
+        "title": "Wine 11.7 released with DirectSound 7.1 support, VBScript improvements, MSXML updates",
+        "vote": 0
+    }
+]
