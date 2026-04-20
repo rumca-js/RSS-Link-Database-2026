@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "David Bombal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-19T16:52:25.380558+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-19T14:01:12+00:00",
+        "description": "Big thank you to DeleteMe for sponsoring this video. Use my link https://joindeleteme.com/Bombal to receive a 20% discount or use the QR Code in the video.\n\nIn this OSINT deep dive, professional OSINT analyst Ray Baker joins David Bombal to explore the shadowy world of maritime cybersecurity and vessel tracking. Discover the critical differences between the dark fleet and shadow fleet, and learn the exact open-source intelligence methods used to track ships attempting to hide their identities on the open ocean. From manipulating AIS tracking data and repainting ship decks to the terrifying reality of hacking Chinese-made port cranes, this video uncovers the hidden cyber threats facing global supply chains. We also explore the tools used by professionals, such as MarineTraffic and Equasis, to investigate illicit maritime activities and track adversarial movements.\n\n// Rae Baker\u2019s SOCIAL //\nWebsite:  https://www.raebaker.net/\nLinkedIn:  https://www.linkedin.com/in/raebakerosint/\nX:  htt",
+        "id": 5289584,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=niL4JPfcD3g",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 984,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP7WmQ_U4GB3K51Od9QvM0w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/niL4JPfcD3g/hqdefault.jpg",
+        "title": "How to track dark ships using OSINT (with demos)",
+        "vote": 0
+    }
+]

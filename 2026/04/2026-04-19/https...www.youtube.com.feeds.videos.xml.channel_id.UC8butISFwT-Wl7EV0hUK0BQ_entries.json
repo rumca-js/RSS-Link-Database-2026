@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-19T17:24:05.632750+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-19T12:43:30+00:00",
+        "description": "What motivates people to keep contributing to open source projects? Mike discusses this with Quincy - and why he keeps working on Homebrew - on the freeCodeCamp podcast.",
+        "id": 5290311,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/F-d5DyFo3Cg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/F-d5DyFo3Cg/hqdefault.jpg",
+        "title": "What motivates people to keep contributing to open source projects?",
+        "vote": 0
+    }
+]

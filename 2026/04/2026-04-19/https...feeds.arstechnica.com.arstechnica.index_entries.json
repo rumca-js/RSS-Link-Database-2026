@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Stephen Clark",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-19T20:36:36.545239+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-19T18:19:19+00:00",
+        "description": "Blue Origin's reused first stage hit its targets, but New Glenn's upper stage did not.",
+        "id": 5292407,
+        "language": "en-US",
+        "link": "https://arstechnica.com/space/2026/04/errant-upper-stage-spoils-blue-origins-success-in-reusing-new-glenn-booster",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 21,
+        "source_url": "https://feeds.arstechnica.com/arstechnica/index",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2271539021-500x500.jpg",
+        "title": "Blue Origin's rocket reuse achievement marred by upper stage failure",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-19T17:48:55.694420+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-19T16:05:38+00:00",
+        "description": "Thousands of people have been displaced after a fire destroyed around 1,000 homes in Malaysia's Sabah state.",
+        "id": 5290955,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/videos/c4gjk99vp87o",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 522,
+        "source_url": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f823/live/0d49eb80-3c04-11f1-9d5c-8ba507d7dbde.jpg",
+        "title": "Drone footage shows huge Malaysian coastal village fire",
+        "vote": 0
+    }
+]

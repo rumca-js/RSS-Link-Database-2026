@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jacki Thrapp",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-19T18:27:25.034125+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-19T16:56:32+00:00",
+        "description": "The New Glenn rocket booster landed on a sea-based platform in the Atlantic Ocean on Sunday morning.",
+        "id": 5291754,
+        "language": "en-US",
+        "link": "https://www.theepochtimes.com/business/blue-origin-successfully-lands-reused-rocket-booster-for-first-time-6014125",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 105,
+        "source_url": "https://feed.theepochtimes.com/tech/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.theepochtimes.com/assets/uploads/2026/04/19/id6014130-Rocket-1080x720.jpg",
+        "title": "Blue Origin Successfully Lands Reused Rocket Booster for First Time",
+        "vote": 0
+    }
+]

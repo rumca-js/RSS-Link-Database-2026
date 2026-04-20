@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-19T17:43:51.393946+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-19T08:00:00+00:00",
+        "description": "<p><span>\n\nI made a new major mode for emacs: </span>\n\n<a href=\"https://github.com/jeffkaufman/mixed-html-mode\">mixed-html-mode</a>.\nOr, really, \n\n<a href=\"https://code.claude.com/docs/en/overview\">Claude\nCode</a> made one at my direction.  It does syntax highlighting in\nHTML files with inline CSS and JS. I had two goals, which weren't met\nby any mode I could find:\n\n\n\n<p>\n\n</p>\n\n<ol>\n\n<li><p>Does not freeze, flash, or stutter, even on huge files on slow\nmachines.\n\n</p></li>\n<li><p>Does not get confused about whether a portion of a file is HTML\nvs CSS vs JS.\n\n</p></li>\n</ol>\n\n\n\n<p>\n\nThe initial insight was that how browsers decide what text is HTML vs\nCSS vs JS is super simple: scanning for literal\n<code>&lt;script&gt;</code> and <code>&lt;style&gt;</code> tags.  I\npulled some tricky examples, described what I wanted, and then\niterated for about an hour until I had something that worked well.\nThen I tried to use it to write something for real, ran into a few\nother irritations, had Clau",
+        "id": 5290887,
+        "language": "en-US",
+        "link": "https://www.jefftk.com/p/mixedhtml-mode-for-emacs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 163,
+        "source_url": "https://www.jefftk.com/news.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.jefftk.com/mixedhtml-mode-for-emacs-screenshot.png",
+        "title": "MixedHTML Mode for Emacs",
+        "vote": 0
+    }
+]

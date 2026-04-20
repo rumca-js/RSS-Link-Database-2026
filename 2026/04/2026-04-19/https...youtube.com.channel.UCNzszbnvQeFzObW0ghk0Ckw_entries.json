@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Dave's Garage",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-19T21:34:28.146570+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-19T20:48:08+00:00",
+        "description": "Dave Plummer explains everything you should know about Mythos from Anthropic and the implications for cybersecurity and software!",
+        "id": 5292723,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=vELETrEp27k",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 907,
+        "source_url": "https://youtube.com/channel/UCNzszbnvQeFzObW0ghk0Ckw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/vELETrEp27k/hqdefault.jpg",
+        "title": "Mythos: Explained by a Retired Microsoft Engineer",
+        "vote": 0
+    }
+]

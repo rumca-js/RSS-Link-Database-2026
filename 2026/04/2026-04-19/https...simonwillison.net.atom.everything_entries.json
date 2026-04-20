@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Simon Willison",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-19T22:49:42.425148+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-19T21:46:38+00:00",
+        "description": null,
+        "id": 5293082,
+        "language": "en-us",
+        "link": "https://simonwillison.net/2026/Apr/19/headless-everything/#atom-everything",
+        "manual_status_code": 0,
+        "page_rating": 28,
+        "page_rating_contents": 87,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 423,
+        "source_url": "https://simonwillison.net/atom/everything",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Headless everything for personal AI",
+        "vote": 0
+    }
+]

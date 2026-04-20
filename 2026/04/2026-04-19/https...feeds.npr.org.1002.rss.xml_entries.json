@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Will Shortz",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-19T17:33:44.785657+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-19T08:02:02+00:00",
+        "description": "NPR's Elissa Nadworny plays the puzzle with WMEH listener Chee Sing Lee and Weekend Edition Puzzlemaster Will Shortz.",
+        "id": 5290596,
+        "language": "en",
+        "link": "https://www.npr.org/2026/04/19/nx-s1-5786535/sunday-puzzle-for-mimi",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 226,
+        "source_url": "https://feeds.npr.org/1002/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media.npr.org/assets/img/2018/11/18/sundaypuzzle-widecrop_wide-e9db77594a243ca3f48b0ec413928b6aab7b605c.jpg",
+        "title": "Sunday Puzzle: For Mimi",
+        "vote": 0
+    }
+]

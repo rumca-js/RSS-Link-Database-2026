@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "AI Search",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-19T18:11:27.515237+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-19T03:28:42+00:00",
+        "description": "Opus 4.7, HY World 2.0, Qwen 3.6, Happy Oyster, GPT Rosalind, Lyra 2 #ai #ainews #aitools #aivideo #agi\n\nThanks to our sponsor Hubspot. Access \u201cYour AI Content Team\u201d for free https://clickhubspot.com/fe093c \n\nSources in order of mention\nPrompt relay https://gordonchen19.github.io/Prompt-Relay/\nTernary Bonsai https://prismml.com/news/ternary-bonsai\nGPT Rosalind https://openai.com/index/introducing-gpt-rosalind/\nWildDet3D https://allenai.github.io/WildDet3D/\nMotifVideo https://motiftech.io/videoshowcase\nAniGen https://yihua7.github.io/AniGen_web/\nHappy Oyster https://www.happyoyster.cn/\nLyra 2 https://research.nvidia.com/labs/sil/projects/lyra2/\nHY World 2.0 https://github.com/Tencent-Hunyuan/HY-World-2.0\nOmniShow https://correr-zhou.github.io/OmniShow/\nClaude Opus 4.7 https://www.anthropic.com/news/claude-opus-4-7\nQwen 3.6 https://qwen.ai/blog?id=qwen3.6-35b-a3b\nTokenLight https://vrroom.github.io/tokenlight/ \nGameWorld https://gameworld-project.github.io/\nGemini 3.1 TTS https://blog.g",
+        "id": 5291506,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=G8fqduzB5lc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 806,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIgnGlGkVRhd4qNFcEwLL4A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/G8fqduzB5lc/hqdefault.jpg",
+        "title": "Claude Opus 4.7, Qwen 3.6, Happy Oyster, realtime 3D worlds, new Google TTS: AI NEWS",
+        "vote": 0
+    }
+]
