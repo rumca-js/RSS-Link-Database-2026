@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Learn Linux TV",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-20T16:14:37.611439+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-20T14:01:38+00:00",
+        "description": "lnav is a powerful, feature-rich log file viewer for Linux that makes analyzing, searching, and filtering log files far easier than traditional tools like tail and grep. In this tutorial, you'll learn how to install lnav, navigate its interface, search and filter log files, view multiple logs at once, and tail live log files in real time \u2014 all from the command line.\n\nWhether you're a Linux sysadmin troubleshooting a production server, a homelab enthusiast digging through system logs, or a Linux user who wants a smarter way to read log files, lnav is a tool worth adding to your workflow.\n\n*\ud83c\udf93 Save 20% on Learn Linux TV's Paid Courses!*\nIf you want to study for the Linux Essentials exam or learn how to automate with Ansible, use the coupon code below to save 20%! Offer expires April 30th 2026.\n \u2022 LPI Linux Essentials \u279c https://learnlinux.link/linux-essentials\n \u2022 Getting Started with Ansible \u279c https://learnlinux.link/ansible\nUse the following coupon code to save 20%: youtubecoursepromo2k2",
+        "id": 5298560,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=z0jBa_mkui0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 997,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxQKHvKbmSzGMvUrVtJYnUA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/z0jBa_mkui0/hqdefault.jpg",
+        "title": "lnav Tutorial: Analyze Linux Log Files Like a Pro",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "C++ Weekly With Jason Turner",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-20T16:15:50.555000+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-20T15:30:22+00:00",
+        "description": "In this episode Jason and Mathieu are joined by Keith Stockdale to discuss compiler warings, warnings as errors, and the process of conforming your C++ code to stricter standards.\n\nKeith is a Northern Irish senior software engineer who has been working on the Engine and Rendering teams at Rare since 2017, but initially got his start there as a rendering intern in 2015. He primarily works on Engine and Rendering level systems involving General Purpose GPU systems such as GPU particle systems. Keith is enthusiastic about promoting and writing good quality code, whether it is running on the CPU or on the GPU. Keith is currently working on a Shader Test Framework which aims to promote writing unit tests for shader code, just like you would with regular CPU code. While working on this project Keith contributed TEST_CASE_PERSISTENT_FIXTURE to Catch2. Keith has also contributed to every major release of Unreal Engine from 5.2 to 5.7.\n\nhttps://kstocky.github.io/\n\nNews Items:\n\n* https://herbsu",
+        "id": 5298571,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=qXweoDfdUOY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 48,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxHAlbZQNFU2LgEtiqd2Maw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/qXweoDfdUOY/hqdefault.jpg",
+        "title": "Sea of Thieves - Keeping Games Up to Standard - Keith Stockdale - CppCast 406 / C++Weekly 529",
+        "vote": 0
+    }
+]

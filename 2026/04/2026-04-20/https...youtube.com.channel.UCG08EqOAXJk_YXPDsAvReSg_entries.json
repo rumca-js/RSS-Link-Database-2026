@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unity",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-20T18:19:59.663621+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-20T17:17:24+00:00",
+        "description": "This video continues the exploration of URP Render Graph samples, focusing on advanced data passing, compute shaders, and GBuffer management.\n\nThe Render Graph video series provides an introductory walkthrough of the Render Graph API in Unity\u2019s Universal Render Pipeline (URP) using the Render Graph samples. Render Graph, introduced in Unity 6, is a programming interface designed to manage GPU resources and rendering passes efficiently, replacing the older scriptable render passes.\n\n\ud83d\udd17 Continue learning about the Render Graph system:\n\nDiscussions: \n\u27a1\ufe0f The Render Graph viewer: https://on.unity.com/RGViewer\n\u27a1\ufe0f Understanding the Render Graph Samples: https://on.unity.com/RGSamples\n\nStages of rendering a frame in URP infographic:  https://on.unity.com/URPInfographic\nRender graph samples - part 1: https://on.unity.com/RenderGraphPart1\n\nYouTube Tutorials:\n\u27a1\ufe0f Introduction to Render Graph in Unity 6: https://on.unity.com/IntroRenderGraph\n\u27a1\ufe0f Understanding URP and essentials - https://on.unity.co",
+        "id": 5299722,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=D7YBpOg6DZY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 683,
+        "source_url": "https://youtube.com/channel/UCG08EqOAXJk_YXPDsAvReSg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/D7YBpOg6DZY/hqdefault.jpg",
+        "title": "Migrating to Render Graph: Understanding the Render Graph Samples - Part 2",
+        "vote": 0
+    }
+]

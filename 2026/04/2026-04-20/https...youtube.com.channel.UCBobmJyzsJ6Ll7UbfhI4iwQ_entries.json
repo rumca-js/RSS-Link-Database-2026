@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unreal Engine",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-20T18:57:55.237351+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-20T17:42:48+00:00",
+        "description": "Join Epic, CLO, and Marvelous Designer, as we build a MetaHuman from scratch, design custom garments in CLO, and animate the results in Unreal Engine. We\u2019ll start by showcasing some inspiring creator work before diving into our own build to show you how seamlessly these tools integrate for professional results.",
+        "id": 5300103,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=x_PUm5SIhbo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 685,
+        "source_url": "https://youtube.com/channel/UCBobmJyzsJ6Ll7UbfhI4iwQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/x_PUm5SIhbo/hqdefault.jpg",
+        "title": "Tailoring for MetaHumans: CLO and Marvelous Designer to UE Demo",
+        "vote": 0
+    }
+]

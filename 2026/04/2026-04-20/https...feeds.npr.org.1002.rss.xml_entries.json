@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Associated Press",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-20T06:18:21.148969+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-20T02:10:00+00:00",
+        "description": "The winner from Honor, a Chinese smartphone maker, completed the race in 50 minutes and 26 seconds, running faster than the human world record in a show of China's technological leaps.",
+        "id": 5294564,
+        "language": "en",
+        "link": "https://www.npr.org/2026/04/20/g-s1-118086/humanoid-robot-half-marathon",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 226,
+        "source_url": "https://feeds.npr.org/1002/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7855x5237+0+0/resize/7855x5237!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2a%2F17%2F9a6f1d734db78edd7f205bb23f9b%2Fap26109007904657.jpg",
+        "title": "A humanoid robot sprints past the human half-marathon world record in Beijing race",
+        "vote": 0
+    }
+]

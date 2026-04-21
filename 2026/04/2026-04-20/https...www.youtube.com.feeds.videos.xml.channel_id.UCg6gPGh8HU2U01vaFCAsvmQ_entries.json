@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Chris Titus Tech",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-20T13:52:36.692492+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-20T11:15:02+00:00",
+        "description": "Pop!OS used to be one of the best Linux distro recommendations \u2014 but that was years ago. In 2026, with Cosmic Desktop still in beta and shipped as the default in Pop!OS 24 LTS, new users are walking into a minefield of memory leaks, GPU bugs, audio issues, and an unresponsive GitHub with 1,700+ open issues.\n\nIn this video, I break down exactly why Pop!OS should NOT be on your list if you're new to Linux \u2014 and what you should install instead.\n\n\u23f1\ufe0f CHAPTERS\n00:00 \u2014 Why we're talking about Pop!OS in 2026\n01:06 \u2014 Cosmic Desktop is still in beta\n02:57 \u2014 What \"LTS\" is supposed to mean\n04:01 \u2014 Cosmic is the heaviest desktop in Linux\n05:32 \u2014 GitHub bug deep-dive: memory leaks and more\n07:28 \u2014 Is System76 even reading their community feedback?\n09:11 \u2014 Better alternatives: Linux Mint, Fedora, Bazzite, CachyOS\n11:10 \u2014 Final message to System76\n\n\ud83d\udd17 Referenced in this video:\n\u2022 Pop!OS / Cosmic GitHub Issues: https://github.com/pop-os/cosmic-epoch/issues\n\u2022 https://christitus.com/stop-using-pop-os-cosm",
+        "id": 5296466,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=MwZq2_J_lSY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 444,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCg6gPGh8HU2U01vaFCAsvmQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/MwZq2_J_lSY/hqdefault.jpg",
+        "title": "Stop Using Pop!OS \u2014 It's Failing New Linux Users in 2026",
+        "vote": 0
+    }
+]

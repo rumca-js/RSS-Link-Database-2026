@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/Fit-Jello-4828",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-20T16:39:41.846887+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-20T16:32:41+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>I am running a few projects as a solo founder and I wanted to know how others are managing the infrastructure side of things. My current setup is that everything is on one platform, each project in its own isolated space with separated billing, separated deployments, and clean boundaries. My GitHub handles automatic deployment on push. I was previously managing deployments across three different platforms with separate logins and separate billing, but now that isnt the case anymore but I am still not 100% happy with my setup. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Fit-Jello-4828\"> /u/Fit-Jello-4828 </a> <br/> <span><a href=\"https://www.reddit.com/r/developer/comments/1squhe8/whats_your_current_deployment_setup_and_what/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/developer/comments/1squhe8/whats_your_current_deployment_setup_and_what/\">[comments]</a></span>",
+        "id": 5298788,
+        "language": "en",
+        "link": "https://www.reddit.com/r/developer/comments/1squhe8/whats_your_current_deployment_setup_and_what",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 508,
+        "source_url": "https://www.reddit.com/r/developer/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "What's your current deployment setup, and what would you do differently?",
+        "vote": 0
+    }
+]

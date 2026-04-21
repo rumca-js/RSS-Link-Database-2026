@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-20T22:45:04.995926+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-20T22:15:54+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nBetter Expressiveness with Parallel Range Algorithms - Ruslan Arutyunyan - CppCon 2025\n---\n\nInitially we have an example that counts the number of words in a string written with C++17 parallel algorithms. This talk shows how the example can be rewritten with Parallel Range Algorithms to achieve better expressiveness and much clearer semantics.\n---\n\nWork at Hudson River Trading (HRT): https://tinyurl.com/safxfctf\n---\n\nRuslan Arutyunyan\n \nRuslan is a Senior Middleware Development Engineer specializing in parallel and threading runtimes. He joined Intel in 2017 and has experience in the autonomous driving domain, where he led the development of two libraries. Currently, Ruslan is the lead developer of oneAPI DPC++ library (oneDPL) while also contributing to other Intel products, including oneAPI Threading Building Blocks (oneTBB). He is an active member of the C++ Standard Committee (WG21), focusing on the C++ standard library, concurrency, and parallelism, with ",
+        "id": 5301833,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=UavZbFgSuUc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/UavZbFgSuUc/hqdefault.jpg",
+        "title": "Lightning Talk: Better Expressiveness with Parallel Range Algorithms - Ruslan Arutyunyan",
+        "vote": 0
+    }
+]

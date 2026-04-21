@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-20T00:22:07.465506+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-20T00:22:04.752608+00:00",
+        "description": "The 63-year-old mathematician, who is set to receive $3 million, becomes the third French recipient of this prestigious award in mathematics. In his field, analysis, he has established a widely recognized school of thought.",
+        "id": 5293379,
+        "language": "en-US",
+        "link": "https://www.lemonde.fr/en/science/article/2026/04/20/french-mathematician-frank-merle-wins-silicon-valley-s-breakthrough-prize_6752603_10.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 190,
+        "source_url": "https://www.lemonde.fr/en/science/rss_full.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.lemde.fr/2026/04/17/822/0/2668/1334/644/322/60/0/21f3472_upload-1-zy0nl3lt5iil-frank-merle-chris-peus-ihes.JPG",
+        "title": "French Mathematician Frank Merle wins Silicon Valley's Breakthrough Prize",
+        "vote": 0
+    }
+]

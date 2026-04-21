@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-20T07:41:52.855462+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-20T02:28:54+00:00",
+        "description": "After two centuries of failed attempts, scientists have finally grown dolomite in the lab, cracking a long-standing geological puzzle. They discovered that the mineral\u2019s growth stalls because of tiny defects\u2014but in nature, those flaws get washed away over time. By mimicking this process with precise simulations and electron beam pulses, the team achieved record-breaking crystal growth. The finding could reshape how high-tech materials are made.",
+        "id": 5294865,
+        "language": "en-us",
+        "link": "https://www.sciencedaily.com/releases/2026/04/260420015840.htm",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 188,
+        "source_url": "https://www.sciencedaily.com/rss/all.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "After 200 years scientists finally crack the \u201cdolomite problem\u201d",
+        "vote": 0
+    }
+]
