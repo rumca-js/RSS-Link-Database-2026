@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "redakcja",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-21T13:56:33.470462+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-21T11:40:24+00:00",
+        "description": "<p>Jaka pi\u0119kna katastrofa! W tej historii jest wszystko: infekcja nie jednego, a dw\u00f3ch niezbyt roztropnych pracownik\u00f3w r\u00f3\u017cnych &#8220;technicznych&#8221; firm. Przeskok z jednej zainfekowanej infrastrukry na drug\u0105, bo \u017cadna z firm nie korzysta\u0142a z zasady minimalnych przywilej\u00f3w a mo\u017cna odnie\u015b\u0107 wra\u017cenie, \u017ce w og\u00f3le z \u017cadnych mechanizm\u00f3w bezpiecze\u0144stwa. I wreszcie grupa atakuj\u0105cych, kt\u00f3ra kradnie to\u017csamo\u015b\u0107 innej grupie oraz pluj\u0105cy jadem internetowi przeciwnicy vibecodingu, kt\u00f3rzy z wid\u0142ami poszli na firm\u0119, bo przecie\u017c wiadomo, \u017ce &#8220;ka\u017cdy programista AI to debil&#8221;. A okaza\u0142o si\u0119, \u017ce AI nie mia\u0142o z tym atakiem niczego wsp\u00f3lnego.<span id=\"more-27020\"></span></p>\n<h3>Od czego si\u0119 zacz\u0119\u0142o?</h3>\n<p>19 kwietnia na znanym hackerskim forum pojawi\u0142a si\u0119\u00a0informacja o tym, \u017ce popularna w\u015br\u00f3d vibecoder\u00f3w platforma Vercel zosta\u0142a zhackowana. Atakuj\u0105cy podpisuj\u0105cy si\u0119\u00a0jako ShinyHunters wystawili na sprzeda\u017c klucze i dost\u0119py do bazy danych firmy. Zrobi\u0142o si\u0119\u00a0gor\u0105co w \u015brodowisku, bo Vercel st",
+        "id": 5306856,
+        "language": "pl-PL",
+        "link": "https://niebezpiecznik.pl/post/zhackowali-ich-bo-pracownik-saas-z-ktorego-korzystali-pobral-cheaty-do-gier-czyli-dlaczego-trzeba-uwazac-na-oauth",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 239,
+        "source_url": "https://feeds.feedburner.com/niebezpiecznik",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://niebezpiecznik.pl/wp-content/uploads/2026/04/contex.ai-vercel-150x150.png",
+        "title": "Zhackowali ich, bo pracownik SaaS z kt\u00f3rego korzystali pobra\u0142 cheaty do gier. Czyli dlaczego trzeba uwa\u017ca\u0107 na OAuth!",
+        "vote": 0
+    }
+]

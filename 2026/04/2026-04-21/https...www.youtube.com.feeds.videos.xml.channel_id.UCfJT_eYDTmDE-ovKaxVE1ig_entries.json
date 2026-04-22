@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kevin Stratvert",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-21T10:43:30.853026+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-21T07:00:03+00:00",
+        "description": "This tutorial shows you how to connect Claude to your calendar, email, and thousands of other apps so your AI agent can do real work for you, using the Zapier SDK.\n\u26a1 Get started with the Zapier SDK (free during beta) \u279c https://zapiersdk.kevinstratvert.com \n\nFirst, you'll learn why the Zapier SDK gives your agent more flexibility than MCP, which limits you to a pre-built menu of actions. \n\nNext, you'll install the SDK in Claude Code in just a couple of minutes, connecting your Google Calendar and Gmail through Zapier's managed authentication. \n\nYou'll then test it out with simple tasks, like pulling your calendar events and reading your unread emails, all through natural language. \n \nAfterward, you'll build a full daily briefing that combines your meetings, important emails, and newsletters into one summary, complete with links to dive deeper. \n\nAlong the way, you'll see how to correct and iterate on the output just by talking to Claude, and how to email the finished brief to yourself.",
+        "id": 5305315,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=arPyNnENPrU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 958,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfJT_eYDTmDE-ovKaxVE1ig",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/arPyNnENPrU/hqdefault.jpg",
+        "title": "How to Connect Claude to Every App You Use",
+        "vote": 0
+    }
+]

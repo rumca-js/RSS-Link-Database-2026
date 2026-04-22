@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "GitHub",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-21T17:58:48.991416+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-21T15:01:00+00:00",
+        "description": "In this demo from GitHub Universe 2025, we explore how to use the Goose AI agent with the GitHub MCP server. Watch as we automatically create and assign a new GitHub issue straight from the terminal. We also dive into MCPUI, demonstrating how your AI agent can respond with fully interactive visual interfaces like a team project calendar. \n\n#GitHubIssues #MCP #Goose \n\nWatch the full video here: https://www.youtube.com/watch?v=PvdptUZ3XeU\n\nStay up-to-date on all things GitHub by connecting with us:\n\nYouTube: https://gh.io/subgithub\nBlog: https://github.blog\nX: https://twitter.com/github\nLinkedIn: https://linkedin.com/company/github\nInsider newsletter: https://resources.github.com/newsletter/\nInstagram: https://www.instagram.com/github\nTikTok: https://www.tiktok.com/@github\n\nAbout GitHub\nIt\u2019s where over 180 million developers create, share, and ship the best code possible. It\u2019s a place for anyone, from anywhere, to build anything\u2014it\u2019s where the world builds software. https://github.com",
+        "id": 5309005,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Vd1y45pMRCk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 1005,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7c3Kb6jYCRj4JOHHZTxKsQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/Vd1y45pMRCk/hqdefault.jpg",
+        "title": "How to use MCPUI and Goose to manage GitHub issues",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-21T14:01:46.179490+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-21T14:00:00+00:00",
+        "description": "<div id=\"link_wrapped_content\">\n<body><section class=\"wp-block-bigbite-multi-title\"><div class=\"container\"></div></section>\n\n\n\n<p>You never click on links in email. You only install apps from known storefronts\u2014Microsoft, Steam, etc. You add only browser extensions that have strong reviews and lots of other users. And yet, your PC could still be at risk of getting infected with malware.</p>\n\n\n\n<p>Why? Hackers can take over legitimate software and use it to push malicious updates to unsuspecting users.</p>\n\n\n\n<p>In the past, this method of attack was rarer. When PC utility <a href=\"https://en.wikipedia.org/wiki/CCleaner\">CCleaner</a> got compromised in 2017, the incident became notorious in part because of how unusual the breach was. Even up until a couple of years ago, news in this vein happened infrequently.</p>\n\n\n\n<p>But AI added fuel to the cybersecurity fire, allowing bad actors to increase the speed and breadth of attacks. Previously, the most activity would be in browser extensio",
+        "id": 5306913,
+        "language": "en-US",
+        "link": "https://www.pcworld.com/article/3118728/even-trusted-apps-can-infect-your-pc-with-malware-now.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 245,
+        "source_url": "https://www.pcworld.com/index.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://b2c-contenthub.com/wp-content/uploads/2025/12/Notepad.jpg?quality=50&strip=all&w=1200",
+        "title": "Even trusted apps can infect your PC with malware now",
+        "vote": 0
+    }
+]

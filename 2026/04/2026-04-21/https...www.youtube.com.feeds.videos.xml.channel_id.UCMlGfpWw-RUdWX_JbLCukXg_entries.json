@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-21T15:27:34.231161+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-21T15:02:08+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nA Pack as an Optional Parameter - Braden Ganetsky - CppCon 2025\n---\n\nWith fold expressions landing in C++17, using parameter packs is more expressive than ever before. Now we can do some tricks with variadics that make our code so much cleaner. This lightning talk shows off a fun trick of using fold expressions to make the parameter pack behave as a parameter that is optionally specified.\n---\n\nWork at Hudson River Trading (HRT): https://tinyurl.com/safxfctf\n---\n\nBraden Ganetsky\n \nBraden Ganetsky graduated from the University of Manitoba with a degree in mechanical engineering, fueled by his passion for mechanical puzzles. During his final year of school, when all classes and activities were remote, he discovered C++ and has been hooked ever since. He interned as a C++ developer, which turned into a full time job, completing a successful pivot of his career. Now he spend his nights working on fun projects like parser combinators, and getting involved in the C++",
+        "id": 5307482,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=dl8Fdw5F8_U",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/dl8Fdw5F8_U/hqdefault.jpg",
+        "title": "Lightning Talk: A Pack as an Optional Parameter - Braden Ganetsky - CppCon 2025",
+        "vote": 0
+    }
+]

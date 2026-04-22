@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-21T12:35:37.020458+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-21T08:00:00+00:00",
+        "description": "<p><span>\n\nThree years ago I wrote about how we should be </span>\n\n<a href=\"https://www.jefftk.com/p/preparing-for-less-privacy\">preparing\nfor less privacy</a>: technology will make previously-private things\npublic.  I applied this by \n\n<a href=\"https://www.jefftk.com/p/linking-alt-accounts\">showing</a> how I\ncould deanonymize people on the EA Forum.  In 2023 this looked like\nwriting custom code to use stylometry on an exported corpus\nrepresenting a small group of people; today it looks like prompting \"I\nhave a fun puzzle for you: can you guess who wrote the following?\"\n\n\n\n<p>\n\nKelsey Piper <a href=\"https://www.theargumentmag.com/p/i-can-never-talk-to-an-ai-anonymously\">writes</a>\nabout how Opus 4.7 could identify her writing from short snippets, and\nI decided to give it a try.  Here's a paragraph from an unpublished\nblog post:\n\n</p>\n\n<p>\n\n</p>\n\n<blockquote>\nTonight she was thinking more about how unfair milking is to cows,\nprimarily the part where their calves are taken away, and dec",
+        "id": 5306176,
+        "language": "en-US",
+        "link": "https://www.jefftk.com/p/automated-deanonymization-is-here",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 163,
+        "source_url": "https://www.jefftk.com/news.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Automated Deanonymization is Here",
+        "vote": 0
+    }
+]

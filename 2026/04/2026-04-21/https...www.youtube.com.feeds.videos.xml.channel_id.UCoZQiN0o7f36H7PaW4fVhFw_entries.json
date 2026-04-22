@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Retro Game Corps",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-21T16:18:01.668339+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-21T14:01:37+00:00",
+        "description": "NetherSX2 Turnip is a new fork of the popular NetherSX2 apps.  It embeds custom Adreno Turnip drivers into the app itself, for improved accuracy and performance on Snapdragon devices like the Retroid Pocket 5/6, Odin 2/3, and AYN Thor handhelds.  In this video we'll take a look at how it performs compared to NetherSX2 Classic (3668).\n\nNetherSX2 Turnip: https://github.com/nckstwrt/NetherSX2-Turnip\nNetherSX2 Classic: https://github.com/Trixarian/NetherSX2-classic\nNetherSX2 Patch: https://github.com/Trixarian/NetherSX2-patch\nARMSX2: https://armsx2.net/\n\nHandhelds used in this video: \nRetroid Pocket 5: https://youtu.be/ZFTrwWQOe5Y\nRetroid Pocket 6: https://youtu.be/4ByeyqlasHY\nAYN Thor: https://youtu.be/9b9kuFcFblg\nAYN Odin 3: https://youtu.be/AEmThOmbWEo\n\nWays to support this channel:\nRGC merch: https://store.retrogamecorps.com\nYT channel membership: https://www.youtube.com/channel/UCoZQiN0o7f36H7PaW4fVhFw/join\nPatreon: https://www.patreon.com/retrogamecorps\nKo-Fi: https://ko-fi.com/retr",
+        "id": 5308012,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=zCbn1hhzJRE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 823,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCoZQiN0o7f36H7PaW4fVhFw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/zCbn1hhzJRE/hqdefault.jpg",
+        "title": "There's a New PS2 Emulator Fork on Android",
+        "vote": 0
+    }
+]

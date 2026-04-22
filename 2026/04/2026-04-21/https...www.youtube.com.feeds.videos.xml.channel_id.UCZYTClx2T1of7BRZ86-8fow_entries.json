@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "SciShow",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-21T18:43:59.952226+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-21T17:00:00+00:00",
+        "description": "Some beaches are known for being legendary surf spots. They get their status thanks to bathymetry and the physics of waves. And recently a team of physicists used math to decode the secret formula behind those gnarly waves. \n\nHosted by: Savannah Geary (they/them)\n----------\nSupport us for $8/month on Patreon and keep SciShow going!\nhttps://www.patreon.com/scishow\nOr support us directly: https://complexly.com/support\nJoin our SciShow email list to get the latest news and highlights: \nhttps://mailchi.mp/scishow/email\n----------\nHuge thanks go to the following Patreon supporters for helping us keep SciShow free for everyone forever: Eric Jensen, Garrett Galloway, Jp Lynch, Toyas Dhake, Lyndsay Brown, Friso, Cye Stoner, Chris Mackey, Jeremy Mattern, Matt Curls, Chris Curry, Fahmy Issa, Reed Spilmann, David Johnston, J.V. Rosenbalm, Jaap Westera, Blood Doctor Kelly, Adam Brainard, Bethany Matthews, Piya Shedden, Jason A Saslow, Joseph Ruf, Kevin Bealer, Kevin Knupp, Alex Hackman, Chris Pet",
+        "id": 5309568,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=xhahnvObE5s",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 294,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZYTClx2T1of7BRZ86-8fow",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/xhahnvObE5s/hqdefault.jpg",
+        "title": "How Physicists Can Create Better Surfing Waves",
+        "vote": 0
+    }
+]
