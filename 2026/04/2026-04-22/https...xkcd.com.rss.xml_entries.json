@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-22T21:19:03.861302+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-22T04:00:00+00:00",
+        "description": "<img src=\"https://imgs.xkcd.com/comics/border_message.png\" title=\"Thanks to differences in logging regulations, the messages actually turned out to be visible from the air.\" alt=\"Thanks to differences in logging regulations, the messages actually turned out to be visible from the air.\" />",
+        "id": 5320765,
+        "language": "en",
+        "link": "https://xkcd.com/3236",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 573,
+        "source_url": "https://xkcd.com/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://imgs.xkcd.com/comics/border_message.png",
+        "title": "Border Message",
+        "vote": 0
+    }
+]

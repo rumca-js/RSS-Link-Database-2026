@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unreal Sensei",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-22T15:58:38.626276+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-22T15:02:46+00:00",
+        "description": "The ultimate free master material for UE5! Features include Nanite displacement, world aligned texturing (triplanar projection), layer mesh painting, puddles and much more! Create the majority of materials easily without touching the material graph.\n\nLink to The Unreal Masterclass:\nhttps://www.unrealsenseinewsletter.com\n\nGet It Here:\nhttps://www.unrealsensei.com/senseimastermaterial\n\nSignup for the Unreal Sensei Newsletter:\nhttps://www.unrealsensei.com/newsletter\n\nFollow on Twitter: x.com/@unrealsensei\n\nChapters:\n0:00 - Intro\n1:17 - Basic Features\n18:01 - Triplanar Projection\n25:43 - Nanite Displacement\n36:24 - Mesh Painting Layers\n54:52 - Practical Examples\n59:07 - Unreal Masterclass\n1:00:05 - Puddles!",
+        "id": 5317982,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=WUtl1K9Pn7k",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 542,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCue7TFlrt9FxXarpsl872Dg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/WUtl1K9Pn7k/hqdefault.jpg",
+        "title": "The Ultimate All-in-One Material for Unreal",
+        "vote": 0
+    }
+]

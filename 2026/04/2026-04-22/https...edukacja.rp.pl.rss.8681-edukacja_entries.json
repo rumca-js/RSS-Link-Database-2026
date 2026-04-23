@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-22T08:21:45.287429+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-22T08:21:42.953970+00:00",
+        "description": "Uniwersytet Warszawski poinformowa\u0142 o powa\u017cnym naruszeniu ochrony danych osobowych. W wyniku ataku hakerskiego do darknetu trafi\u0142o 850 GB danych. Incydent dotyczy student\u00f3w, pracownik\u00f3w i kandydat\u00f3w, a skala wycieku obejmuje m.in. numery PESEL.",
+        "id": 5314343,
+        "language": "pl-PL",
+        "link": "https://edukacja.rp.pl/uczelnie-wyzsze/art44205691-cyberatak-na-uniwersytet-warszawski-wrazliwe-dane-o-studentach-trafily-do-darknetu",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 270,
+        "source_url": "https://edukacja.rp.pl/rss/8681-edukacja",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Cyberatak na Uniwersytet Warszawski. Wra\u017cliwe dane o studentach trafi\u0142y do darknetu",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Sourav Rudra",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-22T06:29:37.147745+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-22T05:55:05+00:00",
+        "description": "The Playnix Console is a \u20ac1,179 Linux-powered gaming machine with an RX 9060 XT inside.",
+        "id": 5313758,
+        "language": "en-US",
+        "link": "https://itsfoss.com/news/playnix-linux-console",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 156,
+        "source_url": "https://news.itsfoss.com/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://itsfoss.com/content/images/2026/04/playnix-console-banner.png",
+        "title": "The People Who Put Emulators on Your Steam Deck Now Want to Sell You a Linux Console",
+        "vote": 0
+    }
+]

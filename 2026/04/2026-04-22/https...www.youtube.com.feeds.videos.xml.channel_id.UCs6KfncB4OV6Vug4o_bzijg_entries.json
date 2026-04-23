@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Techlore",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-22T16:04:21.738646+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-22T15:01:42+00:00",
+        "description": "Helium Browser has been one of the most requested first looks from the community, so here it is. Built by a two-person team, Helium is an open source Chromium-based browser that ships with uBlock Origin and provides an experience with zero bloat. Can it compete with Brave? In this video I showcase the differences and who I think Helium is (and isn't) for. A couple things worth noting: Helium also supports !bangs and vertical tabs, two features I didn't cover in this video. Neither changes my overall take, but they're worth knowing about if those matter to your workflow!\n\n\ud83d\udd17 SOURCES & LINKS\n\u2022 Our Written Breakdown: https://techlore.tech/helium-browser-review-a-truly-minimal-privacy-focused-chromium-browser/\n\u2022 Helium: https://helium.computer\n\u2022 Imput: https://imput.net\n\n\ud83d\udd0e RELATED VIDEOS\nhttps://youtu.be/3i5KH0l895o\nhttps://youtu.be/W6cKFliWW6Q\n\n\ud83e\udde1 SUPPORT TECHLORE\n\u2022 Become a Techlorian: https://techlore.tech/support/#/portal/signup\n\u2022 All Support Methods: https://techlore.tech/support/\n\n\ud83d\udd10 M",
+        "id": 5318064,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=zPqsIGALt7s",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 327,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/zPqsIGALt7s/hqdefault.jpg",
+        "title": "Helium Browser: A Brave Alternative with No Baggage (And No Bloat)",
+        "vote": 0
+    }
+]

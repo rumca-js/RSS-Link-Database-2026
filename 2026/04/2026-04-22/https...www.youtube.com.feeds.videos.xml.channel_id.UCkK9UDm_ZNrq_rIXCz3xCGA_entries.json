@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Lunduke Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-22T19:16:29.999884+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-22T18:22:32+00:00",
+        "description": "According to System76's CEO, who has seen the amended Colorado SB26-051, Linux, GitHub, and other Open Source projects and systems would not require Age Verification.\n\nMore from The Lunduke Journal:\nhttps://lunduke.com/",
+        "id": 5319872,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=9qV2ZttlUl8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 616,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkK9UDm_ZNrq_rIXCz3xCGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/9qV2ZttlUl8/hqdefault.jpg",
+        "title": "Open Source Exemption Added to Colorado Age Verification Bill",
+        "vote": 0
+    }
+]

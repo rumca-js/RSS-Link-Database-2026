@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Foundation",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-22T15:16:13.569283+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-22T14:44:54+00:00",
+        "description": "Open source maintainers face an impossible challenge: AI bots are flooding repositories with pull requests\u2014some helpful, some malicious, most just noise. Manual code reviews can't keep pace, and a single compromised dependency can cascade into a supply chain attack affecting millions of users.\nIn this exclusive interview with Swapnil Bhartiya, CRob, CTO of OpenSSF, and Michael Lieberman, Co-founder and CTO of Kusari, announce that Kusari Inspector is now free for all CNCF and OpenSSF projects. This AI-powered security tool acts like a virtual security engineer, running automated scans, filtering false positives, and identifying real threats\u2014from SQL injections to malicious pipeline changes\u2014before code gets merged.\nKey Topics Covered:\nHow AI-generated code creates new supply chain attack vectors in open source ecosystems\nKusari Inspector's multi-modal approach: GitHub app, GitHub Actions, and CLI integration for agentic workflows\nReal-world detection of malicious CI/CD pipeline modific",
+        "id": 5317619,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=xam5MHGy1Nc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 499,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfX55Sx5hEFjoC3cNs6mCUQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/xam5MHGy1Nc/hqdefault.jpg",
+        "title": "AI Code Floods Open Source: How Kusari Inspector Filters Malicious PRs | CRob & Michael Lieberman",
+        "vote": 0
+    }
+]
