@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "David Bombal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-23T15:38:11.097246+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-23T14:00:12+00:00",
+        "description": "The Cisco Universal Quantum Switch is designed to route quantum information between systems while preserving it, with a Cisco-patented conversion engine that translates between all encoding and entanglement modalities at input and output.\n\nIn proof-of-concept experiments, the switch preserved quantum information with less than 4% degradation in encoding and entanglement fidelity. The complete findings are expected to be published in an upcoming research paper on ArXiv.\n\nRead more here: https://blogs.cisco.com/news/the-switch-that-quantum-networking-has-been-waiting-for\n\n#quantum #encryption #cybersecurity",
+        "id": 5327565,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/3TGxZQmLsCc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 984,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP7WmQ_U4GB3K51Od9QvM0w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/3TGxZQmLsCc/hqdefault.jpg",
+        "title": "How long before your encryption is broken?  (Quantum Switch is here)",
+        "vote": 0
+    }
+]

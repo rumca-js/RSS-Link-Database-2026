@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-23T16:37:20.313138+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-23T14:30:49+00:00",
+        "description": "GStack is an open-source toolkit built by YC President & CEO Garry Tan that turns Claude Code into an AI engineering team \u2014 with skills for office hours, design, code review, QA, and browser testing. \n\nhttps://github.com/garrytan/gstack\n\nIn this video, Garry walks through how GStack works, starting with Office Hours, a skill modeled after real YC partner sessions that pressure-tests your idea before you write a line of code. He demos it live, going from idea through adversarial review, design mockups, and automated QA in a single session.\n\nApply to Y Combinator: https://www.ycombinator.com/apply\nWork at a startup: https://www.ycombinator.com/jobs\n\nhttps://www.conductor.build/",
+        "id": 5328039,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=wkv2ifxPpF8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/wkv2ifxPpF8/hqdefault.jpg",
+        "title": "Inside Garry Tan's Claude Code Setup",
+        "vote": 0
+    }
+]

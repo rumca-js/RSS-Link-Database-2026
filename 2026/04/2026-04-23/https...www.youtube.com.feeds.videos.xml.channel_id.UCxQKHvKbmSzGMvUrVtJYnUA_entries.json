@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Learn Linux TV",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-23T16:54:36.777678+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-23T14:00:32+00:00",
+        "description": "Immutable Linux distros are one of the most talked-about concepts in the Linux world right now \u2014 but what does \"immutable\" actually mean, and should you consider switching? In this video, we break down exactly what immutable Linux distros are, how they work under the hood, what technologies power them, and whether they're the right choice for you.\n\nThis isn't just a buzzword \u2014 immutable Linux distros represent a fundamentally different approach to how a Linux system is designed, updated, and protected. Whether you're a Linux sysadmin, a homelab enthusiast, or just someone curious about where Linux is headed, this explainer will give you a solid foundation.\n\n*\ud83c\udf93 Save 20% on Learn Linux TV's Paid Courses!*\nIf you want to study for the Linux Essentials exam or learn how to automate with Ansible, use the coupon code below to save 20%! Offer expires April 30th 2026.\n \u2022 LPI Linux Essentials \u279c https://learnlinux.link/linux-essentials\n \u2022 Getting Started with Ansible \u279c https://learnlinux.link/a",
+        "id": 5328189,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=F-2DwVe4vkc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 997,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxQKHvKbmSzGMvUrVtJYnUA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/F-2DwVe4vkc/hqdefault.jpg",
+        "title": "What Is an Immutable Linux Distro? (And Should You Use One?)",
+        "vote": 0
+    }
+]

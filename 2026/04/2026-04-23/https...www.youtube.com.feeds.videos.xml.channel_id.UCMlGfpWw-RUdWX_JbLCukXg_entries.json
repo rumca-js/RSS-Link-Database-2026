@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-23T16:17:33.770419+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-23T15:02:12+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nWe Are Family - Jody Hagins - CppCon 2025\n---\n\nWe are part of a great community. We are engineers, programmers, analysts, and other professionals. But we are all also human. And we need each other. I've been asked many times about my wife's health, and it has been good the last few times I've met with the community. It's tough right now, and I want to share something I wrote several weeks ago about that, and an insight I've received about the price and reward of love.\n\nThis has nothing to do with C++ or technology, except that's what I do and the community I'm part of.\n---\n\nWork at Hudson River Trading (HRT): https://tinyurl.com/safxfctf\n---\n\nJody Hagins\n \nJody Hagins has been using C++ for the better part of four decades. He remains amazed at how much he does not know after all those years. He has spent most of that time designing and building systems in C++, for use in the high frequency trading space.\n---\n\nCppCon is the annual, week-long face-to-face gather",
+        "id": 5327843,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=HBpilPBu-UY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/HBpilPBu-UY/hqdefault.jpg",
+        "title": "Lightning Talk: We Are Family - Jody Hagins - CppCon 2025",
+        "vote": 0
+    }
+]

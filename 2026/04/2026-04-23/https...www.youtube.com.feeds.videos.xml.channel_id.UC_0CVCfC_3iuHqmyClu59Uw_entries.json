@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ETA PRIME",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-23T15:55:57.644513+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-23T14:18:38+00:00",
+        "description": "In this video, we're taking a look at one of the coolest do-it-yourself single-board computer projects out there: the all-new Waveshare PocketTerm35. This DIY handheld kit is designed specifically for the Raspberry Pi 4 and Raspberry Pi 5.\n\nBuy It Here: https://www.waveshare.com/pocketterm35.htm?srsltid=AfmBOopNZFEX2HJx2KCW-MAsNLI9VkEVZdCDecgH5bh-2-7QWPUIk8qv\n\nI put together the kit using a Raspberry Pi 5 and a 5000mAh battery, walking you through the assembly of the metal front shell, dual speakers, and the 3.5-inch optically bonded IPS display. We check out the custom membrane keyboard, test its performance with RetroArch for GBA and Dreamcast emulation, and I share my plans to use this awesome little cyberdeck as a dedicated Arduino programmer for ESP32 projects\n\nFollow Me On Twitter: https://twitter.com/theetaprime\nFollow Me On Instagram: https://www.instagram.com/etaprime/\n\nVip-URCDKey 25% code for software: ETA\u00a0\nWindows 11 Pro Key($25):https://biitt.ly/RUZiX\u00a0\nWindows 11 Home Key",
+        "id": 5327664,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=xsfA2pbVhsU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 100,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_0CVCfC_3iuHqmyClu59Uw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/xsfA2pbVhsU/hqdefault.jpg",
+        "title": "Pocket Term35 First Look! A DIY Linux Handheld",
+        "vote": 0
+    }
+]

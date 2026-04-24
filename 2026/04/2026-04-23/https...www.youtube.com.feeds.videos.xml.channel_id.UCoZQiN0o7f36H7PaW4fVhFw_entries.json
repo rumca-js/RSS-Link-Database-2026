@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Retro Game Corps",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-23T14:28:50.844841+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-23T14:00:44+00:00",
+        "description": "I love streaming games from my PC to a handheld; it allows me to play more demanding games on the go. This video is a comprehensive guide on how to set up a number of different options, including apps like Apollo, Artemis, Sunshine, and Moonlight.\n\nStreaming apps:\nApollo: https://github.com/ClassicOldSong/Apollo\nArtemis: https://github.com/ClassicOldSong/moonlight-android\nSunshine: https://github.com/lizardbyte/sunshine\nMoonlight: https://app.lizardbyte.dev/Sunshine/\nSteam Link: https://store.steampowered.com/remoteplay\nDuo: https://github.com/DuoStream/Duo\nRazer Remote Play: https://www.razer.com/gaming-software/razer-pc-remote-play\n\nMy favorite handhelds for streaming:\nAYN Odin 3: https://youtu.be/AEmThOmbWEo\nAYN Odin 2 Portal: https://youtu.be/DTCGlq3gBTM\nMangmi Pocket Max: https://youtu.be/zDlPCjdOaCM\nRetroid Pocke Flip 2: https://youtu.be/6LIZWnD-62Q\nRP Flip 2 grips: https://www.etsy.com/listing/4299735809/retroid-pocket-flip-2-grip-ergonomic-3d\n\nOther links mentioned in the vide",
+        "id": 5326759,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=RiggvcusEuA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 823,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCoZQiN0o7f36H7PaW4fVhFw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/RiggvcusEuA/hqdefault.jpg",
+        "title": "Handheld Streaming Guide (Apollo, Moonlight, etc)",
+        "vote": 0
+    }
+]

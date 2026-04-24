@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ThioJoe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-23T15:30:42.933552+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-23T14:45:05+00:00",
+        "description": "Turns out 32 Bit apps aren't always as fast as 64 bit apps \ud83e\udd14\n\nA while ago I made a video about the difference between 32 bit and 64 bit apps, and did some tests about which was faster. I concluded that 32 bit apps can run faster, though there were other things to consider like how much memory they can access. But it turns out my test was flawed, because it was written in C# and used the .NET Framework, not native compiled code like in C++. So I created more tests to settle this once and for all.\n\nTime Stamps:\n0:00 - Intro\n0:49 - Why I Was Wrong\n2:27 - The NEW Results\n4:55 - Which Should You Use?\n5:35 - Should You EVER Use 32 Bit?\n\n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\n\u2022 My Desktop Wallpapers \u21e8 https://thiojoe.art/\n\u21e8 http://Instagram.com/ThioJoe\n\u21e8 http://Twitter.com/ThioJoe\n\u21e8 http://Facebook.com/ThioJoeTV\n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac",
+        "id": 5327426,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=OKoXqA-wFrk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 366,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQSpnDG3YsFNf5-qHocF-WQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/OKoXqA-wFrk/hqdefault.jpg",
+        "title": "I Was WRONG About 32-Bit Apps",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-23T11:58:33.311503+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-23T11:07:00+00:00",
+        "description": "<p><span face=\"Arial, sans-serif\" style=\"background-color: white; color: black; font-size: 10pt; font-style: normal; font-variant: normal; font-weight: 400; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The PSF is pleased to announce its first </span><span face=\"Arial, sans-serif\" style=\"background-color: white; color: black; font-size: 10pt; font-style: normal; font-variant: normal; font-weight: 400; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">batch</span><span face=\"Arial, sans-serif\" style=\"background-color: white; color: black; font-size: 10pt; font-style: normal; font-variant: normal; font-weight: 400; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> of PSF Fellows for </span><span face=\"Arial, sans-serif\" style=\"background-color: white; color: black; font-size: 10pt; font-style: normal; font-variant: normal; font-weight: 400; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">2",
+        "id": 5325492,
+        "language": "en",
+        "link": "https://pyfound.blogspot.com/2026/04/announcing-python-software-foundation.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 267,
+        "source_url": "https://pyfound.blogspot.com/feeds/posts/default?alt=rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Announcing Python Software Foundation Fellow Members for Q1 2026! \ud83c\udf89",
+        "vote": 0
+    }
+]

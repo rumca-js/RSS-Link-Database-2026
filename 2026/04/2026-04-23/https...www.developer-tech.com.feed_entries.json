@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ryan Daws",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-23T17:20:45.802342+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-23T16:46:06+00:00",
+        "description": "<p>Google released Android Studio Panda 4 alongside the April release of Jetpack Compose this week, delivering new tools for mobile teams. The Android Studio Panda 4 release arrives as a stable build ready for production use, introducing a system named \u2018Planning Mode\u2019. Rather than relying on a single pass where the onboard AI model directly [&#8230;]</p>\n<p>The post <a href=\"https://www.developer-tech.com/news/google-ships-android-studio-panda-4-jetpack-compose/\">Google ships Android Studio Panda 4 and Jetpack Compose 1.11</a> appeared first on <a href=\"https://www.developer-tech.com\">Developer Tech News</a>.</p>",
+        "id": 5328558,
+        "language": "en-GB",
+        "link": "https://www.developer-tech.com/news/google-ships-android-studio-panda-4-jetpack-compose",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 92,
+        "source_url": "https://www.developer-tech.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Google ships Android Studio Panda 4 and Jetpack Compose 1.11",
+        "vote": 0
+    }
+]

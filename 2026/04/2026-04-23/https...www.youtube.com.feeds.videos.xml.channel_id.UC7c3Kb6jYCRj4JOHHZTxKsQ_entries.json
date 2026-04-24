@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "GitHub",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-23T18:29:28.336184+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-23T16:01:34+00:00",
+        "description": "Merge conflicts, failing tests, messy PRs. What if you could just ask Copilot to fix all of it? \nTim Rogers is back to show what's new with Copilot Cloud Agent: private sessions before you open a PR, model choice, and just say \"@Copilot fix the merge conflicts\" and it handles it. Plus a sneak peek at what's coming next. Which one are you trying first? \n\nTry it out today: ttps://docs.github.com/en/enterprise-cloud@latest/copilot/concepts/agents/cloud-agent/about-cloud-agent?utm_source=youtube-checkout-cloud-agent-cta&utm_medium=social&utm_campaign=dev-pod-agentic-platform-2026\n\n#GitHubCopilot #CopilotCloudAgent #GitHub \n\n\u2014 CHAPTERS \u2014\n\n00:00 Welcome to GitHub Checkout\n00:49 Exploring the agents tab and models\n02:55 How Copilot handles tasks and PRs privately\n05:19 Mentioning @copilot to edit code and fix conflicts\n08:16 Customizing security and test settings\n09:44 Sneak peek: automatic CI/CD fixes and public API\n11:24 Outro\n\nStay up-to-date on all things GitHub by connecting with us:\n\nY",
+        "id": 5329201,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=ws_3hiXLKjQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 1005,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7c3Kb6jYCRj4JOHHZTxKsQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/ws_3hiXLKjQ/hqdefault.jpg",
+        "title": "Fixing merge conflicts and PRs with Copilot cloud agent | GitHub Checkout",
+        "vote": 0
+    }
+]
