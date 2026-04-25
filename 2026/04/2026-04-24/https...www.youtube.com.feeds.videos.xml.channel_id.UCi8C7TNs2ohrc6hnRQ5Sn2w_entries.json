@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kai Lentit",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-24T15:10:31.272844+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-24T14:26:05+00:00",
+        "description": "officehumor\ntech layoffs\nmicrosoft layoffs\nai layoffs\ncorporatehumor\ntech job",
+        "id": 5337046,
+        "language": "en-US",
+        "link": "https://www.youtube.com/shorts/M_QQR2QVVg8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 264,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCi8C7TNs2ohrc6hnRQ5Sn2w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/M_QQR2QVVg8/hqdefault.jpg",
+        "title": "*every corporate job*",
+        "vote": 0
+    }
+]

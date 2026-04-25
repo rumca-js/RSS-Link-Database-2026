@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Raina Douris",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-24T18:51:06.184584+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-24T14:14:09+00:00",
+        "description": "The band's new record explores themes of change and impermanence.",
+        "id": 5339076,
+        "language": "en",
+        "link": "https://www.npr.org/sections/world-cafe/2026/04/24/nx-s1-5798761/the-new-pornographers-album-the-former-site-of",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 226,
+        "source_url": "https://feeds.npr.org/1002/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "undefined",
+        "title": "The New Pornographers on their latest album, 'The Former Site Of'",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-24T15:27:11.184313+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-24T15:02:07+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nOptimizing Memcpy Reads From DMA Memory - Arjun Mariyala - CppCon 2025\n---\n\nReading from FPGA or NIC DMA buffers on the host isn\u2019t the same as a normal memcpy. Cache snooping, memory attributes, and TLB pressure can all turn a simple copy into hidden latency, while unaligned access patterns may force unnecessary modify/update traffic. This talk shows how to potentially optimize DMA reads with huge pages, prefetching, and cache-aware access so data lands in L# predictably, without pathological snoop traffic or cache-set conflicts which may cut hundreds of nanoseconds from critical C++ packet pipelines.\n---\n\nWork at Hudson River Trading (HRT): https://tinyurl.com/safxfctf\n---\n\nArjun Mariyala\n\nHello, I\u2019m Arjun \u2014 a software engineer and Linux enthusiast. Over my career I\u2019ve worked across distributed systems, networking infrastructure, and low-latency systems. I grew up in California and now work in Chicago. Outside of work, I enjoy sports, the outdoors, and trying",
+        "id": 5337217,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=0p6_bVFK0Ec",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/0p6_bVFK0Ec/hqdefault.jpg",
+        "title": "Lightning Talk: Optimizing Memcpy Reads From DMA Memory - Arjun Mariyala - CppCon 2025",
+        "vote": 0
+    }
+]

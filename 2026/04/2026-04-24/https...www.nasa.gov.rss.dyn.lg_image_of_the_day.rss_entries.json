@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-24T15:42:52.036799+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-24T14:59:00+00:00",
+        "description": "NASA celebrates Hubble\u2019s 36th anniversary with a new image of the Trifid Nebula, a star-forming region it first captured in 1997. The telescope leveraged almost its full operational lifetime to show us changes in the nebula on human time scales with an improved camera.",
+        "id": 5337385,
+        "language": "en-us",
+        "link": "https://www.nasa.gov/image-detail/full-res-for-display-4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 485,
+        "source_url": "https://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "The Day of the Trifid Nebula",
+        "vote": 0
+    }
+]

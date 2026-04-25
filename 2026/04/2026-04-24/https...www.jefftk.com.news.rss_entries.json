@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-24T17:59:38.392327+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-24T08:00:00+00:00",
+        "description": "<p><span>\n\nA friend </span>\n\n<a href=\"https://www.facebook.com/groups/111126912393768/posts/3264703353702759\">observed</a>\na pattern where contra dance events seem to be pairing older and\nyounger callers.  I looked over my \n\n<a href=\"https://docs.google.com/spreadsheets/d/1fQq7pTtNVMYVRgOPbjNz2jnyw4RABGrQoplrSQntbn8/edit?gid=1187858755#gid=1187858755\">notes</a>\nfor two-caller events in 2025 and saw [1]:\n\n\n\n<p>\n\n</p>\n\n<ul>\n<li>Two older callers: 33 events\n</li>\n<li>One of each: 30 events\n</li>\n<li>Two younger callers: 4 events\n</li>\n</ul>\n\n\n\n<p>\n</p>\n\n<p>\n\nSeems pretty clear evidence of pairing, no?  But this actually turns\nout to be what you'd expect to see if organizers ignored age.\n\n</p>\n\n<p>\n\nWith 67 two-caller events there are 134 slots.  Of these, 96 (72%)\nwent to older callers and 38 (28%) went to younger ones.  So there are\nfour possibilities:\n\n</p>\n\n<p>\n\n</p>\n\n<table border=\"1\" cellpadding=\"5\">\n<tr>\n<td></td>\n<th>caller 1 older </th>\n<th>caller 1 younger\n</th>\n</tr>\n<tr>\n<th>c",
+        "id": 5338634,
+        "language": "en-US",
+        "link": "https://www.jefftk.com/p/contra-events-pairing-callers-by-age",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 163,
+        "source_url": "https://www.jefftk.com/news.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.jefftk.com/two-caller-events-by-gender.png",
+        "title": "Contra Events Pairing Callers By Age?",
+        "vote": 0
+    }
+]

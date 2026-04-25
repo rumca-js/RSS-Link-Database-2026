@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Veritasium",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-24T14:02:44.389150+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-24T13:00:42+00:00",
+        "description": "If you've been on a modern train you won't have noticed that classic \"clickety-clack\" sound anymore. This is because train tracks are now one continuous piece of rail without gaps. \n\nBut one long piece of metal without room to expand when hot is dangerous.\n\nThus, engineers had to come up with an ingenious solution involving... jagged rocks?",
+        "id": 5336471,
+        "language": "en-US",
+        "link": "https://www.youtube.com/shorts/MVFd0qFB9TE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 379,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/MVFd0qFB9TE/hqdefault.jpg",
+        "title": "Why don't trains make *that* sound anymore?",
+        "vote": 0
+    }
+]

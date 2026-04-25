@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-24T15:19:07.427508+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-24T04:00:00+00:00",
+        "description": "<img src=\"https://imgs.xkcd.com/comics/husband_and_wife.png\" title=\"Borat came out twenty years ago this year--closer to the breakup of the Soviet Union than to today--but it honestly feels like it's been even longer, somehow.\" alt=\"Borat came out twenty years ago this year--closer to the breakup of the Soviet Union than to today--but it honestly feels like it's been even longer, somehow.\" />",
+        "id": 5337154,
+        "language": "en",
+        "link": "https://xkcd.com/3237",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 573,
+        "source_url": "https://xkcd.com/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://imgs.xkcd.com/comics/husband_and_wife.png",
+        "title": "Husband and Wife",
+        "vote": 0
+    }
+]

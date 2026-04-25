@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Caleb Curry",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-24T17:11:42.399561+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-24T16:25:41+00:00",
+        "description": "FREE Full series and notes - https://www.codebreakthrough.io/computer-science-mastery\nSWE Fundamentals - https://www.codebreakthrough.com/software-engineering-fundamentals\n\nTimestamps:\n00:00 - Introduction  \n00:30 - What is Computer Science  \n01:00 - Computer Science Roadmap  \n01:30 - 1. Fundamentals and Number Systems  \n02:00 - 2. Data Types  \n02:30 - 3. Data Structures and Algorithms  \n03:00 - 4. Languages, Compilers, Tooling  \n03:30 - 5. Platforms  \n04:00 - 6. Program Execution and Memory  \n04:30 - 7. Programming Paradigms  \n05:00 - 8. Server vs Client, Browsers  \n05:30 - 9. Web Development Principles  \n06:00 - 10. Development Workflows + Version Control  \n06:30 - 11. Software Development Lifecycle  \n07:00 - 12. Networking + HTTP  \n07:30 - 13. Communication Protocols  \n08:00 - 14. Security + Common Threats  \n08:30 - 15. Infra and Cloud Computing  \n09:00 - 16. Databases  \n09:30 - 17. Distributed Computing  \n10:00 - 18. Design Patterns  \n10:30 - 19. Cryptography  \n11:00 - 20. Concurr",
+        "id": 5338305,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=FU62jHPAn8s",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 418,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZUyPT9DkJWmS_DzdOi7RIA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/FU62jHPAn8s/hqdefault.jpg",
+        "title": "Complete Computer Science Roadmap - Everything you should know as a Software Engineer",
+        "vote": 0
+    }
+]

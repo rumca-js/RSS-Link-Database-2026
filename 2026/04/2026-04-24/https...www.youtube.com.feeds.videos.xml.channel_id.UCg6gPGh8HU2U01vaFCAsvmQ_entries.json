@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Chris Titus Tech",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-24T13:02:24.415948+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-24T11:15:08+00:00",
+        "description": "New to Linux and don't know where to start? Skip the overwhelming tier lists \u2014 these are the only 3 distros you need to know. Whether you're a gamer who wants things to just work, a power user ready to dive into Arch, or an office user who needs rock-solid stability, there's a perfect starting point for you. We cover Bazzite, CachyOS, and Linux Mint \u2014 including full installs, first-boot setup, and what makes each one stand out. Remember: distros aren't a destination, they're a starting spot.\n\n0:00 - Why distros are a starting point, not an endpoint\n0:53 - How to flash a USB drive with Rufus\n1:34 - Installing Bazzite\n3:01 - What makes Bazzite ATOMIC\n5:41 - Bazzite Secure Boot Setup\n6:40 - Using ujust, Flatpaks & Distrobox\n9:07 - Topgrade\n11:36 - Installing CachyOS\n17:06 - Choosing a desktop environment\n21:32 - CachyOS first boot\n28:33 - Installing Linux Mint\n32:37 - Linux Mint Walkthrough\n35:42 - Final recommendations\n\n\u25ba\u25ba Digital Downloads \u279c https://www.cttstore.com\n\u25ba\u25ba Patreon \u279c https:",
+        "id": 5335931,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=hnNjFysodRo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 444,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCg6gPGh8HU2U01vaFCAsvmQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/hnNjFysodRo/hqdefault.jpg",
+        "title": "3 Linux Distros, 3 Types of Users - Which One Are You?",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NetworkChuck",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-24T15:52:59.275488+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-24T15:24:45+00:00",
+        "description": "Download and try Codex: https://ntck.co/codex\nFull Repo: https://github.com/openai/codex\n\n#ChatGPT_Partner #sponsored",
+        "id": 5337484,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/s1O09zc3xVY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 565,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9x0AN7BWHpCDHSm9NiJFJQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/s1O09zc3xVY/hqdefault.jpg",
+        "title": "Most AI coding tools don\u2019t sandbox on Windows (except one)",
+        "vote": 0
+    }
+]

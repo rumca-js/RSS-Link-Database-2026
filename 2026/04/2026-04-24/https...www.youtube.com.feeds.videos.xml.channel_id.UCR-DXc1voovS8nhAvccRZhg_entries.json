@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeff Geerling",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-24T14:32:51.286212+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-24T14:01:42+00:00",
+        "description": "10 Gigabit networking tech is finally getting smaller, cooler, and less expensive.\n\nIn this video, I test WisdPi's new 10G USB 3.2 adapter.\n\nSome of the things mentioned in this video (Amazon links are affiliate links):\n\n  - WisdPi 10G USB Network Adapter: https://www.wisdpi.com/products/usb-c-to-10gb-ethernet-adapter\n  - WisdPi 5G USB Network Adapter: https://www.wisdpi.com/products/wisdpi-usb-3-2-5g-ethernet-adapter-wp-ut5-wired-lan-network-connection-for-mac-os-linux-windows-backward-compatible-on-5g-2-5g-1g-100mbps-ideal-for-gaming\n  - OWC 10G Thunderbolt 4 10G Adapter: https://amzn.to/4tjVFJu\n  - QNAP 10G SFP+ Thunderbolt and USB4 Adapter: https://amzn.to/4vxSnDY\n\nSupport me on Patreon: https://www.patreon.com/geerlingguy\nSponsor me on GitHub: https://github.com/sponsors/geerlingguy\nMerch: https://www.redshirtjeff.com\n2nd Channel: https://www.youtube.com/@GeerlingEngineering\n3rd Channel: https://www.youtube.com/@Level2Jeff\n\nContents:\n\n00:00 - 10 Gbps NIC meets USB-C\n01:00 - Testi",
+        "id": 5336593,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=zYZbZJZfCFI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 161,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR-DXc1voovS8nhAvccRZhg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/zYZbZJZfCFI/hqdefault.jpg",
+        "title": "FINALLY: cheaper, smaller, cooler 10 GbE NICs",
+        "vote": 0
+    }
+]

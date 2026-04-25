@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-24T14:35:39.668315+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-24T09:00:00+00:00",
+        "description": "<p>For years, the best way to get 10 gigabit networking on laptops was to buy an expensive, large, and hot 10 GbE Thunderbolt adapter. With new RTL8159-based 10G USB 3.2 adapters coming onto the market, the bulky adapters might be a thing of the past. Just look at the size of the thing in comparison to my Thunderbolt adapters:</p>\n<figure class=\"insert-image\"><img src=\"https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/thunderbolt-and-usb-c-10g-ethernet-adapters.jpg\"\n alt=\"10 Gbps Ethernet adapters for Thunderbolt and USB\" width=\"700\" height=\"auto\">\n</figure>\n\n<p><a href=\"https://amzn.to/3QIkfFm\">2.5G</a> and even <a href=\"https://amzn.to/4mytCmZ\">5G USB adapters</a> have been out for a while, but sometimes you need more bandwidth.</p>",
+        "id": 5336636,
+        "language": "en",
+        "link": "https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 162,
+        "source_url": "https://www.jeffgeerling.com/blog.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/thunderbolt-and-usb-c-10g-ethernet-adapters.jpg",
+        "title": "New 10 GbE USB adapters are cooler, smaller, cheaper",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kevin Stratvert",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-24T08:56:52.868596+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-24T07:00:01+00:00",
+        "description": "This Claude Cowork tutorial for beginners shows you how to turn Claude from a simple chatbot into a hands-on assistant that works directly with the files and apps on your computer.  \ud83d\udcb5 Sponsor: QuickBooks Online Discount Here \u279c https://quickbooks.kevinstratvert.com/ \n\nFirst, you'll learn how to set up Claude Cowork by picking a folder and giving Claude access to everything in it. \n\nThen, you'll create a professional contract by having Claude reference your template and an entire folder of past contracts for inspiration. \n\nNext, you'll watch Claude take control of your browser, open QuickBooks Online, and split loan transactions into principal and interest categories automatically. \n\nAfterward, you'll build a polished PowerPoint presentation in two steps so you can inspect and edit the research outline before Claude turns it into slides. \n\nAlong the way, you'll see how Claude Cowork handles data analysis by joining three CSV files into one Excel workbook with pivot charts that visualize",
+        "id": 5334174,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=1oYDEa5Edho",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 958,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfJT_eYDTmDE-ovKaxVE1ig",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/1oYDEa5Edho/hqdefault.jpg",
+        "title": "Claude Cowork Tutorial for Beginners (Chatbot \u2192 AI Employee)",
+        "vote": 0
+    }
+]

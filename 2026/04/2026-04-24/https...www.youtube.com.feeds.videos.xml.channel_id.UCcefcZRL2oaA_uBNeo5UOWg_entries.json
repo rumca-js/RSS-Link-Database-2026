@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-24T14:44:45.635044+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-24T14:00:21+00:00",
+        "description": "AI isn't just making teams more productive. It's changing how companies should be built.\n\nIn this episode of Startup School, YC Partner Diana Hu explains what it means to build an AI-native company, where AI isn't just a tool but the operating system your company runs on.\n\nShe breaks down how to make your company queryable so agents can improve across every function, why management hierarchies break down when an intelligence layer replaces human middleware, and why early-stage founders have a massive edge in building this way from day one.   \n\n00:58 - AI as your company\u2019s operating system\n01:57 - Open vs closed loop companies\n03:00 - Making your company fully queryable\n05:00 - The rise of the 1,000x engineer\n07:12 - Why middle management disappears\n09:12 - Startups will win this shift\n\nApply to Y Combinator: https://www.ycombinator.com/apply\nWork at a startup: https://www.ycombinator.com/jobs",
+        "id": 5336729,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=EN7frwQIbKc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/EN7frwQIbKc/hqdefault.jpg",
+        "title": "How To Build A Company With AI From The Ground Up",
+        "vote": 0
+    }
+]
