@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Techlore",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-25T17:08:45.664806+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-25T16:00:03+00:00",
+        "description": "AI is everywhere, including Firefox. But, unlike many services, Mozilla has chosen to offer some toggles to turn them off completely. In this interview, Henry sits down with Adam Fishman, Mozilla's VP of Product, to cover the philosophy behind Firefox's AI features, how Smart Window works, the controls that let you turn everything off, if AI is even useful and why they are pursuing this, the importance of \"having a seat at the table\", and the surprising story of how Anthropic's Claude found several security vulnerabilities in Firefox.\n\n\ud83d\udd17 SOURCES & LINKS\n\u2022 Firefox: https://www.firefox.com\n\u2022 Mozilla AI: https://www.mozilla.ai\n\u2022 Mozilla Common Voice: https://commonvoice.mozilla.org\n\n\ud83d\udd0e RELATED VIDEOS\nhttps://youtu.be/bQzLGHWkTyg\nhttps://youtu.be/UkxZRgHYZcM\n\n\ud83e\udde1 SUPPORT TECHLORE\n\u2022 Become a Techlorian: https://techlore.tech/support/#/portal/signup\n\u2022 All Support Methods: https://techlore.tech/support/\n\n\ud83d\udd10 MORE FROM TECHLORE\n\u2022 Homepage & Newsletter: https://techlore.tech\n\u2022 Our Course, Go Incogn",
+        "id": 5345574,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=aHfhsfyVrKw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 327,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/aHfhsfyVrKw/hqdefault.jpg",
+        "title": "Mozilla's VP on Firefox AI: The Philosophy, The Controls, and the Risks",
+        "vote": 0
+    }
+]

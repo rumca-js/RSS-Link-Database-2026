@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Chloe Veltman",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-26T00:27:48.102381+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-25T19:44:46+00:00",
+        "description": "As some continue to pushback on AI art, artist Refik Anadol seeks to base his new venture on ethical and environmental principles.",
+        "id": 5347609,
+        "language": "en",
+        "link": "https://www.npr.org/2026/04/25/nx-s1-5799511/dataland-refik-anadol-los-angeles-ai-art-museum",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 226,
+        "source_url": "https://feeds.npr.org/1002/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/11656x8742+0+0/resize/11656x8742!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa6%2F13%2F20c3e7b74ac9a20ecb24e002dcdc%2Fgallery-c-infinity-room-9.jpg",
+        "title": "New museum dedicated to AI promises an ethical approach",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mental Outlaw",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-25T18:42:58.408903+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-25T17:27:16+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/u3XlqKBeONY\" width=\"480\" alt=\"thumbnail\" title=\"When The AI Model Comes With RCE\" /></p>In this video I discuss CVE-2026-5760 a critical remote code execution vulnerabilties that was discovered in SGLang's Jinja Templating engine.  If you're running SGLang it's recommended to use sandboxed jinja templates and ensure you aren't loading malicious GGUF Models to avoid a takeover of your AI server.<br /><br />My merch is available at<br />https://based.win/<br /><br />Subscribe to me on Odysee.com<br />https://odysee.com/@AlphaNerd:8<br /><br />\u20bf\ud83d\udcb0\ud83d\udcb5\ud83d\udcb2Help Support the Channel by Donating Crypto\ud83d\udcb2\ud83d\udcb5\ud83d\udcb0\u20bf<br /><br />Monero<br />45F2bNHVcRzXVBsvZ5giyvKGAgm6LFhMsjUUVPTEtdgJJ5SNyxzSNUmFSBR5qCCWLpjiUjYMkmZoX9b3cChNjvxR7kvh436<br /><br />Bitcoin<br />bc1qdc32p8035ztyvtm8t97gdcyhc26jg6cte9qc8n<br /><br />Ethereum<br />0xeA4DA3F9BAb091Eb86921CA6E41712438f4E5079<br /><br />Litecoin<br />MBfrxLJMuw26hbVi2MjCVDFkkExz8rYvUF<br />...<br />https://www.youtube.com/watch?v",
+        "id": 5346137,
+        "language": "en",
+        "link": "https://odysee.com/when-the-ai-model-comes-with-rce:455ca5544332104a00c56ae3ae11da81b9fc244a",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 513,
+        "source_url": "https://odysee.com/$/rss/@AlphaNerd:8",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/u3XlqKBeONY",
+        "title": "When The AI Model Comes With RCE",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-25T13:19:04.056373+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-25T11:01:32+00:00",
+        "description": "Ready to become a certified watsonx AI Assistant Engineer? Register now and use code IBMTechYT20 for 20% off of your exam \u2192 https://ibm.biz/BdpPUg\n\nLearn more about AI Agent Orchestration here  \u2192 https://ibm.biz/BdpPU8\n\nDo you build components or reuse existing ones when creating agentic AI systems? Katie McDonald and Brianne Zavala explain how orchestration, AI workflows, and hybrid approaches help teams coordinate tools, apply governance, and automate multi\u2011step tasks. Discover how to choose the approach that best fits your needs!\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/BdpPUp\n\n#agenticai #aiworkflows #hybridai",
+        "id": 5344232,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=tNQPNBQC5kg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/tNQPNBQC5kg/hqdefault.jpg",
+        "title": "Build, Reuse, or Hybrid? How Orchestration Powers Agentic AI",
+        "vote": 0
+    }
+]

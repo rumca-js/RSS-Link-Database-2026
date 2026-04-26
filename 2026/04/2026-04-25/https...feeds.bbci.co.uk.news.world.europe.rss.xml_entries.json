@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-25T17:34:56.907244+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-25T16:35:14+00:00",
+        "description": "The 300 couples were selected in a draw of nearly 2,000 people to be a part of the joint celebration.",
+        "id": 5345694,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/videos/cr71g8p2e9eo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 523,
+        "source_url": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c080/live/954392b0-4024-11f1-b55d-0f258dce1735.jpg",
+        "title": "Hope in Gaza as 300 couples get married at one time",
+        "vote": 0
+    }
+]

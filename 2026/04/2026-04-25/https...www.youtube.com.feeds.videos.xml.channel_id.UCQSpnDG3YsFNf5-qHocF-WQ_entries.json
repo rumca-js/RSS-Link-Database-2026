@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ThioJoe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-25T16:23:08.037310+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-25T15:45:04+00:00",
+        "description": "Google Chrome and other browsers finally added a long-awaited security feature.\n\nGoogle Chrome and other chromium-based browsers such as Edge, Opera, Brave, Vivaldi etc just got an important security upgrade. It's called \"Device Bound Session Credentials\", but don't let the technical terms scare you. Basically the idea is malware can no longer steal your browser cookies and send them to be used by hackers on another device. The cookies are \"bound\" to that specific device using the TPM module.\n\nTime Stamps:\n0:00 - Intro\n0:54 - How That\u2019s Fixed\n1:44 - The Previous Protections\n2:35 - Some Caveats\n3:27 - How to Check It\u2019s Working\n4:25 - How Hackers Might Adapt\n\n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\n\u2022 My Desktop Wallpapers \u21e8 https://thiojoe.art/\n\u21e8 http://Instagram.com/ThioJoe\n\u21e8 http://Twitter.com/ThioJoe\n\u21e8 http://Facebook.com/ThioJoeTV\n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac",
+        "id": 5345240,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=bwZdLk60B80",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 366,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQSpnDG3YsFNf5-qHocF-WQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/bwZdLk60B80/hqdefault.jpg",
+        "title": "Google Just Killed A Major Hacker Strategy",
+        "vote": 0
+    }
+]

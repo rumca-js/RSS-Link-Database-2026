@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-25T09:19:09.791998+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-25T07:02:42+00:00",
+        "description": "[allAfrica] Gavi, the Vaccine Alliance, has described the rollout of malaria vaccines across Africa as the fastest in its history, signalling a critical moment in the fight against one of the continent's deadliest diseases. 25 countries in Africa have introduced malaria vaccines into their routine immunisation programmes with Gavi support. Early reports indicate that the initiative has had a significant impact on saving lives, reducing severe diseases, and reducing hospital admissions.",
+        "id": 5343127,
+        "language": "en",
+        "link": "https://allafrica.com/stories/202604250001.html",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 15,
+        "source_url": "https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Africa: 'We Are at a Critical Point in the Fight Against Malaria' #WorldMalariaDay",
+        "vote": 0
+    }
+]
