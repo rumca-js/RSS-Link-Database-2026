@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-26T19:49:12.263953+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-26T19:16:58+00:00",
+        "description": "The US president says he saved eight Iranian women from execution, but Iran says otherwise.",
+        "id": 5352773,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/videos/cx2e2lg2ny9o",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 525,
+        "source_url": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b21/live/246eea50-4194-11f1-bd52-e755d604ece4.jpg",
+        "title": "Did Trump save eight Iranian women from execution?",
+        "vote": 0
+    }
+]

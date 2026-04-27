@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Bill Toulas",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-26T14:43:19.606954+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-26T10:22:34+00:00",
+        "description": "Itron, Inc. has disclosed, via an 8-K filing with the U.S. Securities and Exchange Commission (SEC), a cybersecurity incident in which an unauthorized third party accessed certain internal systems. [...]",
+        "id": 5351087,
+        "language": "en-US",
+        "link": "https://www.bleepingcomputer.com/news/security/american-utility-firm-itron-discloses-breach-of-internal-it-network",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 40,
+        "source_url": "https://www.bleepingcomputer.com/feed/",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "American utility firm Itron discloses breach of internal IT network",
+        "vote": 0
+    }
+]

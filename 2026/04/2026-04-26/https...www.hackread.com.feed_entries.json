@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Deeba Ahmed",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-26T19:27:09.996389+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-26T19:21:35+00:00",
+        "description": "Microsoft Entra Agent ID flaw allowed privilege escalation and tenant takeover via Service Principal abuse, now fully patched by Microsoft.",
+        "id": 5352680,
+        "language": "en-US",
+        "link": "https://hackread.com/microsoft-entra-agent-id-flaw-tenant-takeover",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 139,
+        "source_url": "https://www.hackread.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Microsoft Entra Agent ID Flaw Enabled Tenant Takeover via Privilege Escalation",
+        "vote": 0
+    }
+]
