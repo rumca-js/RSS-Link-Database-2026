@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-27T17:31:31.410953+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-27T17:13:35+00:00",
+        "description": "Beatrice Venezi's appointment had been marred in controversy since being announced last September, prompting orchestra members to go on strike.",
+        "id": 5360220,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/cx2d2ennv95o",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 523,
+        "source_url": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53bb/live/c855ba20-4259-11f1-8860-53005c0bd838.jpg",
+        "title": "Venice opera house drops incoming music director after nepotism remarks",
+        "vote": 0
+    }
+]

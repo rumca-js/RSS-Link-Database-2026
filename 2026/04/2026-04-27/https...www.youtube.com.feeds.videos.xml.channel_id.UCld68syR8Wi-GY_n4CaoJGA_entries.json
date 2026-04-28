@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-27T18:33:11.571479+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-27T17:30:30+00:00",
+        "description": "You should never pick up and plug random USB devices into your system, but sometimes you can't control what other do to your system and you want to make sure that no one ever plugs in a BadUSB\n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\nKernel Patch: https://lore.kernel.org/lkml/20260404133746.80914-1-zybo1000@gmail.com\nUSB Guard Website: https://usbguard.github.io/\nArch Wiki USB Guard: https://wiki.archlinux.org/title/USBGuard\nUSBKill: https://github.com/fabiogermann/usbkill\nSilk Guardian: https://github.com/kmille/silk-guardian\n\n=========Video Platforms==========\n\ud83c\udfa5 React: https://www.youtube.com/@BrodieRobertsonReacts\n\ud83c\udfa5 Podcast: https://techovertea.xyz/youtube\n\ud83c\udfae Gaming: https://brodierobertson.xyz/gaming\n\n==========Social Media==========\n\ud83c\udfa4 Discord: https://brodier",
+        "id": 5360836,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=tLKOH-CUWyI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/tLKOH-CUWyI/hqdefault.jpg",
+        "title": "Protect Your Linux Desktop From Malicious USB Devices",
+        "vote": 0
+    }
+]

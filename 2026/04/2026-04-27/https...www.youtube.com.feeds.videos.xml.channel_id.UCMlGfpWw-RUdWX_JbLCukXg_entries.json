@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-27T15:21:03.434036+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-27T15:02:28+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nLightning Talk: A Pragmatic Approach to C++: Designing, Organizing and Writing Maintainable Code - Oleg Rabaev - CppCon 2025\n---\n\nIn fast-paced environments, programmers must strike a realistic balance between maintaining a high-quality codebase and delivering new functionality quickly. This talk presents a set of practical principles that, when applied with discipline, enable developers to produce code that is readable, maintainable, and well-designed\u2014delivered on time and with no bugs.\n---\n\nWork at Hudson River Trading (HRT): https://tinyurl.com/safxfctf\n---\n\nOleg Rabaev\n\nI am a C++ developer who deeply cares about proper software design, clean code and testing. Experience in building large scale financial trading and risk management systems, in-memory databases and reusable libraries.\n---\n\n\nCppCon is the annual, week-long face-to-face gathering for the entire C++ community. The conference is organized by the C++ community for the community. You will enjoy i",
+        "id": 5359003,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=re4Oy1IVj-s",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/re4Oy1IVj-s/hqdefault.jpg",
+        "title": "A Pragmatic Approach to C++: Designing, Organizing and Writing Maintainable Code - Oleg Rabaev",
+        "vote": 0
+    }
+]

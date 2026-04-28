@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unity",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-27T19:21:29.725327+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-27T18:27:40+00:00",
+        "description": "Unity 2D game development in Unity 6 starts here with 2D Adventure Game Robot Repair, a beginner friendly Unity Learn course that teaches you how to create your own 2D adventure game step by step. \n\nIn this course you will build player movement, world building, physics, health systems, hazards, collectibles, enemies, interaction systems, UI Toolkit interfaces, dialogue, audio, and visual effects. \n\nWhether you are new to Unity game development or looking for a guided Unity 2D course, Robot Repair is a great way to learn core workflows and create a polished playable game.\n\nCheck out the course: https://on.unity.com/RobotRepair\nTry the demo on Unity Play: https://on.unity.com/PlayRobotRepair\n\n#Unity #UnityLearn",
+        "id": 5361124,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=LgWQy6UWM9g",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 683,
+        "source_url": "https://youtube.com/channel/UCG08EqOAXJk_YXPDsAvReSg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/LgWQy6UWM9g/hqdefault.jpg",
+        "title": "2D Beginner Adventure: Robot Repair",
+        "vote": 0
+    }
+]

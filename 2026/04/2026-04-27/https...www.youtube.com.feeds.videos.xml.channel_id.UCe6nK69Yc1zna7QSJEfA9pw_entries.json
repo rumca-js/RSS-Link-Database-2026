@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Niebezpiecznik",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-27T12:52:58.105244+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-27T11:52:59+00:00",
+        "description": "Drukarka w ustawieniach fabrycznych to nie jest bezpieczny punkt startu. Domy\u015blna konfiguracja, otwarte porty, fabryczne has\u0142a i zbyt szerokie uprawnienia to prosty spos\u00f3b, \u017ceby zostawi\u0107 w infrastrukturze niepotrzebn\u0105 luk\u0119. W tym materiale pokazujemy, dlaczego wsp\u00f3\u0142czesne urz\u0105dzenia drukuj\u0105ce trzeba traktowa\u0107 jak pe\u0142noprawne elementy infrastruktury IT i od czego zacz\u0105\u0107 ich hardening: od zmiany domy\u015blnej konfiguracji, ograniczenia port\u00f3w, zabezpieczenia kont administratora i lepszej kontroli dost\u0119pu.\n\n\nTo kolejna ods\u0142ona akcji edukacyjnej Niebezpiecznika realizowanej we wsp\u00f3\u0142pracy z ekspertami Canon Polska. W serii \u201eDroga Samuraja\u201d pokazujemy krok po kroku, jak podej\u015b\u0107 do bezpiecze\u0144stwa drukarek i \u015brodowiska druku w firmie - bez magii i bez skr\u00f3t\u00f3w my\u015blowych, za to z praktycznym spojrzeniem na realne ryzyka. Cichym bohaterem tej akcji s\u0105 urz\u0105dzenia Canon imageFORCE, kt\u00f3re wspieraj\u0105 podej\u015bcie do bezpiecze\u0144stwa oparte na wielu warstwach ochrony - od rekomendowanych ustawie\u0144 bezpiecze\u0144stw",
+        "id": 5357705,
+        "language": "pl",
+        "link": "https://www.youtube.com/watch?v=vL1NCmNj2Nc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 240,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCe6nK69Yc1zna7QSJEfA9pw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/vL1NCmNj2Nc/hqdefault.jpg",
+        "title": "Drukarka w ustawieniach fabrycznych? To proszenie si\u0119 o k\u0142opoty",
+        "vote": 0
+    }
+]

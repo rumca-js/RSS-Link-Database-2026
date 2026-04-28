@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "GitHub",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-27T16:53:08.444995+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-27T15:00:37+00:00",
+        "description": "Welcome back to the GitHub for Beginners series! In this episode, we cover the essentials of getting started with Markdown. Learn how to format text to write clear READMEs, issues, and pull requests that make your projects easy to explore. We walk you through what markdown is, why it matters, and the basic syntax you need to write with confidence. \n\n#Markdown #GitHubForBeginners #GitHub \n\n\u2014 CHAPTERS \u2014 \n\n00:00 Introduction to Markdown\n00:35 What is Markdown?\n01:08 Where can I use Markdown?\n01:41 Basic Markdown syntax\n02:36 Create lists\n03:54 Format code snippets\n04:28 Add links and images\n05:15 Conclusion\n\nBasic writing and formatting syntax: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax?utm_source=youtube-episode-6&utm_medium=video&utm_campaign=gfb-s3-2026 \n\nStay up-to-date on all things GitHub by connecting with us:\n\nYouTube: https://gh.io/subgithub\nBlog: https://github.blog\nX: https:",
+        "id": 5359917,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=LxeclcePg-c",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 1005,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7c3Kb6jYCRj4JOHHZTxKsQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/LxeclcePg-c/hqdefault.jpg",
+        "title": "Getting started with Markdown on GitHub",
+        "vote": 0
+    }
+]

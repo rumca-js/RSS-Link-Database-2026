@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-27T12:20:53.703097+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-27T11:42:59+00:00",
+        "description": "Officials say a rebel leader known as \"Marlon\" ordered the attack in which 20 people were killed.",
+        "id": 5357452,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/cwyjykv4j9do",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 524,
+        "source_url": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3435/live/f7d67d70-421d-11f1-97bd-d54feb3e8e45.jpg",
+        "title": "Colombia offers record $1.4m-reward for rebel it blames for deadly bomb attack",
+        "vote": 0
+    }
+]

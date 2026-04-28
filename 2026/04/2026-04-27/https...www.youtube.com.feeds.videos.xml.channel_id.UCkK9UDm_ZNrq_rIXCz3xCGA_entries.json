@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Lunduke Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-27T01:03:15.224845+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-27T00:42:17+00:00",
+        "description": "The System76 endorsed \"Open Source Exemption\" added to Colorado SB26-051 means BSD licensed code would be exempt... but GPL code (like Linux) would still require Age Verification.\n\nMore from The Lunduke Journal:\nhttps://lunduke.com/",
+        "id": 5354239,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=o1iHwSClTCg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 616,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkK9UDm_ZNrq_rIXCz3xCGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/o1iHwSClTCg/hqdefault.jpg",
+        "title": "\"Open Source Exemption\" to Colorado's Age Verification Law Would Not Include GPL",
+        "vote": 0
+    }
+]

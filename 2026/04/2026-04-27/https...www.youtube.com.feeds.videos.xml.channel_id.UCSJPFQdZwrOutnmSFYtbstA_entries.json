@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Critical Drinker",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-27T17:01:27.628087+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-27T16:00:12+00:00",
+        "description": "Yeah, bad puns aside, Michael seems to be taking the world by storm. The critics hate it, the audience loves it. So what's this biopic of Michael Jackson's life and career actually like? Find out in my review right now.",
+        "id": 5360019,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=7BZ7gv5ckvE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 334,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSJPFQdZwrOutnmSFYtbstA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/7BZ7gv5ckvE/hqdefault.jpg",
+        "title": "Michael - The Critics Were Wrong",
+        "vote": 0
+    }
+]

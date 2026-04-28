@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unreal Engine",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-27T15:43:26.559825+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-27T14:59:43+00:00",
+        "description": "Watch this video to find out how Hotta Studio leveraged Unreal Engine to craft a stylized, surrealist modern urban aesthetic that brings the open world metropolis of Hethereau to life in \u2018NTE: Neverness to Everness\u2019.\n\n\u2018NTE: Neverness to Everness\u2019 is a cross-platform RPG where anomalies and everyday life co-exist. You play as an \u201cAppraiser\u201d seeking to resolve supernatural issues.\n\nBuilt with Unreal Engine 5, Hotta Studio used procedural content generation to create an automated pipeline that populated the environment using a visual, node-based approach.  \n\nUE5 features including Lumen, Nanite, and World Partition enabled the team to craft a vast and vibrant open world, while the engine\u2019s support for mobile platforms helped Hotta Studio deliver an immersive experience and extended play sessions across a wide range of devices without compromising quality.\n\nRead the full story here: https://epic.gm/dev-interviews-neverness-to-everness\n\n#NevernessToEverness, #UnrealEngine, #HottaStudio, #R",
+        "id": 5359215,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=eXAOQqAWk5s",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 685,
+        "source_url": "https://youtube.com/channel/UCBobmJyzsJ6Ll7UbfhI4iwQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/eXAOQqAWk5s/hqdefault.jpg",
+        "title": "NTE: Neverness to Everness | Game Profile | Unreal Engine",
+        "vote": 0
+    }
+]

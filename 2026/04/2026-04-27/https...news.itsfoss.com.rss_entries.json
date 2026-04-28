@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Sourav Rudra",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-27T12:13:30.293824+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-27T11:27:40+00:00",
+        "description": "Archived, unarchived, and archived again, the repo's status may keep changing, but MinIO's direction hasn't.",
+        "id": 5357384,
+        "language": "en-US",
+        "link": "https://itsfoss.com/news/minio-moves-away-from-open-source",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 156,
+        "source_url": "https://news.itsfoss.com/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://itsfoss.com/content/images/2026/04/minio-github-repo-archived-banner.png",
+        "title": "MinIO Is Done With Open Source, What Are Your Options?",
+        "vote": 0
+    }
+]

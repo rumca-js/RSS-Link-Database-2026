@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Valve",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-27T19:06:39.837089+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-27T17:43:19+00:00",
+        "description": "Steam Controller arrives on Steam May 4th, 2026, at 10 a.m. Pacific, and we want you to be prepared: Start stretching those gaming hands! Actually, we're referring to this video, which walks you through the simple steps to get it working straight out-of-the-box. (But, like, if you also want to do some stretches that's cool too.) \n\nLearn more and wishlist here: https://store.steampowered.com/sale/steamcontroller",
+        "id": 5361020,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=a55UIaiTE-A",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 921,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCg0FSqPeiGD_lIiPaaAehQg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/a55UIaiTE-A/hqdefault.jpg",
+        "title": "Steam Controller: Official Overview and Quick Start Guide",
+        "vote": 0
+    }
+]

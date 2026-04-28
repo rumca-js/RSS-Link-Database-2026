@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ryan Daws",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-27T12:24:31.890450+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-27T11:12:52+00:00",
+        "description": "<p>Public web pages are actively hijacking enterprise AI agents via indirect prompt injections, Google researchers warn. Security teams scanning the Common Crawl repository (a massive database of billions of public web pages) have uncovered a growing trend of digital booby traps. Website administrators and malicious actors are embedding hidden instructions within standard HTML. These invisible [&#8230;]</p>\n<p>The post <a href=\"https://www.artificialintelligence-news.com/news/google-warns-malicious-web-pages-poisoning-ai-agents/\">Google warns malicious web pages are poisoning AI agents</a> appeared first on <a href=\"https://www.artificialintelligence-news.com\">AI News</a>.</p>",
+        "id": 5357468,
+        "language": "en-GB",
+        "link": "https://www.artificialintelligence-news.com/news/google-warns-malicious-web-pages-poisoning-ai-agents",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 10,
+        "source_url": "https://www.artificialintelligence-news.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/04/image.png",
+        "title": "Google warns malicious web pages are poisoning AI agents",
+        "vote": 0
+    }
+]
