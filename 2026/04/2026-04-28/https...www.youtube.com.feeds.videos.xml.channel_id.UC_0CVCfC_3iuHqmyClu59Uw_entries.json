@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ETA PRIME",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-28T14:53:55.961275+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-28T14:06:00+00:00",
+        "description": "Intel just confirmed the new Arc G3 and Arc G3 Extreme CPUs for handheld gaming PCs! Based on the upcoming Panther Lake architecture, these chips are packing 14 cores, 14 threads, and the massive 12-Core Xe3 iGPU. With Computex 2026 right around the corner, we are about to see a major shift in the handheld gaming space.\n\nSince we don't have the official Arc G3 Extreme in our hands just yet, I built a concept handheld to see exactly how this Panther Lake chip will perform. By using the Intel Core Ultra X7 inside the OneXPlayer Super V, disabling two P-Cores in the BIOS, and using ThrottleStop to strictly control the TDP, we can simulate the Arc G3 Extreme\u2019s performance at low wattages like 12W, 15W, and 25W.\n\ncheck out Videocardz.com Here - https://videocardz.com/newz/intel-confirms-arc-g3-series-for-gaming-handhelds\n\nFollow Me On Twitter: https://twitter.com/theetaprime\nFollow Me On Instagram: https://www.instagram.com/etaprime/\n\nVip-URCDKey 25% code for software: ETA\u00a0\nWindows 11 Pro ",
+        "id": 5367143,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=SPpXhv_e9e0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 100,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_0CVCfC_3iuHqmyClu59Uw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/SPpXhv_e9e0/hqdefault.jpg",
+        "title": "Intel Arc G3 Extreme Handhelds Are COMING! (The Z2 Extreme Killer?)",
+        "vote": 0
+    }
+]

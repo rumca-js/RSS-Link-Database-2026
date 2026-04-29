@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Blog Staff",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-28T22:50:26.244140+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-28T22:25:57+00:00",
+        "description": "<p>\n\tGlaze is a high-performance C++23 serialization library with compile-time reflection. It has grown to support many more formats and features, and in v7.2.0 C++26 Reflection support has been merged!</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://www.reddit.com/r/cpp/comments/1rrq9e6/glaze_72_c26_reflection_yaml_cbor_messagepack/\">Glaze 7.2 - C++26 Reflection | YAML, CBOR, MessagePack, TOML and more</a></h3>\n</blockquote>\n<p>\n\tFrom the article:</p>\n<blockquote>\n\t<p>\n\t\tGlaze now supports C++26 reflection with experimental GCC and Clang compilers. GCC 16 will soon be released with this support. When enabled, Glaze replaces the traditional&nbsp;<code style=\"font-size: 18px;\">__PRETTY_FUNCTION__</code><span style=\"font-size: 18px;\">&nbsp;parsing and structured binding tricks with proper compile-time reflection primitives (</span><code style=\"font-size: 18px;\">std::meta</code><span style=\"font-size: 18px;\">).</span></p>\n\t<p>\n\t\tThe API doesn&#39;t change at all. You just get much more powerfu",
+        "id": 5371570,
+        "language": "en",
+        "link": "https://isocpp.org//blog/2026/04/glaze-7.2-cpp26-reflection-yaml-cbor-messagepack-toml-and-more",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Glaze 7.2 - C++26 Reflection | YAML, CBOR, MessagePack, TOML and more",
+        "vote": 0
+    }
+]

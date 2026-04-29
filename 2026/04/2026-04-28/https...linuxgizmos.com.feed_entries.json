@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-28T13:05:38.758767+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-28T04:52:14+00:00",
+        "description": "FriendlyElec has introduced the NanoPC-T6 Plus, a compact single-board computer built around the Rockchip RK3588 processor. The platform integrates an octa-core CPU, LPDDR5 memory, and multiple high-speed interfaces, supporting applications such as edge computing, networking, and multimedia processing. The RK3588 SoC combines four Cortex-A76 cores clocked up to 2.4GHz with four Cortex-A55 cores up to [&#8230;]",
+        "id": 5364507,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/nanopc-t6-plus-brings-rk3588-to-compact-sbc-with-dual-2-5gbe",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "NanoPC-T6 Plus brings RK3588 to compact SBC with dual 2.5GbE",
+        "vote": 0
+    }
+]

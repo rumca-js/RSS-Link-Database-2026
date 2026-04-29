@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "James Bruton",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-28T13:23:08.958954+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-28T05:45:00+00:00",
+        "description": "Ad: check out https://anydesk.com/en/science to submit an idea for me to build!\n\nThis is the second in a series of designs that you can build. All of my projects are open source, but most people don\u2019t actually build things like the AT-AT you can ride on. So I\u2019m doing a series of smaller more accessible projects. The first one was  mini robot dog which you can find in my channel, and now it\u2019s time for a Hexpod \u2013 which is six legs. Last time I used an Arduino Uno, but a lot of people asked for a remote controlled version, so this time I\u2019m using ESP32s. I\u2019m using standard R/C style servos again which are easily available.\n\nEnhanced downloads on my Patreon: https://www.patreon.com/xrobots\nFree Downloads: https://github.com/XRobots/YouCanBuildHexpod\n\nYou can support me on Patreon, join my Discord, or buy my Merchandise:\n***************************\nDiscord: https://discord.com/invite/fc6MedG7eW\nPatreon: https://www.patreon.com/xrobots\nMerch Store: https://james-bruton.teemill.com/collection",
+        "id": 5365287,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=aGaYgAD-EhY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 852,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCUbDcUPed50Y_7KmfCXKohA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/aGaYgAD-EhY/hqdefault.jpg",
+        "title": "Anti-Inverse-Kinematics Hexapod - it's Open Source!",
+        "vote": 0
+    }
+]

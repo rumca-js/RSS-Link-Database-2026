@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "JRE Clips",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-28T17:27:51.008090+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-28T17:00:56+00:00",
+        "description": "Taken from JRE #2490 w/RZA\nYouTube: https://youtu.be/D_ZGWj_38uA\nJRE on Spotify: https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk",
+        "id": 5368861,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=_cpU4UK6ItE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 157,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnxGkOGNMqQEUMvroOWps6Q",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/_cpU4UK6ItE/hqdefault.jpg",
+        "title": "RZA on Congo Cobalt Mining and Echoes of Past Exploitation",
+        "vote": 0
+    }
+]

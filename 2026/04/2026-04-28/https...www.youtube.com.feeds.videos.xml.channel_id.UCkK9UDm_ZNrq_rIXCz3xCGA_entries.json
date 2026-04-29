@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Lunduke Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-28T15:16:30.341913+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-28T14:37:30+00:00",
+        "description": "\"Al features will be landing in Ubuntu throughout the next year,\" says Ubuntu VP.\n\nMore from The Lunduke Journal:\nhttps://lunduke.com/",
+        "id": 5367533,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=oZxEpQ-IvPw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 616,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkK9UDm_ZNrq_rIXCz3xCGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/oZxEpQ-IvPw/hqdefault.jpg",
+        "title": "Ubuntu Linux Goes All-In on AI",
+        "vote": 0
+    }
+]

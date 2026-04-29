@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/brineonmars",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-28T18:17:33.404854+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-28T17:49:33+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>So, I wrote an rss feed (blog) discovery tool called <a href=\"https://discover.brine.dev\">discover</a> (I know... clever name). But in the process, I <em>discovered</em> (sorry) that <strong>it also affords me a way to do trackbacks using only rss and zero spam</strong>. </p> <p>Here&#39;s an excerpt from my blog post <a href=\"https://brine.dev/posts/discover-a-love-letter-to-rss\">Discover: A Love Letter To RSS</a></p> <blockquote> <p>Now, the other bit that was really bugging me: trackbacks. I originally had Webmentions wired up but it was just too much. Too much fuss; too little adoption. Not it. I struggled with this... but the answer was again, staring me figuratively in the face: I already had a trust layer. ~200 hand-curated feeds, fetched every hour. I bet they were linking to each other? They were! 108 cross-links. Real writers citing each other&#39;s real work.</p> <p>So just surface those cross-links into a mentions feed that an author can s",
+        "id": 5369311,
+        "language": "en",
+        "link": "https://www.reddit.com/r/rss/comments/1sy8qs1/how_i_built_trackbacks_using_only_rss_no_new",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 482,
+        "source_url": "https://www.reddit.com/r/rss/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "How I built Trackbacks using only RSS; no new protocols; zero spam",
+        "vote": 0
+    }
+]

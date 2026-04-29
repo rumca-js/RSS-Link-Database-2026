@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Hammond",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-28T17:14:10.523767+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-28T16:58:13+00:00",
+        "description": "Just Hacking Training Livestream with Mike Lisi and his new course release and the beginnings of a new web app pentesting learning path!",
+        "id": 5368777,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=LXjuiwheNAs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 959,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVeW9qkBjo3zosnqUbG7CFw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/LXjuiwheNAs/hqdefault.jpg",
+        "title": "JHT Course Launch: Web App Junior Analyst!",
+        "vote": 0
+    }
+]

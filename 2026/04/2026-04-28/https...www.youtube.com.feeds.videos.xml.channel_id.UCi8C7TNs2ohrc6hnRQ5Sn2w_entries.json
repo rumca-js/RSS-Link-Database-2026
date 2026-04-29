@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kai Lentit",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-28T14:59:28.715759+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-28T13:58:21+00:00",
+        "description": "I built Taskrabbit for Witches, researched business partners, got customers, interviewed a YC Partner.\n\ncurserapp.com is your one stop solution for booking in spells.\n\nsponsored by Supabase!\nEP2 coming.\nco-producer: Ajay Kishore.\n\nvibe coding\nreplit\nsupabase\nprogramming humor\ntech industry\nbuilding products\nselling apps\nMRR\nuser growth\nbuilding products has never been easier\nAI tools\nAI coding",
+        "id": 5367275,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=O7joqcfy-eU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 264,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCi8C7TNs2ohrc6hnRQ5Sn2w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/O7joqcfy-eU/hqdefault.jpg",
+        "title": "I built Taskrabbit for Witches ($100K MRR - Projected)",
+        "vote": 0
+    }
+]

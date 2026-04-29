@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Rory Mir",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-28T21:53:43.287238+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-28T20:59:06+00:00",
+        "description": "<div class=\"field field--name-body field--type-text-with-summary field--label-hidden\"><div class=\"field__items\"><div class=\"field__item even\"><p><span>If you want to overthrow Big Tech, you\u2019ll need Section 230. The paradigm shift being built with the Open Social Web can put communities back in control of social media infrastructure, and finally end our dependency on enshitified corporate giants. But while these incumbents can overcome </span><a href=\"https://www.npr.org/2025/01/29/nx-s1-5279570/meta-trump-settlement-facebook-instagram-suspensions\"><span>multimillion-dollar lawsuits</span></a><span>, the small host revolution could be picked off one by one without the protections offered by 230.</span></p>\n<p><span>The internet as we know it is built on Section 230, a law from the 90s that\u00a0generally says internet users are legally responsible for their own speech \u2014 not the services hosting their speech. The purpose of 230 was to enable diverse forums for speech online, which defined th",
+        "id": 5371194,
+        "language": "en",
+        "link": "https://www.eff.org/deeplinks/2026/04/open-social-web-needs-section-230-survive",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 101,
+        "source_url": "https://www.eff.org/rss/updates.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "The Open Social Web Needs Section 230 to Survive",
+        "vote": 0
+    }
+]

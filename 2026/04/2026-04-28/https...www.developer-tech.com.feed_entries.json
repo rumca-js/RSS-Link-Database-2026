@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Muhammad Zulhusni",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-28T13:09:12.787594+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-28T09:00:00+00:00",
+        "description": "<p>Canonical is preparing to add AI features to Ubuntu over the next year, according to a blog post by Jon Seager, the company&#8217;s vice-president of engineering. Seager said the features will appear in two categories. Some will use AI models in the background to improve existing operating system functions, others are to introduce &#8220;AI native&#8221; [&#8230;]</p>\n<p>The post <a href=\"https://www.developer-tech.com/news/ubuntu-ai-features-local-inference/\">Ubuntu plans AI features with focus on local inference</a> appeared first on <a href=\"https://www.developer-tech.com\">Developer Tech News</a>.</p>",
+        "id": 5364613,
+        "language": "en-GB",
+        "link": "https://www.developer-tech.com/news/ubuntu-ai-features-local-inference",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 92,
+        "source_url": "https://www.developer-tech.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Ubuntu plans AI features with focus on local inference",
+        "vote": 0
+    }
+]

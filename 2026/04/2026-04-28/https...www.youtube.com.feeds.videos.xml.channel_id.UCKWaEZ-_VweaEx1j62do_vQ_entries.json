@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-28T12:50:24.129350+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-28T11:01:51+00:00",
+        "description": "Ready to become a certified watsonx Data Scientist? Register now and use code IBMTechYT20 for 20% off of your exam \u2192 https://ibm.biz/BdpZcP\n\nLearn more about Graphics Processing Unit (GPU) here \u2192 https://ibm.biz/BdpZcy\n\n \ud83d\ude80 Did you know GPUs, originally built for gaming, now fuel generative AI? Lauren McHugh Olende explains why GPUs outperform CPUs for AI tasks, enabling large-scale models like LLMs with faster memory and parallel processing. Discover how AI hardware drives innovation\u2014and why it matters for your projects!\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/BdpZcM\n\n#machinelearning #ai #gpu #cpu #supercomputer",
+        "id": 5363827,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=zocwmW5wZe8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/zocwmW5wZe8/hqdefault.jpg",
+        "title": "What is a Supercomputer for AI? How GPUs Drive Machine Learning",
+        "vote": 0
+    }
+]

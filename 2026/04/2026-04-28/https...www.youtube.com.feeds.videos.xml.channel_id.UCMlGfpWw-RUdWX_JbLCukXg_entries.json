@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-28T15:12:05.515042+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-28T15:02:34+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nCausal Inference for Code Writing AI - Matt K Robinson - CppCon 2025\n---\n\nLarge Language Models (LLMs) are said to have the potential to displace millions of workers, particularly those in white-collar fields. Data from Anthropic\u2019s Economic Index (2025) shows that over 36% of tasks completed with Claude are computer-code generation tasks. Software engineers seem to be a substantial number of LLM users. LLMs should prove to be a boon for the industry. But, a July '25 controlled trial found 20% net negative impact on SWEs. Oops.  \n\nI discuss proper causal experiments to answer questions like \u201cDoes fine tuning a code generation LLM on specific documentation improve the successful runtime execution of the generated code? Among others!\n\nSources: \n- https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/\n- https://www.anthropic.com/economic-index\n---\n\nWork at Hudson River Trading (HRT): https://tinyurl.com/safxfctf\n---\n\nMatt K Robinson\n\nSWE and MLE\n",
+        "id": 5367472,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=craQCfj73CI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/craQCfj73CI/hqdefault.jpg",
+        "title": "Lightning Talk: Causal Inference for Code Writing AI - Matt K Robinson - CppCon 2025",
+        "vote": 0
+    }
+]
