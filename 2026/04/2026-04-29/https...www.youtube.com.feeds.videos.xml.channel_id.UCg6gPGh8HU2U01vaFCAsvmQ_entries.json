@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Chris Titus Tech",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-29T12:30:39.537893+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-29T11:15:04+00:00",
+        "description": "Been on Arch Linux for 730 days without a reinstall, here's my secret. Most people think running a system update is enough, but your Flatpaks, pip packages, cargo crates, git repos, VS Code extensions, and more are ALL silently falling behind. That mismatch is what breaks your system.\nIn this video I walk through Topgrade, the one tool that updates everything and show you exactly how I configure it to keep my system rock solid, including automatic Timeshift backups before every upgrade so I can roll back if anything goes sideways.\n\n\ud83d\udd17 Full Topgrade config breakdown: https://christitus.com/topgrade-linux/\n\n\u23f1 Timestamps below\n00:00 - Arch Linux 730 Days\n03:08 - BTRFS vs ext4 Backups\n05:54 - Live Topgrade Walkthrough\n08:27 - My Config Setup\n\n\u25ba\u25ba Digital Downloads \u279c https://www.cttstore.com\n\u25ba\u25ba Patreon \u279c https://www.patreon.com/christitustech\n\u25ba\u25ba Twitch \u279c https://www.twitch.tv/christitustech\n\u25ba\u25ba Website and Guides \u279c https://christitus.com",
+        "id": 5376030,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=YuozYQ6kILg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 444,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCg6gPGh8HU2U01vaFCAsvmQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/YuozYQ6kILg/hqdefault.jpg",
+        "title": "Stop Breaking Linux Updates - Use Topgrade!",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-29T03:32:24.830774+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-29T03:32:23.330167+00:00",
+        "description": "In an interview with Le Monde, the researcher in the neurocognition of music explains the effects of songs and sounds on patients with Alzheimer's or Parkinson's disease, as well as on premature infants.",
+        "id": 5372889,
+        "language": "en-US",
+        "link": "https://www.lemonde.fr/en/science/article/2026/04/29/isabelle-peretz-neuropsychologist-the-benefits-of-music-are-immediate-varied-and-free-of-side-effects_6752949_10.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 190,
+        "source_url": "https://www.lemonde.fr/en/science/rss_full.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.lemde.fr/2026/04/22/112/0/2048/1024/644/322/60/0/ef8a9ae_upload-1-abvcmsqh1gtx-photo-2022-pour-nas.jpeg",
+        "title": "Isabelle Peretz, neuropsychologist: 'The benefits of music are immediate, varied and free of side effects'",
+        "vote": 0
+    }
+]

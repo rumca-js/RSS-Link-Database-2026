@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Amy E. M. Beedle",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-29T10:43:45.894074+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-29T00:00:00+00:00",
+        "description": null,
+        "id": 5375129,
+        "language": "en",
+        "link": "https://www.nature.com/articles/s41563-026-02590-x",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 81,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 231,
+        "source_url": "https://www.nature.com/nmat/current_issue/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Fibrillar adhesion dynamics govern the timescales of nuclear mechano-response via the vimentin cytoskeleton",
+        "vote": 0
+    }
+]

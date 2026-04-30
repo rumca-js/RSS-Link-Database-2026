@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Tomasz Turba",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-29T03:30:12.958572+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-29T03:16:35+00:00",
+        "description": "<p>Badacze z StepSecurity odkryli z\u0142o\u015bliwe aktualizacje pakietu pgserve w npm. Jest to narz\u0119dzie do uruchamiania lokalnych baz PostgreSQL do developmentu / test\u00f3w. Zainfekowane wersje (1.1.11, 1.1.12 i 1.1.13) wstrzykuj\u0105 1143-liniowy skrypt wykradaj\u0105cy po\u015bwiadczenia u\u017cytkownika. Jest on uruchamiany przy instalacji przez hook postinstall. TLDR: Nie jest to jednak \u201czwyk\u0142y\u201d infostealer, bo...</p>\n<p>Artyku\u0142 <a href=\"https://sekurak.pl/zlosliwe-aktualizacje-pakietu-pgserve-npm-wykradajace-poswiadczenia-i-rozprzestrzeniajace-malware/\">Z\u0142o\u015bliwe aktualizacje pakietu pgserve (npm) wykradaj\u0105ce po\u015bwiadczenia i rozprzestrzeniaj\u0105ce malware</a> pochodzi z serwisu <a href=\"https://sekurak.pl\">Sekurak</a>.</p>",
+        "id": 5372882,
+        "language": "pl-PL",
+        "link": "https://sekurak.pl/zlosliwe-aktualizacje-pakietu-pgserve-npm-wykradajace-poswiadczenia-i-rozprzestrzeniajace-malware",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 300,
+        "source_url": "https://sekurak.pl/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Z\u0142o\u015bliwe aktualizacje pakietu pgserve (npm) wykradaj\u0105ce po\u015bwiadczenia i rozprzestrzeniaj\u0105ce malware",
+        "vote": 0
+    }
+]

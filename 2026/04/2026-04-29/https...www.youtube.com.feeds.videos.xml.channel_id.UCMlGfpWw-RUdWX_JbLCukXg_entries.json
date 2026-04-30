@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-29T15:54:06.022813+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-29T15:02:21+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nCut the boilerplate with C++23 deducing_this - Sarthak Sehgal - CppCon 2025\n---\n\nC++23 introduces deducing_this and forward_like, two powerful features that revolutionize how member functions handle this and value categories. This talk explores how they simplify interfaces, avoid duplication and boilerplate code for const and value reference handling.\n---\n\nWork at Hudson River Trading (HRT): https://tinyurl.com/safxfctf\n---\n\nSarthak Sehgal\n \nSarthak Sehgal is a C++ Software Engineer at a high-frequency options market-making firm based in Chicago. He is passionate about low-level programming, performance optimization, and their applications in financial systems. Outside of work, he shares insights on C++ and finance on his blog, sartech.substack.com\n---\n\n\nCppCon is the annual, week-long face-to-face gathering for the entire C++ community. The conference is organized by the C++ community for the community. You will enjoy inspirational talks and a friendly atmosp",
+        "id": 5377936,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=o3vjUo2qXNg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/o3vjUo2qXNg/hqdefault.jpg",
+        "title": "Lightning Talk: Cut the boilerplate with C++23 deducing_this - Sarthak Sehgal - CppCon 2025",
+        "vote": 0
+    }
+]

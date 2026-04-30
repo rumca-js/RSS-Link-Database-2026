@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-29T17:16:47.127120+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-29T12:00:00+00:00",
+        "description": "<p>Support for <a href=\"https://forums.raspberrypi.com/viewtopic.php?p=2373678\">remote controlling Windows PCs</a> may be added to <a href=\"https://www.raspberrypi.com/software/connect/\">Raspberry Pi Connect</a>, Raspberry Pi's free remote access service.</p>\n<figure class=\"insert-image\"><img src=\"https://www.jeffgeerling.com/blog/2026/raspberry-pi-connect-may-control-windows-soon/pi-connect-windows-11.jpg\"\n alt=\"Raspberry Pi Connect controlling a Windows 11 PC\" width=\"700\" height=\"auto\">\n</figure>\n\n<p>When they <a href=\"https://www.jeffgeerling.com/blog/2024/raspberry-pi-getting-services-game/\">announced Pi Connect in 2024</a>, I speculated the service was launched in response to RealVNC's sluggish adoption of Wayland, leading to Pi users lacking a solid remote access solution after Pi OS 12 'Bookworm' was launched.</p>\n<p>The service was helpful for those who had one or more Raspberry Pis to access, but the Pi Connect daemon didn't run on Windows or macOS at the time, so a true comp",
+        "id": 5378852,
+        "language": "en",
+        "link": "https://www.jeffgeerling.com/blog/2026/raspberry-pi-connect-may-control-windows-soon",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 162,
+        "source_url": "https://www.jeffgeerling.com/blog.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.jeffgeerling.com/blog/2026/raspberry-pi-connect-may-control-windows-soon/pi-connect-windows-11.jpg",
+        "title": "Raspberry Pi Connect may control Windows soon",
+        "vote": 0
+    }
+]

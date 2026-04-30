@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Computerphile",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-29T13:33:45.371867+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-29T13:00:28+00:00",
+        "description": "When you're setting your hardware design out using automated tools is essential, but what if the tools themselves have bugs in them? John P Wickerson is based at Imperial College London.\n\nThe paper that John's team wrote about the work: https://johnwickerson.github.io/papers/fuzzing_pnr.pdf\n\nAn accessible blogpost John wrote about the work: https://johnwickerson.wordpress.com/2026/01/06/finding-bugs-in-fpga-place-and-route-tools/\n\nComputerphile is supported by Jane Street. Learn more about them (and exciting career opportunities) at: https://jane-st.co/computerphile\n\nThis video was filmed and edited by Sean Riley.\n\nComputerphile is a sister project to Brady Haran's Numberphile. More at https://www.bradyharanblog.com",
+        "id": 5376443,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=G1VgXqKZMZE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 929,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9-y-6csu5WGm29I7JiwpnA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/G1VgXqKZMZE/hqdefault.jpg",
+        "title": "Finding Hardware Bugs - Computerphile",
+        "vote": 0
+    }
+]

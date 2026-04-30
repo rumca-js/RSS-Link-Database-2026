@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Boston Dynamics",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-29T15:37:23.308922+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-29T14:48:11+00:00",
+        "description": "Ethan Lauer, a software engineer, answers your questions about robot perception, world modeling, and what spooks our Stretch robot.",
+        "id": 5377744,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/bgI1fp0TZIQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 451,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7vVhkEfw4nOGp8TyDk7RcQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/bgI1fp0TZIQ/hqdefault.jpg",
+        "title": "How Does Stretch See? | Ask A Roboticist | Boston Dynamics",
+        "vote": 0
+    }
+]

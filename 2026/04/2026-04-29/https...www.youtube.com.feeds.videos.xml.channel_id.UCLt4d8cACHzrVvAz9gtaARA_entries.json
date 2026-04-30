@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Neuralink",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-29T17:10:07.808991+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-29T16:00:00+00:00",
+        "description": "We\u2019ve built a surgical robot to automate key steps in the process of receiving a Neuralink implant to promote safety, reliability, and scalability. \n\nLearn more about the role of the robot and its future potential from the engineers helping develop it.\n\nNote: Neuralink devices are investigational and not FDA approved. This video features voluntary clinical trial participants sharing their personal experiences, which may not reflect all participants or future outcomes.",
+        "id": 5378735,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=KO53gwuqZUQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 874,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLt4d8cACHzrVvAz9gtaARA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/KO53gwuqZUQ/hqdefault.jpg",
+        "title": "Automating Neurosurgery with Robotics | Neuralink",
+        "vote": 0
+    }
+]

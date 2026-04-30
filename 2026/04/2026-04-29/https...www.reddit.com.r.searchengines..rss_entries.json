@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/YasminBk",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-29T13:33:48.159928+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-29T13:03:05+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>Been working on a project that might interest this community: a self-hosted search API that aggregates results from 60+ public SearXNG instances. I built it because I needed a reliable alternative to paid search APIs for some background research work.</p> <p>The interesting challenge was dealing with inconsistent public instances. Most people assume search aggregation is just hitting one instance and calling it a day, but the reality is messier - many instances go down, return poor results, or get blocked by Cloudflare.</p> <p>My approach was to race multiple instances in parallel and use a scoring system that looks at:</p> <ul> <li>How many results pass basic blocklists (avoiding those annoying login pages)</li> <li>Whether content actually matches the query keywords</li> <li>Domain diversity (no point showing 10 results from the same site)</li> <li>Semantic relevance to the actual query</li> </ul> <p>Some of the trickier bits were:</p> <ul> <li>Hand",
+        "id": 5376444,
+        "language": "en",
+        "link": "https://www.reddit.com/r/searchengines/comments/1syy78q/free_selfhosted_search_api_aggregating_60_searxng",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 463,
+        "source_url": "https://www.reddit.com/r/searchengines/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Free & Self-Hosted Search API: Aggregating 60+ SearXNG Instances with Playwright",
+        "vote": 0
+    }
+]
