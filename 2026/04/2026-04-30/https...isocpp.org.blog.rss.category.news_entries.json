@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Blog Staff",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-30T23:09:13.492659+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-30T22:36:23+00:00",
+        "description": "<p>\n\tGCC 16.1 has been released! Lots of good C++26 material including reflection and contracts.</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://gcc.gnu.org/gcc-16/changes.html#cxx\">GCC 16 Release Series: Changes, New Features, and Fixes</a></h3>\n</blockquote>\n<p>\n\tFrom the announcement:</p>\n<blockquote>\n\t<ul>\n\t\t<li>\n\t\t\tC++20 by default: [...]&nbsp;<em>N.B. C++20 modules support is still experimental and must be enabled by&nbsp;<a href=\"https://gcc.gnu.org/onlinedocs/gcc-16.1.0/gcc/C_002b_002b-Dialect-Options.html#index-fmodules\">-fmodules</a>.</em></li>\n\t</ul>\n\t<ul>\n\t\t<li>\n\t\t\tSeveral C++26 features have been implemented:\n\t\t\t<ul>\n\t\t\t\t<li>\n\t\t\t\t\t<a href=\"https://wg21.link/P2996R13\">P2996R13</a>, Reflection (<a href=\"https://gcc.gnu.org/PR120775\">PR120775</a>, enabled by&nbsp;<code>-std=c++26 -freflection</code>)</li>\n\t\t\t\t<li>\n\t\t\t\t\t<a href=\"https://wg21.link/P3394R4\">P3394R4</a>, Annotations for Reflection</li>\n\t\t\t\t<li>\n\t\t\t\t\t<a href=\"https://wg21.link/P3293R3\">P3293R3</a>, Splicing a base clas",
+        "id": 5391683,
+        "language": "en",
+        "link": "https://isocpp.org//blog/2026/04/gcc-16.1",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "GCC 16.1 released: C++26 reflection / contracts / safety hardening, C++20 by default, and more!",
+        "vote": 0
+    }
+]

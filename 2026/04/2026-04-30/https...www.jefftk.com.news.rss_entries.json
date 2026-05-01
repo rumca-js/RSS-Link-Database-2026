@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-01T02:48:23.170000+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-30T08:00:00+00:00",
+        "description": "<p><span>\n\nWhen I pitch people on </span>\n\n<a href=\"https://www.faruvc.org/\">far-UVC</a>\nthey often ask about in-duct UV.  How about putting UV inside your\nHVAC ducts, where you can safely blast the air with cheap toxic\nwavelengths.  Unfortunately, it's rarely a good approach.\n\n\n\n<p>\n\nThe biggest issue is that most people don't have ducts.  They're\ncommon in the US, though less so in older construction (radiators) or\nnewer (mini-splits).  Outside the US (and Canada, and Australia),\nhowever, ducted systems are mostly limited to large modern office\nbuildings.  Worldwide, maybe one in ten indoor hours are spent in\nducted spaces. [1]\n\n</p>\n\n<p>\n\n<a href=\"https://www.jefftk.com/no-in-duck-uv-big.png\"><img src=\"https://www.jefftk.com/no-in-duck-uv.png\" width=\"550\" height=\"300\" class=\"mobile-fullwidth\" style=\"max-width:100.0vw; max-height:54.5vw;\" srcset=\"https://www.jefftk.com/no-in-duck-uv.png 550w,https://www.jefftk.com/no-in-duck-uv-2x.png 1100w\"><div style=\"height:min(54.5vw, 300px)\" cl",
+        "id": 5392722,
+        "language": "en-US",
+        "link": "https://www.jefftk.com/p/against-in-duct-uv",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 163,
+        "source_url": "https://www.jefftk.com/news.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.jefftk.com/no-in-duck-uv.png",
+        "title": "Against In-Duct UV",
+        "vote": 0
+    }
+]

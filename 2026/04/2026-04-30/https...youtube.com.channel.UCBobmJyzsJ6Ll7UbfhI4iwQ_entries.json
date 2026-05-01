@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unreal Engine",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-30T13:44:22.176599+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-30T13:34:01+00:00",
+        "description": "Join us as Rafael Dias San\u00e7on, Game Developer at Globant, walks through two ways Unreal lets you split and ship your game content: Primary Asset Labels and Plugin-based packaging. Using only Blueprints, he'll demonstrate how to move separate game modes into their own plugins, wire them up through Data Assets, and package the whole project \u2014 base game and DLC \u2014 with a few simple scripts. Whether you're working on your first project or just looking for a cleaner way to organize your content, this session will give you a practical starting point.",
+        "id": 5386539,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=xqlS6iNGhL8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 685,
+        "source_url": "https://youtube.com/channel/UCBobmJyzsJ6Ll7UbfhI4iwQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/xqlS6iNGhL8/hqdefault.jpg",
+        "title": "Creating Optional Content for Unreal Games | Inside Unreal",
+        "vote": 0
+    }
+]

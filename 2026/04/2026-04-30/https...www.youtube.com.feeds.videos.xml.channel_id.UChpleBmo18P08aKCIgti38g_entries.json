@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Matt Wolfe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-30T14:32:36.360177+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-30T12:34:33+00:00",
+        "description": "ChatGPT\u2019s new image model did something that blew me away \ud83e\udd2f\n\nUsually, you'd have to download images from the source and drop them into ChatGPT with your prompt so the AI can use them in the output. \n\nBut this new model was able to just grab them from the site using only the URL.\n\nMaking flyers, ads, menus, promos, product images, etc. just got A LOT easier, and with a lot less worry that the AI is going to grab random hallucinated images or details from all over the place. \n\nHave you tried ChatGPT Images 2.0 yet? And did it impress you, or not so much?\n\n#ai #ainews #chatgpt #openai #genai",
+        "id": 5387039,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/KgtwlcHP6DM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 933,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChpleBmo18P08aKCIgti38g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/KgtwlcHP6DM/hqdefault.jpg",
+        "title": "This AI Actually Surprised Me",
+        "vote": 0
+    }
+]

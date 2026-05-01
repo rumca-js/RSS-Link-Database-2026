@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-01T00:54:45.813946+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-30T19:01:56+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/PFLpDc909yY\" width=\"480\" alt=\"thumbnail\" title=\"CopyFail Compromises The Last 9 Years Of Linux Distros\" /></p>Turns out that right under our noses for the past 9 years effecting every version of Linux kernel in that time was a trivial to execute privilege bug now dubbed CopyFail otherwise going by CVE-2026-31431 <br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />Initial Writeup: https://copy.fail/<br />Better Writeup: https://xint.io/blog/copy-fail-linux-distributions<br />POC: https://github.com/theori-io/copy-fail-CVE-2026-31431/blob/main/copy_fail_exp.py<br />Kernel Patch: https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=a664bf3d603d<br />The Cause: https:",
+        "id": 5392224,
+        "language": "en",
+        "link": "https://odysee.com/copyfail-compromises-the-last-9-years-of:d2a4e4ec841d2e4584983b65c08eb75ee79d0459",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/PFLpDc909yY",
+        "title": "CopyFail Compromises The Last 9 Years Of Linux Distros",
+        "vote": 0
+    }
+]

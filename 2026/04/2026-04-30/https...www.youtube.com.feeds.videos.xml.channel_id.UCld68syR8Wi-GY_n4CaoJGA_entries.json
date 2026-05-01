@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-30T19:24:35.879105+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-30T19:01:56+00:00",
+        "description": "Turns out that right under our noses for the past 9 years effecting every version of Linux kernel in that time was a trivial to execute privilege bug now dubbed CopyFail otherwise going by CVE-2026-31431 \n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\nInitial Writeup: https://copy.fail/\nBetter Writeup: https://xint.io/blog/copy-fail-linux-distributions\nPOC: https://github.com/theori-io/copy-fail-CVE-2026-31431/blob/main/copy_fail_exp.py\nKernel Patch: https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=a664bf3d603d\nThe Cause: https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=72548b093ee3\nDebian CVE: https://security-tracker.debian.org/tracker/CVE-2026-31431\nUbuntu CVE: https://ubuntu.com/security/CVE-2026-31431\nSUSE ",
+        "id": 5389831,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=PFLpDc909yY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/PFLpDc909yY/hqdefault.jpg",
+        "title": "CopyFail Compromises The Last 9 Years Of Linux Distros",
+        "vote": 0
+    }
+]

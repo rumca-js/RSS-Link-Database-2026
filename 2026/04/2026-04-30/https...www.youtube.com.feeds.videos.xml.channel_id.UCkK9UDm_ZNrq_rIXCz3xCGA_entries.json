@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Lunduke Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-30T16:05:51.831472+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-30T15:05:26+00:00",
+        "description": "Lix, a fork of the Nix Linux package manager, prohibits \"Transphobia\", \"Peddling Right-wing Ideology\", and \"Pluralphobia\".  With a goal of rewriting everything in Rust.\n\nThe original X post:\nhttps://x.com/LundukeJournal/status/2049524963741196720\n\nMore from The Lunduke Journal:\nhttps://lunduke.com/",
+        "id": 5387911,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=r8cJovb-gIk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 616,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkK9UDm_ZNrq_rIXCz3xCGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/r8cJovb-gIk/hqdefault.jpg",
+        "title": "Nix Fork Demands Contributors Support Multiple Personality Disorder",
+        "vote": 0
+    }
+]

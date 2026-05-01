@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-04-30T16:01:19.003916+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-04-30T15:02:43+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nLightning Talk: The Lifecycle of This CMake Lightning Talk - Yannic Staudt - CppCon 2025\n---\n\nA very meta telltale of ideation, recursion, dark CMake art, and realization\n---\n\nWork at Hudson River Trading (HRT): https://tinyurl.com/safxfctf\n---\n\nYannic Staudt\n\nHacker at heart, co-founder of tipi.build, working next gen build tools at tipi.build by EngFlow\n---\n\nCppCon is the annual, week-long face-to-face gathering for the entire C++ community. The conference is organized by the C++ community for the community. You will enjoy inspirational talks and a friendly atmosphere designed to help attendees learn from each other, meet interesting people, and generally have a stimulating experience. Taking place this year in Aurora, Colorado, near the Denver airport, and including multiple diverse tracks, the conference will appeal to anyone from C++ novices to experts.\nAnnual CppCon Conference - https://www.cppcon.org\nhttps://www.linkedin.com/company/cppcon\nhttps://x.com",
+        "id": 5387874,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=3DqRIxXVfiI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/3DqRIxXVfiI/hqdefault.jpg",
+        "title": "Lightning Talk: The Lifecycle of This CMake Lightning Talk - Yannic Staudt - CppCon 2025",
+        "vote": 0
+    }
+]
