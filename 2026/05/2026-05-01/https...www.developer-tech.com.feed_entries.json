@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ryan Daws",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-01T11:14:20.992391+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-01T11:06:25+00:00",
+        "description": "<p>The open-source supply chain faces another crisis as a sophisticated worm tracked as \u2018Mini Shai-Hulud\u2019 attacks multiple ecosystems. Mini Shai-Hulud targets developer credentials and continuous integration environments. The worm breached the popular PyTorch Lightning package on PyPI and the Intercom client on npm. Threat actors subsequently adapted the payload to infiltrate PHP\u2019s Packagist, Ruby Gems, [&#8230;]</p>\n<p>The post <a href=\"https://www.developer-tech.com/news/open-source-registries-mini-shai-hulud-supply-chain-attacks/\">Open-source registries hit by &#8216;Mini Shai-Hulud&#8217; supply chain attacks</a> appeared first on <a href=\"https://www.developer-tech.com\">Developer Tech News</a>.</p>",
+        "id": 5394963,
+        "language": "en-GB",
+        "link": "https://www.developer-tech.com/news/open-source-registries-mini-shai-hulud-supply-chain-attacks",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 92,
+        "source_url": "https://www.developer-tech.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Open-source registries hit by \u2018Mini Shai-Hulud\u2019 supply chain attacks",
+        "vote": 0
+    }
+]

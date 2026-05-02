@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-01T04:34:44.566894+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-01T04:06:35+00:00",
+        "description": "The ESP-FLY DIY Kit is a compact micro drone platform built around the Seeed Studio XIAO ESP32-S3, developed as a collaboration between Seeed Studio and Max Imagination. The kit targets educational and hobbyist use, combining a small airframe with wireless control options and a customizable firmware environment. The system is delivered as a DIY kit [&#8230;]",
+        "id": 5393070,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/esp-fly-micro-drone-kit-offers-esp32-s3-based-flight-control-and-esp-now-support",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "ESP-FLY micro drone kit offers ESP32-S3-based flight control and ESP-NOW support",
+        "vote": 0
+    }
+]

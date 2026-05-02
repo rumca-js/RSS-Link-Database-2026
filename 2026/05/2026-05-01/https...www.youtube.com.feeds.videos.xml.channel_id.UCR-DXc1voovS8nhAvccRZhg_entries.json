@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeff Geerling",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-01T14:49:46.281190+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-01T14:00:30+00:00",
+        "description": "It's clusterin' time! Time to compare my cluster to SBCC student clusters, that is.\n\nMentioned in this video (some links are affiliate links):\n\n  - DeskPi Super4c: https://amzn.to/4nau3nR\n  - Waveshare HomeRack: https://amzn.to/4w0wBc5\n  - Waveshare HomeRack Touch Display Mount: https://amzn.to/4w5DFV6\n  - Tripp-Lite BC600R mini UPS: https://amzn.to/4vQVA1w\n  - Raspberry Pi Cluster Ansible repo: https://github.com/geerlingguy/pi-cluster\n  - Top500 HPL Project: https://github.com/geerlingguy/top500-benchmark\n  - SBCC 2026 Competition and Results: https://sbcc.sdsc.edu/main-page.html\n  - Project MINI RACK: https://mini-rack.jeffgeerling.com\n\nThanks to DeskPi for sending the Super4C to test, and Waveshare for sending a prototype HomeRack to test. See all the Mini Rack parts I've tested and cataloged here: https://mini-rack.jeffgeerling.com\n\nAnd see all the CM5 and CM4 boards I've tested and cataloged here: https://pipci.jeffgeerling.com/boards_cm\n\nSupport me on Patreon: https://www.patre",
+        "id": 5396535,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=AjmKpDNsTa8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 161,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR-DXc1voovS8nhAvccRZhg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/AjmKpDNsTa8/hqdefault.jpg",
+        "title": "SBC Clusters are a terrible value (and I love them)",
+        "vote": 0
+    }
+]

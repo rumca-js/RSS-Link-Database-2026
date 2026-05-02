@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeremy Jahns",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-01T13:27:54.560889+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-01T13:01:32+00:00",
+        "description": "We have a new telling of ANIMAL FARM. Only this time, it takes on Capitalism. Here's my review...\n\n#AnimalFarm",
+        "id": 5395861,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=jEWTkalUWKY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 164,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7v3-2K1N84V67IF-WTRG-Q",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/jEWTkalUWKY/hqdefault.jpg",
+        "title": "So, I Watched The New ANIMAL FARM Movie...",
+        "vote": 0
+    }
+]

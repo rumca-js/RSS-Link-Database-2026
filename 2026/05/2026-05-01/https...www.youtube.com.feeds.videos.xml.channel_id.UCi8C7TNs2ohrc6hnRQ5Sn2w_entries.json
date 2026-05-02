@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kai Lentit",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-01T16:45:40.329484+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-01T16:20:41+00:00",
+        "description": "The buttons don't always work...\n\nClaude opus 4.7 be doing that.\n\n#nextgenai #programming #comedy",
+        "id": 5397445,
+        "language": "en-US",
+        "link": "https://www.youtube.com/shorts/EabT_XE_cTo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 264,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCi8C7TNs2ohrc6hnRQ5Sn2w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/EabT_XE_cTo/hqdefault.jpg",
+        "title": "Vibe Coded elevator.",
+        "vote": 0
+    }
+]

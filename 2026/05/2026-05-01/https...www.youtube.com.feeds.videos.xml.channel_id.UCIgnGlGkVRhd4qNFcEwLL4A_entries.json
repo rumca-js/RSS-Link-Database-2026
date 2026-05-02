@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "AI Search",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-01T04:03:20.970378+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-01T03:30:27+00:00",
+        "description": "Deepseek V4 explained. #ai #aitools #ainews #llm #agi #deepseek #claude #agi \n\nThanks to our sponsor Abacus AI. Try ChatLLM & DeepAgent today: http://chatllm.abacus.ai/?token=aisearch\n\nDeepseek v4: https://api-docs.deepseek.com/news/news260424\nLLMs explained: https://youtu.be/U2hZFMVNSE0\nResidual connections: https://youtu.be/2IfAVV7ewO0\n\n0:00 Deepseek V4 intro\n1:00 Deepseek V4 specs\n2:06 The challenge of 1M context\n4:16 Hybrid attention\n5:11 CSA & sparse selection\n6:50 HCA\n8:22 Sliding window attention\n10:44 Insane efficiency gains\n12:02 Signal explosion\n13:00 Residual connections\n13:52 mHC\n14:17 ChatLLM \n15:24 mHC continued\n17:54 Muon\n19:26 Infra challenges\n22:31 Training challenges\n24:09 Anticipatory routing\n25:24 SOTA results\n\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSupport: https://ko-fi.com/aisearch\n\nHere's my equipment, in case you're wondering:\nLenovo Thinkbook: https://amzn.to/4jWeKwH\nDell Precision 5690: https://www.dell.com/en-",
+        "id": 5392971,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=XJUpuOBpT-4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 806,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIgnGlGkVRhd4qNFcEwLL4A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/XJUpuOBpT-4/hqdefault.jpg",
+        "title": "The insane engineering of Deepseek V4",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "OpenAI",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-01T21:12:08.646352+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-01T19:09:30+00:00",
+        "description": "Codex helps teams connect the apps they already use, bring over their setup, and start seeing the magic happen right away.\n\nIn this quick demo, you\u2019ll see how to:\n* personalize Codex for your role\n* import tools, projects, skills, and recent chats\n* connect apps like Google Calendar, Gmail, Drive, Slack, Figma, Notion, and more\n* turn scattered work context into a customer meeting brief\n\nA few clicks, and you\u2019re ready to go!\n\nLearn more: https://chatgpt.com/codex/for-work/",
+        "id": 5399493,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=flvZ6jEj3VU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 935,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXZCJLdBC09xxGZ6gcdrc6A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/flvZ6jEj3VU/hqdefault.jpg",
+        "title": "Bring your work into Codex in a few clicks",
+        "vote": 0
+    }
+]

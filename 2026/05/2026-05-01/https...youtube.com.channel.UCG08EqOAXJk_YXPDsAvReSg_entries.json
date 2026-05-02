@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unity",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-01T20:41:04.515731+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-01T19:44:07+00:00",
+        "description": "In this tutorial about Unity Studio, you\u2019ll learn how to create a new material, assign it to GameObjects, and edit its properties to achieve the look you want.\n\nUnity Studio is a web-based, no-code editor designed for industries like manufacturing, automotive, healthcare, architecture, and more to build and share interactive 3D applications fast. Import CAD, BIM, or 3D data and bring ideas to life in minutes.\n\nLearn more about Unity Studio: https://on.unity.com/unitystudio\n\nFor assistance or questions, please check out our documentation for helpful articles and guides:\nhttps://on.unity.com/StudioDocumentation\n\nIf you still need help, contact our support team at: \nunitystudio-support@unity3d.com",
+        "id": 5399348,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=kANjVPFCUkQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 683,
+        "source_url": "https://youtube.com/channel/UCG08EqOAXJk_YXPDsAvReSg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/kANjVPFCUkQ/hqdefault.jpg",
+        "title": "Unity Studio - Working with Materials",
+        "vote": 0
+    }
+]

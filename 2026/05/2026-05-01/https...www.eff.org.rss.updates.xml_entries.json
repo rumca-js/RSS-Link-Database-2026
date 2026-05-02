@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Thorin Klosowski",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-01T15:31:57.965901+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-01T14:52:09+00:00",
+        "description": "<div class=\"field field--name-body field--type-text-with-summary field--label-hidden\"><div class=\"field__items\"><div class=\"field__item even\"><p>One of the central promises of open social media services is interoperability\u2014the idea that wherever you personally decide to post doesn\u2019t require others to be there just to follow what you have to say. Think of it like a radio broadcast: you want to reach people and don't care where they are or what device they're using. For example, in theory, a Bluesky user can follow someone on Mastodon or Threads without having to create a Mastodon or Threads account. But these systems are still a work in progress, and you might need to tweak a few things to get it working correctly.</p><p>Right now, broadcasting your message across social platforms can be a funky experience at best, deliberately broken up by oligopolists. The idea of the open web was baked into the internet via protocols like HTML and RSS that made it easy for anyone to visit a website ",
+        "id": 5396866,
+        "language": "en",
+        "link": "https://www.eff.org/deeplinks/2026/04/bridge-somewhere-how-link-your-mastodon-bluesky-or-other-federated-accounts",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 101,
+        "source_url": "https://www.eff.org/rss/updates.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "/files/2026/04/30/masto_to_bluesky.png",
+        "title": "A Bridge to Somewhere: How to Link Your Mastodon, Bluesky, or Other Federated Accounts",
+        "vote": 0
+    }
+]

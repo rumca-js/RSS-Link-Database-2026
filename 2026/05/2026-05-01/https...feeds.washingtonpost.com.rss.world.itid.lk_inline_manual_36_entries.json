@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Noah Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-01T22:57:40.248411+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-01T22:35:49+00:00",
+        "description": "The decision coincides with a deepening feud between the president and German Chancellor Friedrich Merz, who has criticized the U.S. war in Iran.",
+        "id": 5400172,
+        "language": "en-US",
+        "link": "https://www.washingtonpost.com/national-security/2026/05/01/us-troops-germany-trump-merz",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 365,
+        "source_url": "https://feeds.washingtonpost.com/rss/world?itid=lk_inline_manual_36",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Trump to downsize U.S. military presence in Germany",
+        "vote": 0
+    }
+]

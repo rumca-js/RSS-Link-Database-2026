@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "MrBeast",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-01T16:37:19.404292+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-01T16:00:01+00:00",
+        "description": "New subscribers will receive an entry for a chance to win by subscribing to the MrBeast YouTube channel between May 1 - May 28, 2026. YouTube account must be set to public and include a valid email address. No purchase necessary. Must be 18+. Full rules at https://bit.ly/mrbeastbowandarrow",
+        "id": 5397368,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/VEGq2Du_HCw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 218,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCX6OQ3DkcsbYNE6H8uQQuVA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/VEGq2Du_HCw/hqdefault.jpg",
+        "title": "Subscribe for $10,000",
+        "vote": 0
+    }
+]

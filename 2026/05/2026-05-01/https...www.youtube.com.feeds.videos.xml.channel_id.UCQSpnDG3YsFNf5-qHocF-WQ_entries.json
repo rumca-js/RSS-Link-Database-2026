@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ThioJoe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-01T02:53:21.759746+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-01T02:00:55+00:00",
+        "description": "A major new linux exploit just dropped, and it ain't pretty\n\nA brand new Linux exploit called \"Copy Fail\" was just publicly released. And while technically it's not a zero-day, it basically is. It was disclosed and patched in the main Linux kernel a month ago, BUT all the major distros didn't even merge it into their main branches. So when it was finally publicly announced, they're now scrambling to patch it in.\n\nTime Stamps:\n0:00 - Intro\n0:45 - What The Exploit Does\n1:14 - Are You Affected?\n1:53 - Checking Kernel Version\n2:29 - Mitigation Command\n3:31 - Mitigation Command\n4:05 - What is the Exploit?\n\n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\n\u2022 My Desktop Wallpapers \u21e8 https://thiojoe.art/\n\u21e8 http://Instagram.com/ThioJoe\n\u21e8 http://Twitter.com/ThioJoe\n\u21e8 http://Facebook.com/ThioJoeTV\n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac",
+        "id": 5392742,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=uv_F6gLbBiU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 366,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQSpnDG3YsFNf5-qHocF-WQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/uv_F6gLbBiU/hqdefault.jpg",
+        "title": "Big Linux Exploit Just Happened",
+        "vote": 0
+    }
+]

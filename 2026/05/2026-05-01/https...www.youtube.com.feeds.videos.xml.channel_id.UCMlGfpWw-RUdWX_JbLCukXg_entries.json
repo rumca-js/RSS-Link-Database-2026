@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-01T15:57:07.512557+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-01T15:02:09+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nCatching Performance Issues at Compile Time - Keith Stockdale - CppCon 2025\n---\n\nThis talk is about using a type trait to detect when callables are accepting their arguments by value, when they should be accepting them by reference. E.g. You probably shouldn't be accepting arguments by value in your sorting predicate... Especially when your type is large or allocates.\n\nWe can then use this type trait to turn these kinds of runtime performance issues into a compiler error.\n\n*Note: this lightning talk is based on a part of my talk that I cut out due to time constraints, and so most of the content of this lightning talk already exists as part of my ACCU 2025 video*\n---\n\nWork at Hudson River Trading (HRT): https://tinyurl.com/safxfctf\n---\n\nKeith Stockdale\n \nKeith Stockdale is a Northern Irish senior software engineer who has been working on the Engine and Rendering teams at Rare Ltd for the last 8 years working on Sea of Thieves. At Rare, Keith's main areas of foc",
+        "id": 5397098,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=YK8Kwj9okRk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/YK8Kwj9okRk/hqdefault.jpg",
+        "title": "Lightning Talk: Catching Performance Issues at Compile Time - Keith Stockdale - CppCon 2025",
+        "vote": 0
+    }
+]

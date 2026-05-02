@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ForrestKnight",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-01T16:01:34.903553+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-01T15:30:09+00:00",
+        "description": "Kotlin is a really good programming language, try it! https://jetty.to/kotlin\n\nEverything at Netflix is built on Java - from the backend to the server racks at your ISP. Java Champion and Staff Software Engineer at Netflix, Paul Bakker, has talked about how Netflix uses Java at scale for at least three years in a row. We went over all of that last year: https://youtu.be/sMPMiy0NsUs\n\nThis year, however, there's a new twist: AI. Netflix has a few very interesting ways they use AI to help them with Java at Netflix.\n\nWatch the original video: https://youtu.be/ucJTPda_zx0?si=IwGN7XFZ8N_2SdkU\n\nA portion of this video was sponsored by JetBrains.\n\nHow Netflix Uses Java is Insane\nEverything at Netflix is Built on Java\n\nIf you're a developer, sign up to my free newsletter Dev Notes \ud83d\udc49 https://www.devnotesdaily.com/\n\nIf you're a student, checkout my Notion template Studious: https://notionstudent.com\n\nDon't know why you'd want to follow me on other socials. I don't even post. But here you go.\n\ud83d\udc31\u200d\ud83d\ude80",
+        "id": 5397138,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=HhPs2sKlQYg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 118,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2WHjPDvbE6O328n17ZGcfg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/HhPs2sKlQYg/hqdefault.jpg",
+        "title": "Netflix is Built on Java (with AI)",
+        "vote": 0
+    }
+]

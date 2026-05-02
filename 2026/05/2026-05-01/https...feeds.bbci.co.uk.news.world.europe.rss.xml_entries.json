@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-01T15:54:18.674996+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-01T15:12:14+00:00",
+        "description": "Mladic, 84, was jailed for life for genocide, war crimes and crimes against humanity during the Bosnian war in 1992-95.",
+        "id": 5397056,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/c3e283g80n4o",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 523,
+        "source_url": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67fc/live/b31a52a0-456b-11f1-978c-1335807b5925.jpg",
+        "title": "War criminal Mladic close to death, say lawyers asking judge for jail release",
+        "vote": 0
+    }
+]

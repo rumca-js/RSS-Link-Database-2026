@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-01T14:13:29.493449+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-01T09:00:00+00:00",
+        "description": "<figure class=\"insert-image\"><img src=\"https://www.jeffgeerling.com/blog/2026/deskpi-super4c-sbc-cluster/deskpi-super4c-in-waveshare-homerack-mini-rack.jpg\"\n alt=\"DeskPi Super4C SBC Cluster Board in Waveshare HomeRack Mini Rack\" width=\"700\" height=\"auto\">\n</figure>\n\n<p>Pictured above is the new <a href=\"https://amzn.to/4w4rUOq\">DeskPi Super4C</a> installed in an 8U mini rack. The Super4C is a 4-node Raspberry Pi CM5 cluster board that solves two pain points I had with the older <a href=\"https://www.jeffgeerling.com/blog/2022/6-raspberry-pis-6-ssds-on-mini-itx-motherboard/\">Super6C</a>.</p>\n<p>I was testing this board around the same time I helped kick off the <a href=\"https://sbcc.sdsc.edu/main-page.html\">SBCC 2026</a>, the Single Board Cluster Competition for students. A dozen or so university teams squared off to run the best mini HPC cluster with a budget of $6,000, and a couple days to benchmark <a href=\"https://single-board-cluster-competition.github.io/sbcc26-competition-site/gr",
+        "id": 5396249,
+        "language": "en",
+        "link": "https://www.jeffgeerling.com/blog/2026/deskpi-super4c-sbc-cluster",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 162,
+        "source_url": "https://www.jeffgeerling.com/blog.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.jeffgeerling.com/blog/2026/deskpi-super4c-sbc-cluster/deskpi-super4c-in-waveshare-homerack-mini-rack.jpg",
+        "title": "SBC Clusters are a terrible value, but they're fun anyway",
+        "vote": 0
+    }
+]

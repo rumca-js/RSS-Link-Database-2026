@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-01T05:55:40.984103+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-01T00:01:30+00:00",
+        "description": "Planting season is beginning in Asia - but the closure of the Strait of Hormuz and Chinese restrictions has hit fertiliser supply.",
+        "id": 5393395,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/c208yl1jkl7o",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 522,
+        "source_url": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/046c/live/630d5ab0-44f2-11f1-9e0b-0da6232ca740.jpg",
+        "title": "It's not just oil: Iran war also threatens Asia's food security",
+        "vote": 0
+    }
+]

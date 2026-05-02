@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-01T12:26:10.322832+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-01T10:01:04+00:00",
+        "description": "Visit Mixture of Experts podcast page to get more AI content \u2192 https://www.ibm.com/think/podcasts/mixture-of-experts \n\nWhat do enterprises need to make AI work? This week on Mixture of Experts, join host Tim Hwang and panelists Marina Danilevsky, Gabe Goodhart, Kaoutar El Maghraoui, and special guest Jamie Garcia. First, we break down IBM Granite 4.1, a family of specialized multimodal models for vision, speech, and embedding tasks, and Project Bob, an agentic coding assistant. Next, we analyze Google DeepMind's DiLoCo distributed training breakthrough that could reshape AI infrastructure and power consumption. Then, we unpack DeepSeek V4,  a new 1.6 trillion parameter model featuring 3% activation rates that's rewriting inference economics. Finally, Jamie Garcia, Director of Strategic Growth and Quantum Partnerships at IBM, takes us behind the scenes of IBM's quantum computing strategy, university partnerships, and the path to quantum advantage. All this and more on this week\u2019s Mixtu",
+        "id": 5395466,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Zk3FX8ZXa-s",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/Zk3FX8ZXa-s/hqdefault.jpg",
+        "title": "Granite 4.1, IBM Bob & building a quantum ecosystem",
+        "vote": 0
+    }
+]
