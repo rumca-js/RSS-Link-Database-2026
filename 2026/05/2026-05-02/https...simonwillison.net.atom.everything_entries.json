@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Simon Willison",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-02T19:51:55.050527+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-02T17:26:40+00:00",
+        "description": null,
+        "id": 5405688,
+        "language": "en-us",
+        "link": "https://simonwillison.net/2026/May/2/sightings/#atom-everything",
+        "manual_status_code": 0,
+        "page_rating": 28,
+        "page_rating_contents": 88,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 423,
+        "source_url": "https://simonwillison.net/atom/everything",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://static.simonwillison.net/static/2026/beats-sightings.jpeg",
+        "title": "Sightings",
+        "vote": 0
+    }
+]

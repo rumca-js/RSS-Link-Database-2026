@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-02T21:34:34.099885+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-02T17:30:08+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/HcJJ7UldMc8\" width=\"480\" alt=\"thumbnail\" title=\"GNOME Logout Button Situation Is Crazy\" /></p>About 14 years ago GNOME made a design choice to hide the logout button if there was only a single user or a single desktop but the choice was basically hidden until some very recent changes to remove X11<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />Log Out Thread: https://discourse.gnome.org/t/please-add-log-out-even-when-there-is-only-one-user-account/34780<br />GNOME 3 Design Docs: https://wiki.gnome.org/Design(2f)OS(2f)SystemStopRestart(2f)History.html<br />Bugzilla: http://bugzilla.gnome.org/show_bug.cgi?id=657011<br />GNOME Shell Issue: https://gitlab.gnome.org/GNOME/gnome-shell/-/iss",
+        "id": 5406182,
+        "language": "en",
+        "link": "https://odysee.com/gnome-logout-button-situation-is-crazy:6e47ac9934e38d03a5353eb5980cf9cd7e4d8382",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/HcJJ7UldMc8",
+        "title": "GNOME Logout Button Situation Is Crazy",
+        "vote": 0
+    }
+]

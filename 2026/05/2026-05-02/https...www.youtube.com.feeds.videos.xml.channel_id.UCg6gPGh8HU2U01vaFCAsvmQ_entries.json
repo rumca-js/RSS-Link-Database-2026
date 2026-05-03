@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Chris Titus Tech",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-02T12:38:05.405855+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-02T11:15:00+00:00",
+        "description": "I finally left Chrome \u2014 here's what I switched to. Brave Origin strips out all the bloat (no AI chat, no rewards, no VPN junk) and keeps what actually matters: Chromium security updates and Brave Shields. On Linux it's completely free. On Windows and Mac it's $60 \u2014 but I've got a free workaround using Brave DeBloat that gets you 90% of the way there.\n\n\u23f1 Timestamps\n0:00 \u2013 Why I left Chrome\n2:00 \u2013 What Brave Origin removes\n4:00 \u2013 Free Windows alternative (BraveDeBloat)\n6:00 \u2013 Activation limits & pricing tips\n\n\u25ba\u25ba Digital Downloads \u279c https://www.cttstore.com\n\u25ba\u25ba Patreon \u279c https://www.patreon.com/christitustech\n\u25ba\u25ba Twitch \u279c https://www.twitch.tv/christitustech\n\u25ba\u25ba Website and Guides \u279c https://christitus.com",
+        "id": 5403370,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=7VTWbFqySxg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 444,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCg6gPGh8HU2U01vaFCAsvmQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/7VTWbFqySxg/hqdefault.jpg",
+        "title": "I Ditched Chrome for This $60 Browser, but without paying",
+        "vote": 0
+    }
+]

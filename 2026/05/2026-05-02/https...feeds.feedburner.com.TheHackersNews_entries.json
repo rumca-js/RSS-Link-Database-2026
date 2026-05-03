@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-02T07:33:09.359534+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-02T07:33:06.218013+00:00",
+        "description": "Cybersecurity company Trellix has announced that it suffered a breach that enabled unauthorized access to a \"portion\" of its source code.\nIt said it \"recently identified\" the compromise of its source code repository and that it began working with \"leading forensic experts\" to resolve the matter immediately. It also said it has notified law enforcement of the matter.\nTrellix did not disclose the",
+        "id": 5402022,
+        "language": "en-US",
+        "link": "https://thehackernews.com/2026/05/trellix-confirms-source-code-breach.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 343,
+        "source_url": "https://feeds.feedburner.com/TheHackersNews",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Trellix Confirms Source Code Breach With Unauthorized Repository Access",
+        "vote": 0
+    }
+]

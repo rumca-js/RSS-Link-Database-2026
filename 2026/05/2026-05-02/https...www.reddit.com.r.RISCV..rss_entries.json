@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/Separate-Choice",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-02T16:52:29.305423+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-02T16:39:12+00:00",
+        "description": "<table> <tr><td> <a href=\"https://www.reddit.com/r/RISCV/comments/1t1ut1i/bare_metal_offline_real_time_facial_recognition/\"> <img src=\"https://external-preview.redd.it/eGN5NzFkYTk1cnlnMQNWnr9s5RGNfeINJJ3WfsWE5UuWMHcUORg5QQq3A8gz.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=a17f17ac46a03b4adf915d8669a681b00faeccea\" alt=\"Bare Metal Offline Real Time Facial Recognition with CH32H417 RISC-V MCU\" title=\"Bare Metal Offline Real Time Facial Recognition with CH32H417 RISC-V MCU\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>So I&#39;ve been testing out what the CH32H417 is capable off some more, especially with the dual core architecture...I already did some work with edge monocular tracking a while back and deciced to optimize my library for WCH chips...the lack of documentation or libraries really makes it a bit difficult, theres no CMSIS or hifhly optimized libraries like you get with an ESP32 or STM32 just some C examples from the vendor and a sparse datasheet....nothing else...",
+        "id": 5404777,
+        "language": "en",
+        "link": "https://www.reddit.com/r/RISCV/comments/1t1ut1i/bare_metal_offline_real_time_facial_recognition",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 471,
+        "source_url": "https://www.reddit.com/r/RISCV/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://external-preview.redd.it/eGN5NzFkYTk1cnlnMQNWnr9s5RGNfeINJJ3WfsWE5UuWMHcUORg5QQq3A8gz.png?width=640&crop=smart&auto=webp&s=a17f17ac46a03b4adf915d8669a681b00faeccea",
+        "title": "Bare Metal Offline Real Time Facial Recognition with CH32H417 RISC-V MCU",
+        "vote": 0
+    }
+]

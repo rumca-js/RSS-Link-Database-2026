@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-02T17:52:45.399376+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-02T17:20:18+00:00",
+        "description": "The next trillion users on the internet won't be people. They'll be AI agents, and they're already doing real work on top of software that was designed for humans clicking buttons.\n\nEvery major category of software needs to be rebuilt for agents as first-class citizens, and that won't come from incumbents.\n\nApply to YC Summer 2026 at ycombinator.com/apply.",
+        "id": 5405131,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/515J0QD9p6w",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/515J0QD9p6w/hqdefault.jpg",
+        "title": "Software for Agents",
+        "vote": 0
+    }
+]

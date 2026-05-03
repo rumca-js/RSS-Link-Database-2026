@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/Antiquus",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-02T08:41:55.879513+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-02T08:10:35+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><h1>Release Notes - SABnzbd 5.0.1</h1> <p>In this fifth major release of SABnzbd, we included:</p> <ul> <li>Smarter (and potentially faster) downloads with NNTP Pipelining and Direct Write.</li> <li>Reliability gains from a reworked cache and safer processing.</li> <li>A significant number of bug fixes and platform updates.</li> </ul> <h2>Bug fixes in 5.0.1</h2> <ul> <li>Queued downloads from older versions did not load after updating.</li> </ul> <h2>New features in 5.0.0</h2> <ul> <li>Added support for NNTP Pipelining which eliminates idle waiting between requests, significantly improving speeds on high-latency connections. Read more here: <a href=\"https://sabnzbd.org/wiki/advanced/nntp-pipelining\">https://sabnzbd.org/wiki/advanced/nntp-pipelining</a> New servers will have <code>Articles per request</code> set to <code>2</code> by default. Existing servers need to be manually changed to use NNTP Pipelining.</li> <li>Implemented Direct Write to optimize ",
+        "id": 5402273,
+        "language": "en",
+        "link": "https://www.reddit.com/r/usenet/comments/1t1jt6d/release_notes_sabnzbd_501",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 550,
+        "source_url": "https://www.reddit.com/r/usenet/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Release Notes SABnzbd 5.0.1",
+        "vote": 0
+    }
+]

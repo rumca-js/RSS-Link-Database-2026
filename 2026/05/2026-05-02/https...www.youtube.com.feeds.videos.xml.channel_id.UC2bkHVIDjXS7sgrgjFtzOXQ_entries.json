@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "engineerguy",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-02T11:38:48.574028+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-02T11:00:46+00:00",
+        "description": "Bill explains how copper \u2014 the backbone of our electrical infrastructure \u2014 is extracted from ore containing as little as half a percent copper by weight. He traces the history of copper demand from the age of naval power through the explosive growth of telegraph networks and electrification, which exhausted the world's richest deposits and forced engineers to process ever-leaner ores. He explains how low-grade ores are pulverized and processed by froth flotation \u2014 a technique that exploits the natural surface chemistry of copper sulfide and silica particles, using air bubbles and a molecule called a collector to float the copper sulfide to the surface. He then explains the electrorefining step, in which an impure copper anode dissolves into a copper sulfate solution while pure copper plates out onto a stainless steel cathode, reaching the 99.9% purity required for electrical applications. Lastly, he notes that mining is only one source of future copper, pointing to the ten million ton",
+        "id": 5403059,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=SB0E4Q3MrVU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 828,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2bkHVIDjXS7sgrgjFtzOXQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/SB0E4Q3MrVU/hqdefault.jpg",
+        "title": "The Engineering of Copper Extraction",
+        "vote": 0
+    }
+]

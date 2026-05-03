@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/RevolutionaryMeet878",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-02T11:48:08.546777+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-02T10:52:19+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>Logs everywhere.</p> <p>And still\u2026 no clear root cause.</p> <p>With Docker-based systems, debugging often means:</p> <p>- jumping between containers</p> <p>- inspecting logs manually</p> <p>- trying to correlate what happened across services</p> <p>We keep adding tools.</p> <p>But the investigation process itself stays fixed.</p> <p>So I tried something different:</p> <p>\u2192 a research prototype that generates its own agents at runtime to investigate failures</p> <p>Instead of a fixed workflow:</p> <p>- agents are created based on the incident</p> <p>- some inspect logs, others analyze behavior across containers</p> <p>- the system adapts how many agents are needed and how they collaborate</p> <p>So it doesn\u2019t follow a predefined debugging process.</p> <p>It builds one.</p> <p>\u26a0\ufe0f Not production-ready \u2014 research prototype.</p> <p>Curious:</p> <p>Would this help in real Docker setups?</p> <p>Or is this just overengineering?</p> <p>For those interested: </",
+        "id": 5403098,
+        "language": "en",
+        "link": "https://www.reddit.com/r/docker/comments/1t1mmqp/docker_debugging_logs_everywhere_still_no_root",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 580,
+        "source_url": "https://www.reddit.com/r/docker/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Docker debugging: logs everywhere\u2026 still no root cause",
+        "vote": 0
+    }
+]

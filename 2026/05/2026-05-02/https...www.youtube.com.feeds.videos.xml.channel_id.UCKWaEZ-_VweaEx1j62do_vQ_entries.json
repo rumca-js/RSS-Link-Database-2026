@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-02T12:37:47.980612+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-02T11:01:22+00:00",
+        "description": "Learn more about GraphRAG here \u2192 https://ibm.biz/BdpyvE\n\nContext is the biggest bottleneck in getting AI to do what you want. Martin Keen explains how context engineering, RAG, GraphRAG, and precision retrieval improve relevance, governance, and AI performance. Discover how to build more reliable, context\u2011aware systems. \ud83e\udd16\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/BdpyvX\n\n#agenticai #aiinfrastructure #aisystems #contextengineering",
+        "id": 5403369,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=pN-LfxNFiTc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/pN-LfxNFiTc/hqdefault.jpg",
+        "title": "How RAG, GraphRAG, and Context Engineering Improve AI Performance",
+        "vote": 0
+    }
+]

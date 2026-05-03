@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-02T00:37:15.145132+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-02T00:37:13.686530+00:00",
+        "description": "There is one food item deemed so disgusting, it evokes fear into the hearts and stomachs of tourists everywhere. This is what happened when I tried it.",
+        "id": 5400634,
+        "language": "en-au",
+        "link": "https://www.news.com.au/travel/destinations/asia/cebu-philippines-inside-the-foodie-haven-right-on-australias-doorstep/news-story/da3e3d6bb48d494e9315d9711f8911fd?from=rss-basic",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 409,
+        "source_url": "https://www.news.com.au/content-feeds/latest-news-travel",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://content.api.news/v3/images/bin/ae5f84d4aba24aef2660bb93e713ba10?width=320",
+        "title": "Foodie heaven right on Australia\u2019s doorstep",
+        "vote": 0
+    }
+]
