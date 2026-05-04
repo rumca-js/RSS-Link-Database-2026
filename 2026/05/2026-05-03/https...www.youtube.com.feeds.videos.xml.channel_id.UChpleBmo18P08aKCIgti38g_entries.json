@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Matt Wolfe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-03T15:39:42.087243+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-03T13:08:32+00:00",
+        "description": "Is Google selling out?\n\nGoogle just signed a massive deal with the Pentagon to use its AI for classified information. This directly contradicts the ethical boundaries they set when they bought DeepMind back in 2014, and over 600 of their own employees are actively begging them not to do it.\n\nBut with the government holding the keys to the future of AI legislation and contracts, my take is that Google was kind of in a no-win situation. \n\nWhat do you think? Should they have held the line like Anthropic, or is this the right business move?\n\n#AI #Ainews #Google #deepmind",
+        "id": 5410472,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/Mwl5rQyCMvA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 933,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChpleBmo18P08aKCIgti38g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/Mwl5rQyCMvA/hqdefault.jpg",
+        "title": "Google Just Sold Out",
+        "vote": 0
+    }
+]

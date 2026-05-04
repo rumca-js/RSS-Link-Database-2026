@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/EnragedButterfly",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-03T11:09:49.974349+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-03T10:44:42+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>So today I woke up to uStart.org being inaccessible, and I realised I&#39;d been taking it for granted for long years and never prepared a backup plan for when this happens. I don&#39;t know if it&#39;s down temporarily or permanently, but I do want to look for an alternative/backup/replacement now, anyway. (Funnily enough, uStart was my replacement for iGoogle, the only useful service Google provided and then murdered).</p> <p>What feeder I&#39;m looking for: * web-based * configurable for sources and layout * ideally FOSS * good if privacy-focused (if not, that&#39;s OK, I&#39;m taking care of my privacy myself)</p> <p>What I&#39;m checking out at the moment:</p> <p><strong>goodnews.click</strong></p> <p>Not sure if I can get it to display news the way I want it to, ie sources in separate blocks/frames containing a list of headlines+leads.</p> <p><strong>justrss.app</strong></p> <p>I like the simplicity and no-frills, but it&#39;s probably a bit too",
+        "id": 5408973,
+        "language": "en",
+        "link": "https://www.reddit.com/r/rss/comments/1t2i310/ustartorg_gone_recommend_me_a_backupreplacement",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 482,
+        "source_url": "https://www.reddit.com/r/rss/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "uStart.org gone? + recommend me a backup/replacement",
+        "vote": 0
+    }
+]

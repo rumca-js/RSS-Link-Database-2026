@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Simon Willison",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-03T17:19:12.610072+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-03T15:13:23+00:00",
+        "description": null,
+        "id": 5411065,
+        "language": "en-us",
+        "link": "https://simonwillison.net/2026/May/3/anthropic/#atom-everything",
+        "manual_status_code": 0,
+        "page_rating": 28,
+        "page_rating_contents": 87,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 423,
+        "source_url": "https://simonwillison.net/atom/everything",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Quoting Anthropic",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mateusz Chrobok",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-03T16:30:33.563572+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-03T16:00:32+00:00",
+        "description": "\ud83d\udea8\u00a0Nie klikasz \u017cadnych dziwnych link\u00f3w, nie uruchamiasz \u017cadnych za\u0142\u0105cznik\u00f3w ani w sumie \u017cadnego badziewia, nie odwiedzasz podejrzanych serwis\u00f3w? \u015awietnie. Robisz dok\u0142adnie to, co wszyscy - w tym ja - m\u00f3wi\u0105 Ci, \u017ce trzeba robi\u0107, aby by\u0107 bezpiecznym. I co? No i nic, nadal padasz ofiar\u0105\u00a0ataku.\nCo dzieje si\u0119 kiedy wektorami ataku staj\u0105\u00a0si\u0119 ci, kt\u00f3rzy mieli nas przed nimi broni\u0107?\n \n\u0179r\u00f3d\u0142a:\n1\ufe0f\u20e3\u00a0trivy - The All-in-One Security Scanner\nhttps://trivy.dev/\n\n\u2757\ufe0f Trivy Security incident 2026-03-19 conclusion\nhttps://github.com/aquasecurity/trivy/discussions/10462\n\n2\ufe0f\u20e3\u00a0Trivy Compromised a Second Time - Malicious v0.69.4 Release, aquasecurity/setup-trivy, aquasecurity/trivy-action GitHub Actions Compromised\nhttps://www.stepsecurity.io/blog/trivy-compromised-a-second-time---malicious-v0-69-4-release\n\n\ud83d\udc26\u00a0Ahmad Nassri @ Twitter\nhttps://x.com/AhmadNassri/status/2035854809845436500\n\n\u26d3\ufe0f\u200d\ud83d\udca5 Trivy Supply Chain Attack Expands to Compromised Docker Images\nhttps://socket.dev/blog/trivy-docker-images-compromised\n\n\ud83d\udd13",
+        "id": 5410746,
+        "language": "pl-PL",
+        "link": "https://www.youtube.com/watch?v=ElfqCg36cek",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 211,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTTZqMWBvLsUYqYwKTdjvkw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/ElfqCg36cek/hqdefault.jpg",
+        "title": "Zrobi\u0142em wszystko dobrze. I tak mnie okradli.",
+        "vote": 0
+    }
+]

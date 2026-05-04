@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/NXGZ",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-03T15:25:37.085128+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-03T07:45:54+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><h1><strong>Here&#39;s what&#39;s new in both;</strong></h1> <p><strong>BigPEmu v1.22:</strong></p> <ul> <li>Added a new &quot;cheat_codes&quot; script module. When this script module is active, the user will be prompted to toggle any available cheat codes (provided by cheat_codes.json) any time a software image is loaded. Cheat codes are provided for every cartridge and CD title in the Jaguar&#39;s retail library. Many of these cheat codes were adapted from jguff&#39;s BigPEmu scripting work, you can find the relevant scripts (and more) here: <a href=\"https://github.com/jguffer/BigPEmu_Scripts\">https://github.com/jguffer/BigPEmu_Scripts</a></li> <li>Implemented the Blitter GPU interrupt. (mainly for developers; this functionality isn&#39;t used in any retail software)</li> <li>Lots of new scripting API functionality, as well as some minor fixes/additions for existing scripts.</li> <li>Reworked a bunch of BigMaster stuff under the hood. You may need to r",
+        "id": 5410373,
+        "language": "",
+        "link": "https://www.reddit.com/r/emulation/comments/1t2f0st/rich_whitehouse_updates_bigpemu_jaguar_and",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 475,
+        "source_url": "https://www.reddit.com/r/emulation/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Rich Whitehouse updates BigPEmu (Jaguar) and BigInstinct (Killer Instinct) with BigInstinct getting its first public release!",
+        "vote": 0
+    }
+]

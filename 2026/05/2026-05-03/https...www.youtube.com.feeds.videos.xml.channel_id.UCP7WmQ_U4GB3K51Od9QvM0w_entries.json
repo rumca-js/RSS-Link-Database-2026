@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "David Bombal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-03T16:09:23.896403+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-03T14:00:46+00:00",
+        "description": "How to dual boot between Windows 11 and Ubuntu Linux - I'll show you all the steps - how to download the ISO, flash a USB drive, create space on your hard drive, repartition your SSD, configure the BIOS to boot correctly and install Ubuntu - basically all the steps to get Ubuntu installed and working in a few minutes.\n\nNote: I was NOT paid to make this video. However, because Geekom gave me the laptop used in the video I've marked it as sponsored. \n\nNote: I didn't use Ventoy in this video because of an issue with Ventoy - if you are interested in using Ventoy, have a look at this video for more information: https://youtu.be/0QUNUm06Llw\n\n// Other demonstrations //\nDual Boot between Windows 11 and Kali Linux: https://youtu.be/t-o9v6hdk6w\n\n// David's SOCIAL // \nDiscord: https://discord.com/invite/usKSyzb \nX: https://www.twitter.com/davidbombal \nInstagram: https://www.instagram.com/davidbombal \nLinkedIn: https://www.linkedin.com/in/davidbombal \nFacebook: https://www.facebook.com/davidbomb",
+        "id": 5410600,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=UTqDuWHbZkw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 984,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP7WmQ_U4GB3K51Od9QvM0w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/UTqDuWHbZkw/hqdefault.jpg",
+        "title": "Dual Boot Windows and Ubuntu Linux in 10 Minutes (2026)",
+        "vote": 0
+    }
+]

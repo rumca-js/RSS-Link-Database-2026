@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "emzdanowicz",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-03T17:07:15.002659+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-03T16:09:51+00:00",
+        "description": "Fabu\u0142a, nowe klasy, zmiany - jak wypada kampania z nowego dodatku do Diablo 4?",
+        "id": 5410994,
+        "language": "pl",
+        "link": "https://www.youtube.com/watch?v=LhOR4lTKAPo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 408,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCDGVMGoT8ql8JQLJt715jA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/LhOR4lTKAPo/hqdefault.jpg",
+        "title": "Porozmawiajmy o kampanii Diablo 4: Lord of Hatred",
+        "vote": 0
+    }
+]

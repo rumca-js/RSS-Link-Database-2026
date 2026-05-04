@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kuba Klawiter",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-03T18:25:31.847977+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-03T18:00:02+00:00",
+        "description": "Zno\u015bne polo z klawiaturk\u0105 - https://znosne.pl/pl/collection/Nowosci/23\n\nW odcinku:\n00:00 Dzi\u015b w odcinku\u2026\n00:52 Dobry wiecz\u00f3r!\n00:56 Stany Zjednoczone wprowadzaj\u0105 monitoring kierowc\u00f3w\n03:13 IKEA PS - czyli jak Ikea sprzedaje powietrze\n06:49 Dreame NEXT 2026 - co pokazali w San Francisco?\n08:13 Auto Huawei z projektorem\n10:45 Nowe funkcje w aplikacji Uber\n11:48 OpenAI pracuje nad w\u0142asnym smartfonem\n12:20 S\u0142uchawki przewodowe zn\u00f3w modne?\n12:59 Niewidomy przebieg\u0142 maraton z pomoc\u0105 okular\u00f3w (i ludzi) ;)\n13:27 Australijski zakaz social medi\u00f3w nie dzia\u0142a\n13:42 Zno\u015bnego tygodnia!",
+        "id": 5411394,
+        "language": "pl-PL",
+        "link": "https://www.youtube.com/watch?v=vX0AExQPMEI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 179,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLr4hMhk_2KE0GUBSBrspGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/vX0AExQPMEI/hqdefault.jpg",
+        "title": "Nowy fotel, czyli jak Ikea sprzedaje powietrze - Tech Week",
+        "vote": 0
+    }
+]

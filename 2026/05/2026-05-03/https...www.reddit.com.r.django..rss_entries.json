@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/Civil_Wedding654",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-03T13:04:12.290997+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-03T12:57:51+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>So, when my path has a trailing slash, it works fine but when i don&#39;t have it, it gives 500 error even though i have APPEND_SLASH=True, debug is false, allowed host all and also common middleware included.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Civil_Wedding654\"> /u/Civil_Wedding654 </a> <br/> <span><a href=\"https://www.reddit.com/r/django/comments/1t2ks2w/append_slash/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/django/comments/1t2ks2w/append_slash/\">[comments]</a></span>",
+        "id": 5409531,
+        "language": "",
+        "link": "https://www.reddit.com/r/django/comments/1t2ks2w/append_slash",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 491,
+        "source_url": "https://www.reddit.com/r/django/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "APPEND_SLASH",
+        "vote": 0
+    }
+]
