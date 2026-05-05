@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unity",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-04T15:14:57.207868+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-04T15:00:19+00:00",
+        "description": "Build better games, faster. The Unity AI Open Beta is now available for all developers on Unity 6 and above.\n\nUnity AI gives you access to our own in-project agentic assistant, which leverages deep context from your projects and is built specifically for Unity workflows. You can also choose the most secure, stable, and performant way to connect and control your preferred AI tools directly in the editor with our AI Gateway, or from your IDE with our MCP server.\n\n\u2705 An AI agent that understands games: Unity AI uses the deep context of your scene, settings, packages, assets, hierarchy, and target platforms, so you spend more time on creative tasks than fixes.\n\u2705 Bring your assets to life in Unity: Turn designs, images, and references into project-ready assets.\n\u2705 Deep Editor integration, full developer control: Connect your choice of leading AI agents, control your data, and use checkpoints to experiment and roll back changes anytime.\n\nJoin the Unity AI Beta: https://on.unity.com/UnityAI_YT",
+        "id": 5417674,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=pHRZm2BwNQc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 683,
+        "source_url": "https://youtube.com/channel/UCG08EqOAXJk_YXPDsAvReSg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/pHRZm2BwNQc/hqdefault.jpg",
+        "title": "Unity AI Open Beta | Launch Trailer",
+        "vote": 0
+    }
+]

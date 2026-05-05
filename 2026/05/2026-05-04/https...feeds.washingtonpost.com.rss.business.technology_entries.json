@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Gerrit De Vynck",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-04T22:46:53.677036+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-04T22:12:58+00:00",
+        "description": "Elon Musk settled with the SEC in a case that alleged he saved $150 million in 2022 by filing paperwork disclosing purchases of Twitter shares 11 days late.",
+        "id": 5421298,
+        "language": "en-US",
+        "link": "https://www.washingtonpost.com/technology/2026/05/04/elon-musk-sec-settlement",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 364,
+        "source_url": "https://feeds.washingtonpost.com/rss/business/technology",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Elon Musk will pay $1.5 million to settle with SEC over late paperwork",
+        "vote": 0
+    }
+]

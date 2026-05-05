@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-04T08:09:35.329630+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-04T07:45:13+00:00",
+        "description": "At least 38 people were injured when the vehicle ploughed into the crowd at a show in Colombia.",
+        "id": 5414862,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/czx2d54wwr4o",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 524,
+        "source_url": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/25c4/live/194f0eb0-4785-11f1-bad5-873aae2e65be.jpg",
+        "title": "Three dead after monster truck crashes into crowd",
+        "vote": 0
+    }
+]

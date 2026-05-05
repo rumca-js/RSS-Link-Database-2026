@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Matt Wolfe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-04T13:23:01.547792+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-04T12:10:37+00:00",
+        "description": "Anthropic just got caught red handed \ud83d\ude33\n\nUser have been reporting a huge bug in the system that's been charging them hundred of dollars extra on top of their Max subscriptions.\n\nSupport initially refused to refund users and it feels like Anthropic only backtracked after the story got millions of views.\n\nNot a great look...\n\n#ai #ainews #anthropic #claudecode #vibecoding",
+        "id": 5416737,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/WZw8QTXJfjQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 933,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChpleBmo18P08aKCIgti38g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/WZw8QTXJfjQ/hqdefault.jpg",
+        "title": "Anthropic Users Are Getting Screwed Over",
+        "vote": 0
+    }
+]

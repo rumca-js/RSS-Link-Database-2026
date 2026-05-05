@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "David Bombal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-04T13:49:17.124249+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-04T13:45:07+00:00",
+        "description": "Thank you Cisco for sponsoring this video and building these cool Easter Eggs into the Meraki Dashboard :)\n\nIf you want to learn more, go here: https://blogs.cisco.com/networking/galaxy-mode-is-live-\na-limited-time-look-at-what-your-cisco-ai-assistant-and-agenticops-can-already-do\n\n#wifi #network #CiscoAIAssistant",
+        "id": 5416930,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/KEhyy625UKM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 984,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP7WmQ_U4GB3K51Od9QvM0w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/KEhyy625UKM/hqdefault.jpg",
+        "title": "May the force help you troubleshoot ...",
+        "vote": 0
+    }
+]

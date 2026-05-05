@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-04T01:44:48.566459+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-04T01:26:16+00:00",
+        "description": "Adiuvo is developing the Explorer Board, a compact FPGA platform built around the Artix UltraScale+ AU7P, targeting embedded, signal processing, and high-speed I/O applications. The design aims to provide access to UltraScale+ capabilities at a lower price point. The design is based on the AU7P FPGA, which provides approximately 37K LUTs, 75K flip-flops, 216 DSP [&#8230;]",
+        "id": 5413422,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/adiuvo-explorer-board-aims-to-bring-artix-ultrascale-fpga-to-99-platform",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Adiuvo Explorer Board aims to bring Artix UltraScale+ FPGA to $99 platform",
+        "vote": 0
+    }
+]

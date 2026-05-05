@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Sourav Rudra",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-04T14:13:27.687963+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-04T13:27:35+00:00",
+        "description": "OS-SCi's Lomiri Tech Meeting includes keynotes, free books, and a new bounty program reveal.",
+        "id": 5417190,
+        "language": "en-US",
+        "link": "https://itsfoss.com/news/lomiri-tech-meeting",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 156,
+        "source_url": "https://news.itsfoss.com/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://itsfoss.com/content/images/2026/05/lomiri-tech-meeting-banner.png",
+        "title": "A Free Open Source Mobile Dev Hackathon Is Coming to the Netherlands on May 16",
+        "vote": 0
+    }
+]
