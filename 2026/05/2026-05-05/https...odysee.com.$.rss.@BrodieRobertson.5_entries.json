@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-05T22:05:51.072029+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-05T17:30:16+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/PUTTsp8qhOI\" width=\"480\" alt=\"thumbnail\" title=\"Microsoft Pulled A Funny With VSCode\" /></p>VSCode pushed and then very quickly reverted a change which was marking every single commit you made as being co-authored by Copilot even if it had absolutely nothing to do with it.<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />VSCode PR: https://github.com/microsoft/vscode/pull/310226<br />VSCode PR Revert: https://github.com/microsoft/vscode/pull/313931<br />HackerNews: https://news.ycombinator.com/item?id=47989883<br />VSCode Explainer: https://github.com/microsoft/vscode/issues/314311<br /><br />=========Video Platforms==========<br />\ud83c\udfa5 React: https://www.youtube.com/@BrodieRobertsonReacts",
+        "id": 5430873,
+        "language": "en",
+        "link": "https://odysee.com/microsoft-pulled-a-funny-with-vscode:bf3c6bcc6e230ee86367d248edc0f03dda9a87f4",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/PUTTsp8qhOI",
+        "title": "Microsoft Pulled A Funny With VSCode",
+        "vote": 0
+    }
+]

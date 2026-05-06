@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-05T10:37:43.723428+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-05T10:09:23+00:00",
+        "description": "The explosion is the latest accident in the locality of Sutatausa, the site of another deadly mine disaster in 2023.",
+        "id": 5424731,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/cdxpe02y05go",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 524,
+        "source_url": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae6b/live/df51bea0-4861-11f1-9db4-19df36ab272c.jpg",
+        "title": "Nine coal miners die in gas explosion in Colombia",
+        "vote": 0
+    }
+]

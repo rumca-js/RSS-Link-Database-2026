@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-05T12:31:13.143762+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-05T11:38:03+00:00",
+        "description": "The US and Iran's determination to keep the pressure on each other has put the fragile Gulf ceasefire in serious jeopardy.",
+        "id": 5425573,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/cgrpnq00j5vo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 525,
+        "source_url": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a283/live/cfeeea60-4879-11f1-ac78-2112837ce2aa.jpg",
+        "title": "Bowen: Strait of Hormuz standoff raises risk of sliding back into all out war",
+        "vote": 0
+    }
+]

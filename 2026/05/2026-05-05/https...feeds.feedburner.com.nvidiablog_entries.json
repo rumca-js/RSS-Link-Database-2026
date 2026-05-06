@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kari Briski",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-05T18:53:47.692550+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-05T17:00:40+00:00",
+        "description": "Enterprise AI has learned to generate. It has learned to reason. Now companies are asking the next question: How should AI act? Early agent systems have shown what\u2019s possible, moving beyond simple prompts to take on more complex tasks. The next step is bringing those capabilities into enterprise environments \u2014 where agents must operate with [&#8230;]",
+        "id": 5429299,
+        "language": "en-US",
+        "link": "https://blogs.nvidia.com/blog/servicenow-autonomous-ai-agents-enterprises",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 1019,
+        "source_url": "https://feeds.feedburner.com/nvidiablog",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://blogs.nvidia.com/wp-content/uploads/2026/05/nvidia-servicenow-logos-1-842x450.jpg",
+        "title": "NVIDIA and ServiceNow Partner on New Autonomous AI Agents for Enterprises",
+        "vote": 0
+    }
+]

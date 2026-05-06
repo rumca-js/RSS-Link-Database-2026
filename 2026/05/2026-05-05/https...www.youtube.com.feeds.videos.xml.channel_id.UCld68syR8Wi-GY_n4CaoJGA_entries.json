@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-05T18:05:14.376093+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-05T17:30:16+00:00",
+        "description": "VSCode pushed and then very quickly reverted a change which was marking every single commit you made as being co-authored by Copilot even if it had absolutely nothing to do with it.\n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\nVSCode PR: https://github.com/microsoft/vscode/pull/310226\nVSCode PR Revert: https://github.com/microsoft/vscode/pull/313931\nHackerNews: https://news.ycombinator.com/item?id=47989883\nVSCode Explainer: https://github.com/microsoft/vscode/issues/314311\n\n=========Video Platforms==========\n\ud83c\udfa5 React: https://www.youtube.com/@BrodieRobertsonReacts\n\ud83c\udfa5 Podcast: https://techovertea.xyz/youtube\n\ud83c\udfae Gaming: https://brodierobertson.xyz/gaming\n\n==========Social Media==========\n\ud83c\udfa4 Discord: https://brodierobertson.xyz/discord\n\ud83d\udc26 Twitter: https://brodierobertson.xyz",
+        "id": 5428816,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=PUTTsp8qhOI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/PUTTsp8qhOI/hqdefault.jpg",
+        "title": "Microsoft Pulled A Funny With VSCode",
+        "vote": 0
+    }
+]

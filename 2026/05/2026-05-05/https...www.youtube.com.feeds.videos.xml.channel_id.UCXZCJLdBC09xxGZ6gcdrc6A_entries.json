@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "OpenAI",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-05T16:43:53.672811+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-05T15:08:56+00:00",
+        "description": "See how Codex helps sellers get ready for customer meetings faster.\n\nCodex can bring context from Salesforce, Slack, Google Calendar, email, and docs into one clear thread. Sellers can ask questions, spot what changed, surface opportunities, and work across those apps without piecing everything together manually.\n\nLearn more: https://chatgpt.com/codex/for-work/",
+        "id": 5427933,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=y5hogSW2mqU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 935,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXZCJLdBC09xxGZ6gcdrc6A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/y5hogSW2mqU/hqdefault.jpg",
+        "title": "Prep for sales meetings faster with Codex",
+        "vote": 0
+    }
+]

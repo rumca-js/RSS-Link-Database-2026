@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-05T03:14:34.951549+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-05T03:02:51+00:00",
+        "description": "Shuttle&#8217;s new XPC cube SB860R8 is a 14-liter barebone system supporting Intel Core Ultra 200 series processors. Key features include up to 192 GB DDR5 memory, four 3.5-inch drive bays, PCIe Gen5 expansion, dual 2.5 GbE, and multiple display outputs including HDMI 2.1 with 8K support. The system is built around the LGA1851 socket for [&#8230;]",
+        "id": 5422580,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/shuttle-xpc-cube-sb860r8-targets-workstation-workloads-with-core-ultra-200-support",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Shuttle XPC cube SB860R8 targets workstation workloads with Core Ultra 200 support",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Web Dev Simplified",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-05T17:20:23.314942+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-05T16:00:14+00:00",
+        "description": "React Simplified Course: https://learn.webdevsimplified.com/react-simplified/?utm_source=youtube&utm_medium=video-description&utm_term=video-id-9aTRnV6g0eQ&utm_campaign=react-promo-2026-05\nFREE React Hooks Course: https://courses.webdevsimplified.com/react-hooks-simplified/?utm_source=youtube&utm_medium=video-description&utm_term=video-id-9aTRnV6g0eQ\n\nLearning React is hard, especially if you are just getting started. In this video I will show you how to build out a full React application while also explaining every single important React concept you need to know.\n\n\n\ud83d\udcda Materials/References:\n\nGitHub Code: https://github.com/WebDevSimplified/react-habit-tracker}\nReact Simplified Course: https://learn.webdevsimplified.com/react-simplified/?utm_source=youtube&utm_medium=video-description&utm_term=video-id-9aTRnV6g0eQ&utm_campaign=react-promo-2026-05\nFREE React Hooks Course: https://courses.webdevsimplified.com/react-hooks-simplified/?utm_source=youtube&utm_medium=video-description&utm_term",
+        "id": 5428451,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=9aTRnV6g0eQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 994,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFbNIlppjAuEX4znoulh0Cw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/9aTRnV6g0eQ/hqdefault.jpg",
+        "title": "Learn React With This One Project",
+        "vote": 0
+    }
+]

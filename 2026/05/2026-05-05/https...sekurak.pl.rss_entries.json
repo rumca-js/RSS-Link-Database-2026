@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Tomasz Turba",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-05T10:34:24.433207+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-05T10:14:04+00:00",
+        "description": "<p>Badacz bezpiecze\u0144stwa Jeremy Brown, znany z odkrywania luk (memory corruption) w og\u00f3lnodost\u0119pnych narz\u0119dziach, po raz kolejny udowodni\u0142, \u017ce innowacyjne metody oraz nieszablonowe dzia\u0142ania pozwalaj\u0105 wychwyci\u0107 b\u0142\u0119dy, kt\u00f3re przez lata pozostawa\u0142y niewidoczne. Korzystaj\u0105c ze wsparcia sztucznej inteligencji uda\u0142o mu si\u0119 wykry\u0107 powa\u017cn\u0105 podatno\u015b\u0107 w silniku Ollama, skutkuj\u0105c\u0105 mo\u017cliwym wyciekiem danych z...</p>\n<p>Artyku\u0142 <a href=\"https://sekurak.pl/powazna-podatnosc-w-platformie-ollama-prowadzi-do-wycieku-pamieci-a-wszystko-przez-odpowiednio-spreparowany-plik-gguf-cve-2026-5757/\">Powa\u017cna podatno\u015b\u0107 w platformie Ollama prowadzi do wycieku pami\u0119ci. A wszystko przez odpowiednio spreparowany plik GGUF (CVE-2026-5757)</a> pochodzi z serwisu <a href=\"https://sekurak.pl\">Sekurak</a>.</p>",
+        "id": 5424676,
+        "language": "pl-PL",
+        "link": "https://sekurak.pl/powazna-podatnosc-w-platformie-ollama-prowadzi-do-wycieku-pamieci-a-wszystko-przez-odpowiednio-spreparowany-plik-gguf-cve-2026-5757",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 300,
+        "source_url": "https://sekurak.pl/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Powa\u017cna podatno\u015b\u0107 w platformie Ollama prowadzi do wycieku pami\u0119ci. A wszystko przez odpowiednio spreparowany plik GGUF (CVE-2026-5757)",
+        "vote": 0
+    }
+]

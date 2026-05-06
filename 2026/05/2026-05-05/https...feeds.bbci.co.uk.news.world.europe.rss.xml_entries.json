@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-05T16:54:53.243874+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-05T14:50:40+00:00",
+        "description": "A parliamentary committee of enquiry levelled charges of left-wing bias at state-owned France T\u00e9l\u00e9visions and Radio France.",
+        "id": 5428049,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/c052l130d6jo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 523,
+        "source_url": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/970a/live/1f4ce170-48a2-11f1-bfdc-23174677b43e.jpg",
+        "title": "French political row over calls for overhaul and \u20ac1bn cuts at public broadcaster",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "TechHut",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-05T21:19:47.069685+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-05T20:02:08+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/-YCNzxZX2_0\" width=\"480\" alt=\"thumbnail\" title=\"This Self-Hosted App Runs Wikipedia, Maps & AI With No Internet\" /></p>SurfSense is an open source, self-hosted AI research tool. Connect your stuff, chat with all of it, run it locally. Check it out: https://www.surfsense.com/ or on GitHub https://github.com/MODSetter/SurfSense<br /><br />Project Nomad is a self-hosted suite that runs Wikipedia, offline maps, AI, medical references, Docker docs, and more - all completely locally with zero internet required. In this video we install it, go through the setup wizard, and explore everything it can do. If you want to be prepared for when things go sideways, this one is worth checking out. Links and install guide down below.<br /><br />\ud83d\udcd6 RESOURCES<br />https://techhut.tv/project-nomad-offline-knowledge-server<br /><br />\ud83c\udfc6 FOLLOW TECHHUT<br />X (Twitter): https://bit.ly/twitter-techhut<br />MASTODON: https://bit.ly/mastodon-techhut<br />BlueSky: https:/",
+        "id": 5430398,
+        "language": "en",
+        "link": "https://odysee.com/this-self-hosted-app-runs-wikipedia%2C:66098334881b39d5fd115b547513af482fce6774",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 516,
+        "source_url": "https://odysee.com/$/rss/@TechHut:1",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/-YCNzxZX2_0",
+        "title": "This Self-Hosted App Runs Wikipedia, Maps & AI With No Internet",
+        "vote": 0
+    }
+]

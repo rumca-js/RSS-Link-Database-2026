@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-05T10:05:31.425851+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-05T09:13:54+00:00",
+        "description": "How we chose this week\u2019s image",
+        "id": 5424469,
+        "language": "en",
+        "link": "https://www.economist.com/the-world-this-week/2026/05/05/cover-story-newsletter-oil-markets-are-still-in-la-la-land",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 337,
+        "source_url": "https://www.economist.com/the-world-this-week/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Cover Story newsletter: Oil markets are still in La La land",
+        "vote": 0
+    }
+]

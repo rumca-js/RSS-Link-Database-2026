@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Digital Foundry",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-05T15:11:48.024523+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-05T14:00:22+00:00",
+        "description": "Digital Foundry is now fully independent! Join the DF Supporter Program and support the team: https://bit.ly/3jEGjvx\n\nPragmata runs well across a range of PC with good levels of scalability - but it's fair to say that once RT and hair quality are factored into the optimised settings mix, there aren't too many savings beyond a non-path-traced max. Still, PT can run well even on an RTX 5070 and there's still the matter of how to make this game work well on an 8GB GPU. Many thanks to DF contributor Rayan for putting in the legwork on this one!\n\nExamine the DF Website: https://digitalfoundry.net\n\nGo here to check out DF merch! https://store.digitalfoundry.net\n\nSubscribe for more Digital Foundry: http://bit.ly/DFSubscribe\n\n00:00 Introduction\n01:12 Shader Compilation/Stutter Check\n02:21 Optimised Settings: Path Tracing\n04:46 Optimised Settings: Ray Tracing\n05:30 Optimised Settings: Global Illumination\n05:57 Optimised Settings: Hair Quality\n06:48 Optimised Settings: Texture Quality + 8GB Rec",
+        "id": 5426966,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=D3un773xo8M",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 696,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9PBzalIcEQCsiIkq36PyUA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/D3un773xo8M/hqdefault.jpg",
+        "title": "Pragmata PC Review + Best Settings, Path Tracing, 8GB GPU Optimisation + More",
+        "vote": 0
+    }
+]

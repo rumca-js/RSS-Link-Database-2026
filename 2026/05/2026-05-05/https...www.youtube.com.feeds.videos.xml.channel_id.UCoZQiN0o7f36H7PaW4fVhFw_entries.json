@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Retro Game Corps",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-05T14:08:46.103084+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-05T14:00:45+00:00",
+        "description": "There's a new Android app called PlayTranslate that will translate your foreign language games in real time. Let's set it up and check it out!\n\nPlayTranslate app: https://github.com/dominostars/playtranslate\nPlayTranslate discord: https://discord.gg/DVCj6p7MUC\n\nTranslation repo: https://www.romhacking.net/translations/\nDeltaPatcher: https://github.com/marco-calautti/DeltaPatcher\nRetroArch AI Service: https://docs.libretro.com/guides/ai-service/\n\nCheck out my weekly newsletter: http://news.retrogamecorps.com/\n\nWays to support this channel:\nRGC merch: https://store.retrogamecorps.com\nYT channel membership: https://www.youtube.com/channel/UCoZQiN0o7f36H7PaW4fVhFw/join\nPatreon: https://www.patreon.com/retrogamecorps\nKo-Fi: https://ko-fi.com/retrogamecorps\n\n00:00 introduction\n00:53 other translation methods\n02:40 installation\n04:14 testing the app\n06:49 language learning options\n08:41 dual-screen functionality\n12:03 summary and conclusion\n\nFind me on Discord! https://discord.gg/retrohandhe",
+        "id": 5426489,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Sp0eJZSRQiA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 823,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCoZQiN0o7f36H7PaW4fVhFw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/Sp0eJZSRQiA/hqdefault.jpg",
+        "title": "How to Translate Games in Real Time",
+        "vote": 0
+    }
+]

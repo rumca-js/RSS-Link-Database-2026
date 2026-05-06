@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Foundation",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-05T19:00:35.123109+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-05T18:16:28+00:00",
+        "description": "Sponsored by Harness\n\nAI has supercharged coding speed, but it has exposed critical weaknesses in the downstream delivery pipeline. The Harness State of DevOps Modernization 2026 report shows that, while AI-assisted developers are shipping code 45% faster, 69% of frequent AI users report more frequent deployment problems, and average incident recovery times have climbed to 7.6 hours. This is the \"Velocity Paradox.\u201d\n\nThe culprit? A fragmented pipeline where application code moves at machine speed, while database schemas and infrastructure remain trapped in manual, siloed workflows. To survive the AI era, organizations must move toward a unified pipeline that treats the database as a first-class citizen of Continuous Delivery.\n\nIn this session, we\u2019ll discuss how to:\n\n- Standardize Across Environments: Deploy application and database changes consistently from dev to staging to production, with the visibility and governance required to scale safely.\n- Scale with Agentic Workflows: Move be",
+        "id": 5429343,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=oMkIQRO50KQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 499,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfX55Sx5hEFjoC3cNs6mCUQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/oMkIQRO50KQ/hqdefault.jpg",
+        "title": "LF Live Webinar: The Velocity Paradox: Syncing Database DevOps with AI-Scale Software Delivery",
+        "vote": 0
+    }
+]

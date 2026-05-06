@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-05T10:42:37.821809+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-05T10:42:36.606294+00:00",
+        "description": "The United National health agency added that there are five other suspected cases and that further investigations are ongoing.",
+        "id": 5424793,
+        "language": "en-US",
+        "link": "https://www.lemonde.fr/en/science/article/2026/05/05/who-confirms-at-least-two-hantavirus-cases-on-cruise-ship-where-three-people-died_6753145_10.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 190,
+        "source_url": "https://www.lemonde.fr/en/science/rss_full.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.lemde.fr/2026/05/05/255/0/3024/1512/644/322/60/0/9e2750f_ftp-1-sxmsgzxg1hje-64d2df8847ef4b35bcce36eebab2c8f7-1-c8f38240638a46b0b9a0a9e45e64f2b9.jpg",
+        "title": "WHO confirms at least two hantavirus cases on cruise ship where three people died",
+        "vote": 0
+    }
+]

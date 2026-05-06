@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "TechHut",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-05T21:35:34.267066+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-05T20:02:08+00:00",
+        "description": "SurfSense is an open source, self-hosted AI research tool. Connect your stuff, chat with all of it, run it locally. Check it out: https://www.surfsense.com/ or on GitHub https://github.com/MODSetter/SurfSense\n\nProject Nomad is a self-hosted suite that runs Wikipedia, offline maps, AI, medical references, Docker docs, and more - all completely locally with zero internet required. In this video we install it, go through the setup wizard, and explore everything it can do. If you want to be prepared for when things go sideways, this one is worth checking out. Links and install guide down below.\n\n\ud83d\udcd6 RESOURCES\nhttps://techhut.tv/project-nomad-offline-knowledge-server\n\n\ud83c\udfc6 FOLLOW TECHHUT\nX (Twitter): https://bit.ly/twitter-techhut\nMASTODON: https://bit.ly/mastodon-techhut\nBlueSky: https://bsky.app/profile/techhut.bsky.social\nINSTAGRAM: https://bit.ly/personal-insta\n\n\ud83d\udc4f SUPPORT TECHHUT (all links below this line will earn us commission)\nBUY A COFFEE: https://buymeacoffee.com/techhut\nYOUTUBE MEMBE",
+        "id": 5430535,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=-YCNzxZX2_0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 430,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjSEJkpGbcZhvo0lr-44X_w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/-YCNzxZX2_0/hqdefault.jpg",
+        "title": "This Self-Hosted App Runs Wikipedia, Maps & AI With No Internet",
+        "vote": 0
+    }
+]
