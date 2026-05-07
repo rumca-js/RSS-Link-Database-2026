@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-06T18:12:09.769971+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-06T17:30:02+00:00",
+        "description": "Just the other Germany had a major outage with there ccTLD .de which took down almost every single website that was making use of it, this likely created a really unpleasant night for any sysadmins so lets discuss what happened.\n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\nLTT Thread: https://www.reddit.com/r/LinusTechTips/comments/1t4ttuw/no_its_not_you_all_german_de_domains_are/\nJeff Geerling: https://x.com/geerlingguy/status/2051803148281434490\nCloudflare DNS: https://www.cloudflare.com/learning/dns/dns-records/dns-ns-record/\nDENIC: https://en.wikipedia.org/wiki/DENIC\nCloudflare DNS: https://www.cloudflare.com/learning/dns/what-is-1.1.1.1/ \nDENIC Status Page: https://status.denic.de/pages/incident/592577eab611ce1e0d00046f/69fa60ef9d12f5057a974f38\nMastodon Thread: ",
+        "id": 5438690,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=7PAweKMC110",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/7PAweKMC110/hqdefault.jpg",
+        "title": "Germany's Top Level Domain Completely Died Yesterday",
+        "vote": 0
+    }
+]

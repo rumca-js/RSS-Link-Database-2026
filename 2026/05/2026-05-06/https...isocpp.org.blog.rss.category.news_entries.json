@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Blog Staff",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-06T22:54:07.988421+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-06T22:35:16+00:00",
+        "description": "<p>\n\tThe next C++ standard (C++26) is getting exciting new features. One of these features is compile-time reflection. It is ideally suited to serialize and deserialize data at high speed. To test it out, we extended our fast JSON library (simdjson) and we gave a talk at CppCon 2025. The video is out on YouTube.</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://lemire.me/blog/2026/03/26/json-and-c26-compile-time-reflection-a-talk/\">JSON and C++26 compile-time reflection: a talk</a></h3>\n\t<p>\n\t\tby Daniel Lemire</p>\n</blockquote>\n<p>\n\tWatch now:</p>\n<blockquote>\n\t<p>\n\t\t<iframe allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"\" frameborder=\"0\" height=\"315\" referrerpolicy=\"strict-origin-when-cross-origin\" src=\"https://www.youtube.com/embed/Mcgk3CxHYMs?si=23ESHbX4Ak8a828Q\" title=\"YouTube video player\" width=\"560\"></iframe></p>\n</blockquote>",
+        "id": 5440832,
+        "language": "en",
+        "link": "https://isocpp.org//blog/2026/05/json-and-cpp26-compile-time-reflection-a-talk-daniel-lemire",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "JSON and C++26 compile-time reflection: a talk -- Daniel Lemire",
+        "vote": 0
+    }
+]

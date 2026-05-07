@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-06T16:05:13.794789+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-06T15:02:06+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nLightning Talk: Learning C++ Through Writing Coding Questions - Christopher DeGuzman - CppCon 2025\n---\n\nThis lightning talk will explore how companies can use coding contests to encourage the adoption of modern C++ language features and libraries. We'll discuss how the Coding Questions Working Group in Bloomberg's C++ Guild uses this approach to educate and train the firm's engineers to use new features in the C++ standard.\n\nIn part 1, we discuss the need for spaces to safely practice and explore modern C++ features. We also explore how to find inspiration to create your own coding quiz questions!\n\nIn part 2, we showcase some of our past questions and submitted solutions. We also reflect on the feedback from participants to demonstrate the impact we've had on our engineers.\n---\n\nWork at Hudson River Trading (HRT): https://tinyurl.com/safxfctf\n---\n\nChristopher DeGuzman\n\nChristopher DeGuzman is a software engineer at Bloomberg, where he works on the firm's Fixed",
+        "id": 5437459,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=FX63YwZ8OIs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/FX63YwZ8OIs/hqdefault.jpg",
+        "title": "Lightning Talk: Learning C++ Through Writing Coding Questions - Christopher DeGuzman - CppCon 2025",
+        "vote": 0
+    }
+]

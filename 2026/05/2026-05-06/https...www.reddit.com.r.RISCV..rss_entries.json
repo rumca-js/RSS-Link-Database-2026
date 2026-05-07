@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/LivingLinux",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-06T14:44:20.080163+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-06T14:17:43+00:00",
+        "description": "<table> <tr><td> <a href=\"https://www.reddit.com/r/RISCV/comments/1t5e9xz/k3_is_now_natively_supported_in_the_linux_kernel/\"> <img src=\"https://preview.redd.it/qbm4mv3wzizg1.jpg?width=140&amp;height=109&amp;auto=webp&amp;s=518ec39982762b748af3fd9be6b94ad2077c6b49\" alt=\"K3 is now natively supported in the Linux Kernel mainline, with key SoC enablement merged for Linux 7.0!\" title=\"K3 is now natively supported in the Linux Kernel mainline, with key SoC enablement merged for Linux 7.0!\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>See the post from Banana Pi:</p> <p>You can find the K3 DTS files under arch/riscv/boot/dts/spacemit/ in the upstream tree: k3.dtsi, k3-pico-itx.dts.<br/> <a href=\"https://bsky.app/profile/bananapi.bsky.social/post/3ml6bqcjc6k2k\">https://bsky.app/profile/bananapi.bsky.social/post/3ml6bqcjc6k2k</a></p> <p><a href=\"https://preview.redd.it/qbm4mv3wzizg1.jpg?width=1200&amp;format=pjpg&amp;auto=webp&amp;s=990699262ad3e6d90eb2210c0afc6c85e7d29a6c\">https://prev",
+        "id": 5436625,
+        "language": "en",
+        "link": "https://www.reddit.com/r/RISCV/comments/1t5e9xz/k3_is_now_natively_supported_in_the_linux_kernel",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 471,
+        "source_url": "https://www.reddit.com/r/RISCV/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://preview.redd.it/qbm4mv3wzizg1.jpg?width=140&height=109&auto=webp&s=518ec39982762b748af3fd9be6b94ad2077c6b49",
+        "title": "K3 is now natively supported in the Linux Kernel mainline, with key SoC enablement merged for Linux 7.0!",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-06T15:01:19.532650+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-06T15:00:00+00:00",
+        "description": "<div id=\"link_wrapped_content\">\n<body><section class=\"wp-block-bigbite-multi-title\"><div class=\"container\"></div></section>\n\n\n<div id=\"review-body\" class=\"review\"><h4 class=\"review-title\" id=\"at-a-glance\">At a Glance</h4><h3 class=\"review-subTitle\" id=\"experts-rating\">Expert's Rating</h3><div class=\"starRating\" style=\"--rating: 4;\" aria-label=\"Rating of this product is 4 out of 5.\" role=\"img\"></div>\n<div><div class=\"review-columns\">\n<div class=\"review-column\"><h3 class=\"review-subTitle\" id=\"pros\">Pros</h3>\n<ul class=\"wp-block-list\">\n<li>Unlimited storage for data</li>\n\n\n\n<li>Automatic or manual selection of source data</li>\n\n\n\n<li>Integrates with Windows Explorer for manual source selection</li>\n\n\n\n<li>Saves older versions of files</li>\n</ul>\n</div>\n\n\n\n<div class=\"review-column\"><h3 class=\"review-subTitle\" id=\"cons\">Cons</h3>\n<ul class=\"wp-block-list\">\n<li>Backup of files that are changed multiple times can lag up to 24 hours</li>\n\n\n\n<li>No secondary backup to local media</li>\n\n\n\n<li>",
+        "id": 5436766,
+        "language": "en-US",
+        "link": "https://www.pcworld.com/article/407297/carbonite-review.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 245,
+        "source_url": "https://www.pcworld.com/index.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://b2c-contenthub.com/wp-content/uploads/2024/03/Carbonite-Safe-2024-4.png?w=1200",
+        "title": "Carbonite review: All-you-can-eat online backup",
+        "vote": 0
+    }
+]

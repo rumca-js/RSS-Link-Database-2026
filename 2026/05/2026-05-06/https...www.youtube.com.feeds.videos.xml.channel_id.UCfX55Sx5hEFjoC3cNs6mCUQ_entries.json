@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Foundation",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-06T17:20:22.432795+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-06T17:10:54+00:00",
+        "description": "Shuah Khan and Greg KH will talk about Shuah's experience as a kernel developer and maintainer, taking questions from the attendees. Shuah will share what works and what doesn\u2019t for her and strategies, interpersonal and technical skills and mindset that help her stay engaged for a longer term.",
+        "id": 5438284,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=kPNPIRKzlFk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 499,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfX55Sx5hEFjoC3cNs6mCUQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/kPNPIRKzlFk/hqdefault.jpg",
+        "title": "LF Live Maintainer Session: My Life as a Linux Kernel Developer and Maintainer with Shuah Khan",
+        "vote": 0
+    }
+]

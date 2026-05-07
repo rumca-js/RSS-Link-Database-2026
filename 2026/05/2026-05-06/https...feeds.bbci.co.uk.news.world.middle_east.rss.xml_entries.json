@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-06T06:45:28.466463+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-06T06:39:27+00:00",
+        "description": "The BBC\u2019s Nawal Al-Maghafi has been piecing together what happened on 8 April 2026, after one of the deadliest chapters in the country\u2019s recent history.",
+        "id": 5433333,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/videos/c0l2z28d6elo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 525,
+        "source_url": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e67b/live/434353b0-4916-11f1-b55d-0f258dce1735.jpg",
+        "title": "Watch: BBC traces how huge wave of Israeli strikes brought chaos to Lebanon",
+        "vote": 0
+    }
+]

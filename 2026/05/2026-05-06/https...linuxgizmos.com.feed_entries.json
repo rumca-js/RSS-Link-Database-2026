@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-06T05:35:14.776673+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-06T04:52:37+00:00",
+        "description": "Engicam has expanded its MicroGEA family with the new MicroGEA MX93, a compact system-on-module based on the NXP i.MX 93 processor. The 25 &#215; 25 mm module combines dual Arm Cortex-A55 cores, LPDDR4X memory, onboard eMMC storage, and industrial temperature support. The launch follows earlier MicroGEA modules based on STM32MP1 processors, continuing the company&#8217;s focus [&#8230;]",
+        "id": 5433002,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/engicam-expands-microgea-lineup-with-25-x-25-mm-nxp-i-mx-93-module",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Engicam expands MicroGEA lineup with 25 \u00d7 25 mm NXP i.MX 93 module",
+        "vote": 0
+    }
+]

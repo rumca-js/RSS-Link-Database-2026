@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Lunduke Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-06T19:11:55.055223+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-06T18:51:56+00:00",
+        "description": "\"Cloudflare intervened and prevented our attack [on Ubuntu]. Therefore, Cloudflare servers should expect a devastating attack that will target their servers.\"\n\nMore from The Lunduke Journal:\nhttps://lunduke.com/",
+        "id": 5439320,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=NrbA1GJGpsw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 616,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkK9UDm_ZNrq_rIXCz3xCGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/NrbA1GJGpsw/hqdefault.jpg",
+        "title": "Islamic Terrorists End Attack on Ubuntu, Turn to Cloudflare",
+        "vote": 0
+    }
+]

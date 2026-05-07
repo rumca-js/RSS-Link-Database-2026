@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Learn Linux TV",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-06T17:31:37.445778+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-06T15:01:21+00:00",
+        "description": "In this tutorial, you'll learn how to install Fedora Workstation 44 from scratch \u2014 including how to create bootable USB media with Fedora Media Writer, how to test Fedora in Live Mode before committing to the install, and how to install and update software. This step-by-step guide will walk you through everything you need to know to get Fedora 44 up and running on your PC.\n\n*\ud83d\udcd6 Switch to Linux with my latest book!*\nLinux is one of the best decisions you can make for your computer \u2014 but knowing where to start is the hard part. This guide walks you through everything: choosing a distribution, installing it, and using it confidently every day. It'll be released very soon!\n\ud83d\udccc *Join the announcement list here \u279c https://leanpub.com/switch-to-linux*\n\n*\ud83d\udd25 Top Recommendations*\n \u2022 Get $100 Credit to Practice on Akamai (Linode) \u279c https://learnlinux.link/linode\n \u2022 Linux Commands Cheat Sheet \u279c https://learnlinux.link/linux-commands\n \u2022 30% Off Linux Foundation Certifications (Use code \"LEARNLINUXTV\") ",
+        "id": 5438347,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=kEbnZZW-iG4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 997,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxQKHvKbmSzGMvUrVtJYnUA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/kEbnZZW-iG4/hqdefault.jpg",
+        "title": "How to Install Fedora Workstation 44 (Complete Beginner's Guide)",
+        "vote": 0
+    }
+]

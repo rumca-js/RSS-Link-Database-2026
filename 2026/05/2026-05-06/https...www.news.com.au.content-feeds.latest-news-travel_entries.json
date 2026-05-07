@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-06T09:38:49.376059+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-06T09:38:48.328510+00:00",
+        "description": "Authorities have confirmed several Australians are among those stranded on a cruise ship grappling with the outbreak of a rare and deadly disease.",
+        "id": 5434224,
+        "language": "en-au",
+        "link": "https://www.news.com.au/national/four-australians-confirmed-to-be-on-board-cruise-ship-grappling-with-deadly-hantavirus-outbreak-west-of-senegal/news-story/c9a695fb602429ef6ef9434597282f42?from=rss-basic",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 409,
+        "source_url": "https://www.news.com.au/content-feeds/latest-news-travel",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://content.api.news/v3/images/bin/46236c8bd8635ac5f4a7456c38b90134?width=320",
+        "title": "Aussies stranded after cruise ship outbreak",
+        "vote": 0
+    }
+]

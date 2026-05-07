@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unity",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-06T15:55:29.631189+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-06T15:06:53+00:00",
+        "description": "In this video, we take a look at Unity AI Assistant, which is integrated directly into the Unity Editor. It can help speed up your game prototyping by answering questions, creating implementation plans, and handling time-consuming tasks. Unity AI Assistant also includes a checkpoints system so you can undo any changes you do not want to keep.\n\nUnity AI is built into the Unity Editor and grounded in the real context of game development, from project structure and systems to the creative iteration that shapes player experience. This means creators can spend less time on repetitive workflows, and more time building and refining what makes a game great.\n\n\ud83d\udd17 To learn more and sign up for the Unity AI Open Beta, check out: https://on.unity.com/3QJgAY2\n\n\ud83d\udc49 More details in our Unity AI documentation: https://on.unity.com/4ukSqS5\n\n[00:00] Introduction\n[00:31] Assistant\n[01:14] Ask\n[03:06] Plan\n[04:52] Agent\n[06:24] Checkpoints\n[07:36] AI gateway\n[08:35] Prototyping\n[09:56] Image to 3D models\n[11",
+        "id": 5437389,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=LFJHPmUtlQ8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 683,
+        "source_url": "https://youtube.com/channel/UCG08EqOAXJk_YXPDsAvReSg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/LFJHPmUtlQ8/hqdefault.jpg",
+        "title": "Unity AI Open Beta: AI Assistant",
+        "vote": 0
+    }
+]

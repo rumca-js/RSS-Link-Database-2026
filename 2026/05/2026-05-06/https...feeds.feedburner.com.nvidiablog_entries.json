@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Gilad Shainer",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-06T13:38:02.732058+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-06T11:30:20+00:00",
+        "description": "The race to build the world\u2019s most powerful AI factories demands networking that keeps pace with the ambitions of AI itself.\u00a0 NVIDIA Spectrum-X Ethernet scale-out infrastructure stands at the forefront of that race as the most advanced AI networking technology available today, deployed by industry leaders who can\u2019t afford to compromise on performance, resilience or [&#8230;]",
+        "id": 5435984,
+        "language": "en-US",
+        "link": "https://blogs.nvidia.com/blog/spectrum-x-ethernet-mrc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 1019,
+        "source_url": "https://feeds.feedburner.com/nvidiablog",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://blogs.nvidia.com/wp-content/uploads/2026/05/ethernet-press-spectrum-x-corp-blog-1920x1080-1-842x450.jpg",
+        "title": "NVIDIA Spectrum-X \u2014 the Open, AI-Native Ethernet Fabric \u2014 Sets the Standard for Gigascale AI, Now With MRC",
+        "vote": 0
+    }
+]

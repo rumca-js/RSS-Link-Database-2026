@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-07T00:34:02.524749+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-06T17:30:02+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/7PAweKMC110\" width=\"480\" alt=\"thumbnail\" title=\"Germany Was Just Deleted From The Internet\" /></p>Just the other Germany had a major outage with there ccTLD .de which took down almost every single website that was making use of it, this likely created a really unpleasant night for any sysadmins so lets discuss what happened.<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />LTT Thread: https://www.reddit.com/r/LinusTechTips/comments/1t4ttuw/no_its_not_you_all_german_de_domains_are/<br />Jeff Geerling: https://x.com/geerlingguy/status/2051803148281434490<br />Cloudflare DNS: https://www.cloudflare.com/learning/dns/dns-records/dns-ns-record/<br />DENIC: https://en.wikipedia.org/wiki/DENIC<",
+        "id": 5441364,
+        "language": "en",
+        "link": "https://odysee.com/germany-was-just-deleted-from-the:be81822b9643e9c30a767aba35a39687db39b6f1",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/7PAweKMC110",
+        "title": "Germany Was Just Deleted From The Internet",
+        "vote": 0
+    }
+]

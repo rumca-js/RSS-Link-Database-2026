@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Chris Titus Tech",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-06T11:44:41.508830+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-06T11:15:05+00:00",
+        "description": "My yearly Neovim deep dive is back \u2014 this time fully revamped for Neovim 0.12. I walk through my actual real-world workflow: pasting screenshots directly into markdown articles, yanking UUIDs from the terminal, using CopilotChat for code analysis, oil.nvim for file management, and why I still haven't ditched VS Code entirely. This isn't a \"use Neovim for everything\" video \u2014 it's an honest look at where it actually wins.\n\n\ud83d\udcc1 Config: https://github.com/ChrisTitusTech/neovim\n\n00:00 Why Neovim yearly\n00:28 Screenshot to article\n01:37 Leader P workflow\n02:41 fstab UUID trick\n03:28 Mouse & VS Code\n04:00 CopilotChat analysis\n05:30 Going more minimal\n06:15 Zen writing mode\n07:21 Tab system overview\n08:11 oil.nvim file management\n09:06 Honest final thoughts\n\n\u25ba\u25ba Digital Downloads \u279c https://www.cttstore.com\n\u25ba\u25ba Patreon \u279c https://www.patreon.com/christitustech\n\u25ba\u25ba Twitch \u279c https://www.twitch.tv/christitustech\n\u25ba\u25ba Website and Guides \u279c https://christitus.com",
+        "id": 5435072,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=NYSYiiqk8SY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 444,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCg6gPGh8HU2U01vaFCAsvmQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/NYSYiiqk8SY/hqdefault.jpg",
+        "title": "Neovim - The Elite Editor Setup",
+        "vote": 0
+    }
+]

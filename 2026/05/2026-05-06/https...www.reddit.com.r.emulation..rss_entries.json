@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/bad_spot",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-06T20:52:01.286690+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-06T13:18:23+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://github.com/StrikerX3/Ymir/releases/tag/v0.3.1\">Release</a> | <a href=\"https://www.patreon.com/StrikerX3\">Patreon</a> | <a href=\"https://docs.google.com/spreadsheets/d/1SLZzL9LelSlpEmTKy8cjaQnE7mew2uW1rfCgcekO58Q/edit?gid=1509808625#gid=1509808625\">Compatibility list</a></p> <blockquote> <p>This release adds many performance optimizations to the VDP2 renderer, bringing up to 40% more performance on graphics-heavy games. Users have reported running Virtua Fighter 2 and Last Bronx at full speed on an i7-2600K and many cases of lower-powered CPUs are now capable of running Ymir with less stuttering. In my tests, it consistently runs faster than Mednafen, Kronos and Yaba Sanshiro in high-profile games and a few obscure ones too.</p> <p>This version also includes a few more graphics rendering fixes, more SH-2 emulation accuracy improvements (thanks to <a href=\"https://github.com/celeriyacon\">celeriyacon</a> once again), and some adjustments",
+        "id": 5440046,
+        "language": "",
+        "link": "https://www.reddit.com/r/emulation/comments/1t5cozb/ymir_sega_saturn_v031_released_vdp2_performance",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 475,
+        "source_url": "https://www.reddit.com/r/emulation/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Ymir (Sega Saturn) v0.3.1 released - VDP2 performance improvements, SH-2 emulation accuracy improvements, graphics rendering fixes",
+        "vote": 0
+    }
+]

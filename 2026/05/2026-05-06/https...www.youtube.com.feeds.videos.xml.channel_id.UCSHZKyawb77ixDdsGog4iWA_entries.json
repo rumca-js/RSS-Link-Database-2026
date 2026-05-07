@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Lex Fridman",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-06T22:41:26.532676+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-06T22:03:16+00:00",
+        "description": "Jean-Baptiste Kempf is lead developer of VLC and president of VideoLAN. Kieran Kunhya is a longtime FFmpeg contributor, codec engineer, and the person behind the now-infamous FFmpeg account on X.\nThank you for listening \u2764 Check out our sponsors: https://lexfridman.com/sponsors/ep496-sb\nSee below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc.\n\n*Transcript:*\nhttps://lexfridman.com/ffmpeg-transcript\n\n*CONTACT LEX:*\n*Feedback* - give feedback to Lex: https://lexfridman.com/survey\n*AMA* - submit questions, videos or call-in: https://lexfridman.com/ama\n*Hiring* - join our team: https://lexfridman.com/hiring\n*Other* - other ways to get in touch: https://lexfridman.com/contact\n\n*EPISODE LINKS:*\nFFmpeg on X: https://x.com/FFmpeg\nFFmpeg: https://ffmpeg.org/\nVideoLAN (VLC): https://www.videolan.org/\nVideoLAN on X: https://x.com/videolan\nJean-Baptiste's Website: https://jbkempf.com/\nJean-Baptiste's LinkedIn: https://www.linkedin.com/in/jbkempf/\nJean-Baptiste",
+        "id": 5440775,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=nepKKz-MzFM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 547,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSHZKyawb77ixDdsGog4iWA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/nepKKz-MzFM/hqdefault.jpg",
+        "title": "FFmpeg: The Incredible Technology Behind Video on the Internet | Lex Fridman Podcast #496",
+        "vote": 0
+    }
+]

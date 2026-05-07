@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-06T13:06:40.215980+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-06T12:29:26+00:00",
+        "description": "So what's CodePen 2.0? Why is it better? Chris Coyier tells you all about it.",
+        "id": 5435736,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/ooYKMPlIlwQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/ooYKMPlIlwQ/hqdefault.jpg",
+        "title": "So what's CodePen 2.0? Why is it better? Chris Coyier tells you all about it.",
+        "vote": 0
+    }
+]

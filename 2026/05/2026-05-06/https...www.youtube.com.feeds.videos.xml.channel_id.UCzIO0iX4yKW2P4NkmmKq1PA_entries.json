@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "9to5Google",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-06T13:29:15.825364+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-06T12:56:07+00:00",
+        "description": "\ud83d\ude80 Pixel Update Bulletin: May 2026!\nThe latest Android 16 May security patch is here for Pixel devices, bringing important bug fixes, charging improvements, and stability updates across the lineup.\n\nIn this video, we break down everything you need to know \u2014 including battery & charging fixes, Pixel 10 display bugs, camera issues, and what\u2019s next with Android 17. \ud83d\udc47\n\n\ud83d\udd17 Helpful Links & Official Resources\n\n\ud83d\udce5 Pixel Factory Images: https://developers.google.com/android/images\n\ud83d\udce6 Pixel OTA Updates: https://developers.google.com/android/ota\n\ud83d\udee0\ufe0f Android Security Bulletin (May 2026): https://source.android.com/security/bulletin\n\ud83d\udcf1 Android Beta Program: https://www.google.com/android/beta\n\nMay 2026 patch anti-rollback information: \"After taking an May 2026 update and successfully booting the device post update, an Android 16 build resides in the inactive slot (seamless updates for more information on slots) of the device. The inactive slot contains an older bootloader whose anti-rollback version has",
+        "id": 5435882,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=ShI39T01dgA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 1004,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCzIO0iX4yKW2P4NkmmKq1PA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/ShI39T01dgA/hqdefault.jpg",
+        "title": "Pixel Update Bulletin: May 2026!",
+        "vote": 0
+    }
+]

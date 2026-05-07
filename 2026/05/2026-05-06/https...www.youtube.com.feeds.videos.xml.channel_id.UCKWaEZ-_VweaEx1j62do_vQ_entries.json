@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-06T10:54:52.475954+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-06T10:00:31+00:00",
+        "description": "Explore the podcast : https://ibm.biz/~KL5L5UErI\n\nBetween Mythos, GPT-5.4-Cyber, Claude Security\u2019s public beta and OpenAI\u2019s new five-point plan for cyber defense, it seems like cybersecurity is top of mind for the major AI players today. Why\u2014and why now?\nOn this week\u2019s episode of IBM Security Intelligence, Dustin \u201cEvilMog\u201d Heywood, Omari Jones and Kimmie Farrington discuss what CrowdStrike has called \u201ccybersecurity\u2019s Y2K moment.\u201d As the major AI players roll out security-focused solutions\u2014and sophisticated AI tools are weaponized by threat actors\u2014we need all-hands on deck to avert disaster. But will we?\n\nPlus: The Coalition for Secure AI\u2019s framework for AI identities and Copy Fail, a newly discovered Linux flaw with a potentially massive blast radius.\n\nAll that and more on Security Intelligence.\n\nSegments: \n00:00 - Intro\n01:11 - Cybersecurity\u2019s Y2K moment \n10:52 - Framework for AI identity \n22:25 - Copy Fail\n\nThe opinions expressed in this podcast are solely those of the participants ",
+        "id": 5434753,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=EJg67cLfLYo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/EJg67cLfLYo/hqdefault.jpg",
+        "title": "Claude Security\u2019s public beta, OpenAI\u2019s five-point plan and cybersecurity\u2019s Y2K moment",
+        "vote": 0
+    }
+]

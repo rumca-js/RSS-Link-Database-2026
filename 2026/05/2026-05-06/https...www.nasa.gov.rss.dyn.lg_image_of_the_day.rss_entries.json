@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-06T15:45:57.661645+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-06T15:09:00+00:00",
+        "description": "A newly discovered object may be a key to unlocking the true nature of a mysterious class of sources that astronomers have found in the early universe in recent years.",
+        "id": 5437320,
+        "language": "en-us",
+        "link": "https://www.nasa.gov/image-detail/xraydot-illus-2",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 485,
+        "source_url": "https://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Unlocking the Mystery of X-ray Dots",
+        "vote": 0
+    }
+]

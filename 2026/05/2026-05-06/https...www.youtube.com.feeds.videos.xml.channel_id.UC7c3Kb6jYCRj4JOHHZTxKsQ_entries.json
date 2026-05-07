@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "GitHub",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-06T16:52:55.387282+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-06T15:00:31+00:00",
+        "description": "Knowing what to build is easy, but figuring out how to build it can be tricky. In this short, we show you how to use the plan feature in the GitHub Copilot CLI to map out your next project. Copilot will ask follow-up questions to clarify your goals and help you find the best approach. Once the plan is set, you can even ask it to write the code. \n\nWatch our full Copilot CLI for beginners series for more tips: https://www.youtube.com/watch?v=BDxRhhs36ns&list=PL0lo9MOBetEHvO-spzKBAITkkTqv4RvNl\n\n#GitHubCopilot #CopilotCLI #GitHub\n\nStay up-to-date on all things GitHub by connecting with us:\n\nYouTube: https://gh.io/subgithub\nBlog: https://github.blog\nX: https://twitter.com/github\nLinkedIn: https://linkedin.com/company/github\nInsider newsletter: https://resources.github.com/newsletter/\nInstagram: https://www.instagram.com/github\nTikTok: https://www.tiktok.com/@github\n\nAbout GitHub\nIt\u2019s where over 180 million developers create, share, and ship the best code possible. It\u2019s a place for anyone, ",
+        "id": 5437955,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/CIgdAO8mbw0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 1005,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7c3Kb6jYCRj4JOHHZTxKsQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/CIgdAO8mbw0/hqdefault.jpg",
+        "title": "How to plan projects with GitHub Copilot CLI",
+        "vote": 0
+    }
+]
