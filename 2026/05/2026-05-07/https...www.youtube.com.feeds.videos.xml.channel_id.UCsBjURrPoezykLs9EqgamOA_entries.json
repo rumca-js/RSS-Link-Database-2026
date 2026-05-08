@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Fireship",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-07T18:35:19.334098+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-07T17:32:34+00:00",
+        "description": "Railway is the easiest way to deploy anything. Get $20 in free credits - https://railway.com/?referralCode=fireship\n\nEverything that happens inside your computer from the instant you press the power button to the moment you rage quit and shut it down.\n\n#coding #programming #computer #computerscience \n\n\ud83d\udd16 Topics Covered\n- Bootloader\n- Privilege Ring\n- Virtual Memory \n- Filesystem\n- Drivers and Interrupts\n- Processes\n- Syscalls\n- Scheduler\n- Threads\n- IPC\n- Shutdown SIGKILL\n\nWant more Fireship?\n\n\ud83d\uddde\ufe0f Newsletter: https://bytes.dev\n\ud83e\udde0 Courses: https://fireship.dev",
+        "id": 5448693,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=MtxP2pyCvYA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 584,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/MtxP2pyCvYA/hqdefault.jpg",
+        "title": "Every operating system concept in one video\u2026",
+        "vote": 0
+    }
+]

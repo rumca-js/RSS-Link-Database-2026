@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-07T03:59:37.399270+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-07T03:04:10+00:00",
+        "description": "Luckfox has expanded its Linux SBC lineup with the new Aura, a compact board based on the Rockchip RV1126B processor. Similar to the earlier Pico Pi and Lyra Pi series, it combines a Raspberry Pi-sized form factor with a quad-core Cortex-A53 CPU, a 3 TOPS NPU, dual MIPI CSI interfaces, and 4K H.264/H.265 video support. [&#8230;]",
+        "id": 5442287,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/luckfox-aura-is-a-linux-sbc-with-rv1126b-processor-3-tops-npu-and-dual-csi",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Luckfox Aura is a Linux SBC with RV1126B processor, 3 TOPS NPU, and dual CSI",
+        "vote": 0
+    }
+]

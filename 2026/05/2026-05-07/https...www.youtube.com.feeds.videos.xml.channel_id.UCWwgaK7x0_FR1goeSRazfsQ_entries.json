@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Samsung",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-07T13:25:28.585068+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-07T13:01:20+00:00",
+        "description": "Unlock the future of remote management with the Galaxy Book6 Enterprise Edition, powered by Intel vPro\u00ae Fleet Services. Experience seamless, boundary-free management at no additional cost. Learn more:  http://smsng.co/Book6EnterpriseEdition_UseCaseVideo_yt\n\nQ: What are the differences between Galaxy Book6 and Galaxy Book6 Enterprise Edition? \nA: The Galaxy Book6 Enterprise Edition is designed specifically to meet enterprise requirements. It features a dedicated color Gray (Mocha), a One Tone keyboard (with a numeric keypad, available only for the 16-inch model), Windows 11 Pro operating system (Clean OS), dTPM (Discrete TPM), Samsung Knox (SecEP), IR camera, and fingerprint security options. Additionally, it offers models with Intel vPro options.\n\n#GalaxyBookForBusiness #GalaxyBook6EnterpriseEdition #GalaxyBook  #SamsungNotePC",
+        "id": 5445575,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=ehk1Cy8dZ9I",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 785,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCWwgaK7x0_FR1goeSRazfsQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/ehk1Cy8dZ9I/hqdefault.jpg",
+        "title": "Remote management without boundaries | Galaxy Book6 Enterprise Edition | Samsung",
+        "vote": 0
+    }
+]

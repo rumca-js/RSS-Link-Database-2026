@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ThioJoe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-07T15:50:50.182692+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-07T14:45:06+00:00",
+        "description": "This Windows tool is literally life changing, no exaggeration \ud83d\ude24\n\n* Download page: https://github.com/ThioJoe/ThioJoe-AHK-Scripts/releases\n* To access settings: Right click the system tray icon after running it\n* To make it start with Windows, create a shortcut to the exe and put the shortcut in the startup folder, which you can get to by pasting this into the windows explorer path bar:\n%APPDATA%\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\n\nMy previous video about the tool: https://www.youtube.com/watch?v=tTo_MSUIHf8\n\nMy \"Explorer Dialog Path Selector\" app for Windows has had some major improvements since I first made a video talking about it. The main use of the tool is to make it easy to navigate your Save and Open dialogs to folders you're already working on in Explorer, by showing a menu of folders already open. But I've also added favorites and several conditional favorites to show paths in certain custom scenarios.\n\n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\n\u2022 My Desktop Wallpapers \u21e8 https://t",
+        "id": 5447011,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=mROzX-SXjyk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 366,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQSpnDG3YsFNf5-qHocF-WQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/mROzX-SXjyk/hqdefault.jpg",
+        "title": "My Windows App Has Been UPGRADED",
+        "vote": 0
+    }
+]

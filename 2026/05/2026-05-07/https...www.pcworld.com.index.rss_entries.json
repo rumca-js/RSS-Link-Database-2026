@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-07T15:21:32.001058+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-07T15:16:23+00:00",
+        "description": "<div id=\"link_wrapped_content\">\n<body><section class=\"wp-block-bigbite-multi-title\"><div class=\"container\"></div></section>\n\n\n\n<p>All too often, ChatGPT, Claude, and Gemini overstep their instructions because they\u2019re so focused on making you happy. For example, an AI may jump ahead and completely rewrite a document when all you wanted was some focused feedback, or it may draft a brand-new recipe when you just wanted help substituting an ingredient.\u00a0</p>\n\n\n\n<p>You might think the solution is to tell the AI chatbot what it <em>shouldn\u2019t</em> do in your prompt. But that could backfire. In its rush to provide a helpful response to the first several words in your request, it may deemphasize your restrictions\u2014or skip them completely.</p>\n\n\n\n<p>The trick is to structure your prompt in a way that forces the AI to stop and give each part of your request its due weight. You can even tag each segment of your prompt to tell the AI what their purposes are.</p>\n\n\n\n<p>AI chatbots like ChatGPT, Claud",
+        "id": 5446805,
+        "language": "en-US",
+        "link": "https://www.pcworld.com/article/3133846/this-anti-goal-prompt-trick-keeps-chatgpt-from-going-rogue.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 245,
+        "source_url": "https://www.pcworld.com/index.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "This \u2018anti-goal\u2019 prompt trick keeps ChatGPT from going rogue",
+        "vote": 0
+    }
+]

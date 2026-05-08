@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Chris Titus Tech",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-07T19:05:04.374807+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-07T17:48:43+00:00",
+        "description": "\u25ba\u25ba Digital Downloads \u279c https://www.cttstore.com\n\u25ba\u25ba Patreon \u279c https://www.patreon.com/christitustech\n\u25ba\u25ba Twitch \u279c https://www.twitch.tv/christitustech\n\u25ba\u25ba Music by: CreatorMix.com",
+        "id": 5448888,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=3_gq8Xd8xIU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 444,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCg6gPGh8HU2U01vaFCAsvmQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/3_gq8Xd8xIU/hqdefault.jpg",
+        "title": "\ud83d\udd34 LTT Labs Linux Article (rough...) and other developments",
+        "vote": 0
+    }
+]
