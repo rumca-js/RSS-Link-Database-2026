@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "David Bombal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-08T16:57:56.972507+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-08T16:01:37+00:00",
+        "description": "Discover the 3 flavors of encrypted DNS (DoT, DoH, DoQ) and learn how to secure your traffic from ISP snooping and man-in-the-middle attacks.\n\nBig thank you to Infoblox for sponsoring this video.  To learn more about Infoblox please visit:  https://www.infoblox.com/ \n\n#dns #encrypteddns #isp",
+        "id": 5457386,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/svt5GpUWU94",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 984,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP7WmQ_U4GB3K51Od9QvM0w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/svt5GpUWU94/hqdefault.jpg",
+        "title": "3 risks of using clear DNS",
+        "vote": 0
+    }
+]

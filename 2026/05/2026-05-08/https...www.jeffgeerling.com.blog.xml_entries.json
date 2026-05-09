@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-08T14:19:30.825955+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-08T09:00:00+00:00",
+        "description": "<figure class=\"insert-image\"><img src=\"https://www.jeffgeerling.com/blog/2026/homepod-mini-feels-like-magic--but-it-s-just-good-timing/homepod-minis-stereo-pair-iphone-playing-music.jpg\"\n alt=\"HomePod mini stereo pair demonstration with iPhone\" width=\"700\" height=\"auto\">\n</figure>\n\n<p>Apple introduced the <a href=\"https://www.apple.com/homepod-mini/\">HomePod mini</a> <em>six years ago</em>, in 2020.</p>\n<p>I'm not one into smart speakers, but the feature that made me take a closer look was their ability to form stereo pairs, without any direct wired connection.</p>\n<p>I know there are other speaker manufacturers with wireless speakers, but to my knowledge, Apple was just using AirPlay over WiFi... so how does it work?</p>\n<p>Through the magic of buying two HomePods mini (pictured above), I found out. A video detailing the process is embedded below:</p>",
+        "id": 5455838,
+        "language": "en",
+        "link": "https://www.jeffgeerling.com/blog/2026/homepod-mini-feels-like-magic--but-it-s-just-good-timing",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 162,
+        "source_url": "https://www.jeffgeerling.com/blog.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.jeffgeerling.com/blog/2026/homepod-mini-feels-like-magic--but-it-s-just-good-timing/homepod-minis-stereo-pair-iphone-playing-music.jpg",
+        "title": "HomePod mini feels like magic, but it's just good timing",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unity",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-08T16:42:28.466293+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-08T15:59:09+00:00",
+        "description": "In this video, we look at the use case for the AI assistant and AI generators when prototyping game ideas. Materials, animations, sounds, textures and 3D objects are created for a film noir scene.\n\nUnity AI is built into the Unity Editor and grounded in the real context of game development, from project structure and systems to the creative iteration that shapes player experience. This means creators can spend less time on repetitive workflows, and more time building and refining what makes a game great.\n\n\ud83d\udd17 To learn more and sign up for the Unity AI Open Beta, check out: https://on.unity.com/3QJgAY2\n\n\ud83d\udc49 More details in our Unity AI documentation: https://on.unity.com/4ukSqS5\n\n[00:00] Introduction\n[00:22] Plan mode\n[01:49] Materials\n[03:12] 3D models\n[04:21] Animations\n[05:32] Scripts\n[06:05] Sounds\n[07:27] Postprocessing\n[07:49] UI design\n\n#Unity #UnityAI",
+        "id": 5457192,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=b7C6co4bzNY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 683,
+        "source_url": "https://youtube.com/channel/UCG08EqOAXJk_YXPDsAvReSg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/b7C6co4bzNY/hqdefault.jpg",
+        "title": "Unity AI Open Beta: Prototyping a game",
+        "vote": 0
+    }
+]

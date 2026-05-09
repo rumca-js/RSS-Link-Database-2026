@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Craft Computing",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-08T19:04:54.538844+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-08T18:37:20+00:00",
+        "description": "Thanks to Meter for sponsoring today's episode. If you're interested in learning more about how Meter can help with your IT Infrastructure, go to https://meter.com/craftcomputing to book a demo today.\n\nGrab yourself a Pint Glass at https://craftcomputing.store\n\nFollow me on Bluesky @CraftComputing.bsky.social\n\n75 Terrabit Per Second.... that's how fast an Arista 7508N can sling packets around. That's 9.3 TB/s. Today, I'm working through my terminal case of bandwidth envy and helping Ychto install one seriously impressive piece of equipment in his humble homelab.\n\nNo beer in this one, but I did have a wonderful Deschutes Fresh Haze and a Teriyaki Burger for lunch. Would recommend.\n\nIf you're interested in cloud hosted services, or COLO services, Email to sales@zeroone.tech for more information.\n\nSupport me on Patreon and get access to my exclusive Discord server. Chat with myself and the other hosts on Talking Heads all week long.\n\nhttps://www.patreon.com/CraftComputing",
+        "id": 5458396,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=8pLJK964280",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 909,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCp3yVOm6A55nx65STpm3tXQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/8pLJK964280/hqdefault.jpg",
+        "title": "Installing a 75Tbps Switch at #YoloColo - Arista 7508N Install",
+        "vote": 0
+    }
+]

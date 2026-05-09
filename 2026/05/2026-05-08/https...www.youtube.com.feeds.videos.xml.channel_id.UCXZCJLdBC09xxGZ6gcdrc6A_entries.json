@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "OpenAI",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-08T17:08:01.254396+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-08T16:25:50+00:00",
+        "description": "Codex is now even better at working with apps and sites in Chrome, and can now work in parallel across tabs in the background, without taking over your browser.\n\nTo get started on macOS and Windows, install the Chrome plugin in the Codex app.\n\nhttps://openai.com/codex",
+        "id": 5457428,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=b6Mxcv1pyBU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 935,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXZCJLdBC09xxGZ6gcdrc6A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/b6Mxcv1pyBU/hqdefault.jpg",
+        "title": "Codex can now use Chrome directly on macOS and Windows.",
+        "vote": 0
+    }
+]

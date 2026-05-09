@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/vroemboem",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-08T07:14:23.364990+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-08T06:41:03+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>Has anyone succeeded in scraping Google search results without using browser automation?</p> <p>I believe you first need to get cookie consent and then send a request to the /search?filter=0&amp;gbv=1 with a working user agent. However none of the user agents I&#39;ve tried work.</p> <p>I always get a captcha page.</p> <p>Any pointers?</p> <p>For anyone just looking for search results instead of Google search results, Yahoo, DuckDuckGo and Startpage are quite easy to scrape.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/vroemboem\"> /u/vroemboem </a> <br/> <span><a href=\"https://www.reddit.com/r/webscraping/comments/1t6zxgw/scrape_google_search_results/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/webscraping/comments/1t6zxgw/scrape_google_search_results/\">[comments]</a></span>",
+        "id": 5452900,
+        "language": "en",
+        "link": "https://www.reddit.com/r/webscraping/comments/1t6zxgw/scrape_google_search_results",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 467,
+        "source_url": "https://www.reddit.com/r/webscraping/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Scrape Google Search results",
+        "vote": 0
+    }
+]

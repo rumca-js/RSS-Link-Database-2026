@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Christine Hall",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-08T21:48:12.878294+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-08T21:43:47+00:00",
+        "description": "<p><em>A trusted Debian dev turns scary new kernel bugs into a temporary two\u2011click fix until distros ship permanent patches.</em></p>\n<p>The post <a href=\"https://fossforce.com/2026/05/a-simple-one-click-mitigation-for-copy-fail-and-dirty-frag-for-debian-ubuntu-mint-and-other-debian-based-distros/\">A Simple One Click Mitigation for \u2018Copy Fail\u2019 and \u2018Dirty Frag\u2019 for Debian, Ubuntu, Mint, and Other Debian\u2011Based Distros</a> appeared first on <a href=\"https://fossforce.com\">FOSS Force</a>.</p>",
+        "id": 5459582,
+        "language": "en-US",
+        "link": "https://fossforce.com/2026/05/a-simple-one-click-mitigation-for-copy-fail-and-dirty-frag-for-debian-ubuntu-mint-and-other-debian-based-distros",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 108,
+        "source_url": "https://fossforce.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "A Simple One Click Mitigation for \u2018Copy Fail\u2019 and \u2018Dirty Frag\u2019 for Debian, Ubuntu, Mint, and Other Debian\u2011Based Distros",
+        "vote": 0
+    }
+]

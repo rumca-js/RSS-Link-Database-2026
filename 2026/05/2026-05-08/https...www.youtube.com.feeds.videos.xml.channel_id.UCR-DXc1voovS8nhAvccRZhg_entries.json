@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeff Geerling",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-08T15:09:36.358940+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-08T14:00:16+00:00",
+        "description": "Apple's HomePod minis can pair up into stereo pairs.\n\nBut how do they do it?\n\nResources mentioned in this video:\n\n  - HomePod mini: https://www.apple.com/shop/buy-homepod/homepod-mini/midnight\n  - IEEE 802.1AS: https://www.ida.liu.se/~sohsa65/courses/tsn-course-2021/stds/8021AS-2020.pdf\n  - AirPlay 2 RS (open source project): https://github.com/lmcgartland/airplay2-rs\n  - What is gPTP: https://blog.meinbergglobal.com/2024/03/27/what-is-gptp/\n  - What is PTP: https://en.wikipedia.org/wiki/Precision_Time_Protocol\n  - Wireshark: https://www.wireshark.org\n  - HomePod mini intro video: https://www.youtube.com/watch?v=cPakvOuwg48\n  - MacRumors buyers guide: https://buyersguide.macrumors.com/#Homepod-Mini\n\nSupport me on Patreon: https://www.patreon.com/geerlingguy\nSponsor me on GitHub: https://github.com/sponsors/geerlingguy\nMerch: https://www.redshirtjeff.com\n2nd Channel: https://www.youtube.com/@GeerlingEngineering\n3rd Channel: https://www.youtube.com/@Level2Jeff\n\nContents:\n\n00:00 - What d",
+        "id": 5456371,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=9h-nFbAsJ8M",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 161,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR-DXc1voovS8nhAvccRZhg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/9h-nFbAsJ8M/hqdefault.jpg",
+        "title": "How did Apple make this work??",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-08T03:36:11.808816+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-08T03:36:10.508492+00:00",
+        "description": "Because they fail to consult European alerts on suspensions or removals, France and Belgium allow doctors with problematic pasts to practice in their neighboring country.",
+        "id": 5451962,
+        "language": "en-US",
+        "link": "https://www.lemonde.fr/en/les-decodeurs/article/2026/05/08/how-sanctioned-doctors-kept-practicing-across-the-french-belgian-border_6753239_8.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 190,
+        "source_url": "https://www.lemonde.fr/en/science/rss_full.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.lemde.fr/2026/05/04/29/0/3000/1500/644/322/60/0/7f9a072_upload-1-c63gxhedkjtl-docteurs-sans-frontiere.jpg",
+        "title": "How sanctioned doctors kept practicing across the French-Belgian border",
+        "vote": 0
+    }
+]
