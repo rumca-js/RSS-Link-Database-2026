@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-09T18:39:37.147531+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-09T17:30:07+00:00",
+        "description": "Github is the backbone of the modern development environment but has it become too big to actually function properly, over the past few years we've been seeing more and more outages occurring, the site has become increasingly unpleasant to use and now Ghostty is leaving.\n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\nGhostty Blog Post: https://mitchellh.com/writing/ghostty-leaving-github\nUnrelated CVE: https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854\nTwitter 1: https://x.com/mitchellh/status/2043788123008868600\nTwitter 2: https://x.com/mitchellh/status/2036866220449030168\nTwitter 3: https://x.com/mitchellh/status/2036925909572469023\nTwitter 4: https://x.com/mitchellh/status/2036855931569651884\nTwitter 5: https://x.com/mitchellh/status/2036546464802124182\n",
+        "id": 5465031,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=UdAgczSVJ3U",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/UdAgczSVJ3U/hqdefault.jpg",
+        "title": "Has Github Become Too Big To Function",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Blender Guru",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-09T21:49:12.993605+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-09T21:38:16+00:00",
+        "description": "Discover the fundamentals of lighting in Blender.\n\nJoin the Blender Guru Academy: https://academy.blenderguru.com/join\n\nDownload the Starting 3D Model: https://drive.google.com/file/d/10XimqZ8ZytpuIB1ZIaMSBs66nQ9NytO_/view?usp=sharing\n\nPoliigon Addon: https://www.poliigon.com/blender\n\n=== Chapter Marks \u2702\ufe0f===\n0:00 Intro\n0:58 Positioning\n5:12 Staging\n11:11 Falloff\n18:12 Size\n24:57 Color\n27:06 Polish\n\n===Follow me\ud83e\udef0===\n\nTwitter: https://twitter.com/andrewpprice\nInstagram: http://instagram.com/andrewpprice\nArtStation: http://artstation.com/artist/andrewprice\nLinkedIn: www.linkedin.com/in/andrew-price-17678911",
+        "id": 5465995,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=ENnEYoUpFfU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 500,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCOKHwx1VCdgnxwbjyb9Iu1g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/ENnEYoUpFfU/hqdefault.jpg",
+        "title": "Fundamentals of Lighting in Blender",
+        "vote": 0
+    }
+]

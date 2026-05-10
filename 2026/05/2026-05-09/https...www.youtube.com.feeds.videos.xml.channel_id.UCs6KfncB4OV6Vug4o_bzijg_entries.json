@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Techlore",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-09T20:41:39.964758+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-09T20:26:05+00:00",
+        "description": "Google's new reCAPTCHA can require Google Play Services to pass, meaning a de-Googled phone will fail the \"are you human?\" check. Combined with mandatory developer verification and AOSP going private, the pattern over the last year is impossible to ignore. Here's what I think it means for Android, custom ROMs, and the open-source community that built this whole ecosystem.\n\n\ud83d\udd12 A portion of the video is sponsored by Proton. Switch from Big Tech surveillance to end-to-end encryption that puts you in the front seat: https://go.getproton.me/SH12O\n\n\ud83d\udd17 SOURCES & LINKS\n\u2022 reCAPTCHA Update: https://piunikaweb.com/2026/05/07/google-recaptcha-play-services-requirement/\n\u2022 KeepAndroidOpen: https://keepandroidopen.org/\n\n\ud83d\udd0e RELATED VIDEOS\nhttps://youtu.be/RPc869MO86k\nhttps://youtu.be/5MZfGq5F1NU\n\n\ud83e\udde1 SUPPORT TECHLORE\n\u2022 Become a Techlorian: https://techlore.tech/support/#/portal/signup\n\u2022 All Support Methods: https://techlore.tech/support/\n\n\ud83d\udd10 MORE FROM TECHLORE\n\u2022 Homepage & Newsletter: https://techlore.tech",
+        "id": 5465663,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=kVgok4DQR7g",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 327,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/kVgok4DQR7g/hqdefault.jpg",
+        "title": "Google Can't Claim Innocence Anymore",
+        "vote": 0
+    }
+]

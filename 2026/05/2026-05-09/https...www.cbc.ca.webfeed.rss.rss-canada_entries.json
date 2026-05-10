@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-10T01:23:20.044501+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-09T10:48:49+00:00",
+        "description": "<img src='https://i.cbc.ca/ais/1.7561058,1749844673000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C12%2C1377%2C774%29%3BResize%3D%28620%29' alt='Ottawa Hospital Civic campus ambulances lined up June 13, 2025' width='620' height='349' title='Ottawa Hospital Civic campus ambulances lined up June 13, 2025'/><p>A two-year-old child has died after being pulled from the Ottawa River Friday evening, police say.</p>",
+        "id": 5466760,
+        "language": "en",
+        "link": "https://www.cbc.ca/news/canada/ottawa/toddler-dead-ottawa-river-9.7193970?cmp=rss",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 49,
+        "source_url": "https://www.cbc.ca/webfeed/rss/rss-canada",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i.cbc.ca/ais/1.7561058,1749844673000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C12%2C1377%2C774%29%3BResize%3D%28620%29",
+        "title": "Toddler dies after being pulled from Ottawa River",
+        "vote": 0
+    }
+]

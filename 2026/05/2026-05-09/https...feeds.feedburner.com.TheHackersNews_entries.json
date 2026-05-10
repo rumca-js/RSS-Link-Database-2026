@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-09T08:37:42.634626+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-09T08:37:40.859839+00:00",
+        "description": "cPanel has released updates to address three vulnerabilities in cPanel and Web Host Manager (WHM) that could be exploited to achieve privilege escalation, code execution, and denial-of-service.\nThe list of vulnerabilities is as follows -\n\nCVE-2026-29201 (CVSS score: 4.3) - An insufficient input validation of the feature file name in the \"feature::LOADFEATUREFILE\" adminbin call that could result",
+        "id": 5462001,
+        "language": "en-US",
+        "link": "https://thehackernews.com/2026/05/cpanel-whm-patch-3-new-vulnerabilities.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 343,
+        "source_url": "https://feeds.feedburner.com/TheHackersNews",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "cPanel, WHM Release Fixes for Three New Vulnerabilities \u2014 Patch Now",
+        "vote": 0
+    }
+]

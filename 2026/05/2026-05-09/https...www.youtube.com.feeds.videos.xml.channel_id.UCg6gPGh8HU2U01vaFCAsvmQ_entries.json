@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Chris Titus Tech",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-09T11:50:58.302506+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-09T11:15:00+00:00",
+        "description": "Microsoft quietly added an Xbox Mode to Windows 11 that strips out background processes, boots straight into Steam Big Picture or the Xbox interface, and saves nearly a gig of RAM. No dedicated console required \u2014 this turns any Windows PC into a legit home theater gaming machine. Here's how to set it up today using KB5083631, the Xbox Fullscreen Experience Tool, and OmniConsole 2.1.\n\n\ud83d\udd17 Xbox Fullscreen Experience Tool: https://github.com/8bit2qubit/XboxFullscreenExperienceTool\n\ud83d\udd17 Microsoft Update Catalog (KB5083631): https://catalog.update.microsoft.com/Search.aspx?q=KB5083631\n\nChapters:\n00:00 Xbox Mode Explained\n01:02 Standard Desktop Shown\n01:49 Steam Boots Direct\n02:31 Processes & RAM\n03:07 Desktop Still Works\n03:33 Choosing Your App\n03:57 Full Xbox Interface\n04:18 Steam + Xbox Together\n04:44 Game Pass Library\n06:02 How It's Done\n06:28 Required Build Numbers\n07:15 Staying Off Insider\n07:49 Who This Supports\n08:06 Microsoft Update Catalog\n09:06 Installing the Package\n10:14 Startup App",
+        "id": 5462849,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=axL3DhIRppw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 444,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCg6gPGh8HU2U01vaFCAsvmQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/axL3DhIRppw/hqdefault.jpg",
+        "title": "Windows 11 is Now an Xbox",
+        "vote": 0
+    }
+]

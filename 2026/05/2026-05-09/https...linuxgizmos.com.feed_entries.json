@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-09T05:43:46.690414+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-09T05:15:21+00:00",
+        "description": "CompuLab has unveiled the IOT-GATE-RPI5, an industrial IoT edge gateway built around the Raspberry Pi Compute Module 5. The system combines the BCM2712 quad-core Cortex-A76 processor with industrial interfaces, optional cellular connectivity, and support for wide operating temperatures. The gateway is based on the Broadcom BCM2712 processor with four Cortex-A76 cores clocked at 2.4GHz, paired [&#8230;]",
+        "id": 5461385,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/iot-gate-rpi5-is-a-fanless-raspberry-pi-cm5-gateway-with-rs485-and-can-fd",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "IOT-GATE-RPI5 is a Fanless Raspberry Pi CM5 Gateway with RS485 and CAN-FD",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-09T13:38:27.383636+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-09T12:32:50+00:00",
+        "description": "Apple's first logo was nothing like the simple bitten apple we know today. Ania has a little history lesson for you here.",
+        "id": 5463399,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/UH2XXGPh0N0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/UH2XXGPh0N0/hqdefault.jpg",
+        "title": "Apple's first logo was...complicated",
+        "vote": 0
+    }
+]

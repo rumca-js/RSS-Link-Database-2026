@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ThioJoe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-10T00:57:29.672897+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-09T23:58:57+00:00",
+        "description": "Wasn't expecting a sequel \ud83d\ude29\n\nYet another Linux zero-day exploit happened called Dirty Frag, and the circumstances around it are pretty interesting, and could signal more to come. Basically someone saw a commit patch for an exploit that hadn't been disclosed yet, and reverse-engineered it and made their own post about it. But this was all before the patch made it into downstream distros, leaving everyone scrambling to patch sooner than they otherwise would have needed to.\n\nTime Stamps:\n0:00 - Intro\n0:51 - Unusual Circumstances\n2:24 - But Why...\n3:24 - Patching & Mitigation\n4:23 - The Exploit Itself\n5:45 - Why It\u2019s Going To Get Worse\n7:25 - Not Just a Linux Problem\n8:43 - Could It Get Better?\n9:12 - How to Stay Prepared\n\n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\n\u2022 My Desktop Wallpapers \u21e8 https://thiojoe.art/\n\u21e8 http://Instagram.com/ThioJoe\n\u21e8 http://Twitter.com/ThioJoe\n\u21e8 http://Facebook.com/ThioJoeTV\n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac",
+        "id": 5466684,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=__q2d6D3aSU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 366,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQSpnDG3YsFNf5-qHocF-WQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/__q2d6D3aSU/hqdefault.jpg",
+        "title": "ANOTHER Linux Exploit - And It's Even Worse",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unity",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-09T17:00:55.618173+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-09T16:06:15+00:00",
+        "description": "Creating your own packages in Unity is a great way to extend the Editor with custom tooling for your project. Because they are packages, you can store them in various ways, including in a Git repository, making it easy to version and distribute them across multiple projects without manual copying. In this video tutorial, we show you how to get started creating your own custom package and make it available on GitHub.\n\nAwaitable class on documentation:\nhttps://on.unity.com/AwaitablesManual\n\nFind more free Unity learn resources:\nhttps://on.unity.com/learn\n\n#gamedev #unity3d #unitylearn #tutorial",
+        "id": 5464519,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=ppQNU1rlwkI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 683,
+        "source_url": "https://youtube.com/channel/UCG08EqOAXJk_YXPDsAvReSg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/ppQNU1rlwkI/hqdefault.jpg",
+        "title": "Tutorial: Intro to Custom Packages",
+        "vote": 0
+    }
+]
