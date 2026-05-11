@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-10T11:21:42.281552+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-10T11:00:47+00:00",
+        "description": "Learn more about AI Governance here \u2192 https://ibm.biz/~dV19n59uw\n\n'Agentic consent defines who delegates authority, what actions are allowed, and for how long.\u2019 Grant Miller explains how AI agents use identity, governance, and granular permissions to operate safely in dynamic environments. Learn how context, consent, and just\u2011in\u2011time prompts help build trustworthy autonomous AI \ud83e\udd16\u2728\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/~U0G0TdvAq\n\n#agenticai #aiagents #aigovernance",
+        "id": 5468721,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=V_qJIrvWyRQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/V_qJIrvWyRQ/hqdefault.jpg",
+        "title": "Agentic Consent Explained: How AI Agents Act Safely and Responsibly",
+        "vote": 0
+    }
+]

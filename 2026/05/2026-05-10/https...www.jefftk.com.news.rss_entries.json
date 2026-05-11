@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-11T02:42:33.253460+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-10T08:00:00+00:00",
+        "description": "<p><span>\n\nI recently got a </span>\n\n<a href=\"https://en.wikipedia.org/wiki/Venova\">Venova</a> and have been\nenjoying learning how to play it:\n\n\n\n<p>\n\n<a href=\"https://www.jefftk.com/venova-on-table-big.jpg\"><img src=\"https://www.jefftk.com/venova-on-table.jpg\" width=\"550\" height=\"172\" class=\"mobile-fullwidth\" style=\"max-width:100.0vw; max-height:31.3vw;\" srcset=\"https://www.jefftk.com/venova-on-table.jpg 550w,https://www.jefftk.com/venova-on-table-2x.jpg 1100w\"><div style=\"height:min(31.3vw, 172px)\" class=\"image-vertical-spacer\"></div></a>\n\n</p>\n\n<p>\n\nIt combines a saxophone mouthpiece with recorder fingering and a <a href=\"https://www.jefftk.com/p/forked-brass\">little nose</a> to\noverblow an octave instead of a twelfth.\n\n</p>\n\n<p>\n\nIt's somewhere between a real instrument and a toy, and one of its\nbigger problems is that while it's great in C it gets harder to play\nthe more sharps or flats you want.  Since I mostly play contra music,\ntypically in 2-3 sharps, this isn't ideal.\n\n</p>\n",
+        "id": 5473137,
+        "language": "en-US",
+        "link": "https://www.jefftk.com/p/dual-bore-janko-venova",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 163,
+        "source_url": "https://www.jefftk.com/news.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.jefftk.com/venova-on-table.jpg",
+        "title": "Dual Bore Janko Venova",
+        "vote": 0
+    }
+]

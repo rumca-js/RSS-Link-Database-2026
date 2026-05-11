@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-10T13:43:30.085509+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-10T12:05:59+00:00",
+        "description": "[allAfrica] Across Africa and the wider world, migration has become one of the defining issues of our time. It is driven by war, unemployment, economic inequality, political instability, climate pressures, and the natural human desire for a better life. Yet while migration itself is not new, the tensions surrounding it are becoming more dangerous and politically explosive. The recent xenophobic attacks in South Africa once again remind us that violence against foreign nationals is never acceptable,morally, legally,",
+        "id": 5469410,
+        "language": "en",
+        "link": "https://allafrica.com/stories/202605100043.html",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 15,
+        "source_url": "https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Africa: Beyond Xenophobia - Africa Needs a Sustainable Migration Strategy",
+        "vote": 0
+    }
+]

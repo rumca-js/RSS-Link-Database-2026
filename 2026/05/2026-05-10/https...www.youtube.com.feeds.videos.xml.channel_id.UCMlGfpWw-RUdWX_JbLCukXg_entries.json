@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-10T16:03:39.093528+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-10T15:02:03+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nLightning Talk: std::move & Spirited Away: When Nameless Objects Walk the Spirited World - Siyu (Alice) Peng - CppCon 2025\n---\n\nThis imaginative C++ talk parallels Spirited Away with std::move, showing how moved-from objects lose their \u201cidentity\u201d yet remain valid\u2014just like Chihiro becoming Sen.\n\nThrough this metaphor, the presenter reveals that std::move doesn\u2019t actually move\u2014it casts to an rvalue, signaling an expiring object. A poetic journey through move semantics, object lifetimes, and the art of regaining one\u2019s name in modern C++.\n---\n\nWork at Hudson River Trading (HRT): https://tinyurl.com/safxfctf\n---\n\nSiyu (Alice) Peng\n---\n\nCppCon is the annual, week-long face-to-face gathering for the entire C++ community. The conference is organized by the C++ community for the community. You will enjoy inspirational talks and a friendly atmosphere designed to help attendees learn from each other, meet interesting people, and generally have a stimulating experience. ",
+        "id": 5470251,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=ffEOHVm7b4Y",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/ffEOHVm7b4Y/hqdefault.jpg",
+        "title": "Lightning Talk: std::move & Spirited Away: When Nameless Objects Walk the Spirited World",
+        "vote": 0
+    }
+]

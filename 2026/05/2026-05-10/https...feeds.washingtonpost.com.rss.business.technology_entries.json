@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeremy B. Merrill, Leslie Shapiro",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-10T10:36:19.564383+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-10T10:00:56+00:00",
+        "description": "A Washington Post analysis found that only a few users have won the majority of all the profits on the prediction market platform.",
+        "id": 5468499,
+        "language": "en-US",
+        "link": "https://www.washingtonpost.com/technology/interactive/2026/polymarket-online-gambling-winners-and-losers",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 364,
+        "source_url": "https://feeds.washingtonpost.com/rss/business/technology",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Why you\u2019re probably going to lose money on Polymarket",
+        "vote": 0
+    }
+]

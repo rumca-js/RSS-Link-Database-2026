@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kuba Klawiter",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-10T19:06:22.384014+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-10T17:59:37+00:00",
+        "description": "Dzi\u015b w odcinku:\n00:00 Temat odcinka\n00:22 Dobry wiecz\u00f3r!\n00:26 Polski samoch\u00f3d od producenta iPhone\u2019a?\n08:36 Robot towarzysz\u0105cy Familiar - nowy projekt by\u0142ego CEO iRobot\n12:17 Google Fitbit Air - smart opaska bez wy\u015bwietlacza\n14:37 Apple zap\u0142aci za niespe\u0142nione obietnice (funkcje AI w iPhone\u2019ach) \n14:59 Tesla Cybertruck gubi ko\u0142a\n15:18 Nowy gimbal DJI Osmo Mobile 8P\n16:03 Kolejny Tech Week ju\u017c z Polski\n16:15 Zno\u015bnego tygodnia!",
+        "id": 5471249,
+        "language": "pl-PL",
+        "link": "https://www.youtube.com/watch?v=POkol4Fte_I",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 179,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLr4hMhk_2KE0GUBSBrspGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/POkol4Fte_I/hqdefault.jpg",
+        "title": "Polski samoch\u00f3d od producenta iPhone\u2019a? Tech Week",
+        "vote": 0
+    }
+]

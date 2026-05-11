@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "AI Search",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-10T05:08:09.711916+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-10T03:24:22+00:00",
+        "description": "HUGE AI NEWS: HiDream-O1 Image, Bach 1.0, Zaya1, LabOS, PhysForge & more #ai #ainews #aitools #aivideo #agi\n\nThanks to our sponsor Luma. Try Luma Agents today: https://lumalabs.ai/aisearch-agents\n\nRecGen https://reconstruction-by-generation.github.io/\nHiDream-O1 Image https://huggingface.co/HiDream-ai/HiDream-O1-Image\nUniVidX https://houyuanchen111.github.io/UniVidX.github.io/\nGemma 4 MTP https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/ \nProgramBench https://programbench.com/\nMolmoAct 2 https://allenai.org/blog/molmoact2\nPhysForge https://hku-mmlab.github.io/PhysForge/\nGPT Realtime 2 https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api/ \nGene 26.5 https://www.genesis.ai/blog/gene-26-5-advancing-robotic-manipulation-to-human-level\nAlphaEvolve https://deepmind.google/blog/alphaevolve-impact/\nBach https://www.bach.art/\nZaya1 https://www.zyphra.com/post/zaya1-8b\nLabOS https://ai4labos.com/\nDRex https://vcai.mpi-i",
+        "id": 5467351,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=quxnhOeRz7I",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 806,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIgnGlGkVRhd4qNFcEwLL4A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/quxnhOeRz7I/hqdefault.jpg",
+        "title": "Self-evolving AI, robot fights, new GPT voice, new local image model, Gemma upgrade: AI NEWS",
+        "vote": 0
+    }
+]

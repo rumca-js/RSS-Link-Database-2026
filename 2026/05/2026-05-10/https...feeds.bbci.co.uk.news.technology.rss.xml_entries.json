@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-10T23:35:28.728711+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-10T23:34:59+00:00",
+        "description": "While hackers used to sneak into computer systems, intimidation of staff is now more common.",
+        "id": 5472461,
+        "language": "en-US",
+        "link": "https://www.bbc.com/news/articles/cr71d8vyjv0o",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 28,
+        "source_url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5d0/live/0fa188f0-3eea-11f1-a821-9161fbfb806d.jpg",
+        "title": "Cyber-crime increasingly coming with threats of physical violence",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/Mad_Punters",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-10T12:58:35.536644+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-10T06:17:02+00:00",
+        "description": "<table> <tr><td> <a href=\"https://www.reddit.com/r/raspberry_pi/comments/1t8yvmi/i_built_a_smart_sarcastic_ai_assistant_on_a/\"> <img src=\"https://external-preview.redd.it/QrP9ShrpS5su1_8LpaDb3NSKsjlceorpy97A1297Ay0.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=b6d81f7ce016baa2e4a9f365d554621a18ee7119\" alt=\"I built a smart sarcastic AI assistant on a Raspberry Pi 5 that insults me when I ask dumb questions\" title=\"I built a smart sarcastic AI assistant on a Raspberry Pi 5 that insults me when I ask dumb questions\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Been tinkering with this for a few months and finally got it to a point where I&#39;m actually happy with it.</p> <p>Meet Hewie \u2014 a fully local, button-activated AI voice assistant running on a Pi 5 with a Hailo-8L AI HAT. No cloud, no subscriptions, no sending your voice to Google. Just a snarky little box on my desk that talks back.</p> <p>What it does:</p> <ul> <li>Answers questions via Whisper STT + local LLM (qwen2.5",
+        "id": 5469203,
+        "language": "en",
+        "link": "https://www.reddit.com/r/raspberry_pi/comments/1t8yvmi/i_built_a_smart_sarcastic_ai_assistant_on_a",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 470,
+        "source_url": "https://www.reddit.com/r/raspberry_pi/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://external-preview.redd.it/QrP9ShrpS5su1_8LpaDb3NSKsjlceorpy97A1297Ay0.png?width=640&crop=smart&auto=webp&s=b6d81f7ce016baa2e4a9f365d554621a18ee7119",
+        "title": "I built a smart sarcastic AI assistant on a Raspberry Pi 5 that insults me when I ask dumb questions",
+        "vote": 0
+    }
+]

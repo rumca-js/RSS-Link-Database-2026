@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/Alternative-Claim-41",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-10T14:51:34.068707+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-10T13:58:43+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>Hey Reddit! Continuing the cybersecurity lessons.</p> <p>I recently broke down a typical scammer&#39;s archive (a phishing kit) to show the 7th graders how these things are actually built. It turns out, scammers rarely create these sites from scratch. Inside just one of these archives, I found ready-made fake templates for <strong>Discord, ChatGPT, Facebook, Reddit, and various banks</strong>.</p> <p>Switching the trap from one platform to another is just a matter of a few clicks.</p> <p><strong>The lesson for the kids:</strong> Faking the login page for your favorite game or social network is as easy as copying a picture. Don&#39;t assume scammers only care about adult credit cards \u2014 your gaming accounts are a massive target too.<br/> <a href=\"https://drive.google.com/file/d/11NYyr6a-HqYK31G4qDxJTwtnTd9QVCPy/view?usp=sharing\">https://drive.google.com/file/d/11NYyr6a-HqYK31G4qDxJTwtnTd9QVCPy/view?usp=sharing</a></p> </div><!-- SC_ON --> &#32; submitte",
+        "id": 5469882,
+        "language": "en",
+        "link": "https://www.reddit.com/r/hackers/comments/1t97onm/phishing_is_an_assembly_line_one_archive_dozens",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 536,
+        "source_url": "https://www.reddit.com/r/hackers/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Phishing is an assembly line. One archive = dozens of traps.",
+        "vote": 0
+    }
+]
