@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/Brave_Acanthaceae863",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-11T00:43:18.298719+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-11T00:14:24+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>Wait... why aren&#39;t our QA pages getting cited when they clearly have better answers?</p> <p>We had this exact problem last month. All our &quot;how-to&quot; articles were getting AI citations, but the equivalent content in Q&amp;A format was getting ignored. The same answers, different presentation \u2014 and AI was choosing the articles.</p> <p>After testing 100+ pages side-by-side, here&#39;s what we found.</p> <p>**The QA format problem**</p> <p>Our Q&amp;A pages had this structure:</p> <p>Q: How do I [topic]? A: [Long paragraph answer with 3-4 sentences]</p> <p>AI apparently doesn&#39;t parse paragraph answers well. It extracts fragments, and when there&#39;s only one chunk, that&#39;s all it grabs.</p> <p>**The fix**</p> <p>We restructured to bullet points:</p> <p>Q: How do I [topic]? A: [Topic] involves three steps: \u2022 Step 1 \u2014 what to do first \u2022 Step 2 \u2014 what to avoid \u2022 Step 3 \u2014 common mistakes</p> <p>Same content, just presented differently.</p>",
+        "id": 5472749,
+        "language": "en",
+        "link": "https://www.reddit.com/r/searchengines/comments/1t9ndh5/qa_vs_article_format_which_gets_more_ai_citations",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 463,
+        "source_url": "https://www.reddit.com/r/searchengines/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "QA vs Article Format: Which Gets More AI Citations?",
+        "vote": 0
+    }
+]

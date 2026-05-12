@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "MIT OpenCourseWare",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-11T17:57:11.953428+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-11T17:00:35+00:00",
+        "description": "MIT Economist Jon Gruber explains why economists love auctions, why the free market doesn't quite work without intervention, and how a kidney auction once reached $5.7 million on eBay.\n\nJon Gruber on the Chalk Radio\u00ae podcast: https://www.youtube.com/watch?v=dLg9MK1hv2Y\n\nJon's Intro to Microeconomics course: https://www.youtube.com/watch?v=8ssjKR7nNck&list=PLUl4u3cNGP60V7HxLYRaJMbFzP77bzEjb",
+        "id": 5479065,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=M-8kLw3iNHw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 437,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCEBb1b_L6zDS3xTUrIALZOw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/M-8kLw3iNHw/hqdefault.jpg",
+        "title": "Auctions and the free market",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-11T11:28:45.085460+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-11T11:01:31+00:00",
+        "description": "Learn more about Predictive AI vs Generative AI here \u2192 https://ibm.biz/BdpPNf\n\nPredictive AI asks what will happen, while generative AI asks what it could look like. Martin Keen  explains how LLMs, machine learning models, and diffusion systems differ in outputs, data, and real use cases. Learn how to choose the right AI approach.\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/BdpPNq\n\n#generativeai #llm #predictiveai",
+        "id": 5475653,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=phOhGqpXss4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/phOhGqpXss4/hqdefault.jpg",
+        "title": "Predictive vs Generative AI: How They Work and When to Use Each",
+        "vote": 0
+    }
+]

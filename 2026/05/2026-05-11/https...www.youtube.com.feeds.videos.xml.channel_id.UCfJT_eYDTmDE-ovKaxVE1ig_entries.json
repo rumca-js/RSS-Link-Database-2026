@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kevin Stratvert",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-11T07:32:27.907978+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-11T07:00:47+00:00",
+        "description": "Learn how to use Google NotebookLM step by step in this full beginner tutorial. In this video, I\u2019ll show you how to turn PDFs, notes, websites, Google Drive files, and YouTube videos into an AI-powered research assistant using NotebookLM.\n\nWe\u2019ll cover how to:\n- Create notebooks\n- Add sources like PDFs, websites, and videos\n- Ask questions about your documents\n- Generate summaries with citations\n- Create notes and organize research\n- Build mind maps\n- Generate AI podcasts and audio overviews\n- Share notebooks with others\n\nWhether you're a student, researcher, creator, or professional, NotebookLM can help you analyze information faster and stay organized.\n\nHost: Kevin Stratvert\n\n\ud83d\udcda RESOURCES\n- Get started with NotebookLM: https://notebooklm.google.com/\n\n\u231a TIMESTAMPS\n0:00 - Introduce NotebookLM\n0:28 - Create a new notebook\n1:11 - Add sources\n2:52 - Organize sources\n3:05 - Ask questions in chat\n4:08 - Save responses as notes\n4:26 - Add custom notes\n5:08- Generate a mind map\n6:08 - Create a",
+        "id": 5474248,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=uSVBfyHBiDU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 958,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfJT_eYDTmDE-ovKaxVE1ig",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/uSVBfyHBiDU/hqdefault.jpg",
+        "title": "How to Use NotebookLM (Beginner Tutorial)",
+        "vote": 0
+    }
+]

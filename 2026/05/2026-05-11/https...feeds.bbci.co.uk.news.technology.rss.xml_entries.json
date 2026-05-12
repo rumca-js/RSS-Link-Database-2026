@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-12T00:01:44.055040+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-11T23:23:48+00:00",
+        "description": "Woodworking shops have been transformed by tech to make tools safer and more precise.",
+        "id": 5481650,
+        "language": "en-US",
+        "link": "https://www.bbc.com/news/articles/c747n11933eo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 28,
+        "source_url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1a6/live/ce922de0-3e23-11f1-ac78-2112837ce2aa.jpg",
+        "title": "Not so dusty: How tech is changing woodworking",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-11T15:34:13.583299+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-11T15:02:38+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nLightning Talk: Reducing Binary Bloat With Thin Archives - Florent Castelli - CppCon 2025\n---\n\nBuild folders of big projects are quite large. Did you know that a traditional build will have 2 copies of every object file in it?\nLet's talk about thin archives and explain what they can do for your build to avoid the extra copy.\n---\n\nWork at Hudson River Trading (HRT): https://tinyurl.com/safxfctf\n---\n\nFlorent Castelli\n\nFlorent is an engineer at EngFlow who has a lot of opinions on how to make builds faster and more manageable. He previously wrangled with build systems in video game studios, Spotify and Google.\n---\n\nCppCon is the annual, week-long face-to-face gathering for the entire C++ community. The conference is organized by the C++ community for the community. You will enjoy inspirational talks and a friendly atmosphere designed to help attendees learn from each other, meet interesting people, and generally have a stimulating experience. Taking place this ye",
+        "id": 5477644,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=xs1y0Dl4zZs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/xs1y0Dl4zZs/hqdefault.jpg",
+        "title": "Lightning Talk: Reducing Binary Bloat With Thin Archives - Florent Castelli - CppCon 2025",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unreal Engine",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-11T14:28:08.588409+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-11T14:15:51+00:00",
+        "description": "Join us as our guests, Sid Narayan and Shannon Luong of Another Dimension Games, walk through how UE5 enabled them to build a runtime mod system for their game. This system lets players easily install community content like new weapons, skins, dialogue, abilities, and more simply by dragging and dropping mod files into a folder. Sid and Shannon break down their end-to-end approach: cooking mods as DLC, leveraging the GameFeatures framework for simple activation, and architecting projects to support deep modding and customization. Thanks to UE5, this small indie team made their game completely moddable, and you can too!",
+        "id": 5477129,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=rHF3VdA_0Js",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 685,
+        "source_url": "https://youtube.com/channel/UCBobmJyzsJ6Ll7UbfhI4iwQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/rHF3VdA_0Js/hqdefault.jpg",
+        "title": "Supporting Runtime Mods in UE5: A Complete Pipeline for Developers and Modders | Inside Unreal",
+        "vote": 0
+    }
+]

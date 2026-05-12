@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-11T01:35:14.067274+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-11T00:40:45+00:00",
+        "description": "Iranian authorities granted human rights activist Narges Mohammadi bail amid growing concern over her poor health in prison.",
+        "id": 5472908,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/c1j257w87neo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 525,
+        "source_url": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40f5/live/8608f360-4cd3-11f1-bac4-03d66431e994.jpg",
+        "title": "Ailing Iran Nobel laureate given bail and hospital transfer",
+        "vote": 0
+    }
+]

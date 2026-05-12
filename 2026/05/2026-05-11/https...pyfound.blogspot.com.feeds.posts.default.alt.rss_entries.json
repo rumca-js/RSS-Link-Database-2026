@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-11T11:40:05.067328+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-11T10:40:00+00:00",
+        "description": "<p>The Python Software Foundation (PSF) is excited to share that the PSF Board has been developing a strategic plan to guide the foundation's direction over the next five years. We are sharing the high-level goals today to collect feedback and commentary from the Python community. A full draft with detailed objectives will be published in early June for public feedback, and the board hopes to adopt the plan in July 2026, to be reviewed annually going forward.</p><h2 style=\"text-align: left;\">Why now</h2><p>The Python ecosystem is growing and changing fast. <a href=\"https://blog.pypi.org/posts/2025-12-31-pypi-2025-in-review/\" target=\"_blank\">PyPI hosts over 800,000 projects</a> and serves tens of billions of downloads per month. The <a href=\"https://www.python.org/psf/developersinresidence/\" target=\"_blank\">Developers-in-Residence program</a> has grown from a single role to a team spanning CPython development, security, and PyPI safety, proving that targeted investment in core infrastr",
+        "id": 5475681,
+        "language": "en",
+        "link": "https://pyfound.blogspot.com/2026/05/strategic-planning-at-psf.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 267,
+        "source_url": "https://pyfound.blogspot.com/feeds/posts/default?alt=rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Strategic Planning at the PSF",
+        "vote": 0
+    }
+]

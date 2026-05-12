@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-11T12:37:24.468299+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-11T12:17:42+00:00",
+        "description": "If you're job hunting, how can you compete with industry veterans? Well, by building something real and seeing it through to completion. Justin explains why this matters.",
+        "id": 5476134,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/shN9XmVABnY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/shN9XmVABnY/hqdefault.jpg",
+        "title": "Build something real first, then sell it",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Lunduke Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-11T19:42:57.026864+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-11T19:00:26+00:00",
+        "description": "Debian Linux has declared that, effective immediately, they will reject all packages which are not reproducible. This is a big deal for the entire Linux world.\n\nMore from The Lunduke Journal:\nhttps://lunduke.com/",
+        "id": 5479898,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=fqWbNvEBKqk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 616,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkK9UDm_ZNrq_rIXCz3xCGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/fqWbNvEBKqk/hqdefault.jpg",
+        "title": "Debian Linux Goes Full Reproducible (And What That Means)",
+        "vote": 0
+    }
+]
