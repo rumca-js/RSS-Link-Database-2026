@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-12T04:51:26.606263+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-12T04:11:49+00:00",
+        "description": "Milk-V has introduced the Jupiter2, a compact RISC-V single-board computer based on the SpacemiT Key Stone K3 processor. Similar to the recently announced Sipeed K3 Pico-ITX platform, the board combines eight X100 RISC-V CPU cores with an eight-core A100 AI subsystem rated for up to 60 TOPS, LPDDR5 memory, and high-speed networking interfaces including 10GbE [&#8230;]",
+        "id": 5482842,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/milk-v-jupiter2-brings-spacemit-k3-risc-v-platform-to-pico-itx-form-factor",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Milk-V Jupiter2 brings SpacemiT K3 RISC-V platform to Pico-ITX form factor",
+        "vote": 0
+    }
+]

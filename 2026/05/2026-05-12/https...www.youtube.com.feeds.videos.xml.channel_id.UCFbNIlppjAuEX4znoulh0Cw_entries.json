@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Web Dev Simplified",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-12T18:17:57.962118+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-12T16:00:53+00:00",
+        "description": "Setting up a local AI model can be intimidating, which is why I created this video. In this video I will show you everything you need to know about setting up local AI models from the basics of how local AI models work, to how to optimize local AI models for your hardware, and even how to use these local AI models in real world agentic environments.\n\n\n\ud83d\udcda Materials/References:\n\nLM Studio: https://lmstudio.ai/\nHugging Face: https://huggingface.co/\nPi Coding Agent: https://pi.dev/\n\n\n\ud83c\udf0e Find Me Here:\n\nMy Blog: https://blog.webdevsimplified.com/\nMy Courses: https://courses.webdevsimplified.com/\nPatreon: https://www.patreon.com/WebDevSimplified\nTwitter: https://twitter.com/DevSimplified\nDiscord: https://discord.gg/7StTjnR\nGitHub: https://github.com/WebDevSimplified\nCodePen: https://codepen.io/WebDevSimplified\n\n\n\u23f1\ufe0f Timestamps:\n\n00:00 - Introduction\n01:08 - How Local AI Works\n05:33 - Picking Models\n11:46 - Configuring Your Model\n21:57 - Using Local Models In Your IDE\n34:17 - Using Local Models ",
+        "id": 5488938,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=UngVdAsQEiU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 994,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFbNIlppjAuEX4znoulh0Cw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/UngVdAsQEiU/hqdefault.jpg",
+        "title": "Local AI Master Class - Setup, Software, Agentic, Autocomplete, Chat",
+        "vote": 0
+    }
+]

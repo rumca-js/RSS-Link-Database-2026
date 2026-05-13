@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-12T16:56:41.798329+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-12T15:02:43+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nLightning Talk: Poor Man\u2019s Autocomplete for Template Arguments - Max Sagebaum - CppCon 2025\n---\n\nUsually the auto complete feature of IDEs does not work for template types. With a little bit of macro magic or template metaprogramming it is possible to define default interfaces for template arguments that can be used for the auto completion. This technique is agnostic to the IDE and the Cpp standard.\n---\n\nWork at Hudson River Trading (HRT): https://tinyurl.com/safxfctf\n---\n\nI mainly work on implementing and applying algorithmic differentiation (AD) tools. CoDiPack is the AD library I have been developing for 10 years now. It makes heavy use of template metaprogramming. This all in the context of HPC applications.\n---\n\n\nCppCon is the annual, week-long face-to-face gathering for the entire C++ community. The conference is organized by the C++ community for the community. You will enjoy inspirational talks and a friendly atmosphere designed to help attendees learn",
+        "id": 5488078,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=DkLSHgxf-Q8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/DkLSHgxf-Q8/hqdefault.jpg",
+        "title": "Lightning Talk: Poor Man\u2019s Autocomplete for Template Arguments - Max Sagebaum - CppCon 2025",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "JerryRigEverything",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-12T19:13:29.297059+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-12T18:11:59+00:00",
+        "description": "Being Prepared is easy: https://www.DrinkBison.com\n\nDon't be thirsty.",
+        "id": 5489502,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/4slngTaicg8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 705,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCWFKCr40YwOZQx8FHU_ZqqQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/4slngTaicg8/hqdefault.jpg",
+        "title": "60% of people have a drinking problem (But not in the way you think...)",
+        "vote": 0
+    }
+]

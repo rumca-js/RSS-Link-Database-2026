@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "OpenAI",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-12T23:06:34.379024+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-12T20:44:32+00:00",
+        "description": "Computer use lets Codex work across local apps without taking over your Mac.\n\nAri Weinstein talks about what changes when agents can click, type, and keep working in the background.\n\nTimestamps\n\n00:34 Why computer use\n02:06 Codex works across local apps\n03:41 Multiple apps at once\n05:14 Screenshots plus accessibility data\n08:35 App-by-app permissions",
+        "id": 5491240,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=D_FCYsshMI4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 935,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXZCJLdBC09xxGZ6gcdrc6A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/D_FCYsshMI4/hqdefault.jpg",
+        "title": "Computer use in Codex",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "DistroTube",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-12T14:03:10.428087+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-12T12:31:04+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/NLCPh9iAknk\" width=\"480\" alt=\"thumbnail\" title=\"7 Aliases That Make The Terminal Great Again\" /></p>These seven shells aliases are practically required if you don&#039;t want your terminal experience to suck.<br /><br />alias ls=&#039;ls -lah --color=always --group-directories-first&#039;<br />alias rm=&#039; rm -I --preserve-root&#039;<br />alias cp=&#039;cp -i&#039;<br />alias mv=&#039;mv -i&#039;<br />alias mkdir=&#039;mkdir -p&#039;<br />alias ping=&#039;ping -c 5&#039;<br />alias update=&#039;sudo pacman -Syu&#039; (or whatever your distro uses!)<br /><br />WANT TO SUPPORT THE CHANNEL? <br />\ud83d\udcb0 Patreon: <a href=\"https://www.patreon.com/distrotube\">https://www.patreon.com/distrotube</a> <br />\ud83d\udcb3 Paypal: <a href=\"https://www.paypal.com/donate/?hosted_button_id=MW3ZFGS8Q9JGW\">https://www.paypal.com/donate/?hosted_button_id=MW3ZFGS8Q9JGW</a><br />\ud83d\udecd\ufe0f Amazon: <a href=\"https://amzn.to/2RotFFi\">https://amzn.to/2RotFFi</a><br />\ud83d\udc55 Teespring: <a href=\"",
+        "id": 5486333,
+        "language": "en",
+        "link": "https://odysee.com/7-aliases-that-make-the-terminal-great:2a03d561c8e66dc424b1cfae4e6f952fe5bbd905",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 518,
+        "source_url": "https://odysee.com/$/rss/@DistroTube:2",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/NLCPh9iAknk",
+        "title": "7 Aliases That Make The Terminal Great Again",
+        "vote": 0
+    }
+]

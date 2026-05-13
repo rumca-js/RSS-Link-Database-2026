@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Justin Boitano",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-12T14:15:22.920826+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-12T12:30:56+00:00",
+        "description": "Announced today at SAP Sapphire \u2014 where NVIDIA founder and CEO Jensen Huang joined\u00a0 SAP CEO Christian Klein\u2019s keynote by video \u2014 SAP and NVIDIA\u2019s expanded collaboration helps enterprises run specialized agents with security and governance controls.",
+        "id": 5486576,
+        "language": "en-US",
+        "link": "https://blogs.nvidia.com/blog/sap-specialized-agents",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 1019,
+        "source_url": "https://feeds.feedburner.com/nvidiablog",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://blogs.nvidia.com/wp-content/uploads/2026/05/logo-lockup-blog-SAP-1920x1080-1-842x450.jpg",
+        "title": "NVIDIA and SAP Bring Trust to Specialized Agents",
+        "vote": 0
+    }
+]

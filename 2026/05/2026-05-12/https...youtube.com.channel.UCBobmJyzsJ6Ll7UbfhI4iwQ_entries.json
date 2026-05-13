@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unreal Engine",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-12T16:47:54.396509+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-12T15:58:23+00:00",
+        "description": "In this beginner tutorial series for Unreal Engine, created in partnership with Luke Anderton of Tinkr Studios, you will learn how to create more complex gameplay by creating an animated start countdown, game timer, checkpoint system, exploding mines and more!\n\nThese elements are designed to work with the 3D platformer game you created in the First Hour in Unreal Engine video series but can work with nearly any first or third person project.\n\nhttps://dev.epicgames.com/documentation/unreal-engine/module-1-setting-up-your-project",
+        "id": 5488043,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=PNL-z_h20Ao",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 685,
+        "source_url": "https://youtube.com/channel/UCBobmJyzsJ6Ll7UbfhI4iwQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/PNL-z_h20Ao/hqdefault.jpg",
+        "title": "Your First Game in Unreal Engine | Project Trailer",
+        "vote": 0
+    }
+]

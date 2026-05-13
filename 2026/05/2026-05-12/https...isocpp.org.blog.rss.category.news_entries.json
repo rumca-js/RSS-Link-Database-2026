@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Blog Staff",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-12T23:05:17.495410+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-12T22:40:34+00:00",
+        "description": "<p>\n\tA nice example of C++26 reflection moving from theory into something practical.</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://www.reddit.com/r/cpp/comments/1s5rzct/evolving_a_translation_system_with_reflection_in_c/\">Evolving a Translation System with Reflection in C++</a></h3>\n\t<p>\n\t\tBy GitHub user: friedkeenan<br />\n\t\t&nbsp;</p>\n</blockquote>\n<p>\n\tFrom the post:</p>\n<blockquote>\n\t<p>\n\t\tLately, I&rsquo;ve been using C++26 reflection to create some crazy and cursed stuff. But even though I quite enjoy that work, it is as well quite far from the norm of what reflection is going to offer us in our everyday code.</p>\n\t<p>\n\t\tReflection is definitely not just that craziness, and so I want to present reflection in a more grounded environment, and in a way that will probably land as more typical usage as our codebases gradually come into contact with it.</p>\n\t<p>\n\t\tSo then, in this blogpost, I will be exploring a spectrum of options for how reflection can upgrade a translation system that I",
+        "id": 5491235,
+        "language": "en",
+        "link": "https://isocpp.org//blog/2026/05/evolving-a-translation-system-with-reflection-in-cpp",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Evolving a Translation System with Reflection in C++",
+        "vote": 0
+    }
+]

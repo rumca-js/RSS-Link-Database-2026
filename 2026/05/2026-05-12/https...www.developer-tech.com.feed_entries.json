@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Muhammad Zulhusni",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-12T09:04:31.325901+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-12T09:00:00+00:00",
+        "description": "<p>Google Threat Intelligence Group said it identified a cybercrime operation involving a zero-day exploit. The company believes the exploit was likely developed with help from an AI model. It was written in Python and targeted a two-factor authentication bypass in a popular open-source, web-based system administration tool. According to GTIG, the attackers were preparing for [&#8230;]</p>\n<p>The post <a href=\"https://www.developer-tech.com/news/google-ai-zero-day-exploit-2fa-bypass/\">Google says AI helped build zero-day exploit targeting 2FA bypass</a> appeared first on <a href=\"https://www.developer-tech.com\">Developer Tech News</a>.</p>",
+        "id": 5484058,
+        "language": "en-GB",
+        "link": "https://www.developer-tech.com/news/google-ai-zero-day-exploit-2fa-bypass",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 92,
+        "source_url": "https://www.developer-tech.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Google says AI helped build zero-day exploit targeting 2FA bypass",
+        "vote": 0
+    }
+]

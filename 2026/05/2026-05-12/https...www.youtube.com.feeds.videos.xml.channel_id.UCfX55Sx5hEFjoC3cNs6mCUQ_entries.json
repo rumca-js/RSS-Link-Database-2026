@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Foundation",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-12T19:19:37.243805+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-12T18:53:28+00:00",
+        "description": "Sponsored by Harness\n\nFrame the problem: most FinOps teams are still stuck in visibility mode \u2014 just trying to figure out who's spending what and where. But the landscape has changed dramatically with AI workloads. The question is no longer just \"what did we spend?\" but \"can we get ahead of it before it ships?\"\n\nJoin us for this webinar to learn how leading FinOps teams are evolving from reactive cost visibility to proactive governance \u2014 gaining the foresight to manage AI-driven cloud spend before it impacts the business.",
+        "id": 5489555,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=BT49y1O34mQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 499,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfX55Sx5hEFjoC3cNs6mCUQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/BT49y1O34mQ/hqdefault.jpg",
+        "title": "LF Live Webinar: Shift Left & AI Spend \u2014 The Future of FinOps",
+        "vote": 0
+    }
+]

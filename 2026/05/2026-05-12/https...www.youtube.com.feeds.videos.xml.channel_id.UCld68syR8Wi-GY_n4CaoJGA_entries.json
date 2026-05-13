@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-12T19:14:25.411597+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-12T17:30:11+00:00",
+        "description": "It has taken a long while to get here but it looks like we're very close to having full working HDMI 2.1 support under Linux with AMD GPUs, just in time for HDMI 2.2 to be ready and for the exact same problem to start again.\n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\nHDMI 2.1 Report Thread: https://gitlab.freedesktop.org/drm/amd/-/work_items/1417\n2021 Phoronix Article: https://www.phoronix.com/news/HDMI-Closed-Spec-Hurts-Open\nReddit Patches: https://www.reddit.com/r/linux_gaming/comments/1r793et/hdmi_21_frl_looking_for_testers/\nUpstream Kernel Patches: https://lore.kernel.org/amd-gfx/20260501140441.41068-1-harry.wentland@amd.com/\nNew Phoronix Post: https://www.phoronix.com/forums/forum/linux-graphics-x-org-drivers/open-source-amd-linux/1631149-amd-posts-hdmi-2-1-fr",
+        "id": 5489504,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=g-dvzJ2GIYA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/g-dvzJ2GIYA/hqdefault.jpg",
+        "title": "Linux Will Soon Have Working HDMI 2.1 With AMD GPUs",
+        "vote": 0
+    }
+]

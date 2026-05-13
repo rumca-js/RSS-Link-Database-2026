@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeff Geerling",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-12T15:04:15.216073+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-12T14:00:13+00:00",
+        "description": "Bambu Lab couldn't leave well enough alone.\n\nResources mentioned in this video:\n\n  - OrcaSlicer-bambulab: https://github.com/jarczakpawel/OrcaSlicer-bambulab\n  - Bambu's Blog post responding to the situation: https://blog.bambulab.com/setting-the-record-straight-on-cloud-access-and-community/\n  - Louis Rossmann's video: https://www.youtube.com/watch?v=qLLVn6XT7v0\n  - My video last year: https://www.youtube.com/watch?v=91kfolYkRNM\n  - Slic3r: https://github.com/Slic3r/Slic3r\n  - Prusa Slicer (fork of Slic3r): https://github.com/prusa3d/PrusaSlicer\n  - Bambu Studio (fork of Prusa Slicer): https://github.com/bambulab/BambuStudio\n  - OrcaSlicer (fork of Bambu Studio): https://www.orcaslicer.com\n\nSupport me on Patreon: https://www.patreon.com/geerlingguy\nSponsor me on GitHub: https://github.com/sponsors/geerlingguy\nMerch: https://www.redshirtjeff.com\n2nd Channel: https://www.youtube.com/@GeerlingEngineering\n3rd Channel: https://www.youtube.com/@Level2Jeff",
+        "id": 5486952,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=eb48MdtNaDQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 161,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR-DXc1voovS8nhAvccRZhg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/eb48MdtNaDQ/hqdefault.jpg",
+        "title": "Bambu Lab 3D printers: Never again",
+        "vote": 0
+    }
+]

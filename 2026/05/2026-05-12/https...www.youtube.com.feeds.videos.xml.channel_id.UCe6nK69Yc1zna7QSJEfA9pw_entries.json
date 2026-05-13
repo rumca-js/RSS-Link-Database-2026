@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Niebezpiecznik",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-12T10:33:28.537299+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-12T10:12:19+00:00",
+        "description": "Hardening drukarki to dopiero pocz\u0105tek. Je\u015bli urz\u0105dzenie wielofunkcyjne dzia\u0142a w firmowej\nsieci, powinno by\u0107 monitorowane tak samo jak komputery, serwery czy routery.\nW tym odcinku pokazujemy, dlaczego bezpiecze\u0144stwo drukarek i MFP (ang. Multifunction\nPritners \u2013 urz\u0105dze\u0144 wielofunkcyjnych) nie ko\u0144czy si\u0119 na zmianie domy\u015blnej konfiguracji,\nwy\u0142\u0105czeniu ryzykownych us\u0142ug czy wdro\u017ceniu MFA. To, co zosta\u0142o poprawnie ustawione dzi\u015b,\njutro mo\u017ce zosta\u0107 zmienione: przez aktualizacj\u0119, b\u0142\u0105d, nieautoryzowane dzia\u0142anie albo\n\u201etymczasowy\u201d wyj\u0105tek, kt\u00f3ry zostaje na zawsze.\n\nDlatego tym razem rozmawiamy o ci\u0105g\u0142ym nadzorze: monitorowaniu konfiguracji,\nwykrywaniu zmian, analizie log\u00f3w i reagowaniu na incydenty w czasie zbli\u017conym do\nrzeczywistego. B\u0119dzie o SNMPv3, szyfrowanym Syslogu, Zabbixie, Wazuhu oraz\nnarz\u0119dziach producenta, takich jak Canon imageWARE Enterprise Management Console.\nPokazujemy te\u017c konkretny scenariusz: kto\u015b loguje si\u0119 w nocy na urz\u0105dzenie wielofunkcyjne,\nzmienia ksi\u0105\u017ck\u0119 adresow\u0105, a pot",
+        "id": 5484735,
+        "language": "pl",
+        "link": "https://www.youtube.com/watch?v=62OvqB6HcTY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 240,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCe6nK69Yc1zna7QSJEfA9pw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/62OvqB6HcTY/hqdefault.jpg",
+        "title": "Monitoring drukarek w firmie. Jak wykrywa\u0107 zmiany i incydenty?",
+        "vote": 0
+    }
+]
