@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Gruber",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-13T02:28:13.135816+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-13T02:22:16+00:00",
+        "description": "<p>Windows Notepad is, more or less, the Windows peer to MacOS\u2019s TextEdit\u2009\u2014\u2009the built-in system text editor. For years, it was really basic\u2009\u2014\u2009so much more basic than TextEdit that it engendered no affection. You don\u2019t see paeans to Notepad <a href=\"https://daringfireball.net/linked/2026/01/26/chayka-textedit\">in The New Yorker</a>. Recently though, Microsoft has started beefing it up, culminating last year <a href=\"https://daringfireball.net/linked/2025/06/06/markdown-support-in-windows-notepad\">when they added fucking Markdown support</a>. Which still blows my mind.</p>\n\n<p><a href=\"https://notepad-plus-plus.org/\">Notepad++</a> is a longstanding open source (GPL) Windows text editor <a href=\"https://notepad-plus-plus.org/author/\">by Don Ho</a>, which <a href=\"https://notepad-plus-plus.org/\">debuted back in 2003</a>. Just adding \u201c++\u201d to the name might be misleading. The name implies that it\u2019s like Microsoft\u2019s Notepad <a href=\"https://www.waltdisney.org/blog/walts-own-words-plussing-di",
+        "id": 5492181,
+        "language": "",
+        "link": "https://daringfireball.net/2026/05/nextpad",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 489,
+        "source_url": "https://daringfireball.com/feeds/main",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "\u2605 Nextpad++",
+        "vote": 0
+    }
+]

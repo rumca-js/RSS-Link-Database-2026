@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Learn Linux TV",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-13T18:31:36.259718+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-13T16:56:55+00:00",
+        "description": "Fedora Workstation 44 is here \u2014 but is it worth upgrading? In this review, I take a look at what's new in Fedora 44, walk through the installation and upgrade process, and share my honest thoughts on whether this incremental release moves the needle for Linux desktop users.\n\nThanks to Flox for sponsoring this video! Flox gives you reproducible and declarable development environments\u2014but without needing to build and manage container images. Check it out here: https://fandf.co/4uuXfbN\n\n*\ud83d\udcd6 Switch to Linux with my latest book!*\nLinux is one of the best decisions you can make for your computer \u2014 but knowing where to start is the hard part. This guide walks you through everything: choosing a distribution, installing it, and using it confidently every day. It'll be released very soon!\n\ud83d\udccc *Join the announcement list here \u279c https://leanpub.com/switch-to-linux*\n\n*\ud83d\udd25 Top Recommendations*\n \u2022 Get $100 Credit to Practice on Akamai (Linode) \u279c https://learnlinux.link/linode\n \u2022 Linux Commands Cheat Shee",
+        "id": 5498819,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=YKDJiK3xmJI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 997,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxQKHvKbmSzGMvUrVtJYnUA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/YKDJiK3xmJI/hqdefault.jpg",
+        "title": "Fedora 44 Is Boring \u2014 And We Need to Talk About It",
+        "vote": 0
+    }
+]

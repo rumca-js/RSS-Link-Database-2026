@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-13T15:22:34.147984+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-13T15:04:54+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nLightning Talk: The Classic Missed-Signal! - Gopal Rander - CppCon 2025\n---\n\nThe talk is about the classical thread timing issue with conditional variable which is often overlooked and I am presenting a brief example of how it resulted in a degradation of the performance.\n---\n\nWork at Hudson River Trading (HRT): https://tinyurl.com/safxfctf\n---\n\nGopal Rander\n\nI am Gopal Rander, building backend software and services using C++, and sometimes working on modernizing existing C++ code. Currently, I am a Senior Software Engineer with Microsoft Azure Databases.\n---\n\nCppCon is the annual, week-long face-to-face gathering for the entire C++ community. The conference is organized by the C++ community for the community. You will enjoy inspirational talks and a friendly atmosphere designed to help attendees learn from each other, meet interesting people, and generally have a stimulating experience. Taking place this year in Aurora, Colorado, near the Denver airport, and ",
+        "id": 5497003,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=8Ign1X3qkgk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/8Ign1X3qkgk/hqdefault.jpg",
+        "title": "Lightning Talk: The Classic Missed-Signal! - Gopal Rander - CppCon 2025",
+        "vote": 0
+    }
+]

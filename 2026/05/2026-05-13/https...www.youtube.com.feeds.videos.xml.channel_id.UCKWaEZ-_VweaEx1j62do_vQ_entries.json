@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-13T11:49:19.972692+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-13T10:01:17+00:00",
+        "description": "Explore the podcast \u2192 https://ibm.biz/~sW0ssm7Tk\n\nAI tools can turn a team of three developers into a fully functioning company. They can also push that company to the brink of bankruptcy.\n\nOn this week\u2019s Security Intelligence, we talk LLMjacking: Hackers steal your AI API keys and then rack up massive bills, even blowing past usage caps in some cases\nOne small startup saw its typical bill balloon from $180 a month to $82,000 in two days.\n\nWe chat about what makes AI API keys vulnerable and how we can tighten our defenses to keep these vital credentials safe.\n\nThen we get into how AI is transforming adversary simulation and red teaming, and why the human is still the most important part of the loop.\n\nFinally, CISA is considering cutting the federal patch window from two weeks to three days.\nCan we actually move that fast?\n\nSegments:\n00:00 \u2013 Intro\n1:15 -- What is LLMjacking?\n12:29 -- AI and adversary simulations\n22:09 -- Can we patch faster?\n\nThe opinions expressed in this podcast are ",
+        "id": 5495179,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=oRZK7fcBQIg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/oRZK7fcBQIg/hqdefault.jpg",
+        "title": "LLMjacking: How hackers steal your AI API keys and stick you with the bill",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kuba Klawiter",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-13T07:15:06.387599+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-13T03:21:31+00:00",
+        "description": null,
+        "id": 5493382,
+        "language": "pl-PL",
+        "link": "https://www.youtube.com/shorts/2X3ZNz5i_PY",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 179,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLr4hMhk_2KE0GUBSBrspGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/2X3ZNz5i_PY/hqdefault.jpg",
+        "title": "Fitbit AIR nie dla Polaka",
+        "vote": 0
+    }
+]

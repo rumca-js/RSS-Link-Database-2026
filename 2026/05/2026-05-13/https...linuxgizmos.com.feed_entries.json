@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-13T13:16:58.220431+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-13T12:44:12+00:00",
+        "description": "DeepComputing has launched the DC-ROMA RISC-V Mainboard III for the Framework Laptop 13, a modular RISC-V platform based on the SpacemiT K3 processor. The board combines an eight-core RISC-V CPU, up to 60 TOPS of AI acceleration, LPDDR5 memory, and compatibility with the Framework Laptop 13 ecosystem. The platform is built around the SpacemiT K3 [&#8230;]",
+        "id": 5495885,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/framework-laptop-13-gets-risc-v-upgrade-with-dc-roma-mainboard-iii",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Framework Laptop 13 gets RISC-V upgrade with DC-ROMA Mainboard III",
+        "vote": 0
+    }
+]

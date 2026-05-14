@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-13T21:29:14.979486+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-13T21:19:47+00:00",
+        "description": "<p>[May 13, 2026] \u2013 The Python Software Foundation (PSF) is excited to announce that Hudson River Trading (HRT), a global leader in quantitative trading, has made a commitment to support Python and the PSF as a Visionary Sponsor.&nbsp;<br /><br />HRT\u2019s \"Visionary\" sponsorship\u2014our highest tier\u2014will help to support the foundation\u2019s core work of advancing and protecting the Python programming language and supporting a diverse and international community of Python programmers. HRT is the first quantitative trading firm to become a PSF Visionary Sponsor, alongside companies including NVIDIA, Google, Fastly, Bloomberg, Meta, and Anthropic. Contributions at this level directly fund the critical work that keeps Python thriving, including:</p><ul style=\"text-align: left;\"><li><b>CPython Development: </b>Ensuring the core language remains fast, stable, and modern.</li><li><b>PyPI Infrastructure: </b>Maintaining the Python Package Index, which serves billions of downloads to developers worldwide",
+        "id": 5500351,
+        "language": "en",
+        "link": "https://pyfound.blogspot.com/2026/05/psf-welcomes-hudson-river-trading-hrt.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 267,
+        "source_url": "https://pyfound.blogspot.com/feeds/posts/default?alt=rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "PSF Welcomes Hudson River Trading (HRT) as a Visionary Sponsor",
+        "vote": 0
+    }
+]

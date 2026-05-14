@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/QebApps",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-13T22:04:57.280143+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-13T21:15:04+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>Yet another RSS reader (YARR), why not? Honestly, I did it for the same reasons I see others mentioning: there wasn\u2019t an RSS reader out there that fit me perfectly. The reader I was using kept adding features I didn\u2019t care about (and increasing its fee), and the replacement I found was technically great but not aesthetically pleasing. After almost 14 years working on my long\u2011running solo app PhotInfo, I thought it was time to add a new one.</p> <p>Some of the main features:</p> <ul> <li>Smart Folders for recent news: Today, Last 24 / 48 / 72 hours</li> <li>Looking for something you recently read? Check Read History, where articles are sorted by read date</li> <li>Offline preview, built\u2011in reader, or open articles in your browser</li> <li>Fine\u2011tune storage with three independent article retention rules: fetch history, unread retention, and read retention</li> <li>Store articles locally or sync via iCloud to keep feeds and reading progress in sync acros",
+        "id": 5500763,
+        "language": "en",
+        "link": "https://www.reddit.com/r/rss/comments/1tcd4tx/i_built_an_rss_reader_because_my_old_one_kept",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 482,
+        "source_url": "https://www.reddit.com/r/rss/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "I built an RSS reader because my old one kept adding features I didn't need \u2014 Newsairy is now on the App Store",
+        "vote": 0
+    }
+]

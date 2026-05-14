@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Google DeepMind",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-13T09:16:56.149956+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-13T09:07:06+00:00",
+        "description": "The mouse pointer \ud83d\uddb1\ufe0f has been a constant companion on computer screens, across every website, document and workflow. Despite how technologies have changed, the pointer has barely evolved in more than half a century. \n\nWe\u2019ve been exploring new AI-powered capabilities and ways of working to help the pointer not only understand what it\u2019s pointing at, but also why it matters.\n\nSee how to try it out @ https://deepmind.google/blog/ai-pointer\n\n___\n\nSubscribe to our channel https://www.youtube.com/@googledeepmind\nFind us on X https://twitter.com/GoogleDeepMind\nFollow us on Instagram https://instagram.com/googledeepmind\nAdd us on Linkedin https://www.linkedin.com/company/deepmind/",
+        "id": 5494127,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=pZNzfQLgGsA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 934,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP7jMXSY2xbc3KCAE0MHQ-A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/pZNzfQLgGsA/hqdefault.jpg",
+        "title": "Reimagining a 50-year-old interface (the mouse pointer) with AI",
+        "vote": 0
+    }
+]

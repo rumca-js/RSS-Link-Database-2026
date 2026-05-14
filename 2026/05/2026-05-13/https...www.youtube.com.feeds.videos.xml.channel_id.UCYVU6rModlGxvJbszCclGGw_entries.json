@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Rob Braxman Tech",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-13T16:38:40.149876+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-13T16:00:52+00:00",
+        "description": "I've successfully implemented a local AI solution and a local AI is the holy grail of the combination of privacy and AI. This was not some simple project and there was a lot of learning and a lot of expense plus extensive trial and error to make things work. Also having real goals for what the AI is expected to do is important to judge the usefulness of the solution. Some people just give you theoretical results using nothing more than benchmark metrics. My solution is real. I made a customer service agent and it's running on  Brax.me. So I will tell you how I did it.\n\n----------------------------------\nBraX3 Privacy Phone is on https://braxtech.net\n-----------------------------------\nBrax Virtual Phone, De-Googled Phones, BytzVPN, BraxMail, BraxRouters are available on https://brax.me\n-----------------------------------\nMerch Store \nhttps://my-store-c37a50.creator-spring.com/\n-----------------------------------\n\n\nI'm the Internet Privacy Guy. I'm a public interest technologist. I'm h",
+        "id": 5497724,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=W1f9bWj4pAE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 466,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYVU6rModlGxvJbszCclGGw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/W1f9bWj4pAE/hqdefault.jpg",
+        "title": "My Honest Experience With Creating Local AI",
+        "vote": 0
+    }
+]

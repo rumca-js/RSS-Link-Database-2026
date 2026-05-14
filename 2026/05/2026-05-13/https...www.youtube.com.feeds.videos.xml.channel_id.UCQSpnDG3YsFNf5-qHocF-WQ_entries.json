@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ThioJoe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-13T15:49:11.251116+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-13T14:45:06+00:00",
+        "description": "The new recaptcha system means privacy is truly dead.\n\nGoogle is rolling out a change to their recaptcha service which will means that the usual bot challenges of things like \"click the pictures of the traffic light\" will be replaced with you needing to scan a QR code with your phone. But the problem is it will only work with \"supported\" phones, meaning either Android or Google. Anyone with another type of phone is out of luck, and even still, your privacy is completely stripped away.\n\nTime Stamps:\n0:00 - Intro\n0:46 - The New Requirement\n2:00 - The Privacy Problem\n3:45 - Possible Need For Behavioral Attestation\n5:24 - Apple\u2019s \u201cPrivacy Pass\u201d\n6:14 - Is it Necessary?\n\n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\n\u2022 My Desktop Wallpapers \u21e8 https://thiojoe.art/\n\u21e8 http://Instagram.com/ThioJoe\n\u21e8 http://Twitter.com/ThioJoe\n\u21e8 http://Facebook.com/ThioJoeTV\n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac",
+        "id": 5497359,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=JTLdCNSf8UQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 366,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQSpnDG3YsFNf5-qHocF-WQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/JTLdCNSf8UQ/hqdefault.jpg",
+        "title": "They're Actually Going to GET AWAY With It",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Chris Titus Tech",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-13T11:49:24.959389+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-13T11:15:06+00:00",
+        "description": "LTT's Linux Challenge 2026 Part 2 dropped and I've got a lot to say. Luke's digging deeper into Bazzite while Linus switches to Kubuntu after an nVidia disaster \u2014 and honestly, they're getting closer to the real Linux experience than ever before.\n\nWe cover SMB vs NFS share mounting, why NTFS on Linux will always end badly, the correct way to set up Proton GE, and what it actually takes to get DaVinci Resolve running on Linux. Plus the big elephant in the room: Linux community gatekeeping.\n\n\ud83d\udd17 LTT Video: https://www.youtube.com/watch?v=QK02VOGWEv0\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\ud83d\udc27 My Linux Utility (WinUtil for Windows): https://github.com/ChrisTitusTech/linutil\n\ud83d\udcfa Livestreams: Tue / Thu\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\n0:00 Intro & Pop OS drama\n1:35 SMB share mounting pain\n4:22 NFS vs SMB deep dive\n5:10 Never use NTFS on Linux\n7:06 Why devs skip Linux support\n7:58 Set up Proton GE correctly\n9:26 Nvidia on Wayland (it's rough)\n11:09 Bazzite vs SteamOS\n13:41 Kubuntu first impressions\n14:2",
+        "id": 5495180,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=tmUdW0OLIaE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 444,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCg6gPGh8HU2U01vaFCAsvmQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/tmUdW0OLIaE/hqdefault.jpg",
+        "title": "I React to LTT's Linux Challenge Pt.2 - They're Getting It",
+        "vote": 0
+    }
+]

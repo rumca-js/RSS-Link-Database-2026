@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Karl Rock",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-13T14:32:27.070710+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-13T14:00:33+00:00",
+        "description": "I found counterfeit \u201cSkechers\u201d in Pakistan for just $2.\n\nAt this price, you can\u2019t even be mad if they fall apart halfway down the street.\n\nWould you buy these?",
+        "id": 5496509,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/Ir2EtjtyAdk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 902,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtfXgNnA-QcxjHJjk5wXLFg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/Ir2EtjtyAdk/hqdefault.jpg",
+        "title": "$2 Skechers in Pakistan",
+        "vote": 0
+    }
+]

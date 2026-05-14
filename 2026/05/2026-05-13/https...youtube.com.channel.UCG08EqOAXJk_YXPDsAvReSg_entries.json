@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unity",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-13T15:36:54.197304+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-13T14:58:08+00:00",
+        "description": "In this video, we demonstrate how you can use the Sprite and Texture Generators with the AI Assistant to quickly lay out UI designs during the prototyping stage of game development.\n\nUnity AI is built into the Unity Editor and grounded in the real context of game development, from project structure and systems to the creative iteration that shapes player experience. This means creators can spend less time on repetitive workflows, and more time building and refining what makes a game great.\n\n\ud83d\udd17 To learn more and sign up for the Unity AI Open Beta, check out: https://on.unity.com/3QJgAY2\n\n\ud83d\udc49 More details in our Unity AI documentation: https://on.unity.com/4ukSqS5\n\n[00:00] Introduction\n[00:28] Create a spritesheet\n[01:58] Matching graphics\n[02:57] Create a UI document\n[04:28] Modify a UI document\n[07:36] Searching for AI assets\n\n#Unity #UnityAI",
+        "id": 5497207,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=LcTIP6Z9buk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 683,
+        "source_url": "https://youtube.com/channel/UCG08EqOAXJk_YXPDsAvReSg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/LcTIP6Z9buk/hqdefault.jpg",
+        "title": "Unity AI Open Beta: UI Generator",
+        "vote": 0
+    }
+]

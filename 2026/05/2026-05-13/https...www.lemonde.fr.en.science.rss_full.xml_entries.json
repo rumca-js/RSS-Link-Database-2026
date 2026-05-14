@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-13T21:50:40.664180+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-13T21:50:39.266124+00:00",
+        "description": "The second wave of observations, conducted since December 2025, have allowed scientists to better characterize the chemical composition of this visitor from beyond the Solar System. It is believed to have formed in an extremely cold environment, between 10 and 12 billion years ago.",
+        "id": 5500502,
+        "language": "en-US",
+        "link": "https://www.lemonde.fr/en/science/article/2026/05/13/interstellar-comet-3i-atlas-reveals-its-secrets_6753430_10.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 190,
+        "source_url": "https://www.lemonde.fr/en/science/rss_full.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.lemde.fr/2026/05/08/39/0/1280/640/644/322/60/0/9dd48dd_upload-1-auj4w82vyuk1-pia26720-spherex-3i-4panel-colorized-16-white.jpg",
+        "title": "Interstellar comet '3I/Atlas' reveals its secrets",
+        "vote": 0
+    }
+]

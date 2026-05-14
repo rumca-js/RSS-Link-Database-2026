@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Blog Staff",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-13T22:24:11.830177+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-13T21:36:47+00:00",
+        "description": "<p>\n\t<img alt=\"hollman-ai.png\" src=\"https://isocpp.org/files/img/hollman-ai.png\" style=\"width: 400px; margin: 10px; float: right;\" />Registration is now open for CppCon 2026!&nbsp;The conference starts on September 12 and will be held&nbsp;<a href=\"https://cppcon.org/\">in person in Aurora, CO</a>. To whet your appetite for this year&rsquo;s conference, we&rsquo;re posting videos of some of the top-rated talks from last year&#39;s conference. Here&rsquo;s another CppCon talk video we hope you will enjoy &ndash; and why not&nbsp;<a href=\"https://cppcon.org/registration/\"><strong>register today</strong></a><strong>&nbsp;for CppCon 2026!</strong></p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://www.youtube.com/watch?v=v6OyVjQpjjc\">Crafting the Code You Don&rsquo;t Write: Sculpting Software in an AI World</a></h3>\n\t<p>\n\t\tby Daisy Hollman</p>\n</blockquote>\n<p>\n\tSummary of the talk:</p>\n<blockquote>\n\t<p>\n\t\tIt&rsquo;s shockingly uncontroversial to say that the fields of developer experience and deve",
+        "id": 5500834,
+        "language": "en",
+        "link": "https://isocpp.org//blog/2026/05/cppcon-2025-crafting-the-code-you-dont-write-sculpting-software-in-an-ai-wo",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://isocpp.org/files/img/hollman-ai.png",
+        "title": "CppCon 2025 Crafting the Code You Don\u2019t Write: Sculpting Software in an AI World -- Daisy Hollman",
+        "vote": 0
+    }
+]
