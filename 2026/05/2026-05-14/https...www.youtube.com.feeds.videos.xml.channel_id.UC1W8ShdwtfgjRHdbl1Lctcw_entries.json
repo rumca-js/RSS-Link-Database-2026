@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NASS",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-14T19:24:18.426648+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-14T19:06:02+00:00",
+        "description": "Step back in time and experience Paris in the 1920s like never before, From the Grands Boulevards to the Latin Quarter, via Parc Monceau and \u00cele de la Cit\u00e9\n\nThis brand-new 2026 restoration brings historic footage of Paris to life using advanced powered restoration and colorization techniques. Every scene has been meticulously restored, enhanced, stabilized, and colorized by hand to achieve the most authentic and immersive result possible.\n\nCompared my 2022 version, this new restoration introduces a dramatically higher level of realism thanks to modern diffusion-based restoration methods, New semantic colorization, and the use of thousands of historical reference images.\n\n\ud83d\udcfd\ufe0f Technologies & Techniques Used:\n\u2022 Diffusion-based video restoration\n\u2022 New semantic colorization only for the ambiance (not historically accurate)\n\u2022 Manually colorized keyframes (to establish accurate ambiance and color consistency (not historically accurate)\n\u2022 Advanced frame reconstruction to FHD\n\u2022 Manual color cor",
+        "id": 5509294,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=rs7a_U1kbGE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 222,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC1W8ShdwtfgjRHdbl1Lctcw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/rs7a_U1kbGE/hqdefault.jpg",
+        "title": "Paris 1920s \u2013 Advanced Colorization (New Version 2026) with Sound Design",
+        "vote": 0
+    }
+]

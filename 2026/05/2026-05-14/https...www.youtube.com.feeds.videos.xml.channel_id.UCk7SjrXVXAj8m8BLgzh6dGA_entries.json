@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Intel",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-14T12:38:32.871053+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-14T10:00:20+00:00",
+        "description": "We\u2019re thrilled to announce that Intel is now the Official Compute Partner of @mclarenracing. \u200b\n\nIntel will deliver advanced computing for data and AI, powering how the team prepares, predicts, optimizes, and competes at every turn. \u200b\n\nFrom factory to circuit, advanced computing and engineering turn complex challenges into advantages at every turn. \u200b\n\nTo learn more: https://www.intel.com/content/www/us/en/customer-spotlight/stories/mclaren-racing.html\n\n#McLaren #Intel #AI \n \nSubscribe now to Intel on YouTube: https://intel.ly/3IX1bN2 \n \nAbout Intel:\nIntel, the world leader in silicon innovation, develops technologies, products and initiatives to continually advance how people work and live. Founded in 1968 to build semiconductor memory products, Intel introduced the world's first microprocessor in 1971. This decade, our mission is to create and extend computing technology to connect and enrich the lives of every person on Earth.\n \nConnect with Intel:\nVisit Intel WEBSITE: https://intel.",
+        "id": 5505510,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Fg0vxTgy86U",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 1006,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCk7SjrXVXAj8m8BLgzh6dGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/Fg0vxTgy86U/hqdefault.jpg",
+        "title": "The McLaren Formula 1 Team is now working with Intel",
+        "vote": 0
+    }
+]

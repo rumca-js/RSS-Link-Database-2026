@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-14T04:29:02.032313+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-14T04:27:31+00:00",
+        "description": "Kickstarter recently featured the IDO Claw campaign, a compact ARM-based system from Wireless-Tag designed for local OpenClaw deployment. The fanless platform combines the Rockchip RK3576 processor with LPDDR5 memory, onboard storage, dual Gigabit Ethernet, and hardware video acceleration for always-on AI and edge workloads. The system is built around the Rockchip RK3576 processor, which combines [&#8230;]",
+        "id": 5502491,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/wireless-tag-previews-ido-claw-arm-platform-with-openclaw-pre-installed",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Wireless-Tag previews IDO Claw ARM platform with OpenClaw pre-installed",
+        "vote": 0
+    }
+]

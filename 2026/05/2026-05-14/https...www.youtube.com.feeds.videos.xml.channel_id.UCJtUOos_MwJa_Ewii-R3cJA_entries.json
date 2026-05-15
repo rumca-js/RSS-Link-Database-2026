@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Leila Gharani",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-14T11:55:21.428026+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-14T09:00:29+00:00",
+        "description": "\ud83d\udd25 500,000+ enrolled in our courses. Join them \ud83d\udc49 https://link.xelplus.com/yt-d-all-courses\nStop wasting hours manually saving, naming, and emailing Excel reports! In this tutorial, we unlock the power of Office Scripts to automate your entire reporting workflow. You will learn how to build a 1-click button that converts specific sheets to PDF and sends them via Outlook instantly. All with the help of Office Scripts in Excel.\n\n\u2b07\ufe0f DOWNLOAD the workbook with the code here: https://www.xelplus.com/office-scripts-pdf-email-excel/#download\n\nUnlike traditional VBA macros, this solution is online-ready and works perfectly in Excel for the Web, Microsoft Teams and Microsoft 365 - and of course also on desktop. We\u2019ll walk through the TypeScript code, set up a dynamic data table for your recipients, and show you how to customize the script for your own dashboards.\n\nMicrosoft Learn page: https://learn.microsoft.com/en-us/office/dev/scripts/resources/samples/save-as-pdf-email-as-pdf\n\nWhat You'll Le",
+        "id": 5504992,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=RwcEa9fJsAk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 957,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJtUOos_MwJa_Ewii-R3cJA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/RwcEa9fJsAk/hqdefault.jpg",
+        "title": "Automatically Create & Email PDFs from Excel without VBA",
+        "vote": 0
+    }
+]

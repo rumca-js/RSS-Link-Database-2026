@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Craft Computing",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-14T22:02:51.106837+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-14T21:41:28+00:00",
+        "description": "This has been an incredibly long road, but Openviro Axe PoE is assambled, packaged, and ready to ship! Thank you all for your patience and support as I've navigated this process.\n\nWe are preparing to ship all 400 backer units to Crowd Supply next week for them to distribute. Fulfillment of all orders placed during the Crowd Supply campaign will be fulfilled first. A couple weeks later, additional units will be available exclusively through Mouser.com.\n\nOnce units start shipping, we will be publishing source code to our Github page, offering both firmware updates, or the ability for the community to submit code to enhance the project. You'll hear more on the open-source release in the next month.\n\nFor more information on Openviro, check out https://openviro.com. I'll share links on where to purchase Openviro in the coming weeks after all pre-orders have been fulfilled.\n\nI'm incredibly excited for these to finally be delivered, and to see how you use them in your environments. Thank you",
+        "id": 5510474,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=JJxpob8Tcx4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 909,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCp3yVOm6A55nx65STpm3tXQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/JJxpob8Tcx4/hqdefault.jpg",
+        "title": "Openviro Final Update - Shipping Soon!!!",
+        "vote": 0
+    }
+]

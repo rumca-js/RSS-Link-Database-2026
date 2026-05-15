@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Learn Linux TV",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-14T18:48:49.492600+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-14T16:00:05+00:00",
+        "description": "In this full getting started guide, I\u2019ll show you everything you need to know to get up and running with Kestra \u2014 the open source workflow orchestration platform that makes it easy to automate your infrastructure tasks, schedule jobs, and build powerful flows without complex scripting.\n\nWe\u2019ll start from scratch: setting up a Linux server, installing Docker, and deploying Kestra. Then we\u2019ll dive into building real-world flows \u2014 including an HTTP health check monitor, a remote SSH command runner, and an Ansible playbook runner for automated server provisioning.\n\nBy the end of this video, you\u2019ll have a working Kestra instance and a solid understanding of how to build and manage your own automation workflows.\n\n*\ud83d\ude4c Thanks to Kestra for Sponsoring this Deep-Dive*\nCheck out Kestra and automate your workflows for both homelab and business: \u279c https://fandf.co/41j2IFW\n\n*\ud83d\udd17 Video-specific links*\n \u2022 Check out Kestra \u279c https://fandf.co/41j2IFW\n \u2022 Give Kestra a Star on Github \u279c https://github.com/kes",
+        "id": 5509106,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=3MgNJotMRPs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 997,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxQKHvKbmSzGMvUrVtJYnUA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/3MgNJotMRPs/hqdefault.jpg",
+        "title": "Getting Started with Kestra: Install, Configure, and Automate",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Joe Scott",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-14T17:06:56.196784+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-14T16:40:39+00:00",
+        "description": "When interviewing her for the Love Has Won video, author Leah Sotille talks about how online cults have made it so that you can be part of a cult without ever leaving your home.",
+        "id": 5508044,
+        "language": "en-US",
+        "link": "https://www.youtube.com/shorts/bDMjK3VNdyE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 165,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/bDMjK3VNdyE/hqdefault.jpg",
+        "title": "Cults in the Digital Age",
+        "vote": 0
+    }
+]

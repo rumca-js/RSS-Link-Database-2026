@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Blog Staff",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-14T15:38:11.220505+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-14T15:01:46+00:00",
+        "description": "<p>\n\tSponsored by <a href=\"https://cppcon.org/hudson-river-trading/\">HRT</a> and produced by <a href=\"https://www.youtube.com/channel/UCsUalyRg43M8D60mtHe6YcA\">CultRepo</a>, we&#39;re pleased to share the <a href=\"https://youtu.be/NXwTRzywDSk?si=VVLAe-08INWziWUs\">official trailer for <strong><em>C++: The Documentary</em></strong></a>.</p>\n<p>\n\tThe trailer premieres today at 19:00 UTC. Click <strong data-end=\"323\" data-start=\"310\">Notify me</strong> on the YouTube Premiere page to get a reminder when it goes live.</p>\n<p data-end=\"802\" data-start=\"616\">\n\tThe film will have its world premiere on May 28 at a special live event in New York City&rsquo;s Financial District, followed by a panel discussion that will be recorded for later release. <em data-end=\"828\" data-start=\"806\">C++: The Documentary</em> will be released worldwide on YouTube on June 4, with the panel recording following a few days later.</p>\n<p data-end=\"802\" data-start=\"616\">\n\t<a href=\"https://youtu.be/NXwTRzywDSk?si=VVLA",
+        "id": 5507309,
+        "language": "en",
+        "link": "https://isocpp.org//blog/2026/05/cpp-the-documentary-trailer",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://isocpp.org/files/img/cppdoc-trailer.png",
+        "title": "C++: The Documentary trailer",
+        "vote": 0
+    }
+]

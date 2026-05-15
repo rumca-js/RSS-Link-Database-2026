@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-14T15:55:43.486333+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-14T15:02:06+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nLightning Talk: Proof Searching in DepC - Raffaele Rossi - CppCon 2025\n---\n\nNews articles in recent years have highlighted the problem of memory safety in System Programming languages like C and C++, with governments urging companies to move to Rust. Among memory safety errors, buffer overflows and dangling references are the most typical. Dependent Types are known to help with the former, by encoding the length of arrays in their types. Rust\u2019s Borrow Checker helps with the latter, but its approach is unique and does not reconcile with Dependent Types. I propose new inference rules in the theory of Dependent Types that prove, at compile-time, that references are valid and can be safely dereferenced.\n---\n\nWork at Hudson River Trading (HRT): https://tinyurl.com/safxfctf\n---\n\nRaffaele Rossi\n\nBy day I am a Tech Lead at Maven Securities. In my spare time I work on DepC, like C/C++ but with Dependent Types\n---\n\nCppCon is the annual, week-long face-to-face gathering ",
+        "id": 5507374,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=sB-mQRsXv1M",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/sB-mQRsXv1M/hqdefault.jpg",
+        "title": "Lightning Talk: Proof Searching in DepC - Raffaele Rossi - CppCon 2025",
+        "vote": 0
+    }
+]

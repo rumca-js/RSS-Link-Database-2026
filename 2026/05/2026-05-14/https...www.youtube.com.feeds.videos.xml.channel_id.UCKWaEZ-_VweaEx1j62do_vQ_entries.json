@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-14T14:38:31.925831+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-14T11:00:31+00:00",
+        "description": "Learn about Agentic AI here \u2192 https://ibm.biz/~7tIAS4ONO\n\nAgentic AI failures aren\u2019t random\u2014they happen for clear, predictable reasons. Meenakshi Kodak explains the top failure modes in agentic AI systems, from infinite loops to hallucinated planning and unsafe tool use \ud83e\udd16. Learn how better design, constraints, and monitoring improve reliability.\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/~AONs89iwu\n\n#ai #agenticai #aisystem",
+        "id": 5506566,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=D37Ijn2o5U0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/D37Ijn2o5U0/hqdefault.jpg",
+        "title": "Why Agentic AI Fails: Infinite Loops, Planning Errors, and More",
+        "vote": 0
+    }
+]
