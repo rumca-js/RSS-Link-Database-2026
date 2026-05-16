@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "More Perfect Union",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-15T19:43:28.443040+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-15T18:45:27+00:00",
+        "description": "AI ads are becoming increasingly realistic. On TikTok, they take advantage of people by not showing the products they're actually selling.",
+        "id": 5518874,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/K21FNfqbgZU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 674,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCehBVAPy-bxmnbNARF-_tvA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/K21FNfqbgZU/hqdefault.jpg",
+        "title": "AI ads are getting completely out-of-hand",
+        "vote": 0
+    }
+]

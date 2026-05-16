@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-15T16:06:08.352729+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-15T15:05:00+00:00",
+        "description": "NASA\u2019s Curiosity Mars rover used its Mast Camera, or Mastcam, to capture this view of a rock nicknamed \u201cAtacama\u201d on May 6, 2026, the 4,877th Martian day, or sol, of the mission. The rock had gotten stuck to the drill on the end of Curiosity\u2019s robotic arm on April 25.",
+        "id": 5517071,
+        "language": "en-us",
+        "link": "https://www.nasa.gov/image-detail/pia26724",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 485,
+        "source_url": "https://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Curiosity Shakes Loose a Pesky Rock",
+        "vote": 0
+    }
+]

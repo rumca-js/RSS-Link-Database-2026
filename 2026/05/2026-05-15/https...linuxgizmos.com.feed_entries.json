@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-15T04:52:34.359120+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-15T04:50:38+00:00",
+        "description": "M5Stack has introduced the PaperColor, a compact development board built around the ESP32-S3R8 processor and a 4-inch Spectra 6 full-color e-paper display. The platform combines wireless connectivity, onboard sensors, audio hardware, battery operation, and expansion interfaces for low-power IoT and embedded display applications. The system is based on the ESP32-S3R8 SoC featuring dual Xtensa LX7 [&#8230;]",
+        "id": 5512466,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/m5stack-papercolor-is-an-esp32-s3-dev-kit-with-spectra-6-e-paper-panel",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "M5Stack PaperColor is an ESP32-S3 dev kit with Spectra 6 e-paper panel",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Marcus Nestor",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-15T04:59:01.553098+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-15T03:38:11+00:00",
+        "description": "<p><img width=\"1920\" height=\"1080\" src=\"https://9to5linux.com/wp-content/uploads/2026/05/skp.webp\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Linux Flaw Root-Owned\" /></p>\n<p>A six-year-old security flaw in the Linux kernel can let an unprivileged user read root-owned files. The flaw was reported by Qualys and patched on May 14th, 2026.</p>\n<p>The post <a href=\"https://9to5linux.com/six-year-old-linux-kernel-flaw-lets-unprivileged-users-read-root-owned-files\">Six-Year-Old Linux Kernel Flaw Lets Unprivileged Users Read Root-Owned Files</a> appeared first on <a href=\"https://9to5linux.com\">9to5Linux</a> - do not reproduce this article without permission. This RSS feed is intended for readers, not scrapers.</p>",
+        "id": 5512472,
+        "language": "en-US",
+        "link": "https://9to5linux.com/six-year-old-linux-kernel-flaw-lets-unprivileged-users-read-root-owned-files",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 6,
+        "source_url": "https://9to5linux.com/category/news/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://9to5linux.com/wp-content/uploads/2026/05/skp.webp",
+        "title": "Six-Year-Old Linux Kernel Flaw Lets Unprivileged Users Read Root-Owned Files",
+        "vote": 0
+    }
+]

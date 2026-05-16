@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Blog Staff",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-15T23:12:37.589883+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-15T22:42:26+00:00",
+        "description": "<p>\n\t<img alt=\"SANDOR_DARGO_ROUND.JPG\" src=\"https://isocpp.org/files/img/SANDOR_DARGO_ROUND.JPG\" style=\"width: 200px; margin: 10px; float: right; height: 204px;\" />Even experienced C++ developers sometimes stumble on a deceptively simple question: what actually happens when a destructor throws an exception? This post breaks down the mechanics behind stack unwinding, <code data-end=\"215\" data-start=\"205\">noexcept</code>, and why throwing from destructors is almost always a bad idea</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://www.sandordargo.com/blog/2026/04/01/when-a-destructor-throws\">What Happens When a Destructor Throws</a></h3>\n\t<p>\n\t\tby Sandor Dargo</p>\n</blockquote>\n<p>\n\tFrom the article:</p>\n<blockquote>\n\t<p>\n\t\tRecently I wrote about&nbsp;<a href=\"https://devladder.substack.com/p/can-we-still-find-joy-in-programming\">the importance of finding joy in our jobs on The Dev Ladder</a>. Mastery and deep understanding are key elements in finding that joy, especially now that generating c",
+        "id": 5520295,
+        "language": "en",
+        "link": "https://isocpp.org//blog/2026/05/what-happens-when-a-destructor-throws-sandor-dargo",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://isocpp.org/files/img/SANDOR_DARGO_ROUND.JPG",
+        "title": "What Happens When a Destructor Throws -- Sandor Dargo",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Sourav Rudra",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-15T11:04:40.818426+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-15T10:34:58+00:00",
+        "description": "Two council members have retracted their approval votes after people raised concerns.",
+        "id": 5514444,
+        "language": "en-US",
+        "link": "https://itsfoss.com/news/fedora-ai-developer-desktop-stalled",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 156,
+        "source_url": "https://news.itsfoss.com/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://itsfoss.com/content/images/2026/05/fedora-addi-blocked-banner.png",
+        "title": "Heavy Community Backlash Blocks Fedora's AI Developer Desktop Initiative",
+        "vote": 0
+    }
+]

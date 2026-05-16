@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Drew Harwell",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-15T10:33:18.380821+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-15T10:00:01+00:00",
+        "description": "Tom Steyer\u2019s California gubernatorial campaign has paid thousands of dollars to influencers, some of whom did not disclose the payouts. State election regulators are investigating.",
+        "id": 5514210,
+        "language": "en-US",
+        "link": "https://www.washingtonpost.com/technology/2026/05/15/tom-steyers-influencer-campaign-triggers-california-investigation-over-undisclosed-posts",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 364,
+        "source_url": "https://feeds.washingtonpost.com/rss/business/technology",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "A California billionaire is paying influencers to boost his campaign",
+        "vote": 0
+    }
+]

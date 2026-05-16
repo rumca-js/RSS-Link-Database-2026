@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-15T13:21:56.559073+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-15T12:57:30+00:00",
+        "description": "Ofcom said the commitments were of particular importance after recent crimes targeting Jewish communities in the UK.",
+        "id": 5515533,
+        "language": "en-US",
+        "link": "https://www.bbc.com/news/articles/clyp9652v18o",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 28,
+        "source_url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d12/live/72777cd0-505d-11f1-89a3-d1f559421220.jpg",
+        "title": "X pledges quicker action on hate and terror content in the UK",
+        "vote": 0
+    }
+]

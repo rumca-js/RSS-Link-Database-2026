@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "OpenAI",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-15T23:28:41.116254+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-15T20:41:26+00:00",
+        "description": "See how ChatGPT for Excel can help finance teams review a CFO performance workbook before it goes out.\n\nIn this demo, ChatGPT checks tie-outs across model tabs, flags issues like stale source data and revenue mismatches, creates a QA issue log, drafts owner questions, and gives a clear readiness verdict.\n\nLearn more: https://chatgpt.com/apps/spreadsheets/",
+        "id": 5520370,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=CaBXLZyaJYU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 935,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXZCJLdBC09xxGZ6gcdrc6A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/CaBXLZyaJYU/hqdefault.jpg",
+        "title": "Update and audit a finance model in Excel with ChatGPT",
+        "vote": 0
+    }
+]

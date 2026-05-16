@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-15T08:11:55.295152+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-15T07:58:44+00:00",
+        "description": "Africa's top health agency says around 246 cases have been reported.",
+        "id": 5513381,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/cze2wpk7y76o",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 521,
+        "source_url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e58d/live/7526cce0-5032-11f1-aa9d-211c1f694e0f.jpg",
+        "title": "New outbreak of Ebola kills 65 in eastern DR Congo",
+        "vote": 0
+    }
+]

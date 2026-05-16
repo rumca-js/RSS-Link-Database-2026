@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Lunduke Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-15T16:33:59.844370+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-15T15:52:44+00:00",
+        "description": "The entire Bun Javascript runtime (over 1 Million lines of code) has been re-written in Rust... using Al. What could possibly go wrong?\n\nMore from The Lunduke Journal:\nhttps://lunduke.com/",
+        "id": 5517246,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=JB5CDfAkfTY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 616,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkK9UDm_ZNrq_rIXCz3xCGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/JB5CDfAkfTY/hqdefault.jpg",
+        "title": "Bun Re-Written in Rust Using AI",
+        "vote": 0
+    }
+]

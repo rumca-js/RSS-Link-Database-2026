@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-15T15:29:38.666590+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-15T15:02:09+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nLightning Talk: Bool - Implicitly Dangerous - Jeff Garland - CppCon 2025\n---\n\nReally, boolean should be the easiest thing to understand in C++. It's two possible states -- true and false -- what could possibly go wrong?  Unfortunately, plenty. If you're still a C++ programmer after reveal how using bool can be risky business, I'll provide some simple strategies for taming your bools.\n---\n\nWork at Hudson River Trading (HRT): https://tinyurl.com/safxfctf\n---\n\nJeff Garland\n\nJeff Garland has worked on many large-scale, distributed software projects over the past 30+ years. The systems span many different domains including telephone switching, industrial process control, satellite ground control, ip-based communications, and financial systems. He has written C++ networked code for several large systems including the development high performance network servers and data distribution frameworks. Mr. Garland\u2019s interest in Boost started in 2000 as a user. Since then he",
+        "id": 5516765,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=PcerWZRm_eA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/PcerWZRm_eA/hqdefault.jpg",
+        "title": "Lightning Talk: Bool - Implicitly Dangerous - Jeff Garland - CppCon 2025",
+        "vote": 0
+    }
+]

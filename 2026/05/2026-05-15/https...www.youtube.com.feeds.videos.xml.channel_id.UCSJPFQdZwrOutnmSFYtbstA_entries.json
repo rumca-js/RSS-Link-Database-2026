@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Critical Drinker",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-15T18:12:15.882765+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-15T18:00:03+00:00",
+        "description": "I asked my subscribers what movie they'd like me to fix next, and this was the clear winner - the ill-fated prequels to The Lord of the Rings. Join me as I try to fix Peter Jackson's The Hobbit Trilogy.",
+        "id": 5518174,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=4HhTZzASAY0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 334,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSJPFQdZwrOutnmSFYtbstA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/4HhTZzASAY0/hqdefault.jpg",
+        "title": "The Drinker Fixes... The Hobbit Trilogy",
+        "vote": 0
+    }
+]
