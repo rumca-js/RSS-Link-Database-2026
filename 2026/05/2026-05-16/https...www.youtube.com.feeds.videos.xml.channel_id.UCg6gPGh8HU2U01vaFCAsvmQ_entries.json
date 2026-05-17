@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Chris Titus Tech",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-16T16:03:54.004939+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-16T11:15:04+00:00",
+        "description": "Most Linux gaming benchmarks are misleading and average FPS alone tells you almost nothing. In this video, I break down how to benchmark Linux properly using Phoronix Test Suite, MangoHUD, and my forked MangoPlot script to capture 1% lows, median frame rates, variance, and heat maps that reveal the full performance picture.\n\nWhether you're a content creator, hardware reviewer, or just trying to find the best distro for gaming, this guide gives you the tools to do it right.\n\n\ud83d\udd17 Fork the benchmarking project: github.com/ChrisTitusTech/Linux-Benchmarks\n\ud83d\udcc4 Full write-up: christitus.com\n\n00:00 Why Benchmarks Lie\n00:32 The 1% Lows Problem\n01:01 Proton vs Wine\n01:47 LTT Article Corrections\n02:39 Linux Driver Myths\n03:00 Tools You Need\n03:31 MangoPlot Explained\n03:53 Phoronix Batch Setup\n04:14 In-Game Tests\n04:33 Reading CSV Output\n04:58 Generating PNG Reports\n05:21 Average vs Median FPS\n05:44 Reading the Heat Map\n06:36 Fork & Customize It\n\n\u25ba\u25ba Digital Downloads \u279c https://www.cttstore.com\n\u25ba\u25ba Pat",
+        "id": 5522940,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=gn0x-Tg1qxk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 444,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCg6gPGh8HU2U01vaFCAsvmQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/gn0x-Tg1qxk/hqdefault.jpg",
+        "title": "Stop Benchmarking Linux Wrong (Use This)",
+        "vote": 0
+    }
+]

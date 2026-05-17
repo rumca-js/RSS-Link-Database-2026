@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-16T17:14:22.298299+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-16T17:14:20.634054+00:00",
+        "description": "A critical security vulnerability impacting the\n  Funnel Builder\n  plugin for WordPress has come under active exploitation in the wild to\n  inject malicious JavaScript code\n  into WooCommerce checkout pages with the goal of stealing payment data.\n\n\n\n  Details of the activity were\n  published\n  by Sansec this week. The vulnerability currently does not have an official CVE identifier. It",
+        "id": 5524603,
+        "language": "en-US",
+        "link": "https://thehackernews.com/2026/05/funnel-builder-flaw-under-active.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 343,
+        "source_url": "https://feeds.feedburner.com/TheHackersNews",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Funnel Builder Flaw Under Active Exploitation Enables WooCommerce Checkout Skimming",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-16T19:04:47.547536+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-16T17:30:10+00:00",
+        "description": "For the past month or so Fedora Linux has been having a massive discussion around the inclusion of AI in the distro and this has caused a massive split in the community over the direction to take things.\n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\nFedora Hummingbird: https://www.redhat.com/en/about/press-releases/fedora-hummingbird-linux-brings-agentic-linux-builders\nFedora AI Thread: https://discussion.fedoraproject.org/t/fedora-ai-developer-desktop-objective/184941\nKDE AI Discussion: discuss.kde.org/t/sorry-to-bring-up-a-contentious-topic-kde-ai-llm-policy/46333/\n\n=========Video Platforms==========\n\ud83c\udfa5 React: https://www.youtube.com/@BrodieRobertsonReacts\n\ud83c\udfa5 Podcast: https://techovertea.xyz/youtube\n\ud83c\udfae Gaming: https://brodierobertson.xyz/gaming\n\n==========Social Media=",
+        "id": 5525247,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=vmdY8o8TOPQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/vmdY8o8TOPQ/hqdefault.jpg",
+        "title": "AI Is Tearing Fedora Linux Community Apart",
+        "vote": 0
+    }
+]

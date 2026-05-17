@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-16T15:42:05.876972+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-16T00:00:00+00:00",
+        "description": "OpenAI and Malta partner to expand AI access, offering ChatGPT Plus and training to help citizens build practical AI skills and use AI responsibly.",
+        "id": 5522525,
+        "language": "en",
+        "link": "https://openai.com/index/malta-chatgpt-plus-partnership",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 953,
+        "source_url": "https://openai.com/news/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
+        "vote": 0
+    }
+]

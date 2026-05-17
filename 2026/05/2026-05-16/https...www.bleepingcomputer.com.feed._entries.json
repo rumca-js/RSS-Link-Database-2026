@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ax Sharma",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-16T21:32:22.261968+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-16T16:55:44+00:00",
+        "description": "A security researcher claims Microsoft quietly fixed an Azure Backup for AKS vulnerability after rejecting his report, and without issuing a CVE. Microsoft disputes the claim, telling BleepingComputer the behavior was expected and that \"no product changes were made,\" despite the researcher documenting a silent fix. [...]",
+        "id": 5525912,
+        "language": "en-US",
+        "link": "https://www.bleepingcomputer.com/news/security/microsoft-rejects-critical-azure-vulnerability-report-no-cve-issued",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 40,
+        "source_url": "https://www.bleepingcomputer.com/feed/",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Microsoft rejects critical Azure vulnerability report, no CVE issued",
+        "vote": 0
+    }
+]

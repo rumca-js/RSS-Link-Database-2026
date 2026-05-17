@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-16T20:56:32.550099+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-16T00:00:00+00:00",
+        "description": "<p>Modern C++ continuously improves its range library to provide more expressive, flexible, and efficient ways to manipulate collections. Usually, when you wanted to concatenate or flatten ranges, you&rsquo;d use raw loops or custom algorithms. With C++&rsquo;s range adaptors, we now have an elegant and efficient way to process collections lazily without unnecessary allocations.</p>\n<p>In this post, we will explore three powerful range adaptors introduced in different C++ standards:</p>\n<ul>\n<li><code>std::ranges::concat_view</code> (C++26)</li>\n<li><code>std::ranges::join_view</code> (C++20)</li>\n<li><code>std::ranges::join_with_view</code> (C++23)</li>\n</ul>\n<p>Let&rsquo;s break down their differences, use cases, and examples.</p>\n<blockquote class=\"hint note\">\n\n  Updated in May 2026: added <code>from_range</code> construction options.\n</blockquote>\n<h2 id=\"stdrangesconcat_view-c26\">\n<code>std::ranges::concat_view</code> (C++26) \n  \n<a class=\"hash-link\" href=\"#stdrangesconcat_view-c",
+        "id": 5525767,
+        "language": "en-us",
+        "link": "https://www.cppstories.com/2025/join_concat_ranges",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 47,
+        "source_url": "https://www.cppstories.com/index.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "How to join or concat ranges, C++26",
+        "vote": 0
+    }
+]

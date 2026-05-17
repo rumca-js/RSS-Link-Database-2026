@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/Nox21125",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-16T16:50:29.162572+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-16T12:24:37+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>I published a ranking progress update for Slick, the private search engine I\u2019ve been working on.</p> <p>One thing that became obvious while building ranking is how different query types fail in completely different ways.</p> <p>Navigational queries usually fail because the engine understands the topic, but picks the wrong page on the right domain.</p> <p>Definitional queries fail because token overlap can overpower actual intent.</p> <p>Broad explainer queries fail because multiple pages look semantically correct even when they are answering slightly different questions.</p> <p>The ranking system started as a single-stage score, then moved toward hybrid retrieval + reranking. Current ranking uses lexical and dense recall with fusion, followed by cross-encoder reranking and heuristic blending.</p> <p>Some examples from the benchmark suite:</p> <ul> <li><code>apple</code> now consistently returns the homepage instead of product/search pages</li> <li><co",
+        "id": 5524425,
+        "language": "en",
+        "link": "https://www.reddit.com/r/searchengines/comments/1tes8s1/ranking_progress_update_for_my_search_engine_slick",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 463,
+        "source_url": "https://www.reddit.com/r/searchengines/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Ranking Progress Update For My Search Engine - Slick.",
+        "vote": 0
+    }
+]

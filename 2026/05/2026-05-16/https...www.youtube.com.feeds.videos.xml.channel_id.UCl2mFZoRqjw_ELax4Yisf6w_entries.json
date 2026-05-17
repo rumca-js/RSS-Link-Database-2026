@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Louis Rossmann",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-16T17:00:04.988270+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-16T12:39:36+00:00",
+        "description": "https://github.com/FULU-Foundation/OrcaSlicer-bambulab\n\nhttps://www.theregister.com/software/2023/03/17/john-deere-surrender-your-source-code-demands-sfc/610659\nhttps://sfconservancy.org/copyleft-compliance/vizio.html\nhttps://sfconservancy.org/press/qanda.html\n\nhttps://www.youtube.com/watch?v=Wst4wPBH-Cg\n\nhttps://www.youtube.com/watch?v=1jhRqgHxEP8\n\nhttps://consumerrights.wiki/w/Bambu_Lab_cease_and_desist_against_OrcaSlicer_fork_developer\n\nhttps://www.youtube.com/watch?v=aIyaDD8onIE\n\nhttps://consumerrights.wiki/w/Bambu_Lab_Authorization_Control_System",
+        "id": 5524476,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=aFEzDoL7K5c",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 201,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCl2mFZoRqjw_ELax4Yisf6w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/aFEzDoL7K5c/hqdefault.jpg",
+        "title": "1600 forks in 3 days...",
+        "vote": 0
+    }
+]

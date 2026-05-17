@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Gerrit De Vynck",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-16T15:46:43.908353+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-16T09:00:00+00:00",
+        "description": "Testimony in a case brought by Elon Musk has given new force to persistent questions about the trustworthiness of OpenAI\u2019s CEO Sam Altman.",
+        "id": 5522579,
+        "language": "en-US",
+        "link": "https://www.washingtonpost.com/technology/2026/05/16/elon-musk-trial-against-sam-altman-renews-questions-about-his-honesty",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 364,
+        "source_url": "https://feeds.washingtonpost.com/rss/business/technology",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "He\u2019s king of the AI boom. Why do former colleagues say he can\u2019t be trusted?",
+        "vote": 0
+    }
+]

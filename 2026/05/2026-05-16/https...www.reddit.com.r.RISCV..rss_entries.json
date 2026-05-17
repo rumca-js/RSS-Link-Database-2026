@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/rem_1235",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-16T16:24:23.242546+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-16T16:20:24+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone,</p> <p>Currently trying to wrap up my control unit for single cycle (verilog) and I\u2019m hitting a wall. Of course some instructions don\u2019t actually have a funct7. But my control unit is basically just a bunch of cases. If there is a case where funct7 is not used, it\u2019ll come up as xx\u2019s on my tb since it\u2019s not defined. </p> <p>But what should I do? For an instruction like addi that does not have a funct7, i don\u2019t know how to prevent x\u2019s.</p> <p>Also I was wondering if this would even be an issue and I can just let the x\u2019s be. I\u2019m synthesizing this on the basys 3 artix 7 so I wanna make sure I won\u2019t have any synthesis issues. </p> <p>TLDR: To be clear the control unit works I just don\u2019t know how to deal with the x\u2019s that appear in funct7 for instructions that don\u2019t actually contain a funct7</p> <p>I can provide pics if requested as well.</p> <p>Thanks!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/rem_12",
+        "id": 5523728,
+        "language": "en",
+        "link": "https://www.reddit.com/r/RISCV/comments/1tey5uo/confusion_on_how_to_implement_funct7_in_control",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 471,
+        "source_url": "https://www.reddit.com/r/RISCV/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Confusion on how to implement funct7 in control unit for full instruction set RV32i",
+        "vote": 0
+    }
+]
