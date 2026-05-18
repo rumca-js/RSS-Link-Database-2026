@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-18T00:13:19.044973+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-17T23:54:57+00:00",
+        "description": "The internet giant dwarfs other online retailers on both sides of the Atlantic.",
+        "id": 5532764,
+        "language": "en-US",
+        "link": "https://www.bbc.com/news/articles/cg7p5nr307mo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 28,
+        "source_url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa7e/live/9e8e8270-5088-11f1-89a3-d1f559421220.jpg",
+        "title": "Why does Amazon have no Western rivals?",
+        "vote": 0
+    }
+]

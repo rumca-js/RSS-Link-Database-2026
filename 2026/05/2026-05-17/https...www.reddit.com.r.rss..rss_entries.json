@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/Michal123456747",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-17T17:33:43.529996+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-17T16:38:33+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>Hi,</p> <p>I use a FreshRSS reader to keep up with news, and now I\u2019d like to extend my news workflow.</p> <p>First, I\u2019d like to be able to read posts from Facebook Pages and Groups, including private groups that I\u2019m a member of. Unfortunately, I haven\u2019t found any good options for doing that yet. At this point, I\u2019m open to any solution \u2014 even paid services that can generate RSS feeds.</p> <p>Second, I\u2019d like to place a self-hosted LLM between my feeds and the reader, or integrate an LLM directly into the RSS reader, to help filter and prioritize the content I actually want to see.</p> <p>Can anyone suggest good ways to approach these problems? I strongly prefer self-hosted solutions whenever possible.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Michal123456747\"> /u/Michal123456747 </a> <br/> <span><a href=\"https://www.reddit.com/r/rss/comments/1tfukkm/rss_in_modern_world_facebook_to_rss_llm_in_rss/\">[link]</a>",
+        "id": 5530972,
+        "language": "en",
+        "link": "https://www.reddit.com/r/rss/comments/1tfukkm/rss_in_modern_world_facebook_to_rss_llm_in_rss",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 482,
+        "source_url": "https://www.reddit.com/r/rss/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "RSS in modern world - Facebook to RSS & LLM in RSS",
+        "vote": 0
+    }
+]

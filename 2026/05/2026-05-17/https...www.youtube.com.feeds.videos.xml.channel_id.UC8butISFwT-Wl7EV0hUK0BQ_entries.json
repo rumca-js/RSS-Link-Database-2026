@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-17T13:38:59.081005+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-17T12:43:25+00:00",
+        "description": "Netflix was created because of a late fee - so we really have Blockbuster to thank! Ania shares the story of Netflix's origins here.",
+        "id": 5529524,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/8C-lYCzCVX4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/8C-lYCzCVX4/hqdefault.jpg",
+        "title": "Netflix was created because of a late fee - thanks, Blockbuster!",
+        "vote": 0
+    }
+]

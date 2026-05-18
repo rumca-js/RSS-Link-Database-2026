@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-17T11:48:08.709441+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-17T11:48:07.527291+00:00",
+        "description": "The six passengers on-board the cruise ship exposed to the deadly hantavirus have had their test results returned as they remain in a quarantine facility in Western Australia.",
+        "id": 5529004,
+        "language": "en-au",
+        "link": "https://www.news.com.au/travel/travel-updates/returned-australian-passengers-from-hantavirus-ship-learn-test-results/news-story/d4b08931e900546a4c15da96a5202106?from=rss-basic",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 409,
+        "source_url": "https://www.news.com.au/content-feeds/latest-news-travel",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://content.api.news/v3/images/bin/d5cd576f4b9d8158bb2bab595ada7993?width=320",
+        "title": "Major update for Aussies in quarantine",
+        "vote": 0
+    }
+]

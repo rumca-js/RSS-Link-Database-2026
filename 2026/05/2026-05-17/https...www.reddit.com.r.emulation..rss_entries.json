@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/HueponiK",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-17T06:42:50.957764+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-17T05:50:30+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://codeberg.org/hueponik/goosestation-builder/src/tag/v0.2\">https://codeberg.org/hueponik/goosestation-builder/src/tag/v0.2</a></p> <p><strong>v0.2</strong><br/> <br/> - Added macOS build support<br/> - Added Nintendo Switch build support (.nro). Native Deko3D driver for retroarch included!<br/> - Fixed Vulkan on Windows (static lib linking)<br/> - Updated upstream base to 54feef27d</p> <p>There&#39;s more to it, but I&#39;m bad with changelogs</p> <p>No videoguides still, sorry. No dolphin style reports either.</p> <p>Install docker, get the source (git or download from codeberg)</p> <p>On windows - run:</p> <pre><code>docker build -f Dockerfile.windows -t goosestation-builder-windows . docker run --rm -v &quot;$PWD/dist:/work/dist:Z&quot; goosestation-builder-windows windows </code></pre> <p>On linux:</p> <pre><code>docker build -f Dockerfile.linux -t goosestation-builder-linux . docker run --rm -v &quot;$PWD/dist:/work/dist:Z&quot; go",
+        "id": 5527835,
+        "language": "",
+        "link": "https://www.reddit.com/r/emulation/comments/1tfgqeq/goosestation_v02",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 475,
+        "source_url": "https://www.reddit.com/r/emulation/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Goosestation v0.2",
+        "vote": 0
+    }
+]

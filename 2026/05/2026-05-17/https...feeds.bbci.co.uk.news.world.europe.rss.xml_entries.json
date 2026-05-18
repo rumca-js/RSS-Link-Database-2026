@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-17T07:00:33.864475+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-17T02:00:44+00:00",
+        "description": "Bulgarian singer Dara stormed to victory in the contest, while Ukraine broke the record for the longest note ever sung at Eurovision.",
+        "id": 5527874,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/videos/cj3pznr0zr4o",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 523,
+        "source_url": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/800e/live/a5f44ed0-5193-11f1-89a3-d1f559421220.jpg",
+        "title": "Lights, camera, Bangaranga: Highlights from Eurovision",
+        "vote": 0
+    }
+]

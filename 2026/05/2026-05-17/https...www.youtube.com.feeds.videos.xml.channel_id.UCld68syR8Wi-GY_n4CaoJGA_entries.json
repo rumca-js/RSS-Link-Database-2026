@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-17T19:13:26.500082+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-17T17:30:10+00:00",
+        "description": "We've been having a lot of major vulnerabilities on Linux as of late and recently there was a set of Linux kernel patches to introduce a kill switch that blocks entire functions running.\n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\nCameron Video: https://www.youtube.com/watch?v=c7SfGoIxbYY\nLinux Kernel Patch Set: https://lore.kernel.org/all/20260507070547.2268452-1-sashal@kernel.org/\nLockdown Docs: https://man7.org/linux/man-pages/man7/kernel_lockdown.7.html\n\n=========Video Platforms==========\n\ud83c\udfa5 React: https://www.youtube.com/@BrodieRobertsonReacts\n\ud83c\udfa5 Podcast: https://techovertea.xyz/youtube\n\ud83c\udfae Gaming: https://brodierobertson.xyz/gaming\n\n==========Social Media==========\n\ud83c\udfa4 Discord: https://brodierobertson.xyz/discord\n\ud83d\udc26 Twitter: https://brodierobertson.xyz/twitter\n\ud83c\udf10 Mast",
+        "id": 5531473,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=i4Ub8vnskgc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/i4Ub8vnskgc/hqdefault.jpg",
+        "title": "The Linux Kernel Killswitch Changes Things Forever",
+        "vote": 0
+    }
+]

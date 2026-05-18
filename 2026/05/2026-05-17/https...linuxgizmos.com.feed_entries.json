@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-17T23:57:09.293194+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-17T23:21:40+00:00",
+        "description": "The newly announced RK3572 by Rockchip is an octa-core processor targeting AIoT, edge computing, and embedded applications. Built on an 8nm process, it combines dual Cortex-A73 cores, six Cortex-A53 cores, a 4 TOPS NPU, Mali-G310 GPU, LPDDR5/LPDDR5X support, and 8K video decoding. The RK3572 uses a heterogeneous CPU arrangement consisting of a dual-core Cortex-A73 cluster, [&#8230;]",
+        "id": 5532703,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/rockchip-unveils-rk3572-processor-with-4-tops-npu-and-lpddr5x-support",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Rockchip unveils RK3572 processor with 4 TOPS NPU and LPDDR5X support",
+        "vote": 0
+    }
+]

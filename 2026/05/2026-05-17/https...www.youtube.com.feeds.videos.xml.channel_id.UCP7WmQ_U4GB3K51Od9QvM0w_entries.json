@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "David Bombal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-17T14:26:55.134590+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-17T14:00:16+00:00",
+        "description": "Join me for an exclusive, behind-the-scenes tour of Cisco's purpose-built $20 million AI data center lab in San Jose. AI is revolutionizing the tech industry, but running massive 10,000 GPU clusters can cost up to $175 million a year\u2014and a mere 5% network bottleneck can flush $8 million down the drain. In this video, we break down the hardware, software, and networking topologies required to build, secure, and scale massive AI data centers.\n\nI sit down with Cisco  engineers to explore scale-up domains with NVIDIA H200 and AMD MI350X servers, scale-out rail-optimized topologies, and the massive Cisco Silicon One G300 ASIC delivering 102.4 Terabits per second with innovative liquid cooling. We also dive into the Ethernet vs. InfiniBand debate for scaling to 100,000 GPUs, the power of Linear Pluggable Optics (LPO) to reduce power draw, and how Cisco used AI to safely refactor 500,000 lines of legacy code. Whether you are building\nan AI network today or upgrading your engineering skills f",
+        "id": 5529849,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=79fLWBLURJ0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 984,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP7WmQ_U4GB3K51Od9QvM0w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/79fLWBLURJ0/hqdefault.jpg",
+        "title": "Inside the $20M Lab Powering modern AI",
+        "vote": 0
+    }
+]
