@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-18T13:27:20.479126+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-18T12:17:23+00:00",
+        "description": "Don't try to learn a new skill in a vacuum - build with a goal in mind. It's more motivating, and you can go back and fill in the gaps later. Carl explains his reasoning on the freeCodeCamp podcast.",
+        "id": 5536804,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/g4Jne1qDDhU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/g4Jne1qDDhU/hqdefault.jpg",
+        "title": "Don't try to learn a new skill in a vacuum - build with a goal in mind",
+        "vote": 0
+    }
+]

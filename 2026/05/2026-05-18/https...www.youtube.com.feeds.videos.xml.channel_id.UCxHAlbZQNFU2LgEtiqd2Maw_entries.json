@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "C++ Weekly With Jason Turner",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-18T16:48:18.616991+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-18T15:29:55+00:00",
+        "description": "This month Jason and Mathieu are joined by Chris Bieneman as we discuss GPU programming and HLSL.\n\nNews\n\nhttps://devblogs.microsoft.com/oldnewthing/20260421-00/?p=112247\nhttps://mpusz.github.io/mp-units/HEAD/blog/2026/04/11/preventing-integer-overflow-in-physical-computations/\nhttps://pvs-studio.com/en/blog/posts/cpp/1366/\n\nDiscussion links\n\nPlaystation 4 Uses Clang 2013 US Dev Meeting- Paul Robinson \"Developer Toolchain for the Playstation 4\" - https://www.youtube.com/watch?v=anPMIHA8FUY\nHLSL Decades in the making: https://www.youtube.com/watch?v=4zVhKBLvP1o\n* GLSL: Origins, Observations and Opportunities - Randi Rost - https://www.youtube.com/watch?v=km6JVauxyBg\nRedefining the Software Engineering Profession for AI - Mark Russinovich (MSR) & Scott Hanselman (CoreAI) - https://dl.acm.org/doi/full/10.1145/3779312\n\"Two Compilers, One Language, No Specification\" https://www.youtube.com/watch?v=sVq5khCXkbw\nhttps://github.com/hlsl-tc57\nhttps://github.com/microsoft/hlsl-specs/",
+        "id": 5538616,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=RHAGn2BOPA4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 48,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxHAlbZQNFU2LgEtiqd2Maw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/RHAGn2BOPA4/hqdefault.jpg",
+        "title": "GPU Programming and HLSL with Chris Bieneman - CppCast 407 - C++Weekly Ep 537",
+        "vote": 0
+    }
+]

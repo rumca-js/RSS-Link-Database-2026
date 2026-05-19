@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Muhammad Zulhusni",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-18T09:17:52.806925+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-18T09:00:00+00:00",
+        "description": "<p>Microsoft is preparing to end most internal use of Anthropic\u2019s Claude Code, with engineers being directed to move their workflows to GitHub Copilot CLI instead. According to reports, Microsoft employees have been given until June 30, 2026, to remove Claude Code from their internal development workflows. The deadline comes as the company pushes wider use [&#8230;]</p>\n<p>The post <a href=\"https://www.developer-tech.com/news/microsoft-claude-code-github-copilot-cli/\">Microsoft moves engineers from Claude Code to GitHub Copilot CLI</a> appeared first on <a href=\"https://www.developer-tech.com\">Developer Tech News</a>.</p>",
+        "id": 5535029,
+        "language": "en-GB",
+        "link": "https://www.developer-tech.com/news/microsoft-claude-code-github-copilot-cli",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 92,
+        "source_url": "https://www.developer-tech.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Microsoft moves engineers from Claude Code to GitHub Copilot CLI",
+        "vote": 0
+    }
+]

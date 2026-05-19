@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-18T11:51:40.236898+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-18T11:00:14+00:00",
+        "description": "Learn more about AI Agents here \u2192 https://ibm.biz/~6OWA2CvK6\n\nAI agents are having a moment, and understanding MCP and ADK is key to building them well. Cedric Clyburn and Anna Gutowska explain how MCP powers tool integration while ADK structures reliable multi\u2011agent systems \ud83e\udd16. Learn when to use each to build more capable and predictable AI agents.\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/~zQB8ovn3t\n\n#aiagents #mcp #adk",
+        "id": 5536112,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=BedAaB1RKgE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/BedAaB1RKgE/hqdefault.jpg",
+        "title": "MCP vs ADK: How Modern AI Agents Connect and Work Together",
+        "vote": 0
+    }
+]

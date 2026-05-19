@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mathieu Ropert & Jason Turner",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-18T09:23:30.889073+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-18T09:00:00+00:00",
+        "description": "Jason and Mathieu are joined by Chris Bieneman to discuss GPU programming and the evolution of HLSL, the challenges of floating-point determinism on GPUs, and lessons from over a decade of shading language and compiler work.\n        <h3>News</h3>\n<ul>\n<li><a href=\"https://devblogs.microsoft.com/oldnewthing/20260421-00/?p=112247\">Sure, xor'ing a register with itself is the idiom for zeroing it out, but why not sub? - Raymond Chen, The Old New Thing</a></li>\n<li><a href=\"https://mpusz.github.io/mp-units/HEAD/blog/2026/04/11/preventing-integer-overflow-in-physical-computations/\">Preventing Integer Overflow in Physical Computations - Mateusz Pusz, mp-units</a></li>\n<li><a href=\"https://pvs-studio.com/en/blog/posts/cpp/1366/\">Let's check vibe code that acts like optimized C++ but is actually a mess - Andrey Karpov, PVS-Studio</a></li>\n</ul>\n<h3>Links</h3>\n<ul>\n<li><a href=\"https://www.youtube.com/watch?v=anPMIHA8FUY\">Developer Toolchain for the PlayStation 4 - Paul Robinson (2013 LLVM US D",
+        "id": 5535052,
+        "language": "en",
+        "link": "https://cppcast.com/gpu_programming_and_hlsl_with_chris_bieneman",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 80,
+        "source_url": "https://cppcast.com/feed.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "GPU Programming and HLSL with Chris Bieneman",
+        "vote": 0
+    }
+]

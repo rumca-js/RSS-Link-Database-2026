@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Matt Wolfe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-18T14:36:10.428353+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-18T12:44:30+00:00",
+        "description": "\ud83d\udea8 OpenAI just dropped the feature we've all been waiting for: Codex on mobile.\n\nIf you watched my recent video on how I built my custom wiki, you know how much I\u2019ve been relying on Codex. So I was super excited for this feature and I know a bunch of other people have been asking for it as well.\n\nBy just scanning a quick QR code, you can now connect your phone directly to your computer. My wiki and files still live safely on my Mac Studio\u2019s hard drive, but I can now search my \"second brain\" vault, run queries, and manage EVERYTHING remotely from my phone.\n\nYou can prompt Codex to start coding an app, go chill in the living room to watch TV, and just check its progress or answer its questions straight from your couch. I honestly can't overstate how excited I am about this.\n\n\u27a1\ufe0f SHARE this post with someone who would use this!\n\n#OpenAI #Codex #AI #Ainews #ChatGPT",
+        "id": 5537479,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/gVMz2vKzYRY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 933,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChpleBmo18P08aKCIgti38g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/gVMz2vKzYRY/hqdefault.jpg",
+        "title": "Codex Finally Launched This Ultra Useful Feature",
+        "vote": 0
+    }
+]

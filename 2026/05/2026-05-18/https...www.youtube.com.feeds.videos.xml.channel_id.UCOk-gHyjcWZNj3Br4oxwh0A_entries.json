@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Techno Tim",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-18T16:10:00.516275+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-18T15:00:34+00:00",
+        "description": "I wanted to see how good local self-hosted AI has actually gotten, so I built a mini AI cluster on my desk and tested it with a real coding workflow.\n\nCan a local AI coding agent actually build and improve a real app? And does adding a second machine make the workflow better, or just add more complexity?\n\nThis is a practical test of the ASUS Ascent GX10, vLLM, OpenCode, power draw, Open Weight Models, and what local AI feels like to actually use.\n\nThank you to ASUS for sending these 2 GX10s to test.\nASUS Ascent GX10: https://amzn.to/4eTMpaD (Amazon affiliate link)\n\n00:00 - Local AI is starting to change\n01:19 - ASUS Ascent GX10 hardware\n03:21 - Remote access and workflow\n04:19 - NAS storage and vLLM\n05:49 - OpenCode agent stack\n06:57 - The Homelab app test\n08:06 - One GX10 coding test\n11:48 - One-GX10 power draw and idle cost\n12:34 - What does a second GX10 change?\n13:00 - NCCL and the two-node Ray cluster\n14:09 - MiniMax, KV cache, and model loading\n16:09 - Two GX10 coding test\n17:44",
+        "id": 5538278,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=K2IGHj7KQoM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 911,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCOk-gHyjcWZNj3Br4oxwh0A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/K2IGHj7KQoM/hqdefault.jpg",
+        "title": "Are Local Models Finally Good Enough?",
+        "vote": 0
+    }
+]

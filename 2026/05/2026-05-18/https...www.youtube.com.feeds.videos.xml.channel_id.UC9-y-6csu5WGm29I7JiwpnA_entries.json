@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Computerphile",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-18T14:09:20.995666+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-18T13:30:20+00:00",
+        "description": "Learn more and apply to Jane Street\u2019s WiSE program in New York, London or Hong Kong: https://jane-st.co/Computerphile-WiSE-2026 (episode sponsor)\nProfessor Azalea Raad leads the Veritas Lab at Imperial College London... More information about this video in the full description below.\n\nThis video is about how Weak Memory Concurrency can cause multiple threads to do unexpected things! \n\nAzalea Raad: https://profiles.imperial.ac.uk/azalea.raad\n\nLearn more and apply to Jane Street\u2019s WiSE program in New York, London or Hong Kong: https://jane-st.co/Computerphile-WiSE-2026\n\nComputerphile is supported by Jane Street. Learn more about them (and exciting career opportunities) at: https://jane-st.co/computerphile\n\nThis video was filmed and edited by Sean Riley.\n\nComputerphile is a sister project to Brady Haran's Numberphile. More at https://www.bradyharanblog.com",
+        "id": 5537255,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=E3hvLz717zM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 929,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9-y-6csu5WGm29I7JiwpnA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/E3hvLz717zM/hqdefault.jpg",
+        "title": "Why Multi-Threaded Code Can Sometimes Misbehave (Weak Memory Concurrency) - Computerphile",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Stephen Thompson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-18T22:22:33.968586+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-18T17:23:41+00:00",
+        "description": "The latest season of <em>Saturday Night Live</em> felt transitional in many ways, but it was full of blockbuster pop stars, up-and-coming bands and musical legends. We ranked them from worst to best.",
+        "id": 5541364,
+        "language": "en",
+        "link": "https://www.npr.org/2026/05/18/nx-s1-5825873/snl-season-51-musical-guests-ranked",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 226,
+        "source_url": "https://feeds.npr.org/1002/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2000+0+0/resize/3000x2000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd9%2Ffc%2F883261b945f68a106e30c403cf28%2F09-doja-cat-by-will-heath-nbc.JPG",
+        "title": "'SNL' just wrapped its 51st season: It's time to cruelly rank its musical guests",
+        "vote": 0
+    }
+]

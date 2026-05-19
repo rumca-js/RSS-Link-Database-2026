@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-18T15:23:07.748206+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-18T15:02:21+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nLightning Talk: How Fast Isn\u2019t You Constexpr? - Hossein GhahramanzadehAnigh - CppCon 2025\n---\n\nI investigate the compile time + run time of running an algorithm in an effort to compare how much it takes the compiler to run the same algorithm at compile time vs how much it takes to run the algorithm natively. With the findings at the end I hand roll a constexpr alternative that strikes a balance between compile-time and run-time performance.\n---\n\nWork at Hudson River Trading (HRT): https://tinyurl.com/safxfctf\n---\n\nI am C++ developer currently working at IMC Trading. I have been a C++ enthusiast ever since I was 15. I do a lot of compile time stuff.\n---\n\nCppCon is the annual, week-long face-to-face gathering for the entire C++ community. The conference is organized by the C++ community for the community. You will enjoy inspirational talks and a friendly atmosphere designed to help attendees learn from each other, meet interesting people, and generally have a st",
+        "id": 5537876,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=rmfuWQXojtY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/rmfuWQXojtY/hqdefault.jpg",
+        "title": "Lightning Talk: How Fast Isn\u2019t You Constexpr? - Hossein GhahramanzadehAnigh - CppCon 2025",
+        "vote": 0
+    }
+]

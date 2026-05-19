@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Primal Space",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-18T19:33:59.114106+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-18T18:30:27+00:00",
+        "description": "In the early days of car manufacturing, Henry Ford gets most of the credit for inventing the moving production line. But the real spark may have come from William Klann.\n\nIn 1913, Klann visited a meatpacking factory and noticed something revolutionary: instead of workers moving around the product, the product moved to the workers.\n\nBack at Ford, they began experimenting with this idea - not on cars, but on something smaller: magnetos. They replaced long workbenches with a conveyor belt, forcing each stage of production into a strict sequence.\n\nThe effect was immediate. In just a month, output jumped from around 800 magnetos a day to nearly 3,000.",
+        "id": 5539992,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/k32egjUa5UI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 840,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UClZbmi9JzfnB2CEb0fG8iew",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/k32egjUa5UI/hqdefault.jpg",
+        "title": "How a Meat Factory Changed Car Manufacturing",
+        "vote": 0
+    }
+]

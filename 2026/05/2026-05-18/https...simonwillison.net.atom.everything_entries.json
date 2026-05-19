@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Simon Willison",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-18T18:40:06.889885+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-18T14:51:00+00:00",
+        "description": null,
+        "id": 5539533,
+        "language": "en-us",
+        "link": "https://simonwillison.net/2026/May/18/sighting-362781627/#atom-everything",
+        "manual_status_code": 0,
+        "page_rating": 28,
+        "page_rating_contents": 88,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 423,
+        "source_url": "https://simonwillison.net/atom/everything",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://static.inaturalist.org/photos/662161673/large.jpg",
+        "title": "Glaucous-winged Gull, Brown Pelican, Snowy Egret, Canada Goose",
+        "vote": 0
+    }
+]

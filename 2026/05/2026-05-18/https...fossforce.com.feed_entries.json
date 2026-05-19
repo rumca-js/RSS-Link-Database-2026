@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Zach Lloyd",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-18T17:34:08.060011+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-18T17:15:36+00:00",
+        "description": "<p><em>How Warp built an agent-first open source contribution workflow that actually works. 56K GitHub stars, 500 contributors, and one clear signal: Agents and humans build better open source software together.</em></p>\n<p>The post <a href=\"https://fossforce.com/2026/05/ceo-zach-lloyd-on-the-benefits-of-open-sourcing-warp/\">CEO Zach Lloyd on the Benefits of Open Sourcing Warp</a> appeared first on <a href=\"https://fossforce.com\">FOSS Force</a>.</p>",
+        "id": 5539088,
+        "language": "en-US",
+        "link": "https://fossforce.com/2026/05/ceo-zach-lloyd-on-the-benefits-of-open-sourcing-warp",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 108,
+        "source_url": "https://fossforce.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "CEO Zach Lloyd on the Benefits of Open Sourcing Warp",
+        "vote": 0
+    }
+]

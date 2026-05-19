@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-18T19:06:43.575781+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-18T10:00:00+00:00",
+        "description": "OpenAI and Dell partner to bring Codex to hybrid and on-premise environments, helping enterprises deploy AI coding agents securely across data and workflows.",
+        "id": 5539863,
+        "language": "en",
+        "link": "https://openai.com/index/dell-codex-enterprise-partnership",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 953,
+        "source_url": "https://openai.com/news/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Paresh Dave, Maxwell Zeff",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-18T18:17:20.714955+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-18T17:40:30+00:00",
+        "description": "The nine-member panel took only two hours to return a verdict in favor of OpenAI on Monday, which the judge quickly adopted as her own final decision.",
+        "id": 5539295,
+        "language": "en-US",
+        "link": "https://www.wired.com/story/musk-v-altman-jury-verdict",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 396,
+        "source_url": "https://www.wired.com/feed/category/business/latest/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media.wired.com/photos/6a07b49c3e66727feabf05fc/master/pass/Model-Behavior-Altman-v-Musk-Verdict-Business.jpg",
+        "title": "Elon Musk Loses Landmark Lawsuit Against OpenAI",
+        "vote": 0
+    }
+]

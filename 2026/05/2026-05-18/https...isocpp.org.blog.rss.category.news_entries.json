@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Blog Staff",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-18T23:26:39.154405+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-18T22:46:29+00:00",
+        "description": "<header>\n\t<p>\n\t\t<img alt=\"Depositphotos_347968346_S.jpg\" src=\"https://isocpp.org/files/img/Depositphotos_347968346_S.jpg\" style=\"width: 200px; margin: 10px; float: right; height: 200px;\" />In today&#39;s post, I will explain one of C++&#39;s biggest pitfalls:&nbsp;<code>reinterpret_cast</code>. Another title for this post could be:&nbsp;<em>This is&nbsp;not&nbsp;the cast you&#39;re looking for!</em></p>\n</header>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://andreasfertig.com/blog/2026/04/what-reinterpret_cast-doesnt-do/\">What reinterpret_cast doesn&#39;t do</a></h3>\n\t<p>\n\t\tAndreas Fertig</p>\n</blockquote>\n<p>\n\tFrom the article:</p>\n<blockquote>\n\t<p>\n\t\tMy motivation for this blog post comes from multiple training classes I thought over the past several months and a couple of talks I gave. Since C++23, you have a new facility in the Standard Library:&nbsp;<code>std::start_lifetime_as</code>. When teaching class with a focus on embedded environments or presenting talks with such a focus, I star",
+        "id": 5541734,
+        "language": "en",
+        "link": "https://isocpp.org//blog/2026/05/what-reinterpret-cast-doesnt-do-andreas-fertig",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://isocpp.org/files/img/Depositphotos_347968346_S.jpg",
+        "title": "What reinterpret_cast doesn't do -- Andreas Fertig",
+        "vote": 0
+    }
+]

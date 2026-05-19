@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unreal Engine",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-18T15:09:53.180626+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-18T14:00:13+00:00",
+        "description": "Watch this video and find out how talented teams from across the simulation industry are using Unreal Engine\u2019s powerful feature set for everything from digital twins and robotics training to autonomous vehicle testing and next-gen flight simulators. \n\nWhen realism is essential to the success of your simulation project, you need UE5. Features like real-time ray tracing, dynamic global illumination, and built-in particle and physics systems empower you to create interactive experiences that are more immersive and convincing than ever.\n\nNative support for many industry-standard 3D asset formats, virtual terrains, and communication protocols, and the ability to convert entire scenes at high fidelity through Datasmith make getting your data into UE5 easy. \n\nAnd you can deploy your simulation to anything from mobile devices and touchscreens to VR headsets and MR holograms\u2014all from a single UE5 project.\n\nFind out more about using Unreal Engine for simulation here: unrealengine.com/uses/simul",
+        "id": 5537710,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=9W-H3S2hqgs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 685,
+        "source_url": "https://youtube.com/channel/UCBobmJyzsJ6Ll7UbfhI4iwQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/9W-H3S2hqgs/hqdefault.jpg",
+        "title": "Unreal Engine Simulation Sizzle Reel 2026",
+        "vote": 0
+    }
+]
