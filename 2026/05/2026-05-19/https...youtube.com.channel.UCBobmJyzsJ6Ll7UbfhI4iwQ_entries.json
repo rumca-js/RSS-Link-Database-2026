@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unreal Engine",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-19T12:28:15.132203+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-19T11:27:20+00:00",
+        "description": "This talk recorded at Unreal Fest Stockholm explains how including 2D artists in an Unreal Engine project, especially for linear productions and video games, can accelerate the creative process. \n\nStoryboard, FX, texture painting, animated faces on 3D characters, sprites, or even 3D animation notes and retakes\u2014there are many aspects of a game or a film that can involve 2D artists. \n\n2D artists can do all this work in Unreal Engine thanks to Praxinos Odyssey.\n\nLearn more about Unreal Engine here: unrealengine.com\n\n#Animations, #Animatics, #Storyboarding, #PraxinosOdyssey, #2DArt, #UnrealEngine, #UE5, #UnrealFestStockholm",
+        "id": 5545886,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=ls2V7AiObLw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 685,
+        "source_url": "https://youtube.com/channel/UCBobmJyzsJ6Ll7UbfhI4iwQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/ls2V7AiObLw/hqdefault.jpg",
+        "title": "How 2D Creatives Can Embrace Unreal Engine with Odyssey | Unreal Fest Stockholm 2025",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Microsoft",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-19T16:41:47.773441+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-19T16:05:55+00:00",
+        "description": "Scope supports 4.6 million disabled people each year across the UK. To better serve its employees and advance its mission, the organization is modernizing its technology environment with Microsoft 365, security solutions, and\u00a0Microsoft 365\u00a0Copilot. By streamlining manual processes, improving accessibility, and using AI to surface insights and support communication, Scope is reducing barriers for employees and empowering them to focus on their work and expand the organization\u2019s impact.",
+        "id": 5548093,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=53KqVqZ39eg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 793,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFtEEv80fQVKkD4h1PF-Xqw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/53KqVqZ39eg/hqdefault.jpg",
+        "title": "Scope uses Microsoft\u00a0365\u00a0Copilot to remove barriers and empower every employee",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-19T14:15:38.332226+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-19T09:00:00+00:00",
+        "description": "<p>At NAB, I found a demo of <a href=\"https://www.wiwistamp.com\">Wi-Wi STAMP</a>, a wireless time synchronization protocol that <a href=\"https://archive.gps.gov/cgsic/meetings/2024/shiga.pdf\">came out of Japan's NICT</a>.</p>\n<figure class=\"insert-image\"><img src=\"https://www.jeffgeerling.com/blog/2026/wi-wi-is-wireless-time-sync-less-than-5ns/wi-wi-stamp-leader-timing-hardware.jpg\"\n alt=\"Wi-Wi STAMP time synchronization hardware\" width=\"700\" height=\"auto\">\n</figure>\n\n<p>Wi-Wi stands for Wireless 2Way interferometry, and it uses the 900 MHz band for picosecond-level time sync, and mm-level distance accuracy, in a tiny box, currently the size of a smartphone.</p>\n<p>The system is still in development, but existing prototypes have 20ps of phase synchronization jitter, and time synchronization down to 30ns. The next generation will have time down to 5ns in real-world use.</p>",
+        "id": 5546750,
+        "language": "en",
+        "link": "https://www.jeffgeerling.com/blog/2026/wi-wi-is-wireless-time-sync-less-than-5ns",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 162,
+        "source_url": "https://www.jeffgeerling.com/blog.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.jeffgeerling.com/blog/2026/wi-wi-is-wireless-time-sync-less-than-5ns/wi-wi-stamp-leader-timing-hardware.jpg",
+        "title": "Wi-Wi Is Wireless Time Sync at 1 nanosecond",
+        "vote": 0
+    }
+]

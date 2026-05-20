@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-19T12:08:11.719056+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-19T11:00:22+00:00",
+        "description": "Learn more about Asset Lifecycle Management here \u2192 https://ibm.biz/~xM9tMWHdt\n\n\"Unplanned outages and breakdowns can cost hundreds of thousands per hour.\" \u2699\ufe0f Michael Dawson explains how agentic AI and intelligent systems of action improve maintenance, asset management, and predictive decision-making. Learn how AI turns data into real-time guidance and reliable outcomes. \ud83d\ude80\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/~J2ynEZlZg\n\n#agenticai #assetmanagement #aiindustry",
+        "id": 5545625,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=KVFrBtkLg4I",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/KVFrBtkLg4I/hqdefault.jpg",
+        "title": "How Agentic AI Transforms Maintenance and Asset Decisions",
+        "vote": 0
+    }
+]

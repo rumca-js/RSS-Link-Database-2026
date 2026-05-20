@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Retro Game Corps",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-19T14:25:45.041829+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-19T14:00:19+00:00",
+        "description": "Yes, it is possible to earn Retro Achievements offline, thanks to some recent app and firmware updates.  In this video I'll show you how to set it up on Android handhelds.\n\nRAOfflineProxy: https://raofflineproxy.com/\nSupport the developer: \n\nRetro Achievements: https://retroachievements.org/\nMelonDS (with offline achievements): https://github.com/SapphireRhodonite/melonDS-android\nNextUI update: https://github.com/LoveRetro/NextUI/pull/707\n\nAndroid handheld starter guide: https://youtu.be/I4mqgcDYZFo\n\nCheck out my weekly newsletter: http://news.retrogamecorps.com/\n\nWays to support this channel:\nRGC merch: https://store.retrogamecorps.com\nYT channel membership: https://www.youtube.com/channel/UCoZQiN0o7f36H7PaW4fVhFw/join\nPatreon: https://www.patreon.com/retrogamecorps\nKo-Fi: https://ko-fi.com/retrogamecorps\n\nTimestamps:\n00:00 introduction\n01:16 initial setup\n03:50 installation\n05:36 caching games\n08:58 auto caching\n09:57 testing offline achievements\n12:45 verifying achievements\n14:45 L",
+        "id": 5546847,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=KFxoDKVckds",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 823,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCoZQiN0o7f36H7PaW4fVhFw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/KFxoDKVckds/hqdefault.jpg",
+        "title": "How to Set Up Offline Retro Achievements",
+        "vote": 0
+    }
+]

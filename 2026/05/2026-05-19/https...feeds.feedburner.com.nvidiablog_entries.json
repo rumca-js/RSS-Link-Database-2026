@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ankit Patel",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-19T22:05:33.482007+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-19T20:30:09+00:00",
+        "description": "At this year\u2019s Google I/O conference, NVIDIA and Google Cloud are accelerating the work of more than 100,000 developers in the companies\u2019 joint developer community, which provides curated learning paths, hands-on labs and events that help them build using the full-stack NVIDIA AI platform on Google Cloud.\u00a0 Launched at Google I/O last year, the community [&#8230;]",
+        "id": 5551174,
+        "language": "en-US",
+        "link": "https://blogs.nvidia.com/blog/google-cloud-developer-community-ai-builders",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 1019,
+        "source_url": "https://feeds.feedburner.com/nvidiablog",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://blogs.nvidia.com/wp-content/uploads/2026/05/google-cloud-nvidia-1920x1080-1-842x450.jpg",
+        "title": "NVIDIA and Google Cloud Empower the Next Wave of AI Builders",
+        "vote": 0
+    }
+]

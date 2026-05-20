@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "GitHub",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-19T16:17:04.485434+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-19T15:00:24+00:00",
+        "description": "Welcome back to GitHub Checkout! In this episode, we sit down with Nhu to explore the new auto mode for GitHub Copilot. Instead of manually testing different models, auto mode intelligently routes your prompt to the best available model based on reasoning needs and real-time capacity. We walk through a demo in the CLI and VS Code to show how it saves time and optimizes performance. Let us know what you think of this feature in the comments! \n\n#GitHubCopilot #GitHub #AI\n\n\u2014 CHAPTERS \u2014\n\n00:00 - Welcome to GitHub Checkout\n00:23 - What is auto mode?\n01:21 - Demo: how auto selects models\n04:23 - How we built intelligent routing\n07:17 - Model evaluations and what is next \n\nStay up-to-date on all things GitHub by connecting with us:\n\nYouTube: https://gh.io/subgithub\nBlog: https://github.blog\nX: https://twitter.com/github\nLinkedIn: https://linkedin.com/company/github\nInsider newsletter: https://resources.github.com/newsletter/\nInstagram: https://www.instagram.com/github\nTikTok: https://www.tik",
+        "id": 5547864,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=a-c1M8QwK84",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 1005,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7c3Kb6jYCRj4JOHHZTxKsQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/a-c1M8QwK84/hqdefault.jpg",
+        "title": "How Copilot auto mode selects the best AI model | GitHub Checkout",
+        "vote": 0
+    }
+]

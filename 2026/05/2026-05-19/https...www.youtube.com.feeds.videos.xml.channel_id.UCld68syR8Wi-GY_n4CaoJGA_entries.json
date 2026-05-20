@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-19T19:54:44.559322+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-19T17:30:01+00:00",
+        "description": "KDE's Union theming system is almost ready to ship it's first version, this aims to completely change how theming works with KDE, making it far more approachable.\n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\n2024 Talk: https://www.youtube.com/watch?v=uFVr4fNJoms\nTalk Slides: https://conf.kde.org/event/6/contributions/206/attachments/115/145/arjen-hiemstra-akademy2024.pdf\nBlog Post 1: https://quantumproductions.info/articles/2025-02/moving-kdes-styling-future\nFilip Blog Post: https://filipfila.wordpress.com/2026/04/05/halfway-there-to-6-7-updates-on-oxygen-and-air/\nFilip Blog Post 2: https://filipfila.wordpress.com/2026/05/10/the-anti-minimalist-backlash-is-the-bigger-story-behind-oxygens-revival/\nBlog Post 2: https://quantumproductions.info/articles/2026-05/union-spr",
+        "id": 5549979,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=6kLk_NLd-Js",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/6kLk_NLd-Js/hqdefault.jpg",
+        "title": "KDE Plasma Is About To Fix Desktop Theming",
+        "vote": 0
+    }
+]

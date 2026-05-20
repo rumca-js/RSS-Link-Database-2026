@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-19T16:01:00.353084+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-19T15:02:55+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nLightning Talk: Understanding Data Dependency Chains - Makar Kuznietsov - CppCon 2025\n---\n\nLong dependency chains in your code might completely nuke the performance. Even on the high-end systems there will be a significant slow-down, as the more threads or more cache will not improve performance in this case. To find a solution it is crucial to be able to differentiate between primary and secondary dependency chains, see what data is the dependency over, and know whether to focus on latency or throughput of instructions. In this talk I will introduce a mental framework to quickly spot and fix long dependency chains, and characterize them with specific quantifiable metrics.\n---\n\nWork at Hudson River Trading (HRT): https://tinyurl.com/safxfctf\n---\n\nMakar Kuznietsov\n\nMakar Kuznietsov, MIT '25 graduate, and incoming MIT masters student is a co-founder of Functio, which creates LLMs to find and fix performance bottlenecks in software projects. In his prior research",
+        "id": 5547718,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=eMnz158Y0Ok",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/eMnz158Y0Ok/hqdefault.jpg",
+        "title": "Lightning Talk: Understanding Data Dependency Chains - Makar Kuznietsov - CppCon 2025",
+        "vote": 0
+    }
+]

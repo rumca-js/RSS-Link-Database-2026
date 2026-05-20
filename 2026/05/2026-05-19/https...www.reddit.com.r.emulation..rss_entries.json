@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/peterb12",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-19T19:47:09.394538+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-19T11:59:39+00:00",
+        "description": "<table> <tr><td> <a href=\"https://www.reddit.com/r/emulation/comments/1thkqu6/an_nes_emulatorin_haskell/\"> <img src=\"https://external-preview.redd.it/l5D-p3ANH3kiI6aVb9CZU48n4wZ1_VtgSqsvip19P3M.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=f32178ae425a4bec881ecd3a85232124fa8fe393\" alt=\"An NES emulator...in Haskell?\" title=\"An NES emulator...in Haskell?\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Some final words on the EmuDevz JavaScript emulator, which is finally finished, and then on to the next challenge...writing an NES emulator in Haskell!</p> <p>If you want to skip the introductory remarks about the JavaScript code and get straight to the Haskell, skip to around 3:45.</p> <p>Thumbnail painting: &quot;Napoleon Crossing the Alps&quot;, by Jaques Louis-David (1801).</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/peterb12\"> /u/peterb12 </a> <br/> <span><a href=\"https://youtu.be/PH84TNxr5SI\">[link]</a></span> &#32; <span><a href=\"h",
+        "id": 5549953,
+        "language": "",
+        "link": "https://www.reddit.com/r/emulation/comments/1thkqu6/an_nes_emulatorin_haskell",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 475,
+        "source_url": "https://www.reddit.com/r/emulation/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://external-preview.redd.it/l5D-p3ANH3kiI6aVb9CZU48n4wZ1_VtgSqsvip19P3M.jpeg?width=320&crop=smart&auto=webp&s=f32178ae425a4bec881ecd3a85232124fa8fe393",
+        "title": "An NES emulator...in Haskell?",
+        "vote": 0
+    }
+]
