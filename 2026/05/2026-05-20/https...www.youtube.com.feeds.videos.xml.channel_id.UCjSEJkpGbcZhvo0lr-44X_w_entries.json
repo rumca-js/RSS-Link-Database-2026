@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "TechHut",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-20T20:31:14.916997+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-20T19:58:55+00:00",
+        "description": "Try OPManager Nexus free and get full visibility across your entire IT stack - cloud or on-premise: https://www.manageengine.com/it-operations-management/download.html?YTI=&utm_source=techhut&utm_medium=pre\n\nAfter almost a year away from Linux as my daily driver I'm back, and I'm going back with Fedora 44 on a new MinisForum PC with an NVIDIA 3070. In this video I cover why Fedora is my desktop distro of choice, how to install it, and everything I do after a fresh install to get it properly set up.\n\nIf you're thinking about switching to Linux or just want to see how I set things up, this one covers it all. Links to everything mentioned are down below.\n\n\ud83d\udcd6 RESOURCES\nhttps://techhut.tv/fedora-44-post-install-guide\n\n\ud83c\udfc6 FOLLOW TECHHUT\nX (Twitter): https://bit.ly/twitter-techhut\nMASTODON: https://bit.ly/mastodon-techhut\nBlueSky: https://bsky.app/profile/techhut.bsky.social\nINSTAGRAM: https://bit.ly/personal-insta\n\n\ud83d\udc4f SUPPORT TECHHUT (all links below this line will earn us commission)\nBUY A CO",
+        "id": 5560247,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Zu8A3_NflvA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 430,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjSEJkpGbcZhvo0lr-44X_w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/Zu8A3_NflvA/hqdefault.jpg",
+        "title": "just use Fedora...",
+        "vote": 0
+    }
+]

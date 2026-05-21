@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Nerd of the Rings",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-20T15:41:06.598827+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-20T15:13:13+00:00",
+        "description": "The first Middle-earth game under the new Middle-earth ownership has officially been announced!  We are getting a Middle-earth RPG from Warhorse Studios, makers of Kingdom Come: Deliverance!\n\nAs part of the announcement that Fellowship Entertainment will be spun off from Embracer, Warhorse Studios announced a third game in their KCD franchise as well as pre-production of a Middle-earth game!",
+        "id": 5557558,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=DVPKF1grwJ4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 234,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCW0gH2G-cMKAEjEkI4YhnPA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/DVPKF1grwJ4/hqdefault.jpg",
+        "title": "Warhorse Middle-earth Game Announced",
+        "vote": 0
+    }
+]

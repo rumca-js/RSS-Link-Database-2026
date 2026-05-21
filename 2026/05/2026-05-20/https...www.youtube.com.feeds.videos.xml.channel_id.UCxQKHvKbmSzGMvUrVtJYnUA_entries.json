@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Learn Linux TV",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-20T17:03:36.801415+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-20T15:00:11+00:00",
+        "description": "Are you a Linux distro hopper? Finding the right Linux distribution can feel overwhelming with so many great options available \u2014 but it doesn\u2019t have to be.\n\nIn this video, I\u2019ll walk you through the Last Distro Standing Challenge, a simple method designed to help you systematically test Linux distros head-to-head until only one remains: your new primary Linux distribution. Using a multi-boot USB flash drive powered by Ventoy, you can boot into multiple Linux distros without ever touching your main system. No risk, no commitment \u2014 just pure distro testing the smart way.\n\nBut even if you can't, this video explains why Distro Hopping isn't so bad \u279c https://linux.video/distro-hopper\n\n*\ud83d\udcd6 Switch to Linux with my latest book!*\nLinux is one of the best decisions you can make for your computer \u2014 but knowing where to start is the hard part. This guide walks you through everything: choosing a distribution, installing it, and using it confidently every day. It'll be released very soon!\n\ud83d\udccc *Join the",
+        "id": 5558487,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=QkAbN8HoAEQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 997,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxQKHvKbmSzGMvUrVtJYnUA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/QkAbN8HoAEQ/hqdefault.jpg",
+        "title": "The Last Distro Standing Challenge: Find Your Perfect Linux Distro!",
+        "vote": 0
+    }
+]

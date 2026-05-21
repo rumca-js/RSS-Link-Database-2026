@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Christian Romero",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-20T15:16:28.690669+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-20T15:03:33+00:00",
+        "description": "<div class=\"field field--name-body field--type-text-with-summary field--label-hidden\"><div class=\"field__items\"><div class=\"field__item even\"><p>When it comes to keeping our texts, chats, and other digital messages safe from prying eyes, we have a powerful tool: end-to-end encryption. Used correctly, end-to-end encryption turns our conversations online into secret messages that can only be decoded by their intended recipients.\u00a0In our <a href=\"https://eff.org/effector/38/10\">latest EFFector newsletter</a>, we're covering\u00a0new developments in this tool, and how you can use it to prevent tech companies, governments, and other eavesdroppers from listening in.</p>\n<p class=\"take-action\"><a href=\"https://www.eff.org/effector/\">JOIN OUR NEWSLETTER</a></p>\n<p><span>For over 35 years,\u00a0<a href=\"https://eff.org/effector\">EFFector</a>\u00a0has been your guide to understanding the intersection of technology, civil liberties, and the law. This\u00a0latest issue covers the shaky\u00a0science\u00a0backing <a href=\"https:",
+        "id": 5557337,
+        "language": "en",
+        "link": "https://www.eff.org/deeplinks/2026/05/encrypted-apple-android-texts-effector-3810",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 101,
+        "source_url": "https://www.eff.org/rss/updates.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.eff.org/sites/all/modules/custom/mytube/play.png",
+        "title": "\ud83d\udd12 A Win for Encrypted Messaging | EFFector 38.10",
+        "vote": 0
+    }
+]

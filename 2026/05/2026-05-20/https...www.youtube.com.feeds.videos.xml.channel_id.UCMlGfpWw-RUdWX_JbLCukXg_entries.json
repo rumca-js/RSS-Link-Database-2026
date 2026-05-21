@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-20T15:35:44.040301+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-20T15:02:10+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nLightning Talk: Lambdas, Ranges and trivially_copyable: Why This Matters for Parallel Algorithms - Ruslan Arutyunyan - CppCon 2025\n---\n\nThis talk is going to explore the trivial copyability of the ranges (based on `transform_view`) in combination with lambdas and explain why it matters for Parallel Algorithms.\n\nWe are going to look at the problems, possible workarounds and a potential solution that I have in mind.\n---\n\nWork at Hudson River Trading (HRT): https://tinyurl.com/safxfctf\n---\n\nRuslan Arutyunyan\n \nRuslan is a Senior Middleware Development Engineer specializing in parallel and threading runtimes. He joined Intel in 2017 and has experience in the autonomous driving domain, where he led the development of two libraries. Currently, Ruslan is the lead developer of oneAPI DPC++ library (oneDPL) while also contributing to other Intel products, including oneAPI Threading Building Blocks (oneTBB). He is an active member of the C++ Standard Committee (WG21), f",
+        "id": 5557533,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=9bq1gEw6OzY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/9bq1gEw6OzY/hqdefault.jpg",
+        "title": "Lambdas, Ranges and trivially_copyable: Why This Matters for Parallel Algorithms - Ruslan Arutyunyan",
+        "vote": 0
+    }
+]

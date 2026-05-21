@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-20T22:49:15.432017+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-20T17:30:21+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/hNFAQzrjNEs\" width=\"480\" alt=\"thumbnail\" title=\"Minecraft Is A Linux Wayland Compositor??\" /></p>I am not joking at all, someone decided to make a Wayland compositor for Minecraft, and it works way better than I would have ever expected it to work, it is mostly a full featured compositor with a few minor caveats.<br /><br />==========Support The Channel==========<br />\u25ba Patreon: <a href=\"https://brodierobertson.xyz/patreon\">https://brodierobertson.xyz/patreon</a><br />\u25ba Paypal: <a href=\"https://brodierobertson.xyz/paypal\">https://brodierobertson.xyz/paypal</a><br />\u25ba Liberapay: <a href=\"https://brodierobertson.xyz/liberapay\">https://brodierobertson.xyz/liberapay</a><br />\u25ba Amazon USA: <a href=\"https://brodierobertson.xyz/amazonusa\">https://brodierobertson.xyz/amazonusa</a><br /><br />==========Resources==========<br />Wayland Craft Repo: <a href=\"https://github.com/EVV1E/waylandcraft\">https://github.com/EVV1E/waylandcraft</a><br />Git For Minec",
+        "id": 5561219,
+        "language": "en",
+        "link": "https://odysee.com/minecraft-is-a-linux-wayland-compositor:d5e5d7cbff5ea6f559a736e92004b54dec2091db",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/hNFAQzrjNEs",
+        "title": "Minecraft Is A Linux Wayland Compositor??",
+        "vote": 0
+    }
+]

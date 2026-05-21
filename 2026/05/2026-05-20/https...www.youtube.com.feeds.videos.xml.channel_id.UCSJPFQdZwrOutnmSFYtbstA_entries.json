@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Critical Drinker",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-20T16:15:41.791924+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-20T16:01:29+00:00",
+        "description": "People have been requesting this one forever, so here it is. Perhaps the saddest and most undeserved Crash And Burns in this series, let us tell the story of Will Smith.",
+        "id": 5557893,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=fhRHKAcH1Q8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 334,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSJPFQdZwrOutnmSFYtbstA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/fhRHKAcH1Q8/hqdefault.jpg",
+        "title": "Crash And Burn - The Will Smith Story",
+        "vote": 0
+    }
+]

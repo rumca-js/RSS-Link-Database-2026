@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "sekurak",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-20T07:04:54.291418+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-20T06:50:48+00:00",
+        "description": "<p>W zasadzie wszystko wiecie ju\u017c z tytu\u0142u. GitHub informuje o trwaj\u0105cym incydencie dotykaj\u0105cym ich wielu wewn\u0119trznych repozytori\u00f3w. Na razie wiemy tyle: Jeden z programist\u00f3w GitHuba zainstalowa\u0142 przypadkiem zainfekowane rozszerzenie do VS Code. Atakuj\u0105cy wykorzystali ten dost\u0119p i zacz\u0119li buszowa\u0107 po wewn\u0119trznych repo GitHuba GitHub w og\u0142oszonym w\u0142a\u015bnie alercie, zaznacza \u017ce...</p>\n<p>Artyku\u0142 <a href=\"https://sekurak.pl/wlamanie-do-githuba-zainfekowane-rozszerzenie-do-vs-code-i-dostep-do-3800-wewnetrznych-repozytoriow/\">W\u0142amanie do GitHuba. Zainfekowane rozszerzenie do VS Code i dost\u0119p do ~3800 wewn\u0119trznych repozytori\u00f3w</a> pochodzi z serwisu <a href=\"https://sekurak.pl\">Sekurak</a>.</p>",
+        "id": 5553731,
+        "language": "pl-PL",
+        "link": "https://sekurak.pl/wlamanie-do-githuba-zainfekowane-rozszerzenie-do-vs-code-i-dostep-do-3800-wewnetrznych-repozytoriow",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 300,
+        "source_url": "https://sekurak.pl/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "W\u0142amanie do GitHuba. Zainfekowane rozszerzenie do VS Code i dost\u0119p do ~3800 wewn\u0119trznych repozytori\u00f3w",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Robin Dua",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-20T00:19:12.216637+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-20T00:01:00+00:00",
+        "description": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/8cTcvsog6yGaXy5.max-600x600.format-webp.webp\">Running Guide agent is an AI agent that provides real-time audio navigation and obstacle detection to help BLV athletes run independently.",
+        "id": 5551916,
+        "language": "en-us",
+        "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/running-guide-agent",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 1018,
+        "source_url": "https://blog.google/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/8cTcvsog6yGaXy5.max-600x600.format-webp.webp",
+        "title": "Running Guide agent: A step towards running unbounded",
+        "vote": 0
+    }
+]

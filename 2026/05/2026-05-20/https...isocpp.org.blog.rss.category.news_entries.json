@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Blog Staff",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-20T23:13:36.188186+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-20T22:51:47+00:00",
+        "description": "<p>\n\tC++20 modules have been in the standard for more than 5 years already. They promise to deliver a big change to how we write C++, but their adoption hasn&#39;t been as widespread as one would have expected. This talk is a deep dive into the practical aspects of C++20 modules, exploring the reality of the ecosystem as it is today.</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://www.youtube.com/watch?v=hD9JHkt7e2Y\">The road to &#39;import boost&#39;: a library developer&#39;s journey into C++20 modules</a></h3>\n\t<p>\n\t\tRub&eacute;n P&eacute;rez Hidalgo</p>\n</blockquote>\n<p>\n\tWatch now:</p>\n<blockquote>\n\t<p>\n\t\t<iframe allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"\" frameborder=\"0\" height=\"315\" referrerpolicy=\"strict-origin-when-cross-origin\" src=\"https://www.youtube.com/embed/hD9JHkt7e2Y?si=ZNzgZD2L1f4Hl4be\" title=\"YouTube video player\" width=\"560\"></iframe></p>\n</blockquote>",
+        "id": 5561436,
+        "language": "en",
+        "link": "https://isocpp.org//blog/2026/05/the-road-to-import-boost-a-library-developers-journey-into-cpp20-modules-ru",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "The road to &apos;import boost&apos;: a library developer's journey into C++20 modules -- Rub\u00e9n P\u00e9rez Hidalgo",
+        "vote": 0
+    }
+]

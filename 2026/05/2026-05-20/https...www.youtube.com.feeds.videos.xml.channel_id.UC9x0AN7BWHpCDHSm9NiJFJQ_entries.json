@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NetworkChuck",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-20T17:03:02.918572+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-20T16:20:21+00:00",
+        "description": "\ud83d\ude80 Spin up your own Hermes agent on a Hostinger VPS: https://hostinger.com/networkchuckhermes\nUse code NETWORKCHUCK at checkout for a discount on your server.\n\nHermes is the open-source AI agent from Nous Research that actually grows with you \u2014 and after a month of daily use, I'm switching to it from OpenClaw. In this video, I install Hermes on a $5 cloud server, turn it into an IT agent named Ron Weasley, and walk through the 5 reasons I made the switch: the vibe, the memory, the team behind it, self-improving skills, and the fact that it just doesn't break.\n\nIn this video, you'll learn how to install Hermes on a Hostinger VPS, connect it to your phone with Telegram, pick your AI model (use your existing ChatGPT or Grok subscription), give your agent persistent memory, and watch it write its own skills while it works. Whether you're an AI enthusiast drowning in agent options or a homelabber who wants a self-hosted assistant, this takes you from a blank $5 server to your own Hermes age",
+        "id": 5558474,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=QQEgIo4Juxg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 565,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9x0AN7BWHpCDHSm9NiJFJQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/QQEgIo4Juxg/hqdefault.jpg",
+        "title": "I'm switching to Hermes (goodbye OpenClaw!!)",
+        "vote": 0
+    }
+]

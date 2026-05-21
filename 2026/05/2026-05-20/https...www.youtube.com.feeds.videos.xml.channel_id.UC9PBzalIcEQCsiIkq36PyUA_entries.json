@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Digital Foundry",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-20T16:05:16.257011+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-20T15:03:44+00:00",
+        "description": "Video sponsored by Io Interactive. As we draw closer to release date of the highly anticipated 007 First Light, developer Io Interactive brought together key members of the game's tech team to answer a wide range of questions from Alex Battaglia. Topics covered include 007 First Light's 60fps target, the new lighting systems added to the game, new effects and AI - and much, much more. Io Interactive's Glacier Engine has always impressed us and here's where you find out just how much work has gone into improving it for the new Bond game.\n\n00:00:00 Introduction\n00:00:49 Interview Introduction\n00:01:34 Does the 60 FPS target of Hitman remain for 007?\n00:03:50 Which Glacier Engine features were carried over and which were added?\n00:05:19 What are the differences in Global Illumination?\n00:10:14 What about real-time shadows?\n00:11:24 How have the AI Crowds changed for 007: First Light?\n00:13:38 How is the engine's editing environment?\n00:16:24 How does Glacier keep the performance up while",
+        "id": 5557786,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=m0SJ9i9RtRg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 696,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9PBzalIcEQCsiIkq36PyUA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/m0SJ9i9RtRg/hqdefault.jpg",
+        "title": "Inside 007 First Light - A Deep Dive Into The Evolved Glacier Engine [Sponsored]",
+        "vote": 0
+    }
+]

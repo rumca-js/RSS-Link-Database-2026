@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Muhammad Zulhusni",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-20T09:06:21.541779+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-20T09:00:00+00:00",
+        "description": "<p>Google used I/O 2026 to add new Gemini-based developer tools across AI Studio and the Gemini API. The updates include native Android app generation and managed agents that run in isolated Linux environments. Google AI Studio now includes tools for app creation, previewing, and testing. The Managed Agents feature can run agents that use tools, [&#8230;]</p>\n<p>The post <a href=\"https://www.developer-tech.com/news/google-gemini-developer-tools-android-managed-agents/\">Google adds Android app generation and Managed Agents to Gemini developer tools</a> appeared first on <a href=\"https://www.developer-tech.com\">Developer Tech News</a>.</p>",
+        "id": 5554427,
+        "language": "en-GB",
+        "link": "https://www.developer-tech.com/news/google-gemini-developer-tools-android-managed-agents",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 92,
+        "source_url": "https://www.developer-tech.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Google adds Android app generation and Managed Agents to Gemini developer tools",
+        "vote": 0
+    }
+]

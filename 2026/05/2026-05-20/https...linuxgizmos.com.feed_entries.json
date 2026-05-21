@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-20T03:50:36.140400+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-20T03:24:34+00:00",
+        "description": "Hardkernel has introduced the ODROID-H5, a new x86 single-board computer based on Intel&#8217;s Core i3-N300 processor. The board updates the ODROID H-series with onboard 10GbE networking, four M.2 expansion slots, DDR5 memory support, and a revised HSIO configuration intended for storage, networking, and accelerator expansion. The new model succeeds the ODROID-H4 family and shifts the [&#8230;]",
+        "id": 5552893,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/odroid-h5-is-a-low-power-x86-sbc-with-10gbe-and-four-m-2-slots",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "ODROID-H5 is a low-power x86 SBC with 10GbE and four M.2 slots",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-20T12:27:25.192239+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-20T10:01:10+00:00",
+        "description": "Explore the podcast \u2192https://ibm.biz/~5DPJzMe1U\n\nBetween OpenAI Daybreak, Microsoft MDASH and Mistral\u2019s Mythos competitor, it\u2019s been a big week for AI-powered vulnerability management. But are these tools all they\u2019re cracked up to be?\n\nThis week on Security Intelligence, Nick Bradley, Diego Matos Martins and Nikki Robinson discuss three bold moves in the AI vulnerability scanner space: OpenAI unveiled Daybreak, its frontier AI for cyber defense program, Microsoft revealed its multi-agent vulnerability hunting system, MDASH, and French AI startup Mistral is reportedly building its own cybersecurity-focused model to fill the gap left by the lack of access to Anthropic\u2019s Mythos in Europe.\n\nSpeaking of Mythos: curl developer Daniel Stenberg got to try it himself (sort of), and his verdict was measured, to put it kindly. But despite this\u2014and the fact that AI slop reports drove curl to shut down bug bounties earlier this year\u2014Stenberg is far from anti-AI. We dig into why.\n\nFinally: TeamPCP ",
+        "id": 5555855,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=u2MFautDjuM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/u2MFautDjuM/hqdefault.jpg",
+        "title": "OpenAI\u2019s Daybreak and Mistral\u2019s Mythos competitor",
+        "vote": 0
+    }
+]

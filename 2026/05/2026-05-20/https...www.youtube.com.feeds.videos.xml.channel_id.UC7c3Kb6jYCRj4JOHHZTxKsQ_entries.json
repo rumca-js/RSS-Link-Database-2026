@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "GitHub",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-20T19:13:02.678027+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-20T18:00:11+00:00",
+        "description": "Live from GitHub HQ in San Francisco. The ClawFather Peter Steinberger and OpenClaw Foundation cofounder Dave Morin go fireside at 6 PM PT. Real talk about agents, the OpenClaw stack, and what comes next. In SF? Register: https://luma.com/OpenClaw-GitHub\n\nAgenda (PT)\n6:00  Fireside: Peter Steinberger & Dave Morin\n6:35  Panel: OpenClaw maintainers\n7:15  Lightning Talks\n8:00  Happy Hour",
+        "id": 5559612,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=VZ9LgdU7_2k",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 1005,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7c3Kb6jYCRj4JOHHZTxKsQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/VZ9LgdU7_2k/hqdefault.jpg",
+        "title": "LIVE: Peter Steinberger & Dave Morin | OpenClaw Fireside @ GitHub HQ \ud83e\udd9e",
+        "vote": 0
+    }
+]
