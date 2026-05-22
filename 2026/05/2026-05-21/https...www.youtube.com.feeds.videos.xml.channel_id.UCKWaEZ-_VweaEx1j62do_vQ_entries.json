@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-21T12:35:52.629759+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-21T11:00:27+00:00",
+        "description": "Learn more about AI Models here \u2192 https://ibm.biz/~Yk0OZilIN\n\nLong context and CAG are two powerful ways to give AI access to external knowledge. Martin Keen explains how long context, CAG, KV cache, and prompt caching let LLMs process documents faster and more efficiently \ud83e\udd16. Learn when each method is best for real-world AI workloads.\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/~0Z28hPp8U\n\n#ai #llm #aimodel #cag",
+        "id": 5565608,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=B_RrXwDupIg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/B_RrXwDupIg/hqdefault.jpg",
+        "title": "CAG vs Long Context: How AI Models Use and Remember Information",
+        "vote": 0
+    }
+]

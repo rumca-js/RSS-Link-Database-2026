@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mental Outlaw",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-21T20:24:47.794927+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-21T19:01:08+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/vel8YW7eCzE\" width=\"480\" alt=\"thumbnail\" title=\"RCE Bug Found in NGINX (With AI Tools)\" /></p>If you thought kernel bugs that allowed privilege escalations weren&#039;t bad enough a security company called Depthfirst managed to discover several vulnerabilities, including a remote code execution bug in NGINX that has existed in the programs code base for over 18 years with their AI vulnerability scanner.<br /><br />My merch is available at<br /><a href=\"https://based.win/\">https://based.win/</a><br /><br />Subscribe to me on Odysee.com<br /><a href=\"https://odysee.com/@AlphaNerd:8\">https://odysee.com/@AlphaNerd:8</a><br /><br />\u20bf\ud83d\udcb0\ud83d\udcb5\ud83d\udcb2Help Support the Channel by Donating Crypto\ud83d\udcb2\ud83d\udcb5\ud83d\udcb0\u20bf<br /><br />Monero<br />45F2bNHVcRzXVBsvZ5giyvKGAgm6LFhMsjUUVPTEtdgJJ5SNyxzSNUmFSBR5qCCWLpjiUjYMkmZoX9b3cChNjvxR7kvh436<br /><br />Bitcoin<br />bc1qdc32p8035ztyvtm8t97gdcyhc26jg6cte9qc8n<br /><br />Ethereum<br />0xeA4DA3F9BAb091Eb86921CA6E41712438f4E5079<br /><br />Liteco",
+        "id": 5570067,
+        "language": "en",
+        "link": "https://odysee.com/rce-bug-found-in-nginx-%28with-ai-tools%29:e52fd708e01374566f9f0feaa9a0f930d30d49ad",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 513,
+        "source_url": "https://odysee.com/$/rss/@AlphaNerd:8",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/vel8YW7eCzE",
+        "title": "RCE Bug Found in NGINX (With AI Tools)",
+        "vote": 0
+    }
+]

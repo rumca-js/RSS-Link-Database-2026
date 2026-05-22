@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Shira Ovide, Rachel Lerman",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-21T09:40:50.996232+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-21T09:00:00+00:00",
+        "description": "Despite high-profile cuts by companies including Meta and UPS, layoffs are about as low as they\u2019ve been in years.",
+        "id": 5564308,
+        "language": "en-US",
+        "link": "https://www.washingtonpost.com/technology/2026/05/21/layoffs-might-feel-like-theyre-soaring-they-not",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 364,
+        "source_url": "https://feeds.washingtonpost.com/rss/business/technology",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "It might feel like layoffs are soaring. They\u2019re not.",
+        "vote": 0
+    }
+]

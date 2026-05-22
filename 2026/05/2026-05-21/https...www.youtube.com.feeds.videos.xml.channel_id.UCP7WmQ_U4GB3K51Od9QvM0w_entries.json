@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "David Bombal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-21T20:51:08.861308+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-21T20:00:14+00:00",
+        "description": "GitHub just confirmed a massive breach affecting 3,800 repos after an employee installed a malicious VS Code extension. Here is why you must be careful with your browser and IDE plugins.\n\n#github #vscode #extensions",
+        "id": 5570249,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/BxFvt9W6HGk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 984,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP7WmQ_U4GB3K51Od9QvM0w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/BxFvt9W6HGk/hqdefault.jpg",
+        "title": "VS Code WARNING: 3800 repos hacked",
+        "vote": 0
+    }
+]

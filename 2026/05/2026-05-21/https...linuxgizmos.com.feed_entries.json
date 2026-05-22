@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-21T13:34:56.366802+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-21T13:16:54+00:00",
+        "description": "The NULLHOP MeshToad V3 is a Meshtastic-compatible LoRa radio module for Linux systems that allows computers to operate as Meshtastic nodes using meshtasticd. The device connects over USB and supports platforms ranging from Raspberry Pi boards to mini PCs and other Linux hosts. The radio subsystem is based on the EBYTE E22P-915M30S module integrating the [&#8230;]",
+        "id": 5566031,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/meshtoad-v3-turns-linux-systems-into-meshtastic-nodes",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "MeshToad V3 turns Linux systems into Meshtastic nodes",
+        "vote": 0
+    }
+]

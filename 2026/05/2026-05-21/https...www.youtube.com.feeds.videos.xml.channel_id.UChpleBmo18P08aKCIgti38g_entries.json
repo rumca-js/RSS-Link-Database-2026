@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Matt Wolfe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-21T15:18:06.487221+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-21T12:45:38+00:00",
+        "description": "Notion just quietly dropped a MASSIVE update for developers.\n\nThe new Notion Developer Platform is officially here, and they just rolled out the ability to:\n\n- Control and build with Notion directly from your terminal.\n- Run your code directly on Notion\u2019s infrastructure.\n- Deploy real-time triggers for your automations.\n- Allow external AI agents like OpenClaw or Hermes to build in Notion for you\n\nSend this to a Notion power-user so they know about this update!\n\n#AI #productivityhack #ainews #aiagents",
+        "id": 5567063,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/E6kQi65PKNc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 933,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChpleBmo18P08aKCIgti38g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/E6kQi65PKNc/hqdefault.jpg",
+        "title": "Notion Drops Massive Update For Developers",
+        "vote": 0
+    }
+]
