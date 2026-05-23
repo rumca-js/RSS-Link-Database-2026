@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Huawei",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-22T09:26:46.034484+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-22T08:56:51+00:00",
+        "description": "How do you modernize core IT without disrupting live operations? Telecom Argentina's Guillermo Loyola calls it \"changing a plane engine mid-flight.\" In this #TransformTalks interview with #HuaweiCloud's Mark Chen, he explains why a hybrid multicloud approach\u2014balancing private infrastructure with public cloud flexibility\u2014is the smart bet for AI-powered services and regional growth.\n\nWatch to learn their insights in the latest #Huawei Transform Talks: https://bit.ly/4uqcUcy #ThisIsHuawei",
+        "id": 5574140,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=_3PdpTA2lOA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 875,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtjV1_XU6gvPYyreaFScxBQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/_3PdpTA2lOA/hqdefault.jpg",
+        "title": "Why Telecom Argentina is Betting on Hybrid Multicloud and AI",
+        "vote": 0
+    }
+]

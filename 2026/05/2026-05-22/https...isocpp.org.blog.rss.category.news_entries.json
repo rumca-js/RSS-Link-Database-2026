@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Blog Staff",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-23T00:16:30.898690+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-22T22:54:40+00:00",
+        "description": "<p>\n\t<img alt=\"logo.png\" src=\"https://isocpp.org/files/img/logo.png\" style=\"width: 225px; margin: 10px; float: right;\" />Mixing your units can be disastrous. Wu Yongwei takes a quick look at C++ unit libraries that can help keep everything in order.</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://accu.org/journals/overload/34/192/wu/\">Let the Compiler Check Your Units</a></h3>\n\t<p>\n\t\tby Wu Yongwei</p>\n</blockquote>\n<p>\n\tFrom the article:</p>\n<blockquote>\n\t<p>\n\t\tI recently came across a C++ standard proposal P3045 [<a href=\"https://accu.org/journals/overload/34/192/wu/#_idTextAnchor011\">P3045R7</a>], which aims to add physical units to C++. Curious, I looked into the existing unit libraries and went down quite a rabbit hole.</p>\n\t<p>\n\t\t<strong>Type safety and user-defined literals</strong></p>\n\t<p>\n\t\tBefore exploring these libraries, I was already somewhat familiar with the idea of &lsquo;type safety&rsquo;. I was also aware that user-defined literals (UDLs) [<a href=\"https://accu.org/journa",
+        "id": 5580705,
+        "language": "en",
+        "link": "https://isocpp.org//blog/2026/05/let-the-compiler-check-your-units-wu-yongwei",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://isocpp.org/files/img/logo.png",
+        "title": "Let the Compiler Check Your Units -- Wu Yongwei",
+        "vote": 0
+    }
+]

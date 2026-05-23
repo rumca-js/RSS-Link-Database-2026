@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unity",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-22T17:13:27.283770+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-22T17:00:29+00:00",
+        "description": "In this video, Fateless co-founders and co-CEOs Simon Lockerby and Hisham Saleh share the critical optimization strategies they used to manage a roster of over 200 heroes and high-fidelity environments containing up to a million polygons in Godforge. They explain how working in Unity helped them successfully reduce memory usage from 4 GB to 1.3 GB and achieve a 57% increase in frame rate. \n \n[00:00] Intro\n[00:36] Scaling performance over time\n[02:24] Optimizing asset loading performance\n[03:24] Improving memory and frame rate\n\nJoin the waitlist: https://www.fateless.gg/ \n\nExplore more Made with Unity games: https://on.unity.com/MWU-Steam\n\n_______________\n\nStay connected with us: \nGames Twitter/X: https://x.com/unitygames\nInstagram: https://www.instagram.com/unitytechnologies/\nDiscord: https://discord.com/invite/unity\nDiscussions: https://discussions.unity.com/\nLinkedIn: https://www.linkedin.com/company/unity/\nFacebook: https://www.facebook.com/unity3d.in/\nBluesky: https://bsky.app/pro",
+        "id": 5577852,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=DFH5UAcIAjw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 683,
+        "source_url": "https://youtube.com/channel/UCG08EqOAXJk_YXPDsAvReSg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/DFH5UAcIAjw/hqdefault.jpg",
+        "title": "Optimizing Godforge: 200+ heroes, million-polygon worlds",
+        "vote": 0
+    }
+]

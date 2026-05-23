@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-22T22:36:26.811018+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-22T15:15:00+00:00",
+        "description": "<p>On Thursday, three of the <a href=\"https://investors.raspberrypi.com/leadership\">lead Raspberry Pi engineers</a> hosted an <a href=\"https://www.reddit.com/r/engineering/comments/1tcyfvk/hello_rengineering_were_eben_upton_ceo_james/\">AMA on the r/engineering subreddit</a>.</p>\n<figure class=\"insert-image\"><img src=\"https://www.jeffgeerling.com/blog/2026/news-about-raspberry-pi-6-and-microcontroller-development/pi-reddit-ama.jpg\"\n alt=\"Raspberry Pi Reddit AMA with Eben Upton, Gordon Hollingworth, and James Adams\" width=\"500\" height=\"auto\">\n</figure>\n\n<h2 id=\"raspberry-pi-6\">Raspberry Pi 6</h2>\n<p>One of the most interesting tidbits was on the Pi 6.</p>\n<p>Looking back at previous launches:</p>\n<ul>\n<li>2012: Raspberry Pi</li>\n<li>2015: Raspberry Pi 2 (+3 years)</li>\n<li>2016: Raspberry Pi 3 (+1 year)</li>\n<li>2019: Raspberry Pi 4 (+3 years)</li>\n<li>2023: Raspberry Pi 5 (+4 years)</li>\n</ul>\n<p>Following that cycle, one would expect a Pi 6 3-4 years after the Pi 5, which would put it",
+        "id": 5580231,
+        "language": "en",
+        "link": "https://www.jeffgeerling.com/blog/2026/news-about-raspberry-pi-6-and-microcontroller-development",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 162,
+        "source_url": "https://www.jeffgeerling.com/blog.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.jeffgeerling.com/blog/2026/news-about-raspberry-pi-6-and-microcontroller-development/pi-reddit-ama.jpg",
+        "title": "News about Raspberry Pi 6 and Microcontroller Development",
+        "vote": 0
+    }
+]

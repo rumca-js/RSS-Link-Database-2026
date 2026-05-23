@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CodingEntrepreneurs",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-22T18:49:24.022509+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-22T17:59:04+00:00",
+        "description": "Give your agents a dedicated environment with Docker Sandboxes. This environment is a \"microVM\" which means you can treat it as a disposable mini computer that runs on your normal computer or server.\n\nBut wait, how is this different than Docker Containers? Each sandbox gets its own Docker daemon. In other words, sandboxes can _build_ container images for you (container images don't usually pull this kind of inception-level skill). Sandboxes are still based in containers but work more like a virtual machine offering better isolation and different networking policies.  \n\nThis means your AI agents can build containers, install packages, and modify files without touching your host system.\n\nAnd yup, you can use Claude Code with your subscription. Codex too. And even spin up Ollama for full open-source models. Sandboxes are fully customizable just like containers. \n\nIn this series, I'll show you how to:\n\n- Install & Run Docker Sandboxes\n- Setup Claude Code on Docker Sandboxes\n- Setup Codex ",
+        "id": 5578739,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=b7ThC0eE29E",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 74,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCWEHue8kksIaktO8KTTN_zg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/b7ThC0eE29E/hqdefault.jpg",
+        "title": "Skip Permissions. Run Claude, Codex, Open Source LLMs in the new Docker Sandboxes (sbx).",
+        "vote": 0
+    }
+]

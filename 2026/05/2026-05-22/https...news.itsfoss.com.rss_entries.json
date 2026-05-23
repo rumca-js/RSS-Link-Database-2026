@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Pulkit Chandak",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-22T05:55:50.122176+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-22T05:31:48+00:00",
+        "description": "More major vendors supporting LVFS is a good sign for the desktop Linux community.",
+        "id": 5573003,
+        "language": "en-US",
+        "link": "https://itsfoss.com/news/hp-supports-lvfs",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 156,
+        "source_url": "https://news.itsfoss.com/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://itsfoss.com/content/images/2026/05/hp-sponsors-lvfs.webp",
+        "title": "Good News! After Lenovo and Dell, Now HP Pledges to Support Linux Vendor Firmware Service",
+        "vote": 0
+    }
+]

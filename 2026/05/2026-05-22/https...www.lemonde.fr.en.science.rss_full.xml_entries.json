@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-22T19:19:12.607293+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-22T19:19:10.817349+00:00",
+        "description": "Born out of the American tech sector, Preventive and Origin Genomics aim to advance the modification of embryo genomes. This highly controversial and largely banned technique has raised fears of a resurgence of a form of eugenics.",
+        "id": 5578913,
+        "language": "en-US",
+        "link": "https://www.lemonde.fr/en/economy/article/2026/05/22/the-start-ups-dreaming-of-creating-genetically-modified-babies_6753740_19.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 190,
+        "source_url": "https://www.lemonde.fr/en/science/rss_full.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.lemde.fr/2026/04/24/2422/0/3200/1600/644/322/60/0/a326c9b_upload-1-rxamjejl51yi-conception-0280.jpg",
+        "title": "The start-ups dreaming of creating genetically modified babies",
+        "vote": 0
+    }
+]

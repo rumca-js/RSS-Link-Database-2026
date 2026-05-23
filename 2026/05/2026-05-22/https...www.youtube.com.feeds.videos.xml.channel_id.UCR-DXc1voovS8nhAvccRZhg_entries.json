@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeff Geerling",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-22T22:58:58.233488+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-22T22:16:18+00:00",
+        "description": "A few things we learned about the Pi 6 and potential for a Zero 3 W.\n\nA link to the AMA: https://www.reddit.com/r/engineering/comments/1tcyfvk/hello_rengineering_were_eben_upton_ceo_james/\n\nSupport me on Patreon: https://www.patreon.com/geerlingguy\nSponsor me on GitHub: https://github.com/sponsors/geerlingguy\nMerch: https://www.redshirtjeff.com\n2nd Channel: https://www.youtube.com/@GeerlingEngineering\n3rd Channel: https://www.youtube.com/@Level2Jeff\n\nContents:\n\n00:00 - Raspberry Pi 6\n01:24 - Pi Zero 2W and Zero 3W\n02:38 - Microcontrollers\n03:23 - Software and support",
+        "id": 5580333,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=ODUbrIuxPtc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 161,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR-DXc1voovS8nhAvccRZhg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/ODUbrIuxPtc/hqdefault.jpg",
+        "title": "Raspberry Pi 6 update: You're not gonna like this...",
+        "vote": 0
+    }
+]

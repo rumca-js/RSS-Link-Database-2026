@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Critical Drinker",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-22T17:23:44.343465+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-22T17:00:09+00:00",
+        "description": "So the Mandalorian and Grogu is out now. The first Star Wars movie in seven years, since Rise of Skywalker. Was it worth the wait? Well...",
+        "id": 5577983,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=MBnnauqM4wU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 334,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSJPFQdZwrOutnmSFYtbstA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/MBnnauqM4wU/hqdefault.jpg",
+        "title": "Mandaborian And Goku - This Movie Is Utterly Pointless",
+        "vote": 0
+    }
+]

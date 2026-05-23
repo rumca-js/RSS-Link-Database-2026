@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-22T12:45:21.852397+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-22T10:00:03+00:00",
+        "description": "Visit Mixture of Experts podcast page to get more AI content \u2192 https://ibm.biz/~huHg7Rfm7\n\nAI isn\u2019t just a tool anymore\u2014it\u2019s forcing us to rethink ownership, trust and creativity. This week on Mixture of Experts, the team explores a wave of stories highlighting both the promise and the perils of AI adoption. We start with a surprising shift in public sentiment, as younger generations question AI\u2019s impact on their futures\u2014raising questions about control, opportunity and where humans fit in. Next, we dig into new Microsoft research showing that even top-tier models can corrupt data in complex workflows, and what that reveals about how (and when) to trust AI systems. \n\nThen, we explore Anthropic\u2019s fix for Claude\u2019s strange \u201cblackmail\u201d behavior, and why better data\u2014not just better models\u2014may be the key to safer AI. Finally, we debate whether AI may have quietly crossed a cultural milestone by helping win a literary prize\u2014or whether humans are simply starting to sound more like machines. \n\n",
+        "id": 5575553,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=1h6e5MFg9I0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/1h6e5MFg9I0/hqdefault.jpg",
+        "title": "AI at college graduations and why Claude blackmails",
+        "vote": 0
+    }
+]

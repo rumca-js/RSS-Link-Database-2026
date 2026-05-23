@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Lunduke Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-22T19:56:06.596789+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-22T19:04:59+00:00",
+        "description": "Usage of AI (Claude, Codex, etc.) is exploding in the Linux world. At the current rate, the Linux Kernel will be predominantly developed using AI sometime this year.\n\n50% Off Yearly, & Massively Discounted Lifetime Subs Through May 31:\nhttps://lunduke.substack.com/p/50-off-yearly-and-massively-discounted\n\nMore from The Lunduke Journal:\nhttps://lunduke.com/",
+        "id": 5579255,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=QWdHFqh6NIc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 616,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkK9UDm_ZNrq_rIXCz3xCGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/QWdHFqh6NIc/hqdefault.jpg",
+        "title": "Linux Kernel is Now Vibe Coded",
+        "vote": 0
+    }
+]
