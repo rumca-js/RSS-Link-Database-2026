@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Matt Wolfe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-23T21:03:55.008799+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-23T20:38:57+00:00",
+        "description": "I had the opportunity to attend Google I/O this past week and speak directly with the Google DeepMind team about their latest releases. There were a bajillion announcements, so here's only what matters most:\n\n\u25aa\ufe0f Gemini 3.5 Flash: it's the first release in the new Gemini 3.5 family of models. It is designed to be a faster, more cost-effective option and is available now, with the full-fledged Gemini 3.5 Pro scheduled to launch later.\n\n\u25aa\ufe0f Gemini Omni: a new multimodal model focused on content editing and creation (they're calling it the \"Nano Banana of video\"). Right now it accepts video inputs with audio and image capabilities coming soon. \n\n\u25aa\ufe0f Gemini Spark: Google's version of OpenClaw or Hermes. It's a 24/7 autonomous AI agent, but unlike the open-source options that require local computing power, Spark runs entirely on Google\u2019s servers. \n\nSave this video so you remember to give one or all of these a try!\n\n#GoogleIO #AI #gemini #ainews #aiagents",
+        "id": 5586419,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/fIO7yCTtrng",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 933,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChpleBmo18P08aKCIgti38g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/fIO7yCTtrng/hqdefault.jpg",
+        "title": "The Only Important Announcements From Google I/O",
+        "vote": 0
+    }
+]

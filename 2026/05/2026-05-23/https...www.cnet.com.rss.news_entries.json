@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Meara Isenberg",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-23T14:52:25.658448+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-23T14:00:51+00:00",
+        "description": "The entire first season hits the streaming service on Wednesday.",
+        "id": 5584314,
+        "language": "en",
+        "link": "https://www.cnet.com/tech/services-and-software/nicolas-cages-spider-noir-how-to-watch-the-premiere-on-prime-video",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 58,
+        "source_url": "https://www.cnet.com/rss/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.cnet.com/a/img/resize/6f83673aa77ec465e360f21c52eb743d67e9d951/hub/2026/05/19/d4c3e4a1-0fde-4541-a76e-7161b9c8b38b/spider-noir-s1241120-epsaar-00034rc-f-3000.jpg?auto=webp&width=300",
+        "title": "Nicolas Cage's 'Spider-Noir': How to Watch the Premiere on Prime Video",
+        "vote": 0
+    }
+]

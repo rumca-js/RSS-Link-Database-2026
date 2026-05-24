@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Harrison Smith",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-23T11:34:45.876320+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-23T11:00:00+00:00",
+        "description": "Frank Hayden, who has died at 96, saw sports as a gateway to opportunity for people with special needs.",
+        "id": 5583210,
+        "language": "en-US",
+        "link": "https://www.washingtonpost.com/obituaries/2026/05/23/frank-hayden-who-laid-groundwork-special-olympics-dies-96",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 365,
+        "source_url": "https://feeds.washingtonpost.com/rss/world?itid=lk_inline_manual_36",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Studying sports and disability, he laid the groundwork for the Special Olympics",
+        "vote": 0
+    }
+]

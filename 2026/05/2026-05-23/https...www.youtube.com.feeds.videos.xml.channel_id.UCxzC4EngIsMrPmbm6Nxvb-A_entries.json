@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Scott Manley",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-23T16:12:18.555751+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-23T15:25:06+00:00",
+        "description": "Taking care of your health just got easier \u2013 start here with my sponsor Zocdoc: https://Zocdoc.com/scottmanley \n\nFlight 12 was the debut of Starship V3, powered by Raptor V3 and not to forget launch mount 2. There were a lot of changes informed by previous successes and failures, and... a handful of new successes and failures. There were raptor engine failures on ascent for both the booster and Starship, but the guidance and control systems were able to adapt and climb the spacecraft into its target sub-orbit. \nThe booster flip was supposed to use some different tricks and appears, to my eye, to have gone in the wrong direction, and that might explain why there was a fairly violent engine failure on the booster straight after the flip. The booster ended up continuing downrange and entering the atmosphere faster and harder than before without enough working engines to perform a soft landing.\nBut I think the highlight for me was the new 'Dodger Dogs' which captured images of the starshi",
+        "id": 5584842,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=2kxanBYTAaY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 829,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxzC4EngIsMrPmbm6Nxvb-A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/2kxanBYTAaY/hqdefault.jpg",
+        "title": "Starship Flight 12 - V3 Debuts with Max Power, Fatal Flips, Fast Landings and Exploding Raptors",
+        "vote": 0
+    }
+]

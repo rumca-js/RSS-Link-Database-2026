@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ionut Arghire",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-23T12:13:24.697438+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-23T11:00:00+00:00",
+        "description": "<p>The stealthy vulnerability impacts roughly 88 million domains and can be exploited to bypass DNS filtering and hide command-and-control traffic.</p>\n<p>The post <a href=\"https://www.securityweek.com/underminr-vulnerability-lets-attackers-hide-malicious-connections-behind-trusted-domains/\">\u2018Underminr\u2019 Vulnerability Lets Attackers Hide Malicious Connections Behind Trusted Domains</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+        "id": 5583487,
+        "language": "en-US",
+        "link": "https://www.securityweek.com/underminr-vulnerability-lets-attackers-hide-malicious-connections-behind-trusted-domains",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 299,
+        "source_url": "https://www.securityweek.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "\u2018Underminr\u2019 Vulnerability Lets Attackers Hide Malicious Connections Behind Trusted Domains",
+        "vote": 0
+    }
+]

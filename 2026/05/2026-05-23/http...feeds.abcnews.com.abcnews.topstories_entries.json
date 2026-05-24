@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-23T11:15:49.525408+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-23T05:08:36+00:00",
+        "description": "A 6.0 magnitude earthquake has hit south of Honaunau-Napoopoo, Hawaii, though the Pacific Tsunami Warning Center reports that there are no tsunami threats at this time.",
+        "id": 5583171,
+        "language": "en-US",
+        "link": "https://abcnews.com/US/59-magnitude-earthquake-detected-off-hawaii-coast/story?id=133246693",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 81,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 9,
+        "source_url": "http://feeds.abcnews.com/abcnews/topstories",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://s.abcnews.com/images/General/Breaking-News-banner-abc-ps-181024_hpMain_4x3t_384.jpg",
+        "title": "6.0 magnitude earthquake detected off Hawaii coast",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-23T08:25:06.888492+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-23T08:25:05.390066+00:00",
+        "description": "A new tracker claims to be able to warn of an impending catastrophe \u2013 and it all comes down to the movements of the world\u2019s elites.",
+        "id": 5582380,
+        "language": "en-au",
+        "link": "https://www.news.com.au/travel/travel-updates/billionaire-tracking-system-claims-to-warn-of-impending-apocalypse/news-story/f568aaa877f063d33fe5529883c459f8?from=rss-basic",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 409,
+        "source_url": "https://www.news.com.au/content-feeds/latest-news-travel",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://content.api.news/v3/images/bin/fa8c3e786489ed7fd6e4e7e79bdaf55b?width=320",
+        "title": "Chilling billionaire \u2018apocalypse\u2019 system revealed",
+        "vote": 0
+    }
+]

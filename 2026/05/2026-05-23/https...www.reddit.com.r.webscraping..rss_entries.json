@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/Coding-Doctor-Omar",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-23T10:02:36.842266+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-23T09:48:58+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>I scrape shopify sites using the /products.json endpoint. When it fails, I use regex to find any mention of the public store domain (&lt;STORENAME&gt;.myshopify.com) in the page source of the home page. This method works for almost every shopify site. One problem remains, however: sites with huge catalogs (more than 25k products) do not allow me to scrape everything. Once I reach /products.json?page=101&amp;limit=250, I get this error message:</p> <p><code> {&quot;errors&quot;: &quot;Page * limit exceeded the 25000 limit.&quot;} </code></p> <p>How can I bypass such a nasty limit? I am building a tool that should work for any shopify site, so I want a good solution. Thanks.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Coding-Doctor-Omar\"> /u/Coding-Doctor-Omar </a> <br/> <span><a href=\"https://www.reddit.com/r/webscraping/comments/1tlc2uu/shopify_pagination_limit_bypass/\">[link]</a></span> &#32; <span><a href=\"",
+        "id": 5582795,
+        "language": "en",
+        "link": "https://www.reddit.com/r/webscraping/comments/1tlc2uu/shopify_pagination_limit_bypass",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 467,
+        "source_url": "https://www.reddit.com/r/webscraping/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Shopify Pagination Limit Bypass",
+        "vote": 0
+    }
+]

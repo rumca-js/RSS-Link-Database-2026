@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Experiment",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-23T10:43:34.031459+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-23T09:56:54+00:00",
+        "description": "Secure your passwords and logins with Proton Pass: https://proton.me/pass/TheLinuxEXP\n\nGrab a brand new laptop or desktop running Linux: https://www.tuxedocomputers.com/en#\n\n\ud83d\udc4f SUPPORT THE CHANNEL:\nGet access to:\n- a Daily Linux News show\n- a weekly patroncast for more thoughts\n- your name in the credits\n\nYouTube: https://www.youtube.com/@thelinuxexp/join\nPatreon: https://www.patreon.com/thelinuxexperiment\n\nOr, you can donate whatever you want:\nhttps://paypal.me/thelinuxexp\nLiberapay: https://liberapay.com/TheLinuxExperiment/\n\n\ud83d\udc55 GET TLE MERCH\nSupport the channel AND get cool new gear: https://the-linux-experiment.creator-spring.com/\n\nTimestamps:\n00:00 Intro\n00:42 Sponsor: Proton Pass\n01:55 Torvalds talks about AI reports\n04:25 Torvalds merges guidelines for Linux security and AI reports\n07:04 Wine now runs Adobe Lightroom CC on Linux\n09:34 Vivaldi & Firefox revamp their whole user interface\n13:20 Greg Koah Hartman says Rust could eliminate 80% of CVEs\n15:00 Fedora removes Deepin Deskto",
+        "id": 5583027,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=5SGqX7rgrEo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 349,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5UAwBUum7CPN5buc-_N1Fw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/5SGqX7rgrEo/hqdefault.jpg",
+        "title": "Linux fights back on AI slop, More Adobe on Linux, big browser redesigns - Linux Weekly News",
+        "vote": 0
+    }
+]

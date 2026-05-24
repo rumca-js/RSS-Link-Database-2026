@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Elisa Carollo",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-23T12:45:57.965953+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-23T12:30:27+00:00",
+        "description": "The artist's latest exhibition constructs a desolate, cinematic landscape in which the American Dream dissolves into illusion, only to reemerge via the seductive logic of A.I.",
+        "id": 5583613,
+        "language": "en",
+        "link": "https://observer.com/2026/05/artist-nick-doyle-mirror-mirror-perrotin-ai-american-dream",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 243,
+        "source_url": "http://www.observer.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "title": "Nick Doyle\u2019s \u201cMirror, Mirror\u201d Turns the American Dream Inside Out",
+        "vote": 0
+    }
+]
