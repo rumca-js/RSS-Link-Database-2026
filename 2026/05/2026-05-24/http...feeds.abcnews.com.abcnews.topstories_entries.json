@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-24T11:24:48.886778+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-24T06:58:00+00:00",
+        "description": "A spearfisher has been mauled on the Great Barrier Reef in Australia&rsquo;s second fatal shark attack in just over a week",
+        "id": 5589329,
+        "language": "en-US",
+        "link": "https://abcnews.com/International/wireStory/spearfisher-mauled-great-barrier-reef-australias-fatal-shark-133264225",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 81,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 9,
+        "source_url": "http://feeds.abcnews.com/abcnews/topstories",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://s.abcnews.com/images/International/wirestory_6c339de8223f6c42c10e5024cfaebc87_4x3_384.jpg",
+        "title": "Spearfisher mauled in Australia's second fatal shark attack in a week",
+        "vote": 0
+    }
+]

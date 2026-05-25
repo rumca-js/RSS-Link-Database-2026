@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-24T23:14:37.812700+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-24T22:51:32+00:00",
+        "description": "President Trump said Sunday that he will not \u201crush into a deal\u201d to end the ongoing U.S.-Israeli war with Iran, after senior Republican lawmakers warned it could be a \u201cdisastrous mistake.\u201d It comes a day after the president said that a potential deal was \u201clargely negotiated.\u201d NBC News\u2019 Raf Sanchez reports.",
+        "id": 5593014,
+        "language": "en-US",
+        "link": "https://www.nbcnews.com/video/trump-says-he-won-t-rush-into-deal-to-end-war-with-iran-263878725968",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 224,
+        "source_url": "https://feeds.nbcnews.com/nbcnews/public/world",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_05/1779663087750_wnn_rsa_questions_over_potential_iran_deal_260524_S3_1920x1080-rdhtur.jpg",
+        "title": "Trump says he won't 'rush into' deal to end war with Iran",
+        "vote": 0
+    }
+]

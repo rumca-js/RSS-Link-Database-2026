@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mateusz Chrobok",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-24T17:00:23.440675+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-24T16:00:02+00:00",
+        "description": "\ud83d\udd13\u00a0Dbanie o swoj\u0105 prywatno\u015b\u0107 to ci\u0119\u017cka praca. I to na pe\u0142ny etat! Czasami okazuje si\u0119 jednak, \u017ce nie ze swojej winy stajemy si\u0119 nadzy w internecie. To nie przez nasz b\u0142\u0105d, a przez zaniedbanie wielomiliardowej korporacji okaza\u0142o si\u0119 si\u0119, \u017ce VPNy w najnowszej wersji Androida niby dzia\u0142aj\u0105, ale tak nie do ko\u0144ca. Jakie to mo\u017ce mie\u0107 konsekwencje? Na czym ten b\u0142\u0105d polega? Dlaczego czasami szybciej nie oznacza wcale bezpieczniej? I w ko\u0144cu - czemu Google jeszcze nie za\u0142ata\u0142o tej luki?\n \n\u0179r\u00f3d\u0142a:\n\ud83e\udd16\u00a0Any app on recent Android versions can leak certain traffic\nhttps://mullvad.net/en/blog/any-app-on-recent-android-versions-can-leak-certain-traffic\n\n\ud83d\udd12\u00a0The Tiny UDP Cannon: An Android VPN Bypass\nhttps://lowlevel.fun/posts/tiny-udp-cannon-android-vpn-bypass/\n\n\ud83d\udc68\u200d\ud83d\udcbc\u00a0The\u00a0IETF\u00a0QUIC Working Group\nhttps://quicwg.org\n\n\ud83d\udcc3\u00a0The QUIC Transport Protocol: Design and Internet-Scale Deployment\nhttps://research.google/pubs/the-quic-transport-protocol-design-and-internet-scale-deployment/\n\n\ud83c\udfc3\u00a0QUIC\nhttps://en.wikipedia.org",
+        "id": 5591162,
+        "language": "pl-PL",
+        "link": "https://www.youtube.com/watch?v=ablcBPMxSn8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 211,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTTZqMWBvLsUYqYwKTdjvkw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/ablcBPMxSn8/hqdefault.jpg",
+        "title": "Kolejna wpadka VPN\u00f3w? Nie do ko\u0144ca.",
+        "vote": 0
+    }
+]

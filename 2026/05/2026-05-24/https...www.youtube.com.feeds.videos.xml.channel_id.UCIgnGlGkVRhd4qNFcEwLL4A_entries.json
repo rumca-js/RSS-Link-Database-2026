@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "AI Search",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-24T03:58:45.231479+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-24T03:34:31+00:00",
+        "description": "HUGE AI NEWS: Qwen 3.7, Bytedance Lance, Stable Audio 3, L2P, MegaASR, & more #ai #ainews #aitools #aivideo #agi #singularity\n\nThanks to our sponsor Higgsfield. Try Higgsfield Supercomputer: https://higgsfield.ai/s/supercomputer-theaisearch-ViVYIy\n\nLance https://lance-project.github.io/\nLiTo https://apple.github.io/ml-lito/\nFlash GRPO https://shredded-pork.github.io/Flash-GRPO.github.io/\nReactiveGWM https://inv-wzq.github.io/ReactiveGWM/\nL2P https://nju-pcalab.github.io/projects/L2P/ \nCarbon https://huggingface.co/spaces/HuggingFaceBio/carbon-demo\nEvo2 video: https://youtu.be/NAq1O-tEVsE \nLongCat avatar 1.5 https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.5\nMegaASR https://xzf-thu.github.io/Mega-ASR/ \nHY-MT2 https://huggingface.co/tencent/Hy-MT2-30B-A3B\nGoogle IO highlights https://youtu.be/J02-39xtlt4 \nCo-scientist https://deepmind.google/blog/co-scientist-a-multi-agent-ai-partner-to-accelerate-research/\nMarlin 2B https://huggingface.co/NemoStation/Marlin-2B\nQwen 3.7 htt",
+        "id": 5587849,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=pC6KHflGye0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 806,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIgnGlGkVRhd4qNFcEwLL4A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/pC6KHflGye0/hqdefault.jpg",
+        "title": "AI co-scientist, AI for DNA, AI NPCs, open-source robots, new Qwen, new video editors: AI NEWS",
+        "vote": 0
+    }
+]

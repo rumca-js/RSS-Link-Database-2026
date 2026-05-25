@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-24T16:22:04.049034+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-24T09:51:42+00:00",
+        "description": "Iran says Fifa has approved the country's World Cup training base being switched from the United States to Mexico.",
+        "id": 5590915,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/sport/football/articles/cx21e47e214o",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 526,
+        "source_url": "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3ee/live/2e0ee630-574e-11f1-b268-5d2e1e4da2c8.jpg",
+        "title": "Iran says World Cup base moved to Mexico from US",
+        "vote": 0
+    }
+]

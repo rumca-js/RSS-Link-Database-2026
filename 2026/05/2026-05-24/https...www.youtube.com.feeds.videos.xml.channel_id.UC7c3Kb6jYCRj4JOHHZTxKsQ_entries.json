@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "GitHub",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-24T17:04:18.511375+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-24T15:00:04+00:00",
+        "description": "Want to contribute to open source but don't know where to start? The \"good first issue\" label is your open invitation from project maintainers. You can even use GitHub Copilot to find projects in your favorite programming language that match this exact label. Pick a project, read the contributing guide, and make your first small fix today. For more tips, check out GitHub for beginners season 3 on our channel.\n\n#OpenSource #GitHub #GitHubCopilot\n\nStay up-to-date on all things GitHub by connecting with us:\n\nYouTube: https://gh.io/subgithub\nBlog: https://github.blog\nX: https://twitter.com/github\nLinkedIn: https://linkedin.com/company/github\nInsider newsletter: https://resources.github.com/newsletter/\nInstagram: https://www.instagram.com/github\nTikTok: https://www.tiktok.com/@github\n\nAbout GitHub\nIt\u2019s where over 180 million developers create, share, and ship the best code possible. It\u2019s a place for anyone, from anywhere, to build anything\u2014it\u2019s where the world builds software. https://gith",
+        "id": 5591164,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/BwTpsf11DMU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 1005,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7c3Kb6jYCRj4JOHHZTxKsQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/BwTpsf11DMU/hqdefault.jpg",
+        "title": "How to find your first open source project",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NASS",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-24T19:14:08.274869+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-24T18:49:48+00:00",
+        "description": "Travel back to New York in the 1940s with this brand-new 2026 restoration and colorization.\n\nUsing advanced restoration, my new semantic colorization, and modern enhancement workflows combined with traditional restoration methods, this new version delivers a more immersive and realistic vision of historic New York than ever before.\n\nCompared to previous restorations, this edition features improved colorization, richer details, enhanced stability, and a more cinematic atmosphere while preserving the authenticity of the original footage.\n\n\ud83d\udcfd\ufe0f Technologies & Techniques Used:\n\u2022 Advanced video restoration\n\u2022 New semantic colorization only for the ambiance (not historically accurate)\n\u2022 Manually colorized keyframes (to establish accurate ambiance and color consistency (not historically accurate)\n\u2022 Advanced frame reconstruction to 4K\n\u2022 Manual color corrections \n\u2022 Classical restoration workflows (AviSynth ) combined with modern tools for (60fps, stabilization, denoise, cleaning, and deblurring )",
+        "id": 5591872,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=RCaWwKWR7i0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 222,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC1W8ShdwtfgjRHdbl1Lctcw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/RCaWwKWR7i0/hqdefault.jpg",
+        "title": "New York 1940s \u2013 Advanced Colorization (New Version 4K - 2026) with Sound Design",
+        "vote": 0
+    }
+]

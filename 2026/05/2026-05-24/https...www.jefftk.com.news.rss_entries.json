@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-24T22:26:06.487389+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-24T08:00:00+00:00",
+        "description": "<p><span>\n\nCars and trucks are getting bigger, and I had a vague sense that fuel\neconomy regulations were partly to blame.  Looking into it, it's hard\nto say how much is regulations vs people wanting to buy vehicles that\nlook rugged, but the regulations really aren't helping.\n\n</span>\n\n<p>\n\nThis chart is the core of it:\n\n</p>\n\n<p>\n\n<a href=\"https://www.jefftk.com/2026-cafe-mpg-target-curves-big.png\"><img src=\"https://www.jefftk.com/2026-cafe-mpg-target-curves.png\" width=\"550\" height=\"329\" class=\"mobile-fullwidth\" style=\"max-width:100.0vw; max-height:59.8vw;\" srcset=\"https://www.jefftk.com/2026-cafe-mpg-target-curves.png 550w,https://www.jefftk.com/2026-cafe-mpg-target-curves-2x.png 1100w\"><div style=\"height:min(59.8vw, 329px)\" class=\"image-vertical-spacer\"></div></a>\n\n</p>\n\n<p>\n\nThis is what manufacturers were looking at when they decided to build\ntoday's cars.  To figure out the target fuel economy for a vehicle you\nfirst calculate its \"footprint\", which is the area between the\nwheel",
+        "id": 5592765,
+        "language": "en-US",
+        "link": "https://www.jefftk.com/p/taxing-small-cars-to-improve-mpg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 163,
+        "source_url": "https://www.jefftk.com/news.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.jefftk.com/2026-cafe-mpg-target-curves.png",
+        "title": "Taxing Small Cars To Improve MPG",
+        "vote": 0
+    }
+]

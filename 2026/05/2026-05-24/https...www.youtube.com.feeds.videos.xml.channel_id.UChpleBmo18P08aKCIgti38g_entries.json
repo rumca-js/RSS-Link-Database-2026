@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Matt Wolfe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-24T18:32:15.473612+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-24T17:27:10+00:00",
+        "description": "Is the OG Google search officially dead? \ud83d\udc80\n\nAt Google I/O, they announced that the tech giant is essentially replacing traditional search with an AI engine. It's not the most surprising move, but it has been very controversial.\n\nBy pushing AI overviews to the top of search and scraping info from blogs and videos to give you AI answers, Google is actively keeping people from clicking into organic websites that rely on that traffic to stay alive.\n\nNot only can that jeopardize many small creators, but it also begs the question: if those creators lose their traffic and stop making content... what is the AI going to pull its answers from? \n\n#Ai #AInews #googleIO #gemini #contentcreation",
+        "id": 5591703,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/rTCusbsfDNI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 933,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChpleBmo18P08aKCIgti38g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/rTCusbsfDNI/hqdefault.jpg",
+        "title": "Is Google Search Officially Dead?",
+        "vote": 0
+    }
+]
