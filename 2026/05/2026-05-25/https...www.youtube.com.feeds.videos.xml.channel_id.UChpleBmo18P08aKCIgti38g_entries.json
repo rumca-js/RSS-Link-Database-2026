@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Matt Wolfe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-25T21:31:22.768585+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-25T18:34:40+00:00",
+        "description": "This is getting a lot of controversy...\n\nOpenAI just rolled out a new personal finance experience that lets you link your bank accounts directly to ChatGPT via Plaid. \n\nThe pros are that it allows you to basically have a financial advisor at your fingertips. But the cons is that people are worried about the privacy and safety implications of giving a for-profit company that makes money off ads access to your spending habits, investments, and travel history.\n\nAre the potential financial gains and knowledge worth the risk, or is it a big NO for you?\n\n#ai #AInews #chatGPT #openai #aiprivacy",
+        "id": 5600080,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/b6Ek6-E5V88",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 933,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChpleBmo18P08aKCIgti38g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/b6Ek6-E5V88/hqdefault.jpg",
+        "title": "ChatGPT Finance Is Freaking People Out",
+        "vote": 0
+    }
+]

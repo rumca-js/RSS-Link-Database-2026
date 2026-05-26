@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Matthew Gault",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-25T14:01:12.491495+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-25T13:00:30+00:00",
+        "description": "No one wants to live next to a noisy computer warehouse and communities across the country are successfully fighting them.",
+        "id": 5597157,
+        "language": "en",
+        "link": "https://www.404media.co/an-incomplete-list-of-successful-anti-data-center-legislation",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 5,
+        "source_url": "https://www.404media.co/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://images.unsplash.com/photo-1715026323270-564a788bbadc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDY0fHxkYXRhJTIwY2VudGVyfGVufDB8fHx8MTc3OTIxMTA2NXww&ixlib=rb-4.1.0&q=80&w=2000",
+        "title": "An Incomplete List of Successful Anti-Data Center Legislation",
+        "vote": 0
+    }
+]

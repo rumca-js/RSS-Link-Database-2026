@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Sammy Westfall, John Hudson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-25T17:32:22.307689+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-25T16:32:51+00:00",
+        "description": "Republicans in Congress warned against concessions to Iran in any deal to end the war, while Trump urged majority-Muslim nations to join the treaties that aim to normalize ties with Israel.",
+        "id": 5598610,
+        "language": "en-US",
+        "link": "https://www.washingtonpost.com/world/2026/05/25/trump-seeks-widen-abraham-accords-new-iran-deal-faces-sharp-criticism",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 365,
+        "source_url": "https://feeds.washingtonpost.com/rss/world?itid=lk_inline_manual_36",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "As new Iran deal faces sharp criticism, Trump seeks to widen Abraham Accords",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-25T16:33:54.826932+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-25T15:38:36+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nLightning Talk: Can `set_value` Actually Throw? - Robert Leahy - CppCon 2025\n---\n\n`std::execution::set_value` must not throw. Asio can deliver actual completion signatures which disagree with the value category it advertises. When bridging the two conversions can therefore become a hidden throw site. This lightning talk demonstrates this problem and reveals a solution, delivering those otherwise-hidden exceptions via `set_error` while delivering the promised value categories to `set_value`.\n---\n\nWork at Hudson River Trading (HRT): https://tinyurl.com/safxfctf\n---\n\nRobert Leahy\n \nRobert is a graduate of the University of Victoria where he specialized in graphics, gaming, and digital geometry processing. After spending 4.5 years in full stack web development he pivoted to financial infrastructure in late 2016 whereafter he spent nearly nine years at a start up working on next generation financial market data storage and retrieval mechanisms. In 2019 he became in",
+        "id": 5598238,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=bP5eplaxG7o",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/bP5eplaxG7o/hqdefault.jpg",
+        "title": "Lightning Talk: Can `set_value` Actually Throw? - Robert Leahy - CppCon 2025",
+        "vote": 0
+    }
+]

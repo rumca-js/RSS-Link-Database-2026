@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "engineerguy",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-25T15:43:13.297039+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-25T15:00:14+00:00",
+        "description": "Bill explains how bicycle helmets are engineered to protect riders from brain injuries. He traces the history of helmet design from pith helmets and leather motorcycle helmets through the introduction of EPS foam, and explains why the cheap, single-use nature of that foam is the key to helmets working as a public safety intervention. He explains how EPS foam is manufactured from polystyrene beads impregnated with pentane, expanded by steam, and fused in a mold. He then explains two methods for reducing the rotational forces that cause concussions: MIPS, which uses a slippery inner layer that allows the helmet to slide on impact, and WaveCel, a lattice of distorted triangular cells that collapses to absorb oblique impacts. Lastly, he explains why WaveCel's unusual tiling is auxetic \u2014 expanding in both directions when stressed \u2014 which allows it to conform to the curved surface of a head.\nVideo Sections\n00:02 Bicycle helmets: a brief history\nThe first bicycle helmets were pith helmets an",
+        "id": 5597866,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=i_qy52fplBE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 828,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2bkHVIDjXS7sgrgjFtzOXQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/i_qy52fplBE/hqdefault.jpg",
+        "title": "How Bicycle Helmets Are Engineered to Protect Your Brain",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "GitHub",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-25T17:14:24.761005+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-25T15:00:15+00:00",
+        "description": "Want to speed up your development process? Today, we are teaching you how to manage your version control without switching between windows. This beginner tutorial covers the essentials of using Git and GitHub right inside VS Code. We will guide you through initializing a new repo, branching, staging, and pushing your commits securely to GitHub. Grab your editor and code along with us to build your skills. \n\n#VSCode #Git #GitHub \n\n\u2014 CHAPTERS \u2014\n\n00:00 - Introduction to using Git and GitHub in VS Code\n01:04 - Initialize, stage, and commit local changes\n02:48 - Create new branches and merge code\n05:08 - Publish to and clone from GitHub\n06:23 - Use AI tools and the Model Context Protocol\n08:21 - Summary and conclusion\n\nStay up-to-date on all things GitHub by connecting with us:\n\nYouTube: https://gh.io/subgithub\nBlog: https://github.blog\nX: https://twitter.com/github\nLinkedIn: https://linkedin.com/company/github\nInsider newsletter: https://resources.github.com/newsletter/\nInstagram: https:/",
+        "id": 5598539,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=NFjz1AGKA4c",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 1005,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7c3Kb6jYCRj4JOHHZTxKsQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/NFjz1AGKA4c/hqdefault.jpg",
+        "title": "How to use Git and GitHub in VS Code | Tutorial for beginners",
+        "vote": 0
+    }
+]

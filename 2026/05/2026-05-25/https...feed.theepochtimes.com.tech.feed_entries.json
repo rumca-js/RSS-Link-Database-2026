@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Lear Zhou",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-25T15:12:19.266006+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-25T14:33:25+00:00",
+        "description": "More than 1,000 US legal cases in which generic AI produced hallucinated content were detected from Q2 2023 to May 19, one researcher found.",
+        "id": 5597718,
+        "language": "en-US",
+        "link": "https://www.theepochtimes.com/us/generative-ai-hallucination-in-court-filing-may-jeopardize-case-against-bart-6031473",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 105,
+        "source_url": "https://feed.theepochtimes.com/tech/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.theepochtimes.com/assets/uploads/2026/04/01/id6006610-DSCF8736-OP-1080x720.jpg",
+        "title": "Generative AI Hallucination in Court Filing May Jeopardize Case Against BART",
+        "vote": 0
+    }
+]

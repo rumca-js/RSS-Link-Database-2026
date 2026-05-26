@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-25T13:24:15.859442+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-25T11:00:43+00:00",
+        "description": "Learn more about Graph Neural Networks here \u2192 https://ibm.biz/~Jnyh8Bu8W\n\nWorld runs on networks\u2014social circles, molecules, even the web \ud83c\udf10. Anna Gutowska breaks down Graph Neural Networks with clear explanations of GNN basics, message passing, embeddings, GCN, GAT, GraphSAGE, GIN, and graph transformers. Learn how modern AI and ML models understand complex graph data.\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/~eKIbLYMRg\n\n#gnn #machinelearning #ai",
+        "id": 5596966,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=eGoszzMkGfU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/eGoszzMkGfU/hqdefault.jpg",
+        "title": "Graph Neural Networks Explained: A Clear Guide to GNN Basics & Models",
+        "vote": 0
+    }
+]
