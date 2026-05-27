@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "James Bruton",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-26T07:07:35.679670+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-26T05:45:01+00:00",
+        "description": "Ad: Check out NEPI, the open-source software platform for edge AI. Connect sensors, deploy AI models, and automate your robot. Free, no account required. Get started at https://nepi.com/container/get-started?utm_source=youtube&utm_medium=sponsorship&utm_campaign=james_bruton\n\nThis is the third in a series of designs that you can build. All of my projects are open source, but most people don\u2019t actually build things like the Ball-Wheeled Bikes.\nSo I\u2019m doing a series of smaller more accessible projects. The first one was a mini robot dog which you can find in my channel, and last time I built a Hexapod. So we\u2019ve done four legs and six legs, and now I thought I\u2019d have a go at two legs.\nThis project is a little more experimental, and I\u2019ve set two requirements for myself. \nFirstly I want it to actively balance as it walks, so no big flat feet. And secondly, for that reason, it needs to pick up its feet properly to take steps, so no shuffling along the ground like a cheap toy.\n\nEnhanced down",
+        "id": 5602352,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=5anwEl3vF_4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 852,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCUbDcUPed50Y_7KmfCXKohA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/5anwEl3vF_4/hqdefault.jpg",
+        "title": "Five Servo Balancing Bipedal Robot",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Web Dev Simplified",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-26T18:02:06.427635+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-26T16:00:16+00:00",
+        "description": "Try Requestly For FREE: https://requestly.com\n\n\nHono is an amazing library that makes building type safe backend APIs incredibly easy. In this video I will show you how to build a fully type safe API from scratch that utilizes email/password auth, JWT, and API keys to secure the application. I will also show you how to use Requestly to make testing your API so much easier.\n\n\n\ud83d\udcda Materials/References:\n\nGitHub Code: https://github.com/WebDevSimplified/hono-api-with-auth-crash-course\n\n\n\ud83c\udf0e Find Me Here:\n\nMy Blog: https://blog.webdevsimplified.com/\nMy Courses: https://courses.webdevsimplified.com/\nPatreon: https://www.patreon.com/WebDevSimplified\nTwitter: https://twitter.com/DevSimplified\nDiscord: https://discord.gg/7StTjnR\nGitHub: https://github.com/WebDevSimplified\nCodePen: https://codepen.io/WebDevSimplified\n\n\n\u23f1\ufe0f Timestamps:\n\n00:00:00 - Introduction\n00:01:15 - Hono Setup\n00:02:37 - Basic Routing\n00:08:32 - Requestly Setup\n00:10:24 - Author CRUD Implementation\n00:20:00 - Automating Requestl",
+        "id": 5607472,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=U_D14T5TYuk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 994,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFbNIlppjAuEX4znoulh0Cw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/U_D14T5TYuk/hqdefault.jpg",
+        "title": "How To Build A Production Ready API - Auth, JWT, API Keys",
+        "vote": 0
+    }
+]

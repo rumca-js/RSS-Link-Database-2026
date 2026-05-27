@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Dave's Garage",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-26T22:23:28.036056+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-26T21:01:53+00:00",
+        "description": "Dave explains the challenges and benefits of learning to code back in the 80s, and what we can learn from it today!",
+        "id": 5609481,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=vEAjtOI-Oaw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 907,
+        "source_url": "https://youtube.com/channel/UCNzszbnvQeFzObW0ghk0Ckw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/vEAjtOI-Oaw/hqdefault.jpg",
+        "title": "1980s: Learning To Code Back in the '80s!",
+        "vote": 0
+    }
+]

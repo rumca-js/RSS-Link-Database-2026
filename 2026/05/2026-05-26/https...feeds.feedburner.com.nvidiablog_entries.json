@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Diana Aung",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-26T22:51:10.964736+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-26T21:15:15+00:00",
+        "description": "The shift to agentic AI creates a new CPU requirement for the AI factory: fast cores, massive memory bandwidth and the ability to sustain high performance when all cores are active. Initial benchmark results published by Phoronix today show that the NVIDIA Vera CPU meets this need. For this first public look, the benchmark scope [&#8230;]",
+        "id": 5609699,
+        "language": "en-US",
+        "link": "https://blogs.nvidia.com/blog/vera-cpu-phoronix",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 1019,
+        "source_url": "https://feeds.feedburner.com/nvidiablog",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://blogs.nvidia.com/wp-content/uploads/2026/05/Vera-CPU_Tray_Open-34_Wide_R6C-FNL-5260651-1.jpg",
+        "title": "NVIDIA Vera CPU Is \u2018Packing a Heavy-Hitting Punch\u2019 Against Competition",
+        "vote": 0
+    }
+]

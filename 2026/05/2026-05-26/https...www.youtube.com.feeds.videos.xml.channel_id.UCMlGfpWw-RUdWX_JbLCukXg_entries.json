@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-26T16:08:43.937583+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-26T15:02:08+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nLightning Talk: Execution Policies: Not a Forward Progress Guarantee - Ruslan Arutyunyan - CppCon 2025\n---\n\nExecution Policies seem to create a lot of confusion in C++ community. Some people think that they are hard prescription what algorithms should do, others think this is a hint. \n\nThis talk aims to give a short and actually useful summary about Execution Policies:\n- What they are and what they are for\n- What it means to pass an execution policy to a parallel algorithm\n---\n\nWork at Hudson River Trading (HRT): https://tinyurl.com/safxfctf\n---\n\nRuslan Arutyunyan\n \nRuslan is a Senior Middleware Development Engineer specializing in parallel and threading runtimes. He joined Intel in 2017 and has experience in the autonomous driving domain, where he led the development of two libraries. Currently, Ruslan is the lead developer of oneAPI DPC++ library (oneDPL) while also contributing to other Intel products, including oneAPI Threading Building Blocks (oneTBB). He",
+        "id": 5606389,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=ZNgCXB9veWc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/ZNgCXB9veWc/hqdefault.jpg",
+        "title": "Lightning Talk: Execution Policies: Not a Forward Progress Guarantee - Ruslan Arutyunyan",
+        "vote": 0
+    }
+]

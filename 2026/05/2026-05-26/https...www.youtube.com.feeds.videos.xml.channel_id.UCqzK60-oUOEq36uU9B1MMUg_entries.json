@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Julia McCoy",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-26T20:22:43.053831+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-26T20:14:32+00:00",
+        "description": "*\ud83e\udd1d SPONSOR: Abacus Hermes* \u2014 One-click access to the #1 AI agent, no install required.\n\ud83d\udc49 https://chatllm.abacus.ai/fmj\n\n*On May 10th, an open-source agent called Hermes processed 224 billion tokens in a single day and knocked OpenClaw off the top spot it held since launch.*\n\nBuilt by Nous Research, not OpenAI, not Google. Hermes hit #1 in roughly 90 days with 140,000+ GitHub stars. The *leaderboard* moved before the headlines caught up.\n\nWhat you'll learn:\n\u2705 Why Hermes overtook a tool with twice the *GitHub stars*\n\u2705 The architecture difference: agents that *learn* vs. agents that connect\n\u2705 A live build \u2014 one sentence to a working Telegram bot\n\nThe agent flagged a security issue I never asked it to audit.\n\n#AIAgents #OpenSource #Entrepreneurship\n\nFirst Movers is Julia's AI company focused on helping working professionals and founders create massive efficiency in their businesses and workplaces.\n\nFREE GUIDE: \ud83d\udcd8 *The Content Creator's AI Blueprint*  \u2013 https://FirstMovers.ai/blueprint/\n\nHI",
+        "id": 5608560,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=1SaLww1eFMY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 947,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqzK60-oUOEq36uU9B1MMUg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/1SaLww1eFMY/hqdefault.jpg",
+        "title": "Hermes Just Killed The #1 AI Agent",
+        "vote": 0
+    }
+]

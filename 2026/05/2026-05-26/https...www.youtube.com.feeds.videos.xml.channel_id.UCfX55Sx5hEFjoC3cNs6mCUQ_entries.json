@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Foundation",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-26T18:32:57.089132+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-26T17:54:52+00:00",
+        "description": "Kubernetes clusters running AI and ML workloads are hitting hard limits \u2014 GPU scheduling is brittle, resource allocation is manual, and Kubelet authorization is dangerously coarse. As enterprise teams push LLM inference and AI agents into production, the gap between what Kubernetes can do natively and what these workloads actually demand has become a critical operational risk.\n\nIn this exclusive interview with Swapnil Bhartiya at TFiR, Ryota Sawada, Kubernetes 1.36 Release Lead, breaks down how the \"Haru\" release directly addresses these gaps \u2014 introducing Workload Aware Scheduling (WAS), expanded Dynamic Resource Allocation (DRA), fine-grained Kubelet API authorization at GA, and a record-breaking 70 Kubernetes Enhancement Proposals (KEPs), including 18 features reaching stable.\n\nKey Topics Covered:\n- Workload Aware Scheduling (WAS): New Workload and PodGroup APIs enabling native gang scheduling for multi-pod AI/ML jobs requiring coordinated GPU resource allocation\n- Dynamic Resource",
+        "id": 5607606,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=N9meEYldm2k",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 499,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfX55Sx5hEFjoC3cNs6mCUQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/N9meEYldm2k/hqdefault.jpg",
+        "title": "Kubernetes 1.36: AI Workloads, GPU Scheduling & Security | Ryota Sawada",
+        "vote": 0
+    }
+]

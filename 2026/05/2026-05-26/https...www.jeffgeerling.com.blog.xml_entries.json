@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-27T02:31:42.497567+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-26T20:32:00+00:00",
+        "description": "<p>A decade ago, I settled on <a href=\"https://iozone.org\"><code>iozone</code></a> for disk benchmarking on all my systems. Tools like <code>fio</code> ('Flexible IO' tester) are a little more capable for raw disk performance testing, and other tools test network-scale filesystems better, but <code>iozone</code> gives me an easy overview of real-world disk performance across hard drives and SSDs, and runs on Mac, Windows, and Linux (and a smattering of other OSes).</p>\n<figure class=\"insert-image\"><img src=\"https://www.jeffgeerling.com/blog/2026/i-patched-iozone-for-better-disk-benchmarks-on-modern-macos/iozone-website.jpg\"\n alt=\"iozone Website with filesystem performance graph\" width=\"700\" height=\"auto\">\n</figure>\n\n<p>It's been around <a href=\"https://www.iozone.org/src/stable/iozone.c\">since 1991</a>, and is still updated today\u2014in fact, the two latest updates (version 509 and 510) contain patches I sent in to get iozone to compile on Apple Silicon Macs running newer releases of macO",
+        "id": 5610690,
+        "language": "en",
+        "link": "https://www.jeffgeerling.com/blog/2026/i-patched-iozone-for-better-disk-benchmarks-on-modern-macos",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 162,
+        "source_url": "https://www.jeffgeerling.com/blog.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.jeffgeerling.com/blog/2026/i-patched-iozone-for-better-disk-benchmarks-on-modern-macos/iozone-website.jpg",
+        "title": "I patched iozone for better disk benchmarks on modern macOS",
+        "vote": 0
+    }
+]

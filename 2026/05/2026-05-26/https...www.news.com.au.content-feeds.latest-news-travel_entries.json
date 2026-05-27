@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-26T00:25:50.624844+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-26T00:25:49.298597+00:00",
+        "description": "A 28-year-old\u2019s life will never be the same after tragedy struck during her New Zealand holiday, leaving her on the brink of death in the ICU.",
+        "id": 5600859,
+        "language": "en-au",
+        "link": "https://www.news.com.au/travel/travel-updates/incidents/aussie-left-fighting-for-life-in-icu-during-nz-holiday/news-story/a88d84926aed9950b6a366abe4aa55b2?from=rss-basic",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 409,
+        "source_url": "https://www.news.com.au/content-feeds/latest-news-travel",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://content.api.news/v3/images/bin/cf582bf9f068720093de26026498e118?width=320",
+        "title": "Aussie left fighting for life after horror New Zealand holiday",
+        "vote": 0
+    }
+]

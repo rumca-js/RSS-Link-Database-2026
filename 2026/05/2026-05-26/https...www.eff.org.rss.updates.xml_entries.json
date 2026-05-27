@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Dave Maass",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-26T22:05:55.908290+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-26T21:23:43+00:00",
+        "description": "<div class=\"field field--name-body field--type-text-with-summary field--label-hidden\"><div class=\"field__items\"><div class=\"field__item even\"><p><strong></strong><span>An EFF analysis of millions of searches of Flock Safety <a href=\"https://sls.eff.org/technologies/automated-license-plate-readers-alprs\">automated license plate reader</a> (ALPR) data by police has uncovered a troubling pattern: in the absence of a warrant requirement to search ALPR databases, law enforcement agencies have moved beyond specific investigations to use these surveillance networks for virtually any whim.</span></p>\n<p><span>Our findings suggest that the absence of a warrant requirement has fostered a culture of unrestricted access to sensitive location data, allowing agencies to leverage that data beyond the scope of specific criminal investigations.</span></p>\n<p><span>As a refresher: Law enforcement agencies lease or purchase camera systems from Flock Safety and then mount them by the side of the road and",
+        "id": 5609351,
+        "language": "en",
+        "link": "https://www.eff.org/deeplinks/2026/05/more-license-plate-reader-mission-creep-school-residency-verification-background",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 101,
+        "source_url": "https://www.eff.org/rss/updates.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "/files/2026/05/26/noise2.png",
+        "title": "More License Plate Reader Mission Creep: School Residency Verification, Background Checks, and Noise Complaints",
+        "vote": 0
+    }
+]

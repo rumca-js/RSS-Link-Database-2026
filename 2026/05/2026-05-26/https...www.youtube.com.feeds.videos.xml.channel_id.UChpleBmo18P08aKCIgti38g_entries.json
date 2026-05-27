@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Matt Wolfe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-26T21:50:00.328110+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-26T20:52:00+00:00",
+        "description": "Did you know your phone can easily tell you which videos or images or AI?\n\nAI videos are getting so realistic to the point where it's bordering on scary. So I point blank asked the CTO of Google DeepMind at Google I/O this year: What is your company doing about this?\n\nHis answer was pretty cutting edge: Deepmind build a system called SynthID, an invisible digital watermark baked right into AI-generated content.\n\nSo if you\u2019re ever watching a video and think, \"Wait, is this real?\", you can literally just use Circle to Search on your phone or drop the content into the Gemini app and ask, \u201cIs this AI?\u201d\n\nIt will instantly scan the invisible watermark and tell you the truth. \n\nSend this to someone who NEEDS to know about this (or tag that one friend who always falls for fake AI videos...)\n\n#AI #Gemini #GoogleDeepMind #genAI #aiart",
+        "id": 5609225,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/xjarVOaUz3k",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 933,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChpleBmo18P08aKCIgti38g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/xjarVOaUz3k/hqdefault.jpg",
+        "title": "DeepMind's CTO Explains Their Invisible \"AI Watermark\"",
+        "vote": 0
+    }
+]
