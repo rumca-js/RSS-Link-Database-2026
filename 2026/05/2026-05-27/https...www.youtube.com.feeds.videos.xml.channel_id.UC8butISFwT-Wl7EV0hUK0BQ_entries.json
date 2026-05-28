@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-27T12:56:02.472475+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-27T12:29:41+00:00",
+        "description": "Fun exercise: ask ChatGPT a question, get an answer (probably correct), and then ask it to explain, from the point of view of a senior engineer, why that answer is wrong.",
+        "id": 5614154,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/z76TrtlL930",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/z76TrtlL930/hqdefault.jpg",
+        "title": "Here's a fun exercize for ChatGPT",
+        "vote": 0
+    }
+]

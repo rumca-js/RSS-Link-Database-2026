@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-27T12:20:54.291041+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-27T11:34:27+00:00",
+        "description": "Lawmakers who back the measure say it is key to restoring normality after four weeks of road blocks.",
+        "id": 5613832,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/c8932y4d4w7o",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 524,
+        "source_url": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0937/live/d318c960-59ac-11f1-b129-29bd05ec26aa.jpg",
+        "title": "Bolivian Congress allows deployment of troops to quell protests",
+        "vote": 0
+    }
+]

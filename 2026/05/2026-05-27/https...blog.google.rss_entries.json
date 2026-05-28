@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Duncan Osborn",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-27T17:18:26.794033+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-27T17:00:00+00:00",
+        "description": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Preferred_Sources_hero.max-600x600.format-webp.webp\">New updates to help you spot and connect with high-quality, original content in Google Search.",
+        "id": 5616676,
+        "language": "en-us",
+        "link": "https://blog.google/products-and-platforms/products/search/original-high-quality-content-search",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 1018,
+        "source_url": "https://blog.google/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Preferred_Sources_hero.max-600x600.format-webp.webp",
+        "title": "New ways to find your favorite sources and original content in AI Search",
+        "vote": 0
+    }
+]

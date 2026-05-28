@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Rob Braxman Tech",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-27T17:02:42.324105+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-27T16:00:35+00:00",
+        "description": "Installing Openclaw and giving instruction for its use has terrfied many users in the past. It was full of complexity and unclear procedures. I rewrote the installation scripts and simplified the instructions and now you can install Openclaw with Ollama with just one simple installation script.\n\nThen we will discuss what this AI Agent can do and demonstrate a few things. This is a \"user\" level tutorial. This is now at the reach of an average user and not an advanced techie.\n\nCaution: This is Linux only or Linux VM.\n\n----------------------------------\nBraX3 Privacy Phone and Brax Open_Slate is on https://braxtech.net\n-----------------------------------\nBrax Virtual Phone, De-Googled Phones, BytzVPN, BraxMail, BraxRouters are available on https://brax.me\n-----------------------------------\nMerch Store \nhttps://my-store-c37a50.creator-spring.com/\n-----------------------------------\n\n\nI'm the Internet Privacy Guy. I'm a public interest technologist. I'm here to educate. You are losing you",
+        "id": 5616525,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=NNwb6jccnKw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 466,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYVU6rModlGxvJbszCclGGw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/NNwb6jccnKw/hqdefault.jpg",
+        "title": "Finally! A Simple Tutorial For Installing Openclaw AI Agent with Ollama Open Source Models",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kevin Stratvert",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-27T07:37:13.104600+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-27T07:00:35+00:00",
+        "description": "This Claude Skills tutorial for 2026 shows you how to save any prompt as a reusable skill that runs across Chat, Cowork, and Claude Code, and how to share it with your whole team.\n\ud83d\udcb5 [Sponsor] QuickBooks Workforce \u279c https://qbworkforce.kevinstratvert.com/ \n\nFirst, you'll see what a Claude Skill actually is and how Claude can store dozens of skills without slowing down. \n\nThen, you'll build your own \"Thread Reply\" skill from scratch to reply to long emails you've missed, complete with test cases that grade the skill before you save it. \n\nNext, you'll see how skills can be used against internal app data to validate your business rules. \n\nAfterward, you'll run that same Thread Reply skill inside Claude Cowork on a local folder which includes more context on the business. \n\nAlong the way, you'll see how Claude Code handles skills differently, with skills living as folders on disk in .claude/skills. \n\nThen, you'll learn four ways to share a skill with your team. \n\nThat includes setting up a",
+        "id": 5611996,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=O_z9vDLgvoY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 958,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfJT_eYDTmDE-ovKaxVE1ig",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/O_z9vDLgvoY/hqdefault.jpg",
+        "title": "Claude Skills Tutorial (2026): Chat, Cowork, and Claude Code",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ryan Daws",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-27T16:19:45.755224+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-27T15:31:39+00:00",
+        "description": "<p>NVIDIA\u2019s CUDA 13.3 targets the divisions between Python and C++ engineers inside enterprise software teams building AI applications. Python teams often build fast prototypes, while C++ engineers spend weeks trying to wring every bit of performance out of the hardware. CUDA 13.3 attempts to connect those two groups, pointing toward a more integrated development stack. [&#8230;]</p>\n<p>The post <a href=\"https://www.developer-tech.com/news/nvidia-cuda-13-3-bridges-python-and-c-divide-ai-teams/\">NVIDIA CUDA 13.3 bridges the Python and C++ divide for AI teams</a> appeared first on <a href=\"https://www.developer-tech.com\">Developer Tech News</a>.</p>",
+        "id": 5616193,
+        "language": "en-GB",
+        "link": "https://www.developer-tech.com/news/nvidia-cuda-13-3-bridges-python-and-c-divide-ai-teams",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 92,
+        "source_url": "https://www.developer-tech.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "NVIDIA CUDA 13.3 bridges the Python and C++ divide for AI teams",
+        "vote": 0
+    }
+]

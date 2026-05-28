@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/HollywoodAkeem",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-27T05:03:47.193530+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-27T01:24:48+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>Hey yall, my name is HollywoodAkeem and on my freetime a made a xbox 360 game (Smackdown vs Raw 2007) run on native pc code thanks to a few tools. Posting here because i think this community will appreciate the engineering posture: it&#39;s not interpretive emulation, the PPC code is decompiled then recompiled ahead of time, and the output is a native Windows .exe that links a runtime providing the Xbox 360 kernel/GPU/audio APIs. Comparable to how Zelda 64: Recompiled and friends work on the N64 side. Mods let me know if this isnt appropriate in this sub.</p> <p>Public release of SVR07-Recomp:</p> <p>Trailer: <a href=\"https://youtu.be/ozP0BlBFnlI\">https://youtu.be/ozP0BlBFnlI</a></p> <p>Source + releases: <a href=\"https://github.com/HollywoodAkeem/SVR07-Recomp\">https://github.com/HollywoodAkeem/SVR07-Recomp</a></p> <p>Runtime: <a href=\"https://github.com/HollywoodAkeem/rexglue-sdk-yukes\">https://github.com/HollywoodAkeem/rexglue-sdk-yukes</a> (fork of",
+        "id": 5611314,
+        "language": "",
+        "link": "https://www.reddit.com/r/emulation/comments/1toqr07/i_made_a_static_recompilation_of_smackdown_vs_raw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 475,
+        "source_url": "https://www.reddit.com/r/emulation/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "I made a static recompilation of Smackdown Vs. Raw 2007 on my freetime",
+        "vote": 0
+    }
+]

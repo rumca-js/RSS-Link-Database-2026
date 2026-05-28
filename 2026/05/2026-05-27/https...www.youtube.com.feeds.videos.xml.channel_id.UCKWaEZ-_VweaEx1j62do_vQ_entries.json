@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-27T13:57:34.790039+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-27T10:00:24+00:00",
+        "description": "Explore the podcast  \u2192 https://ibm.biz/~WrcSAwFY6\n\nWhile Anthropic has restricted Mythos access to its Project Glasswing partners, it has always maintained that lessons from Glasswing would be shared with the broader cybersecurity community. Now, those lessons are starting to roll out. \n\nThis week, on Security Intelligence, panelists Dustin \u201cEvilMog\u201d Heywood, Kimmie Farrington and Curtis Pitts discuss Cloudflare\u2019s recent write-up on its adventures with Mythos so far. We discuss what separates Mythos from other AI vulnerability hunters, Cloudflare\u2019s agentic harness and whether \u201cspeed\u201d is the wrong way to think about AI cybersecurity tools. \n\nThen: A CISA contractor accidentally exposed a repo full of cloud keys, passwords, tokens and other credentials to the public web on GitHub. It\u2019s a case study in identity and access management mistakes and supply chain vulnerabilities\u2014and there\u2019s a lot to learn from ti. \n\nFinally, we look back on L0pht Day, 1998, when a group of Boston-area hackers",
+        "id": 5614672,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=ftUlJzuzdU4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/ftUlJzuzdU4/hqdefault.jpg",
+        "title": "First findings from Project Glasswing",
+        "vote": 0
+    }
+]

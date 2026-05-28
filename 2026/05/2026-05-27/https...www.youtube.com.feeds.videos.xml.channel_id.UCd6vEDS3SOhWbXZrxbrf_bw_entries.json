@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "SAMTIME",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-27T18:32:08.830206+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-27T17:45:48+00:00",
+        "description": "If AI was a person, it would never pass the job interview.\n\nSOURCES:\nStarbucks fires AI: https://finance.yahoo.com/sectors/technology/articles/starbucks-scraps-ai-inventory-tool-165449189.html?guccounter=1\nPizza Hut Fires AI: https://www.businessinsider.com/pizza-hut-ai-system-dragontail-lawsuit-franchisee-2026-5\nAI Writes 30% of Microsoft Code: https://www.cnbc.com/2025/04/29/satya-nadella-says-as-much-as-30percent-of-microsoft-code-is-written-by-ai.html\nEverybody Hates Windows 11: https://www.zdnet.com/article/why-people-hate-windows-11/\nAI Deletes Firm\u2019s Database: https://www.tomshardware.com/tech-industry/artificial-intelligence/claude-powered-ai-coding-agent-deletes-entire-company-database-in-9-seconds-backups-zapped-after-cursor-tool-powered-by-anthropics-claude-goes-rogue\nPope Warns About AI: https://www.bbc.com/news/articles/cedppn6002jo\nFacebook Stole Terabytes of Copyrighted Books to Train Their AI: https://www.wired.com/story/new-documents-unredacted-meta-copyright-ai-lawsu",
+        "id": 5617351,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=5TYB6uy4w7M",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 290,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCd6vEDS3SOhWbXZrxbrf_bw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/5TYB6uy4w7M/hqdefault.jpg",
+        "title": "If AI Had to Pass Job Interviews",
+        "vote": 0
+    }
+]

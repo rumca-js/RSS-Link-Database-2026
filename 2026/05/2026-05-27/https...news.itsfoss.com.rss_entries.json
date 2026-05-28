@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Sourav Rudra",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-27T18:18:30.740541+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-27T17:57:58+00:00",
+        "description": "Raspberry Pi CEO Eben Upton confirmed that in a Reddit AMA recently.",
+        "id": 5617265,
+        "language": "en-US",
+        "link": "https://itsfoss.com/news/raspberry-pi-6-delayed",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 156,
+        "source_url": "https://news.itsfoss.com/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://itsfoss.com/content/images/2026/05/raspberry-pi-6-delay-banner.png",
+        "title": "Don't Expect a Raspberry Pi 6 Until At Least 2028",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Khan Academy",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-27T18:45:37.344798+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-27T16:00:04+00:00",
+        "description": "\u201cAI will replace coding\u201d \u2026 or will it? \ud83e\udd16\n\nThe truth: people who understand code will get the most out of AI, not get replaced by it.\n\nStart learning for free with our Intro to CS - Python course:\n\ud83d\udc49 https://www.khanacademy.org/computing/intro-to-python-fundamentals\n\nDon\u2019t just use technology \u2014 understand it.",
+        "id": 5617409,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/mPRUxUHmpeY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 977,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4a-Gbdw7vOaccHmFo40b9g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/mPRUxUHmpeY/hqdefault.jpg",
+        "title": "Should you still learn to code in the age of AI?",
+        "vote": 0
+    }
+]

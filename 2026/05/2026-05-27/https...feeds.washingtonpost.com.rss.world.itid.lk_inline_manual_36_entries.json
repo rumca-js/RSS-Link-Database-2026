@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Rael Ombuor, Rachel Chason, Lauren Weber",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-27T09:13:51.094775+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-27T09:00:00+00:00",
+        "description": "Distrust and violence flare in the central African nation as false claims spread that the outbreak \u2014 and the disease itself \u2014 is a hoax.",
+        "id": 5612491,
+        "language": "en-US",
+        "link": "https://www.washingtonpost.com/world/2026/05/26/ebola-conspiracies-are-rampant-outbreak-widens",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 365,
+        "source_url": "https://feeds.washingtonpost.com/rss/world?itid=lk_inline_manual_36",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Contagion of conspiracy theories makes Ebola epidemic harder to contain",
+        "vote": 0
+    }
+]

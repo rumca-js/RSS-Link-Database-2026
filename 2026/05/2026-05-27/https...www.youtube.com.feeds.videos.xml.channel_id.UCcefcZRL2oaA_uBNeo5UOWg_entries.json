@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-27T15:07:09.460495+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-27T14:00:26+00:00",
+        "description": "Building superintelligence inside a company isn't about adding AI as a feature. It's about making it the operating system the whole organization runs on. In this episode of the Lightcone, we sat down with YC's Pete Koomen to talk for the first time about how he led the effort to build YC's internal agent infrastructure from the ground up. We cover how giving agents unrestricted access to one database changed everything, the self-improving skill loops that get smarter overnight and why he thinks we've arrived at the personal computer moment for AI.\n\nChapters:\n00:00 \u2014 Intro\n00:39 \u2014 YC's AI Stack\n02:15 \u2014 The Finance Team Problem That Started It All\n05:07 \u2014 SQL Access Changes Everything\n07:20 \u2014 One Database to Rule Them All\n09:14 \u2014 Jevons Paradox \n10:07 \u2014 Denormalizing for Agents (GBrain)\n12:15 \u2014 The Single-Player Era of Agents\n14:16 \u2014 350 Tools and a Shared Registry\n16:24 \u2014 Skillify, DRY, and MECE Resolvers\n18:23 \u2014 The Self-Improving Dream Cycle\n20:26 \u2014 The Two-Sentence Pitch Skill\n23:06",
+        "id": 5615403,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=B246K_G7mHU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/B246K_G7mHU/hqdefault.jpg",
+        "title": "How to Build Superintelligence Inside Your Company",
+        "vote": 0
+    }
+]

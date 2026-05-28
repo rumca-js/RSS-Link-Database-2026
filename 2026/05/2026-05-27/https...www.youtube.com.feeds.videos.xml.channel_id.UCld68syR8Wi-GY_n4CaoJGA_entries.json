@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-27T19:00:56.185906+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-27T17:30:38+00:00",
+        "description": "Recently at LAS the Linux App Summit there was the announcement of a new major version of Flatpak called Flatpak Next or Flatpak v2 and instead of focusing on the cool stuff that's happening, there is instead a focus on a dumb drama that never had to happen.\n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\nFlatpak Next Talk: https://www.youtube.com/watch?app=desktop&v=1AXBfsiaQNk&t=16218s\nOther Flatpak Talk: https://www.youtube.com/watch?v=Zt4cUf_AgUg\nJorge Castro Talk: https://www.youtube.com/watch?v=Sv1dbcZGTro\nJorge Castro Thread: https://hachyderm.io/@jorge/116607961190448307\n\n=========Video Platforms==========\n\ud83c\udfa5 React: https://www.youtube.com/@BrodieRobertsonReacts\n\ud83c\udfa5 Podcast: https://techovertea.xyz/youtube\n\ud83c\udfae Gaming: https://brodierobertson.xyz/gaming\n\n==========Soc",
+        "id": 5617508,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=Ys44BKMd7i8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/Ys44BKMd7i8/hqdefault.jpg",
+        "title": "Flatpak Next: Dropping Systemd and X11?",
+        "vote": 0
+    }
+]

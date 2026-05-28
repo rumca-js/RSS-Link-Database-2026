@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "David Bombal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-27T22:19:12.821495+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-27T20:00:22+00:00",
+        "description": "Think HTTPS and custom DNS keep your browsing private? This Wireshark network tap experiment reveals how SNI leaks your data. See why a VPN might still be necessary to hide traffic.\n\n#dns #sni #https",
+        "id": 5618998,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/O94SYr4vLJo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 984,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP7WmQ_U4GB3K51Od9QvM0w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/O94SYr4vLJo/hqdefault.jpg",
+        "title": "Does Encrypted DNS Keep Your Traffic Private?",
+        "vote": 0
+    }
+]
