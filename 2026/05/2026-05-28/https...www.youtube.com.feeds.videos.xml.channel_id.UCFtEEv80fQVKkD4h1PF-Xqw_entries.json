@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Microsoft",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-28T17:30:53.459586+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-28T16:04:01+00:00",
+        "description": "Juan Lavista Ferres, Microsoft Chief Data Scientist and Director of AI for Good Lab, joins Microsoft's Vice Chair and President Brad Smith to unpack Microsoft's AI Diffusion Report and what it reveals about how artificial intelligence is spreading around the world.\n\nIn this quarterly update, Juan shares new data on where adoption is accelerating, how AI is reshaping software development, and why emerging divides between regions and communities could shape what comes next.\n\nFrom rising productivity to widening gaps between urban and rural communities in the United States, the conversation explores both the promise and the challenges of AI at scale and what it will take to ensure the benefits are broadly shared.\n\nRead the report: https://aka.ms/AIDiffusionReport2025 \nMore of Tools and Weapons: https://aka.ms/toolsandweapons \n\nChapters:\n00:00 - Introduction\n02:10 - Global AI adoption trends\n08:45 - AI in software development\n15:30 - The urban-rural divide in the U.S.\n22:15 - What comes n",
+        "id": 5626218,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=u8bKR3RHAYA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 793,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFtEEv80fQVKkD4h1PF-Xqw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/u8bKR3RHAYA/hqdefault.jpg",
+        "title": "Unpacking how the world is using AI | Microsoft's AI Diffusion Report",
+        "vote": 0
+    }
+]

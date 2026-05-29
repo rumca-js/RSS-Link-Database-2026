@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Primal Space",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-28T18:20:27.762601+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-28T17:00:10+00:00",
+        "description": "Henry Ford didn\u2019t just improve car manufacturing - he broke it into pieces.\n\nBy reorganising the production of individual components into streamlined mini assembly lines, Ford slashed total build time from around 12 hours down to just 90 minutes.\n\nBut there was still a bottleneck: final assembly. Cars were still being built at stationary workbenches, slowing everything down.\n\nThe solution was the final moving assembly line which was fed by all those smaller production lines, where each completed part was mounted onto a moving chassis.\n\nThe result was staggering: a car could now roll off the factory floor every 40 seconds, bringing motoring to the masses.",
+        "id": 5626697,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/X_ac9CRPDoU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 840,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UClZbmi9JzfnB2CEb0fG8iew",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/X_ac9CRPDoU/hqdefault.jpg",
+        "title": "Henry\u2019s Fix For a Ford Every Forty Seconds",
+        "vote": 0
+    }
+]

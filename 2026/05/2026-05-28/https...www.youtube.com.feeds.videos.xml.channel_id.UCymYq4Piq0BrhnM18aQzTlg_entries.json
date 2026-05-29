@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Lon.TV",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-28T23:27:38.551914+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-28T22:45:38+00:00",
+        "description": "Sign up for a Plex Pass - http://lon.tv/plexpass (compensated affiliate link) - Using a Plex MCP I dramatically improved the process of curating content and coming up with suggestions based on my watch list and viewing history! See more Plex - http://lon.tv/plexhdhr and subscribe to my email list ! http://lon.tv/email and the channel https://lon.tv/s\n\nLinks: \n\nPlex MCP :  https://github.com/niavasha/plex-mcp-server\nDeep Space 9 Dominion - https://lon.tv/ds9dominion\n\nVIDEO INDEX:\n00:00 - Intro\n00:26 - Building a custom Deep Space 9 Playlist from a Reddit Post\n02:10 - Plex MCP Server Info\n04:22 - Research and Curate Top 20 ST:TNG Episodes\n05:27 - Building a Smart Music Playlist\n06:58 - Recommendations Based on View Count\n07:42 - Complex Recommendation Based on Watchlist/Viewing Habits\n09:02 - Library Mainteance\n09:31 - Vibe Coding Applications\n09:56 - MCP Capabilities\n\nVisit my Blog! https://blog.lon.tv\n\nSubscribe to my email lists! \nWeekly Breakdown of Posted Videos:  - https://lon.tv/",
+        "id": 5628864,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=2NrDi6SNVII",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 199,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCymYq4Piq0BrhnM18aQzTlg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/2NrDi6SNVII/hqdefault.jpg",
+        "title": "Using AI to Organize My Plex Library !",
+        "vote": 0
+    }
+]

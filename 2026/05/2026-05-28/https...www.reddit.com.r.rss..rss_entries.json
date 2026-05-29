@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/Alarmed-Election-799",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-28T15:41:40.111198+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-28T15:16:20+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone,</p> <p>I am currently developing a new RSS reader application for Android, and I am in the process of planning out integrations with different third-party synchronization services.</p> <p>My initial roadmap includes adding support for: </p> <ol> <li>Inoreader, </li> <li>The Old Reader, </li> <li>Miniflux, </li> <li>FreshRSS, </li> <li>Fever, </li> <li>Feedbin, </li> <li>BazQux. </li> </ol> <p>If everything goes smoothly and the implementation works out well, I plan to integrate Feedly as well.</p> <p>I have been a long-time RSS user myself, going back to the days of Google Reader. Currently, I use Feedly daily, and I was already quite familiar with Inoreader before starting this project. Even though we all know the RSS ecosystem is a relatively niche market today, diving into the development side has made me realize just how many active services are out there, including several premium, paid-only options.</p> <p>Since I want to prioritiz",
+        "id": 5625140,
+        "language": "en",
+        "link": "https://www.reddit.com/r/rss/comments/1tq6ld0/question_about_your_preferred_thirdparty_sync",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 482,
+        "source_url": "https://www.reddit.com/r/rss/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Question about your preferred third-party sync services",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-28T09:56:57.111607+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-28T09:56:55.812161+00:00",
+        "description": "The search for the source of hemorrhagic fever outbreaks has yet to reveal a definitive culprit. In the absence of conclusive evidence, fruit bats have emerged as the main suspects.",
+        "id": 5622301,
+        "language": "en-US",
+        "link": "https://www.lemonde.fr/en/science/article/2026/05/28/what-animal-is-behind-the-ebola-epidemic-the-answer-isn-t-straightforward_6753901_10.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 190,
+        "source_url": "https://www.lemonde.fr/en/science/rss_full.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.lemde.fr/2026/05/22/244/0/2824/1412/644/322/60/0/214422b_upload-1-8qek5bksc9cs-bios-2479716.jpg",
+        "title": "What animal is behind the Ebola epidemic? The answer isn't straightforward",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CodeWithHarry",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-28T10:57:00.014503+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-28T07:36:09+00:00",
+        "description": "In this video, we build a complete AI Powered E-Commerce Website using MongoDB Atlas, React, Node.js, Express, and AI powered search capabilities.\n\nWe will cover:\n- Authentication\n- Product management\n- Shopping cart & orders\n- MongoDB Atlas\n- AI powered semantic search\n- Vector Search\n- Embeddings\n- Real-world scalable architecture\n\nThis video is sponsored by MongoDB.\n\nMongoDB is the database for modern applications and the AI era. With MongoDB Atlas, developers can build scalable apps with integrated search, vector search, and AI capabilities without managing complex infrastructure.\n\nLearn more here:\nhttps://fandf.co/3Rl9wRI\n\n00:00:00 Introduction\n00:01:04 Creating a New Next.js App\n00:05:35 Setting up MongoDB\n00:19:16 Installing Required Packages & Starting Development\n01:10:16 Fixing the Overall Design\n01:24:44 AI-Powered Vector Search using MongoDB\n01:38:00 Creating Search Index in MongoDB\n01:48:24 Using MongoDB Vector Search\n01:54:44 Conclusion\n\n\u27a1\ufe0f Download Notes and CheatSheets",
+        "id": 5622620,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=2CO8fcbQ_LQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 991,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCeVMnSShP_Iviwkknt83cww",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/2CO8fcbQ_LQ/hqdefault.jpg",
+        "title": "Build an AI Powered E-Commerce Website using MongoDB \ud83d\udd25",
+        "vote": 0
+    }
+]

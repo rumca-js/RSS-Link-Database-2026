@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Branch Education",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-28T14:03:59.869959+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-28T13:35:42+00:00",
+        "description": "To learn more about how Micron memory and storage help enable AI at every level, visit:\u00a0https://tinyurl.com/Micron-AI-data-center\n\u00a0\nInterested in working with Micron to make cutting-edge memory and storage solutions? Work at Micron:\u00a0https://tinyurl.com/Micron-Careers\n\u00a0\nYour computer has over a dozen different memory and storage locations\u2014from CPU registers to DRAM, SSDs and hard drives\u2014and it needs every single one.  In this video, you\u2019ll see exactly why.\nWe're breaking down the entire explanation of the memory hierarchy into three parts. \nFirst, a visual analogy using books and libraries that finally makes the wild tradeoffs in speed, capacity, and cost click. \nSecond, a nanoscopic tour inside registers, SRAM cache, DRAM, 3D NAND SSDs, and spinning hard drives to see how each one physically stores bits. \nThird, the insane memory and storage stack powering modern AI servers, from HBM3E stacks to petabyte-scale NVMe data lakes.\nBy the end, you'll understand exactly how your computer\u2014an",
+        "id": 5624199,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=TfhL5kBiQVI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 841,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCdp4_l1vPmpN-gDbUwhaRUQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/TfhL5kBiQVI/hqdefault.jpg",
+        "title": "Why Don\u2019t Computers Just Use One Type of Memory? \ud83d\udda5\ufe0f\ud83d\udcbf\ud83d\udee0\ufe0f",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-28T15:14:04.510377+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-28T09:00:00+00:00",
+        "description": "<p><a href=\"https://linktr.ee/repkord\">Pooch</a> from Repkord dropped by my studio while he was in St. Louis, and asked a simple question:</p>\n<p><em>Can a 3D printer's heatbed act as an antenna?</em></p>\n<p>A fair question, as many an antenna is embedded in a PCB these days... and the traces on a <a href=\"https://www.prusa3d.com/product/heatbed-set/\">PCB heatbed</a> like the one used in Prusa's Core One look kinda like an antenna, if you squint the right way.</p>\n<figure class=\"insert-image\"><img src=\"https://www.jeffgeerling.com/blog/2026/tuning-in-fm-radio-on-a-3d-printer-heatbed/nanovna-3d-printer-heatbed.jpg\"\n alt=\"NanoVNA hooked up to 3D Printer Heatbed\" width=\"500\" height=\"auto\">\n</figure>\n\n<p>Really, anything (or anyone) can be an antenna, given enough power.</p>",
+        "id": 5624876,
+        "language": "en",
+        "link": "https://www.jeffgeerling.com/blog/2026/tuning-in-fm-radio-on-a-3d-printer-heatbed",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 162,
+        "source_url": "https://www.jeffgeerling.com/blog.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.jeffgeerling.com/blog/2026/tuning-in-fm-radio-on-a-3d-printer-heatbed/nanovna-3d-printer-heatbed.jpg",
+        "title": "Tuning in FM Radio on a 3D Printer Heatbed",
+        "vote": 0
+    }
+]

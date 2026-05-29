@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Google",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-28T19:38:04.568559+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-28T18:17:58+00:00",
+        "description": "Put 30 seconds on the clock! \u23f0 Jeff Dean, Chief Scientist, explains everything you should know about agentic coding in less than 30 seconds.\n\n#GoogleIO",
+        "id": 5627316,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/cKCU6Qpa660",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 777,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCK8sQmJBp8GCxrOtXWBpyEA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/cKCU6Qpa660/hqdefault.jpg",
+        "title": "What is Agentic Coding?",
+        "vote": 0
+    }
+]

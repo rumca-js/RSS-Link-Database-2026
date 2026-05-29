@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unreal Engine",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-28T16:50:15.728706+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-28T16:03:20+00:00",
+        "description": "Watch this video to find out how Play by Play Studios used UE5 during development of the stylized, fast-paced online 3v3 street basketball game \u2018NBA THE RUN\u2019. \n\n\u2018NBA THE RUN\u2019 is a fast-paced online 3v3 street basketball game that focuses on an easy-to-pick up and fun-to-master experience. The team chose Unreal Engine 5 for its balance of visual quality, performance, tooling, extensibility, and long-term stability, while Unreal Engine\u2019s ease of use enabled cross-discipline collaboration.\n\nVisual scripting with Blueprints allowed for rapid iteration and validation of gameplay ideas, while Nanite and Lumen sped up and increased the fidelity level possible on current generation consoles and higher-end PCs.\n\nMeanwhile, having access to UE\u2019s source code provided the flexibility to fix issues internally, optimize systems for the team\u2019s needs, and ensure consistent cross-platform behavior, which reduced risk and accelerated development to deliver a more stable and performant product.\n\nGet the",
+        "id": 5625853,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=ZsY58Bs26No",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 685,
+        "source_url": "https://youtube.com/channel/UCBobmJyzsJ6Ll7UbfhI4iwQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/ZsY58Bs26No/hqdefault.jpg",
+        "title": "NBA THE RUN | Game Profile | Unreal Engine",
+        "vote": 0
+    }
+]

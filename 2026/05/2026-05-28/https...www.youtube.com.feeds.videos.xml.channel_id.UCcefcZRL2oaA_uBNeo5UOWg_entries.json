@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-28T20:51:32.954846+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-28T20:37:13+00:00",
+        "description": "Even if you\u2019re a current PhD student, it's hard to keep up with the latest AI research. That's why we started YC Paper Club, a small group of researchers, engineers, and founders who will meet every two weeks this summer to present and discuss new papers together.\n\nThis was from our very first discussion group on May 20th, 2026, at the YC office in Mountain View, CA.\n\nThanks to the following presenters:\n\n0:12 - Intro from YC Visiting Partner Francois Chaubard\n3:49 - Tanishq Kumar \u2014 Speculative Speculative Decoding (https://arxiv.org/abs/2603.03251)\n18:33 - Guangyao (Stannis) Zhou \u2014 Diffusion-MPC (https://arxiv.org/abs/2410.05364)\n30:26 - Isaac Ward \u2014 LeWorldModeling (https://arxiv.org/abs/2603.19312)\n43:54 - Akshay Vegesna \u2014 Deep Learning is Not So Mysterious or Different (https://arxiv.org/abs/2503.02113)\n51:24 - Konwoo Kim \u2014 Pretraining Under Infinite Compute (https://arxiv.org/pdf/2509.14786)",
+        "id": 5627895,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=wE1ZgJdt4uM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/wE1ZgJdt4uM/hqdefault.jpg",
+        "title": "Inference, Diffusion, World Models, and More | YC Paper Club",
+        "vote": 0
+    }
+]

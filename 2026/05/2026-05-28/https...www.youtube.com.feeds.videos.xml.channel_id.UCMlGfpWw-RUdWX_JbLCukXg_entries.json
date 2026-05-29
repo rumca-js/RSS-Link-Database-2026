@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-28T16:03:45.363999+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-28T15:02:06+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nLightning Talk: Trust Nothing, Complain About Something, Want Everything - Jonathan Stein - CppCon 2025\n---\n\nIn performance-critical C++ development, assumptions, folklore, and \u201cgut feelings\u201d are everywhere\u2014and they\u2019re often wrong. I argue for radical skepticism: trust nothing unless it\u2019s been measured, tested, and understood. Through a series of real-world examples\u2014from misused benchmarking tools and meaningless performance claims to counterproductive compiler advice, misleading attributes, and even outright compiler bugs\u2014I will show how easily misinformation creeps into everyday engineering decisions. The talk is a fast-paced reminder that everybody lies (sometimes unintentionally), compilers aren\u2019t infallible, and performance myths can do real damage. The takeaway: complain more, demand evidence, and be unapologetically selfish about wanting correct tools, correct measurements, and correct explanations.\n---\n\nWork at Hudson River Trading (HRT): https://tinyu",
+        "id": 5625307,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=t2A2lfHe-xM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/t2A2lfHe-xM/hqdefault.jpg",
+        "title": "Lightning Talk: Trust Nothing, Complain About Something, Want Everything - Jonathan Stein - CppCon",
+        "vote": 0
+    }
+]
