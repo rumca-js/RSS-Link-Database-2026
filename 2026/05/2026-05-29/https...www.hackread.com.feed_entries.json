@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Owais Sultan",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-29T10:42:04.250360+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-29T09:53:36+00:00",
+        "description": "Email still reaches more people than any other digital channel. Getting it to actually land in the inbox&#8230;",
+        "id": 5632132,
+        "language": "en-US",
+        "link": "https://hackread.com/deliverability-problem-inbox-placement",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 139,
+        "source_url": "https://www.hackread.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "The Deliverability Problem: How New Platforms Are Solving Inbox Placement",
+        "vote": 0
+    }
+]

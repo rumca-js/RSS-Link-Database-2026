@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Foundation",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-29T16:32:30.500805+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-29T15:58:32+00:00",
+        "description": "Observability has become a critical dependency for modern cloud and AI infrastructure, yet fragmentation across tools and vendors has left engineering teams stitching together incomplete pictures. As AI agents and GPU-native clouds introduce new instrumentation demands, the cost of gaps in telemetry data is rising fast.\n\nIn this exclusive interview with Swapnil Bhartiya at TFiR, Chris Aniszczyk, CTO at CNCF, breaks down the graduation of OpenTelemetry and what it means for every engineering team building on cloud native and AI infrastructure. From the early brokered meeting that merged OpenTracing and OpenCensus into a single standard, to the emerging work on agent tracing and GPU-first cloud observability, Aniszczyk explains why OTel is now the Kubernetes of the observability world.\n\nKey Topics Covered:\n- Why OpenTelemetry graduation signals long-term sustainability and vendor-neutral governance, not just adoption\n- How OTel's four pillars, metrics, logs, traces, and profiling, map t",
+        "id": 5634996,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=d7d6JN0J3SQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 499,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfX55Sx5hEFjoC3cNs6mCUQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/d7d6JN0J3SQ/hqdefault.jpg",
+        "title": "OpenTelemetry Is the Kubernetes of Observability | Chris Aniszczyk, CNCF",
+        "vote": 0
+    }
+]

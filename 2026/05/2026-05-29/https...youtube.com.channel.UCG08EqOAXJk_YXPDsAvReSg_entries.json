@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unity",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-29T20:31:26.092261+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-29T19:04:42+00:00",
+        "description": "This is the second video in our series on Unity Industry Cloud, a collaborative 3D platform designed for teams to create, review, and deliver immersive experiences. In this video, you'll see how Unity Asset Manager facilitates efficient team collaboration on 3D assets, including version management and preparing assets for final production.\n\nTopics covered in this video:\n\u2705 Adding members and assigning roles\n\u2705 Inspection and annotation tools\n\u2705 Modifying assets and version comparison\n\u2705 Search and discovery\n\nUnity Asset Manager is available with both the Unity Industry and Unity Studio subscriptions. Unity Studio is a no-code, web-based editor that empowers anyone within an organization to create and share in 3D. Unity Industry includes the Unity Editor and provides advanced visualization, simulation, AR/VR, and interactive applications to accelerate innovation and improve workflows. \n\nSign up for the 30-day free trial of Unity Studio: https://on.unity.com/UnityStudio_Cloud\n\nSign up for t",
+        "id": 5637019,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=jococCPWZwU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 683,
+        "source_url": "https://youtube.com/channel/UCG08EqOAXJk_YXPDsAvReSg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/jococCPWZwU/hqdefault.jpg",
+        "title": "Unity Industry Cloud: Team collaboration and version control",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-29T14:16:10.895685+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-29T09:00:00+00:00",
+        "description": "<p>My nephew just graduated high school, and wants a laptop. When he decides what computer to buy, price (or more precisely, <em>value</em>) is the most important attribute.</p>\n<p>Apple's MacBook Neo upended the 'value laptop' equation\u2014Apple's not supposed to be both the cheapest option <em>and</em> the best value... but it seems like that's squarely where the Neo landed for the good-but-cheap laptop category.</p>\n<figure class=\"insert-image\"><img src=\"https://www.jeffgeerling.com/blog/2026/its-hard-to-justify-framework-12/macbook-neo-and-framework-12.jpeg\"\n alt=\"MacBook Neo on top of Framework 12\" width=\"700\" height=\"auto\">\n</figure>\n\n<p>My nephew is also my godson, and to kick off his computing journey, I thought I'd let him choose from a Framework 12 I bought to test, or the MacBook Neo I bought a couple months ago to use around the studio.</p>",
+        "id": 5633763,
+        "language": "en",
+        "link": "https://www.jeffgeerling.com/blog/2026/its-hard-to-justify-framework-12",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 162,
+        "source_url": "https://www.jeffgeerling.com/blog.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.jeffgeerling.com/blog/2026/its-hard-to-justify-framework-12/macbook-neo-and-framework-12.jpeg",
+        "title": "It's hard to justify buying a Framework 12",
+        "vote": 0
+    }
+]

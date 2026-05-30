@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeff Geerling",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-29T16:02:16.228027+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-29T14:00:02+00:00",
+        "description": "Why would someone consider a Framework 12 anyway?\n\nSome of the resources I mentioned in this video:\n\n  - MacBook Neo: https://www.apple.com/macbook-neo/\n  - Framework 12: https://frame.work/laptop12\n  - Macbook Neo test results: https://github.com/geerlingguy/sbc-reviews/issues/102\n  - Framework 12 test results: https://github.com/geerlingguy/sbc-reviews/issues/107\n  - Brad Colbow's video: https://www.youtube.com/watch?v=STzF3xm-E_I\n\nSupport me on Patreon: https://www.patreon.com/geerlingguy\nSponsor me on GitHub: https://github.com/sponsors/geerlingguy\nMerch: https://www.redshirtjeff.com\n2nd Channel: https://www.youtube.com/@GeerlingEngineering\n3rd Channel: https://www.youtube.com/@Level2Jeff\n\nContents:\n\n00:00 - A $250 price premium\n01:20 - Many things are bad\n02:22 - Slower performance\n03:22 - Some things are good\n04:31 - What about artists?\n05:02 - What would a graduate choose?\n10:17 - A bad value, not a bad laptop",
+        "id": 5634672,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=aPVAnwuSjfk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 161,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR-DXc1voovS8nhAvccRZhg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/aPVAnwuSjfk/hqdefault.jpg",
+        "title": "The Framework 12 is dead. Apple killed it.",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-29T01:33:08.338548+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-29T01:33:07.005848+00:00",
+        "description": "A CNN journalist has shared a video of the insane lines that led to her missing her flight home, as she warned tourists will face travel chaos in Europe this summer.",
+        "id": 5629564,
+        "language": "en-au",
+        "link": "https://www.news.com.au/travel/travel-updates/warnings/european-airport-plagued-by-enormous-lines-after-new-system-causes-travel-chaos/news-story/a82ef705293449dd2cf56aebb2a41177?from=rss-basic",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 409,
+        "source_url": "https://www.news.com.au/content-feeds/latest-news-travel",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://content.api.news/v3/images/bin/3abb8b68e74445130e0a160356747821?width=320",
+        "title": "\u2018Cluster f**k\u2019: Chaos amid Euro airport change",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Molly Buckley",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-29T22:26:16.042072+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-29T20:15:43+00:00",
+        "description": "<div class=\"field field--name-body field--type-text-with-summary field--label-hidden\"><div class=\"field__items\"><div class=\"field__item even\"><p><span>After public outrage, California lawmakers are moving closer to exempting open source operating systems from the sweeping age-bracketing regime mandated by last year\u2019s Digital Age Assurance Act (AB 1043). Nonetheless, the current bill still jeopardizes internet users\u2019 speech, privacy, and security.</span></p>\n<p>While the open source exemption, if passed, would improve the law, the remaining amendments proposed by AB 1856 would require all web browsers and websites to request and collect users\u2019 ages. This is an expansion of last year's AB 1043's age-bracketing system that compounds its constitutional harms to users\u2019 speech, privacy, and security. As AB 1856 moves on to the Senate, EFF will continue fighting for amendments that reduce those harms.</p>\n<h3>AB 1856 Extends AB 1043\u2019s Age-Gating Regime</h3>\n<p><span>Last year, California pas",
+        "id": 5637723,
+        "language": "en",
+        "link": "https://www.eff.org/deeplinks/2026/05/one-step-forward-two-steps-back-cas-ab-1856-exempts-open-source-expands-age-gating",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 101,
+        "source_url": "https://www.eff.org/rss/updates.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "One Step Forward, Two Steps Back: CA's AB 1856 Exempts Open Source But Expands Age-Gating",
+        "vote": 0
+    }
+]

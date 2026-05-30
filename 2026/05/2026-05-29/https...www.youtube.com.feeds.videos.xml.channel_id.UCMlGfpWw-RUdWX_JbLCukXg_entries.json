@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-29T15:50:26.772751+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-29T15:02:09+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nLightning Talk: But I was doing the right thing! - Andrei Zissu - CppCon 2025\n---\n\n2 recent short stories where doing the right thing nevertheless ended up as a C++ footgun\n---\n\nWork at Hudson River Trading (HRT): https://tinyurl.com/safxfctf\n---\n\nAndrei Zissu\n \nAndrei Zissu is a veteran cross-industry C++ developer, notably having worked on low-level reverse engineering systems employing API hooking, DLL injection and other advanced techniques. He has been a member of the WG21 C++ Standards Committee since early 2022, and as such is actively involved in the contracts study group (SG21) and is also keeping a keen eye on reflection work in SG7. He is currently employed as Windows Tech Lead at Morphisec, a revolutionary Israeli cybersecurity company.\n---\n\nCppCon is the annual, week-long face-to-face gathering for the entire C++ community. The conference is organized by the C++ community for the community. You will enjoy inspirational talks and a friendly atmosph",
+        "id": 5634589,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Poz2Prh1N7g",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/Poz2Prh1N7g/hqdefault.jpg",
+        "title": "Lightning Talk: But I was doing the right thing! - Andrei Zissu - CppCon 2025",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "David Bombal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-29T15:02:41.962012+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-29T14:00:35+00:00",
+        "description": "Do you think your encrypted DNS keeps your browsing private? In this video, I\ndemonstrate why fancy DNS solutions like Cloudflare, Quad9, or Pi-hole won't stop ISPs from seeing and blocking the websites you visit. Using a Raspberry Pi configured as a man-in-the-middle router and a simple Python script (sniblocker.py), I show you exactly how Server Name Indication (SNI) leaks your destination in clear text, even when using TLS 1.3 or HTTPS. Watch as I actively monitor and censor connections to major news sites on my own network, proving how easily governments or internet service providers can log your traffic. Finally, we discuss why routing all your traffic through a VPN is the only reliable way to completely encrypt your SNI data and protect\nyour privacy in 2026.\n\n// Python script //\nSNI Blocker Python Script: https://github.com/davidbombal/sni-dns-python-scripts/blob/main/sni_filter.py\n\n// YouTube video REFERENCE // \nYour Fancy DNS Tricks Won\u2019t Save You!:  https://youtu.be/H-tPCwxdx",
+        "id": 5634282,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=FBwHNMgxmhI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 984,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP7WmQ_U4GB3K51Od9QvM0w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/FBwHNMgxmhI/hqdefault.jpg",
+        "title": "You can be censored with a Raspberry Pi Python Script",
+        "vote": 0
+    }
+]
