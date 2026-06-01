@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Veritasium",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-30T16:31:42.713685+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-30T14:46:43+00:00",
+        "description": "The math behind Google Maps. Sponsored by boot.dev - Click this link https://boot.dev/?promo=VERITASIUM and use our code VERITASIUM to get 25% off your first payment for boot.dev. \n\nIf you\u2019re looking for a molecular modelling kit, try Snatoms, a kit I invented where the atoms snap together magnetically - https://ve42.co/SnatomsV\n\nSign up for the Veritasium newsletter for weekly science updates - https://ve42.co/Newsletter\n\nFor those curious about the path-count estimate: we estimated the non-backtracking paths NYC\u2192SF, using a sparse spatial network model with mean degree \u2248 2.5 and characteristic length \u2248 \u221aN.\n\n\u2580\u2580\u2580\n0:00 What is a \u2018shortest path algorithm\u2019?\n3:30 Dijkstra\u2019s 20 Minute Algorithm\n6:30 The First Route Planner\n10:31 A* Search Algorithm\n12:40 Shortest Doesn\u2019t Mean Fastest\n15:08 Road Network Hierarchy\n18:29 Mapping North America - Nested Dissection\n25:17 How do map apps work?\n28:04 Simplicity is pre-requisite for reliability\n\n\u2580\u2580\u2580\nCheck out @twoswap's channel for some fantastic v",
+        "id": 5642374,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=kS-CGkiPetQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 379,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/kS-CGkiPetQ/hqdefault.jpg",
+        "title": "What really happens when you ask for directions?",
+        "vote": 0
+    }
+]

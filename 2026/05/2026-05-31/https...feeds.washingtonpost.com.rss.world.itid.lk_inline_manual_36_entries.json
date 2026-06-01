@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "David   Stern",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-31T20:41:20.685162+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-31T09:00:00+00:00",
+        "description": "Kyiv says the Army of Drones Bonus system, in which points may be redeemed for weapons, is the first of its kind anywhere.",
+        "id": 5642924,
+        "language": "en-US",
+        "link": "https://www.washingtonpost.com/world/2026/05/31/ukrainian-drone-operators-compete-kill-russian-invaders",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 365,
+        "source_url": "https://feeds.washingtonpost.com/rss/world?itid=lk_inline_manual_36",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Ukraine turns real-life kills into video game thrills for drone pilots",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "OpenAI",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-30T16:31:52.583648+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-30T13:19:23+00:00",
+        "description": "Fields Medal recipient Terence Tao explains how AI is changing the way mathematicians work, making it easier to experiment, explore new ideas, and collaborate on difficult problems.\nThe video also features OpenAI Chief Research Officer Mark Chen, who discusses OpenAI's broader goal of building tools that help scientists and researchers achieve breakthroughs at scale.\nTogether, they explore how AI can expand what's possible in mathematics and science while preserving the creativity, curiosity, and discovery that drive human progress.\nTerence Tao was interviewed at an OpenAI Forum event held in partnership with IPAM (the Institute for Pure and Applied Mathematics) in March 2026.",
+        "id": 5642375,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=cdflu9ZXZGE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 935,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXZCJLdBC09xxGZ6gcdrc6A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/cdflu9ZXZGE/hqdefault.jpg",
+        "title": "Terence Tao on How AI Is Changing Mathematics",
+        "vote": 0
+    }
+]

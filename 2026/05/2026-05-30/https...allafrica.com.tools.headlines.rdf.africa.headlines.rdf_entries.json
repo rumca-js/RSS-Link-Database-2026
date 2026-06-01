@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-30T16:17:55.883579+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-30T13:38:54+00:00",
+        "description": "[State Department] The Department of State, in close coordination with the U.S. Centers for Disease Control and Prevention (CDC), is continuing to mount a rapid and comprehensive response to the Ebola outbreak in the Democratic Republic of the Congo (DRC) and Uganda. The United States is proud to be the largest financial contributor to the Ebola response effort.",
+        "id": 5642264,
+        "language": "en",
+        "link": "https://allafrica.com/stories/202605300007.html",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 15,
+        "source_url": "https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Africa: Ebola Response Update - May 29, 2026 from the U.S. State Department",
+        "vote": 0
+    }
+]

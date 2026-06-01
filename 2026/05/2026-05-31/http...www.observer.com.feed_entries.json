@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Dan Duray",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-31T20:40:38.932361+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-31T12:00:34+00:00",
+        "description": "The artist was a pioneer of installation art and is best known for assemblages of debris that appear like monochrome artifacts from the future.",
+        "id": 5642908,
+        "language": "en",
+        "link": "https://observer.com/2026/05/review-louise-nevelson-mrs-ns-palace-at-the-centre-pompidou-metz",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 243,
+        "source_url": "http://www.observer.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "title": "One Fine Show: \u201cLouise Nevelson, Mrs. N\u2019s Palace\u201d at the Centre Pompidou-Metz",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-05-30T16:45:42.124965+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-05-30T04:00:00+00:00",
+        "description": "<img src='https://i.cbc.ca/ais/cfda5b39-e6b8-4e99-9c33-8eecd821c1bd,1779993708014/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C535%2C5712%2C3213%29%3BResize%3D%28620%29' alt='A young smiling Indigenous woman holds a small tree in her hand' width='620' height='349' title='Marley Moose, 22, is part of an Indigenous tree-planting crew in northern Manitoba.'/><p>Canada is losing trees faster than nature can grow them or people can plant them. A northern Manitoba tree-planting program is trying to replace trees destroyed by wildfires, but the cancellation of the federal Two Billion Trees Program is making that more challenging.</p>",
+        "id": 5642424,
+        "language": "en",
+        "link": "https://www.cbc.ca/news/canada/manitoba/wildfires-tree-planting-canada-9.7215528?cmp=rss",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 49,
+        "source_url": "https://www.cbc.ca/webfeed/rss/rss-canada",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i.cbc.ca/ais/cfda5b39-e6b8-4e99-9c33-8eecd821c1bd,1779993708014/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C535%2C5712%2C3213%29%3BResize%3D%28620%29",
+        "title": "Wildfires are destroying trees faster than we are replacing them",
+        "vote": 0
+    }
+]
