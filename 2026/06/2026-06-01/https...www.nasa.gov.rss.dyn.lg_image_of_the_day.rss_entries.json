@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-01T15:39:44.687221+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-01T14:46:00+00:00",
+        "description": "This image of Westerlund 2 features Chandra X-ray Observatory data (pink) and James Webb infrared data (red, orange, green, cyan, and blue).",
+        "id": 5650191,
+        "language": "en-us",
+        "link": "https://www.nasa.gov/image-detail/55270825152-a1118117db-o",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 485,
+        "source_url": "https://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Pretty in Pink",
+        "vote": 0
+    }
+]

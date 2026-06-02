@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Sourav Rudra",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-01T10:59:07.481411+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-01T10:00:00+00:00",
+        "description": "M5Stack's offering has already pulled in over 10,000 Kickstarter backers.",
+        "id": 5647722,
+        "language": "en-US",
+        "link": "https://itsfoss.com/news/cardputerzero-crowdfunding",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 156,
+        "source_url": "https://news.itsfoss.com/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://itsfoss.com/content/images/2026/06/m5stack-cardputerzero-banner.png",
+        "title": "This Credit Card-Sized Linux Box Has a Keyboard, Camera, and AI Capability",
+        "vote": 0
+    }
+]

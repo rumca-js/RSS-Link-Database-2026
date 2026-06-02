@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Engineering Mindset",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-01T17:59:22.339596+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-01T17:04:21+00:00",
+        "description": "Learn how voltage regulators actually work and how to design and build one.\nCheck out PCBWAY\u27a1\ufe0f https://www.pcbway.com/ for PCB's, 3D printing and CNC at expectational value and design PCB's with Altium \u27a1\ufe0f http://altium.com/yt/engineeringmindset\nLearn how an LM317 adjustable voltage regulator turns unregulated DC into a smooth, stable output for electronics projects. In this video, we build a DIY adjustable power supply, explain how resistors and a potentiometer set the output voltage, explore dropout voltage, heat dissipation, protection diodes, filter capacitors, and even look inside the regulator using a laser teardown to understand how it really works. Perfect for beginners learning electronics, PCB design, and power supply circuits.\n\n\ud83d\udee0\ufe0f Build the kit yourself \ud83d\udee0\ufe0f\nWant to build the kit at home, click here:\ud83d\udc49 https://tinyurl.com/Voltage-Regulator-Kit\nWant to order just the PCB, click here:\ud83d\udc49 https://tinyurl.com/Order-PCB\n\n\ud83c\udf81 Design, review, and manage PCBs in one connected environment w",
+        "id": 5651539,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=9pvNuptmzyQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 961,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCk0fGHsCEzGig-rSzkfCjMw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/9pvNuptmzyQ/hqdefault.jpg",
+        "title": "How Voltage Regulators Actually Work + Build one too!",
+        "vote": 0
+    }
+]

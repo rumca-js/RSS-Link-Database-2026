@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Learn Linux TV",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-01T17:47:39.054746+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-01T15:47:32+00:00",
+        "description": "AlmaLinux is primarily viewed as a server operating system, but what about workstation use?\n\nTo find out, I decided to put AlmaLinux through a real desktop test to find out whether it can serve as a practical operating system for everyday computing. The results may surprise you!\n\n*\ud83d\udd17 Video-specific Links*\n \u2022 Check out my new \"Switching to Linux\" book! \u279c https://leanpub.com/switch-to-linux\n \u2022 Level up your troubleshooting skills with this ebook \u279c http://learnlinux.link/sysadmin-ebook\n \u2022 Check out AlmaLinux OS \u279c https://learnlinux.link/get-almalinux\n \u2022 AlmaLinux Live Media \u279c https://learnlinux.link/almalinux-live\n \u2022 AlmaLinux Creative Installer \u279c https://learnlinux.link/almalinux-creative\n\n*\ud83d\udd25 Top Recommendations*\n \u2022 Get $100 Credit to Practice on Akamai (Linode) \u279c https://learnlinux.link/linode\n \u2022 Linux Commands Cheat Sheet \u279c https://learnlinux.link/linux-commands\n \u2022 30% Off Linux Foundation Certifications (Use code \"LEARNLINUXTV\") \u279c https://learnlinux.link/lf\n \u2022 Professional tutoring fr",
+        "id": 5651374,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=jn5-jm8Cx7E",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 997,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxQKHvKbmSzGMvUrVtJYnUA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/jn5-jm8Cx7E/hqdefault.jpg",
+        "title": "AlmaLinux as a Desktop OS? The Results May Surprise You!",
+        "vote": 0
+    }
+]

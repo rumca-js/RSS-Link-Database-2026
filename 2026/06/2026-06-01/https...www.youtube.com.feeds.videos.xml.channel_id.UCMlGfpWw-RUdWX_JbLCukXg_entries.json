@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-01T15:43:58.495571+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-01T15:02:46+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nLightning Talk: Navigating Code Reviews as a Code Author - Ben Deane - CppCon 2025\n---\n\nAs authors of code, we want our work to get into the main line quickly and with a mininum of fuss. We can influence this process to a large extent! This lighting talk highlights some of the things we can do to make reviewers' jobs easier and make the process go more smoothly for everyone.\n---\n\nSlides: https://github.com/CppCon/CppCon2025/blob/main/Presentations/Navigating_Code_Reviews.pdf\n\nWork at Hudson River Trading (HRT): https://tinyurl.com/safxfctf\n---\n\nBen Deane\n \nBen has been programming in C++ for this whole millennium. He spent just over 20 years in the games industry working for companies like EA and Blizzard; many of the games he worked on used to be fondly remembered but now he's accepted that they are probably mostly forgotten. After getting more interested in modern C++, in the teens he started giving internal company talks and then talks at various conference",
+        "id": 5650237,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=zygtgvHp_MM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/zygtgvHp_MM/hqdefault.jpg",
+        "title": "Lightning Talk: Navigating Code Reviews as a Code Author - Ben Deane - CppCon 2025",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-02T02:59:23.865815+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-01T08:00:00+00:00",
+        "description": "<p><span>\n\nMost rooftop solar installs don't provide power when the grid is down.\nThe primary goal is to avoid sending power out to the grid where it\ncould injure people working to restore power, but more recently it's\nbeen expanded to avoid energized lines extending out from the panel\nwhere they could injure a firefighter on the roof.  When we installed\nsolar </span>\n\n<a href=\"https://www.jefftk.com/p/solar-one-year-in\">in 2018</a>\nwe \n\n<a href=\"https://www.jefftk.com/p/home-solar-resiliency\">selected</a> an\ninverter which offers an outlet that provides best-effort power\n(\"Secure Power Supply\") during grid outages when the sun is shining.\nI'd try to sell you on it, but the newer rules mean my inverter\nwouldn't be legal for a new install.\n\n\n\n<p>\n\nI suspect this <a href=\"https://www.jefftk.com/p/solar-blackout-resistance\">doesn't pass\na cost-benefit test</a>, especially when you consider the risk of <a href=\"https://www.jefftk.com/p/disasters\">serious disasters</a>.\nSince the harms of ",
+        "id": 5654845,
+        "language": "en-US",
+        "link": "https://www.jefftk.com/p/testing-best-effort-solar",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 163,
+        "source_url": "https://www.jefftk.com/news.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.jefftk.com/sps-powering-light-bulb.jpg",
+        "title": "Testing Best-Effort Solar",
+        "vote": 0
+    }
+]

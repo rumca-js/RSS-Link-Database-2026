@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-01T22:23:31.808764+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-01T22:23:29.937501+00:00",
+        "description": "The future circular collider at CERN, intended to probe the properties of the Higgs boson in 20 years' time, excites physicists. Yet its construction, beneath the surface of France and Switzerland, is certain to impact the environment and local residents. For that reason, a public debate on this colossal project begins on June 2 and will continue for several months.",
+        "id": 5653514,
+        "language": "en-US",
+        "link": "https://www.lemonde.fr/en/science/article/2026/06/02/public-debate-begins-on-the-higgs-factory-europe-s-future-particle-accelerator_6754032_10.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 190,
+        "source_url": "https://www.lemonde.fr/en/science/rss_full.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.lemde.fr/2026/06/01/456/0/5477/2738/644/322/60/0/644b16d_upload-1-wv4fgxpsapyg-000-1or6u9.jpg",
+        "title": "Public debate begins on the 'Higgs factory,' Europe's future particle accelerator",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-01T09:48:18.733027+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-01T01:55:50+00:00",
+        "description": "Olimex&#8217;s USB-LTE4G-EU is a compact USB modem designed to provide 4G LTE connectivity for IoT, industrial, telemetry, and embedded Linux applications. The device is based on the Quectel EG800K-EU cellular module and supports LTE Cat 1 bis technology, which is increasingly being adopted in connected devices requiring moderate data throughput, low power consumption, and long-term [&#8230;]",
+        "id": 5645752,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/olimex-brings-lte-cat-1-bis-connectivity-to-embedded-linux-systems",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Olimex brings LTE Cat 1 bis connectivity to embedded Linux systems",
+        "vote": 0
+    }
+]
