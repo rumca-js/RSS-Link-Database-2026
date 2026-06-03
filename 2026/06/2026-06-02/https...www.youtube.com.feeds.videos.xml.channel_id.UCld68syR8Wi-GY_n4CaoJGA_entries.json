@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-02T18:37:43.863619+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-02T17:30:01+00:00",
+        "description": "There's been a situation going on in Rsync following the creator and now back as lead maintainer Tridge introducing Claude into the code base and a bunch of new issues being discovered, some of which happen to be regressions but it turns out that a happened to be older problems and the Github exploded.\n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\nFirst Commit: https://github.com/RsyncProject/rsync/commit/aa142f08ef31d3ffa8d6b3b8af16d00324a98c1b\nIssue 903: https://github.com/RsyncProject/rsync/pull/903/\nIssue 896: https://github.com/RsyncProject/rsync/issues/896\nIssue 897: https://github.com/RsyncProject/rsync/issues/897\nIssue 905: https://github.com/RsyncProject/rsync/issues/905\nIssue 910: https://github.com/RsyncProject/rsync/issues/910\nIssue 915: https://github.com",
+        "id": 5661509,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=FLCfRs6nKW8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/FLCfRs6nKW8/hqdefault.jpg",
+        "title": "The Rsync Situation Has Gone Too Far",
+        "vote": 0
+    }
+]

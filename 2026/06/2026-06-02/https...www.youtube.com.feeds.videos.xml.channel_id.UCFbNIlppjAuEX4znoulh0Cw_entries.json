@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Web Dev Simplified",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-02T18:11:57.315656+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-02T16:00:33+00:00",
+        "description": "AI is terrible at writing clean easy to maintain code. This is why I recommend you use Fallow in every project. This tool helps solve the slop that AI produces and leaves you with a codebase that is cleaner and easier to maintain. In this video I will teach you everything you need to know to use Fallow in your projects.\n\n\n\ud83d\udcda Materials/References:\n\nFallow: https://fallow.tools\nLocal AI Setup Video: https://youtu.be/UngVdAsQEiU\n\n\n\ud83c\udf0e Find Me Here:\n\nMy Blog: https://blog.webdevsimplified.com\nMy Courses: https://courses.webdevsimplified.com\nPatreon: https://www.patreon.com/WebDevSimplified\nTwitter: https://twitter.com/DevSimplified\nDiscord: https://discord.gg/7StTjnR\nGitHub: https://github.com/WebDevSimplified\nCodePen: https://codepen.io/WebDevSimplified\n\n\n\u23f1\ufe0f Timestamps:\n\n00:00 - Introduction\n01:25 - Setup\n02:17 - Basic Usage\n08:29 - VSCode Setup\n10:00 - AI Agent Setup\n12:50 - Fallow Configuration\n\n\n#Fallow #WDS #AgenticCoding",
+        "id": 5661225,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=t3my5ByUhFU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 994,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFbNIlppjAuEX4znoulh0Cw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/t3my5ByUhFU/hqdefault.jpg",
+        "title": "I Won\u2019t Use AI Without This Tool",
+        "vote": 0
+    }
+]

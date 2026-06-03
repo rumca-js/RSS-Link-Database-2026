@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/clarkky55",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-02T21:07:16.144778+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-02T20:37:26+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>I downloaded part of a channel, stopped the download by accident but when I went to redownload it started from the beginning. Is there a way so it only downloads videos that haven&#39;t been downloaded already?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/clarkky55\"> /u/clarkky55 </a> <br/> <span><a href=\"https://www.reddit.com/r/youtubedl/comments/1tv3eg2/how_do_i_get_ytdlp_to_download_only_new_videos_it/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/youtubedl/comments/1tv3eg2/how_do_i_get_ytdlp_to_download_only_new_videos_it/\">[comments]</a></span>",
+        "id": 5662648,
+        "language": "en",
+        "link": "https://www.reddit.com/r/youtubedl/comments/1tv3eg2/how_do_i_get_ytdlp_to_download_only_new_videos_it",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 791,
+        "source_url": "https://www.reddit.com/r/youtubedl/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "How do I get yt-dlp to download only new videos it hasn't downloaded in the past from a channel?",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "GitHub",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-02T17:58:37.690409+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-02T17:30:17+00:00",
+        "description": "Switching between pull requests and issues usually means losing context and wasting time. In this demo, we show how the new GitHub Copilot app keeps all your work in one place. By using isolated work trees, you can manage multiple active branches without ever stashing changes. Watch as we use agent merge to handle slow CI and merge branches automatically. Keep your momentum going and ship code faster.\n\n#GitHubCopilot #MicrosoftBuild #GitHub \n\nGitHub Copilot app: https://gh.io/gh-copilot-app-download\n\nStay up-to-date on all things GitHub by connecting with us:\n\nYouTube: https://gh.io/subgithub\nBlog: https://github.blog\nX: https://twitter.com/github\nLinkedIn: https://linkedin.com/company/github\nInsider newsletter: https://resources.github.com/newsletter/\nInstagram: https://www.instagram.com/github\nTikTok: https://www.tiktok.com/@github\n\nAbout GitHub\nIt\u2019s where over 180 million developers create, share, and ship the best code possible. It\u2019s a place for anyone, from anywhere, to build any",
+        "id": 5660930,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=mv6MMQ2j128",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 1005,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7c3Kb6jYCRj4JOHHZTxKsQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/mv6MMQ2j128/hqdefault.jpg",
+        "title": "How to ship from issue to merge with the GitHub Copilot app | demo",
+        "vote": 0
+    }
+]

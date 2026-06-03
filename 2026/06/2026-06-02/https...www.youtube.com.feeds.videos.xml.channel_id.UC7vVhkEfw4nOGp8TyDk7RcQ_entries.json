@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Boston Dynamics",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-02T14:33:28.139086+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-02T13:56:37+00:00",
+        "description": "If you've ever worked on your feet all day, you know how important a good pair of shoes is. Mechanical design engineer Chastity Kelly shares how we built Atlas functional feet.",
+        "id": 5658938,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/GvByvkp6k5s",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 451,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7vVhkEfw4nOGp8TyDk7RcQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/GvByvkp6k5s/hqdefault.jpg",
+        "title": "Do robots need shoes? | Ask a Roboticist #atlas #robot #bostondynamics",
+        "vote": 0
+    }
+]

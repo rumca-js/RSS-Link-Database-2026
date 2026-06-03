@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "DistroTube",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-02T13:49:05.615030+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-02T13:00:24+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/FPVQ_w0wxCI\" width=\"480\" alt=\"thumbnail\" title=\"How To Schedule Linux Jobs With Cronie\" /></p>Have you ever wanted to automate certain tasks on your Linux system?  Maybe a backup, or system cleanup, or running a specific script every week or every month.  Cronie allows you to easily schedule such tasks on your Linux machine.<br /><br />REFERENCED:<br />\u25ba <a href=\"https://wiki.archlinux.org/title/Cron\">https://wiki.archlinux.org/title/Cron</a><br /><br />WANT TO SUPPORT THE CHANNEL? <br />\ud83d\udcb0 Patreon: <a href=\"https://www.patreon.com/distrotube\">https://www.patreon.com/distrotube</a> <br />\ud83d\udcb3 Paypal: <a href=\"https://www.paypal.com/donate/?hosted_button_id=MW3ZFGS8Q9JGW\">https://www.paypal.com/donate/?hosted_button_id=MW3ZFGS8Q9JGW</a><br />\ud83d\udecd\ufe0f Amazon: <a href=\"https://amzn.to/2RotFFi\">https://amzn.to/2RotFFi</a><br />\ud83d\udc55 Teespring: <a href=\"https://teespring.com/stores/distrotube\">https://teespring.com/stores/distrotube</a><br /><br />DT ON THE WEB:<",
+        "id": 5658527,
+        "language": "en",
+        "link": "https://odysee.com/how-to-schedule-linux-jobs-with-cronie:6cabe2a42494130f30ce5c215ded1a413f45a360",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 518,
+        "source_url": "https://odysee.com/$/rss/@DistroTube:2",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/FPVQ_w0wxCI",
+        "title": "How To Schedule Linux Jobs With Cronie",
+        "vote": 0
+    }
+]

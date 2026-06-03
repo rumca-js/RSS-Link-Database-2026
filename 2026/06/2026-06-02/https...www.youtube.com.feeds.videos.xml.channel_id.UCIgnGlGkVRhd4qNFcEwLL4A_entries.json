@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "AI Search",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-02T07:56:22.171343+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-02T03:26:17+00:00",
+        "description": "PiD Pixel Diffusion by Nvidia. Best AI image model for high resolution images. Free & open source #ai #aitools #aiart #imagegeneration #agi\n\nThanks to our sponsor Higgsfield. Try it today https://higgsfield.ai/s/general-theaisearch-axXCBN\n\nWorkflows https://github.com/Comfy-Org/ComfyUI/pull/14103\nGemma 2b https://huggingface.co/Comfy-Org/PixelDiT/tree/main/text_encoders \nPiD models https://huggingface.co/Comfy-Org/PixelDiT/tree/main/diffusion_models\n\nZ-image: https://huggingface.co/Comfy-Org/z_image_turbo/tree/main/split_files/diffusion_models\nQwen3 4b: https://huggingface.co/Comfy-Org/z_image_turbo/tree/main/split_files/text_encoders \nVAE: https://huggingface.co/Comfy-Org/z_image_turbo/tree/main/split_files/vae\n\nZ-image tutorial: https://youtu.be/iNM5z8cCH8w\nComfyUI tutorial https://youtu.be/g74Cq9Ip2ik\n\n\nTimestamps\n0:00 PiD intro\n0:19 Personal demos\n2:00 More demos and how it works\n2:52 PiD vs SeedVR2\n4:14 How to install\n5:49 Workflows\n6:24 PiD upscaler workflow\n11:46 Higgsfield\n13:",
+        "id": 5656064,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=DlvhlQOBHBw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 806,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIgnGlGkVRhd4qNFcEwLL4A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/DlvhlQOBHBw/hqdefault.jpg",
+        "title": "The BEST AI for 4K images. Free & fast",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-02T15:48:20.193768+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-02T15:02:09+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nLightning Talk: Eight Consteval Queens and Compile-Time Printing - Sagnik Bhattacharya - CppCon 2025\n---\n\nIn this talk we will first convert a template metaprogram that solves the 8-queen problem into a consteval compile-time program. Then we will explore ways to make gcc and clang print at compile time.\n---\n\nWork at Hudson River Trading (HRT): https://tinyurl.com/safxfctf\n---\n\nSagnik is a software engineer at IMC Trading, where they contribute to the hardware team\u2019s low-latency systems and networking solutions. Their work focuses mainly on C++ with some Python. Sagnik earned both a Bachelor\u2019s and Master\u2019s degree in EECS/CS from UC Berkeley.\n---\n\n\nCppCon is the annual, week-long face-to-face gathering for the entire C++ community. The conference is organized by the C++ community for the community. You will enjoy inspirational talks and a friendly atmosphere designed to help attendees learn from each other, meet interesting people, and generally have a stimulat",
+        "id": 5659700,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=gNPhJrXLiIs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/gNPhJrXLiIs/hqdefault.jpg",
+        "title": "Lightning Talk: Eight Consteval Queens and Compile-Time Printing - Sagnik Bhattacharya - CppCon 2025",
+        "vote": 0
+    }
+]

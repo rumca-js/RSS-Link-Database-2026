@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unreal Engine",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-02T14:10:32.120978+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-02T13:22:20+00:00",
+        "description": "Join us as our guests Dan Pearson and Alim Chaarani explore the Niagara Examples pack; a collection of VFX assets that are authored with best practices in mind, including scalability, Effect Types, Niagara Data Channels, and Lightweight emitters, plus limiting user parameters and emitter counts.  The team will discuss the pack, break down examples of the pack, and provide insights and tips on best practices.  \n\nYou can explore this pack yourself here: https://www.fab.com/listings/0e188eca-4e54-4fb2-a9ed-d8b8a565e600",
+        "id": 5658719,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=NxKz7Pnww54",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 685,
+        "source_url": "https://youtube.com/channel/UCBobmJyzsJ6Ll7UbfhI4iwQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/NxKz7Pnww54/hqdefault.jpg",
+        "title": "Exploring the Niagara Examples Pack | Inside Unreal",
+        "vote": 0
+    }
+]
