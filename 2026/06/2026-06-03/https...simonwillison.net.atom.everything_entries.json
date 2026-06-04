@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Simon Willison",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-03T13:04:45.847584+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-03T12:01:27+00:00",
+        "description": null,
+        "id": 5668329,
+        "language": "en-us",
+        "link": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/#atom-everything",
+        "manual_status_code": 0,
+        "page_rating": 28,
+        "page_rating_contents": 87,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 423,
+        "source_url": "https://simonwillison.net/atom/everything",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Uber Caps Usage of AI Tools Like Claude Code to Manage Costs",
+        "vote": 0
+    }
+]

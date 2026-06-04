@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-03T12:36:35.130397+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-03T10:00:21+00:00",
+        "description": "Explore the podcast \u2192 https://ibm.biz/~20kwS8piW\n\nOpen source software powers more than 90% of Fortune 500 companies. It also powers a growing number of cyberattacks. \n\nThis week on Security Intelligence, we dig into IBM and Red Hat's $5 billion answer to that problem: Project Lightwell, a massive investment in AI-augmented engineers and a trusted security clearinghouse designed to shore up the open source ecosystem from the inside out.\n\nWe also break down SymJack, a clever new attack technique that turns AI coding agents against themselves by tricking them into overwriting their own configuration files. And the most worrisome part is how it gets around human-in-the-loop checks.\n\nAnd: LayerX's \"State of AI Usage Report 2026\" shows AI adoption isn't spreading evenly across organizations. We explore what it means for cybersecurity pros when AI fragments throughout the software supply chain while simultaneously concentrating in the hands of a few power users. \n\nSegments:\n00:00 - Intro\n1:",
+        "id": 5668093,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=aa6k-JrZTYI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/aa6k-JrZTYI/hqdefault.jpg",
+        "title": "Project Lightwell brings open source security into the AI era",
+        "vote": 0
+    }
+]

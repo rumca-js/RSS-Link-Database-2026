@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-03T17:05:26.766200+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-03T15:10:00+00:00",
+        "description": "At least 21 people have been killed after a fire tore through a hotel in the Indian capital New Delhi.",
+        "id": 5670608,
+        "language": "en-US",
+        "link": "https://news.sky.com/story/at-least-21-killed-in-new-delhi-hotel-fire-13550462",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 305,
+        "source_url": "https://feeds.skynews.com/feeds/rss/world.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://e3.365dm.com/26/06/1920x1080/skynews-hotel-fire-india_7264229.jpg?20260603081928",
+        "title": "At least 21 killed in New Delhi hotel fire",
+        "vote": 0
+    }
+]

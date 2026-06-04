@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-03T18:27:30.177070+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-03T18:02:52+00:00",
+        "description": "The incidents strain a partial ceasefire agreed by Israel and the Lebanese armed group on Monday.",
+        "id": 5671411,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/c5y01pdqvkgo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 525,
+        "source_url": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e4dd/live/3b625900-5f66-11f1-8b8c-6d33e1d5abb6.jpg",
+        "title": "Israeli strikes kill nine in Lebanon as Hezbollah fires rockets over border",
+        "vote": 0
+    }
+]

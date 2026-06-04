@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "OpenAI",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-03T21:00:20.157970+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-03T19:11:26+00:00",
+        "description": "Welcome to the new frontier of building.\n\nTake on more tasks, move effortlessly across projects, and ship faster.\n\nTry Codex for free today:\nhttps://openai.com/codex/",
+        "id": 5672542,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=bJcA23ckzcY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 935,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXZCJLdBC09xxGZ6gcdrc6A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/bJcA23ckzcY/hqdefault.jpg",
+        "title": "It's time to fly | Codex",
+        "vote": 0
+    }
+]

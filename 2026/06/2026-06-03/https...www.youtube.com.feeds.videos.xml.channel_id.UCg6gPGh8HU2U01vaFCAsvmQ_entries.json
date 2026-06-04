@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Chris Titus Tech",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-03T12:21:17.866961+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-03T11:15:27+00:00",
+        "description": "Zed Editor isn't just a VS Code replacement \u2014 it's what you get when Neovim and VS Code have a baby. I've been using it heavily and my setup is completely different from what you'll find anywhere else online.\n\nIn this video I cover custom tasks, Vim bindings that actually feel good, parallel agents, my image/screenshot workflow for markdown, Git integration, theme switching, and how I manage multiple open source projects seamlessly.\nIf you're a Neovim or VS Code user, Zed might replace both. Here's my honest take after daily use.\n\n\ud83d\udcc4 My Zed Config (backed up for Windows/Mac/Linux): https://github.com/christitustech/zed-titus\n\ud83d\udd17 Zed Vim Mode Docs: https://zed.dev/docs/vim\n\ud83d\udcdd Full Zed Setup Article: https://christitus.com/zed-editor\n\n00:00 Zed: My Hot Take\n00:45 AI & Agents\n01:24 Git Workflow\n01:52 Vim Bindings\n02:37 My Layout Setup\n03:48 Custom Tasks\n05:07 Screenshot Workflow\n05:35 GitHub Copilot Setup\n06:39 Custom Keybindings\n07:50 Threads & Parallel Agents\n09:17 Picking AI Models\n11:24 ",
+        "id": 5667954,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=59jRdtEiSpA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 444,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCg6gPGh8HU2U01vaFCAsvmQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/59jRdtEiSpA/hqdefault.jpg",
+        "title": "Why I Left VS Code and Neovim for Zed Editor",
+        "vote": 0
+    }
+]

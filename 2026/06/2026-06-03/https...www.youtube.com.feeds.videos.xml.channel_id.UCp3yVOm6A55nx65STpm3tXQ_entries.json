@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Craft Computing",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-03T20:36:02.941170+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-03T19:53:35+00:00",
+        "description": "Thanks to Twingate for sponsoring today's video. Connect to any network or service you need without complicated firewall rules or routing. Get started with Twingate for free: https://twingate.plug.dev/7wJEkbf\n\nGrab yourself a Pint Glass at https://craftcomputing.store\n\nFollow me on Bluesky @CraftComputing.bsky.social\n\nIt's been nearly eight months since the Nvidia DGX V100 server landed in my office, and was promptly installed into a COLO datacenter, and in that time I've done all the AI testing I could ever want. Now it's time to play some games. Will the Nvidia Tesla V100 32GB cards hold up to modern standards, or have we since passed the time they were ahead of already?\n\nBut first... What am I drinking???\n\nGreat Notion (Portland, OR) Serious Robot Hazy IPA (7.0%)\n\n*Links to items below may be affiliate links for which I may be compensated*\n\nThanks again to Unix Surplus for sending over the Inspur DGX V100 server. Check out their eBay store here: https://ebay.us/QSJcri\n\nInspur DGX V",
+        "id": 5672354,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=9c1c3JPZ2ps",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 909,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCp3yVOm6A55nx65STpm3tXQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/9c1c3JPZ2ps/hqdefault.jpg",
+        "title": "EIGHT GPUs in a Cloud Gaming Server - Nvidia DGX V100",
+        "vote": 0
+    }
+]

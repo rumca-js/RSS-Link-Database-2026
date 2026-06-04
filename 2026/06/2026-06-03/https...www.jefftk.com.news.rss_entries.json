@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-04T02:59:49.791657+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-03T08:00:00+00:00",
+        "description": "<p><span>\n\nRunning an air purifier on a battery could be really useful in an\nemergency that combined a biological or nuclear threat with a power\noutage.  Getting one that can run on 12V DC and attaching it to a\nLiFePO4 battery is about $188 (plus $164 for the purifier) for\nsomething that will give you 141 CFM for over a week.\n\n</span>\n\n<p>\n\n</p>\n\n<hr>\n\n\n\n<p>\n\nI've been thinking about DIY biohardening, primarily to reduce risks\nfrom <a href=\"https://defensesindepth.bio/prioritizing-environment-to-human-biological-threats/\">environment-to-human\nthreats</a>, and a lot of <a href=\"https://defensesindepth.bio/it-may-be-possible-to-improvise-a-high-grade-bioshelter/\">what's\nout there</a> assumes the power grid stays up.  This doesn't seem like\na good assumption: even if society does a fantastic job protecting\nessential workers and prioritizing keeping the grid up, I expect many\nmore outages than we have today, and longer ones.  If an outage means\nyou lose positive pressure and get sick, tha",
+        "id": 5674698,
+        "language": "en-US",
+        "link": "https://www.jefftk.com/p/running-an-air-purifier-on-batteries",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 163,
+        "source_url": "https://www.jefftk.com/news.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.jefftk.com/airfanta-off-grid-with-batteries.jpg",
+        "title": "Running An Air Purifier on Batteries",
+        "vote": 0
+    }
+]
