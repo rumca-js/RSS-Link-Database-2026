@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/pepitahollo",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-04T22:20:53.832807+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-04T22:07:15+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>I would like to share my first Django project. To be honest, I\u2019m a data analyst, not a web developer, but I wanted to create an interactive project with data pipelines and visualizations. The web app is a memory game where you can choose different table sizes, and you are randomly given a few seconds (0, 3, 5, or 7) to memorize the table.</p> <p>The game is connected to a PostgreSQL database and stores the positions and timing of the clicks made during the game. Based on this data, I created a dashboard that helps uncover some metrics about the games played. There are some basic statistics, but custom charts can also be created based on the stages of the game, the distribution of clicks on the table, and a top list of the pictures.</p> <p>The stack is quite simple: pure HTML, CSS, and JavaScript for the frontend, and Python + Django for the backend. For data processing and visualization, I used Pandas, Matplotlib, and Seaborn.</p> <p>The main purpose ",
+        "id": 5682416,
+        "language": "",
+        "link": "https://www.reddit.com/r/django/comments/1tx25ge/an_online_memory_game_with_a_dashboard_when_a",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 491,
+        "source_url": "https://www.reddit.com/r/django/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "An online memory game with a dashboard \u2013 When a data analyst builds a website",
+        "vote": 0
+    }
+]

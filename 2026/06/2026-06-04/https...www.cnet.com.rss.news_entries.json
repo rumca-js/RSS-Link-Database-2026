@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Tyler Lacoma",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-04T02:10:15.366218+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-04T01:34:25+00:00",
+        "description": "SwitchBot's new E Ink display offers a complete weather hub, smart calendar support and even travel recommendations.",
+        "id": 5674546,
+        "language": "en",
+        "link": "https://www.cnet.com/home/smart-home/switchbot-launches-complete-home-weather-station",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 58,
+        "source_url": "https://www.cnet.com/rss/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.cnet.com/a/img/resize/bcd142cef6e142642dd0bb6025fee008062ace7d/hub/2026/06/03/d12cfa7a-554c-43da-9228-08b0ea152f7d/switchbot-weather-station-1-1.jpg?auto=webp&width=300",
+        "title": "SwitchBot Launches the Most Complete Home Weather Station I've Seen",
+        "vote": 0
+    }
+]

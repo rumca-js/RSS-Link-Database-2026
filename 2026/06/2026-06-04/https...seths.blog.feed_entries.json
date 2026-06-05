@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Seth Godin",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-04T09:54:19.385202+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-04T09:03:00+00:00",
+        "description": "In simple situations with obvious metrics, transparency earns trust. Voting, for example, benefits from audit trails and inspectability. But transparency can also undermine trust. Walking through the typical restaurant kitchen on the way to dinner probably won&#8217;t increase the typical diner&#8217;s trust in the experience. The restaurant isn&#8217;t hiding anything; it&#8217;s just that they know [&#8230;]",
+        "id": 5676441,
+        "language": "en-US",
+        "link": "https://seths.blog/2026/06/transparency-and-trust",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Transparency and trust",
+        "vote": 0
+    }
+]

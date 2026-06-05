@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-04T12:52:28.372591+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-04T11:00:02+00:00",
+        "description": "Learn more about What OpenClaw Reveals About Agentic AI Security Risks here \u2192 https://ibm.biz/~S29jyA638\n\nOpenClaw security risks are bigger than you think. \u26a0\ufe0f Jeff Crume breaks down OpenClaw security risks across AI agents, from prompt injection to credential exposure. Learn how agent autonomy, tools, and memory create real-world vulnerabilities\u2014and how to think about using them safely.\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/~58WSWq3SF\n\n#aiagents #openclaw #aisecurity",
+        "id": 5677670,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=7qZH3D7u-z8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/7qZH3D7u-z8/hqdefault.jpg",
+        "title": "OpenClaw Security Risks: 6 Dangers of Autonomous AI Agents",
+        "vote": 0
+    }
+]

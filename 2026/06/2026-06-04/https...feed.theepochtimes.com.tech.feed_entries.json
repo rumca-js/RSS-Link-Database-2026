@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jacob Burg",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-04T21:43:36.469258+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-04T21:22:24+00:00",
+        "description": "Anthropic had warned of a potential cybersecurity reckoning from frontier AI models when announcing its Claude Mythos Preview in April.",
+        "id": 5682252,
+        "language": "en-US",
+        "link": "https://www.theepochtimes.com/tech/anthropic-calls-for-global-pause-in-ai-development-warns-of-self-improvement-risk-6042669",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 105,
+        "source_url": "https://feed.theepochtimes.com/tech/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.theepochtimes.com/assets/uploads/2026/04/21/id6015136-GettyImages-2271805780.jpg",
+        "title": "Anthropic Calls for Global Pause in AI Development, Warns of \u2018Self-Improvement\u2019 Risk",
+        "vote": 0
+    }
+]

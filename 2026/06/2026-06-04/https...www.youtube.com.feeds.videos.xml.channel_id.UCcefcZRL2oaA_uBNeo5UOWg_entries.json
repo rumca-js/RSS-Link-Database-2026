@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-04T14:32:59.695399+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-04T14:00:22+00:00",
+        "description": "In the first episode of our new series Full Stack, Conductor CEO and co-founder Charlie Holtz takes us into the details of how he sets up his workflow for coding and managing AI agents. \n\nhttps://www.conductor.build/\n\nApply to Y Combinator: https://www.ycombinator.com/apply\nWork at a startup: https://www.ycombinator.com/jobs\n\nChapters:\n\n00:00 - Intro\n00:23 - Talking to computers more!\n00:51 - Using Conductor to build Conductor\n02:20 - Conductor \u201con the go\u201d\n02:40 - Does Charlie still write code by hand?\n04:04 - Feeling like the CEO of a little company\n04:18 - Other apps & software, customization \n05:48 - \u201cSlop-free\u201d zones\n06:33 - Conductor tech stack\n07:06 - Don\u2019t let the AI be your architect\n08:31 - Where you can give the AI more free reign\n08:59 - Enforcing workflows and building conviction\n10:40 - Codex vs Claude Code\n11:17 - Why is a terminal not enough? \n12:01 - Thoughts on tokenmaxxing? \n12:53 - How have workflows changed compared to 6 months ago?\n13:25 - Most surprising thing so",
+        "id": 5678439,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=fQmlML9Lay4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/fQmlML9Lay4/hqdefault.jpg",
+        "title": "How Conductor CEO Charlie Holtz Sets Up His Team Of AI Agents",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Matt Wolfe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-04T15:38:00.854603+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-04T12:45:00+00:00",
+        "description": "BIG NEWS: YouTube is finally cracking down on AI generated videos.\n\nUntil now, creators had to manually check a box in the back end to disclose if their content was made with AI, but let\u2019s be real\u2026most people just didn\u2019t do it. \n\nNow, YouTube is moving the AI disclosure label to a much more prominent position and introducing AUTOMATIC AI detection.\n\nThis is super interesting to me because a lot of times my YouTube video intros are made with AI, but the entire rest of the video doesn't. So I wonder if my videos get flagged automatically.\n\nWhat do you guys think of this new update?\n\n#YouTube #AI #AInews #ContentCreator #genAI",
+        "id": 5679184,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/BNKTPkhSibQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 933,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChpleBmo18P08aKCIgti38g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/BNKTPkhSibQ/hqdefault.jpg",
+        "title": "YouTube Is Cracking Down On AI Slop",
+        "vote": 0
+    }
+]

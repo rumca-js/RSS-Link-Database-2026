@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unity",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-04T18:37:14.873208+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-04T17:54:53+00:00",
+        "description": "Runtime data binding in UI Toolkit connects your user interface directly to application data so the UI automatically reflects changes in state. This reduces the amount of manual update logic for every element.\n\nThis video introduces how to set up runtime data binding in UI Toolkit using UI Builder, UXML, and ScriptableObjects.\n\nYou\u2019ll see how Data Source, Data Source Path, binding modes, and converters work together so your UI displays data with minimal manual scripting.\n\nLearn more about runtime data binding: https://on.unity.com/RuntimeDataBinding\n\nLearn more about UI Toolkit scripting: https://on.unity.com/UIToolkitScripting\n\nDownload the QuizU sample project: https://on.unity.com/QuizUSample\n\n[0:00] Introduction\n[0:22] What is data binding?\n[1:30] Setting up the data source\n[2:18] Configuring the ScriptableObject\n[3:39] Building the View (HealthBar UI)\n[4:15] Setting data bindings\n[7:15] Binding a style property\n[8:43] Binding modes\n[9:31] Using converters\n[12:15] Wrap-up\n\n_______",
+        "id": 5680847,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=SDWIXpsxv-M",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 683,
+        "source_url": "https://youtube.com/channel/UCG08EqOAXJk_YXPDsAvReSg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/SDWIXpsxv-M/hqdefault.jpg",
+        "title": "UI Toolkit runtime data binding: Basics",
+        "vote": 0
+    }
+]

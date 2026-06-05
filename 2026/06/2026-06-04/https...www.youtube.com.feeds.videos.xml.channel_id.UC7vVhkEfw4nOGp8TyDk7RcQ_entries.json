@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Boston Dynamics",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-04T14:07:43.103321+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-04T13:33:18+00:00",
+        "description": "How did Atlas learn football \u2013 and why?\n\nGo behind the scenes of School of Football and discover a glimpse of the Next of robotics. Keep reading for more from our team: https://bostondynamics.com/blog/can-football-teach-a-robot-to-move/\n\nNext Starts Now\n\n#Hyundai #NextStartsNow #Atlas #BostonDynamics #SchoolofFootball #Robotics",
+        "id": 5678214,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=qYy-BwBpxBI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 451,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7vVhkEfw4nOGp8TyDk7RcQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/qYy-BwBpxBI/hqdefault.jpg",
+        "title": "School of Football | Making Of | Boston Dynamics x Hyundai",
+        "vote": 0
+    }
+]

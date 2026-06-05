@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-04T19:15:47.783429+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-04T17:30:09+00:00",
+        "description": "Recently Flathub added a new LLM policy basically blocking all AI apps, except not all at all because there's a massive exception for existing apps and anything deemed \"well maintained\". For good reason because a lot of what's already on Flathub has AI code in it.\n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\nGnome Extension Policy: https://gjs.guide/extensions/review-guidelines/review-guidelines.html#extensions-must-not-be-ai-generated\nGnome Circle: https://gitlab.gnome.org/Teams/Releng/AppOrganization/-/blob/main/AppCriteria.md#circle-app-criteria\nMastodon Post: https://social.treehouse.systems/@barthalion/116657011366876079\nSlop Submissions: https://github.com/flathub/flathub/pulls?q=is%3Apr+is%3Aclosed+label%3A%22AI+Slop%22\nNew AI Policy: https://github.com/flathu",
+        "id": 5681103,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=UIT4w9bndqE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/UIT4w9bndqE/hqdefault.jpg",
+        "title": "Flathub's New AI Policy Has Some Problems",
+        "vote": 0
+    }
+]

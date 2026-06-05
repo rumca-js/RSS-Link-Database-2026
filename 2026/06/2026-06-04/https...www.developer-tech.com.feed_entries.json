@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ryan Daws",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-04T12:40:36.047311+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-04T12:34:17+00:00",
+        "description": "<p>Google has released Gemma 4 12B, an open-weights model designed to execute complex, multimodal AI workloads directly on standard laptops. This enables agentic AI workflows that operate with zero network latency on local data, addressing core enterprise concerns around privacy, cost, and responsiveness. The new 11.95-billion-parameter model is optimised to run on consumer-grade hardware, requiring [&#8230;]</p>\n<p>The post <a href=\"https://www.developer-tech.com/news/googles-gemma-4-12b-local-multimodal-ai-laptops/\">Google&#8217;s Gemma 4 12B brings local multimodal AI to laptops</a> appeared first on <a href=\"https://www.developer-tech.com\">Developer Tech News</a>.</p>",
+        "id": 5677607,
+        "language": "en-GB",
+        "link": "https://www.developer-tech.com/news/googles-gemma-4-12b-local-multimodal-ai-laptops",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 92,
+        "source_url": "https://www.developer-tech.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Google\u2019s Gemma 4 12B brings local multimodal AI to laptops",
+        "vote": 0
+    }
+]
