@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "David Bombal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-05T16:14:48.246284+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-05T14:00:38+00:00",
+        "description": "// Sponsored SEGMENT // \nBig thanks to Proton VPN for sponsoring this video. Please use the following link https://protonvpn.com/davidbombal, sign up for Proton VPN and get a 70% discount off Proton VPN Plus \n\nAre there hidden cameras or unknown devices lurking on your home network? In this 2026 tutorial, learn how to secure your privacy by discovering rogue devices, open ports, and potential vulnerabilities using free, open-source software like Zenmap and Angry IP Scanner. Watch step-by-step as we scan a local network, find a hidden IP camera using port 554 (RTSP), connect to its stream via VLC media player, and detaect hidden infrared cameras using a smartphone. We also explore how to identify other devices on your subnet, like a Kali Linux Raspberry Pi or smart home tech (Yeelights), and even manipulate them using Telnet and Python scripts to demonstrate why open ports are dangerous. Take back control of your network infrastructure, verify your active services, and ensure your brow",
+        "id": 5688813,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=xK5vRxi18nw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 984,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP7WmQ_U4GB3K51Od9QvM0w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/xK5vRxi18nw/hqdefault.jpg",
+        "title": "Scan Your Home Network for Hidden Devices in 2026",
+        "vote": 0
+    }
+]

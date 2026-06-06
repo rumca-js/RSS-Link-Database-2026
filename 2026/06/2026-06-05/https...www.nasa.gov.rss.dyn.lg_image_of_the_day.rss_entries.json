@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-05T16:34:39.843831+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-05T15:48:00+00:00",
+        "description": "A year after America\u2019s first spacewalk, Gemini IX-A Eugene Cernan stepped outside his spacecraft for an ambitious extravehicular activity scheduled for 167 minutes. The challenges he faced led NASA to reevaluate plans, equipment, and training for future spacewalks.",
+        "id": 5689021,
+        "language": "en-us",
+        "link": "https://www.nasa.gov/image-detail/s66-38515orig",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 485,
+        "source_url": "https://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "First Steps: America\u2019s Grueling Second Spacewalk",
+        "vote": 0
+    }
+]

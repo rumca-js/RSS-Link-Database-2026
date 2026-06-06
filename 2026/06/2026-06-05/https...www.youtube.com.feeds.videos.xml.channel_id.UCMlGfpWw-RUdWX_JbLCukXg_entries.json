@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-05T16:33:56.374807+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-05T15:32:50+00:00",
+        "description": "https://cppcon.org\n---\n\nInstrumenting the Stack: Strategies for End-to-end Sanitizer Adoption - Damien Buhl - CppCon 2025\n---\n\nSanitizers like UBSanitizer, MemorySanitizer, AddressSanitizer, ThreadSanitizer, and Clang\u2019s Thread Safety Analysis are powerful tools for making C++ code safer, but their effectiveness hinges on full-stack instrumentation and proper debug info, even in optimized builds.\n\nMigrating to such setups is rarely straightforward, especially when dealing with prebuilt libraries or diverse build systems like CMake, Bazel, GN, or Autotools.\n\nIn this talk, we\u2019ll walk through practical approaches for enabling sanitizers across complex codebases. We\u2019ll share CMake modules that facilitate transitioning to full-source builds, explore workarounds for closed-source dependencies, and discuss techniques like debug fission to manage symbol bloat from modern C++ metaprogramming.\n\nExpect examples and tips and techniques for robust, debuggable, end-to-end instrumentation with instru",
+        "id": 5689012,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=TSrymTXw5w8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/TSrymTXw5w8/hqdefault.jpg",
+        "title": "Instrumenting the Stack: Strategies for End-to-end Sanitizer Adoption - Damien Buhl - CppCon 2025",
+        "vote": 0
+    }
+]

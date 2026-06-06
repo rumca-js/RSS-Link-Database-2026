@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeff Geerling",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-05T14:25:57.261462+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-05T14:00:09+00:00",
+        "description": "I put a computer in your computer. And on your computer. And behind your computer.\n\nLinks to all the KVMs I mentioned (in order of appearance):\n\n  - PiKVM: https://pikvm.org\n  - BliKVM: https://blikvm.com\n  - GL-iNet Comet/Pro/etc: https://www.gl-inet.com/products/gl-rm1/\n  - Sipeed NanoKVM/Pro/etc: https://wiki.sipeed.com/hardware/en/kvm/NanoKVM/introduction.html\n  - JetKVM: https://jetkvm.com\n  - Luckfox: https://www.luckfox.com/Luckfox-PicoKVM-Base\n  - LeafKVM: https://kvm.rs\n  - TinyPilot: https://tinypilotkvm.com\n  - Openterface KVM-GO: https://openterface.com\n  - Pi-Cast: https://www.crowdsupply.com/hackergadgets/pi-cast-kvm\n  - DezKVM: https://www.tindie.com/products/tobychui/dezkvm-go-kvm-over-usb-device/\n\nThanks to all the KVM manufacturers who sent in review units over the past couple years, many of which were displayed in this video. (Note: None of the companies paid anything for this video, or had any say in its contents.)\n\nSupport me on Patreon: https://www.patreon.com/ge",
+        "id": 5687701,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=4wYxgPfQAjM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 161,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR-DXc1voovS8nhAvccRZhg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/4wYxgPfQAjM/hqdefault.jpg",
+        "title": "I tested EVERY single IP KVM",
+        "vote": 0
+    }
+]

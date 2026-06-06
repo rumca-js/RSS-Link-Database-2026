@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-05T15:01:27.816677+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-05T09:00:00+00:00",
+        "description": "<figure class=\"insert-image\"><img src=\"https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/all-ip-kvms.jpg\"\n alt=\"IP KVMs on desk\" width=\"700\" height=\"auto\">\n</figure>\n\n<p>Since the PiKVM came out in 2017, there's been an <em>explosion</em> of IP KVMs. I've tested <em>almost every one</em>. But what are they good for?</p>\n<p>You can use Remote Desktop, Screen Sharing, or VNC to remote control a computer from anywhere on a LAN. And if you don't have a private VPN, you could use <a href=\"https://www.realvnc.com/\">RealVNC</a>, <a href=\"https://www.raspberrypi.com/software/connect/\">Raspberry Pi Connect</a>, or wire up <a href=\"https://tailscale.com\">Tailscale</a> or <a href=\"https://pangolin.net\">Pangolin</a> for fully remote access. Those solutions are great, and so is SSH if you don't need a full desktop.</p>",
+        "id": 5688076,
+        "language": "en",
+        "link": "https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 162,
+        "source_url": "https://www.jeffgeerling.com/blog.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/all-ip-kvms.jpg",
+        "title": "I tested every IP KVM in my Homelab",
+        "vote": 0
+    }
+]

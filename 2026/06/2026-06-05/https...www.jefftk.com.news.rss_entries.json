@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-05T16:47:11.635235+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-05T08:00:00+00:00",
+        "description": "<p><span>\n\nI'm leading a non-profit team building a </span>\n\n<a href=\"https://securebio.org/detection/\">pathogen-agnostic\nearly-warning system</a>.  As AI systems become \n\n<a href=\"https://securebio.org/benchmarks/\">increasingly capable</a>\nsubstitutes for expert human biologist expertise, the risk that\nsomeone could engineer a pathogen to spread widely before detection is\ngoing up.  We've made great progress and we're now running the \n\n<a href=\"https://securebio.org/blog/updates-mar-2026/\">world's largest\nmetagenomic biosurveillance network</a>, but there's still a huge\namount that needs doing: we're hiring!\n\n\n\n<p>\n\nWe're processing &gt;50B read pairs of wastewater and nasal swab data\neach week (more than anyone else!) and will be more than doubling this\nin the next year.  At the same time, we need to bring our end to end\ntime down from ~12hr to ~2hr (massively parallel problem, should be\npossible to get &lt;1hr).\n\n</p>\n\n<p>\n\nThis means we're looking for people who know how to build ",
+        "id": 5689095,
+        "language": "en-US",
+        "link": "https://www.jefftk.com/p/securebio-detection-is-hiring-software-engineers",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 163,
+        "source_url": "https://www.jefftk.com/news.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "SecureBio Detection is Hiring Software Engineers",
+        "vote": 0
+    }
+]

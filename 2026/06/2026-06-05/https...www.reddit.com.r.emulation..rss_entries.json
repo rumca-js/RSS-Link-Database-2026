@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/NXGZ",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-05T23:12:02.721596+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-05T19:48:11+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://problemkaputt.de/psx.htm\">https://problemkaputt.de/psx.htm</a></p> <p><strong>#Release Notes;</strong></p> <p>05 Jun 2026 no$psx v2.3 <a href=\"https://problemkaputt.de/no$psx23.zip\">download</a></p> <ul> <li> co-release: <a href=\"http://problemkaputt.de/mp3.htm\">http://problemkaputt.de/mp3.htm</a> - psx mp3 player</li> <li> co-release: <a href=\"http://problemkaputt.de/psx-diag.htm\">http://problemkaputt.de/psx-diag.htm</a> - pixel accuracy tests</li> <li> gpu: pixel accurate rendering, texture/clut cache emulation</li> <li> gpu: reproduces average pixel/polygon rendering timings for old and new gpu</li> <li> spu/help: added caution on reverb buffer wrapping bug (when mBASE too small)</li> <li> cdrom/emu: supports MODE1 disc image reading (high-level cdrom emu)</li> <li> cdrom/help: added notes on &quot;ed by ed by&quot; problem (and other repair stuff)</li> <li> cdrom/fsys: faster inflate decompression (zip/zlib/gzip/chd/cdz/png)</li> ",
+        "id": 5691937,
+        "language": "",
+        "link": "https://www.reddit.com/r/emulation/comments/1txveux/nopsx_v23_new_update_ps1_emulator_by_martin_korth",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 475,
+        "source_url": "https://www.reddit.com/r/emulation/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "NO$PSX v2.3, new update - PS1 emulator by Martin Korth",
+        "vote": 0
+    }
+]

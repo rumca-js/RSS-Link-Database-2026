@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NASS",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-05T21:05:07.088634+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-05T20:20:43+00:00",
+        "description": "Step into San Francisco\u2019s Market Street in 1906 like never before.\n\nThis new 2026 restoration presents a rare visual journey through the city before the earthquake, followed by powerful footage captured after the devastating disaster. It reveals one of the most dramatic transformations in urban history.\n\nCombined with traditional restoration methods and Using my latest restoration pipeline and advanced semantic colorization techniques, this version delivers improved detail and Advanced Colorization, clearer textures, and a more immersive cinematic experience than previous editions.\n\n\n\ud83d\udcfd\ufe0f Technologies & Techniques Used:\n\u2022 Advanced video restoration\n\u2022 New semantic colorization only for the ambiance (not historically accurate)\n\u2022 Manually colorized keyframes (to establish accurate ambiance and color consistency (not historically accurate)\n\u2022 Advanced frame reconstruction to 4K\n\u2022 Manual color corrections \n\u2022 Classical restoration workflows (AviSynth ) combined with modern tools for (60fps, st",
+        "id": 5691157,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=z20L2DM1-ZY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 222,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC1W8ShdwtfgjRHdbl1Lctcw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/z20L2DM1-ZY/hqdefault.jpg",
+        "title": "San Francisco 1906 - Advanced Colorization (New Version 4K - 2026) with Sound Design",
+        "vote": 0
+    }
+]

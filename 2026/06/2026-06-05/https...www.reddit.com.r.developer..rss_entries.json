@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/intellinker",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-05T21:58:15.673122+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-05T21:06:25+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;ll be very direct for people who actually need it.<br/> I built a tool GrapeRoot, a dependency graph context layer for your codebase, graph retrieves relevant files using Zero tokens, and let claude do work better.</p> <p>I actually built it for myself to save tokens but it was crazy that people actually needed it, just open your terminal and run the installation command and then instead of writing claude everytime, write dgc in your project directory, everything will be setup automatically.</p> <p>See people saved $100k in 3 months : <a href=\"https://graperoot.dev/leaderboard\">https://graperoot.dev/leaderboard</a> (only 60 who optin for leaderboard)</p> <p>3k installs, 500 devs daily using it, Open source tool and free to use. You can save upto 80% of tokens</p> <p>Posting here, so i could know what actual devs has opinion on knowledge graphs, This is very primitive method for code intelligence and now i tried to harness it with coding tools. N",
+        "id": 5691472,
+        "language": "en",
+        "link": "https://www.reddit.com/r/developer/comments/1txxhwf/my_claude_code_is_now_2x_faster_3x_cheaper_and",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 508,
+        "source_url": "https://www.reddit.com/r/developer/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "My Claude code is now 2x faster, 3x cheaper and better quality using this tool!",
+        "vote": 0
+    }
+]

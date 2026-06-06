@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Primal Space",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-05T17:45:04.517107+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-05T17:30:14+00:00",
+        "description": "How does a spacecraft know where it is when it\u2019s billions of miles from Earth? For Voyager, the answer was stars, sunlight, and a surprisingly clever backup system.\n\nVoyager 2 used star trackers to determine its orientation in space, while a Sun sensor helped keep its antenna pointed back toward Earth. But during planetary flybys, the Sun could be blocked from view, so Voyager relied on onboard gyroscopes to maintain its orientation until the Sun reappeared.\n\nThis level of accuracy was crucial, because when you\u2019re navigating the outer Solar System, even a tiny error can send you hopelessly off course.",
+        "id": 5689626,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/jBbajUyN7QM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 840,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UClZbmi9JzfnB2CEb0fG8iew",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/jBbajUyN7QM/hqdefault.jpg",
+        "title": "How The Sun Kept Voyager On Course",
+        "vote": 0
+    }
+]

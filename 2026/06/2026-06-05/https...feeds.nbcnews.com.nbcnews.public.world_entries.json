@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-05T02:59:59.358759+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-05T01:40:49+00:00",
+        "description": "A new luxury development in Albania, backed by Jared Kushner and Ivanka Trump, is drawing backlash from locals citing environmental concerns. NBC News' Raf Sanchez reports.",
+        "id": 5683773,
+        "language": "en-US",
+        "link": "https://www.nbcnews.com/video/protests-in-albania-over-kushner-backed-luxury-resort-plan-264554565842",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 224,
+        "source_url": "https://feeds.nbcnews.com/nbcnews/public/world",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_06/1780623870178_now_topstory_albania_protests_260604_S3_1920x1080-lpfuwt.jpg",
+        "title": "Backlash in Albania over plans for new luxury resort backed by Kushner",
+        "vote": 0
+    }
+]
