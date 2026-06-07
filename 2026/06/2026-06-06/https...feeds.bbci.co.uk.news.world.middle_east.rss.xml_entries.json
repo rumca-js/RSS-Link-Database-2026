@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-06T20:38:39.656142+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-06T19:57:42+00:00",
+        "description": "The seven-month-old boy's shrouded body was wrapped in a Palestinian flag and carried by his father to the graveyard.",
+        "id": 5697900,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/cly8lgn0x30o",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 525,
+        "source_url": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/57df/live/389640b0-61d7-11f1-a211-b739dafd566d.jpg",
+        "title": "Funeral held for baby shot dead by Israeli troops in occupied West Bank",
+        "vote": 0
+    }
+]

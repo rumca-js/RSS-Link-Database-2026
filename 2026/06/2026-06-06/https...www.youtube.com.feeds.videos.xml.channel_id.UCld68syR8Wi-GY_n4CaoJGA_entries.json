@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-06T17:58:51.560351+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-06T17:30:39+00:00",
+        "description": "For a long time now a basic feature of OBS has been completely broken under Wayland and finally one more piece is in place to make it finally happen.\n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\nOBS Project Issue: https://github.com/obsproject/obs-browser/issues/279\nRemoval PR: https://github.com/obsproject/obs-studio/pull/4436\nCEF Repo: https://github.com/chromiumembedded/cef\nCEF Issue: https://github.com/chromiumembedded/cef/issues/2804\nFix Issue OBS: https://github.com/obsproject/obs-studio/issues/9369\nChromium First Part: https://chromium-review.googlesource.com/c/angle/angle/+/6164683\nChromium Merger: https://chromium-review.googlesource.com/c/angle/angle/+/7844989\n\n=========Video Platforms==========\n\ud83c\udfa5 React: https://www.youtube.com/@BrodieRobertsonReacts\n\ud83c\udfa5 Podc",
+        "id": 5697085,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=aPV6mIufdqA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/aPV6mIufdqA/hqdefault.jpg",
+        "title": "Finally I Have One Less Problem On Wayland",
+        "vote": 0
+    }
+]

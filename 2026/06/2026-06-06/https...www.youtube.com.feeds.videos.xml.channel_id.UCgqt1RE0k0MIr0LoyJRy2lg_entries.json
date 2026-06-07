@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Rational Animations",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-06T19:29:46.816815+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-06T17:39:55+00:00",
+        "description": "In this video, we talk about AI scheming. In particular, we walk through a study in which OpenAI and Apollo Research tested whether AI models would take \"covert actions\": strategically withholding, misrepresenting, or concealing information.\n\nThe researchers gave two reasoning models a series of challenges to test their propensity to scheme, then tested whether a technique called \"deliberative alignment\" could reduce this behavior. The results were promising, but came with a complication: models sometimes realized they were being tested, which made them behave better.\n\nThe video also covers a strange result from the study: the models' chains of thought often contained unusual words and phrases used in inexplicable ways.\n\n\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580SOURCES & READINGS\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\n\nMain source:\n\nStress Testing Deliberative Alignment for Anti-Scheming Training\nhttps://www.antischeming.ai/\n\nAdditional sources:\n\nEvaluation Awareness Scales Predictably in Open-Weights Large Language Models\nhttps://arxiv.",
+        "id": 5697600,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=hzlR0R91lZA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 879,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCgqt1RE0k0MIr0LoyJRy2lg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/hzlR0R91lZA/hqdefault.jpg",
+        "title": "AIs don't scheme... if they know we're watching",
+        "vote": 0
+    }
+]

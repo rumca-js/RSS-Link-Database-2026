@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/phucancute",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-06T08:48:06.685513+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-06T08:25:11+00:00",
+        "description": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/phucancute\"> /u/phucancute </a> <br/> <span><a href=\"https://github.com/traitimtrongvag/Android-Imgui-Template\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/ReverseEngineering/comments/1tybl6s/finally_a_modern_android_menu_template_with_imgui/\">[comments]</a></span>",
+        "id": 5694200,
+        "language": "",
+        "link": "https://www.reddit.com/r/ReverseEngineering/comments/1tybl6s/finally_a_modern_android_menu_template_with_imgui",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 476,
+        "source_url": "https://www.reddit.com/r/ReverseEngineering/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Finally! A modern Android menu template with ImGui + Zygisk + all major hooking libraries (Dobby, KittyMemory, Substrate)",
+        "vote": 0
+    }
+]

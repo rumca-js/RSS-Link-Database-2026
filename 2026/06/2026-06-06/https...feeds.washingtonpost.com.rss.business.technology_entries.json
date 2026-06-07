@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Shira Ovide",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-06T09:29:52.812057+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-06T09:00:00+00:00",
+        "description": "These goods and services are getting more expensive due to spillover from massive tech company investments in artificial intelligence.",
+        "id": 5694385,
+        "language": "en-US",
+        "link": "https://www.washingtonpost.com/technology/2026/06/06/inflation-is-being-driven-up-by-huge-investment-artificial-intelligence",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 364,
+        "source_url": "https://feeds.washingtonpost.com/rss/business/technology",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Americans hate rising prices. AI is making it worse.",
+        "vote": 0
+    }
+]
