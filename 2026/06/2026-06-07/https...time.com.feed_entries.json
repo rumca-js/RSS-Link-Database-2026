@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Rebecca Schneid",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-07T20:59:58.471371+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-07T19:00:58+00:00",
+        "description": "California election officials say the state's drawn-out tally is by design, not the result of fraud.",
+        "id": 5704448,
+        "language": "en-UK",
+        "link": "https://time.com/article/2026/06/07/la-mayor-results-california-election-rigged-trump",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 316,
+        "source_url": "https://time.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://gcp-na-images.contentstack.com/v3/assets/bltea6093859af6183b/bltcd5b09261419ca4d/6a25c60e014010abfdce739b/GettyImages-2278942619.jpg?branch=production&format=jpg&width=1024",
+        "title": "Trump Calls California Primary 'Rigged.' Here's What's Really Happening",
+        "vote": 0
+    }
+]

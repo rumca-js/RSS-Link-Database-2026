@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "3Blue1Brown",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-07T12:17:03.364150+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-07T11:49:51+00:00",
+        "description": "What is the fundamental compressibility of language?\nCheck out our virtual career fair: https://3b1b.co/talent\nSee new projects before they go live: https://3b1b.co/support\n\nAnimation credit:\nManim scenes by Aaron Gostein and Grant Sanderson\nShannon\u2019s story, as well as those for various pi creatures, by Mitchell Zemil.\nLunar robot and prediction/compression coin by Paul Dancstep\nNanoGPT animations by Clayton Rabideau\n\nShannon\u2019s \u201cA Mathematical Theory of Communication\u201d\nhttps://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf\n\nShannon\u2019s \u201cPrediction and Entropy of Printed English\u201d\nhttps://www.princeton.edu/~wbialek/rome/refs/shannon_51.pdf\n\nScientific American article that mentions the story with Von Neumann suggesting the name Entropy:\nhttps://www.esalq.usp.br/lepse/imgs/conteudo_thumb/Energy-and-Information.pdf\n\n\nTimestamps:\n\n0:00 - On \u201cCompression is intelligence.\u201d\n3:28 - The warmup example\n10:46 - What perfect compression looks like\n14:47 - Defining informati",
+        "id": 5701349,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=l6DKRf-fAAM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 884,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYO_jab_esuFRV4b17AJtAw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/l6DKRf-fAAM/hqdefault.jpg",
+        "title": "Reinventing Entropy | Compression & Intelligence Part 1",
+        "vote": 0
+    }
+]

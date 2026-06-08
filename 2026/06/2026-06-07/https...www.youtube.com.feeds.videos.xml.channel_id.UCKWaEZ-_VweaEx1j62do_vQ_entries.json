@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-07T12:42:22.217412+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-07T11:00:24+00:00",
+        "description": "Learn more about OpenShift vs. Kubernetes here \u2192 https://ibm.biz/~M0d6elRQP\n\nWhat if your container platform defined how teams truly move? Ray Abaid breaks down Kubernetes or OpenShift through DevOps and CI/CD workflows. Discover how platform choices shape pipelines, operations, and delivery speed.\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/~7IEFW6PMc\n\n#kubernetes #openshift #devops #containers",
+        "id": 5701432,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=TcE56uuB1Qc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/TcE56uuB1Qc/hqdefault.jpg",
+        "title": "Kubernetes vs. OpenShift: Choosing DevOps and CI/CD Workflows",
+        "vote": 0
+    }
+]

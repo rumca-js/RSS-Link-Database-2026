@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "David Lumb",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-07T18:55:42.136959+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-07T17:30:42+00:00",
+        "description": "Apple's software event gives us an early look at new features for iOS, MacOS and more. Siri is rumored to get a major overhaul. And this is Tim Cook's last WWDC as CEO.",
+        "id": 5703720,
+        "language": "en",
+        "link": "https://www.cnet.com/news-live/wwdc-2026-apple-live-news-updates",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 58,
+        "source_url": "https://www.cnet.com/rss/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.cnet.com/a/img/resize/8cbe5299c9295fd4181780ce5b3a67a120abb6d2/hub/2026/05/21/f1c1b4f8-1849-4316-b932-2e3d54c577b7/wwdc26-live-blog.png?auto=webp&width=300",
+        "title": "WWDC 2026: News on Siri, iOS 27, Tim Cook and More (Live)",
+        "vote": 0
+    }
+]

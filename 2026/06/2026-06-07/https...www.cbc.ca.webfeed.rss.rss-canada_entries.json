@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-07T17:30:22.023163+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-07T11:10:26+00:00",
+        "description": "<img src='https://i.cbc.ca/ais/8b12e69d-4c69-4713-aec3-9b27d6043595,1780844304019/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C135%2C2380%2C1338%29%3BResize%3D%28620%29' alt='An Ontario Provincial Police (OPP) patch is seen in Ottawa, on Sunday, Sept. 29, 2024. THE CANADIAN PRESS/Spencer Colby' width='620' height='349' title='An Ontario Provincial Police (OPP) patch is seen in Ottawa, on Sunday, Sept. 29, 2024. THE CANADIAN PRESS/Spencer Colby'/><p>Provincial police say they are investigating after three people were killed and others were injured in a multi-vehicle collision in Kawartha Lakes, Ont.</p>",
+        "id": 5703118,
+        "language": "en",
+        "link": "https://www.cbc.ca/news/canada/toronto/ont-kawartha-lakes-fatal-collision-9.7226625?cmp=rss",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 49,
+        "source_url": "https://www.cbc.ca/webfeed/rss/rss-canada",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i.cbc.ca/ais/8b12e69d-4c69-4713-aec3-9b27d6043595,1780844304019/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C135%2C2380%2C1338%29%3BResize%3D%28620%29",
+        "title": "3 dead after car and 4 motorcycles crash in Kawartha Lakes, Ont., police say",
+        "vote": 0
+    }
+]

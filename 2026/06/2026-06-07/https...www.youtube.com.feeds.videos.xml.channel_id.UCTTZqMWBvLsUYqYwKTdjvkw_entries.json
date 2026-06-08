@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mateusz Chrobok",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-07T17:43:11.550121+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-07T16:00:23+00:00",
+        "description": "\ud83d\uddef\ufe0f\u00a0Co i rusz s\u0142yszymy, \u017ce zhakowano Signala. Ale za ka\u017cdym razem, jak si\u0119 w to nieco zag\u0142\u0119bi\u0107, okazuje si\u0119, \u017ce z samym Signalem nie ma to niczego wsp\u00f3lnego.  O co wi\u0119c chodzi TYM RAZEM? Czy skala CVSS zawsze m\u00f3wi pe\u0142ni\u0119 prawdy? Dlaczego macOS k\u0142amie, \u017ce Ci\u0119 chroni? I dlaczego to ostatnia podatno\u015b\u0107, kt\u00f3r\u0105 odkrywcy zg\u0142osili do Apple?\n\n\ud83d\udea8 Skorzystaj ze specjalnej promocji z kodem UCZMNIE na 2FAS Pass.\n\n\ud83c\udf4f iOS:\nPo zastosowaniu kodu UCZMNIE cena zostanie obni\u017cona z 49,99 z\u0142 do 29,99 z\u0142.\nhttps://apps.apple.com/redeem?ctx=offercodes&id=6504464955&code=UCZMNIE\n\n\ud83e\udd16 Android:\nPo zastosowaniu kodu UCZMNIE otrzymasz 90 dni darmowego okresu pr\u00f3bnego.\n\n\ud83d\uddd3\ufe0f Promocja aktywna do 31.07.2026\n\n\ud83d\uded1 Sprawd\u017a\u00a02FAS Pass\nhttps://2fas.com/pass/\n \n\u0179r\u00f3d\u0142a:\n\ud83d\udce6\u00a0CVE-2026-28910: Breaking macOS App Sandbox Data Containers, TCC, and Hijacking Apps Using Archive Utility\nhttps://mysk.blog/2026/05/19/cve-2026-28910/\n\n\ud83c\udde9\ud83c\uddea\u00a0Konta niemieckich polityk\u00f3w na komunikatorze Signal mia\u0142y zosta\u0107 zhakowane\nhttps://www.onet.pl/informacje/deuts",
+        "id": 5703226,
+        "language": "pl-PL",
+        "link": "https://www.youtube.com/watch?v=N_bFiIDYSso",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 211,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTTZqMWBvLsUYqYwKTdjvkw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/N_bFiIDYSso/hqdefault.jpg",
+        "title": "Zhakowano Signala?!",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/Comi9689",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-07T18:51:52.353998+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-07T17:53:40+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>I have found that monitoring pages without RSS feeds, like competitor pricing or regulatory portals, often leads to the frustration of manual checking or maintaining fragile custom scrapers. To address this, I started using DiffHook to track specific elements on a page and receive notifications through Slack or email. The inclusion of AI filtering helps distinguish between actual content updates and minor layout changes, which has been helpful for automating workflows that previously required constant oversight. I am interested to know how others manage monitoring sites that do not offer native feeds</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Comi9689\"> /u/Comi9689 </a> <br/> <span><a href=\"https://www.reddit.com/r/rss/comments/1tziyez/email_alerts_when_a_site_updates_but_publishes_no/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rss/comments/1tziyez/email_alerts_when_a_site_updates_but_p",
+        "id": 5703697,
+        "language": "en",
+        "link": "https://www.reddit.com/r/rss/comments/1tziyez/email_alerts_when_a_site_updates_but_publishes_no",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 482,
+        "source_url": "https://www.reddit.com/r/rss/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Email alerts when a site updates but publishes no feed - how I solved this for the pages I cannot subscribe to",
+        "vote": 0
+    }
+]
