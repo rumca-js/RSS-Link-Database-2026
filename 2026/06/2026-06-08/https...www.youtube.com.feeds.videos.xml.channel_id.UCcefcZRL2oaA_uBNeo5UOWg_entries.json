@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-08T23:58:14.854002+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-08T22:21:00+00:00",
+        "description": "Two days, packed with world-class speakers, hands-on demos, small group sessions with YC partners, and a room full of the most ambitious technical builders from around the world.\n\nJuly 25\u201326 in San Francisco.\n\nhttp://ycombinator.com/startupschool",
+        "id": 5714139,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/qr6kVSKqBqo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/qr6kVSKqBqo/hqdefault.jpg",
+        "title": "Startup School is back!",
+        "vote": 0
+    }
+]

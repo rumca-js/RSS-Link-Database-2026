@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "David Bombal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-08T19:12:24.193757+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-08T18:00:19+00:00",
+        "description": "AI agents like Copilot in Microsoft Excel can be manipulated via prompt injection. See how hackers use hidden text to bypass security and force silent data exploits!\n\nGet the FREE reports here: \nRadware Hackers: https://davidbombal.wiki/radwareh1\n\nThank you to @radware  for making this free report and sponsoring this video.\n\n#radware #excel #promptinjection",
+        "id": 5712034,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/1RGi9txfiLg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 984,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP7WmQ_U4GB3K51Od9QvM0w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/1RGi9txfiLg/hqdefault.jpg",
+        "title": "WARNING: Copilot prompt injection",
+        "vote": 0
+    }
+]

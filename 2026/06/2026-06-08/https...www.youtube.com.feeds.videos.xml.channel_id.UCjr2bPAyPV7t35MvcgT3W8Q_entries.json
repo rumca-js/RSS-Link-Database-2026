@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Hated One",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-08T16:36:57.427484+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-08T15:18:35+00:00",
+        "description": "Most private messenger is that beats my privacy scoring table. Many have tried, only few have succeed. Support my work: https://www.patreon.com/thehatedone \n\nI threat modeled every messaging app I could think of and I created an exact ranking system to score and rate their privacy protections.\nTo answer a question which messenger is the most private we need to have a consistent methodology. For that, I\u2019ll use an actual privacy threat model called LINDDUN \u2013 which is a comprehensive list of all privacy threats \u2013 Linkability, Identifiability, Non-Repudiation, Detectability, Data Disclosure, Unawareness and Non-compliance. This is an excellent benchmark to measure messaging apps against so I\u2019ll do it for all of them threat by threat.\n\nTo simplify this, each threat will be subdivided into three vectors \u2013 account, usage and service. Account is about login credentials and authentication. Usage is about all the metadata and usage data collected or exposed by the app. And service is about how ",
+        "id": 5710707,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=fkjY1usppkM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 344,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjr2bPAyPV7t35MvcgT3W8Q",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/fkjY1usppkM/hqdefault.jpg",
+        "title": "What is the most private messenger? I ranked every messaging app!",
+        "vote": 0
+    }
+]

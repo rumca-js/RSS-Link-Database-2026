@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/jaz192",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-08T12:03:27.062415+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-08T11:44:47+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone</p> <p>I target a certain niche product and quite a few retailers stock the products (Amazon included). And while I already have all the product information for the items it would be very handy to update the prices automatically (like I do with any store hosted with Shopify, eBay (Business only) etc. I dont need to get any product information, just in.out of stock and price updates (which will allow me to create a historical timeline of prices etc.</p> <p>Will around 1200-1350+ products its rather time consuming checking the price diaily until I get access to the Amazon API. While technicality against TOS is is there a program to (pr web extension with Playwright for example)to view the Amazon page, see any price or stock changes and then give me ;ist?</p> <p>Again, I don&#39;t need any product information like photos or text but I guess its still website scraping but until I gain the API it would be a godsend!</p> <p>Thanks all.</p> </div",
+        "id": 5708365,
+        "language": "en",
+        "link": "https://www.reddit.com/r/webscraping/comments/1u05hu1/scraping_only_pricestockavailability_including",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 467,
+        "source_url": "https://www.reddit.com/r/webscraping/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Scraping only Price/Stock/Availability including Amazon?",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-08T11:45:58.517746+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-08T11:00:07+00:00",
+        "description": "Learn more about Agentic Coding here \u2192 https://ibm.biz/~aGxquxVMS\n\nDevelopers spend most time understanding code, not building it. Katie McDonald explains agentic coding, legacy code modernization, and how AI accelerates software development workflows. Learn how AI development tools reduce risk and improve DevSecOps outcomes in complex systems.\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/~e5zuclZWJ\n\n#agenticcoding #aiagents #legacycode #aitools",
+        "id": 5708263,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=PjrXaC5UsIw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/PjrXaC5UsIw/hqdefault.jpg",
+        "title": "What Is Agentic Coding? How AI Agents Modernize Code",
+        "vote": 0
+    }
+]

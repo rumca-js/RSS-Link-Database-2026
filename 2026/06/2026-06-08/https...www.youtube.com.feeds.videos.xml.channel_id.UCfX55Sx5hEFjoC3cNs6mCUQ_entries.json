@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Foundation",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-08T15:22:03.526517+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-08T14:34:14+00:00",
+        "description": "The EU Cyber Resilience Act enforcement deadline is approaching, and new research shows awareness has not improved. Seventy-two percent of North American organizations surveyed still know little or nothing about their legal obligations, even as reporting requirements activate in September 2026.\n\nIn this exclusive interview with Swapnil Bhartiya at TFiR, Christopher \"CRob\" Robinson, Chief Security Architect at OpenSSF, breaks down who is actually liable under the CRA, what open source maintainers and commercial manufacturers each owe, and what CTOs need to do immediately to avoid regulatory and financial exposure.\n\nKey Topics Covered:\n- Why CRA awareness has remained flat at 66% unknowing despite a year of community education, and why North America lags Europe and APAC significantly\n- How liability flows through the supply chain: manufacturers, distributors, importers, and why \"I did not write the code\" is not a legal defense\n- The $250,000-per-release cost of maintaining private forks",
+        "id": 5709990,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=hEg7-W_qlyE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 499,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfX55Sx5hEFjoC3cNs6mCUQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/hEg7-W_qlyE/hqdefault.jpg",
+        "title": "CRA Enforcement Is Coming: Are You Prepared? | CRob, OpenSSF",
+        "vote": 0
+    }
+]

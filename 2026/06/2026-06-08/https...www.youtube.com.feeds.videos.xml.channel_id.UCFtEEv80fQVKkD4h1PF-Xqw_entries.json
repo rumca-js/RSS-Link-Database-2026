@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Microsoft",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-08T18:08:17.274562+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-08T17:00:32+00:00",
+        "description": "MAI-Transcribe-1.5 delivers consistent, high-accuracy transcription across languages, accents, and challenging audio conditions across 43 languages.\n\nLearn more: https://microsoft.ai/news/mai-transcribe-1-5more-accurate-context-aware-and-built-for-production/",
+        "id": 5711562,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=a7e_3ThX4nY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 793,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFtEEv80fQVKkD4h1PF-Xqw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/a7e_3ThX4nY/hqdefault.jpg",
+        "title": "Introducing MAI-Transcribe-1.5 | Microsoft AI Models",
+        "vote": 0
+    }
+]
