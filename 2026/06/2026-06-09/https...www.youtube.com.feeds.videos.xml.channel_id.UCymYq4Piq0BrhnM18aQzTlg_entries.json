@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Lon.TV",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-09T22:50:02.643951+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-09T22:45:24+00:00",
+        "description": "Local AI has come a long way - especially on the Mac. In this video I demo a few examples that come close to what you can expect out of a cloud based AI system - but it's all running locally on my 5-year old M1 Macbook Pro. See more AI: https://www.youtube.com/playlist?list=PLCZHp4d1HnItd0wMZIK6HQA52aE7ziZTa and subscribe to my email list! http://lon.tv/email and the channel: http://lon.tv/s\n\nVIDEO INDEX:\n00:00 - Intro\n00:27 - Gemma Transcript Summarization Demo\n02:54 - MLX Studio Background\n03:22 - Gemma Model Installation\n04:34 - Photo Identification\n06:35 - FCC Document Analysis\n09:19 - N8N API Integration\n11:41 - Conclusion\n\nVisit my Blog! https://blog.lon.tv\n\nSubscribe to my email lists! \nWeekly Breakdown of Posted Videos:  - https://lon.tv/email\nDaily Email From My Blog Posts! https://lon.tv/digest\n\nSee my second channel for supplementary content : http://lon.tv/extras\n\nFollow me on Amazon too! http://lon.tv/amazonshop\n\nJoin the Facebook group to connect with me and other viewer",
+        "id": 5723287,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=uOHI47l215U",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 199,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCymYq4Piq0BrhnM18aQzTlg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/uOHI47l215U/hqdefault.jpg",
+        "title": "Local AI is Finally Usable! Real-World Workflows on a 5-Year-Old Mac with Google Gemma",
+        "vote": 0
+    }
+]

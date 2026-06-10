@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CodingEntrepreneurs",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-09T23:12:42.639218+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-09T22:15:13+00:00",
+        "description": "\u2b50\ufe0f Get free Postgres and start forking data with Ghost right now: https://b.link/jm-ghost-ma\n\nHermes is an incredible AI Agent framework. With it, you can safely build AI Agents that run 24/7. Taking it once step further, you can build Hermes Agent Profiles so you can share them across your teams or create your very own fleet of agents that take information, triage it, and perform actions as needed scope to your project's needs. \n\nResource:\n- hermes docs: https://hermes-agent.nousresearch.com/\n- agentlink for hermes profiles: https://github.com/codingforentrepreneurs/agentlink\n- Daily Research Pipeline repo: https://github.com/codingforentrepreneurs/Daily-Data-Research-Pipeline\n- [Video] Learn to build an automated daily research pipeline https://youtu.be/blFouj5orYo\n\n\u2705 Code: https://github.com/codingforentrepreneurs/JNN-Justin-News-Network\n\u2705 Subscribe: https://cfe.sh/youtube\n\nChapters\n00:00:00 Welcome\n00:01:51 Install Hermes Locally & Why\n00:05:44 Configure Hermes Agent with OpenAI C",
+        "id": 5723484,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=5V9k0vyYD4E",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 74,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCWEHue8kksIaktO8KTTN_zg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/5V9k0vyYD4E/hqdefault.jpg",
+        "title": "Build a Multi-Agent Fleet with Hermes and Ghost Postgres",
+        "vote": 0
+    }
+]

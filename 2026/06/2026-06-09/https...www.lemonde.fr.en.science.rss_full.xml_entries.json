@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-09T00:30:26.702710+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-09T00:30:25.306798+00:00",
+        "description": "In two months, part of the country will watch the Sun disappear behind the Moon. Authorities, having only recently grasped the full implications of the event, are now scrambling to catch up.",
+        "id": 5714253,
+        "language": "en-US",
+        "link": "https://www.lemonde.fr/en/international/article/2026/06/09/spain-must-face-a-looming-logistical-headache-ahead-of-august-12-s-total-solar-eclipse_6754266_4.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 190,
+        "source_url": "https://www.lemonde.fr/en/science/rss_full.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.lemde.fr/2026/05/26/235/0/3000/1500/644/322/60/0/9bd2fc3_ftp-1-vx7jm8sbimdy-128ca5da9dfa4811a52ab75b41d7ba58-1-0b9dec8f6ab94524936dc053dc1b3314.jpg",
+        "title": "Spain must face a looming logistical headache ahead of August 12's total solar 'eclipse'",
+        "vote": 0
+    }
+]

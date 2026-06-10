@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Chris Titus Tech",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-09T02:08:58.127204+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-09T01:17:08+00:00",
+        "description": "PewDiePie's Project Odysseus promises a slick all-in-one front end for running local LLMs \u2014 but what does setup actually look like if you're not running four RTX 6000 Pros? We find out live.\n\nI'm running an Intel Arc Pro B70 (32GB VRAM, ~$1,000) and taking Odysseus from a fresh clone all the way to a working local AI assistant \u2014 hitting every GPU detection failure, broken dependency, and syscl build error along the way.\n\nBy the end of the stream we have Qwen 3 35B-A3B (MoE, Q5) running locally through llama.cpp with SYCL backend, wired into Odysseus, and doing real deep-research tasks \u2014 including drafting a port plan for DankMaterialShell from Wayland to X11.\n\n\u25b6 What we cover:\n- Hardware reality check \u2014 what you actually need vs. what Pewds used (~$40K in RTX 6000 Pros)\n- Native vs. Docker install (and why Intel GPU users need native)\n- Building llama.cpp from source with Intel SYCL/oneAPI backend\n- GPU detection bug in Odysseus + open PR walkthrough\n- Picking and downloading the righ",
+        "id": 5714716,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=wf9rLEjWmPE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 444,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCg6gPGh8HU2U01vaFCAsvmQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/wf9rLEjWmPE/hqdefault.jpg",
+        "title": "\ud83d\udd34 Project Odysseus - Initial Install",
+        "vote": 0
+    }
+]

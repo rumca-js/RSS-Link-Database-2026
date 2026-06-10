@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Muhammad Zulhusni",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-09T10:00:00.163956+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-09T09:00:00+00:00",
+        "description": "<p>Anthropic has published research showing that its Claude Mythos Preview model can turn public software patches into working exploits within hours. The company said the process has often required specialist security research. The company\u2019s red team tested the model against recently disclosed vulnerabilities in Mozilla Firefox and the Microsoft Windows kernel. The flaws had been [&#8230;]</p>\n<p>The post <a href=\"https://www.developer-tech.com/news/anthropic-ai-software-patch-exploits/\">Anthropic says AI can turn software patches into exploits within hours</a> appeared first on <a href=\"https://www.developer-tech.com\">Developer Tech News</a>.</p>",
+        "id": 5716855,
+        "language": "en-GB",
+        "link": "https://www.developer-tech.com/news/anthropic-ai-software-patch-exploits",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 92,
+        "source_url": "https://www.developer-tech.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Anthropic says AI can turn software patches into exploits within hours",
+        "vote": 0
+    }
+]

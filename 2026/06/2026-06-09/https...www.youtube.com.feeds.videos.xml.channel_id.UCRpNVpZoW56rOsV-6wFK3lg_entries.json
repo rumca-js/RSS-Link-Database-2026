@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "4 Ever Green",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-09T11:23:31.240228+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-09T11:10:39+00:00",
+        "description": "Millions of ducks are released into rice fields every year, and the reason is surprisingly smart. These ducks help farmers control pests, reduce weeds, and improve soil health without relying heavily on chemicals. See how this natural farming method benefits both rice crops and the ducks themselves.",
+        "id": 5717480,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=2jTTTnul1To",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 880,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCRpNVpZoW56rOsV-6wFK3lg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/2jTTTnul1To/hqdefault.jpg",
+        "title": "Why Millions of Ducks Are Released Into Rice Fields",
+        "vote": 0
+    }
+]

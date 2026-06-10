@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-09T19:49:19.054225+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-09T19:39:00+00:00",
+        "description": "NASA announced the Artemis III crew on Tuesday, June 9, 2026. NASA astronaut Andre Douglas, mission specialist; ESA (European Space Agency) astronaut Luca Parmitano, pilot; NASA astronaut Randy Bresnik, commander; and NASA astronaut Frank Rubio, mission specialist, will demonstrate the Orion spacecraft's rendezvous and docking capabilities with test versions from one, or both, American commercial human landing systems in development by Blue Origin and SpaceX.",
+        "id": 5721710,
+        "language": "en-us",
+        "link": "https://www.nasa.gov/image-detail/jsc2026e392659",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 485,
+        "source_url": "https://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Artemis III Crew Announced",
+        "vote": 0
+    }
+]

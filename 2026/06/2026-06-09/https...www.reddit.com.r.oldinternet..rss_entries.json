@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/avatar_one",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-10T00:01:06.066793+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-09T23:06:57+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>I run MansionNET, an IRC network I&#39;ve been building and self-hosting for the past few years. Whole thing runs on hardware in my home: the IRC server, the webchat, a community radio station, even our own git server and private search instance. Basically trying to live like it&#39;s still the old times, except with TLS :)</p> <p>We&#39;re a community of regulars, the kind of place where you recognize everyone&#39;s nick, while eager to welcome new faces too :)</p> <p><strong>Server:</strong> <a href=\"http://irc.inthemansion.com\">irc.inthemansion.com</a> port 6697 (TLS), #lobby is a great starting point</p> <p>Webchat if you don&#39;t have a client handy: <a href=\"https://webirc.inthemansion.com\">https://webirc.inthemansion.com</a></p> <p>Just connect and say hi, no NickServ registration needed to look around.</p> <p>Hope to see you there!</p> <p>Cheers :)</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/avatar_o",
+        "id": 5723707,
+        "language": "en",
+        "link": "https://www.reddit.com/r/oldinternet/comments/1u1kxx0/built_an_irc_network_from_scratch_runs_out_of_my",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 798,
+        "source_url": "https://www.reddit.com/r/oldinternet/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Built an IRC network from scratch, runs out of my home rack",
+        "vote": 0
+    }
+]

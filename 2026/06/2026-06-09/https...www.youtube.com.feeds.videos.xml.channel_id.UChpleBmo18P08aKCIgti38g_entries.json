@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Matt Wolfe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-09T13:45:24.414471+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-09T12:49:35+00:00",
+        "description": "Is @Microsoft quietly trying to step out of OpenAI\u2019s shadow? \n\nDuring my chat with Microsoft AI CEO Mustafa Suleyman at #MicrosoftBuild2026, he made their goal crystal clear: Microsoft wants the capacity to build the \"absolute frontier\" of AI models in house and entirely from scratch.\n\nWhich is a departure from what they've been doing for the past few years of integrating OpenAI's models into their products. \n\nHe also gave a really interesting answer about AI scraping for training data and I'm curious if it makes you want to give them a try more....\n\n#Microsoft #AInews #AI #openai",
+        "id": 5718555,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/wg9jm_d7Emk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 933,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChpleBmo18P08aKCIgti38g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/wg9jm_d7Emk/hqdefault.jpg",
+        "title": "THIS was the whole point of Microsoft Builld",
+        "vote": 0
+    }
+]

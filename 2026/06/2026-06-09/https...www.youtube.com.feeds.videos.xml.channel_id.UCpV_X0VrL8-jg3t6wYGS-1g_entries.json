@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "1littlecoder",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-09T21:31:15.642116+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-09T19:58:40+00:00",
+        "description": "https://www.anthropic.com/news/claude-fable-5-mythos-5\n\nToday we\u2019re launching Claude Fable 5: a Mythos-class1 model that we\u2019ve made safe for general use.\n\nFable 5\u2019s capabilities exceed those of any model we\u2019ve ever made generally available. It is state-of-the-art on nearly all tested benchmarks of AI capability, showing exceptional performance in software engineering, knowledge work, vision, scientific research, and many other areas. The longer and more complex the task, the larger Fable 5\u2019s lead over our other models.\n\nReleasing a model this capable comes with risks. Without safeguards, Fable 5\u2019s capabilities in areas like cybersecurity could be misused to cause serious damage. We\u2019ve therefore launched the model with safeguards that mean queries on some topics will instead receive a response from our next-most-capable model, Claude Opus 4.8. To release the model both safely and quickly, we\u2019ve tuned these safeguards conservatively\u2014they\u2019ll sometimes catch harmless requests, though they",
+        "id": 5722772,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=9Lm7ASzuV6w",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 948,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCpV_X0VrL8-jg3t6wYGS-1g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/9Lm7ASzuV6w/hqdefault.jpg",
+        "title": "Claude Fable 5 is here!",
+        "vote": 0
+    }
+]

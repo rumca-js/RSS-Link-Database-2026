@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/Creative_Air9556",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-09T02:41:43.577931+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-09T02:02:14+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>Hey guys, I&#39;m stuck at enabling persistent volume on the brand new stick. I already cloned tails, trying to backup persistent storage, but Im lost at enabling persistent volume on the backup stick. I managed to boot into to the backup like the DNB instructs. It just doesn&#39;t give very clear instructions on how to enable persistent volume. Help? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Creative_Air9556\"> /u/Creative_Air9556 </a> <br/> <span><a href=\"https://www.reddit.com/r/darknet/comments/1u0rthi/help_with_enabling_persistent_volume_on_the_back/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/darknet/comments/1u0rthi/help_with_enabling_persistent_volume_on_the_back/\">[comments]</a></span>",
+        "id": 5714955,
+        "language": "en",
+        "link": "https://www.reddit.com/r/darknet/comments/1u0rthi/help_with_enabling_persistent_volume_on_the_back",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 681,
+        "source_url": "https://www.reddit.com/r/darknet/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Help with enabling persistent volume on the back up stick",
+        "vote": 0
+    }
+]

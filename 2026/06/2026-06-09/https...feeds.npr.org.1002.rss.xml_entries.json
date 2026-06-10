@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Leila Fadel",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-09T18:00:26.391509+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-09T04:44:06+00:00",
+        "description": "President Trump is casting doubt on the results of California's primaries, claiming there was voter fraud. NPR's Leila Fadel asks Attorney General Rob Bonta about the baseless claim.",
+        "id": 5720879,
+        "language": "en",
+        "link": "https://www.npr.org/2026/06/09/nx-s1-5850269/californias-attorney-general-on-trumps-baseless-claim-of-election-fraud",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 226,
+        "source_url": "https://feeds.npr.org/1002/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4346x2898+0+0/resize/4346x2898!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7c%2F11%2Fd45cef15434bb622f6c178ed9952%2Fap26110704497489.jpg",
+        "title": "California's attorney general refutes Trump's baseless claim of election fraud",
+        "vote": 0
+    }
+]

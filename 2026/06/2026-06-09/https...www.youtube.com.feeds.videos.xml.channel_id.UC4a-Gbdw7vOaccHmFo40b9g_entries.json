@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Khan Academy",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-09T16:51:06.580123+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-09T13:11:36+00:00",
+        "description": "Courses on Khan Academy are always 100% free. Start practicing\u2014and saving your progress\u2014now. https://www.khanacademy.org/science/ap-physics-2\n\nElectric circuits are paths through which electric current can flow. Circuits are composed of specific building blocks known as circuit elements. Circuit elements include batteries and other voltage sources, wires, resistors, light bulbs and LEDs, and switches. Ammeters and voltmeters can be used to measure current and voltage in a circuit, respectively. An open circuit contains a broken path, preventing current flow. A short circuit contains a path with negligible resistance, resulting in very high current.\n\nSections:\n00:00 - Intro\n00:25 - Circuit elements and symbols\n04:10 - Open circuit\n07:56 - Short circuit\n09:30 - Simple circuit with a resistor\n10:50 - Summary\n\n------------------\n\nKhan Academy is a nonprofit organization with the mission of providing a free, world-class education for anyone, anywhere. Khan Academy has been translated into ",
+        "id": 5720237,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Nbb5Lw14wvo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 977,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4a-Gbdw7vOaccHmFo40b9g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/Nbb5Lw14wvo/hqdefault.jpg",
+        "title": "Electric circuits (part 1) | Physics | Khan Academy",
+        "vote": 0
+    }
+]

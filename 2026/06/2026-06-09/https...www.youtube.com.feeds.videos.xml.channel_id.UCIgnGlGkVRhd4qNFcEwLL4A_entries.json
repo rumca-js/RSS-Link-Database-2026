@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "AI Search",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-09T04:02:26.697063+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-09T03:27:53+00:00",
+        "description": "Ideogram 4 tutorial. Best open-source AI image generator. Free & uncensored #ai #aitools #aiart #imagegeneration\n\nThanks to our sponsor Higgsfield. Try Higgsfield MCP today https://higgsfield.ai/s/mcp-theaisearch-dxCxlV\n\n0:00 Ideogram 4 intro\n0:43 World knowledge\n1:16 Text rendering\n1:33 Prompt adherence \n2:42 Bounding box feature\n4:38 Incredible control\n6:32 Comics and manga\n8:13 Ideogram with ComfyUI\n10:00 Higgsfield\n11:37 Installing Comfy manager\n13:24 Installing KJ nodes\n14:55 Installing Ideogram models\n17:51 How to use Ideogram workflow\n19:45 Safety filter\n22:05 Adding text and other settings\n28:32 Benchmarks and license\n\nWorkflow: https://drive.google.com/file/d/1rIotssI6EiA7buHzU0fmTZ2rQQnelaoz/view?usp=sharing\nComfy manager: https://docs.comfy.org/manager/install\nKJ nodes https://github.com/kijai/ComfyUI-KJNodes\nIdeogram models: https://huggingface.co/Comfy-Org/Ideogram-4\n\nMore tutorials:\nComfyUI tutorial https://youtu.be/g74Cq9Ip2ik\nZ-image tutorial: https://youtu.be/iNM5z8cC",
+        "id": 5715193,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=OA4gchz1Zcs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 806,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIgnGlGkVRhd4qNFcEwLL4A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/OA4gchz1Zcs/hqdefault.jpg",
+        "title": "New BEST local AI image generator is here!",
+        "vote": 0
+    }
+]
