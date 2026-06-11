@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "JRE Clips",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-10T17:52:24.886586+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-10T17:00:22+00:00",
+        "description": "Taken from JRE #2512 w/Joey Diaz\nYouTube: https://youtu.be/oD13_3D8QY0\nJRE on Spotify: https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk",
+        "id": 5730448,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=pa57MtD7jdY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 157,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnxGkOGNMqQEUMvroOWps6Q",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/pa57MtD7jdY/hqdefault.jpg",
+        "title": "Joey Diaz on Beating Drug Tests and Bringing Chaos to Boulder, Colorado",
+        "vote": 0
+    }
+]

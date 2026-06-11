@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "OpenAI",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-10T18:47:44.421823+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-10T17:15:03+00:00",
+        "description": "See how the creative production plugin for Codex helps marketing teams move from product and campaign context to visual concepts, asset variations, and editable creative.\n\nIn this demo, Codex creates a campaign mood board, refines visual directions, generates a launch asset, and hands it off for final edits.\n\nMore than 5 million people now use Codex every week, with marketers, creators, operators, designers, researchers, investors, and bankers among the fastest-growing users.\n\nLearn more: https://openai.com/index/codex-for-every-role-tool-workflow/\nTry the plugin today: https://chatgpt.com/plugins/share/a826391706e14c90816f2ceba9cc8b49",
+        "id": 5730988,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=2ey7znf8SI0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 935,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXZCJLdBC09xxGZ6gcdrc6A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/2ey7znf8SI0/hqdefault.jpg",
+        "title": "Create campaign concepts and assets with Codex",
+        "vote": 0
+    }
+]

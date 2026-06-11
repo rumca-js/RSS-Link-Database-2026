@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-10T14:04:50.781606+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-10T13:15:42+00:00",
+        "description": "Texas Instruments and BeagleBoard.org have announced that the AM62x and AM26x PRU Academy is now available, adding new learning material for developers working with BeaglePlay and PocketBeagle 2. &#160; The PRU, or Programmable Real-Time Unit, is a deterministic 32-bit RISC core found in several TI Sitara and Jacinto devices. It is designed for low-latency I/O [&#8230;]",
+        "id": 5728184,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/am62x-pru-academy-goes-live-for-beagleplay-and-pocketbeagle-2",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "AM62x PRU Academy goes live for BeaglePlay and PocketBeagle 2",
+        "vote": 0
+    }
+]

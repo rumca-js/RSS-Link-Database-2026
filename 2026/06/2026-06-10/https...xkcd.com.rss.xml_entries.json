@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-11T02:10:13.086197+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-10T04:00:00+00:00",
+        "description": "<img src=\"https://imgs.xkcd.com/comics/beam_pipe.png\" title=\"'If you keep trying to spray your collaborators with the beam when they're not looking, I'm turning off the ion source and NO one will get to play with the beam!' --Physics's mom\" alt=\"'If you keep trying to spray your collaborators with the beam when they're not looking, I'm turning off the ion source and NO one will get to play with the beam!' --Physics's mom\" />",
+        "id": 5733896,
+        "language": "en",
+        "link": "https://xkcd.com/3257",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 573,
+        "source_url": "https://xkcd.com/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://imgs.xkcd.com/comics/beam_pipe.png",
+        "title": "Beam Pipe",
+        "vote": 0
+    }
+]

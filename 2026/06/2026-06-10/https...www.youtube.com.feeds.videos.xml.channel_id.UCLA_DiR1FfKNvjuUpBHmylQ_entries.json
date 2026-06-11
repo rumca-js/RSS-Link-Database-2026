@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NASA",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-10T02:06:14.151874+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-10T00:08:26+00:00",
+        "description": "Another step toward one of the most complex spaceflight missions in history, NASA provided updates on Artemis III and announced crew members for the test flight. Planned to launch in 2027, the mission will practice docking the Orion spacecraft with two lunar landers in low Earth orbit. \n\nOn future missions, including Artemis IV in 2028, landers will bring astronauts to the lunar surface. While Artemis III will not land on the Moon, it will test the complex capabilities we need to return humanity there \u2014 this time to stay.\n\nCrew assignments are as follows:\n\u2022 NASA astronaut Randy Bresnik, commander\n\u2022 ESA (European Space Agency) astronaut Luca Parmitano, pilot\n\u2022 NASA astronaut Andre Douglas, mission specialist\n\u2022 NASA astronaut Frank Rubio, mission specialist\n\u2022 NASA astronaut Bob Hines, backup crew member\n \nLearn more about NASA\u2019s Artemis program: https://www.nasa.gov/artemis",
+        "id": 5724317,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=G-GD8SQ0AvU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 1010,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLA_DiR1FfKNvjuUpBHmylQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/G-GD8SQ0AvU/hqdefault.jpg",
+        "title": "Artemis III Announcement Recap: Crew, Mission Details, and What\u2019s Next",
+        "vote": 0
+    }
+]

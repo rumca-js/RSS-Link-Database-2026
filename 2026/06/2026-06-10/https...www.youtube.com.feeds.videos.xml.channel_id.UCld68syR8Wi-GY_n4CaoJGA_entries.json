@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-10T21:13:03.128085+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-10T17:30:12+00:00",
+        "description": "When you think of Ubuntu LTS you probably expect things to remain unchanging for an entire release well turns out that's not exactly what you're going to get with a recent Ubuntu 24.04 LTS change completely breaking support for Kepler GPUs\n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\nAUR Package Nvidia: https://aur.archlinux.org/packages/nvidia-470xx-dkms\nUbuntu Bug: https://bugs.launchpad.net/ubuntu/+source/nvidia-graphics-drivers-470-server/+bug/2110338\nNew Ubuntu Bug:  https://bugs.launchpad.net/ubuntu/+source/nvidia-graphics-drivers-470/+bug/2155202\nLinux Mint Thread: https://forums.linuxmint.com/viewtopic.php?t=469946\n\n=========Video Platforms==========\n\ud83c\udfa5 React: https://www.youtube.com/@BrodieRobertsonReacts\n\ud83c\udfa5 Podcast: https://techovertea.xyz/youtube\n\ud83c\udfae Gaming: h",
+        "id": 5732127,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=nwHjVOcUMaw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/nwHjVOcUMaw/hqdefault.jpg",
+        "title": "Ubuntu LTS Randomly Broke 12 Year Old GPUs",
+        "vote": 0
+    }
+]

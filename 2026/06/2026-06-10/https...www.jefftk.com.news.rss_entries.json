@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-10T22:10:15.438219+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-10T08:00:00+00:00",
+        "description": "<p><span>\n\nA </span>\n\n<a href=\"https://www.jefftk.com/p/making-a-secular-solstice-songbook\">couple\nyears ago</a> I put together a \n\n<a href=\"https://www.jefftk.com/solsong/\">Secular Solstice Songbook</a>,\na compilation of all the songs we've sung at \n\n<a href=\"https://www.jefftk.com/p/boston-solstice-2025-retrospective\">Boston\nSolstice</a>.  Anna Tchetchetkine and I led a session of group singing\nat \n\n<a href=\"https://less.online/\">LessOnline</a>, following up from an\ninformal one the year before, and I noticed several annoying things\nwith its chord handling:\n\n\n\n<p>\n\n</p>\n\n<ul>\n<li><p>Despite being digital, it didn't support transposition.\n</p></li>\n<li><p>Some songs didn't repeat the chord if they were unchanged,\nwhich meant that when scrolling new lyrics into view you'd lose the chords.\n</p></li>\n<li><p>This is minor, but I like to align the chords in a grid and the\nrepeat sign was very slightly to narrow, throwing off the grid.\n</p></li>\n</ul>\n\n\n\n<p>\n\nIn asked Claude Code to fix th",
+        "id": 5732500,
+        "language": "en-US",
+        "link": "https://www.jefftk.com/p/solsong-chord-updates",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 163,
+        "source_url": "https://www.jefftk.com/news.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Solsong Chord Updates",
+        "vote": 0
+    }
+]

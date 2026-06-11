@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unreal Sensei",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-10T15:47:10.724738+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-10T14:07:50+00:00",
+        "description": "The ultimate landscape and terrain creator for UE5! Learn how to use the new Mesh Terrain system to create complex next generation landscapes in Unreal Engine. Introducing the Sensei Terrain Master Material which is the first master material for Mesh Terrain. Features include Nanite displacement, auto texturing, virtual texture blending, triplanar projection and more.\n\nLink to The Unreal Masterclass:\nhttps://www.unrealmasterclass.com/\n\nGet It Here Updated for UE5.8:\nhttps://www.unrealsensei.com/asset/senseiterrainmaterial\n\nSignup for the Unreal Sensei Newsletter:\nhttps://www.unrealsensei.com/newsletter\n\nFollow on Twitter: https://twitter.com/unrealsensei\n\nTimestamps\n0:00 - Intro\n1:29 - Mesh Terrain Basics\n7:37 - Sculpt Modifier\n14:43 - Remesh Modifier\n23:36 - Sensei Terrain Material\n39:12 - Paint Material Layers\n45:04 - Texture Modifier\n51:04 - Spline Modifier\n52:47 - Boolean Mesh Modifier\n34:11 - Foliage\n1:03:17 - Convert to Terrain",
+        "id": 5729221,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Lhj2LutYNjA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 542,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCue7TFlrt9FxXarpsl872Dg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/Lhj2LutYNjA/hqdefault.jpg",
+        "title": "How to Use Unreal Engine\u2019s New Landscape System - Mesh Terrain Tutorial",
+        "vote": 0
+    }
+]

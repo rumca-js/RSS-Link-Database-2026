@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Babylon Bee",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-10T17:22:39.265699+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-10T16:02:06+00:00",
+        "description": "What would happen if AOC were forced to learn basic economics? We asked AI to show us that scenario.",
+        "id": 5730130,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=Z_vp2RMcJRA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 31,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCyl5V3-J_Bsy3x-EBCJwepg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/Z_vp2RMcJRA/hqdefault.jpg",
+        "title": "We Asked AI To Simulate What Would Happen If AOC Were Forced To Learn Economics",
+        "vote": 0
+    }
+]

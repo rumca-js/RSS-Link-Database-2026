@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Foundation",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-10T07:28:34.535675+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-10T02:46:41+00:00",
+        "description": "Join us at the premier vendor-neutral open source conference, where developers and technologists come together to collaborate, share knowledge, and explore the latest innovations and advancements in open source technology. Learn more at https://events.linuxfoundation.org/\n\nFrom Closed To Collaborative: Lessons From Qualcomm\u2019s Open Development Experience - Rashmi Chitrakar, Qualcomm Technologies, Inc.\n\nFor more than 15 years, Qualcomm\u2019s been actively involved in a range of Open Source ecosystems. Until recently, some parts of our development were handled behind closed doors, with contributions coming later and upstream enablement sometimes being limited. We tried various projects and partnerships to push things upstream sooner, but it wasn\u2019t until lately that we truly made a complete shift.\n\nOver the past 18 months, we\u2019ve totally revisited our approach\u2014moving an entire Linux product development ecosystem, with hundreds of contributors, from a private downstream setup to a full-blown Op",
+        "id": 5725666,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=grbCnDxYBVw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 499,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfX55Sx5hEFjoC3cNs6mCUQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/grbCnDxYBVw/hqdefault.jpg",
+        "title": "From Closed To Collaborative: Lessons From Qualcomm\u2019s Open Development Experience - Rashmi Chitrakar",
+        "vote": 0
+    }
+]

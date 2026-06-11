@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ForrestKnight",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-10T18:30:01.863220+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-10T15:00:22+00:00",
+        "description": "Try out PostHog, it's genuinely awesome: https://jetty.to/posthog\n\nAbout two months ago, Anthropic said Claude Mythos was way too dangerous to release to the public. So they didn't. Instead, they performed an amazingly effective marketing campaign that pulled in many of the top companies in the world to gain exclusive access to this model to ensure their software was safe. But now they say they're rolling out Mythos-class models to the public.\nAnd to clarify, this video was made before they released the Mythos-class model Fable 5, which is a heavily safeguarded version of Mythos. \n\nThis video is about the entire story of Mythos up until this point: \n0:00 Mythos is way too dangerous\n2:05 Project Glasswing & Campaign\n3:25 I don't believe Anthropic's fear mongering\n6:53 Mozilla Firefox Mythos Results\n10:47 cURL Mythos Results\n13:01 Mythos is actually good, but...\n14:54 The Mythos Conspiracy\n\nIf you're a developer, sign up to my free newsletter Dev Notes \ud83d\udc49 https://www.devnotesdaily.com/\n\n",
+        "id": 5730838,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=UYbZo6UuMMY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 118,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2WHjPDvbE6O328n17ZGcfg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/UYbZo6UuMMY/hqdefault.jpg",
+        "title": "The Mythos Situation is Crazy",
+        "vote": 0
+    }
+]
