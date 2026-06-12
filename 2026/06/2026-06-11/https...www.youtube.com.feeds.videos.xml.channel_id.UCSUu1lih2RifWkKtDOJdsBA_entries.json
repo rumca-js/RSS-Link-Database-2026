@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NASASpaceflight",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-11T12:54:18.729747+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-11T11:43:46+00:00",
+        "description": "Launch Window: June 12th from 8:27AM to 12:27AM EDT (12:27-16:27 UTC)\nCurrent T0: June 12th at 8:27AM EDT (12:27 UTC)\n\nMission: Falcon 9 launch of 29 Starlink v2 Mini satellites into orbit.\nLaunch location: Space Launch Complex 40 (SLC-40), Cape Canaveral Space Force Station, Earth.\nTarget orbit: Low-Earth Orbit (LEO)\nBooster: B1080-27; 59d 2h 53min 50s turnaround\nPast customer missions: Axiom-2, Euclid, Axiom-3, CRS-30, SES-24, NG-21.\nPast Starlink missions: 6-11, 6-24, 6-52, 6-62, 10-10, 6-69, 12-1, 12-2, 12-4, 10-12, 6-80, 6-75, 10-32, 10-16, 10-30, 10-15, 6-78, 6-100, 10-40, 10-24.\nSatellites launched: 521, will be 550 after this mission.\nBooster recovery: A Shortfall Of Gravitas (ASOG)\nFairing recovery: Bob\nRocket trajectory: Northeast flying parallel to the US east coast\nPayload mass: Approximately 17 tonnes.\nStats:\n  - SpaceX's 679th launch overall.\n  - SpaceX's 70th launch of the year.\n  - SpaceX's 6th launch of the month.\n  - Earth's 137th orbital launch of the year.\n  - Falc",
+        "id": 5737353,
+        "language": "",
+        "link": "https://www.youtube.com/watch?v=wkwYXsmKG24",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 1013,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSUu1lih2RifWkKtDOJdsBA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/wkwYXsmKG24/hqdefault.jpg",
+        "title": "SpaceX Launches Falcon 9 with Starlink 10-54",
+        "vote": 0
+    }
+]

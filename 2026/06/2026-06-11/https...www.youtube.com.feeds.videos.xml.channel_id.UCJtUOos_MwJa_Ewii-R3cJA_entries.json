@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Leila Gharani",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-11T11:22:44.778086+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-11T09:00:26+00:00",
+        "description": "\ud83d\udd25 Get our brandnew Power Query exercise pack (including the GroupBy method): https://www.xelplus.com/course/power-query-challenge-pack/\nRemove duplicates in Power Query, sort by date, keep the latest record. Logical, right? On a large file it can quietly hand you the wrong number, and nothing breaks to tell you.\n\nThat's the trap in this video. You sort newest-first, remove duplicates to keep the top row, and the result looks fine. Then you run it on a bigger dataset and the count is wrong. No error. No warning. Just bad data going into your report.\n\nThe cause is lazy evaluation. Power Query tries to be efficient and skips the full sort before removing duplicates, so it keeps an older record instead of the most recent one. I'll show you exactly how to spot it, how to check your work against the source, and the one-line fix: wrapping your sort step in Table.Buffer() so the whole table sorts in memory first.\n\nThere's also a second method using Group By that doesn't rely on sort order at ",
+        "id": 5736695,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=tsIiiXWqqdo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 957,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJtUOos_MwJa_Ewii-R3cJA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/tsIiiXWqqdo/hqdefault.jpg",
+        "title": "Power Query Remove Duplicates Keeps the WRONG Record (Here's the fix)",
+        "vote": 0
+    }
+]

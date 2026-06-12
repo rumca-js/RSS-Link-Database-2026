@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unity",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-11T16:10:49.554442+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-11T15:21:47+00:00",
+        "description": "A ListView in UI Toolkit displays large collections of data using a small number of reusable visual elements. This allows interfaces to handle long lists efficiently without creating a separate UI element for every item.\n\nThis video explains how ListView differs from ScrollView, why virtualization matters for large data sets, and how makeItem and bindItem work together to create reusable rows.\n\nYou\u2019ll also see common setup patterns and learn how to sync a ListView\u2019s recycled rows with your underlying data.\n\nLearn more about ListViews: https://on.unity.com/ListView\n\nLearn more about ScrollView: https://on.unity.com/ScrollView\n\nLearn more about TreeView: https://on.unity.com/TreeView\n\nDownload the QuizU sample project: https://on.unity.com/QuizUSample\n\n[0:00] Introduction\n[0:28] ScrollViews versus ListViews\n[1:30] Setting up a ListView\n[4:00] Scrolling and virtualization\n[5:27] Recycling and UI state\n[8:19] TreeViews\n[8:37] Wrap-up\n\n_______________\n\nStay connected with us: \nGames Twitte",
+        "id": 5739251,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=dCTrj-_6vBk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 683,
+        "source_url": "https://youtube.com/channel/UCG08EqOAXJk_YXPDsAvReSg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/dCTrj-_6vBk/hqdefault.jpg",
+        "title": "UI Toolkit: ListViews",
+        "vote": 0
+    }
+]

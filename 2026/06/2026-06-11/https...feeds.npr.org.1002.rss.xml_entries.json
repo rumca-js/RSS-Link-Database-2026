@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Stephen Thompson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-11T16:28:10.186295+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-11T11:44:17+00:00",
+        "description": "Ariana Grande is about to release her eighth album, <em>Petal</em>. With \"Hate That I Made You Love Me,\" she continues an impressive and unusual streak on the charts.",
+        "id": 5739542,
+        "language": "en",
+        "link": "https://www.npr.org/2026/06/11/nx-s1-5853132/ariana-grande-no-1-hate-that-i-made-you-love-me",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 226,
+        "source_url": "https://feeds.npr.org/1002/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2000+0+0/resize/3000x2000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbe%2F16%2F33bc149540359feea23969480b3c%2Fgettyimages-2244901241.jpg",
+        "title": "Ariana Grande's new song debuts at No. 1, keeping a streak alive",
+        "vote": 0
+    }
+]

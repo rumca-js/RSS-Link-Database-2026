@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Khan Academy",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-11T13:19:31.916932+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-11T12:56:43+00:00",
+        "description": "Courses on Khan Academy are always 100% free. Start practicing\u2014and saving your progress\u2014now. https://www.khanacademy.org/science/ap-physics-2\n\nCircuit elements can be connected in series or in parallel. A series connection exists when elements are joined along a single chain. The same current flows through every element in the chain. A parallel connection exists when elements are connected across the same two points in a circuit, with no other components between them. The same voltage exists across each element in a parallel connection. Real-world circuits often utilize a combination of both series and parallel connections.\n\nSections:\n00:00 - Intro\n00:30 - Current in series connection\n01:54 - Voltage in series connection\n04:43 - More on series connection\n06:42 - Current in parallel connection\n07:48 - Voltage in parallel connection\n08:44 - More on parallel connection\n13:50 - Summary\n\n------------------\n\nKhan Academy is a nonprofit organization with the mission of providing a free, worl",
+        "id": 5737686,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=1ASc6piVKhQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 977,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4a-Gbdw7vOaccHmFo40b9g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/1ASc6piVKhQ/hqdefault.jpg",
+        "title": "Electric circuits (part 2) | Physics | Khan Academy",
+        "vote": 0
+    }
+]

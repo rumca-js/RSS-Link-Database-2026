@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Foundation",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-11T07:49:52.668596+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-11T02:10:32+00:00",
+        "description": "Join us at the premier vendor-neutral open source conference, where developers and technologists come together to collaborate, share knowledge, and explore the latest innovations and advancements in open source technology. Learn more at https://events.linuxfoundation.org/\n\nEngineering Quality in a Fast-Moving Open Source Project: WPE WebKit - Mario Sanchez-Prada, Igalia\n\nBuilding an embedded product on top of a large Open Source codebase like WPE WebKit is only the first step. The real challenge is keeping its quality stable as thousands of lines evolve and hundreds of changes land every week across multiple platforms.\n\nIn such an environment, errors and regressions are inevitable. What matters is detecting them quickly, understanding their impact, and reacting before they propagate further. This talk focuses on the engineering work that makes this possible, an effort that is essential yet often invisible.\n\nUsing WPE WebKit as a case study, we will explore how quality becomes a contin",
+        "id": 5735338,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=yy1GQRLt4zA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 499,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfX55Sx5hEFjoC3cNs6mCUQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/yy1GQRLt4zA/hqdefault.jpg",
+        "title": "Engineering Quality in a Fast-Moving Open Source Project: WPE WebKit - Mario Sanchez-Prada, Igalia",
+        "vote": 0
+    }
+]
