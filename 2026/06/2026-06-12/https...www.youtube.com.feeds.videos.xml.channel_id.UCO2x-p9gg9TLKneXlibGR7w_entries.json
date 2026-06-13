@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Snazzy Labs",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-12T19:28:56.502315+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-12T18:43:35+00:00",
+        "description": "It's not gold, it's not made in America, and it leaked my identity.\n*Save 10% off a Cloth Pro Max*: https://snazzy.fm/yqu4U6\n\nFollow Snazzy Labs on Twitter - https://twitter.com/snazzylabs  \nFollow me on Bluesky - https://snazzy.fm/UW\nFollow me on Threads - https://snazzy.fm/XV\nFollow me on Mastodon - https://snazzy.fm/NN\nFollow me on Instagram - https://instagram.com/snazzyq\n\nThe Trump Mobile T1 finally shipped, and as one of the first paying customers in the world, I tore the $499 \"Made in USA\" Trump phone apart to find out what it really is. Spoiler: it's not the rebadged T-Mobile REVL Pro 5G everyone claimed \u2014 it's a gold HTC U24 Pro with a bigger battery, a broken in-display fingerprint sensor, and a Snapdragon 7 Gen 3. From pre-order emails landing in Gmail spam thanks to botched DMARC records, to paying for the $47.45 Trump Mobile 47 Plan over the phone, the entire buying experience was a disaster worthy of its own review. I also ran a full packet capture with PCAPdroid and Wir",
+        "id": 5749076,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=b1ytw85Npt8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 307,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCO2x-p9gg9TLKneXlibGR7w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/b1ytw85Npt8/hqdefault.jpg",
+        "title": "I bought the Trump phone..",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "JayzTwoCents",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-12T02:36:44.480983+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-12T01:49:13+00:00",
+        "description": "GPU pass through fans can potentially lead to sending hot air to the CPU cooler... that's where this comes in!",
+        "id": 5743305,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/Q5aMAfk4BwI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 760,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkWQ0gDrqOCarmUKmppD7GQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/Q5aMAfk4BwI/hqdefault.jpg",
+        "title": "They Almost Called This the \"Master Blower\" #pcmr #pc #gpu",
+        "vote": 0
+    }
+]

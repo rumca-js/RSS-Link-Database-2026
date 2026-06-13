@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Shruti Koparkar",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-13T00:29:10.117748+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-12T21:00:08+00:00",
+        "description": "AgentPerf from Artificial Analysis, the industry\u2019s first agentic AI benchmark, gives developers, enterprises and infrastructure providers a clear way to compare systems for agentic AI. In the first round of published results, the NVIDIA Blackwell Ultra NVL72 platform delivers leading performance across the agentic AI workloads tested, running 20x more agents per megawatt than NVIDIA [&#8230;]",
+        "id": 5750689,
+        "language": "en-US",
+        "link": "https://blogs.nvidia.com/blog/nvidia-blackwell-agentperf-artificial-analysis",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 1019,
+        "source_url": "https://feeds.feedburner.com/nvidiablog",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://blogs.nvidia.com/wp-content/uploads/2026/06/dgx-social-gb300-2048x2048-1-1-842x450.jpg",
+        "title": "NVIDIA Blackwell Leads on First Agentic AI Infrastructure Benchmark",
+        "vote": 0
+    }
+]

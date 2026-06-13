@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kevin Stratvert",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-12T08:54:52.863262+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-12T07:00:03+00:00",
+        "description": "Learn how to use ComfyUI step by step in this beginner-friendly tutorial. ComfyUI is one of the most popular free and open-source AI tools for generating images, creating videos, enhancing photos, and building powerful AI workflows using a visual node-based interface.\n\nIn this tutorial, you'll learn how to install ComfyUI, download and set up your first AI model, generate AI images from text prompts, understand how nodes and workflows work, add an image upscaling node, save custom workflows, and explore the built-in template library.\n\nWhether you're completely new to AI image generation or looking to understand how ComfyUI workflows are built, this guide will help you get up and running quickly.\n\n\ud83d\udccc In this video:\n- Install ComfyUI on your computer\n- Download and manage AI models\n- Generate your first AI image\n- Understand nodes and workflows\n- Add an image upscaling node\n- Save and share workflows\n- Explore image, video, audio, and 3D templates\n\nHost: Kevin Stratvert\n\n\ud83d\udcda RESOURCES\n- Ge",
+        "id": 5744713,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=hl7kwMwkLJU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 958,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfJT_eYDTmDE-ovKaxVE1ig",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/hl7kwMwkLJU/hqdefault.jpg",
+        "title": "How to Use ComfyUI (Step-by-Step Tutorial)",
+        "vote": 0
+    }
+]

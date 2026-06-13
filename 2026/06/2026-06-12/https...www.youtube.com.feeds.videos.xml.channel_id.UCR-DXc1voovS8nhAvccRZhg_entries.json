@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeff Geerling",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-12T18:09:01.693950+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-12T14:00:38+00:00",
+        "description": "You can finally remotely power on a Mac, even if it shut down normally!\n\nThings I referenced in this video (some links are affiliate links):\n\n  - Apple's support article: https://support.apple.com/en-us/125517\n  - ThirdReality Zigbee Smart Outlet: https://amzn.to/4vxuhse\n  - How I set up my power monitoring in Home Assistant: https://www.jeffgeerling.com/blog/2025/how-i-monitor-and-control-all-my-powered-devices-zigbee-ha/\n  - How to log into a Mac with SSH before FileVault is unlocked: https://www.jeffgeerling.com/blog/2025/you-can-finally-manage-macs-filevault-remotely-tahoe/\n  - 9to5Mac Article about the feature: https://9to5mac.com/2026/05/11/macos-26-5-adds-new-way-to-control-your-macs-power-state-via-switches/\n  - Reddit comment where I found this out: https://www.reddit.com/r/homelab/comments/1txnj04/comment/opyd44t/\n\nSupport me on Patreon: https://www.patreon.com/geerlingguy\nSponsor me on GitHub: https://github.com/sponsors/geerlingguy\nMerch: https://www.redshirtjeff.com\n2nd C",
+        "id": 5748395,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=9prKU2Vuo-0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 161,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR-DXc1voovS8nhAvccRZhg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/9prKU2Vuo-0/hqdefault.jpg",
+        "title": "Apple FINALLY lets you do this!",
+        "vote": 0
+    }
+]

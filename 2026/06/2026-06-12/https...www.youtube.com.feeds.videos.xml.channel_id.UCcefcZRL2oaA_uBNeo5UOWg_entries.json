@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-12T14:36:38.027606+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-12T14:00:20+00:00",
+        "description": "It's hard to keep up with the latest AI research. That's why we started YC Paper Club \u2014 a small group of researchers, engineers, and founders who meet every two weeks at our Mountain View office to present and discuss new papers together. In this session, we cover whether scaling laws hold for protein biology, AlphaZero-style self-play for language models, streaming RAG for real-time voice agents, formal verification with Lean, and why one founder thinks programming with agents is exactly like playing a real-time strategy game. Stay tuned for more.\n\n00:00 \u2014 Introduction by Francois Chaubard\n05:47 \u2014 Yasa Baig: A World Model of Protein Biology (Evolutionary Scale Models)(https://biohub.ai/esm/protein/about)\n25:38 \u2014 Luke Bailey: Scaling Self-Play with Self-Guidance (AlphaZero-style Self-play for LLMs) (https://arxiv.org/pdf/2604.20209)\n37:51 \u2014 Arnab Maiti: Stream RAG: Instant and Accurate Spoken Dialogue Systems with Streaming Tool Usage (https://arxiv.org/pdf/2510.02044)\n47:40 \u2014 Robert ",
+        "id": 5746806,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=3rWSvrFahIY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/3rWSvrFahIY/hqdefault.jpg",
+        "title": "5 Papers That Show Where AI Research Is Heading Right Now",
+        "vote": 0
+    }
+]

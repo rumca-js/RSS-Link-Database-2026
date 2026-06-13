@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ForrestKnight",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-12T18:11:15.565353+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-12T16:00:29+00:00",
+        "description": "I really like Depot, you should try it: https://jetty.to/depot\n\nAnthropic just dropped Mythos to the public in the form a Fable 5, which is a heavily safeguarded version of Mythos. And that's putting it lightly. I know I'm late on this one, but I wanted to be thorough in my testing and understanding of how this model actually codes. I used it to scan for vulnerabilities and remediate them on a TS codebase. I had it code a few features on a TypeScript codebase and a Rust codebase. I also had it run for 1+ hour to create different apps. I showcase a few of these, but not all of them since my analytics show most of y'all skip much of the code portion.\n\nBut there is so much more when it comes to Fable 5, like Anthropic's insane need to try to control every aspect of it with safeguards that are very trigger happy to the point that it's sometimes completely unusable. They say the safeguards prevent you from working on anything cyber security or biology or LLM development, but it blocks much",
+        "id": 5748416,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=2kObwHxHILQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 118,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2WHjPDvbE6O328n17ZGcfg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/2kObwHxHILQ/hqdefault.jpg",
+        "title": "Coding with Mythos Fable 5 is actually insane.",
+        "vote": 0
+    }
+]

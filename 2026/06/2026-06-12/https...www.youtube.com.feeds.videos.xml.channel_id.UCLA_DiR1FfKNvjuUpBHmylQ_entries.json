@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NASA",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-13T00:30:01.191898+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-12T20:11:41+00:00",
+        "description": "Watch a SpaceX Dragon spacecraft undock and depart from the International Space Station. The spacecraft is scheduled to undock at 12:05 p.m. EDT (1705 UTC) on Tuesday, June 16, and splash down off the coast of California at 5:08 a.m. PDT (1208 UTC) on Wednesday, June 17.\n\nThis Dragon spacecraft arrived at the space station as part of our SpaceX 34th Commercial Resupply Services (CRS-34) mission, carrying science and supplies for the crew aboard the orbiting lab. It will return to Earth with cargo and scientific experiments \u2014 from improving fuel storage on future space missions to developing cancer treatments back on Earth.\n\nLearn more about this mission and the science it's bringing back home: https://www.nasa.gov/news-release/nasa-to-cover-34th-spacex-resupply-mission-space-station-departure/\nFollow the ISS blog for the latest updates on the CRS-33 mission: https://www.nasa.gov/blogs/spacestation/\n\nCredit: NASA",
+        "id": 5750690,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=fu-t3Om6DIA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 1010,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLA_DiR1FfKNvjuUpBHmylQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/fu-t3Om6DIA/hqdefault.jpg",
+        "title": "NASA's SpaceX 34th Commercial Resupply Services Undocking",
+        "vote": 0
+    }
+]

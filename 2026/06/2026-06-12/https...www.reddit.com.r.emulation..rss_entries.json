@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/HueponiK",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-12T00:11:23.575579+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-12T00:06:04+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://codeberg.org/hueponik/goosestation-builder/src/tag/v0.6\">https://codeberg.org/hueponik/goosestation-builder/src/tag/v0.6</a></p> <p>Goosestation is a project that allows you to transform standalone Duckstation\u00ae source code into a Libretro core source code, and compile it into your own personal binary.</p> <ul> <li>Updated base to current Duckstation\u00ae rolling release</li> <li>Controllers should work including lightguns and mouse (use included dummy overlay to see the cursor for lightgunning)</li> <li>Cheats</li> <li>Boot into bios</li> <li>Switch build has shaders support now with deko3d hw driver</li> <li>Texture dumping works (replacement not tested yet)</li> <li>Debian should be satisfied with library name now</li> <li>Bunch of other bits bobs</li> </ul> <p>No video guides yet sorry.</p> <p>Installation instructions same as before: <a href=\"https://www.reddit.com/r/emulation/comments/1tfgqeq/goosestation_v02/\">https://www.reddit.com",
+        "id": 5742698,
+        "language": "",
+        "link": "https://www.reddit.com/r/emulation/comments/1u3frl0/goosestation_update_v06",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 475,
+        "source_url": "https://www.reddit.com/r/emulation/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Goosestation update: v0.6",
+        "vote": 0
+    }
+]

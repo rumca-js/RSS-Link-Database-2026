@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-12T15:22:50.251178+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-12T09:00:00+00:00",
+        "description": "<p>Apple FINALLY lets you <a href=\"https://support.apple.com/en-us/125517\">turn on your Mac remotely</a>, without having to press the power button. In the media, articles suggest it's a reaction to <a href=\"https://9to5mac.com/2026/05/11/macos-26-5-adds-new-way-to-control-your-macs-power-state-via-switches/\">Mac mini power button complaints</a>.</p>\n<figure class=\"insert-image\"><img src=\"https://www.jeffgeerling.com/blog/2026/power-on-your-mac-remotely/m4-mini-remote-power-button.jpg\"\n alt=\"Turning on an M4 Mac mini remotely using Home Assistant on a Framework 12\" width=\"700\" height=\"auto\">\n</figure>\n\n<p>While I agree the M4 mini's power button is in a really dumb spot, that's not why I care about this feature. The two <em>bigger</em> use cases for me have been a pain for years:</p>",
+        "id": 5747184,
+        "language": "en",
+        "link": "https://www.jeffgeerling.com/blog/2026/power-on-your-mac-remotely",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 162,
+        "source_url": "https://www.jeffgeerling.com/blog.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.jeffgeerling.com/blog/2026/power-on-your-mac-remotely/m4-mini-remote-power-button.jpg",
+        "title": "You can finally power on a Mac remotely",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-12T05:28:56.012764+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-12T05:09:04+00:00",
+        "description": "The LLM-8850 Kit is an M.2-based AI accelerator designed for edge AI, embedded inference, video analytics, and multimodal large-model workloads. It combines the LLM-8850 Card, a compact M.2 M-Key 2242 module based on the Axera AX8850 SoC, with a PiHat adapter board for the Raspberry Pi 5. &#160; The AX8850 integrates eight Arm Cortex-A55 cores [&#8230;]",
+        "id": 5743893,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/m5stack-llm-8850-kit-delivers-24-tops-ai-acceleration-in-m-2-form-factor",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "M5Stack LLM-8850 Kit delivers 24 TOPS AI acceleration in M.2 form factor",
+        "vote": 0
+    }
+]
