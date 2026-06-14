@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-13T18:57:29.728800+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-13T17:30:17+00:00",
+        "description": "It's almost time for KDE Plasma to completely drop support for X11, we're only 1 major release away, but what does that actually mean for you as the user.\n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\nFirst Wayland Commit: https://gitlab.freedesktop.org/wayland/wayland/-/commit/97f1ebe8d5c2e166fabf757182c289fed266a45a\nKDE Wayland Slides: https://desktopsummit.org/sites/www.desktopsummit.org/files/KWin_Wayland.pdf\nKDE Wayland Future: https://blogs.kde.org/2025/11/26/going-all-in-on-a-wayland-future/\nKwin X11: https://blog.vladzahorodnii.com/2025/03/13/kwin_x11-and-kwin_wayland-split/\nDavid Edmundson Blog: https://blog.davidedmundson.co.uk/blog/596/\n\n=========Video Platforms==========\n\ud83c\udfa5 React: https://www.youtube.com/@BrodieRobertsonReacts\n\ud83c\udfa5 Podcast: https://techovertea",
+        "id": 5755040,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=gXQLC3Sontc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/gXQLC3Sontc/hqdefault.jpg",
+        "title": "KDE Plasma 6.7: The Final Release Before X11 Is GONE",
+        "vote": 0
+    }
+]

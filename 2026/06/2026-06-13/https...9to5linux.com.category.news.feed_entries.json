@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Marcus Nestor",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-13T22:15:26.700972+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-13T17:58:55+00:00",
+        "description": "<p><img width=\"1920\" height=\"1080\" src=\"https://9to5linux.com/wp-content/uploads/2026/06/slly233.webp\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Shelly 2.3.3\" /></p>\n<p>Shelly 2.3.3 open-source graphical package manager for Arch Linux-based distributions is now available for download with better handling of Flatpak and AppImage bundles, and other changes.</p>\n<p>The post <a href=\"https://9to5linux.com/shelly-2-3-3-package-manager-for-arch-linux-improves-flatpak-appimage-support\">Shelly 2.3.3 Package Manager for Arch Linux Improves Flatpak/AppImage Support</a> appeared first on <a href=\"https://9to5linux.com\">9to5Linux</a> - do not reproduce this article without permission. This RSS feed is intended for readers, not scrapers.</p>",
+        "id": 5755875,
+        "language": "en-US",
+        "link": "https://9to5linux.com/shelly-2-3-3-package-manager-for-arch-linux-improves-flatpak-appimage-support",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 6,
+        "source_url": "https://9to5linux.com/category/news/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://9to5linux.com/wp-content/uploads/2026/06/slly233.webp",
+        "title": "Shelly 2.3.3 Package Manager for Arch Linux Improves Flatpak/AppImage Support",
+        "vote": 0
+    }
+]

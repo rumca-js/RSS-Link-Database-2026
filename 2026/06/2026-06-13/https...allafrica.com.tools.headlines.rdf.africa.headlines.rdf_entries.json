@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-13T22:42:40.180880+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-13T20:08:36+00:00",
+        "description": "[allAfrica] Growing up, all I ever wanted was to work underwater as a marine conservationist. But it wasn't until my first job in Mombasa - waiting under baobab trees for fishers to return so I could measure their catch - that I realized the ocean is much more than what lies beneath the surface. Along Kenya's coastline, I saw first-hand how deeply people's lives are intertwined with the sea.",
+        "id": 5756030,
+        "language": "en",
+        "link": "https://allafrica.com/stories/202606130205.html",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 15,
+        "source_url": "https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Africa: Africa's Ocean Moment Cannot End in Empty Promises",
+        "vote": 0
+    }
+]

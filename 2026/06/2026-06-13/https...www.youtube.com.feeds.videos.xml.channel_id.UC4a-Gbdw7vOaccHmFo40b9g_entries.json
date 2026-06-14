@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Khan Academy",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-13T15:46:32.266774+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-13T13:02:28+00:00",
+        "description": "Courses on Khan Academy are always 100% free. Start practicing\u2014and saving your progress\u2014now. https://www.khanacademy.org/science/ap-physics-2\n\nThrough experiment, we can uncover the relationship between the current through a circuit element and the voltage across it. Measurements show that the current is equal to the voltage divided by the element\u2019s resistance (I=\u0394V/R).  This relationship is called Ohm\u2019s law. Since the current is proportional to the voltage, a graph of current through an element versus the voltage across it is a straight line. The slope of the line is the element\u2019s conductance, which is the reciprocal of resistance. Though many circuit elements obey Ohm\u2019s law, some do not. Such components are called non-ohmic.\n\nSections:\n00:00 - Intro\n00:27 - Experimental setup \n03:05 - Plotting voltage vs. current\n05:56 - Ohm's law\n08:50 - Calculating resistor value\n11:29 - Ohmic and non-ohmic devices\n\n------------------\n\nKhan Academy is a nonprofit organization with the mission of p",
+        "id": 5754190,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=FuIn1L3qeqI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 977,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4a-Gbdw7vOaccHmFo40b9g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/FuIn1L3qeqI/hqdefault.jpg",
+        "title": "Ohm's law | Physics | Khan Academy",
+        "vote": 0
+    }
+]

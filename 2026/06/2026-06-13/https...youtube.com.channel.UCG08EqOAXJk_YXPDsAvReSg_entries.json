@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unity",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-13T14:43:10.659381+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-13T14:00:26+00:00",
+        "description": "Unity Industry Cloud is a collaborative 3D platform designed for teams to create, review, and deliver immersive experiences. This video focuses on Unity Asset Manager, showing you how to upload, organize, and prepare your CAD files for production use. \n\nThe Asset Manager is a centralized system for managing CAD and 3D assets across teams. It supports structured metadata, version history, asset control, and file streaming, ensuring consistent asset state, and traceability throughout review, optimization, and downstream workflows.\n\nTopics covered in this video:\n\u2705 Asset Manager setup and project creation\n\u2705 Asset organization and metadata\n\u2705 Inspection and optimization\n\u2705 Finalization\n\nUnity Asset Manager is available with both the Unity Industry and Unity Studio subscriptions. Unity Studio is a no-code, web-based editor that empowers anyone within an organization to create and share in 3D. Unity Industry includes the Unity Editor and provides advanced visualization, simulation, AR/VR, and ",
+        "id": 5753855,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=bc8DHbXHnWU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 683,
+        "source_url": "https://youtube.com/channel/UCG08EqOAXJk_YXPDsAvReSg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/bc8DHbXHnWU/hqdefault.jpg",
+        "title": "Unity Industry Cloud: Unity Asset Manager",
+        "vote": 0
+    }
+]

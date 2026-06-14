@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Chris Titus Tech",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-13T21:25:14.417485+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-13T19:45:15+00:00",
+        "description": "I've been on Linux for years and I always wished there was ONE book that gave me a real foundation \u2014 not a distro tier list, not 1,000 pages of niche edge cases, just a practical guide to understanding Linux and making it your own. So I wrote it.\n\nThe Linux Desktop Guide covers everything from choosing a distro (Debian, Red Hat, or Arch buckets), understanding what makes up a Linux system, picking your bootloader, desktop environment, and display server, to ~100 pages of terminal commands and troubleshooting you'll actually use.\n\n\ud83d\udcd6 Physical copy (Amazon): https://amzn.to/4aNkw0V\n\ud83d\udcbe Digital / EPUB (cttstore.com): https://cttstore.com\n\ud83c\udf10 Free online: https://thelinuxbook.com\n\nThe book is also a reference to over 1,000 of my YouTube videos \u2014 each topic links out to companion videos so you can go deeper on anything that interests you. It's designed to be written in, highlighted, and kept on your desk.\n\nI'll be updating it annually. If something's missing, drop a comment or open an issue on ",
+        "id": 5755650,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=dVmXcRwIobA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 444,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCg6gPGh8HU2U01vaFCAsvmQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/dVmXcRwIobA/hqdefault.jpg",
+        "title": "The Linux Desktop Guide",
+        "vote": 0
+    }
+]

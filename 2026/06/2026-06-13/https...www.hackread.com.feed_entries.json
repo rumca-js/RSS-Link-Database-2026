@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Waqas",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-13T14:59:33.902032+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-13T14:31:38+00:00",
+        "description": "Ukrainian national Oleksii Lytvynenko has pleaded guilty in the US to wire fraud conspiracy linked to Conti ransomware, which hit more than 1,000 victims and generated at least $150 million in ransom payments.",
+        "id": 5753909,
+        "language": "en-US",
+        "link": "https://hackread.com/extradited-ukrainian-admits-conti-ransomware-attacks",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 139,
+        "source_url": "https://www.hackread.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Extradited Ukrainian Man Admits Role in Conti Ransomware Attacks",
+        "vote": 0
+    }
+]
