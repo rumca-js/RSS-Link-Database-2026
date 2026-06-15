@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Christine Hall",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-14T17:48:14.723275+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-14T17:22:00+00:00",
+        "description": "<p><em>Just hours after Arch sounded the all\u2011clear on a massive AUR malware purge, a new, stealthier campaign is slipping malicious code back into user packages.</em></p>\n<p>The post <a href=\"https://fossforce.com/2026/06/aur-to-arch-houston-weve-got-a-problem-were-under-attack-again/\">AUR to Arch: &#8216;Houston, We&#8217;ve Got a Problem&#8230;We&#8217;re Under Attack Again&#8217;</a> appeared first on <a href=\"https://fossforce.com\">FOSS Force</a>.</p>",
+        "id": 5759947,
+        "language": "en-US",
+        "link": "https://fossforce.com/2026/06/aur-to-arch-houston-weve-got-a-problem-were-under-attack-again",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 108,
+        "source_url": "https://fossforce.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "AUR to Arch: \u2018Houston, We\u2019ve Got a Problem\u2026We\u2019re Under Attack Again\u2019",
+        "vote": 0
+    }
+]

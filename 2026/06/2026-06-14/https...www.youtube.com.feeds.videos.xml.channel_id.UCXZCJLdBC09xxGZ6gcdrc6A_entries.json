@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "OpenAI",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-15T00:12:57.657531+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-14T22:44:45+00:00",
+        "description": "\"Without Codex, we probably would be six months behind where we are today.\" \n\nKamo Asatryan and his team are building the core infrastructure to power inference across all products at Payward. Speed is the #1 value for his team and Codex has unlocked the ability to ship faster. \ud83d\ude80 \n\nIf you like to move slow \ud83d\udc22 , don't click here: https://chatgpt.com/codex",
+        "id": 5761429,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=NxAxwsu6_Zs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 935,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXZCJLdBC09xxGZ6gcdrc6A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/NxAxwsu6_Zs/hqdefault.jpg",
+        "title": "How Payward Ships Faster with Codex",
+        "vote": 0
+    }
+]

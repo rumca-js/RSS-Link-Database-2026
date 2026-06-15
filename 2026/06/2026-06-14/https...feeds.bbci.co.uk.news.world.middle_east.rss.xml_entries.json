@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-14T15:54:31.954019+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-14T15:34:32+00:00",
+        "description": "Israel says it targeted the Iran-backed Hezbollah, as Tehran warns this could derail a US-Iran deal to end the fighting.",
+        "id": 5759397,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/czj83zlx1vjo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 525,
+        "source_url": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c96/live/b9b7b210-67f8-11f1-8e1d-bbbb1017d210.jpg",
+        "title": "Lebanon says three killed in Israeli strike on Beirut suburb",
+        "vote": 0
+    }
+]

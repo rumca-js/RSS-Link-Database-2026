@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/StoneSteel_1",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-14T21:47:03.868793+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-14T07:50:24+00:00",
+        "description": "<table> <tr><td> <a href=\"https://www.reddit.com/r/webscraping/comments/1u5f0lf/automatiq_browse_a_site_once_get_a_working_http/\"> <img src=\"https://external-preview.redd.it/Mbibu84AdfSnZYGYYA33nixmyRefnGLv-y14feWU8fk.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=3ddc89b7d4031592309d6a8571804cf6df98e824\" alt=\"Automatiq - Browse a site once, get a working HTTP scraper\" title=\"Automatiq - Browse a site once, get a working HTTP scraper\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>AutomatiQ watches you browse, then an AI agent reverse-engineers your session into a standalone Python automation/extraction script; no manual inspection needed.</p> <p>This means, you can easily fix broken scrapers Autonomously without ever opening the devtools, while removing unnecessary dependence on browsers, selectors and broken UI.</p> <p>AutomatiQ is completly Open-source(MIT License), free to use, and there are no hidden paid tiers, allowing you to freely use across all platforms, and situati",
+        "id": 5760943,
+        "language": "en",
+        "link": "https://www.reddit.com/r/webscraping/comments/1u5f0lf/automatiq_browse_a_site_once_get_a_working_http",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 467,
+        "source_url": "https://www.reddit.com/r/webscraping/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://external-preview.redd.it/Mbibu84AdfSnZYGYYA33nixmyRefnGLv-y14feWU8fk.jpeg?width=320&crop=smart&auto=webp&s=3ddc89b7d4031592309d6a8571804cf6df98e824",
+        "title": "Automatiq - Browse a site once, get a working HTTP scraper",
+        "vote": 0
+    }
+]

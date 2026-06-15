@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-14T14:06:48.211935+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-14T09:33:09+00:00",
+        "description": "U.S. Ambassador to the United Nations Mike Waltz on ABC News' \"This Week\" as U.S. and Iranian officials signal a framework peace deal is close.",
+        "id": 5758865,
+        "language": "en-US",
+        "link": "https://abcnews.com/Politics/us-intent-iran-deal-sunday-ambassador-waltz/story?id=133860049",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 81,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 9,
+        "source_url": "http://feeds.abcnews.com/abcnews/topstories",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://s.abcnews.com/images/Politics/BANDAR-ABBAS-HORMUZ-20260614-rt-jh_1781442242080_hpMain_4x3t_384.jpg",
+        "title": "US has 'every intent of getting' Iran deal done Sunday, Ambassador Waltz says",
+        "vote": 0
+    }
+]

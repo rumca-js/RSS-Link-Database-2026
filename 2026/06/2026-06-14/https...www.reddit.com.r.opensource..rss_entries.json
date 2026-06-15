@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/USERNAME123_321",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-14T14:12:07.110188+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-14T11:57:55+00:00",
+        "description": "<table> <tr><td> <a href=\"https://www.reddit.com/r/opensource/comments/1u5j8vb/switcheroocontrolrs_a_rust_port_of_the_linux/\"> <img src=\"https://external-preview.redd.it/WTd9aUiYgkRU0fjM8rAVqTleU7rabV3fVlMDD7HbvQc.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=3975d5a417d235f63cc737809c47b42efc11c72c\" alt=\"Switcheroo-control-rs: a Rust port of the Linux hybrid graphics manager\" title=\"Switcheroo-control-rs: a Rust port of the Linux hybrid graphics manager\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>&#x200B;</p> <p>Hi everyone,</p> <p>This is a working WIP Rust port of switcheroo-control, a Linux hybrid graphics manager. It provides a daemon and a CLI to list GPUs and launch applications on a specific GPU (e.g. <code>switcherooctl launch --gpu 1 glmark2</code> to run on a discrete GPU).</p> <p>The original tool works fine so I didn&#39;t start this project to solve any particular problems. I mostly built it because I wanted to see how a system-level Linux tool like this woul",
+        "id": 5758885,
+        "language": "en",
+        "link": "https://www.reddit.com/r/opensource/comments/1u5j8vb/switcheroocontrolrs_a_rust_port_of_the_linux",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 595,
+        "source_url": "https://www.reddit.com/r/opensource/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://external-preview.redd.it/WTd9aUiYgkRU0fjM8rAVqTleU7rabV3fVlMDD7HbvQc.png?width=640&crop=smart&auto=webp&s=3975d5a417d235f63cc737809c47b42efc11c72c",
+        "title": "Switcheroo-control-rs: a Rust port of the Linux hybrid graphics manager",
+        "vote": 0
+    }
+]

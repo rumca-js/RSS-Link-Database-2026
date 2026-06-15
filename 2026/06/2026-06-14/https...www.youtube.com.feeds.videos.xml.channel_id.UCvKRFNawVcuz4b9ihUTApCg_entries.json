@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "David Shapiro",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-14T15:36:58.245833+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-14T13:14:57+00:00",
+        "description": "SOURCES\n\n1) https://www.anthropic.com/institute/recursive-self-improvement --- 8x coding improvement, 52x loop optimization with Fable/Mythos, 80% of code written by Claude\n\n2) https://darioamodei.com/post/policy-on-the-ai-exponential --- Dario's claim about extraordinary times and government being too slow\n\n3) https://darioamodei.com/essay/the-adolescence-of-technology --- Broader worldview about Dario's perception of existential risks.\n\n4) https://darioamodei.com/essay/machines-of-loving-grace --- Dario's original \"machines of loving grace\" view\n\n5) https://www.anthropic.com/news/fable-mythos-access --- Anthropic's public statement about what happened",
+        "id": 5759305,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=bDaMHyEIoZo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 946,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvKRFNawVcuz4b9ihUTApCg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/bDaMHyEIoZo/hqdefault.jpg",
+        "title": "They think FOOM is near",
+        "vote": 0
+    }
+]

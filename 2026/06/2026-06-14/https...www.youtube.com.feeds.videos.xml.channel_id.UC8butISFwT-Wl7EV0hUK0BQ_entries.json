@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-14T14:02:34.803151+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-14T12:43:23+00:00",
+        "description": "\"I just like computers\" - sounds like reason enough to work in tech, doesn't it? Mike chats with Quincy how he defied expectations and got into programming instead.",
+        "id": 5758861,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/9z_7WC8n5sY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/9z_7WC8n5sY/hqdefault.jpg",
+        "title": "\"I just like computers\" - sounds like reason enough to work in tech, doesn't it?",
+        "vote": 0
+    }
+]

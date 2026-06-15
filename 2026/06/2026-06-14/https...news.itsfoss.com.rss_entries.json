@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Sourav Rudra",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-14T12:44:24.162811+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-14T11:53:46+00:00",
+        "description": "A hijacked contributor account let an AI agent loose on Fedora's bug tracker, closing bugs, posting hallucinated fixes, and getting bad code into Anaconda.",
+        "id": 5758553,
+        "language": "en-US",
+        "link": "https://itsfoss.com/news/fedora-bug-tracker-infiltrated-by-ai-agent",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 156,
+        "source_url": "https://news.itsfoss.com/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://itsfoss.com/content/images/2026/06/fedora-ai-agent-infiltration-banner.png",
+        "title": "An AI Agent Infiltrated Fedora's Bug Tracker and Wreaked Havoc",
+        "vote": 0
+    }
+]

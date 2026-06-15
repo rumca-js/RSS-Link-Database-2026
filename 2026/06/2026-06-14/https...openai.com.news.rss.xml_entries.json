@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-15T00:35:29.732669+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-14T17:00:00+00:00",
+        "description": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
+        "id": 5761472,
+        "language": "en",
+        "link": "https://openai.com/index/introducing-openai-partner-network",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 953,
+        "source_url": "https://openai.com/news/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Introducing the OpenAI Partner Network",
+        "vote": 0
+    }
+]

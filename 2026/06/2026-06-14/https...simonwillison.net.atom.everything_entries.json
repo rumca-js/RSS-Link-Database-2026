@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Simon Willison",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-15T01:23:04.808030+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-14T23:54:11+00:00",
+        "description": null,
+        "id": 5761712,
+        "language": "en-us",
+        "link": "https://simonwillison.net/2026/Jun/14/why-ai-hasnt-replaced-software-engineers/#atom-everything",
+        "manual_status_code": 0,
+        "page_rating": 28,
+        "page_rating_contents": 87,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 423,
+        "source_url": "https://simonwillison.net/atom/everything",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Why AI hasn\u2019t replaced software engineers, and won\u2019t",
+        "vote": 0
+    }
+]

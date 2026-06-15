@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "David Bombal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-14T15:32:03.329858+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-14T14:00:13+00:00",
+        "description": "Big thank you to Radware for sponsoring this video\n\nIn this interview, David Bombal sits down with Randy Wood, Head of North American Business at Radware, to break down the massive shift occurring in enterprise cybersecurity. They discuss why the rise of Agentic AI is a \"1994 internet moment times a thousand,\" creating an environment where autonomous AI agents are rapidly outgrowing traditional security guardrails. Randy explains the critical connection between AI and API security, revealing how undiscovered \"Shadow AI\" tools and thousands of hidden enterprise API vulnerabilities leave organizations completely exposed to highly sophisticated, AI-driven DDoS attacks and flawless localized phishing campaigns. Learn how network engineers and security professionals can protect confidential data by pivoting from rigid rules to analyzing behavioral intent before execution, ensuring your network is ready for an autonomous tech stack. Visit radware.com for more deep-dive technical resources.\n",
+        "id": 5759275,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=81TZvWDbyuU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 984,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP7WmQ_U4GB3K51Od9QvM0w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/81TZvWDbyuU/hqdefault.jpg",
+        "title": "AI is attacking APIs: What you need to know in 2026",
+        "vote": 0
+    }
+]

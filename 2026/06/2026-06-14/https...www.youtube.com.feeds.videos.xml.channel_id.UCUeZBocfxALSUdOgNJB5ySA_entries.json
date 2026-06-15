@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Dr Ben Miles",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-14T16:06:56.526358+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-14T15:00:05+00:00",
+        "description": "Check out todays sponsor PLAUD - Note Pro: https://bit.ly/4e596YH NotePin S: https://bit.ly/4fMEgFz code\u201cBEN15\u201d-17% off\nAmazon\uff1a Note Pro: https://amzn.to/4v9nEws NotePin S: https://amzn.to/4eEmfbi code\u201cBEN15AMZ\u201d-17% off\n\nMicrosoft just announced the Majorana 2 - a topological quantum chip with qubits 1,000 times more reliable than its predecessor. I got exclusive access to Microsoft's quantum lab in Copenhagen and sat down with Chetan Nayak (Director\u00a0 of Quantum Hardware at Microsoft) to find out what actually changed, whether the results hold up, and what this means for the timeline to a useful quantum computer.\n\n0:00 - Microsoft Announce Majorana 2\n1:07 - How Quantum Computers Actually Work\n3:12 - The Case for Topological Qubits\n4:10 - How to Build a Topological Qubit\n8:06 - Ad break \n9:45 - What Changed in Majorana 2\n13:05 - Why Lead Beats Aluminium\n14:33 - When Are We Getting a Quantum Computer?\n\nMicrosoft Announcement: https://quantum.microsoft.com/en-us/insights/blogs/majorana-2",
+        "id": 5759446,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=oU_eQ4bEf1k",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 861,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCUeZBocfxALSUdOgNJB5ySA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/oU_eQ4bEf1k/hqdefault.jpg",
+        "title": "How Microsoft Just Built 1000x Better Qubits",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Lunduke Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-14T01:27:58.466789+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-14T01:15:42+00:00",
+        "description": "The data stealing code compromised over 1,500 packages in the Arch Linux User Repository, making use of Rust, Systemd, NodeJS, & Bun.\n\nGrab a Discounted Lifetime Sub & Get on The Wall:\nhttps://lunduke.substack.com/p/50-off-yearly-and-massively-discounted\n\nMore from The Lunduke Journal:\nhttps://lunduke.com/",
+        "id": 5756557,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=oLK-OWdEm7I",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 616,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkK9UDm_ZNrq_rIXCz3xCGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/oLK-OWdEm7I/hqdefault.jpg",
+        "title": "Rust-Based Malware Hits 1.4% of Arch User Repository",
+        "vote": 0
+    }
+]
