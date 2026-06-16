@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "C++ Weekly With Jason Turner",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-15T15:51:16.386252+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-15T15:29:50+00:00",
+        "description": "This month Jason and Mathieu are joined by Tom Tesch to discuss the current state of programming education for C++ and game developer students, and how chat bots and LLMs are affecting that landscape.\n\nNews\n\nhttps://github.com/petermost/Sourcetrail just a note that SourceTrail is being actively maintained on a fork still 8 years after we first covered it on CppCast\n\nDiscussion links\n\nhttps://www.linkedin.com/in/tom-tesch/\nhttps://screeeech.itch.io/the-creature-of-wellstown - student\u2019s game mentioned in the episode\nhttps://gdcvault.com/play/1035852/Game-Education-Case-Study",
+        "id": 5766041,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=C2ipTvy95wc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 48,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxHAlbZQNFU2LgEtiqd2Maw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/C2ipTvy95wc/hqdefault.jpg",
+        "title": "Teaching C++ to Game Development Students in the Age of LLMs - Tom Tesch CppCast 408 / C++Weekly 537",
+        "vote": 0
+    }
+]

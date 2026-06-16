@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Engineering Mindset",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-15T22:37:12.135222+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-15T18:41:01+00:00",
+        "description": "MOSFET V Transistors Try Brilliant \ud83d\udc49  http://brilliant.org/TheEngineeringMindset Plus our viewers 20% off an annual Premium subscription.\n\nLearn the key differences between MOSFETs, transistors and relays. This beginner-friendly electronics tutorial explains how BJTs and MOSFETs work, why they are used for switching and amplification, and how to choose the right component without releasing the magic smoke.\n\nCovers transistor pins, MOSFET gate behaviour, current gain, threshold voltage, pull-down resistors, motor control, LED dimming, relays, amplifiers and real circuit examples.\n\nGet component tester here \u27a1\ufe0f https://amzn.to/4uFkakm\nTry Brilliant Tutor for free \ud83d\udc49  http://brilliant.org/TheEngineeringMindset \nPlus our viewers 20% off an annual Premium subscription.\nGet your engineers mug here:\u27a1\ufe0f https://engineeringmindset.store/pages/mugs\n\n\u2728 With special thanks to these amazing people \u2728 \nA. Cabello, R Charlery, T Champion, R. Elskamp, Wiggie, P Bramble, R. Liu, M Bellis, C. Eastman, W. S",
+        "id": 5768834,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=DKYguNg1vmk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 961,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCk0fGHsCEzGig-rSzkfCjMw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/DKYguNg1vmk/hqdefault.jpg",
+        "title": "MOSFET vs Transistor vs Relay: Which One Wins?",
+        "vote": 0
+    }
+]

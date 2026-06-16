@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "David Shapiro",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-15T17:00:21.282649+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-15T14:20:13+00:00",
+        "description": "SOURCES:\n\nANDREW'S ARTICLE ---- https://x.com/AndrewCurran_/status/2066332670817456584\n\nSATYA'S ARTICLE ---- https://x.com/satyanadella/status/2066182223213293753",
+        "id": 5766581,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=jc9PbKtKlvc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 946,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvKRFNawVcuz4b9ihUTApCg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/jc9PbKtKlvc/hqdefault.jpg",
+        "title": "\"The window has closed\"",
+        "vote": 0
+    }
+]

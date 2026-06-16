@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Seth Godin",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-15T09:12:32.869462+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-15T09:03:00+00:00",
+        "description": "When tech shows up, it offers a shortcut and convenience. You can use Google Maps to direct you somewhere without paying much attention to the surroundings. You can use Claude to write your marketing copy and get a better-than-mediocre result the first try. You can look for a gift on Amazon, pick the first match, [&#8230;]",
+        "id": 5763379,
+        "language": "en-US",
+        "link": "https://seths.blog/2026/06/degrees-of-freedom-3",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Degrees of freedom",
+        "vote": 0
+    }
+]

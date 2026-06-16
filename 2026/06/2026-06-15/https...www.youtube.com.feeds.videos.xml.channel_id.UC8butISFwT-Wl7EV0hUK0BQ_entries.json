@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-15T12:14:19.227489+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-15T11:47:23+00:00",
+        "description": "Stop manually debugging your code and learn how to leverage AI to automatically detect, analyze, and resolve CI/CD pipeline failures. In this course, you will bridge the gap between DevOps and automation by integrating N8N, OpenAI, and GitHub Actions to create a fully autonomous, self-healing workflow.\n\n\u270f\ufe0f Course from @TheTechzeen \nLinkedIn: https://www.linkedin.com/in/farzeen-ali-533479204/\nWebsite: https://www.thetechzeen.com/\n\n\u2764\ufe0f Support for this channel comes from our friends at Scrimba \u2013 the coding platform that's reinvented interactive learning: https://scrimba.com/freecodecamp\n\n\u2b50\ufe0f Contents \u2b50\ufe0f\n- 00:00 Introduction to Self-Healing CI/CD Pipelines\n- 02:00 Recommended Tech Stack Overview\n- 02:29 Workflow Logic and Architecture\n- 03:02 Setting Up the Local Environment (Git & GitHub)\n- 05:09 Building the Node.js and Express Application\n- 08:17 Creating the Smoke Test Script\n- 10:22 Implementing the GitHub Actions Pipeline\n- 19:51 Setting Up the N8N Automation Account\n- 21:56 Reposito",
+        "id": 5764419,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=vj68el9hRvU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/vj68el9hRvU/hqdefault.jpg",
+        "title": "Build a Self-Healing CI/CD Pipeline with AI",
+        "vote": 0
+    }
+]

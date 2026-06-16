@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kevin Stratvert",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-15T09:45:13.552135+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-15T07:00:35+00:00",
+        "description": "Use Claude AI as an add-in for Microsoft Word, so you can save hours and create your best documents. In this tutorial, I\u2019ll show how to enable Claude inside of Microsoft Word, then use Claude to draft new documents, analyze information, and safely modify documents. This video also shows how to reference additional files to rewrite documents in Word. \n\nWith Claude, you have a new AI workflow for the Microsoft 365 Productivity applications. Copilot is no longer the only option. But, I\u2019ll compare features between Copilot and Claude, exploring the advantages of using Claude, and identifying some scenarios where Copilot might be the best choice. \n\nHost: Nick Brazzi\n#claude  #word  #microsoftcopilot  \n\n\ud83d\udcda RESOURCES \nAdditional information about managing Claude Usage Credits: https://support.claude.com/en/articles/12429409-manage-usage-credits-for-paid-claude-plans\n\n\u231a TIMESTAMPS \n00:00 \u2013 Introduction\n00:29 \u2013 Install the Claude Add-in\n01:09 \u2013 Draft documents with Claude\n01:48 \u2013 Modify existing",
+        "id": 5763501,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Cktc5apkzH8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 958,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfJT_eYDTmDE-ovKaxVE1ig",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/Cktc5apkzH8/hqdefault.jpg",
+        "title": "How to use Claude in Microsoft Word",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ryan Daws",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-15T17:21:13.237315+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-15T16:54:35+00:00",
+        "description": "<p>A rogue AI agent using compromised developer credentials breached the Fedora software supply chain and merged defective code into production. The incident exposed deep architectural flaws in open-source identity management protocols. An external actor deployed an autonomous system against the Bugzilla infrastructure using stolen access tokens belonging to a contributor. The script executed automated state [&#8230;]</p>\n<p>The post <a href=\"https://www.developer-tech.com/news/ai-agent-breaches-fedora-software-supply-chain/\">AI agent breaches Fedora software supply chain</a> appeared first on <a href=\"https://www.developer-tech.com\">Developer Tech News</a>.</p>",
+        "id": 5766826,
+        "language": "en-GB",
+        "link": "https://www.developer-tech.com/news/ai-agent-breaches-fedora-software-supply-chain",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 92,
+        "source_url": "https://www.developer-tech.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "AI agent breaches Fedora software supply chain",
+        "vote": 0
+    }
+]

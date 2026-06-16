@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Critical Drinker",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-15T16:25:06.443507+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-15T16:00:39+00:00",
+        "description": "With the cancellation of Doctor Who, the question that rises now is... which franchise will get the chop next? Star Trek? Star Wars? James Gunn? Let's discuss.",
+        "id": 5766231,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=z0mEFUj94bQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 334,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSJPFQdZwrOutnmSFYtbstA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/z0mEFUj94bQ/hqdefault.jpg",
+        "title": "So... Who's Next?",
+        "vote": 0
+    }
+]

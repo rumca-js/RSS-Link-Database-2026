@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-15T13:48:28.714751+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-15T11:00:36+00:00",
+        "description": "Learn more about Pair Programming here \u2192 https://ibm.biz/~TKifmoii8\n\nAI might be the teammate you didn\u2019t know you needed \ud83e\udd16\ud83d\udca1. Sam Anthony breaks down AI pair programming, AI coding, and developer tools in action. Discover how AI transforms debugging, code review, and developer productivity in real workflows \ud83d\ude80.\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/~mTrs2CMKc\n\n#ai #aicoding #pairprogramming #developertools",
+        "id": 5765133,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=MTmhgIVhpag",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/MTmhgIVhpag/hqdefault.jpg",
+        "title": "What Is AI Pair Programming? AI Coding Tools for Developers",
+        "vote": 0
+    }
+]

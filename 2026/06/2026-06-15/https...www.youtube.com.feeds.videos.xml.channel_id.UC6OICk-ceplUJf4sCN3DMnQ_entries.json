@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Tyler Stalman",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-16T00:54:43.745260+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-15T20:45:57+00:00",
+        "description": "Here\u2019s how I setup to record @fullstackcreatorshow every week with @Riversidefm\nRiverside is how we record remotely: https://creators.riverside.com/tylers and use TYLERS for 30 days free of Riverside Pro",
+        "id": 5769557,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/fEBgC58fx20",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 883,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6OICk-ceplUJf4sCN3DMnQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/fEBgC58fx20/hqdefault.jpg",
+        "title": "Tour my home podcast studio",
+        "vote": 0
+    }
+]

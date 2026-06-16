@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NetworkChuck",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-15T17:20:15.872454+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-15T16:58:23+00:00",
+        "description": "\ud83d\udd12 This video is sponsored by NordVPN (#ad). Get the exclusive NordVPN deal + 4 EXTRA months here \ud83d\udc49 https://nordvpn.com/networkchuck \u2014 it's completely risk-free with Nord's 30-day money-back guarantee!\n\nSo\u2026 do you REALLY need a VPN? I got sponsored by a VPN to make this video \u2014 which means I have to be EXTRA harsh to keep any shred of dignity. So I busted 6 of the biggest VPN myths, no sugarcoating, and by the end you'll know exactly what a VPN is actually good for, what it's NOT, and why I still use one every single day.\n\nIn this video, you'll learn what a VPN actually does (it just changes what network you appear to be on), why \"HTTPS already encrypts everything\" doesn't mean a VPN is useless, and how your ISP can still see the sites you visit even with secure DNS \u2014 I prove it with a live Wireshark capture. We get into what \"no-logs\" really means and how to verify a provider you can actually trust (RAM-only servers, independent audits, jurisdiction), why a VPN can NOT make you invisi",
+        "id": 5766822,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=axfNxZ1R6C4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 565,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9x0AN7BWHpCDHSm9NiJFJQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/axfNxZ1R6C4/hqdefault.jpg",
+        "title": "Should you use a VPN in 2026?",
+        "vote": 0
+    }
+]

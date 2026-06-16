@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Daniel Greene",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-15T18:03:18.463775+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-15T17:15:10+00:00",
+        "description": "I've been doing this for 10 freak'n years now.",
+        "id": 5767086,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=GVggIuFoHPE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 90,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCw--xPGVVxYzRsWyV1nFqgg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/GVggIuFoHPE/hqdefault.jpg",
+        "title": "CELEBRATING 10 YEARS ON YOUTUBE! \ud83e\udd73 AMA",
+        "vote": 0
+    }
+]

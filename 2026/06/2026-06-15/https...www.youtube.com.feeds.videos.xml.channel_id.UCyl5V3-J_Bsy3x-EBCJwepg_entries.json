@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Babylon Bee",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-15T23:25:38.918922+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-15T21:30:33+00:00",
+        "description": "America is hosting FIFA World Cup 2026, which gave us the idea to ask AI: how can we make soccer less boring? Now with modern technology and artificial intelligence we can simulate just a few ways soccer can be made less boring. It's a step in the right direction.",
+        "id": 5769152,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=0Ti5p74cOk0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 31,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCyl5V3-J_Bsy3x-EBCJwepg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/0Ti5p74cOk0/hqdefault.jpg",
+        "title": "We Asked AI To Make Soccer Less Boring",
+        "vote": 0
+    }
+]

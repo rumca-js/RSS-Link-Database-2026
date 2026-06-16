@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "GitHub",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-15T17:08:21.291267+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-15T15:00:11+00:00",
+        "description": "Welcome to another episode of GitHub Checkout! This week, Andrea sits down with James Clancey to take a deep dive into the GitHub Copilot desktop app. Discover how this agent-first experience replaces messy terminal setups with a clean user interface designed for parallel workflows. Learn how to leverage git working trees so multiple agents can work simultaneously in isolation without code collisions.\n\n#GitHub #GitHubCopilot #ProjectManagement \n\nCheck out the GitHub Copilot Desktop app: https://github.com/features/ai/github-app?utm_source=youtube-checkout-github-copilot-app&utm_medium=social&utm_campaign=github-copilot-app-tech-preview-2026\n\n\u2014 CHAPTERS \u2014 \n\n00:00 Introduction to the GitHub Copilot app\n01:45 Streamlining pull requests with agent merge\n02:05 Scheduling cloud automations and MCP integrations\n04:08 Managing waitlists and repository feedback\n06:14 Multi-agent development using working trees\n09:07 Supported models and local model options\n10:25 Proactive project management fe",
+        "id": 5766711,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=UzYm0kyVY9s",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 1005,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7c3Kb6jYCRj4JOHHZTxKsQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/UzYm0kyVY9s/hqdefault.jpg",
+        "title": "Exploring the agent-first GitHub Copilot desktop app | GitHub Checkout",
+        "vote": 0
+    }
+]
