@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "JayzTwoCents",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-16T01:54:46.808397+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-16T00:39:01+00:00",
+        "description": "I've been trying to teach myself Fusion 360 so I can use my 3D Printers and CNC machines for custom PC parts.... but it's incredible frustrating!",
+        "id": 5769790,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/H0wZTG09Y6Q",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 760,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkWQ0gDrqOCarmUKmppD7GQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/H0wZTG09Y6Q/hqdefault.jpg",
+        "title": "Teaching Myself How To CNC - am I doing it wrong?",
+        "vote": 0
+    }
+]

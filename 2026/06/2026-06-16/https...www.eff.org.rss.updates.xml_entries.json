@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Cindy Cohn",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-16T19:56:38.202847+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-16T18:56:00+00:00",
+        "description": "<div class=\"field field--name-body field--type-text-with-summary field--label-hidden\"><div class=\"field__items\"><div class=\"field__item even\"><p><span data-contrast=\"auto\">After 26 years, today is my last day at EFF. It's been a terrific and wild ride \u2014 the organization\u00a0has\u00a0grown\u00a0from a tiny band of\u00a0fighty\u00a0people trying to plant a flag for freedom and justice in the coming digital world into a large, established band of\u00a0fighty\u00a0people doing, well, much the same. The world around us has changed enormously. Our core values\u00a0haven't\u00a0budged.</span></p>\n<p><span data-ccp-props=\"{}\"><img alt=\"cartoon of EFF as superheros\" title=\"XKCD cartoon about EFF\" class=\"media-element file-default\" data-delta=\"1\" src=\"https://www.eff.org/files/xkcd_eff_cartoon.png\" data-fid=\"59514\" data-media-element=\"1\" /></span></p>\n<p><span data-contrast=\"auto\">I'm proud of what we've achieved: freeing encryption, defending coders, pushing to rein in government and corporate surveillance\u00a0and ensure the right to have a",
+        "id": 5776308,
+        "language": "en",
+        "link": "https://www.eff.org/deeplinks/2026/06/farewell-now-friends",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 101,
+        "source_url": "https://www.eff.org/rss/updates.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.eff.org/files/xkcd_eff_cartoon.png",
+        "title": "Onward, Friends",
+        "vote": 0
+    }
+]

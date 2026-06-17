@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Gruber",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-16T16:32:09.709340+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-16T16:12:31+00:00",
+        "description": "<p>Sarah Perez, writing for TechCrunch:</p>\n\n<blockquote>\n  <p>This week, Apple <a href=\"https://www.apple.com/newsroom/2026/06/apple-expands-app-store-capabilities-to-help-developers-grow-and-reach-new-users/\">announced</a> a series of discovery features\nthat will personalize app recommendations based on users\u2019\ninterests and behavior, providing a new way for developers to have\ntheir app discovered.</p>\n\n<p>At Apple\u2019s Worldwide Developers Conference (WWDC), the iPhone\nmaker introduced Personalized Collections in the App Store, which\nwill showcase recommendations tailored to the individual. These\nwill also include new \u201cApp Notes\u201d that explain why the specific\napps were recommended to you. Starting this week, you\u2019ll find\nthese new personalized suggestions in various places in the App\nStore, including the Apps or Games tab or on the Search tab.</p>\n</blockquote>\n\n<p>Via Michael Tsai, security research critics Mysk, posting <a href=\"https://x.com/mysk_co/status/2064401062224879888\">on Twi",
+        "id": 5774648,
+        "language": "",
+        "link": "https://techcrunch.com/2026/06/09/apples-app-store-rolls-out-personalized-recommendations",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 489,
+        "source_url": "https://daringfireball.com/feeds/main",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "New in the App Store: Personalized Recommendations",
+        "vote": 0
+    }
+]

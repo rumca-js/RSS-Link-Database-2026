@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "1littlecoder",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-16T23:42:54.002343+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-16T21:18:11+00:00",
+        "description": "We're introducing GLM-5.2, our latest flagship model for long-horizon tasks. It marks a substantial leap in long-horizon task capability over its predecessor GLM-5.1 and, for the first time, delivers that capability on a solid 1M-token context. GLM-5.2's new capabilities include:\n\nSolid 1M Context: A solid 1M-token context that stably sustains long-horizon work\nAdvanced Coding with Flexible Effort: Stronger coding capabilities with multiple thinking effort levels to balance performance and latency\nImproved Architecture: We propose IndexShare, which reuses the same indexer across every four sparse attention layers, reducing per-token FLOPs by 2.9\u00d7 at a 1M context length. We also improve GLM-5.2\u2019s MTP layer for speculative decoding, increasing the acceptance length by up to 20%\nPure Open: An MIT open-source license \u2014 no regional limits, technical access without borders\nSupporting long-horizon tasks starts with making long context engineering-usable: the model must maintain quality acros",
+        "id": 5777827,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=fWsET5fyBqo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 948,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCpV_X0VrL8-jg3t6wYGS-1g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/fWsET5fyBqo/hqdefault.jpg",
+        "title": "GLM 5.2 is the New AI Code King \ud83d\udc51!!!",
+        "vote": 0
+    }
+]

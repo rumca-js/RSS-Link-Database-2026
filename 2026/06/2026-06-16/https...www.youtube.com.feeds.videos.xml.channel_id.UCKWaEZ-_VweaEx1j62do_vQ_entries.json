@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-16T12:02:00.819288+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-16T11:00:03+00:00",
+        "description": "Learn more about AI Agent security here \u2192 https://ibm.biz/~ev730VA3X\n\nConfused agents can leak data without anyone noticing. Legare Kerrison explains how Kagenti secures multi\u2011agent systems using identity, delegation chains, and open source infrastructure. Learn why agentic AI needs identity\u2011based security to prevent invisible breaches in production.\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/~4BCQane2m\n\n#aiagents #agenticai #multiagentsystems #zerotrust",
+        "id": 5772614,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=4vfvvzzwcwI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/4vfvvzzwcwI/hqdefault.jpg",
+        "title": "Kagenti\u2019s Approach to Multi-Agent Security for AI Agents",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/mklements",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-16T03:30:21.766953+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-16T01:17:21+00:00",
+        "description": "<table> <tr><td> <a href=\"https://www.reddit.com/r/raspberry_pi/comments/1u6zg4o/i_built_a_compact_4node_raspberry_pi_cluster_with/\"> <img src=\"https://preview.redd.it/wsdju505qj7h1.jpg?width=140&amp;height=81&amp;auto=webp&amp;s=da56bae34118868251f6a76be2e1b7403e85d90b\" alt=\"I Built a Compact 4-Node Raspberry Pi Cluster with Integrated Display and Networking\" title=\"I Built a Compact 4-Node Raspberry Pi Cluster with Integrated Display and Networking\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>I just finished building a compact 4-node Raspberry Pi cluster in a custom CNC-machined acrylic and aluminium enclosure.</p> <p>The cluster has two Raspberry Pi 5s, two Raspberry Pi 4s, a dedicated network switch, a touchscreen monitoring display and a single power system. Each node is mounted on a removable sled so individual Pis can be upgraded or serviced without dismantling the enclosure.</p> <p>The display runs a custom dashboard showing live system stats and the tinted acrylic pan",
+        "id": 5770103,
+        "language": "en",
+        "link": "https://www.reddit.com/r/raspberry_pi/comments/1u6zg4o/i_built_a_compact_4node_raspberry_pi_cluster_with",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 470,
+        "source_url": "https://www.reddit.com/r/raspberry_pi/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://preview.redd.it/wsdju505qj7h1.jpg?width=140&height=81&auto=webp&s=da56bae34118868251f6a76be2e1b7403e85d90b",
+        "title": "I Built a Compact 4-Node Raspberry Pi Cluster with Integrated Display and Networking",
+        "vote": 0
+    }
+]

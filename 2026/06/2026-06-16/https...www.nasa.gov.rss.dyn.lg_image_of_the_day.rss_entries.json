@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-16T14:44:20.203753+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-16T14:21:00+00:00",
+        "description": "The aurora australis arcs over Earth during an active solar event in this photograph taken at approximately 11:32 p.m. local time from the International Space Station as it orbited 271 miles above the Indian Ocean southwest of Perth, Australia on June 5.",
+        "id": 5773759,
+        "language": "en-us",
+        "link": "https://www.nasa.gov/image-detail/iss074e0672727",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 485,
+        "source_url": "https://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Aurora Australis",
+        "vote": 0
+    }
+]

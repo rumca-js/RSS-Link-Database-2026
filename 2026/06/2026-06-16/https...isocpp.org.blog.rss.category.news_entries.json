@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Blog Staff",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-16T22:26:46.396800+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-16T22:03:58+00:00",
+        "description": "<p>\n\t<img alt=\"alexandrescu-tame.png\" src=\"https://isocpp.org/files/img/alexandrescu-tame.png\" style=\"width: 400px; margin: 10px; float: right;\" />Registration is now open for CppCon 2026!&nbsp;The conference starts on September 12 and will be held&nbsp;<a href=\"https://cppcon.org/\">in person in Aurora, CO</a>. To whet your appetite for this year&rsquo;s conference, we&rsquo;re posting videos of some of the top-rated talks from last year&#39;s conference. Here&rsquo;s another CppCon talk video we hope you will enjoy &ndash; and why not&nbsp;<a href=\"https://cppcon.org/registration/\"><strong>register today</strong></a><strong>&nbsp;for CppCon 2026!</strong></p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://www.youtube.com/watch?v=X_w_pcPs2Fk\">How to Tame Packs, std::tuple, and the Wily std::integer_sequence</a></h3>\n\t<p>\n\t\tby&nbsp;Andrei Alexandrescu</p>\n</blockquote>\n<p>\n\tSummary of the talk:</p>\n<blockquote>\n\t<p>\n\t\tTemplate parameter packs and std::tuple unlock powerful metaprogramming capab",
+        "id": 5777325,
+        "language": "en",
+        "link": "https://isocpp.org//blog/2026/06/cppcon-2025-how-to-tame-packs-stdtuple-the-wily-stdinteger-sequence-andrei",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://isocpp.org/files/img/alexandrescu-tame.png",
+        "title": "CppCon 2025 How to Tame Packs, std::tuple, &amp; the Wily std::integer_sequence -- Andrei Alexandrescu",
+        "vote": 0
+    }
+]

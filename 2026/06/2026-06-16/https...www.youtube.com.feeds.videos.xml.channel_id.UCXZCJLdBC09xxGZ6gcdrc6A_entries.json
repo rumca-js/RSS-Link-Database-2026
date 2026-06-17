@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "OpenAI",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-16T17:57:13.713677+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-16T17:00:02+00:00",
+        "description": "The old tests are getting too easy. Tejal Patwardhan leads OpenAI\u2019s frontier evals team, which is finding new ways to measure and forecast progress as models become more capable. She and host Andrew Mayne discuss why evals matter for research, how benchmarks can break or get gamed, and what models need to be judged on next.\n\nChapters\n\n00:00:24 Growing up at OpenAI\n00:03:10 Why reasoning changed everything\n00:06:28 What made o1 surprising\n00:11:20 Why old benchmarks stopped working\n00:14:45 What makes a good benchmark\n00:17:35 Why evals are getting harder\n00:22:09 Measuring voice and vision models\n00:24:48 Testing models on real science\n00:33:23 How OpenAI tracks frontier progress\n00:40:47 What AI means for work",
+        "id": 5775406,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=CFqjjKp9Y-Q",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 935,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXZCJLdBC09xxGZ6gcdrc6A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/CFqjjKp9Y-Q/hqdefault.jpg",
+        "title": "Why Tejal Patwardhan stopped underestimating the models - Episode 21",
+        "vote": 0
+    }
+]
