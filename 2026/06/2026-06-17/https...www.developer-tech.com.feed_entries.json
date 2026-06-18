@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ryan Daws",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-17T15:36:07.583530+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-17T14:57:46+00:00",
+        "description": "<p>Security researchers identified a coordinated malware campaign within the JetBrains Marketplace designed to exfiltrate developer API keys. The operation targets software engineering teams incorporating AI models into daily production workflows. Investigative data from Aikido Security identifies fifteen individual integrated development environment plugins containing identical data exfiltration routines. Published under seven distinct vendor accounts \u2013 including [&#8230;]</p>\n<p>The post <a href=\"https://www.developer-tech.com/news/jetbrains-marketplace-malware-exposes-developer-api-keys/\">JetBrains marketplace malware exposes developer API keys</a> appeared first on <a href=\"https://www.developer-tech.com\">Developer Tech News</a>.</p>",
+        "id": 5781866,
+        "language": "en-GB",
+        "link": "https://www.developer-tech.com/news/jetbrains-marketplace-malware-exposes-developer-api-keys",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 92,
+        "source_url": "https://www.developer-tech.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "JetBrains marketplace malware exposes developer API keys",
+        "vote": 0
+    }
+]

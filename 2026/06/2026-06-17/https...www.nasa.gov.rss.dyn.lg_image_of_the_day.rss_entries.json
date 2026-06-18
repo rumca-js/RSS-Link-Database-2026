@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-17T16:42:37.210558+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-17T14:57:00+00:00",
+        "description": "This NASA Hubble Space Telescope image features the galaxy cluster MACS0329-0211.",
+        "id": 5782488,
+        "language": "en-us",
+        "link": "https://www.nasa.gov/image-detail/macs0329-0211-sky-sreg-flat-final",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 485,
+        "source_url": "https://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Hubble Sees Swarm of Galaxies",
+        "vote": 0
+    }
+]

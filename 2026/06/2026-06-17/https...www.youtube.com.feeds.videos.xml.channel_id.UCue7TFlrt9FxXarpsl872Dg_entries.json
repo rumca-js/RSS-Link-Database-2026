@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unreal Sensei",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-17T16:12:10.070078+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-17T15:46:41+00:00",
+        "description": "Unreal Engine 5.8 launched and it revolutionizes the way we create landscapes and render lighting. UE5.8 now has Mesh Terrain which is Unreal's next generation landscape system that lets us sculpt 3D landscape geometry. Also introduced is Lumen Probe Occlusion which is a more optimized and faster way to achieve global illumination. \n\nCheck out the Unreal Masterclass:\nhttps://www.unrealmasterclass.com\n\nMesh Terrain Tutorial:\nhttps://youtu.be/Lhj2LutYNjA\n\nWatch the UE5 Starter Course:\nhttps://youtu.be/k-zMkzmduqI\n\nStay up-to-date with the Unreal Newsletter:\nhttps://www.unrealsenseinewsletter.com\n\nFollow on Twitter: https://x.com/UnrealSensei\n\nChapters\n0:00 - Mesh Terrain\n3:41 - Lumen Probe Occlusion\n7:37 - Metahuman Creator\n7:38 - Fog Screen Space Scattering\n9:52 - Edit PCG\n10:43 - New Movement",
+        "id": 5782254,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=5d6mZNA_5sg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 542,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCue7TFlrt9FxXarpsl872Dg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/5d6mZNA_5sg/hqdefault.jpg",
+        "title": "Why Unreal Engine 5.8 is a Game Changer",
+        "vote": 0
+    }
+]

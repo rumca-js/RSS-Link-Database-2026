@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Lon.TV",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-17T23:04:32.791071+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-17T22:45:02+00:00",
+        "description": "Buy one on Amazon: https://lon.tv/ft5qu (compensated affiliate link) - I picked up a 16GB Asus 5060ti GPU the other day to experiment more with local AI models. This GPU looks like the sweet spot for running advanced models like Gemma 4 and others. Subscribe to my email list! http://lon.tv/email and my channel! http://lon.tv/s\n\nLinks: \nLM Studio: https://lmstudio.ai/\nAnythingLLM : https://anythingllm.com/\n\nVIDEO INDEX:\n00:00 - Intro\n00:11 - The Asus GPU\n00:54 - Hardware configuration\n02:02 - LM Studio\n03:21 - Power consumption running a basic prompt\n04:34 - Vision / Photo Analysis Example\n05:25 - Complex Prompt With Source Material Analysis\n09:27 - Analyzing the Complex Task Output\n11:09 - Coding an HTML Game\n12:17 - Coding a Python Web Scraper\n14:22 - RAG demo with Anything LLM / Notebook LM Alternative\n16:29 - Running a RAG Query\n18:55 - Splitting GPU and System Memory for Large Models\n19:29 - Finding and Downloading Models\n20:06 - Conclusion\n\nVisit my Blog! https://blog.lon.tv\n\nSub",
+        "id": 5785290,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=oyBRlKm14zw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 199,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCymYq4Piq0BrhnM18aQzTlg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/oyBRlKm14zw/hqdefault.jpg",
+        "title": "This Retail GPU Works Great for Local AI !",
+        "vote": 0
+    }
+]

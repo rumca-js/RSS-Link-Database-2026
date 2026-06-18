@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "TechHut",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-17T14:44:58.405335+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-17T14:00:52+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/a8FlWQ2YW5Q\" width=\"480\" alt=\"thumbnail\" title=\"The Backup Setup I Should Have Built Years Ago\" /></p>Thanks to MEGA for sponsoring this video. TechHut viewers get the Pro 2 plan at the Pro 1 price, 10TB for around $10/month <a href=\"https://mega.io/techhut?mct=techhut\">https://mega.io/techhut?mct=techhut</a><br /><br />Building a proper 3-2-1 backup for my entire homelab, the right way, for the first time. In part one we build the backup machine from scratch, set up Proxmox Backup Server, get the home lab backing up locally, and push an offsite copy to the cloud with S3 compatible storage. By the end you&#039;ll have a real working backup system, no matter if you run Proxmox VE, Unraid, TrueNAS, or bare metal Linux.<br /><br />This is part one of a multi-part series. Part two covers restoring, rollbacks, and notifications. Part three takes a second machine offsite to a family member&#039;s house and connects it back peer-to-peer with NetBird, ",
+        "id": 5781420,
+        "language": "en",
+        "link": "https://odysee.com/the-backup-setup-i-should-have-built:1ae61e5a12b8f9026408122f913f3f2302ef09be",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 516,
+        "source_url": "https://odysee.com/$/rss/@TechHut:1",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/a8FlWQ2YW5Q",
+        "title": "The Backup Setup I Should Have Built Years Ago",
+        "vote": 0
+    }
+]

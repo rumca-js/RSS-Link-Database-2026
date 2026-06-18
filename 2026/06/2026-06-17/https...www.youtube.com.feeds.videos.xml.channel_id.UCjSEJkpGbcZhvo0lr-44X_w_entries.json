@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "TechHut",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-17T17:22:02.154689+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-17T14:00:52+00:00",
+        "description": "Thanks to MEGA for sponsoring this video. TechHut viewers get the Pro 2 plan at the Pro 1 price, 10TB for around $10/month https://mega.io/techhut?mct=techhut\n\nBuilding a proper 3-2-1 backup for my entire homelab, the right way, for the first time. In part one we build the backup machine from scratch, set up Proxmox Backup Server, get the home lab backing up locally, and push an offsite copy to the cloud with S3 compatible storage. By the end you'll have a real working backup system, no matter if you run Proxmox VE, Unraid, TrueNAS, or bare metal Linux.\n\nThis is part one of a multi-part series. Part two covers restoring, rollbacks, and notifications. Part three takes a second machine offsite to a family member's house and connects it back peer-to-peer with NetBird, taking us past 3-2-1 all the way to 4-3-2-1.\n\n\ud83d\udcd6 RESOURCES\n\ud83d\udd17 Mega S4: https://mega.io/techhut\n\ud83d\udd17 Full written guide: https://techhut.tv/proxmox-backup-server-complete-guide\n\ud83d\udd17 Proxmox Helper Scripts: https://community-scripts.",
+        "id": 5782876,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=a8FlWQ2YW5Q",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 430,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjSEJkpGbcZhvo0lr-44X_w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/a8FlWQ2YW5Q/hqdefault.jpg",
+        "title": "The Backup Setup I Should Have Built Years Ago",
+        "vote": 0
+    }
+]

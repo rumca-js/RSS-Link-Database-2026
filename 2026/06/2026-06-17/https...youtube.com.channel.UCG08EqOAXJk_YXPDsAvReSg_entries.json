@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unity",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-17T17:39:46.941381+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-17T16:58:37+00:00",
+        "description": "Want to build proximity voice chat into your Unity game? Join Anthony Te\u0161ija from Discord and Joy Horvath from Unity as they break down exactly how to do it using the Discord Social SDK. In this video, they\u2019ll give an overview of how it works and dive into the important pieces of code required to make the connection work.\n\n\ud83d\udd17 Ready to build it yourself? Check out Discord\u2019s official guide to adding proximity voice chat in Unity: https://on.unity.com/DiscordSDK\n\n_______________\n\nStay connected with us: \nGames Twitter/X: https://x.com/unitygames\nInstagram: https://www.instagram.com/unitytechnologies/\nDiscord: https://discord.com/invite/unity\nDiscussions: https://discussions.unity.com/\nLinkedIn: https://www.linkedin.com/company/unity/\nFacebook: https://www.facebook.com/unity3d.in/\nBluesky: https://bsky.app/profile/unity.com\nCompany Twitter/X: https://x.com/unity\n\n#Unity #Discord #DiscordSocialSDK",
+        "id": 5783012,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=VC_wVeJd5X0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 683,
+        "source_url": "https://youtube.com/channel/UCG08EqOAXJk_YXPDsAvReSg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/VC_wVeJd5X0/hqdefault.jpg",
+        "title": "Proximity Voice Chat with the Discord Social SDK in Unity",
+        "vote": 0
+    }
+]

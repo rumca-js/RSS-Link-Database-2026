@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Techlore",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-17T22:16:45.854041+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-17T21:59:36+00:00",
+        "description": "App tracking is mostly invisible, but now there's a free & open source iOS app that changes that. Loupe shows you what any app on your iPhone can quietly collect without asking for a single permission. This video walks through what it reveals, why it matters, and what you can do about it.\n\n\ud83d\udd17 SOURCES & LINKS\n\u2022 Loupe: https://apps.apple.com/app/loupe/id6478440557\n\u2022 AdGuard: https://adguard.com\n\u2022 NextDNS: https://nextdns.io\n\u2022 Proton VPN (Affiliate): https://go.getproton.me/SH12P\n\u2022 Proton VPN (Standard): https://protonvpn.com/\n\n\ud83d\udd0e RELATED VIDEOS\nhttps://youtu.be/E4tJSHimd9c\nhttps://youtu.be/d2bJVKcIEg0\n\n\ud83e\udde1 SUPPORT TECHLORE\n\u2022 Become a Techlorian: https://techlore.tech/support/#/portal/signup\n\u2022 All Support Methods: https://techlore.tech/support/\n\n\ud83d\udd10 MORE FROM TECHLORE\n\u2022 Homepage & Newsletter: https://techlore.tech/\n\u2022 Our Course, Go Incognito: https://techlore.tech/go-incognito-course/\n\u2022 Our Recommended Tools: https://tools.techlore.tech/\n\u2022 Take Our SPA Quiz: https://quiz.techlore.tech/\n\u2022 Learn",
+        "id": 5784981,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=_n_SpEWtqog",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 327,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/_n_SpEWtqog/hqdefault.jpg",
+        "title": "Permission Not Required: The Open Source App that Makes the Invisible Visible (Loupe Review)",
+        "vote": 0
+    }
+]

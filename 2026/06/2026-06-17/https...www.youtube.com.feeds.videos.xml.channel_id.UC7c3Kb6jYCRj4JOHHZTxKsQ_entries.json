@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "GitHub",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-17T17:43:51.168456+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-17T16:00:20+00:00",
+        "description": "ASOS serves millions of customers across the globe, and behind the scenes, their engineering team is moving as quick as the trends. By migrating to GitHub, ASOS enables its developers to collaborate, scale, and ship features faster than ever. See how adopting GitHub Copilot has helped them reduce toil and build custom agents to streamline pull requests. Now, engineers spend less time on routine tasks and more time delivering value.  \n \nAccelerate your development with GitHub Copilot: https://github.com/features/copilot\n\n#GitHubCopilot #GitHub #ASOS\n\nStay up-to-date on all things GitHub by connecting with us:\n\nYouTube: https://gh.io/subgithub\nBlog: https://github.blog\nX: https://twitter.com/github\nLinkedIn: https://linkedin.com/company/github\nInsider newsletter: https://resources.github.com/newsletter/\nInstagram: https://www.instagram.com/github\nTikTok: https://www.tiktok.com/@github\n\nAbout GitHub\nIt\u2019s where over 180 million developers create, share, and ship the best code possible. It",
+        "id": 5783041,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=akGV_IoNoAs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 1005,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7c3Kb6jYCRj4JOHHZTxKsQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/akGV_IoNoAs/hqdefault.jpg",
+        "title": "How ASOS ships code faster with GitHub Copilot",
+        "vote": 0
+    }
+]

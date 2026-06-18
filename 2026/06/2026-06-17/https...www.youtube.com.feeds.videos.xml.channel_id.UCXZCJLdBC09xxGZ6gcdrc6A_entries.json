@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "OpenAI",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-17T21:14:59.698279+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-17T18:01:46+00:00",
+        "description": "The Build iOS Apps plugin lets Codex view and test your iOS app in the in-app browser, open SwiftUI previews, and hot reload edits without leaving Codex.",
+        "id": 5784529,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/rOLKQJMLBHI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 935,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXZCJLdBC09xxGZ6gcdrc6A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/rOLKQJMLBHI/hqdefault.jpg",
+        "title": "Build and test iOS apps without leaving Codex!",
+        "vote": 0
+    }
+]

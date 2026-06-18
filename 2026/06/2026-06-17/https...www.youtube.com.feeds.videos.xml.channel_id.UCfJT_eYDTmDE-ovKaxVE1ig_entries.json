@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kevin Stratvert",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-17T14:22:17.737977+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-17T07:00:31+00:00",
+        "description": "This beginner-friendly tutorial walks you through how to build your first AI agent in Python from scratch, step by step, with no prior experience required.\n\ud83e\udd16 Install Agentspan in seconds: pip install agentspan or npm install @agentspan-ai/sdk \n\nFirst, you'll set up everything you need to follow along, including Python, the Java Development Kit (JDK), and the uv package manager, then install the free and open-source Agentspan framework with a single command. \n\nNext, you'll build your first AI agent in Python using just three simple building blocks: a tool the agent can call, the agent itself, and a single line of code that runs it. \n\nThen, you'll open the Agentspan dashboard and watch every step your agent takes, including the exact inputs and outputs of each tool call, so you can see exactly what your AI agent is doing. \n\nAfterward, you'll build a more capable agent that reads a Python file and writes its own pytest tests for each function, saving its progress one step at a time. \n\nAl",
+        "id": 5781071,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=YKPO2S6j7MM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 958,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfJT_eYDTmDE-ovKaxVE1ig",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/YKPO2S6j7MM/hqdefault.jpg",
+        "title": "Build Your First AI Agent in Python (Step by Step)",
+        "vote": 0
+    }
+]

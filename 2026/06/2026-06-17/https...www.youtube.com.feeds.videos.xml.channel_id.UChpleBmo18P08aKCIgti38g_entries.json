@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Matt Wolfe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-17T17:13:37.858390+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-17T16:12:43+00:00",
+        "description": "Try Recraft V4.1 now and experience an image generation model with exceptional visual taste : https://go.recraft.ai/MattWolfe\n\nPewDiePie built an open source AI workspace called Project Odysseus and I put it through its paces so you don't have to.\n\nOdysseus is a self-hosted AI platform that lets you run local AI models, connect APIs, do deep research, manage files, and keep your data completely off the cloud. Think ChatGPT or Claude but running on your own machine, with your own models, and full privacy control.\n\nIn this video I install it on my M3 Mac, connect local models through Ollama, run model comparisons between Gemma 3 12B and GPT 5.5, test the deep research module, and explore every feature the app has to offer including the brain memory system, the model comparison scoreboard, and the image editor (spoiler: some things work great, some things I absolutely could not get to work no matter how hard I tried).\n\nIf you've ever wanted to run AI completely offline without paying API",
+        "id": 5782789,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=_7BHqZayPOc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 933,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChpleBmo18P08aKCIgti38g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/_7BHqZayPOc/hqdefault.jpg",
+        "title": "PewDiePie Wants To Take Down The Big AI Companies",
+        "vote": 0
+    }
+]

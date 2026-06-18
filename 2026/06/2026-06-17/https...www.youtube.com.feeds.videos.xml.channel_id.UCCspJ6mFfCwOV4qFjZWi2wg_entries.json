@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Xiaomi",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-17T14:17:40.481614+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-17T12:00:28+00:00",
+        "description": "Fast comfort when you need it.\nGentle airflow for everyday living.\nAI-powered energy savings up to 21%, all managed in the Xiaomi Home app.\n\n#MijiaAirConditioner GentleAir.",
+        "id": 5781027,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=TaAOtuqaz3Q",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 800,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCspJ6mFfCwOV4qFjZWi2wg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/TaAOtuqaz3Q/hqdefault.jpg",
+        "title": "Mijia Air Conditioner GentleAir",
+        "vote": 0
+    }
+]

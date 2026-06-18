@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-17T13:37:26.985669+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-17T10:00:32+00:00",
+        "description": "Explore the podcast \u2192https://ibm.biz/~1RGiVfNK3\n\nApple unveiled an AI agent that can detect if your password\u2019s been compromised and change it for you. \n\nThe question is: Should you let it?\n\nOn this episode of Security Intelligence, Michelle Alvarez, Erblind Morina and Austin Zeizel join host Matt Kosinski to discuss the promise and pitfalls of using AI agents to address the pernicious issue of cybersecurity hygiene. As people, we\u2019re not great at it. But are the agents ready for primetime?\n\nThen, we talk about Microsoft\u2019s biggest Patch Tuesday ever: more than 200 distinct CVEs were covered in the June 2026 release. We talk about why this might just be the beginning of a new era in vulnerability management, and why it matters. Spoiler: It\u2019s not really about the numbers.\n\nFinally, we get into a report that C-suite executives are increasingly willing to take on greater cyber risk in exchange for innovation. Some say it\u2019s a reaction after years of security spending with low ROI\u2014but are the",
+        "id": 5780295,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=ATIwByZ4nUA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/ATIwByZ4nUA/hqdefault.jpg",
+        "title": "AI agents can manage your passwords. Should we let them? Plus: The biggest Patch Tuesday ever.",
+        "vote": 0
+    }
+]

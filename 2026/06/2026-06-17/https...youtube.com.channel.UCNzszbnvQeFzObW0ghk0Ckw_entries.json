@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Dave's Garage",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-17T20:31:27.425818+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-17T19:42:41+00:00",
+        "description": "Ever wonder how Windows managed to run so smoothly on the hardware of the 1990s? The answer lies in a highly classified internal Microsoft project codenamed \"Microsoft LEGO\".\n\nBefore modern compilers did all the heavy lifting, Microsoft engineers relied on a secret weapon to squeeze every last drop of performance out of your PC: the Basic Block Tool (BBT).\n\nIn this video, we are diving deep into the golden era of Windows development to uncover exactly how this hidden optimizer worked its magic. We'll break down the computer science behind it\u2014explaining how BBT analyzed \"basic blocks\" of machine code (uninterrupted runs of instructions) and physically reorganized compiled binaries to maximize CPU cache efficiency and eliminate bottlenecks.\n\nWhether you're a software engineer, a retro-tech enthusiast, or just love a good piece of hidden computer history, you won't want to miss this look under the hood of 90s-era Windows!\n\n\ud83d\udc47 What you'll learn in this video:\n\n0:00 - The 90s PC Performance",
+        "id": 5784328,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=jH0BYAkPj78",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 907,
+        "source_url": "https://youtube.com/channel/UCNzszbnvQeFzObW0ghk0Ckw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/jH0BYAkPj78/hqdefault.jpg",
+        "title": "Microsoft's Secret 90s Weapon That Made Windows Fast",
+        "vote": 0
+    }
+]

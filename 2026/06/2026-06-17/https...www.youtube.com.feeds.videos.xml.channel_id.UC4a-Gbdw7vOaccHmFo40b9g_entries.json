@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Khan Academy",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-17T18:07:06.753822+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-17T16:00:31+00:00",
+        "description": "What assumptions does an algorithm make? Evaluate the biases behind both human-generated and AI-generated algorithms as you learn how to consume and design algorithms responsibly!\n\nTry Khan Academy's free Intro to Computer Science - Python course to learn more about algorithms and programming!\nhttps://www.khanacademy.org/computing/intro-to-python-fundamentals",
+        "id": 5783252,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/RqyIDmKeGFg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 977,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4a-Gbdw7vOaccHmFo40b9g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/RqyIDmKeGFg/hqdefault.jpg",
+        "title": "Can potatoes drive cars? #computerscience #algorithms",
+        "vote": 0
+    }
+]
