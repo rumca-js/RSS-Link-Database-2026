@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Microsoft",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-18T16:32:48.419087+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-18T16:00:13+00:00",
+        "description": "Easily customize one or more of our top Microsoft AI (MAI) models by Frontier Tuning it on your unique business needs, all trained safely within your own secure environment. \n\nLearn more: https://microsoft.ai/models/microsoft-frontier-tuning/",
+        "id": 5790592,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=I-ej54mJHJk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 793,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFtEEv80fQVKkD4h1PF-Xqw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/I-ej54mJHJk/hqdefault.jpg",
+        "title": "Introducing Frontier Tuning | Microsoft AI Models",
+        "vote": 0
+    }
+]

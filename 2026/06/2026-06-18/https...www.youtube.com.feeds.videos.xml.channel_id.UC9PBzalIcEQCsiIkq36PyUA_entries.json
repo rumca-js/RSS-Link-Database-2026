@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Digital Foundry",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-18T16:01:00.594821+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-18T14:00:14+00:00",
+        "description": "Thanks to Alienware for sponsoring DF PC performance reviews. To learn more about the Alienware AREA-51 Gaming Desktop, check out: http://aw.gg/digitalfoundry\n\nThis video was late, then delayed again as IO Interactive launched a DLSS fix, then unlaunched it owing to offline mode bugs, then launched it again - so where do we stand? We're looking at an impressive port overall, but there are issues: a lack of scalability in settings beyond console standards, highly taxing explosive effects and disappointing lack of FSR and XeSS features.\n\nMany thanks - once again - to Rayan for putting in the hard work on the analysis and settings selections.\n\nExamine the DF Website: https://digitalfoundry.net\n\nGo here to check out DF merch! https://store.digitalfoundry.net\n\nSubscribe for more Digital Foundry: http://bit.ly/DFSubscribe\n\n00:00 Introduction + Settings\n01:05 Sponsored by Alienware\n02:39 The First Play Experience\n03:10 DLSS Issue Recap + Fix\n04:15 CPU-limited Test #1\n04:44 CPU-limited Test #",
+        "id": 5790394,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=OqBmDmVmX5g",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 696,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9PBzalIcEQCsiIkq36PyUA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/OqBmDmVmX5g/hqdefault.jpg",
+        "title": "007 First Light PC Review - DLSS Finally Fixed, But Other Issues Still Need Fixing",
+        "vote": 0
+    }
+]

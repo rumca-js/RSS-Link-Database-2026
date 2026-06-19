@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-18T17:39:43.982373+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-18T16:14:00+00:00",
+        "description": "This NASA/ESA/CSA James Webb Space Telescope Picture of the Month shows the giant molecular cloud Orion A, an area of the sky replete with star-forming clouds.",
+        "id": 5791230,
+        "language": "en-us",
+        "link": "https://www.nasa.gov/image-detail/webb-unveils-young-stars-across-every-stage-of-formation",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 485,
+        "source_url": "https://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Stages of Star Formation",
+        "vote": 0
+    }
+]

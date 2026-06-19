@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-18T13:56:58.948111+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-18T11:00:32+00:00",
+        "description": "Learn more about Building and evaluating AI agents that work in the real world here \u2192 https://ibm.biz/~M1R5rMq8K\n\nAI agents are powerful, but production is different. Shailaja Patel-Pranav explains how AI agents operate in real-world systems with workflows, policies, and orchestration. Learn how agents coordinate tasks, enforce rules, and stay aligned with human decision-making.\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/~qsdkJnIan\n\n#aiagents #aiproduction #workflowautomation #agenticai",
+        "id": 5789403,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=4Vg2aVtrX8k",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/4Vg2aVtrX8k/hqdefault.jpg",
+        "title": "Building AI Agents for Real-World Problems & Workflows",
+        "vote": 0
+    }
+]

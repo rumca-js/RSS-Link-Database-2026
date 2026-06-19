@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Bob Mondello",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-18T16:52:52.729250+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-18T07:00:00+00:00",
+        "description": "Director Michael Sarnoski's film about the legendary hero who robs from the rich and gives to the poor is about the stories we tell ourselves.",
+        "id": 5790772,
+        "language": "en",
+        "link": "https://www.npr.org/2026/06/18/nx-s1-5858925/the-death-of-robin-hood-review-hugh-jackman",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 226,
+        "source_url": "https://feeds.npr.org/1002/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8192x5461+1+0/resize/8192x5461!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7f%2F87%2Fa870b313462ca20cdac3670321d4%2Fhttps-cdn-sanity-io-images-xq1bjtf4-production-1378f0add48547526644a395c0c360da408aee0e-8640x5760.jpg",
+        "title": "Hugh Jackman's tormented 'Robin Hood' faces a reckoning",
+        "vote": 0
+    }
+]

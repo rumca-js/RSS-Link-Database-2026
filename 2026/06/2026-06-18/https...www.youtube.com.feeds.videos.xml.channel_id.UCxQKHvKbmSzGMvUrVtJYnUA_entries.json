@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Learn Linux TV",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-18T19:15:31.788298+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-18T17:09:14+00:00",
+        "description": "Ever wonder what actually happens behind the scenes when I spin up a new server or workstation? In this video, I'm giving you a behind-the-scenes look at my full deployment workflow \u2014 covering how I provision cloud VPS servers, configure them with Ansible, deploy workstations, and manage it all through a consistent configuration management approach.\n\nAnsible is a key piece of this puzzle, but this video is really about the bigger picture: how all the pieces fit together to make server and workstation deployment fast, repeatable, and low-maintenance.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*\ud83d\udcd6 Switch to Linux with my latest book! (Available Now!)*\n\nThinking about making the jump to Linux? This step-by-step guide will help you choose the right distribution, install Linux with confidence! Purchase your copy here:\nhttps://learnlinux.link/switch-to-linux\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*\ud83d\udc27 Save on Linux Foundation Certifications*\n\nWhether you're starting a Linux career or advancing your existing skills, Linux Found",
+        "id": 5791912,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=p0OXN35nhas",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 997,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxQKHvKbmSzGMvUrVtJYnUA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/p0OXN35nhas/hqdefault.jpg",
+        "title": "My Real-World Workflow for Deploying Servers & Workstations",
+        "vote": 0
+    }
+]

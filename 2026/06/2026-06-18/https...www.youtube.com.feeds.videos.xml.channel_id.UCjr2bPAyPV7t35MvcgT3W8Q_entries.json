@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Hated One",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-18T18:40:06.849403+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-18T17:02:35+00:00",
+        "description": "Hide your location without any leaks. And support my work: https://www.patreon.com/thehatedone \n\nFollow me:\nhttps://twitter.com/The_HatedOne_\nhttps://www.reddit.com/r/thehatedone/\n\nIf you wanted to protect your privacy, you might have been told to do this.\n\nDisable location services on your device. \n\nThe problem is if you do this, you can't use map navigation and your location is still tracked by your phone and many apps on it. \n\nSo today, I'll show you everything you need to do to protect your location from all threats. Properly and without any leaks. And you still get to use your maps completely privately. \n\nYou don't need to disable location services in order for apps on your phone not having access to it. On modern Android, iOS and GrapheneOS, you should go to the location permission settings and revoke location access to apps that don't need it. As you can see I already did this on my GrapheneOS so I am showing you da wei.\n\nIf an app needs your location like for maps, it should o",
+        "id": 5791651,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=WkmTxBTe52o",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 344,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjr2bPAyPV7t35MvcgT3W8Q",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/WkmTxBTe52o/hqdefault.jpg",
+        "title": "All the ways to hide your location on your phone",
+        "vote": 0
+    }
+]

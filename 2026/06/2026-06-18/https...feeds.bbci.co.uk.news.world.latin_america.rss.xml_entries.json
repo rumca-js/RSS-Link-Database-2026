@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-18T10:46:52.756906+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-18T09:26:16+00:00",
+        "description": "The gunmen concealed their weapons behind flowers and stuffed toys while waiting for the victim outside Guayaquil airport.",
+        "id": 5788165,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/c4gy2l30dd0o",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 524,
+        "source_url": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/66b6/live/f1aff820-6af1-11f1-9be9-d920b9420b45.jpg",
+        "title": "Suspected gang leader shot dead in flower bouquet ambush at airport",
+        "vote": 0
+    }
+]

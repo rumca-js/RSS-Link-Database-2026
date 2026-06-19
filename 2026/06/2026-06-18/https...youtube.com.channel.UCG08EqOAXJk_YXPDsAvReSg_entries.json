@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unity",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-18T15:12:35.689588+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-18T14:23:37+00:00",
+        "description": "Learn how to bring your browser-built Unity Studio drafts straight into the Unity Editor with your scene hierarchy, assets, and Logic scripts intact.\n\nUnity Studio is a web-based editor designed for industries like manufacturing, automotive, healthcare, architecture, and more to build and share interactive 3D applications fast.\n\nThe new Unity Studio Importer extends the no-code Studio workflow into the full Unity Editor. Designers build interactive 3D scenes in the browser; developers pick the work up in the Editor with everything preserved, and Studio Logic scripts are automatically converted into C# - ready to extend with custom code, profiling, and builds for any platform Unity supports.\n\nIn this tutorial we take you from setup through import, verification, troubleshooting, and production-ready customization.\n\n\ud83d\udd17 Read the docs: https://on.unity.com/StudioImporter_Docs\n\ud83d\udd17 Claim your free 30 day trial: https://on.unity.com/UnityStudio\n\ud83d\udd17 Unity Studio is part of Unity Cloud. Get started ",
+        "id": 5789999,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Snk-AANdUS4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 683,
+        "source_url": "https://youtube.com/channel/UCG08EqOAXJk_YXPDsAvReSg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/Snk-AANdUS4/hqdefault.jpg",
+        "title": "Unity Studio Importer",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-18T19:51:38.772752+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-18T17:30:02+00:00",
+        "description": "Recently there was a bad release of Rsync following Andrew Tridgell otherwise known as Tridge introducing Claude into the code base and now Tridge has responded to the situation with a blog post on the matter.\n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\nRsync Repo: https://blog.davidedmundson.co.uk/blog/596/\nTridge Blog Post: https://medium.com/@tridge60/rsync-and-outrage-d9849599e5a0\n\n=========Video Platforms==========\n\ud83c\udfa5 React: https://www.youtube.com/@BrodieRobertsonReacts\n\ud83c\udfa5 Podcast: https://techovertea.xyz/youtube\n\ud83c\udfae Gaming: https://brodierobertson.xyz/gaming\n\n==========Social Media==========\n\ud83c\udfa4 Discord: https://brodierobertson.xyz/discord\n\ud83d\udc26 Twitter: https://brodierobertson.xyz/twitter\n\ud83c\udf10 Mastodon: https://brodierobertson.xyz/mastodon\n\ud83d\udda5\ufe0f GitHub: https://brodierobert",
+        "id": 5792187,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=d7MTYqID8VY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/d7MTYqID8VY/hqdefault.jpg",
+        "title": "Tridge Responds To The Claimed Rsync AI Caused Regressions",
+        "vote": 0
+    }
+]

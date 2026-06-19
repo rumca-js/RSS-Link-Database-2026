@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-18T12:15:56.262701+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-18T12:15:20+00:00",
+        "description": "<p>Python Software Foundation (PSF) Board elections are a chance for the community to choose representatives to help the PSF create a vision for and build the future of the Python community. This year, there are 4 seats open on the PSF Board. Check out who is currently on the <a href=\"https://www.python.org/psf/board/\" target=\"_blank\">PSF Board on our website</a>. (Cheuk Ting Ho, Christopher Neugebauer, Denny Perez, and Georgi Ker are at the end of their current terms.)&nbsp;</p><p>The recent approval of the Packaging Council (PC) through <a href=\"https://peps.python.org/pep-0772/\" target=\"_blank\">PEP 772</a> means that the PC election will be held in parallel to the PSF Board election. For the first PC election, communications will be published on the <a href=\"https://pyfound.blogspot.com/\" target=\"_blank\">PSF blog</a>. Once the first PC has been established, they will define the standard lines of communication and more PC election process specifics for the future. More information o",
+        "id": 5788740,
+        "language": "en",
+        "link": "https://pyfound.blogspot.com/2026/06/psf-board-election-dates-for-2026.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 267,
+        "source_url": "https://pyfound.blogspot.com/feeds/posts/default?alt=rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "PSF Board Election Dates for 2026",
+        "vote": 0
+    }
+]
