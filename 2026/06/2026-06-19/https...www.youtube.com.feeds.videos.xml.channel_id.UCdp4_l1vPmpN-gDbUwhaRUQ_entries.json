@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Branch Education",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-19T19:35:30.566160+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-19T18:12:57+00:00",
+        "description": "Take a journey inside a modern CPU, from its 26 billion transistors down to the microscopic building blocks that power computation. Explore how cores, caches, and specialized engines work together\u2014and zoom all the way in to the ALU itself, where layers of circuitry bring simple calculations to life.\n\nHere's the full video:\nhttps://youtu.be/16zrEPOsIcI\n\n#cpu #computer #computerscience",
+        "id": 5799467,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/lA6ffduY06k",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 841,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCdp4_l1vPmpN-gDbUwhaRUQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/lA6ffduY06k/hqdefault.jpg",
+        "title": "The Sections inside a CPU #cpu #computer",
+        "vote": 0
+    }
+]

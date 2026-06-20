@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-19T14:58:34.037735+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-19T14:58:24.492588+00:00",
+        "description": "Geological analysis of a fault running through the northern Paris region suggests that tectonic movements could occur there, although the magnitude of any resulting earthquakes remains impossible to assess at this stage.",
+        "id": 5797765,
+        "language": "en-US",
+        "link": "https://www.lemonde.fr/en/environment/article/2026/06/19/ancient-fault-discovery-means-paris-region-may-face-higher-seismic-risk_6754670_114.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 190,
+        "source_url": "https://www.lemonde.fr/en/science/rss_full.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.lemde.fr/2026/06/18/330/0/4000/2000/644/322/60/0/4d7edc5_upload-1-n8drscpsbfvh-000-1n81vq.jpg",
+        "title": "Ancient fault discovery means Paris region may face higher seismic risk",
+        "vote": 0
+    }
+]

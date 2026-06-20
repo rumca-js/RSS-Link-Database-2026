@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Gamers Nexus",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-20T01:17:38.782528+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-19T22:55:41+00:00",
+        "description": "Sponsor: Thermal Grizzly Duronaut on Amazon - https://geni.us/tpgcPMw\nWendell from Level1 Techs has unearthed several concerning vulnerabilities in both Netgear and TP-Link routers, in particular, exposing potential vulnerabilities that could be used as backdoors. This comes at a time of peak ID verification online, which we think isn't a mistake in its link to the recent router changes. We previously covered the router ban in the US and how it has expanded to cover more devices. Netgear was granted exemptions, but not its competitors. Wendell explores both.\n\nWatch our video detailing the router ban: https://www.youtube.com/watch?v=qjesRkTFZqY\nWatch Wendell's video here: https://www.youtube.com/watch?v=IfOgnDTRmnA\nWatch his deeper-dive here: https://www.youtube.com/watch?v=xfRty0k_yRs\nOr read his forum post: https://forum.level1techs.com/t/netgear-nighthawk-rs700s-red-team-level1diagnostic/250614/4\n\nThe best way to support our work is through our store: https://store.gamersnexus.net/\n",
+        "id": 5800883,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=3NIXvqtVWso",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 428,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChIs72whgZI9w6d6FhwGGHA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/3NIXvqtVWso/hqdefault.jpg",
+        "title": "\"There's a Secret Backdoor in Netgear\" Routers, ft. Wendell of Level1 Techs",
+        "vote": 0
+    }
+]

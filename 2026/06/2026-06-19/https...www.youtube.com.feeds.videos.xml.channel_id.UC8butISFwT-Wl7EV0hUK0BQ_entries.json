@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-19T12:14:26.310595+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-19T10:39:48+00:00",
+        "description": "Build your own OpenClaw-like AI agent from scratch using the Vercel AI SDK, Composio, Supermemory, Telegram, and Vercel Cron.\n\nIn this free full course, you'll start with the Vercel AI SDK Chatbot template, connect your agent to real apps like Gmail with Composio, add long-term memory with Supermemory, give the agent a persistent personality, make it usable from Telegram, and add scheduled automations with Vercel Cron.\n\nBy the end, you'll understand the core building blocks behind production AI agents: tool calling, context engineering, OAuth, memory, auth, database migrations, multi-channel agent interfaces, scheduled jobs, and deployment.\n\nResources\n\ud83d\udcbb START HERE: Chatbot template https://vercel.com/templates/next.js/chatbot\n\ud83d\udcbb Prompts and source code: https://github.com/shawnesquivel/OpenClaw-Clone-Composio-VercelAI\n\ud83d\udd17 100% off the Composio Starter Plan for 1 month: Use code FREECODECAMP at checkout\n\ud83d\udd17 Get 50% off Cursor plans: https://cursor.com/referral?code=DQSTRSDOYBCI\n\n\ud83c\udfd7\ufe0f @Composi",
+        "id": 5796767,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=hIh2O9OL69o",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/hIh2O9OL69o/hqdefault.jpg",
+        "title": "Build Your Own OpenClaw Using Vercel, Composio, Supermemory",
+        "vote": 0
+    }
+]

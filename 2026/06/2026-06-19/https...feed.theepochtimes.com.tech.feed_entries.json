@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jacob Burg",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-19T21:41:55.553888+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-19T21:07:19+00:00",
+        "description": "The president said one of the company's competitors 'turned Anthropic in' and raised alarms over the new models.",
+        "id": 5800044,
+        "language": "en-US",
+        "link": "https://www.theepochtimes.com/tech/trump-says-he-no-longer-views-anthropic-as-national-security-threat-6050558",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 105,
+        "source_url": "https://feed.theepochtimes.com/tech/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.theepochtimes.com/assets/uploads/2025/05/23/id5862707-GettyImages-2153554332-1080x720.jpg",
+        "title": "Trump Says He No Longer Views Anthropic as National Security Threat",
+        "vote": 0
+    }
+]

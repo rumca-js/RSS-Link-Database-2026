@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "David Bombal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-19T15:14:56.957183+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-19T14:00:25+00:00",
+        "description": "Big thanks to NTT DATA for sponsoring this video and to Cisco for sponsoring my trip to Cisco Live Vegas. For more information about NTT DATA and Cisco\u2019s partnership, click here https://services.global.ntt/en-us/about-us/our-partners/cisco\n\n1000W touch safe power sounds impossible, but Class 4 Fault Managed Power is changing how we think about power delivery for AI data centers, buildings, networking, and IT infrastructure.\n\nIn this interview, we look at how Cisco, NTT, and Panduit are approaching the next generation of energy networking systems. Traditional Power over Ethernet is useful for endpoints like access points, cameras, sensors, and phones, but PoE tops out around 100 watts. Fault Managed Power introduces a new class of power delivery that can deliver much higher wattage while intelligently shutting down when it detects a fault, short circuit, or unsafe condition.\n\nThe conversation explains why this matters now. AI is driving massive demand for data center compute, but that ",
+        "id": 5797897,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=-kHIYtSLbTU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 984,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP7WmQ_U4GB3K51Od9QvM0w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/-kHIYtSLbTU/hqdefault.jpg",
+        "title": "How AI Data Centers Could Cut Energy Costs by 75%",
+        "vote": 0
+    }
+]

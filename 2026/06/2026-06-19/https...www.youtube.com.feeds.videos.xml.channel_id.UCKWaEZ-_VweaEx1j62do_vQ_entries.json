@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-19T11:21:19.911312+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-19T10:00:13+00:00",
+        "description": "Visit Mixture of Experts podcast page to get more AI content \u2192 https://ibm.biz/~P2MwO1Liq\n\nAre AI agents taking over the internet? This week on Mixture of Experts, Tim Hwang is joined by Ambhi Ganesan, Rynne Whitnah and Sandi Besen. First, a Cloudflare study reveals that agentic AI bots now generate 57.4% of web requests globally, with humans accounting for just 42.6%. Our experts debate whether this signals a fundamental shift in how we interact with the web\u2014or if bots have dominated internet traffic all along. Next, Microsoft makes a major play in the AI model race, releasing MAI-Thinking-1, a trillion-parameter mixture of experts model, and MAI-Image-1 for image generation. Finally, AI-generated films debut at the Tribeca Film Festival. Our experts discuss the evolution of filmmaking, the role of AI as a creative tool, and whether we\u2019ll see AI films win critical awards in the future. All that and more on this week\u2019s Mixture of Experts.\n\n00:00 \u2013 Introduction\n00:55 \u2013 AI bots generate",
+        "id": 5796476,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=SvBheXuKY8s",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/SvBheXuKY8s/hqdefault.jpg",
+        "title": "Microsoft\u2019s new AI models & bots dominate the internet",
+        "vote": 0
+    }
+]

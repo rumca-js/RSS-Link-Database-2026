@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Sourav Rudra",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-19T12:14:04.515790+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-19T11:38:39+00:00",
+        "description": "Myna runs entirely on local hardware and is set to debut with Ubuntu 26.10.",
+        "id": 5796766,
+        "language": "en-US",
+        "link": "https://itsfoss.com/news/myna-ai-speech-to-text-tool",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 156,
+        "source_url": "https://news.itsfoss.com/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://itsfoss.com/content/images/2026/06/ubuntu-myna-ai-tool-banner.png",
+        "title": "Canonical's New AI Tool Wants You to Talk to Ubuntu Instead of Type",
+        "vote": 0
+    }
+]
