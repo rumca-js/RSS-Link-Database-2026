@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Liam Squires-Hand",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-20T09:21:11.454998+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-20T08:18:32+00:00",
+        "description": "Valve released the latest update to Proton Experimental on June 19th to get more Windows games working well on Linux / SteamOS.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/1789613859id29250gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonlinux.com/2026/06/proton-experimental-gets-fixes-for-the-division-2-metal-gear-solid-v-arc-raiders-and-more/\">GamingOnLinux</a>.</p>",
+        "id": 5802213,
+        "language": "en-us",
+        "link": "https://www.gamingonlinux.com/2026/06/proton-experimental-gets-fixes-for-the-division-2-metal-gear-solid-v-arc-raiders-and-more",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 130,
+        "source_url": "https://www.gamingonlinux.com/article_rss.php",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1789613859id29250gol.webp",
+        "title": "Proton Experimental gets fixes for The Division 2, METAL GEAR SOLID V, ARC Raiders and more",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Techlore",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-20T16:26:14.680086+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-20T16:00:30+00:00",
+        "description": "End-to-end encrypted file sharing may sound simple, but for Cryptee, it took five years to ship. In this interview, Henry sits down with John Ozbay, founder and CEO of Cryptee, to talk through why: preventing CSAM, why client-side scanning doesn't work, how Cryptee's solution was designed to raise the barrier to mass spread without compromising encryption, and the broader philosophical question of where developer liability ends and moral responsibility begins.\n\nPlease engage in the comments with extra care; this is a sensitive topic, and some viewers may have personal experience with the issues discussed.\n\n\ud83d\udd17 SOURCES & LINKS\n\u2022 Cryptee: https://crypt.ee\n\u2022 Stop Chat Control: https://stopchatcontrol.eu\n\u2022 Open Web Advocacy: https://open-web-advocacy.org\n\u2022 EDRI: https://edri.org\n\n\ud83d\udd0e RELATED VIDEOS\nhttps://youtu.be/5iKvQk7drd4\nhttps://youtu.be/xE-YXAnOTeQ\n\n\ud83e\udde1 SUPPORT TECHLORE\n\u2022 Become a Techlorian: https://techlore.tech/support/#/portal/signup\n\u2022 All Support Methods: https://techlore.tech/suppo",
+        "id": 5803855,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=vUtmniEBdWo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 327,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/vUtmniEBdWo/hqdefault.jpg",
+        "title": "The Problem Nobody Wants to Talk About (John Ozbay Interview)",
+        "vote": 0
+    }
+]

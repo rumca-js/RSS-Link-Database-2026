@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-21T01:43:19.112428+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-20T08:00:00+00:00",
+        "description": "<p><span>\n\n</span>\n\n<a href=\"https://3e.org/\">Daniel Drucker</a> \n\n<a href=\"https://gist.github.com/dmd/f044d2947b81d63a838a6719a200f007\">pointed\nme</a> at a fun bug in Google's calculator: the parsec is wrong when\nyou do math on it.\n\n\n\n<p>\n\nAs the earth travels around the sun, closer stars appear to shift back\nand forth against the distant background stars.  The closer the\nstar is the bigger this effect is. Think of how when you switch which\neye you're looking through you notice near things shifting relative\nto farther ones.  For example, holding up my finger I see this\nout of my right eye:\n\n</p>\n\n<p>\n\n<a href=\"https://www.jefftk.com/parallax-right-eye-big.jpg\"><img src=\"https://www.jefftk.com/parallax-right-eye.jpg\" width=\"550\" height=\"354\" class=\"mobile-fullwidth\" style=\"max-width:100.0vw; max-height:64.4vw;\" srcset=\"https://www.jefftk.com/parallax-right-eye.jpg 550w,https://www.jefftk.com/parallax-right-eye-2x.jpg 1100w\"><div style=\"height:min(64.4vw, 354px)\" class=\"image-vertical",
+        "id": 5805822,
+        "language": "en-US",
+        "link": "https://www.jefftk.com/p/google-cant-math-parsecs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 163,
+        "source_url": "https://www.jefftk.com/news.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.jefftk.com/parallax-right-eye.jpg",
+        "title": "Google Can't Math Parsecs",
+        "vote": 0
+    }
+]

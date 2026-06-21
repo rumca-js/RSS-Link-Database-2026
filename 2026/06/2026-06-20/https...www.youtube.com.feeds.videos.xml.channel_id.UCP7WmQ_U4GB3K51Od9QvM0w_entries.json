@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "David Bombal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-20T23:08:45.601509+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-20T20:00:22+00:00",
+        "description": "Learn how a simple DevTools tweak reveals a critical broken access control vulnerability. Watch this real-world ethical hacking tutorial for 2026 to level up your bug bounty skills!\n\nThank you to @ThreatLocker for sponsoring this video.\n\n#brokenaccesscontrol #bugbounty #vulnerability",
+        "id": 5805499,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/4HetRpDbrqE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 984,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP7WmQ_U4GB3K51Od9QvM0w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/4HetRpDbrqE/hqdefault.jpg",
+        "title": "Broken access control demo",
+        "vote": 0
+    }
+]

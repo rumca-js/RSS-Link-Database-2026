@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-20T14:41:51.864479+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-20T08:56:58+00:00",
+        "description": "BBC Sport explores how exciting young Ivory Coast Yan Diomande is determined to succeed at the World Cup in honour of his sister.",
+        "id": 5803381,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/sport/football/articles/ckg04xer94eo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 521,
+        "source_url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09b3/live/ad64bcc0-6bbc-11f1-8e5f-879143928516.jpg",
+        "title": "'Everything I do is for you' - how tragedy is driving Diomande",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Patrick Boyle",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-20T11:20:30.398529+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-20T09:57:44+00:00",
+        "description": "\ud83d\ude80 Streamline your entire business with Odoo! The all-in-one, easy-to-use ERP platform that centralizes, automates, and scales your operations from sales and accounting to inventory and eCommerce \ud83d\udcc8\u2699\ufe0f. \n\nTry out Odoo for 15 days (no credit card required) \ud83d\udc49\ud83c\udffb https://www.odoo.com/r/N0S\n\nLast week, shortly after Anthropic launched its most powerful AI models, the U.S. government imposed export controls restricting foreign nationals from accessing them - and rather than try to verify the citizenship of every user on the planet within ninety minutes, Anthropic shut the models down for everyone. In this video we look at what actually happened: the Commerce Department's \"is informed\" letter, the deemed-export rules that locked Anthropic's own engineers out of their work, the claim that the \"national security threat\" was essentially an AI fixing software bugs, and the awkward detail that the partner who reported it was Amazon - Anthropic's largest backer and a direct competitor. We also dig int",
+        "id": 5802646,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=0RxMj0L0-fY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 732,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCASM0cgfkJxQ1ICmRilfHLw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/0RxMj0L0-fY/hqdefault.jpg",
+        "title": "The US Government Gave Anthropic 90 Minutes to Shut Down Its AI",
+        "vote": 0
+    }
+]

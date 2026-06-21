@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Nancy Shute",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-20T12:11:29.606205+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-20T11:00:00+00:00",
+        "description": "Editor in chief Nancy Shute discusses NASA's rocky relationship with Mars exploration.",
+        "id": 5802805,
+        "language": "en-US",
+        "link": "https://www.sciencenews.org/article/nasa-mars-exploration-july-2026-ed-note",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 295,
+        "source_url": "https://www.sciencenews.org/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Is NASA falling out of love with Mars?",
+        "vote": 0
+    }
+]

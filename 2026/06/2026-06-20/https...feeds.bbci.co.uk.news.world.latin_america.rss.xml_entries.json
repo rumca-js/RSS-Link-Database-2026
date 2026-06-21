@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-20T16:05:30.428949+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-20T15:27:09+00:00",
+        "description": "The move comes after weeks of anti-government protests that have caused a shortage of basic goods in Bolivia.",
+        "id": 5803769,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/cr47wn92zdgo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 524,
+        "source_url": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/beac/live/71781aa0-6cab-11f1-8cf1-179ca1da487f.jpg",
+        "title": "Bolivian president declares state of emergency",
+        "vote": 0
+    }
+]

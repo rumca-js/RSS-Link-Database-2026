@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/intellinker",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-20T18:44:09.679518+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-20T17:50:13+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone! I was building graperoot tool to solve the excess token usage by every coding tool but currently it is limited to local development and some sort of production grade but i want to expand it to handle on-call investigations, production debugging, remote server issues, or database incidents etc. I&#39;m working on it and have build it but still need someone experienced and interested in knowledge graphs, would love to get in touch if someone interested, please DM.</p> <p>Github Repo: <a href=\"https://github.com/kunal12203/Codex-CLI-Compact\">https://github.com/kunal12203/Codex-CLI-Compact</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/intellinker\"> /u/intellinker </a> <br/> <span><a href=\"https://www.reddit.com/r/developer/comments/1ub2tu5/i_am_building_graperoot_to_solve_the_context/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/developer/comments/1ub2tu5/i_am_building_graperoo",
+        "id": 5804487,
+        "language": "en",
+        "link": "https://www.reddit.com/r/developer/comments/1ub2tu5/i_am_building_graperoot_to_solve_the_context",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 508,
+        "source_url": "https://www.reddit.com/r/developer/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "I am building Graperoot to solve the context memory problem but now expanding it to production grade!",
+        "vote": 0
+    }
+]
