@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-21T13:09:32.608051+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-21T11:00:19+00:00",
+        "description": "Learn more about Data Resiliency here \u2192 https://ibm.biz/~AJvRqYRiS\n\nThree, two, one\u2014liftoff or disaster? \ud83d\ude80 Jeff Crume breaks down backups, immutability, and disaster recovery so you can build resilient systems. Learn how the 3\u20112\u20111 backup rule protects your data from failures and ransomware. \n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/~iZn1Qdpvy\n\n#cybersecurity #datarecovery #databackup",
+        "id": 5807770,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=WJzsX32qMJY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/WJzsX32qMJY/hqdefault.jpg",
+        "title": "3\u20112\u20111 Backup Rule Explained: Protect Your Data from Disaster",
+        "vote": 0
+    }
+]

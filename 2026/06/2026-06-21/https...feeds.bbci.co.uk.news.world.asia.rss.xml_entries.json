@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-21T15:27:41.323773+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-21T11:06:31+00:00",
+        "description": "Millions of candidates face biometric checks and frisking as air force deployed to secure exam papers.",
+        "id": 5808353,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/cwy0gjqv783o",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 522,
+        "source_url": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf42/live/5e23d6c0-6d59-11f1-960f-c792c2ba639f.jpg",
+        "title": "Tight security as Indian students resit medical exam after alleged paper leak",
+        "vote": 0
+    }
+]

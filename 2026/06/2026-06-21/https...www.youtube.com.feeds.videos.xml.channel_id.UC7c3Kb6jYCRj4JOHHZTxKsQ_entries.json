@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "GitHub",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-21T17:04:12.354063+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-21T15:00:22+00:00",
+        "description": "Learn how to use GitHub Copilot directly inside your terminal with this complete beginner compilation. We cover everything from the basic installation and configuration to mastering interactive and non-interactive modes. You will also discover how to use slash commands, connect Model Context Protocol (MCP) servers, and orchestrate AI agents for automated workflows. Check out the chapters below to jump straight to the specific tutorial you need. \n\n#GitHubCopilot #CopilotCLI #GitHubCopilotCLI \n\n\u2014 CHAPTERS \u2014  \n\n00:00 Getting started with GitHub Copilot CLI | Tutorial for beginners \n03:43 Interactive vs non-interactive modes | Copilot CLI for beginners \n05:32 A beginner's guide to Copilot CLI slash commands \n08:05 Copilot CLI for beginners: Plan, delegate, and review \n12:59 How to use MCP servers with GitHub Copilot CLI | Tutorial for beginners \n17:18 How to use agents, skills, and instructions in Copilot CLI | Tutorial for beginners \n\nGitHub Copilot CLI for Beginners: https://github.com/",
+        "id": 5808792,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=rheqk-L7Yes",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 1005,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7c3Kb6jYCRj4JOHHZTxKsQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/rheqk-L7Yes/hqdefault.jpg",
+        "title": "Ultimate GitHub Copilot CLI tutorial for beginners",
+        "vote": 0
+    }
+]

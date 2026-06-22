@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kuba Klawiter",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-21T20:34:21.305094+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-21T19:18:07+00:00",
+        "description": "Wi\u0119cej tech news\u00f3w na Znosne Newsy:\nChodz\u0105ca toaleta - https://znosnenewsy.pl/nie-musisz-isc-do-toalety-toaleta-przyjdzie-do-ciebie/\nCommodore z klapk\u0105 - https://znosnenewsy.pl/callback-8020-retro-telefon-z-klapka-i-antenka/\nZno\u015bne brzmienia playlista: https://bit.ly/4eiVRCH\nChcesz podes\u0142a\u0107 swoj\u0105 ma\u0142o znan\u0105 muz\u0119? muzyka@kubaklawiter.com\nZno\u015bn\u0105 kaw\u0119 kupisz tu: https://znosne.pl",
+        "id": 5809655,
+        "language": "pl-PL",
+        "link": "https://www.youtube.com/watch?v=nvjfehwHr1s",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 179,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLr4hMhk_2KE0GUBSBrspGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/nvjfehwHr1s/hqdefault.jpg",
+        "title": "Gdzie s\u0105 moje komputery? Tech Week",
+        "vote": 0
+    }
+]

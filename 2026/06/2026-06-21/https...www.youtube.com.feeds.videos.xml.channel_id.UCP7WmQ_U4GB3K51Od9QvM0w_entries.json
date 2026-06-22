@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "David Bombal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-21T16:57:32.016995+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-21T14:00:27+00:00",
+        "description": "In this episode, David Bombal sits down with Joe and Dalton from Cisco to break down the biggest Cisco Modeling Labs (CML) 2.10 release yet. Joe demos the new open source MCP server (model context protocol) that lets an AI model like Claude build a full CML lab from plain English. Just by asking for three IOL routers with a simple BGP config, the AI looks up the node definitions, invents the IP addresses, builds the topology, chooses eBGP on its own, and even starts the lab and waits for convergence. From there you will see the MCP server spin up a CCNA troubleshooting scenario from the official blueprint, quiz you, review your console history and final config, and hand back an honest evaluation with coaching tips. It can even turn a BGP packet capture into a ladder diagram to explain how the protocol works.\n\nDalton then shows off CML 2.10's new wireless fabric, which runs end to end WiFi simulations with no real radios or physical access points. Watch signal strength change as you dr",
+        "id": 5808754,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=iHw6X0j_jnw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 984,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP7WmQ_U4GB3K51Od9QvM0w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/iHw6X0j_jnw/hqdefault.jpg",
+        "title": "Run WiFi Access Points in your laptop \ud83e\udd2f",
+        "vote": 0
+    }
+]

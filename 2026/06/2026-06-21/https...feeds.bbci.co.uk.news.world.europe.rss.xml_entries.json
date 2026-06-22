@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-21T18:39:12.126994+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-21T17:15:56+00:00",
+        "description": "France has issued red heatwave alerts for around half the country as temperatures soar to record levels.",
+        "id": 5809223,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/videos/c802denngxeo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 523,
+        "source_url": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81da/live/6455f110-6d93-11f1-8e1d-bbbb1017d210.jpg",
+        "title": "Parisians cool off in canal amid 'red alert' heatwave",
+        "vote": 0
+    }
+]

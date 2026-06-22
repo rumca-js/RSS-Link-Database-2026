@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mateusz Chrobok",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-21T17:05:55.404347+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-21T16:00:22+00:00",
+        "description": "\ud83d\udeaa\u00a0Memory Integrity Enforcement\u00a0mia\u0142o zamkn\u0105\u0107\u00a0szczelnie i na zawsze spor\u0105 furtk\u0119, aby nikt nie m\u00f3g\u0142 ani jej otworzy\u0107, ani nawet przeskoczy\u0107. No i gdybym wtedy da\u0142 sobie za jego dzia\u0142anie uci\u0105\u0107\u00a0r\u0119k\u0119 to c\u00f3\u017c - dzi\u015b\u00a0nie mia\u0142bym r\u0119ki. W\u0142a\u015bnie uda\u0142o si\u0119\u00a0odnale\u017a\u0107\u00a0luk\u0119 w implementacji MIE. Czy to oznacza, \u017ce wracamy do punktu wyj\u015bcia?\n\n\ud83d\udc49\u00a0Sprawd\u017a\u00a02FAS Pass\nhttps://2fas.com/pass/\n \n\u0179r\u00f3d\u0142a:\n\u203c\ufe0f\u00a0First public macOS kernel memory corruption exploit on Apple M5\nhttps://blog.calif.io/p/first-public-kernel-memory-corruption\n\n\u261d\ufe0f\u00a0Pardon MIE?\nhttps://ironpeak.be/blog/bypassing-apple-mie/\n\n\ud83d\udcad\u00a0What is memory safety and why does it matter?\nhttps://www.memorysafety.org/docs/memory-safety/#how-common-are-memory-safety-vulnerabilities\n\n\ud83d\udc45\u00a0Memory Safe Languages: Reducing Vulnerabilities in Modern Software Development\nhttps://media.defense.gov/2025/Jun/23/2003742198/-1/-1/0/CSI_MEMORY_SAFE_LANGUAGES_REDUCING_VULNERABILITIES_IN_MODERN_SOFTWARE_DEVELOPMENT.PDF\n\n\ud83c\udf4f\u00a0Memory Integrity Enforcement: A complete vision for mem",
+        "id": 5808795,
+        "language": "pl-PL",
+        "link": "https://www.youtube.com/watch?v=SZLKpsSUB5w",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 211,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTTZqMWBvLsUYqYwKTdjvkw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/SZLKpsSUB5w/hqdefault.jpg",
+        "title": "Zabezpieczenia (pami\u0119ci) Apple z\u0142amane!",
+        "vote": 0
+    }
+]
