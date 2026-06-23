@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Foundation",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-22T16:02:33.033037+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-22T15:54:52+00:00",
+        "description": "Cryptographic Proof for AI Agents in Production | Yaron Schneider, Dapr\nDapr 1.18 Brings Tamper-Proof Agent Execution | Yaron Schneider, Dapr\n```\n\nSupply chain attacks are accelerating, and autonomous AI agents are making the problem exponentially harder to contain. When agents act on behalf of humans who act on behalf of other agents, logs and traces alone cannot prove who did what, or whether that record has been altered after the fact.\n\nIn this exclusive interview with Swapnil Bhartiya at TFiR, Dapr co-creator and maintainer Yaron Schneider walks through Dapr 1.18 and its verifiable execution feature, which brings cryptographic attestation and tamper-evident workflow history to cloud native distributed systems running autonomous AI agents.\n\nKey Topics Covered:\n- Why logs, traces, and audit records are insufficient for AI agent accountability and how they can be silently tampered with\n- How SPIFFE-based cryptographic identity is issued to every application, MCP server, and agent con",
+        "id": 5814727,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=sB4uWLT3C5o",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 499,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfX55Sx5hEFjoC3cNs6mCUQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/sB4uWLT3C5o/hqdefault.jpg",
+        "title": "AI Agents Can't Be Trusted Without This | Yaron Schneider, Dapr",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "GitHub",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-22T18:10:00.871308+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-22T15:00:23+00:00",
+        "description": "Imagine opening your laptop to a pull request that wrote itself overnight and a backlog that is already triaged. That is a normal morning with the GitHub Copilot app. In this video, watch a GitHub engineer automate their morning triage using the GitHub Copilot app: scheduled workflows, a daily brief, and MCP server integrations that surface prioritized issues and cut the noise before the day starts. \n\n#GItHub #GitHubCopilot #AI \n\nStart building with the GitHub Copilot app today: https://github.com/features/ai/github-app?utm_source=youtube-github-copilot-app-trailer-2&utm_medium=social&utm_campaign=github-copilot-app-ga-2026 \n\nStay up-to-date on all things GitHub by connecting with us:\n\nYouTube: https://gh.io/subgithub\nBlog: https://github.blog\nX: https://twitter.com/github\nLinkedIn: https://linkedin.com/company/github\nInsider newsletter: https://resources.github.com/newsletter/\nInstagram: https://www.instagram.com/github\nTikTok: https://www.tiktok.com/@github\n\nAbout GitHub\nIt\u2019s where ",
+        "id": 5815854,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=usXv9jJWjvI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 1005,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7c3Kb6jYCRj4JOHHZTxKsQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/usXv9jJWjvI/hqdefault.jpg",
+        "title": "Automating daily workflows with the GitHub Copilot app and MCP",
+        "vote": 0
+    }
+]

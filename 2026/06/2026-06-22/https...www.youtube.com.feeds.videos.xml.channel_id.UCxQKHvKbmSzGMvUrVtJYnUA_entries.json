@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Learn Linux TV",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-22T15:58:51.923444+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-22T14:00:15+00:00",
+        "description": "Looking for a modern Virtual Desktop Infrastructure (VDI) solution that\u2019s easier to deploy, scale, and manage? In this video, I\u2019ll show you how to set up Kasm Workspaces with Proxmox VE and take advantage of Kasm\u2019s powerful autoscaling capabilities to automatically provision virtual machines on demand.\n\nBy the end of this tutorial, you\u2019ll understand how Kasm can automatically create and manage virtual machines when users request new workspaces, making it possible to build a highly scalable self-hosted VDI platform.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*\u2705 Check out Kasm!*\n\n- VDI/Remote Workspaces \u279c https://learnlinux.link/kasm-vdi\n- Kasm and Proxmox partnership \u279c https://learnlinux.link/kasm-pve\n- Kasm Community Edition \u279c https://learnlinux.link/kasm-ce\n- Kasm platform page \u279c https://learnlinux.link/kasm-platform\n- Kasm v1.19.0 release notes \u279c https://learnlinux.link/kasm-release-notes\n- User data for Kasm autoscaling \u279c https://learnlinux.link/kasm-user-data\n- Official blog post for this video \u279c ht",
+        "id": 5814709,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=JBlR_HvYaE0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 997,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxQKHvKbmSzGMvUrVtJYnUA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/JBlR_HvYaE0/hqdefault.jpg",
+        "title": "Self-Hosted VDI Made Easy: Kasm and Proxmox Autoscaling",
+        "vote": 0
+    }
+]

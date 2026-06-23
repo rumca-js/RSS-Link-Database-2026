@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jason Turner & Mathieu Ropert",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-22T21:40:31.394222+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-22T09:00:00+00:00",
+        "description": "Jason and Mathieu are joined by Tom Tesch to discuss teaching C++ to game development students, how LLMs and chatbots are reshaping programming education and assessment, and the lessons that come from teaching on retro hardware like the NES.\n        <h3>News</h3>\n<ul>\n<li><a href=\"https://github.com/petermost/Sourcetrail\">Sourcetrail - interactive source explorer for C++/Java, fork maintained by Peter Most</a></li>\n</ul>\n<h3>Links</h3>\n<ul>\n<li><a href=\"https://screeeech.itch.io/the-creature-of-wellstown\">The Creature of Wellstown - student NES game discussed in the episode (itch.io)</a></li>\n<li><a href=\"https://gdcvault.com/play/1035852/Game-Education-Case-Study\">Game Education Case Study Microtalks - Tom Tesch et al. (GDC Vault)</a></li>\n</ul>",
+        "id": 5817329,
+        "language": "en",
+        "link": "https://cppcast.com/teaching_cpp_to_game_development_students_in_the_age_of_llms_with_tom_tesch",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 80,
+        "source_url": "https://cppcast.com/feed.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Teaching C++ to Game Development Students in the Age of LLMs with Tom Tesch",
+        "vote": 0
+    }
+]

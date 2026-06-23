@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Tesla",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-22T21:07:29.952393+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-22T20:18:20+00:00",
+        "description": "Tesla Vision allows us to deploy airbags up to 70 milliseconds earlier if your Tesla detects an unavoidable collision.  Impact sensors will continue to make the final decision of when to deploy \u2014 the airbags will not deploy based on Tesla Vision alone.\n\nThis can be the difference between a serious injury & walking away from a crash",
+        "id": 5817151,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Vb-OqxUWPDE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 805,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5WjFrtBdufl6CZojX3D8dQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/Vb-OqxUWPDE/hqdefault.jpg",
+        "title": "How Tesla Vision Helps Deploy Airbags Earlier",
+        "vote": 0
+    }
+]

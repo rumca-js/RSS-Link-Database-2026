@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Blog Staff",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-22T08:08:41.932180+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-22T06:54:27+00:00",
+        "description": "<p data-sourcepos=\"3:1-3:197;96-292\">\n\tEvery year, CppCon promises you a strong keynote lineup, and every year we deliver. But this year we get to do something rarer: announce a once-in-a-lifetime keynote panel of interest not just to C++ developers, but to our whole industry.</p>\n<p data-sourcepos=\"5:1-5:432;294-725\">\n\t<img alt=\"\" data-ll-status=\"loaded\" data-sizes=\"(max-width: 467px) 100vw, 467px\" data-src=\"https://cppcon.org/wp-content/uploads/2026/06/2026-panel.png\" data-srcset=\"https://cppcon.org/wp-content/uploads/2026/06/2026-panel.png 934w, https://cppcon.org/wp-content/uploads/2026/06/2026-panel-300x94.png 300w, https://cppcon.org/wp-content/uploads/2026/06/2026-panel-768x240.png 768w\" decoding=\"async\" fetchpriority=\"high\" height=\"146\" sizes=\"(max-width: 467px) 100vw, 467px\" src=\"https://cppcon.org/wp-content/uploads/2026/06/2026-panel.png\" srcset=\"https://cppcon.org/wp-content/uploads/2026/06/2026-panel.png 934w, https://cppcon.org/wp-content/uploads/2026/06/2026-panel-300x9",
+        "id": 5811829,
+        "language": "en",
+        "link": "https://isocpp.org//blog/2026/06/cppcons-first-ever-keynote-panel-stroustrup-van-rossum-and-torgersen-togeth",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://cppcon.org/wp-content/uploads/2026/06/2026-panel.png",
+        "title": "CppCon's first-ever keynote panel: Stroustrup, van Rossum, and Torgersen, together at CppCon 2026",
+        "vote": 0
+    }
+]
