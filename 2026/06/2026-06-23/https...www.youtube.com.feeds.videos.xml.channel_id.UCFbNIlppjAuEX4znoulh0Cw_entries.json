@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Web Dev Simplified",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-23T20:24:51.472909+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-23T16:00:10+00:00",
+        "description": "FREE Pi Cheat Sheet: https://webdevsimplified.com/pi-cheat-sheet.html\n\nPi is my favorite agent harness (especially when working with local models) and in this video I will show you everything you need to know about the Pi agent harness.\n\n\n\ud83d\udcda Materials/References:\n\nFREE Pi Cheat Sheet: https://webdevsimplified.com/pi-cheat-sheet.html\nLocal AI Video: https://youtu.be/UngVdAsQEiU\nSkills Video: https://youtu.be/cxQLKsktiBA\n\n\n\ud83c\udf0e Find Me Here:\n\nMy Blog: https://blog.webdevsimplified.com\nMy Courses: https://courses.webdevsimplified.com\nPatreon: https://www.patreon.com/WebDevSimplified\nTwitter: https://twitter.com/DevSimplified\nDiscord: https://discord.gg/7StTjnR\nGitHub: https://github.com/WebDevSimplified\nCodePen: https://codepen.io/WebDevSimplified\n\n\n\u23f1\ufe0f Timestamps:\n\n00:00 - Introduction\n00:47 - Pi Install\n01:38 - Configure Models\n03:13 - Pi vs Other Agents\n04:08 - Basic Commands\n10:38 - Advanced Prompting Features\n12:41 - Customizing Pi\n\n\n#PiHarness #WDS #Pi",
+        "id": 5821825,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=DogTO1jjFtI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 994,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFbNIlppjAuEX4znoulh0Cw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/DogTO1jjFtI/hqdefault.jpg",
+        "title": "I Will Never Use Claude Code Again",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-23T19:40:39.011860+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-23T14:56:49+00:00",
+        "description": "<p>This post is a <a href=\"https://blog.python.org/2026/06/mitigated-api-bypass-for-download-metadata-python-dot-org/\">cross-post from the Python Insider Blog</a>.</p><div class=\"markdown-heading\"><h2 class=\"heading-element\">Summary</h2><a aria-label=\"Permalink: Summary\" class=\"anchor\" href=\"https://gist.github.com/#summary\" id=\"user-content-summary\"><span aria-hidden=\"true\" class=\"octicon octicon-link\"></span></a></div>\n<p>On February 23rd 2026, Splitline Ng from the DEVCORE Research Team reported to the <a href=\"https://devguide.python.org/security/psrt/\" rel=\"nofollow\">Python Security Response Team</a> (PSRT) an authentication bypass vulnerability in the \u201cpython.org\u201d\n release management API. By supplying an admin username with an \narbitrary API key the request was processed with admin privileges.</p>\n<p>If exploited, this would have allowed an attacker to modify Python release \nand file metadata that affects what URLs users are offered when visiting\n <a href=\"https://python.org/dow",
+        "id": 5820233,
+        "language": "en",
+        "link": "https://pyfound.blogspot.com/2026/06/mitigated-api-bypass-for-download-metadata-python-dot-org.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 267,
+        "source_url": "https://pyfound.blogspot.com/feeds/posts/default?alt=rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Mitigated API authentication bypass for python.org download metadata",
+        "vote": 0
+    }
+]

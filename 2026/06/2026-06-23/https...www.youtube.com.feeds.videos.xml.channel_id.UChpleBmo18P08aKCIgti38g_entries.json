@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Matt Wolfe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-23T19:55:48.744181+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-23T12:52:33+00:00",
+        "description": "Codex can now watch your screen, learn what repetitive tasks you need done, and then do them for you.\n\nOpenAI just dropped a new feature called \"Record and Replay\" and it\u2019s the ultimate cheat code for repetitive tasks.\n\nFirst, you record yourself doing a task once and the AI will watch your screen, understand your clicks, and turn that task into a brand-new \"skill\" that it saves. Then, the next time you need to do this task, just drop whatever context you need into the chat box and tell it to use the skill it saved.\n\nWhat is the FIRST repetitive task you would let this AI copy for you? Let me know in the comments\ud83d\udc47\n\n#OpenAI #AI #ProductivityHacks #AInews #chatgpt",
+        "id": 5820867,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/qv-KPydJhXs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 933,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChpleBmo18P08aKCIgti38g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/qv-KPydJhXs/hqdefault.jpg",
+        "title": "Codex Can Now \"Copy\" Your Tasks",
+        "vote": 0
+    }
+]

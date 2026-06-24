@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Blog Staff",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-23T22:57:08.890112+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-23T22:31:11+00:00",
+        "description": "<p>\n\t<img alt=\"\" src=\"https://isocpp.org/files/img/pvsstudio.png\" style=\"width: 400px; height: 224px; float: right;\" />We continue our deep dive into memory mechanics. If you are just joining us, I recommend reviewing the foundations first. The first part covered the basics and the magic of simple data alignment, while the second part focused on how ordinary inheritance affects memory layout.</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://pvs-studio.com/en/blog/posts/cpp/1369/\">Silent foe or quiet ally: Brief guide to alignment in C++. Part 3</a></h3>\n\t<p>\n\t\tby Elizaveta Zhegalova</p>\n</blockquote>\n<p>\n\tFrom the article:</p>\n<blockquote>\n\t<div>\n\t\tSo far, we&#39;ve treated an object as a static, rigidly determined data structure. Every field address was known at compile time, and inheritance simply layered parent and child attributes. Alas, object-oriented programming is impossible without dynamic polymorphism, which is implemented in C++ via the RTTI mechanism and virtual functions.</div>\n",
+        "id": 5823622,
+        "language": "en",
+        "link": "https://isocpp.org//blog/2026/06/silent-foe-or-quiet-ally-brief-guide-to-alignment-in-cpp.-part-3-elizaveta",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://isocpp.org/files/img/pvsstudio.png",
+        "title": "Silent foe or quiet ally: Brief guide to alignment in C++. Part 3 -- Elizaveta Zhegalova",
+        "vote": 0
+    }
+]

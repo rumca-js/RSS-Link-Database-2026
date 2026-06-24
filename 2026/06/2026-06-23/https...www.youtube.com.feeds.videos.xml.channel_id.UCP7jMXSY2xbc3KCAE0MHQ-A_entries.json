@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Google DeepMind",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-23T19:56:01.383540+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-23T15:48:06+00:00",
+        "description": "The conversation of the moment is focused on one topic: AI agents. Unlike traditional language models that simply respond to a prompt, autonomous agents can execute multi-step plans and perform complex tasks on your behalf. But what happens when millions of these agents are not just working for us, but transacting, negotiating, and delegating to one another?\n\nNenad Toma\u0161ev, Senior Staff Research Scientist at Google DeepMind, joins host Hannah Fry to discuss the theoretical framework of a future\"agentic economy.\" Together, they discuss the operational shift from single systems to a cooperative \"society of specialists,\" the psychological risk of human automation bias, and the complex cybersecurity landscape\u2014from dynamic cloaking to agentic traps\u2014required to keep distributed intelligence secure.\n\nTimecodes:\n00:00 Intro\n1:07 Defining AI agents\n4:44 Agentic exploration in science and research \n15:46 Delegation between agents\n22:46 Agentic security and traps\n29:31 Building an agentic econom",
+        "id": 5820877,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=V04bm-3d6EQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 1,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 934,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP7jMXSY2xbc3KCAE0MHQ-A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/V04bm-3d6EQ/hqdefault.jpg",
+        "title": "When millions of AI agents meet",
+        "vote": 0
+    }
+]

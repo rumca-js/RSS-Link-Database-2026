@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Hammond",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-23T20:41:29.640895+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-23T18:01:38+00:00",
+        "description": "This clip comes from a longer video analyzing a Linux backdoor being sold on the dark web.\n\nOne aspect that caught my attention was the focus on anti-forensics and removing traces of attacker activity, which can create additional challenges for defenders and incident responders.\n\nWatch the full analysis here: https://youtu.be/3YB4XGy8xwE?si=pubQOr_4VfusoRrI",
+        "id": 5822199,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/xKd0QItVzpw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 959,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVeW9qkBjo3zosnqUbG7CFw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/xKd0QItVzpw/hqdefault.jpg",
+        "title": "This Dark Web Linux Backdoor Erases Its Own Footprints",
+        "vote": 0
+    }
+]

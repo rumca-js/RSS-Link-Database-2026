@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Tesla",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-23T20:57:01.684858+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-23T17:40:05+00:00",
+        "description": "Tesla Home comes standard with every Powerwall to automatically optimize your energy usage and help lower your electricity bills. Powered by Opticaster, our proven AI optimization software, it predicts your energy needs and adjusts usage across your home with no additional equipment needed.\n\nWorks with solar, storage, EV chargers and more. Set your energy goals in the Tesla app and let Tesla Home handle the rest.\n\nLearn more: www.Tesla.com/tesla-home",
+        "id": 5822386,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=8aGMLbS3NAo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 805,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5WjFrtBdufl6CZojX3D8dQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/8aGMLbS3NAo/hqdefault.jpg",
+        "title": "Tesla Home: Home Energy Management, Powered by AI",
+        "vote": 0
+    }
+]

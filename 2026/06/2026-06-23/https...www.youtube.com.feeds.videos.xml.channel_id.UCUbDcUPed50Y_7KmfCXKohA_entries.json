@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "James Bruton",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-23T20:18:45.698987+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-23T06:00:08+00:00",
+        "description": "Ad: Check out PCBWay for all your project needs! Get $10 off orders over $30 with code: PCBWay-JamesBruton-10 - https://www.pcbway.com/?from=JamesBruton\n\nI built a One-Ball balancing robot that I can ride on, and it was pretty quick. There were some issues with static electricity building up and causing it to cut out which I\u2019m still trying to solve, but also steering was pretty difficult originally.\nI added some electric ducted fans to blow it around, which was quite successful, but in the last video I also discussed various other methods of controlling yaw \u2013 which is the vertical rotation axis.\n\nPatreon: https://www.patreon.com/XRobots\nOpen Source files: https://github.com/XRobots/YouCanBuildBallBot\n\nYou can support me on Patreon, join my Discord, or buy my Merchandise:\n***************************\nDiscord: https://discord.com/invite/fc6MedG7eW\nPatreon: https://www.patreon.com/xrobots\nMerch Store: https://james-bruton.teemill.com/collection/all-products/\n***************************\n\nO",
+        "id": 5821649,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=HJ1OYJmtV3Y",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 852,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCUbDcUPed50Y_7KmfCXKohA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/HJ1OYJmtV3Y/hqdefault.jpg",
+        "title": "Ball-Balancing Robot Wheel Orientation Testing",
+        "vote": 0
+    }
+]

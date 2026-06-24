@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/ZenitDS",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-23T18:53:48.229089+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-23T17:00:39+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>Hi,</p> <p>I am currently unable to find a place were the privileged spec is described from a behavioral standpoint. For example, for when an exception or interrupt occurs, I guess a possibility is to go and get that info from the CSR descriptions. However, iss there some place were it can be seen as a &#39;recipe&#39;?</p> <p>Something like: <code> When an exception occurs, `mcause` gets written with the corresponding exception code, then pc is set to `mtvec`, etc. </code></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/ZenitDS\"> /u/ZenitDS </a> <br/> <span><a href=\"https://www.reddit.com/r/RISCV/comments/1udmuma/behavior_specification_for_privileged_spec/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/RISCV/comments/1udmuma/behavior_specification_for_privileged_spec/\">[comments]</a></span>",
+        "id": 5818802,
+        "language": "en",
+        "link": "https://www.reddit.com/r/RISCV/comments/1udmuma/behavior_specification_for_privileged_spec",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 471,
+        "source_url": "https://www.reddit.com/r/RISCV/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Behavior specification for privileged spec emulator development",
+        "vote": 0
+    }
+]

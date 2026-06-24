@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-23T19:22:19.849797+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-23T11:30:11+00:00",
+        "description": "Notion Workers are one of the biggest updates Notion has ever shipped, but most people can't use them because they think you need to know how to code. You don't. Not anymore.\n\nWorkers solve three problems that Notion users have run into forever: getting external data into Notion, pushing data out to other tools, and running complex business logic that Notion's built-in automations just can't handle. Until now, the answer was always some no-code tool patching the gap. Workers change that entirely \u2014 and with AI doing the heavy lifting on the code side, you genuinely don't need an engineering background to ship these.\n\nCourse developed by @mfreihaendig \n\nPrefer a blog post? Here you go: https://matthiasfrank.de/en/notion-workers-beginners-guide/\n\nNeed a Notion Consultant? https://matthiasfrank.de/en/notion-consulting/\nWorkbook plus a ton of free resources: https://matthiasfrank.de/en/special/\n\n\u2b50\ufe0f Contents \u2b50\ufe0f\n- 0:00:00 Intro\n- 0:01:41 Why Notion Workers Matter\n- 0:04:15 Why No-Code Tools ",
+        "id": 5819638,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=SWGFVNQNLm4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/SWGFVNQNLm4/hqdefault.jpg",
+        "title": "Notion Workers \u2013 Full Tutorial 2026",
+        "vote": 0
+    }
+]

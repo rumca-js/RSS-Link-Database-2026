@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Doug Sharpe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-23T19:36:25.441132+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-23T16:00:31+00:00",
+        "description": "The McDonalds Salad Shaker Problem is formally known in marketing as the SAY-DO Gap, where people tell businesses what they want but what they do when they buy things is the complete opposite of what they asked for",
+        "id": 5820062,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/0_xgbSJVkZ8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 811,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCAYmlecATSG0wc5IxsFJSbQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/0_xgbSJVkZ8/hqdefault.jpg",
+        "title": "The Salad Shaker Problem #funfact",
+        "vote": 0
+    }
+]
