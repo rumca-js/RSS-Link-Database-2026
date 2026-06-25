@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ryan Daws",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-24T16:47:59.898304+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-24T15:55:47+00:00",
+        "description": "<p>Deploying DFlash block diffusion on NVIDIA hardware accelerates autoregressive LLMs during latency-sensitive inference. Autoregressive large language models generate tokens sequentially. This sequential execution restricts GPU utilisation and constrains throughput in latency-sensitive serving scenarios, particularly as AI systems transition from single-turn interactions to coordinated multi-agent workflows. Speculative decoding addresses this restriction by deploying a lightweight model [&#8230;]</p>\n<p>The post <a href=\"https://www.developer-tech.com/news/nvidia-dflash-block-diffusion-accelerates-autoregressive-llms/\">NVIDIA: DFlash block diffusion accelerates autoregressive LLMs</a> appeared first on <a href=\"https://www.developer-tech.com\">Developer Tech News</a>.</p>",
+        "id": 5829685,
+        "language": "en-GB",
+        "link": "https://www.developer-tech.com/news/nvidia-dflash-block-diffusion-accelerates-autoregressive-llms",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 92,
+        "source_url": "https://www.developer-tech.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "NVIDIA: DFlash block diffusion accelerates autoregressive LLMs",
+        "vote": 0
+    }
+]

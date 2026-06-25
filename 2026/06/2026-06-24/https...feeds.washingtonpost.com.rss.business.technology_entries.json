@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kevin Schaul",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-24T10:05:10.910385+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-24T09:00:00+00:00",
+        "description": "The Post tested ChatGPT, Gemini and other chatbots with political questions, and the results show that the AI tools have different political leanings.",
+        "id": 5826881,
+        "language": "en-US",
+        "link": "https://www.washingtonpost.com/technology/interactive/2026/06/24/are-ai-chatbots-like-chatgpt-politically-biased-we-tested-them",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 364,
+        "source_url": "https://feeds.washingtonpost.com/rss/business/technology",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Are ChatGPT and other AI chatbots politically biased? We tested them.",
+        "vote": 0
+    }
+]

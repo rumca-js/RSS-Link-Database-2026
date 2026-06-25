@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Google",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-24T17:37:59.489703+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-24T16:04:04+00:00",
+        "description": "Google Flow Agent is your creative partner that can plan and reason through complex tasks with your inputs, under your control. Built with Gemini models, it brings expertise and a deep understanding of your project to help with early brainstorming, creating and editing. For example, your agent can be a sounding board for dialogue between characters in a specific scene, or even make plot recommendations. \n\n00:00 Introduction to Google Flow\n00:32 Activating the Creative Agent\n00:59 Prompting Variations & Character Adherence\n01:26 Editing Assets & Organizing Collections with Gemini Omni\n\nThe agent is available to all Google Flow users globally.\nTry Google Flow for yourself: https://labs.google/fx/tools/flow\nLearn how to create in Google Flow: https://www.youtube.com/watch?v=oKjDeMtBZ4g\nSee our full Google Flow playlist on YouTube: https://www.youtube.com/playlist?list=PL590L5WQmH8cZy80Ko7dzpH2MyvNJFE-p\nFollow Google Flow on X: https://twitter.com/FlowbyGoogle\nFollow Google Flow on Instag",
+        "id": 5830182,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=JJTdXTf12oQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 777,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCK8sQmJBp8GCxrOtXWBpyEA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/JJTdXTf12oQ/hqdefault.jpg",
+        "title": "How to use Agent in Google Flow | Find Your Flow",
+        "vote": 0
+    }
+]

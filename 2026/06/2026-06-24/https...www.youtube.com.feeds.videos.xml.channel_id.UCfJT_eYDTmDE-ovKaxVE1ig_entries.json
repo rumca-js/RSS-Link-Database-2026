@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kevin Stratvert",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-24T07:36:47.525474+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-24T07:00:08+00:00",
+        "description": "Most people store their passwords in Chrome or Google Password Manager. It\u2019s convenient, but it means Google holds the keys to your data. Proton Pass is a free alternative that uses end-to-end encryption and a zero-knowledge model, so nobody \u2014 not even Proton \u2014 can access your passwords.\n\nIn this video, you'll learn how to use Proton Pass, a free password manager that goes beyond just storing passwords to help protect your privacy online.\n\nYou'll see how to:\n\u2022 Set up Proton Pass and install the browser extension\n\u2022 Save, autofill, and generate strong passwords\n\u2022 Create email aliases to keep your real email address hidden from websites\n\u2022 Add a PIN to lock your vault when you step away from your computer\n\u2022 Import passwords from Google Password Manager, Chrome, Bitwarden, 1Password, and more\n\nAll the features covered here are included in the free plan, and for most people, it's all you'll ever need.\n\nHost: Garrick Chow\n#ProtonPass #PasswordManager #Privacy #CyberSecurity #Productivity\n\n\ud83d\udcda ",
+        "id": 5826211,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Klnm4sKxE44",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 958,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfJT_eYDTmDE-ovKaxVE1ig",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/Klnm4sKxE44/hqdefault.jpg",
+        "title": "Proton Pass Tutorial: Free Password Manager & Email Aliases",
+        "vote": 0
+    }
+]

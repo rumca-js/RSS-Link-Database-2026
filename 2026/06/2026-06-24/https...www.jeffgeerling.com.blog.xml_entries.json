@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-24T15:30:01.213852+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-24T09:00:00+00:00",
+        "description": "<figure class=\"insert-image\"><img src=\"https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/wisdpi-framework-10g-module.jpeg\"\n alt=\"WisdPi&#39;s Framework 10G Ethernet module\" width=\"700\" height=\"auto\">\n</figure>\n\n<p>I've been following WisdPi's development of various <a href=\"https://www.youtube.com/watch?v=tRG_I_3VeTc\">5 Gbps</a> and <a href=\"https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/\">10 Gbps</a> Ethernet adapters for the past couple years.</p>\n<p>They use newer Realtek Ethernet chips, which sometimes have performance quirks\u2014most frequently encountered under Linux.</p>\n<p>In today's video, I tested the new <a href=\"https://frame.work/products/wisdpi-10g-ethernet-expansion-card\">WisdPi 10G Ethernet Expansion Card</a> for Framework computers. It fits in any available Framework Expansion slot\u2014even on the Framework Desktop.</p>\n<p>But Expansion Cards use USB-C for their connection to the mainboard\u2014and therein ",
+        "id": 5829048,
+        "language": "en",
+        "link": "https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 162,
+        "source_url": "https://www.jeffgeerling.com/blog.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/wisdpi-framework-10g-module.jpeg",
+        "title": "Framework's 10G Ethernet module exposes USB-C's complexity",
+        "vote": 0
+    }
+]

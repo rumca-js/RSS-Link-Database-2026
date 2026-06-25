@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-24T14:57:08.244144+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-24T13:15:14+00:00",
+        "description": "The BBC\u2019s Daniel Bush is traveling with Secretary of State Marco Rubio as he seeks to reassure Gulf allies over the Iran deal aimed at ending the war.",
+        "id": 5828840,
+        "language": "en-gb",
+        "link": "https://www.bbc.co.uk/news/videos/cy8w513859eo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 525,
+        "source_url": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e24d/live/a4e0c270-6fd0-11f1-8546-8f19e4fe30f4.jpg",
+        "title": "Here's how Rubio's Mideast trip could affect the Iran deal",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Infographics Show",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-24T20:34:05.441811+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-24T20:11:34+00:00",
+        "description": "For decades, Microsoft controlled PC gaming. If you wanted to play, you used Windows. It wasn't just the dominant operating system, it was the platform that gaming was built around. \nDevelopers optimized for it, gamers relied on it, and competitors struggled to challenge it.\nBut something has changed. While Microsoft focused on subscriptions, AI features, cloud services, and ecosystem lock-in, Valve spent years working on a completely different vision. A future where PC gaming no longer depends on Windows at all.\n\nIt started with SteamOS. Then came Proton, a compatibility layer many experts believed would never be good enough to replace Windows gaming. Finally, the Steam Deck arrived and proved something shocking. Millions of PC games could run on Linux with little or no effort from players.\nWhat looked like a niche experiment quickly became a serious threat to Microsoft's dominance.\n\nThis isn't just a story about a handheld gaming device., it's about platform control. It's about who ",
+        "id": 5831551,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Wtg_s1GQiMU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 999,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfdNM3NAhaBOXCafH7krzrA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/Wtg_s1GQiMU/hqdefault.jpg",
+        "title": "Leave Windows 11 Idle for 24 Hours and Watch What Happens",
+        "vote": 0
+    }
+]

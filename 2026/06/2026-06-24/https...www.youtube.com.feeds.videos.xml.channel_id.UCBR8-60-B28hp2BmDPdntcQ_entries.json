@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "YouTube",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-24T19:12:08.259596+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-24T19:00:03+00:00",
+        "description": "You found us. Welcome to the official YouTube channel \u2013 a home for the biggest moments, the smallest obsessions, and everything in between. Whatever you're into, it's on @YouTube. Every week. Every day. Every moment. From creators and internet culture to Shorts and live experiences.",
+        "id": 5830904,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=qAyZIVQrC_Y",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 794,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCBR8-60-B28hp2BmDPdntcQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/qAyZIVQrC_Y/hqdefault.jpg",
+        "title": "YouTube's YouTube",
+        "vote": 0
+    }
+]

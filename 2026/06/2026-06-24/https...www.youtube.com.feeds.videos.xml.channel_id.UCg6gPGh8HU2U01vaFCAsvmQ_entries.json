@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Chris Titus Tech",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-24T13:33:37.076085+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-24T11:15:12+00:00",
+        "description": "DaVinci Resolve on Linux is powerful but notoriously finicky \u2014 Blackmagic builds it for RHEL-based distros like Rocky Linux and AlmaLinux, which means modern distros like Arch and Ubuntu run into library mismatches, GPU detection problems, missing codecs, and broken fonts right out of the box. In this video, I walk through every major issue I've run into running Resolve on Linux for years, and exactly how I fixed each one.\n\nI cover my Resolve-Linux repo and the resolve-fix script that solves library mismatches by forcing Resolve to use your system's newer libraries instead of the outdated ones it ships with. I also go over GPU setup for NVIDIA, AMD, and Intel (including my Intel Arc B70 setup), the FFmpeg encoder plugin for H.264/H.265 codec support on the free version, my resolve-convert script for batch re-encoding footage to DNxHR, and the Fusion path map fix for fonts that won't show up in your titles.\nIf you're serious about editing video on Linux, Resolve is leagues ahead of fre",
+        "id": 5828248,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=oHsboGBxUuc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 444,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCg6gPGh8HU2U01vaFCAsvmQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/oHsboGBxUuc/hqdefault.jpg",
+        "title": "The Ultimate Guide to Fixing DaVinci Resolve on Linux",
+        "vote": 0
+    }
+]

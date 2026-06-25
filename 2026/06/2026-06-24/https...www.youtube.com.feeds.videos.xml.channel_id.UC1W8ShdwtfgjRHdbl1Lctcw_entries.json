@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NASS",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-24T22:24:48.745624+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-24T20:32:09+00:00",
+        "description": "Step back in time and explore industrial Ohio through this newly restored and colorized historical footage. From quiet residential neighborhoods and bustling service stations to fascinating junkyards filled with forgotten automobiles, these rare scenes offer a remarkable glimpse into everyday American life during 1930s. Using my latest restoration and semantic colorization techniques, I have carefully brought this footage back to life with a level of realism rarely seen in historical films. Experience the streets, homes, industries, and vehicles of a bygone era as if they were filmed today. If you enjoy this restoration, please like, comment, and subscribe to support future historical projects.\n\n\ud83d\udcfd\ufe0f Technologies & Techniques Used:\n\u2022 Advanced video restoration\n\u2022 New semantic colorization only for the ambiance (not historically accurate)\n\u2022 Manually colorized keyframes (to establish accurate ambiance and color consistency (not historically accurate)\n\u2022 Advanced frame reconstruction to 4K\n\u2022",
+        "id": 5832270,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=VVda6wFFy6E",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 222,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC1W8ShdwtfgjRHdbl1Lctcw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/VVda6wFFy6E/hqdefault.jpg",
+        "title": "Ohio 1930s: Streets, Gas Stations & Junkyards - Advanced Colorization (4k 60fps) with Sound Design",
+        "vote": 0
+    }
+]

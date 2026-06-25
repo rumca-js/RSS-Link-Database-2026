@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Valve",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-24T23:48:19.609751+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-24T20:41:35+00:00",
+        "description": "Steam Machine is here! In this video, we're sharing more about this powerful lil' PC gaming cube along with the simple steps to get it working right out-of-the-box. Er, cube.\n\nLearn more and sign up here: https://store.steampowered.com/sale/steammachine",
+        "id": 5832751,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=XPNW3GCIeOM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 921,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCg0FSqPeiGD_lIiPaaAehQg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/XPNW3GCIeOM/hqdefault.jpg",
+        "title": "Steam Machine: Official Overview and Quick Start Guide",
+        "vote": 0
+    }
+]

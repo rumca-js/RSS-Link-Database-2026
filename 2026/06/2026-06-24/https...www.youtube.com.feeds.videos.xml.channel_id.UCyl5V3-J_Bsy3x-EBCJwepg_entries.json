@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Babylon Bee",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-24T19:43:06.188672+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-24T18:57:10+00:00",
+        "description": "Elon Musk just became a trillionaire, so we asked AI to predict what will happen now that he is a trillionaire. What do you think of this artificial intelligence simulation?",
+        "id": 5831163,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=Fzuv7eHAOug",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 31,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCyl5V3-J_Bsy3x-EBCJwepg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/Fzuv7eHAOug/hqdefault.jpg",
+        "title": "We Asked AI To Predict What Will Happen Now That Elon Musk Is A Trillionaire",
+        "vote": 0
+    }
+]
