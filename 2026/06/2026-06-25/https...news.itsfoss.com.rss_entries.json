@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Sourav Rudra",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-25T04:57:52.667022+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-25T04:34:48+00:00",
+        "description": "Brave strips out AI, Rewards, Wallet, and VPN, but ad and tracker blocking stay intact for Origin users.",
+        "id": 5834005,
+        "language": "en-US",
+        "link": "https://itsfoss.com/news/brave-origin-linux",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 156,
+        "source_url": "https://news.itsfoss.com/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://itsfoss.com/content/images/2026/06/brave-origin-linux-banner.png",
+        "title": "Linux Users Get This For Free! Brave Origin Costs $59.99 For Everyone Else",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Hammond",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-25T19:26:11.095142+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-25T16:01:54+00:00",
+        "description": "This clip breaks down how malware and threat actors can disable Microsoft SmartScreen by modifying Windows registry settings.\n\nThe commands are loud, obvious, and should be generating alerts in a healthy security environment. We walk through the registry changes, user privileges involved, and why your EDR should be paying attention.\n\nWatch the full video: https://youtu.be/p6ySQ94GZsA?si=pKqAdKX9IB6i5fD6",
+        "id": 5839525,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/Wi6t06eco34",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 959,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVeW9qkBjo3zosnqUbG7CFw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/Wi6t06eco34/hqdefault.jpg",
+        "title": "Disable SmartScreen Fast",
+        "vote": 0
+    }
+]

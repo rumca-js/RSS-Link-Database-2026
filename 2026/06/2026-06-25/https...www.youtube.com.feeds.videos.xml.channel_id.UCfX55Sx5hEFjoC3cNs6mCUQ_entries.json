@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Foundation",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-25T22:55:06.937403+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-25T22:26:36+00:00",
+        "description": "Sponsored by Harness\n\nAI coding assistants are fundamentally changing how software gets built.\n\nDevelopers can now generate applications, dependencies, infrastructure definitions, and deployment configurations faster than ever before. But while development velocity has accelerated dramatically, governance models still rely on manual reviews, disconnected tooling, and trust assumptions that no longer scale.\n\nThe result: organizations are deploying more software than ever \u2014 with less visibility into what\u2019s actually moving through their delivery pipelines.\n\nIn this session, we\u2019ll explore how AI-generated code is reshaping software supply chain risk, why traditional security approaches are struggling to keep pace, and what modern artifact governance should look like in high-velocity engineering environments.\n\nWe\u2019ll discuss:\n- Why AI-generated dependencies are creating new trust challenges\n- The growing importance of artifact provenance and traceability\n- How governance is shifting from st",
+        "id": 5840791,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=cs8bc4Gm1_0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 499,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfX55Sx5hEFjoC3cNs6mCUQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/cs8bc4Gm1_0/hqdefault.jpg",
+        "title": "LF Live Webinar: AI Writes Code Fast. Can You Trust What Gets Deployed?",
+        "vote": 0
+    }
+]

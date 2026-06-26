@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Marques Brownlee",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-25T16:54:53.258302+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-25T15:32:20+00:00",
+        "description": "New prices across the board for everything.",
+        "id": 5838224,
+        "language": "en-US",
+        "link": "https://www.youtube.com/shorts/oYAnEH0JoqI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 210,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCBJycsmduvYEL83R_U4JriQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/oYAnEH0JoqI/hqdefault.jpg",
+        "title": "Apple's Big Price Hike",
+        "vote": 0
+    }
+]

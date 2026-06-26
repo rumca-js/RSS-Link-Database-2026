@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Sam Cunningham",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-25T11:16:07.928846+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-25T11:00:00+00:00",
+        "description": "This year, FIFA is providing an AI agent that any team can use. Is it enough to level the playing field or will future winners be determined by which team can afford the best tools?",
+        "id": 5835644,
+        "language": "en-US",
+        "link": "https://www.wired.com/story/fifa-world-cup-2026-artificial-intelligence-tools",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 396,
+        "source_url": "https://www.wired.com/feed/category/business/latest/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media.wired.com/photos/6a3af3254463dc1b6f7e6031/master/pass/WorldCup-Teams-in-Race-for-AI-Dominance.jpg",
+        "title": "World Cup Teams Are in a Race for AI Dominance",
+        "vote": 0
+    }
+]

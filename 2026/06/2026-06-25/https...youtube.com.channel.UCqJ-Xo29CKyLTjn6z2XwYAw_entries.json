@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Game Maker's Toolkit",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-25T17:58:44.047504+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-25T17:00:26+00:00",
+        "description": "\ud83d\udd34 Get my premium monthly newsletter - https://gamemakerstoolkit.com/digest/ \ud83d\udd34\n\nWord Play is my vocabulary roguelike, with over 100 passive perks. Implementing them into the game meant learning a whole new type of coding architecture: inheritance. \n\n=== Get the Game ===\n\nSteam - https://store.steampowered.com/app/3586660/Word_Play/\niOS - https://apps.apple.com/gb/app/word-play-mobile/id6743733091\n\n=== Credits ===\n\nMusic provided by Epidemic Sound - https://www.epidemicsound.com/referral/vtdu5y (Referral Link)",
+        "id": 5838886,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=n1cd1FhVAWY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 799,
+        "source_url": "https://youtube.com/channel/UCqJ-Xo29CKyLTjn6z2XwYAw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/n1cd1FhVAWY/hqdefault.jpg",
+        "title": "How I Coded the Perks in my Roguelike",
+        "vote": 0
+    }
+]

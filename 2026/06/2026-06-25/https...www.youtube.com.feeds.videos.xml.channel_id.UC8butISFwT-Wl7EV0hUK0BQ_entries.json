@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-25T11:42:40.742397+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-25T10:00:35+00:00",
+        "description": "Learn about Distributed Data Parallelism (DDP), an important technique for training large-scale AI models. This course provides a hands-on guide for implementing DDP, ensuring your training processes are efficient and scalable. Learn how to overcome memory limitations and train models effectively across multiple GPUs.\n\nCourse created by \u202a@neuralkian \n\n\u2764\ufe0f Support for this channel comes from our friends at Scrimba \u2013 the coding platform that's reinvented interactive learning: https://scrimba.com/freecodecamp\n\n\u2b50\ufe0f Contents \u2b50\ufe0f\n[coming soon]\n\n\ud83c\udf89 Thanks to our Champion and Sponsor supporters:\n\ud83d\udc7e @omerhattapoglu1158\n\ud83d\udc7e @goddardtan\n\ud83d\udc7e @akihayashi6629\n\ud83d\udc7e @kikilogsin\n\ud83d\udc7e @anthonycampbell2148\n\ud83d\udc7e @tobymiller7790\n\ud83d\udc7e @rajibdassharma497\n\ud83d\udc7e @CloudVirtualizationEnthusiast\n\ud83d\udc7e @adilsoncarlosvianacarlos\n\ud83d\udc7e @martinmacchia1564\n\ud83d\udc7e @ulisesmoralez4160\n\ud83d\udc7e @_Oscar_\n\ud83d\udc7e @jedi-or-sith2728\n\ud83d\udc7e @justinhual1290\n\n--\n\nLearn to code for free and get a developer job: https://www.freecodecamp.org\n\nRead hundreds of articles on programming: h",
+        "id": 5835812,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=7q4D6_3syuE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/7q4D6_3syuE/hqdefault.jpg",
+        "title": "Scaling Your AI Models with Micro-DDP \u2013 Tutorial",
+        "vote": 0
+    }
+]
