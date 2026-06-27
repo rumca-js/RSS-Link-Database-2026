@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Doug Sharpe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-26T17:15:26.297163+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-26T16:00:03+00:00",
+        "description": "McDonalds Salads were a psychological tool used to eliminate the \"veto vote\"",
+        "id": 5846553,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/C57-bOASj8A",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 811,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCAYmlecATSG0wc5IxsFJSbQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/C57-bOASj8A/hqdefault.jpg",
+        "title": "McDonalds PsyOP Salads #funfact",
+        "vote": 0
+    }
+]

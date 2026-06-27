@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeff Geerling",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-26T15:07:50.131033+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-26T14:00:35+00:00",
+        "description": "I flew up to Canada with a 20TB hard drive. After building a new storage server for a friend, I proved I was faster than the Internet\u2014sorta ;)\n\nThings I mentioned in the video, in order of appearance:\n\n  - Pigeons are Faster than the Internet: https://www.youtube.com/watch?v=4pz2kMxCu8I\n  - 45Drives Beast: https://45drivesstudio.com/configure/studio-beast?utm_source=Geerling&utm_medium=Geerling_Beast&utm_campaign=Geerling_Beast\n  - 45Drives Dead Silent Server: https://45drivesstudio.com/configure/silent?utm_source=Geerling&utm_medium=Geerling_Silent&utm_campaign=Geerling_Silent\n  - ServerPartDeals: https://serverpartdeals.com\n  - Sean Hodgins: https://www.youtube.com/c/SeanHodgins\n  - ORICO Hard Drive Case: https://amzn.to/4vtzj9o (As an Amazon Associate, I earn for qualifying purchases)\n\nHuge thanks to 45Drives for paying for my travel expenses for this video, and providing the Beast server for Sean! Also thanks to ServerPartDeals for setting Sean up with storage! And finally to Josh",
+        "id": 5845537,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=v0DEI4Ad7Ik",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 161,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR-DXc1voovS8nhAvccRZhg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/v0DEI4Ad7Ik/hqdefault.jpg",
+        "title": "Amazon wouldn't let me, so I built my own 20TB Snowball",
+        "vote": 0
+    }
+]

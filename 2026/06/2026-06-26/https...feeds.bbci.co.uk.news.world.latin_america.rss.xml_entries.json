@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-26T23:39:47.501524+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-26T21:44:54+00:00",
+        "description": "Vanessa Silva visited the coastal state, where rescuers are still working to find survivors under the rubble after twin earthquakes rocked the country.",
+        "id": 5849088,
+        "language": "en-gb",
+        "link": "https://www.bbc.co.uk/news/videos/cwy0lw84p3go",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 524,
+        "source_url": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a8d2/live/63da7a30-719e-11f1-8546-8f19e4fe30f4.jpg",
+        "title": "Watch: BBC reports from La Guaira, one of Venezuela's worst-hit areas",
+        "vote": 0
+    }
+]

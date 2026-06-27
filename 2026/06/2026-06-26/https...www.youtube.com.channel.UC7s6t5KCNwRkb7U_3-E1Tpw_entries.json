@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jake Baldino",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-26T20:56:17.592085+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-26T19:50:08+00:00",
+        "description": "Valve has announced Steam Machine release date and pricing. Let's talk about the sticker shock, the future of Valve hardware, and the importance of SteamOS.\n\n~~SOURCES~~\n\nhttps://www.theverge.com/games/953411/valve-steamos-desktop-nvidia\n\n\nhttps://www.theregister.com/systems/2026/06/25/micron-locks-in-historically-high-memory-prices-for-five-years/5261854\n\nhttps://www.theverge.com/games/952634/valve-intel-nvidia-steamos-gpus-linux\n\nhttps://insider-gaming.com/all-steam-machine-specs-comparisons-steam-machine-vs-ps5-pro/\n\nhttps://www.notebookcheck.net/The-Steam-Machine-was-originally-planned-at-around-750-but-Valve-says-it-saw-a-price-increase-similar-to-the-Steam-Deck.1326727.0.html",
+        "id": 5848198,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=ECvRp2pz5k4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 608,
+        "source_url": "https://www.youtube.com/channel/UC7s6t5KCNwRkb7U_3-E1Tpw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/ECvRp2pz5k4/hqdefault.jpg",
+        "title": "Steam Machine - WELP, it happened",
+        "vote": 0
+    }
+]

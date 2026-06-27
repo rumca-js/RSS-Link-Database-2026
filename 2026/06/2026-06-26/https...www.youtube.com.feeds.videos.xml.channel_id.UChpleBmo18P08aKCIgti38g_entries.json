@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Matt Wolfe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-26T19:30:07.507389+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-26T17:30:05+00:00",
+        "description": "Stop losing money on separate AI subscriptions. Get ChatGPT, Claude, Gemini, and 200+ models in one place for one price with Nexos. Get 50% off with my code: https://nexos.ai/wolf\n\nSakana AI just released a model that beats Fable on some benchmarks, ties it on others, and loses on a few, and we put it to the test ourselves this week.\n\nThis week's AI news isn't huge in volume, but it's massive in stakes. I break down Sakana's new Fugu model, an orchestrator system that routes your prompts across multiple AI models instead of being just one model itself, and test it head to head against Fable on a couple of real build challenges. I also cover Anthropic's new Claude Tag feature, which lets you tag Claude directly inside Slack like a coworker, and the news that the US government is now getting directly involved in how OpenAI releases new models.\n\nPlus a full rapid fire on Seed Dance 2.5, Krea 2 going open weights, a new searchable database of AI training data from The Atlantic, OpenAI's o",
+        "id": 5847600,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=zMVZvgCOr40",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 933,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChpleBmo18P08aKCIgti38g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/zMVZvgCOr40/hqdefault.jpg",
+        "title": "AI News: The New Model That's As Good As Fable",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-26T15:38:10.350127+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-26T15:22:00+00:00",
+        "description": "This image by ESA\u2019s (European Space Agency) Euclid (with color added using ground-based images) provides an earlier snapshot of a region of our galaxy that NASA\u2019s Nancy Grace Roman Space Telescope will repeatedly observe during the upcoming years.",
+        "id": 5845782,
+        "language": "en-us",
+        "link": "https://www.nasa.gov/image-detail/euclid-s-view-of-our-galaxy-s-bulge",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 485,
+        "source_url": "https://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Euclid Sees Heart of Milky Way",
+        "vote": 0
+    }
+]

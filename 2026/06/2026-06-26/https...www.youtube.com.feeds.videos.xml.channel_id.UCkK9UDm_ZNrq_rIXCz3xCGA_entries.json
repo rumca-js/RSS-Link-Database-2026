@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Lunduke Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-26T15:09:17.228955+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-26T14:31:59+00:00",
+        "description": "The XFCE Linux & BSD Desktop Environment has spent a \"significant portion\" of their funds porting from X11 to Wayland... even though Wayland is missing key functionality.\n\nUbuntu 4.10, C64, & BeOS added to the Wall!\nhttps://lunduke.substack.com/p/ubuntu-410-joins-lunduke-journal\n\nGet on The Wall with a Massively Discounted Lifetime Sub:\nhttps://lunduke.substack.com/p/50-off-yearly-and-massively-discounted\n\nMore from The Lunduke Journal:\nhttps://lunduke.com/",
+        "id": 5845539,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=o9RYK7lgWP4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 616,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkK9UDm_ZNrq_rIXCz3xCGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/o9RYK7lgWP4/hqdefault.jpg",
+        "title": "XFCE's Wayland \"Preview Release\" is Horribly, Expectedly Broken",
+        "vote": 0
+    }
+]

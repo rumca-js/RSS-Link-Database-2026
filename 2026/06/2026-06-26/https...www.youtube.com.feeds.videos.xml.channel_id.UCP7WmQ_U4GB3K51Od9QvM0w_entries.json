@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "David Bombal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-26T16:18:22.905383+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-26T14:00:37+00:00",
+        "description": "Big thank you to DeleteMe for sponsoring this video. Use my link https://joindeleteme.com/Bombal to receive a 20% discount or use the QR Code in the video. \n\nAlso, a Big thanks to Cisco for sponsoring my trip to Cisco Live Vegas 2026. \n\nDo you really need Cat 8 Ethernet for your home network in 2026? And what actually happens when you touch the end of a fiber optic cable? We break it all down with hands-on demos. \n\nAt Cisco Live, I caught up with Jim from Fluke Networks to dive deep into the physical layer of networking. We strip away the marketing hype and look at the real-world performance of both copper and glass.\n\nIn this video, we cover everything from the crucial safety reasons why you should never look into a fiber cable, to a microscope demonstration showing how a single speck of dirt or finger oil can cause frame errors and take down your SFP modules. We also run a live cable certification test on Cat 6 vs Cat 8 to show you exactly why Cat 6A is all you actually need for your",
+        "id": 5846106,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=nblqwk8QxuY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 984,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP7WmQ_U4GB3K51Od9QvM0w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/nblqwk8QxuY/hqdefault.jpg",
+        "title": "Why you never touch fiber optic cables (the tips)",
+        "vote": 0
+    }
+]

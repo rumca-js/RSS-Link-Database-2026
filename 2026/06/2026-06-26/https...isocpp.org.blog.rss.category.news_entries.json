@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Blog Staff",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-26T19:12:35.611585+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-26T13:42:22+00:00",
+        "description": "<p>\n\tThe New York May 29 world premiere event for <a href=\"https://www.youtube.com/watch?v=lI7tMxzSJ7w\"><em>C++: The Documentary</em></a> was followed by a live panel discussion with Matt Godbolt (moderator), Bjarne Stroustrup, Gabriel Dos Reis, Nina Ranns, Eric Lubin, and Herb Sutter. <a href=\"https://www.youtube.com/watch?v=zMYZ5MFQAho\"><strong>The video recording of that panel</strong></a> is being released worldwide on YouTube tomorrow (Saturday) at 19:00 UTC. Click <strong data-end=\"323\" data-start=\"310\">Notify me</strong> on the YouTube Premiere page to get a reminder when it goes live.</p>\n<p>\n\t<a href=\"https://www.youtube.com/watch?v=zMYZ5MFQAho\"><img alt=\"Panel.png\" src=\"https://isocpp.org/files/img/Panel.png\" style=\"width: 878px; margin: 10px; height: 495px;\" /></a></p>",
+        "id": 5847525,
+        "language": "en",
+        "link": "https://isocpp.org//blog/2026/06/panel-discussion-for-cpp-the-documentary",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://isocpp.org/files/img/Panel.png",
+        "title": "Panel discussion for C++: The Documentary",
+        "vote": 0
+    }
+]

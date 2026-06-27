@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Hammond",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-26T17:22:47.132480+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-26T16:15:14+00:00",
+        "description": "This phishing page is pretty rough... but the email behind it is a lot more interesting.\n\nThe attackers are using legitimate Facebook emails with personalized details to make the scam feel convincing. It is a good reminder that even authentic emails can be abused to build trust.\n\nWatch the full breakdown here: https://youtu.be/QRN3t1_paTY?si=A-BZoQ4FI9qb-RFF",
+        "id": 5846592,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/hBWsnUA6PVI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 959,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVeW9qkBjo3zosnqUbG7CFw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/hBWsnUA6PVI/hqdefault.jpg",
+        "title": "Facebook Phishing Fails",
+        "vote": 0
+    }
+]
