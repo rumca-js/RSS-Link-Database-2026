@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/Longjumping-Step9414",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-27T19:49:22.947582+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-27T18:24:43+00:00",
+        "description": "<table> <tr><td> <a href=\"https://www.reddit.com/r/developer/comments/1uha0eu/vulnledger_opensource_cli_for_sbom_generation_cve/\"> <img src=\"https://preview.redd.it/fzl59l0dbv9h1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=d84c664ced5d0dfc0dfd2635e4f2918e5cc4412d\" alt=\"VulnLedger \u2013 open-source CLI for SBOM generation + CVE scanning (supports 20+ ecosystems)\" title=\"VulnLedger \u2013 open-source CLI for SBOM generation + CVE scanning (supports 20+ ecosystems)\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>VulnLedger is a free, open-source CLI that generates CycloneDX SBOMs and scans all packages against the <a href=\"http://osv.dev/\">OSV.dev</a> vulnerability database in one command.</p> <p>\u2500 No account needed</p> <p>\u2500 No local vulnerability database</p> <p>\u2500 Works with pip, npm, Go, Maven, Cargo, NuGet, RubyGems, 20+ ecosystems</p> <p>\u2500 JSON export for CI/CD pipelines</p> <p>\u2502 GitHub: <a href=\"https://github.com/AKUMA-creator-ng/Vulnledger\">https://github.com/AKUMA-creator-ng/Vul",
+        "id": 5853260,
+        "language": "en",
+        "link": "https://www.reddit.com/r/developer/comments/1uha0eu/vulnledger_opensource_cli_for_sbom_generation_cve",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 508,
+        "source_url": "https://www.reddit.com/r/developer/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://preview.redd.it/fzl59l0dbv9h1.png?width=640&crop=smart&auto=webp&s=d84c664ced5d0dfc0dfd2635e4f2918e5cc4412d",
+        "title": "VulnLedger \u2013 open-source CLI for SBOM generation + CVE scanning (supports 20+ ecosystems)",
+        "vote": 0
+    }
+]

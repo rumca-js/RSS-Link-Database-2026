@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-27T11:41:39.297137+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-27T10:35:00+00:00",
+        "description": "<div id=\"remove_no_follow\">\n\t\t<div class=\"grid grid--cols-10@md grid--cols-8@lg article-column\">\n\t\t\t\t\t  <div class=\"col-12 col-10@md col-6@lg col-start-3@lg\">\n\t\t\t\t\t\t<div class=\"article-column__content\">\n<section class=\"wp-block-bigbite-multi-title\"><div class=\"container\"></div></section>\n\n\n\n<p>Microsoft is continuing its push to bring generative AI (genAI) into Excel, with new Microsoft 365 Copilot skills designed to automate common processes and a \u201cplan\u201d mode to provide more control over Copilot\u2019s outputs when handling financial data.</p>\n\n\n\n<p>Microsoft made Microsoft 365 Copilot generally available in Excel in late 2024 and since then has <a href=\"https://www.computerworld.com/article/4119411/11-cool-things-copilot-can-do-in-excel.html\">added several capabilities</a>, including <a href=\"https://www.computerworld.com/article/4163305/agent-mode-is-now-available-in-microsoft-word-excel-and-powerpoint.html\">agentic tools</a>, <a href=\"https://www.computerworld.com/article/4042348/micro",
+        "id": 5851354,
+        "language": "en-US",
+        "link": "https://www.computerworld.com/article/4189977/microsoft-adds-new-skills-and-more-oversight-for-copilot-in-excel.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 78,
+        "source_url": "https://www.computerworld.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Microsoft adds new skills \u2014 and more oversight \u2014 for Copilot in Excel",
+        "vote": 0
+    }
+]

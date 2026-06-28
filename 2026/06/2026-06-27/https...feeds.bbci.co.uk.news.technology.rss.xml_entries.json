@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-28T00:16:07.305135+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-27T23:10:47+00:00",
+        "description": "Xbox consoles, Nintendo's new Switch 2 and Valve's Steam Deck are just some of the gadgets seeing price hikes in recent months.",
+        "id": 5854253,
+        "language": "en-US",
+        "link": "https://www.bbc.co.uk/news/articles/cd95k584pzqo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 28,
+        "source_url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff6d/live/46dc95d0-7180-11f1-a417-dfae8167aae6.jpg",
+        "title": "Tech firms are blaming AI for mega device and console price rises",
+        "vote": 0
+    }
+]

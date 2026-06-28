@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Lon.TV",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-28T00:08:18.009989+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-27T22:45:29+00:00",
+        "description": "Find the Asus 5060ti GPU on Amazon - https://lon.tv/ft5qu (compensated affiliate link) - Can you shove an extra GPU into an old gaming PC and make it into a powerful Local AI server? Yes! In this video I demo out I got a 5060ti and 3080 to work together and run large local models. See more in this series: https://www.youtube.com/watch?v=oyBRlKm14zw&list=PLfqUj3TrcUR8 and subscribe! http://lon.tv/s and my email list : http://lon.tv/email\n\nLinks: \nSample output from the demos: https://lon.tv/aidemo\nLM Studio -  https://lmstudio.ai/\n\nVIDEO INDEX:\n00:00 - Intro\n01:01 - System Specs\n01:59 - LM Studio & GPU Splitting\n02:58 - Models from Google Gemma and Qwen\n03:35 - Qwen and Gemma's \"Mixture of Experts\"\n04:43 - First run of Qwen prompt\n05:51 - MOE vs. Dense Model with Gemma 31b\n07:11 - Generated Space Invaders Clone Comparison\n09:24 - Context Considerations\n10:32 - LMStudio Settings for the Best Results\n13:36 - Transcript Summary with 28,000 Token Context\n14:40 - Generating Attractive HTML ",
+        "id": 5854238,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=4KU1-zbrLPU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 199,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCymYq4Piq0BrhnM18aQzTlg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/4KU1-zbrLPU/hqdefault.jpg",
+        "title": "I shoved 2 GPUs in an Old PC to Make a Killer Local AI Rig!",
+        "vote": 0
+    }
+]

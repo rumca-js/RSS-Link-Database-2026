@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/brucehoult",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-27T03:10:10.696237+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-27T02:57:51+00:00",
+        "description": "<table> <tr><td> <a href=\"https://www.reddit.com/r/RISCV/comments/1ugr2xb/k3_running_programs_on_the_a100_ai_cores_reminder/\"> <img src=\"https://external-preview.redd.it/hGZ5ndfqwgKXwGLk9c2PAdj8Mu_mt1aDTOxRAkcFeDk.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=3cdc88225547c8f1feca3b3da6a3579ae4c475d2\" alt=\"K3: running programs on the A100 &quot;AI&quot; cores. (reminder)\" title=\"K3: running programs on the A100 &quot;AI&quot; cores. (reminder)\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Since a lot of people now have boards that have been received or at least shipped, I&#39;ll remind of the small utility I wrote to conveniently launch any Linux binary directly on the A100 cores.</p> <p>Previous discussion 5 1/2 weeks ago:</p> <p><a href=\"https://reddit.com/r/RISCV/comments/1tigs96/github_brucehoultk3_ai_utility_to_start_a_program/\">https://reddit.com/r/RISCV/comments/1tigs96/github_brucehoultk3_ai_utility_to_start_a_program/</a></p> </div><!-- SC_ON --> &#32; submitted by &",
+        "id": 5849793,
+        "language": "en",
+        "link": "https://www.reddit.com/r/RISCV/comments/1ugr2xb/k3_running_programs_on_the_a100_ai_cores_reminder",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 471,
+        "source_url": "https://www.reddit.com/r/RISCV/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://external-preview.redd.it/hGZ5ndfqwgKXwGLk9c2PAdj8Mu_mt1aDTOxRAkcFeDk.png?width=640&crop=smart&auto=webp&s=3cdc88225547c8f1feca3b3da6a3579ae4c475d2",
+        "title": "K3: running programs on the A100 \"AI\" cores. (reminder)",
+        "vote": 0
+    }
+]
