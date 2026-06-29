@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-29T01:48:07.807088+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-28T08:00:00+00:00",
+        "description": "<p><span>\n\nI keep my recipies </span>\n\n<a href=\"https://www.jefftk.com/recipes/\">on my\nwebsite</a>, and like most of my website it grew over time instead of\nbeing designed.  A couple years ago I added some progressive\nenhancement that \n\n<a href=\"https://www.jefftk.com/p/more-usable-recipes\">puts checkboxes on\nthe ingredients</a>, and today I added a rescaler:\n\n\n\n<p>\n\n<a href=\"https://www.jefftk.com/recipes-with-rescaler-big.png\"><img src=\"https://www.jefftk.com/recipes-with-rescaler.png\" width=\"550\" height=\"596\" class=\"mobile-fullwidth\" style=\"max-width:100.0vw; max-height:108.4vw;\" srcset=\"https://www.jefftk.com/recipes-with-rescaler.png 550w,https://www.jefftk.com/recipes-with-rescaler-2x.png 1100w\"><div style=\"height:min(108.4vw, 596px)\" class=\"image-vertical-spacer\"></div></a>\n\n</p>\n\n<p>\n\nHere's tripling it:\n\n</p>\n\n<p>\n\n<a href=\"https://www.jefftk.com/rescaled-recipe-big.png\"><img src=\"https://www.jefftk.com/rescaled-recipe.png\" width=\"550\" height=\"596\" class=\"mobile-fullwidth\" st",
+        "id": 5859347,
+        "language": "en-US",
+        "link": "https://www.jefftk.com/p/recipe-rescaler",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 163,
+        "source_url": "https://www.jefftk.com/news.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.jefftk.com/recipes-with-rescaler.png",
+        "title": "Recipe Rescaler",
+        "vote": 0
+    }
+]

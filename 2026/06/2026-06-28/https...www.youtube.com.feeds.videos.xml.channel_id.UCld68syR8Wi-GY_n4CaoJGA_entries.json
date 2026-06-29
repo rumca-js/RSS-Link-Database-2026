@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-28T18:40:11.175336+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-28T17:30:01+00:00",
+        "description": "People have been talking about doing a DIY Steam Machine but SteamOS is still really intended for Valve hardware so let's see what goes wrong with an install.\n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\nRufus Video: https://www.youtube.com/watch?v=FTi7A8C2q38\nBalena Etcher Video: https://www.youtube.com/watch?v=c0TK0ynXLOo\nThe Verge Article: https://www.theverge.com/games/953411/valve-steamos-desktop-nvidia\nDIY Build: https://www.pcworld.com/article/3173750/valves-steam-machine-is-pricey-i-built-a-diy-rival-for-150-less.html\nSteam OS Download: https://store.steampowered.com/steamos/download/?ver=steamdeck&snr=100601___\n\n=========Video Platforms==========\n\ud83c\udfa5 React: https://www.youtube.com/@BrodieRobertsonReacts\n\ud83c\udfa5 Podcast: https://techovertea.xyz/youtube\n\ud83c\udfae Gaming: http",
+        "id": 5857880,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=3PzEmiSDgd0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/3PzEmiSDgd0/hqdefault.jpg",
+        "title": "I tried installing Steam OS",
+        "vote": 0
+    }
+]

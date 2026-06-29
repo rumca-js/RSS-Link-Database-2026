@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/trolleid",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-29T02:30:21.242829+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-28T23:10:27+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>I just shipped ArchUnitPython, a library that lets you enforce architectural rules in Python projects through automated tests.</p> <p>The problem it solves: as codebases grow, architecture erodes. Someone imports the database layer from the presentation layer, circular dependencies creep in, naming conventions drift. Code review catches some of it, but not all, and definitely not consistently.</p> <p>This problem has always existed but is more important than ever in Claude Code, Codex times. LLMs break architectural rules all the time.</p> <p>So I built a library where you define your architecture rules as tests. Two quick examples:</p> <p>```python</p> <h1>No circular dependencies in services</h1> <p>rule = project_files(&quot;src/&quot;).in_folder(&quot;<strong>/services/</strong>&quot;).should().have_no_cycles() assert_passes(rule) ```</p> <p>```python</p> <h1>Presentation layer must not depend on database layer</h1> <p>rule = project_files(&quot;s",
+        "id": 5859438,
+        "language": "",
+        "link": "https://www.reddit.com/r/django/comments/1uibqgc/archunit_but_for_python_enforce_your_architecture",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 491,
+        "source_url": "https://www.reddit.com/r/django/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "ArchUnit but for Python: enforce your architecture via unit tests",
+        "vote": 0
+    }
+]

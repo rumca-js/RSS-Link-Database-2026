@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "David Bombal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-28T16:35:11.634556+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-28T14:00:32+00:00",
+        "description": "Get KASM for free with the Community Edition:\u202fhttps://davidbombal.wiki/3T7Qy1F\nInstall 1.19 now:\u202f https://davidbombal.wiki/44zhkm9\nLearn more about the Kasm Workspaces platform:\u202fhttps://davidbombal.wiki/3Rbi7Xn\nKasm Workspaces Documentation:\u202f https://davidbombal.wiki/3SyA3M3\n\nBig thank you to KASM for sponsoring this video: \n\nA lot of cybersecurity training tells you to never click links. But what happens when you actually have to click one and you don't know if it's a safe link or a phishing link? In this video David Bombal shows the exact setup he uses to open suspicious or dodgy links without infecting his local computer.\n\nHis approach: a cheap N95 mini PC running Ubuntu and Kasm Workspaces, placed in a DMZ between two firewalls from two different vendors (one internet-facing, one protecting the home network). He connects to that mini PC from his Mac and opens questionable URLs inside disposable Docker container browser sessions (Firefox, Brave, Chrome) that are destroyed when the ",
+        "id": 5857330,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=bIEVyQyJLic",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 984,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP7WmQ_U4GB3K51Od9QvM0w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/bIEVyQyJLic/hqdefault.jpg",
+        "title": "2026 home lab setup to test malicious links safely for FREE (step by step)",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-29T02:15:12.916321+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-28T17:00:00+00:00",
+        "description": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.",
+        "id": 5859422,
+        "language": "en",
+        "link": "https://openai.com/index/hp-frontier-partnership",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 953,
+        "source_url": "https://openai.com/news/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
+        "vote": 0
+    }
+]

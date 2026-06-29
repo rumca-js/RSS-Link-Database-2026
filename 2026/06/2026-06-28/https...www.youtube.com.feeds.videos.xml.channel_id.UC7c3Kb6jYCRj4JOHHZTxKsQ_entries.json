@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "GitHub",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-28T16:48:33.040884+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-28T15:00:11+00:00",
+        "description": "Managing community feedback does not have to be a full-time manual chore. See how we use GitHub Copilot app to constantly monitor multiple communication streams and repository boards at once. With a simple prompt, you can tell your agent to refresh your repository and watch it sort everything into actionable tasks.\n\n#GitHubCopilot #GitHub #AI\n\nStay up-to-date on all things GitHub by connecting with us:\n\nYouTube: https://gh.io/subgithub\nBlog: https://github.blog\nX: https://twitter.com/github\nLinkedIn: https://linkedin.com/company/github\nInsider newsletter: https://resources.github.com/newsletter/\nInstagram: https://www.instagram.com/github\nTikTok: https://www.tiktok.com/@github\n\nAbout GitHub\nIt\u2019s where over 180 million developers create, share, and ship the best code possible. It\u2019s a place for anyone, from anywhere, to build anything\u2014it\u2019s where the world builds software. https://github.com",
+        "id": 5857389,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/fwyFMou6nyw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 1005,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7c3Kb6jYCRj4JOHHZTxKsQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/fwyFMou6nyw/hqdefault.jpg",
+        "title": "How to automate your feedback loop with GitHub Copilot app",
+        "vote": 0
+    }
+]

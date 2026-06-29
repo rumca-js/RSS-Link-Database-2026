@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-28T03:18:52.114852+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-28T02:17:40+00:00",
+        "description": "Olimex recently featured the WCH CH32V006EVT, a low-cost evaluation board for the RISC-V-based CH32V006K8U6 microcontroller. The board is designed around WCH&#8217;s CH32V006 family and provides a compact platform for experimenting with the QingKe V2C 32-bit RISC-V core, Zephyr support, and basic embedded development features. The CH32V006K8U6 integrates a QingKe V2C processor using the RV32EmC instruction [&#8230;]",
+        "id": 5854701,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/wch-ch32v006evt-board-supports-zephyr-for-low-cost-risc-v-development",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "WCH CH32V006EVT board supports Zephyr for low-cost RISC-V development",
+        "vote": 0
+    }
+]

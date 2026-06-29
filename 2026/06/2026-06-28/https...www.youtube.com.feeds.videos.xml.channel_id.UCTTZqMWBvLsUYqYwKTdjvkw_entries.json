@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mateusz Chrobok",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-28T17:14:44.479216+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-28T16:00:12+00:00",
+        "description": "\ud83e\ude78\u00a0W \u017cyciu pewne s\u0105\u00a0trzy rzeczy. \u015amier\u0107, podatki, i to, \u017ce posiadaj\u0105c w swojej infrastrukturze urz\u0105dzenia Fortineta mamy zagwarantowane wi\u0119cej emocji ni\u017c na mundialu. No i nie inaczej by\u0142o tym razem, gdy gruchn\u0119\u0142a wiadomo\u015b\u0107, \u017ce jest naprawd\u0119 grubo. Siedemset pi\u0119\u0107dziesi\u0105t tysi\u0119cy wykradzionych hase\u0142, ponad czterysta tysi\u0119cy przej\u0119tych urz\u0105dze\u0144, dziewi\u0119\u0107dziesi\u0105t tysi\u0119cy organizacji, baza danych na ponad sto milion\u00f3w wpis\u00f3w. S\u0119k w tym, \u017ce w sumie z Fortinetem jako firm\u0105\u00a0i jakimi\u015b ewentualnymi b\u0142\u0119dami bezpiecze\u0144stwa w ich urz\u0105dzeniach nie ma to zbyt wiele wsp\u00f3lnego. Co tak w\u0142a\u015bciwie si\u0119\u00a0sta\u0142o i co ju\u017c\u00a0wiemy na ten temat?\n \n\u0179r\u00f3d\u0142a:\n\ud83d\udc68\u00a0Volodymyr \"Bob\" Diachenko\nhttps://www.linkedin.com/in/vdyachenko/\nhttps://x.com/MayhemDayOne\n\n\ud83e\ude78\u00a0FortiBleed Check\nhttps://socradar.io/free-tools/fortibleed\n\n\ud83e\ude78\u00a0FortiBleed: SOCRadar\u2019s Investigation into 86,644 Compromised Fortinet Firewalls\nhttps://socradar.io/blog/fortibleed-fortinet-firewalls-compromised/\n\n#\ufe0f\u20e3\u00a0Hashtopolis\nhttps://docs.hashtopolis.org/\n\n\ud83d\udd2b\u00a0CyberSt",
+        "id": 5857442,
+        "language": "pl-PL",
+        "link": "https://www.youtube.com/watch?v=8JHfUqvn_vQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 211,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTTZqMWBvLsUYqYwKTdjvkw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/8JHfUqvn_vQ/hqdefault.jpg",
+        "title": "Administrujesz Fortigate? To wsp\u00f3\u0142czuj\u0119.",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-28T18:32:23.450933+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-28T17:32:30+00:00",
+        "description": "Survivors of Venezuela's devastating earthquakes are being cared for at a makeshift hospital formed on the site of a country club in",
+        "id": 5857860,
+        "language": "en-gb",
+        "link": "https://www.bbc.co.uk/news/videos/clyx5r0068go",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 524,
+        "source_url": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ce5/live/19bd1460-7317-11f1-8546-8f19e4fe30f4.jpg",
+        "title": "Watch: Inside the Venezuela country club now a makeshift hospital",
+        "vote": 0
+    }
+]

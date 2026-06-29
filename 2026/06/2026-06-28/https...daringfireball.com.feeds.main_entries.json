@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Gruber",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-28T17:54:47.938482+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-28T17:21:42+00:00",
+        "description": "<p>Sean Hollister, writing for The Verge (gift link):</p>\n\n<blockquote>\n  <p>If you\u2019ve visited a cannabis club in Spain, [Sammy] Azdoufal says, chances\nare your photo ID was among them\u2009\u2014\u2009and possibly your phone\nnumber, address, your favorite strains of cannabis, and how much\nyou consumed each month while there. Azdoufal says celebrities are\nin the database, too, and visitors from all over the world,\nincluding 30,000 from the United States. \u201cThey have famous\npeople,\u201d says Azdoufal. \u201cPeople who don\u2019t want everyone to know\nthey smoke weed.\u201d</p>\n\n<p>But when Azdoufal decompiled that PuffPal app, <a href=\"https://github.com/xn0tsa/because-i-got-high\">he explains in his\nreport</a>, he discovered that Nefos had no meaningful level of\nsecurity. He discovered a secret key for the Stripe payments\nplatform sitting inside the app in plain text. He discovered he\ncould pull up any member\u2019s profile just by changing one number. If\nthose profiles included their phone number, home address,\npassport, an",
+        "id": 5857659,
+        "language": "",
+        "link": "https://www.theverge.com/tech/947157/passports-data-breach-cannabis-club-systems-nefos-puffpal?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IjdjV0Y5TTBuM0ciLCJwIjoiL3RlY2gvOTQ3MTU3L3Bhc3Nwb3J0cy1kYXRhLWJyZWFjaC1jYW5uYWJpcy1jbHViLXN5c3RlbXMtbmVmb3MtcHVmZnBhbCIsImV4cCI6MTc4MzA5NDY0NiwiaWF0IjoxNzgyNjYyNjQ2fQ.7SjX6B8AAGhzsdrtD5asJWBwzQvTDUD31hWte7K1oec",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 489,
+        "source_url": "https://daringfireball.com/feeds/main",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "PuffPal, an App for Accessing Cannabis Clubs, Leaked 1 Million Users\u2019 Passports",
+        "vote": 0
+    }
+]
