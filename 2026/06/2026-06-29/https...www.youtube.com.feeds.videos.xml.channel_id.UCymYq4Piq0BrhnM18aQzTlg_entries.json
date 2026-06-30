@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Lon.TV",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-30T00:20:14.764889+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-29T22:45:05+00:00",
+        "description": "Sign up for a Plex Pass before the big increase! http://lon.tv/plexpass - In my latest sponsored Plex video, I take a look at Plex hardware transcoding performance on four different AMD based machines. Yes it's possible but not as reliable or feature rich as Intel. See more Plex videos: https://www.youtube.com/playlist?list=PLCZHp4d1HnIvqJPAmMooCKOHieLdi3I7o and subscribe! http://lon.tv/s\n\nLinks:\nGeekom A5 Review - https://www.youtube.com/watch?v=fVsqcpvZLpM\nGeekom A8 Review - https://www.youtube.com/watch?v=8pcxjBsipEI\nMinix Elite Review: https://www.youtube.com/watch?v=Ip74rKW_afo\n\nMini PCs on Amazon - https://lon.tv/cb104 (compensated affiliate link)\n\nVIDEO INDEX:\n00:00 - Intro\n01:29 - Zen 2 Test - 4800U\n02:10 - Zen 2: 4k Blu Ray HEVC\n03:36 - Zen 2: 1080p-480p h.264\n04:18 - Zen 3 Test\n05:19 - Zen 4 Test\n06:54 - Zen 5 test\n08:05 - Intel N100 Comparison\n\nVisit my Blog! https://blog.lon.tv\n\nSubscribe to my email lists! \nWeekly Breakdown of Posted Videos:  - https://lon.tv/email\nDaily ",
+        "id": 5866751,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=zpkupkMGHqs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 199,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCymYq4Piq0BrhnM18aQzTlg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/zpkupkMGHqs/hqdefault.jpg",
+        "title": "Plex Hardware Transcoding on AMD Ryzen ! Zen 2 through 5 Tested!",
+        "vote": 0
+    }
+]

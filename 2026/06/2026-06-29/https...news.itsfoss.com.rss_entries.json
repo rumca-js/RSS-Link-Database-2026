@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Sourav Rudra",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-29T10:37:25.862448+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-29T10:18:32+00:00",
+        "description": "The laptop starts at $2,899 and scales up to an eye-watering $11,944 for a custom config.",
+        "id": 5861230,
+        "language": "en-US",
+        "link": "https://itsfoss.com/news/purism-librem-16",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 156,
+        "source_url": "https://news.itsfoss.com/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://itsfoss.com/content/images/2026/06/purism-librem-16-banner.png",
+        "title": "You Can Spend Up to $11,944 on Purism's Librem 16 Linux Laptop",
+        "vote": 0
+    }
+]

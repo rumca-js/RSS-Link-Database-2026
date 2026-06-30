@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "OpenAI",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-29T16:59:31.591678+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-29T14:30:09+00:00",
+        "description": "ChatGPT + Codex are a one-two punch for investment firms. \n\n\"Having the ability to connect your deal folder with all of the context, and then be able to ask ChatGPT and Codex real time questions has been really impactful to our workflows,\" - Jasmine Azizi (Advent). \n\nFinancial firms hold a tremendous amount of context. ChatGPT acts like a brain layer so teams can spend more time focusing on the next big bet.",
+        "id": 5863928,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=f-HiB82Tl94",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 935,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXZCJLdBC09xxGZ6gcdrc6A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/f-HiB82Tl94/hqdefault.jpg",
+        "title": "Advent Accelerates Deals with ChatGPT + Codex",
+        "vote": 0
+    }
+]

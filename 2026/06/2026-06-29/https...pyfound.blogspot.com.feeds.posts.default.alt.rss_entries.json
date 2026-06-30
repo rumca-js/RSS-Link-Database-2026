@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-29T18:41:44.701942+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-29T17:58:01+00:00",
+        "description": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;\"><span style=\"background-color: transparent; color: black; font-family: inherit; font-size: 11pt; font-style: normal; font-variant: normal; font-weight: 400; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">With the recent approval of </span><a href=\"https://peps.python.org/pep-0772/\" style=\"font-family: inherit; text-decoration: none;\"><span style=\"background-color: transparent; color: #1155cc; font-size: 11pt; font-style: normal; font-variant: normal; font-weight: 400; text-decoration-skip-ink: none; text-decoration: underline; vertical-align: baseline; white-space: pre-wrap;\">PEP 772 \u2013 Packaging Council governance process</span></a><span style=\"background-color: transparent; color: black; font-family: inherit; font-size: 11pt; font-style: normal; font-variant: normal; font-weight: 400; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">, a new Python Packaging C",
+        "id": 5864737,
+        "language": "en",
+        "link": "https://pyfound.blogspot.com/2026/06/packaging-council-inaugural-election.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 267,
+        "source_url": "https://pyfound.blogspot.com/feeds/posts/default?alt=rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Packaging Council Inaugural Election Dates",
+        "vote": 0
+    }
+]

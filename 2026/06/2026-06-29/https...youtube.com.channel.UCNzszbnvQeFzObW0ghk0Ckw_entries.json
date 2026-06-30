@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Dave's Garage",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-29T19:00:57.125877+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-29T18:40:17+00:00",
+        "description": "Dave does something to fix the bloat by writing a version of Notepad that is only 2686 bytes, and that's the total executable size!  Check out an episode of ShopTalk on Dave's Attic where we answer the best user questions!\n\nhttps://youtu.be/ZUvDO2g5Y1s\n\nGet Tiny Retro Pad: https://github.com/plummersSoftwareLLC/TinyRetroPad",
+        "id": 5864882,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=OG91c7xsNMc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 907,
+        "source_url": "https://youtube.com/channel/UCNzszbnvQeFzObW0ghk0Ckw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/OG91c7xsNMc/hqdefault.jpg",
+        "title": "Tired of Bloated Windows? I Fixed Notepad (2.5KB)",
+        "vote": 0
+    }
+]

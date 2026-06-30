@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "GitHub",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-29T16:58:13.695123+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-29T15:00:32+00:00",
+        "description": "The GitHub Copilot app now features a built-in impeccable skill to help you polish your projects. In this video, we use it as a design partner to upgrade the UI of PocketCal, an open-source web app. The /impeccable skill allows the agent to update fonts, improve drag-and-drop features, and refine event groups. You can even create a pull request directly from the app when you are done.\n\nEnable in Settings \u2192 Experimental to try it out.\n\n#GitHub #GitHubCopilot #GItHubCopilotApp \n\nFind out more here:  http://gh.io/app?utm_source=social-youtube-impeccable-skill-demo&utm_medium=social&utm_campaign=github-copilot-app-ga-2026 \n\nStay up-to-date on all things GitHub by connecting with us:\n\nYouTube: https://gh.io/subgithub\nBlog: https://github.blog\nX: https://twitter.com/github\nLinkedIn: https://linkedin.com/company/github\nInsider newsletter: https://resources.github.com/newsletter/\nInstagram: https://www.instagram.com/github\nTikTok: https://www.tiktok.com/@github\n\nAbout GitHub\nIt\u2019s where over 1",
+        "id": 5863914,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=CRSV0euIn7M",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 1005,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7c3Kb6jYCRj4JOHHZTxKsQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/CRSV0euIn7M/hqdefault.jpg",
+        "title": "How to use the new impeccable skill in the GitHub Copilot app",
+        "vote": 0
+    }
+]

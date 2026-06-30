@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Boston Dynamics",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-29T21:17:47.212856+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-29T20:16:52+00:00",
+        "description": "Spot's celebrating with the global soccer community \u26bd With robots deployed on 6 continents and in 46 countries - including 20 in the round of 32 - Spot has a lot of home teams to root for this World Cup!",
+        "id": 5865789,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/SoK05VMIATA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 451,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7vVhkEfw4nOGp8TyDk7RcQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/SoK05VMIATA/hqdefault.jpg",
+        "title": "Celebrating Soccer | Boston Dynamics",
+        "vote": 0
+    }
+]

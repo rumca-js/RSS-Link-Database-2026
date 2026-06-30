@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Matt Wolfe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-29T16:14:10.856040+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-29T12:52:49+00:00",
+        "description": "How to generate motion graphics using AI:\n\nStep 1: Choose your AI assistant\nThese frameworks act as plugins or \"skills\" that work directly inside AI coding assistants. In the video, I used Claude Code, but they also work with VS Code, GitHub Copilot, Codex, Cowork, and more.\n\nStep 2: Find the framework you want to use\nTo make this work, you'll need a programmable video framework like Remotion or Hyperframes. You can find ones like Remotion or Hyperframes (the ones I use in this video) by simply searching for them on GitHub or in a search engine. \n\nStep 3: Install it\nYou don\u2019t need to be a developer to set this up. I literally went into the Claude Code prompt box, pasted the GitHub URL for the framework, and typed: \"Install this for me, please.\" That is actually how easy it is.\n\nStep 4: Write your prompt\nJust describe the exact animation you want. The AI writes the underlying code and automatically renders out a clean MP4 file that you can drop directly into your video edit.\n\nIf you ne",
+        "id": 5863476,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/sNzsGC2zf6c",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 933,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChpleBmo18P08aKCIgti38g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/sNzsGC2zf6c/hqdefault.jpg",
+        "title": "How To Generate The BEST Motion Graphics With AI",
+        "vote": 0
+    }
+]
