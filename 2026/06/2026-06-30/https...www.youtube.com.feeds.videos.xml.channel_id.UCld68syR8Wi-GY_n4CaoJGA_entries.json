@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-30T18:55:39.698798+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-30T17:30:31+00:00",
+        "description": "Have you ever delved in the backlogs of the LKML to find out what Tux really is, why we have a penguin logo and perhaps some of the hilarious comments that Torvalds has made about Tux's design.\n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\nLinux Journal Article: https://www.linuxjournal.com/article/36\nLinux Australia: https://archive.md/Xja4Q\nStory Behind Tux Sign: https://upload.wikimedia.org/wikipedia/commons/1/17/TheStoryBehindTux.jpg\nArchived Logos: https://www.ibiblio.org/pub/historic-linux/ftp-archives/sunsite.unc.edu/Sep-29-1996/logos/INDEX.short.html\nHilarious Ideas: https://lkml.org/lkml/1996/5/4/3\nTorvalds Thoughts: https://lkml.org/lkml/1996/5/6/44\nProto Tux: https://upload.wikimedia.org/wikipedia/en/d/de/Ccpenguin%2C_the_ancestor_of_Tux.jpg\nHilarious Torva",
+        "id": 5872962,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=NR5_FQlJeUc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/NR5_FQlJeUc/hqdefault.jpg",
+        "title": "Hilarious Origin Of Linux's Penguin Mascot",
+        "vote": 0
+    }
+]

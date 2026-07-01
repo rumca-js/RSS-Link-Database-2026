@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Good Work",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-30T17:00:52.958555+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-30T15:54:43+00:00",
+        "description": "Mark Zuckerbeef #news #meta",
+        "id": 5871994,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/4wWu9PiW3eA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 617,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_-hYjoNe4PJNFa9iZ4lraA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/4wWu9PiW3eA/hqdefault.jpg",
+        "title": "Mark Zuckerberg's new interview",
+        "vote": 0
+    }
+]

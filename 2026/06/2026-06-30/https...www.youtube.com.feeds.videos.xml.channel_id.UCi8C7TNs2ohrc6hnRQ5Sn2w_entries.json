@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kai Lentit",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-30T16:41:45.119100+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-30T15:31:44+00:00",
+        "description": "Database Administrator\n\nInterview with a DBA with Walter Wallis - aired on the DBA 2026.\n\nSponsored by Jetbrains: https://www.jetbrains.com/idea/\n\n\n\nProgrammerhumor\nProgramming jokes\nVim\nProd is down\nServerless\nDatabase reliability engineer \nMySQL\nOncall\nServer room\nOracle db\n\n#programming #jokes #database",
+        "id": 5871832,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=5KyfW79Ld4g",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 264,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCi8C7TNs2ohrc6hnRQ5Sn2w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/5KyfW79Ld4g/hqdefault.jpg",
+        "title": "Interview with a DBA (Database Administrator)",
+        "vote": 0
+    }
+]

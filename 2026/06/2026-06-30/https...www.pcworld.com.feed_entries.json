@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-30T12:40:46.192555+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-30T12:36:55+00:00",
+        "description": "<div id=\"link_wrapped_content\">\n<body><section class=\"wp-block-bigbite-multi-title\"><div class=\"container\"></div></section>\n\n\n\n\t\t<div class=\"promo_wrap promo_wrap_sticky\" id=\"sticky-promo-block\">\n\t\t\t<div class=\"row_wrapper\">\n\t\t\t\t<div class=\"column_wrapper\">\n\t\t\t\t\t<p class=\"eyebrow\">NOW JUST $8</p>\n\t\t\t\t\t<p class=\"promo-title\"><strong>Anker 60W USB-C Cables (2-pack)</strong></p>\n\t\t\t\t\t\n\t\t\t\t</div>\n\t\t\t\t<div class=\"more_btn\"><a href=\"https://howl.link/link/?url=https://electronics.woot.com/offers/anker-a8753-1pk-anker-usb-c-to-usb-c-cable-type-c-60w-fas-0&#038;publisher_slug=pcworld&#038;exclusive=1&#038;article_name=pcworld&#038;article_url=https://www.pcworld.com&#038;u1=rss\" target=\"_blank\" class=\"sticky-promotion-view-deal-link\" data-vars-link-position=\"Floating Conversion Unit\">View Deal</a></div>\n\t\t\t</div>\n\t\t</div>\n\t\t<script>\n\t\t(function () {\n\t\t\tdocument.querySelector(\"#sticky-promo-block a\").addEventListener(\"click\", function(e) {\n\t\t\t\tconst debug = document.location.host.search(/lndo.",
+        "id": 5869954,
+        "language": "en",
+        "link": "https://www.pcworld.com/article/3180684/grab-anker-60w-usb-c-cables-for-as-little-as-3-50-each-today.html",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 246,
+        "source_url": "https://www.pcworld.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Grab Anker\u2019s 60W USB-C cables for just $3.50 a piece today",
+        "vote": 0
+    }
+]

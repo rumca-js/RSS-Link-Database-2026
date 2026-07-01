@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Web Dev Simplified",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-30T17:41:32.125400+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-30T16:00:22+00:00",
+        "description": "Try for FREE Docker Sandboxes: https://utm.io/uq1EL\n\nYou most likely fall into one of two camps. You either check every single command the AI runs before it runs or you YOLO run AI with zero oversight. This either wastes your time or opens you up to huge security issues. That is why in this video I will show you how to sandbox your AI so you can save time and rest knowing your AI is unable to do anything malicious on its own.\n\n\n\ud83d\udcda Materials/References:\n\nSandbox GitHub Kits: https://github.com/WebDevSimplified/docker-sandbox-kit-examples\nLocal AI Setup Video: https://youtu.be/UngVdAsQEiU\n\n\n\ud83c\udf0e Find Me Here:\n\nMy Blog: https://blog.webdevsimplified.com\nMy Courses: https://courses.webdevsimplified.com\nPatreon: https://www.patreon.com/WebDevSimplified\nTwitter: https://twitter.com/DevSimplified\nDiscord: https://discord.gg/7StTjnR\nGitHub: https://github.com/WebDevSimplified\nCodePen: https://codepen.io/WebDevSimplified\n\n\n\u23f1\ufe0f Timestamps:\n\n00:00 - Introduction\n01:10 - Docker Sandbox Setup\n02:37 - S",
+        "id": 5872352,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=7Z7ID5BbZU4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 994,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFbNIlppjAuEX4znoulh0Cw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/7Z7ID5BbZU4/hqdefault.jpg",
+        "title": "Containers Don't Make Your AI Agent Safe",
+        "vote": 0
+    }
+]

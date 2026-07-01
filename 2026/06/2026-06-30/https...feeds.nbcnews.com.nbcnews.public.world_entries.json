@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-30T23:46:12.703687+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-30T22:08:58+00:00",
+        "description": "Tennis legend Serena Williams was knocked out of the first round of Wimbledon by 20-year-old Australian player Maya Joint, who beat the 44 year old in straight sets. It had been 1,397 days since Williams\u2019 last singles match, with the American making her official comeback to the tour this month.",
+        "id": 5874883,
+        "language": "en-US",
+        "link": "https://www.nbcnews.com/video/serena-williams-loses-in-the-first-round-of-wimbledon-265979973796",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 224,
+        "source_url": "https://feeds.nbcnews.com/nbcnews/public/world",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_06/1782857331481_now_hallie_serena_williams_wimbledon_260630_S3_1920x1080-wit7hw.jpg",
+        "title": "Serena Williams loses in the first round of Wimbledon",
+        "vote": 0
+    }
+]

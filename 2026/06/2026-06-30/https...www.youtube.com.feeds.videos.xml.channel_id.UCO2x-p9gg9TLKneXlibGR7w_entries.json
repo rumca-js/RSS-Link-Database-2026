@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Snazzy Labs",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-30T15:55:33.894719+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-30T14:14:13+00:00",
+        "description": "Apple could dominate gaming\u2014if only they cared. Thing is... they kinda... do?\nTry Mammouth AI now at http://mammouth.ai\n\n*Buy FANTASTIC merch at Copland Supply* - https://copland.supply\nFollow Snazzy Labs on Twitter - https://twitter.com/snazzylabs  \nFollow me on Bluesky - https://snazzy.fm/UW\nFollow me on Threads - https://snazzy.fm/XV\nFollow me on Mastodon - https://snazzy.fm/NN\nFollow me on Instagram - https://instagram.com/snazzyq\n\nApple didn't mention gaming once at WWDC 2026, yet it quietly shipped the biggest Game Porting Toolkit upgrade in years\u2014GPTK4, built on Metal 4 with MetalFX frame generation, temporal upscaling, and denoising\u2014and on a base M5 MacBook Pro with just 16GB of RAM it turns previously unplayable Windows games into smooth ones. Benchmarks across Red Dead Redemption, Kingdom Come Deliverance II, Cyberpunk 2077, The Last of Us, and 007 First Light show macOS 27 \"Golden Gate\" plus Crossover and CodeWeavers' translation layer\u2014basically Proton for the Mac\u2014leaping R",
+        "id": 5871431,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=3ZlPEsiaGiQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 307,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCO2x-p9gg9TLKneXlibGR7w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/3ZlPEsiaGiQ/hqdefault.jpg",
+        "title": "Apple Just Fixed Mac Gaming and Said Nothing",
+        "vote": 0
+    }
+]

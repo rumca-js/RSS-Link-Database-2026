@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Hammond",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-30T17:57:57.383753+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-30T16:02:09+00:00",
+        "description": "Building a cyber range opens up a lot more possibilities than a single VM.\n\nI use Ludus with a dedicated Proxmox server to quickly spin up the infrastructure I need for security research, testing, and experimentation as part of my AI cybersecurity workflow.\n\nWatch the full video: https://youtu.be/j7GpjcyJYtU?si=qMaO8PTf7kP6-c1S",
+        "id": 5872405,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/q2eu7ag52tA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 959,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVeW9qkBjo3zosnqUbG7CFw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/q2eu7ag52tA/hqdefault.jpg",
+        "title": "Beyond CTF Labs",
+        "vote": 0
+    }
+]

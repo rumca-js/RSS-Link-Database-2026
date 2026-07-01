@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kevin Stratvert",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-30T07:23:30.151629+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-30T07:00:13+00:00",
+        "description": "Learn how to build AI agents in Jira using Atlassian Rovo step by step. In this tutorial, you'll start with a pre-built AI agent and then create your own custom agent from scratch. You'll learn how to add company knowledge from Confluence, connect skills like Slack notifications, and automate agent workflows so they run whenever new Jira issues are created.\n\nBy the end of this video, you'll know how to build, customize, test, and deploy AI agents that can analyze support requests, recommend actions, draft responses, and automate work across your organization.\n\nHost: Kevin Stratvert\nSponsor: Atlassian\n\n\ud83d\udcda RESOURCES\n- Learn more about Rovo: https://www.atlassian.com/software/rovo\n\n\u231a TIMESTAMPS\n00:00 - Introduction\n00:20 - Open a pre-built Rovo agent\n03:01 - Create a custom AI agent\n04:19 - Test the new support agent\n05:47 - Add knowledge\n07:51 - Add skills and actions\n09:21 - Automate agents with triggers\n10:59 - Share agents with your team\n11:16 - Wrap up\n \n\ud83d\udcfa RELATED VIDEOS\n- Playlist w",
+        "id": 5868304,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=JEyhRfkP0bY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 958,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfJT_eYDTmDE-ovKaxVE1ig",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/JEyhRfkP0bY/hqdefault.jpg",
+        "title": "How to Build AI Agents in Jira with Atlassian Rovo (Step-by-Step Tutorial)",
+        "vote": 0
+    }
+]

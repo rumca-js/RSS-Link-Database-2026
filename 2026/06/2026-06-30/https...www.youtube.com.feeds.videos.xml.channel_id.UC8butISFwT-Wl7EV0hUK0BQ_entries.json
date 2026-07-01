@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-30T11:44:49.838172+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-30T10:00:23+00:00",
+        "description": "In this command line tutorial for beginners, you'll learn terminal basics, bash commands, and essential CLI skills used by developers, DevOps engineers, and data analysts.\n\n\u270f\ufe0f Study this course interactively on Scrimba: \nhttps://scrimba.com/command-line-basics-c08b87ogl0?via=scrimbafcc \n\nCode is available on the Scrimba course page for each lesson.\n\nThis course is perfect for beginners looking to demystify the command line and start using it with confidence. You'll do all this while building the file structure for a quiz game.\n\nWhat is the command line? The command line is a text-based interface that lets you interact directly with your computer's operating system. It may look intimidating at first, but it's incredibly powerful once you know the basics.\n\nScrimba on YouTube: https://www.youtube.com/c/Scrimba\n\nTimestamps:\n00:00 Intro\n02:56 Demystifying the command line\n08:42 Inspect the file tree with ls\n14:17 Rules of navigation\n20:36 Create & delete files with touch and rm\n25:21 Creat",
+        "id": 5869644,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=mABpAI-pCw0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/mABpAI-pCw0/hqdefault.jpg",
+        "title": "Command Line Basics for Beginners - Full Course",
+        "vote": 0
+    }
+]

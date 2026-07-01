@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Doug Sharpe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-30T17:30:01.649000+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-30T16:00:32+00:00",
+        "description": "Google's original motto was \"Don't Be Evil\" but they changed it in 2018 after a number of employees used it as the base for their protests against Google's involvement with \"Project Maven\"",
+        "id": 5872256,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/N1zGXx0NSnY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 811,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCAYmlecATSG0wc5IxsFJSbQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/N1zGXx0NSnY/hqdefault.jpg",
+        "title": "Google's Original Motto Was \"Don't Be Evil\" #funfact",
+        "vote": 0
+    }
+]

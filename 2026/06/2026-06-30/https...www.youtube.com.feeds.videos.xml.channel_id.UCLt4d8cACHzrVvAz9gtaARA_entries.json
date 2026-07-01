@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Neuralink",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-30T19:19:06.211618+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-30T18:38:11+00:00",
+        "description": "The dura is the brain's armor: a membrane so tough that a surgeon normally cuts through it with a scalpel. For the first time in our clinical trials, we inserted the electrode threads of our implant straight through the dura and into the cortex, keeping the dura intact. \n\nThis isn't easy. The dura can be over 10x thicker than our electrode threads, which are thinner than a human hair. The brain beneath it is constantly moving, and the membrane hides the very blood vessels we need to avoid.\n\nPerforming micron-precision insertions under these conditions took extensive engineering work and preclinical study to develop and validate advanced transdural imaging and insertion techniques.\n\nWe like to say \u201cthe best step is no step\u201d and deleting the durectomy takes one of the most delicate manual steps out of the procedure. This potentially means a safer, more repeatable surgery, and a real path to scaling Neuralink to the many people who could benefit.\n\nThis first-of-its-kind procedure was per",
+        "id": 5873141,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=F8p2MamNBgE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 874,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLt4d8cACHzrVvAz9gtaARA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/F8p2MamNBgE/hqdefault.jpg",
+        "title": "Our First Transdural Procedure | Neuralink",
+        "vote": 0
+    }
+]

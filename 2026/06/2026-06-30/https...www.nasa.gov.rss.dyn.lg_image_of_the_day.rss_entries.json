@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-06-30T15:35:35.068140+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-06-30T15:04:00+00:00",
+        "description": "This NASA/ESA Hubble Space Telescope image features the globular cluster NGC 6723, sometimes called the Chandelier Cluster.",
+        "id": 5871289,
+        "language": "en-us",
+        "link": "https://www.nasa.gov/image-detail/55357496142-295d2a4b87-o",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 485,
+        "source_url": "https://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Starry Chandelier Cluster",
+        "vote": 0
+    }
+]
