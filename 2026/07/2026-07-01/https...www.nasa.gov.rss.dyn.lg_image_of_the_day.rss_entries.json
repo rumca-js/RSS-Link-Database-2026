@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-01T16:48:36.933859+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-01T15:21:00+00:00",
+        "description": "A Katalyst engineer runs tests on LINK while the satellite is inside the Pegasus XL rocket attached to the Stargazer aircraft at NASA\u2019s Wallops Flight Facility on the evening of Tuesday, June 16, 2026.",
+        "id": 5880228,
+        "language": "en-us",
+        "link": "https://www.nasa.gov/image-detail/stargazer-aircraft-with-link-spacecraft-at-nasa-wallops",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 485,
+        "source_url": "https://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "LINK Spacecraft Set for Mission to Boost NASA's Swift Observatory",
+        "vote": 0
+    }
+]

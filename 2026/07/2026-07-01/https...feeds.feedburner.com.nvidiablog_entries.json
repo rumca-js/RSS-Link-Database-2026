@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NVIDIA",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-01T16:10:26.155768+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-01T13:00:47+00:00",
+        "description": "NVIDIA and its partners are investing in American manufacturing, supply chains, energy grids and skilled workforces so the U.S. can produce the infrastructure needed for better healthcare, breakthrough scientific discovery, stronger industrial productivity and global technology leadership.",
+        "id": 5879980,
+        "language": "en-US",
+        "link": "https://blogs.nvidia.com/blog/nvidia-and-partners-build-in-america-for-america",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 1019,
+        "source_url": "https://feeds.feedburner.com/nvidiablog",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://blogs.nvidia.com/wp-content/uploads/2026/07/made-in-america-still-1920x1080-1-842x450.jpg",
+        "title": "NVIDIA and Partners Build in America, for America",
+        "vote": 0
+    }
+]

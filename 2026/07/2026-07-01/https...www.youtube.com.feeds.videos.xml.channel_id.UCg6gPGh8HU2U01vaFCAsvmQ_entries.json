@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Chris Titus Tech",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-01T13:06:45.746446+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-01T11:15:35+00:00",
+        "description": "After 794 days on Arch Linux, I'm switching to Fedora \u2014 and it has nothing to do with the recent AUR compromise. Here's why constant rolling-release updates became a productivity killer, and how I built my own minimal Fedora spin with DWM and QuickShell to replace it.\n\nIn this video I cover:\n- Why the AUR \"hack\" panic is overblown\n- How Arch was costing me dev time\n- Why I picked Fedora over Debian\n- My custom DWM + QuickShell setup\n- Fedora's SELinux & FirewallD defaults\n- Why I'm building my own Fedora ISO\n- Red Hat's CentOS/Rocky history\n- Final thoughts on Arch vs Fedora\n\n\ud83d\udd17 Full writeup: https://christitus.com/switch-from-arch-to-fedora/\n\nCHAPTERS:\n00:00 The AUR Scare\n01:19 Why I'm Switching\n01:57 Dev Over Content\n02:19 Arch Breaks Often\n03:09 AUR Best Practices\n05:29 Only Three Distros\n07:25 My DWM Setup\n09:41 Arch Still Rules\n11:04 My Fedora Spin\n13:46 Final Thoughts\n\n#Linux #Fedora #ArchLinux #DWM #Homelab #OpenSource\n\n\u25ba\u25ba Digital Downloads \u279c https://www.cttstore.com\n\u25ba\u25ba Patreon ",
+        "id": 5878584,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=ybm1KwlGKA0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 444,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCg6gPGh8HU2U01vaFCAsvmQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/ybm1KwlGKA0/hqdefault.jpg",
+        "title": "I Quit Arch Linux After 794 Days (Here's Why)",
+        "vote": 0
+    }
+]

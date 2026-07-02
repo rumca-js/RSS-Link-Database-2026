@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-01T21:41:01.587326+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-01T17:30:10+00:00",
+        "description": "Recently we saw the release and tagging of the first alpha/preview release of XFWL 4, XFCE's wayland compositor so lets check it out and see what state it's in.\n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\nOriginal Announcement: https://alexxcons.github.io/blogpost_15.html\nPreview Release: https://www.spurint.org/journal/2026/06/xfwl4s-first-preview-release\nAUR Package: https://aur.archlinux.org/packages/xfwl4-devel\nFAQ: https://wiki.xfce.org/xfwl4_faq\n\n=========Video Platforms==========\n\ud83c\udfa5 React: https://www.youtube.com/@BrodieRobertsonReacts\n\ud83c\udfa5 Podcast: https://techovertea.xyz/youtube\n\ud83c\udfae Gaming: https://brodierobertson.xyz/gaming\n\n==========Social Media==========\n\ud83c\udfa4 Discord: https://brodierobertson.xyz/discord\n\ud83d\udc26 Twitter: https://brodierobertson.xyz/twitter\n\ud83c\udf10 Mastodon: ",
+        "id": 5882435,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=s4u2A8qoCqk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/s4u2A8qoCqk/hqdefault.jpg",
+        "title": "XFCE's Wayland Compositor Has A Long Way To Go",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ryan Daws",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-01T12:15:03.531374+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-01T11:18:46+00:00",
+        "description": "<p>According to Harness, AI code generation is exposing severe delivery pipeline limitations within traditional software architectures. GitHub Copilot recently passed its five-year mark, prompting industry-wide evaluation of large language models (LLMs) in software engineering environments. Martin Reynolds, Field CTO at Harness, provided an objective assessment of the current deployment architecture. &#8220;GitHub Copilot&#8217;s fifth anniversary should&#8217;ve [&#8230;]</p>\n<p>The post <a href=\"https://www.developer-tech.com/news/harness-ai-code-generation-exposes-pipeline-limitations/\">Harness: AI code generation exposes pipeline limitations</a> appeared first on <a href=\"https://www.developer-tech.com\">Developer Tech News</a>.</p>",
+        "id": 5878304,
+        "language": "en-GB",
+        "link": "https://www.developer-tech.com/news/harness-ai-code-generation-exposes-pipeline-limitations",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 92,
+        "source_url": "https://www.developer-tech.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Harness: AI code generation exposes pipeline limitations",
+        "vote": 0
+    }
+]

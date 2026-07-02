@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-01T13:31:58.662863+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-01T10:30:41+00:00",
+        "description": "Learn more about Q-Day  \u2192 https://ibm.biz/~Ki7XKK3qT\n\nOn June 22, US President Donald Trump signed a pair of executive orders for the quantum computing, and post-quantum future. \n\nOn this episode, Mason Molesky breaks down the post-quantum EOs: \u201cSecuring the Nation Against Advanced Cryptographic Attack,\u201d which establishes a government\u2011wide mandate to accelerate the United States\u2019 transition to post\u2011quantum cryptography. Mason covers what it is, why you should care and what you should do.\n\nThen: Suja Visewesan and Mark Hughes join host Matt Kosinski to discuss Q-Day, the anticipated future day when quantum computing will become \u201ccryptographically relevant\u201d \u2014 or put another way: powerful, reliable and accessible enough to make our current approach to public key cryptography obsolete.\n\nBut what if Q-Day isn\u2019t a day at all? What if it\u2019s a process\u2014a long, slow evolution rather than a sudden leap? And what if it\u2019s already happening right now, under our noses?\n\nWe chat about the risks\u2014and be",
+        "id": 5878822,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=RYUR9BdDgyI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/RYUR9BdDgyI/hqdefault.jpg",
+        "title": "The new post-quantum cryptography executive order. Plus: What is Q-Day, really?",
+        "vote": 0
+    }
+]

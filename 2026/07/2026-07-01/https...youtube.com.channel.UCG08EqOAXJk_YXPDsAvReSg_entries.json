@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unity",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-01T15:30:15.589373+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-01T14:00:16+00:00",
+        "description": "Learn how to turn one of Unity Studio's ready-made templates into an interactive configurator, without C#.\n\nUnity Studio is a web-based editor designed for industries like manufacturing, automotive, healthcare, architecture, and more to build and share interactive 3D applications fast.\n\nIn this tutorial, you\u2019ll see how to use the built-in Configurator template to reuse the template logic and visual for your own product.\n\nYou\u2019ll learn how to do the following: \n\ud83d\udd39 Use an existing template to quickly create your own product configurator \n\ud83d\udd39 Reuse the setup to configure your own materials, camera views, and environments.\n\ud83d\udd39 Relabel and reconfigure the UI\n\nThe result is a complete car configurator that lets you orbit the vehicle, swap wheel sets, change the body paint and interior, and switch environments, all without the complexity of code.\n\n\ud83d\udd17 Claim your free 30 day trial: https://on.unity.com/UnityStudio\n\ud83d\udd17 Get started today: https://cloud.unity.com/studio\n\n_______________\n\nStay connected wi",
+        "id": 5879651,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Zz8cyQdPy-I",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 683,
+        "source_url": "https://youtube.com/channel/UCG08EqOAXJk_YXPDsAvReSg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/Zz8cyQdPy-I/hqdefault.jpg",
+        "title": "Unity Studio template | Build an interactive 3D configurator",
+        "vote": 0
+    }
+]
