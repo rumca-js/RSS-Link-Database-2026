@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-02T18:42:37.938101+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-02T17:56:18+00:00",
+        "description": "There was no immediate claim for the bombing at a cafe close to the Palace of Justice, a major government building.",
+        "id": 5889032,
+        "language": "en-gb",
+        "link": "https://www.bbc.co.uk/news/articles/cn0vwxyz40zo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 525,
+        "source_url": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbab/live/7f056730-7639-11f1-a627-714adb4eed6e.jpg",
+        "title": "Bomb blast at Damascus cafe kills six, Syrian state media say",
+        "vote": 0
+    }
+]

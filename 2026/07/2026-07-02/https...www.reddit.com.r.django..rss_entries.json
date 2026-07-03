@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/MichaelW_Dev",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-02T10:59:10.654360+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-02T08:45:41+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>Hello all</p> <p>I&#39;m looking to see if anyone has used/uses Django with Inertia and wouldn&#39;t mind giving me honest feedback about it. I have used Laravel with Inertia quite a bit but given the amount of Python I use, I wondered about using Django with it for an upcoming web project I have and if it gives anything extra over HTMX or even a SPA frontend (for context, the project is a simple brochure/ecommerce site but with a separate app for staff to log inventory).</p> <p>Many thanks in advance!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/MichaelW_Dev\"> /u/MichaelW_Dev </a> <br/> <span><a href=\"https://www.reddit.com/r/django/comments/1ulcnoj/django_with_inertia/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/django/comments/1ulcnoj/django_with_inertia/\">[comments]</a></span>",
+        "id": 5885810,
+        "language": "",
+        "link": "https://www.reddit.com/r/django/comments/1ulcnoj/django_with_inertia",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 491,
+        "source_url": "https://www.reddit.com/r/django/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Django with Inertia",
+        "vote": 0
+    }
+]

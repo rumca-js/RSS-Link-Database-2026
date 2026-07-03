@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NetworkChuck",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-02T20:46:41.902771+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-02T20:16:19+00:00",
+        "description": "Fable 5 \u2014 the most powerful AI on earth \u2014 got pulled offline by the U.S. government three days after it launched, and it just came back. But for most of us the free window is only a handful of days (through July 7). So I sat down with Daniel Miessler, who's already living inside that window, to figure out the one thing that actually matters: what's worth asking it before it's gone.\n\nThis isn't about doing bigger tasks. It's about pointing maximum intelligence at your deepest systems \u2014 your AI harness, the security of everything you've shipped, and the single hardest question about what you're actually building toward \u2014 so the payoff outlasts the window. Think of it like a super-intelligent alien that can only help for a week: you don't send it on errands, you have it rebuild your roads.\n\nIn this video, you'll learn Daniel Miessler's exact list of meta-prompts to run on Fable 5: how to improve the harness that governs all your AI, how to audit the full attack surface of everything you'",
+        "id": 5889878,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=YC77Lb_cN6c",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 565,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9x0AN7BWHpCDHSm9NiJFJQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/YC77Lb_cN6c/hqdefault.jpg",
+        "title": "the most powerful AI is back for 7 days (here's what to ask it)",
+        "vote": 0
+    }
+]

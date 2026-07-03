@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Learn Linux TV",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-02T15:35:05.407824+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-02T14:00:07+00:00",
+        "description": "Your terminal setup says a lot about your workflow - in this video, I walk through how I configure my Linux terminal environment, covering tmux, Vim, my Bash configuration, and even a live Ansible provisioning run to deploy this setup across my LLTV servers.\n\nIf you're looking to build a faster, more efficient terminal workflow on Linux, this video covers the core tools I rely on every day as a sysadmin.\n\nDownload my dotfiles here \u279c https://learnlinux.link/dotfiles\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*\ud83d\udcd6 Switch to Linux with my latest book! (Available Now!)*\n\nThinking about making the jump to Linux? This step-by-step guide will help you choose the right distribution, install Linux with confidence! Purchase your copy here:\nhttps://learnlinux.link/switch-to-linux\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*\ud83d\udc27 Save up to 75% on Linux Foundation Certifications*\n\nWhether you're starting a Linux career or advancing your existing skills, Linux Foundation training can help you stand out in a competitive industry. Check out t",
+        "id": 5887661,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Q8Fv_BfQuuc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 997,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxQKHvKbmSzGMvUrVtJYnUA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/Q8Fv_BfQuuc/hqdefault.jpg",
+        "title": "Behind the Scenes: My Linux Terminal & Server Workflow",
+        "vote": 0
+    }
+]

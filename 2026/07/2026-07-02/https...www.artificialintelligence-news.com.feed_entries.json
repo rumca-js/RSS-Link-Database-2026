@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ryan Daws",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-02T16:42:19.081613+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-02T14:38:01+00:00",
+        "description": "<p>Anthropic Claude Science now integrates the NVIDIA BioNeMo Agent Toolkit to accelerate computational life sciences research. Anthropic has launched the public beta of Claude Science, an AI workbench built for scientific research. The platform enables scientists to converse directly with digital agents using natural language to execute end-to-end research workflows. This system connects natively to [&#8230;]</p>\n<p>The post <a href=\"https://www.artificialintelligence-news.com/news/nvidia-bionemo-accelerates-anthropic-claude-science/\">NVIDIA BioNeMo accelerates Anthropic Claude Science</a> appeared first on <a href=\"https://www.artificialintelligence-news.com\">AI News</a>.</p>",
+        "id": 5888106,
+        "language": "en-GB",
+        "link": "https://www.artificialintelligence-news.com/news/nvidia-bionemo-accelerates-anthropic-claude-science",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 10,
+        "source_url": "https://www.artificialintelligence-news.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/image.png",
+        "title": "NVIDIA BioNeMo accelerates Anthropic Claude Science",
+        "vote": 0
+    }
+]

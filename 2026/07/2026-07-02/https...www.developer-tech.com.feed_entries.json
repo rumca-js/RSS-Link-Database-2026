@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ryan Daws",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-02T15:28:59.483983+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-02T15:26:29+00:00",
+        "description": "<p>North Korean threat actors are escalating the PolinRider supply chain attack across Go, Packagist, and npm package environments. The threat cluster \u2013 identified as Contagious Interview or Famous Chollima \u2013 continues to expand its targeting parameters well beyond initial npm registry exploits. Recent security telemetry exposes a widening attack surface, cataloguing 162 malicious release artifacts [&#8230;]</p>\n<p>The post <a href=\"https://www.developer-tech.com/news/polinrider-supply-chain-attack-expands-packagist-ecosystem/\">PolinRider supply chain attack expands to Packagist ecosystem</a> appeared first on <a href=\"https://www.developer-tech.com\">Developer Tech News</a>.</p>",
+        "id": 5887646,
+        "language": "en-GB",
+        "link": "https://www.developer-tech.com/news/polinrider-supply-chain-attack-expands-packagist-ecosystem",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 92,
+        "source_url": "https://www.developer-tech.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "PolinRider supply chain attack expands to Packagist ecosystem",
+        "vote": 0
+    }
+]

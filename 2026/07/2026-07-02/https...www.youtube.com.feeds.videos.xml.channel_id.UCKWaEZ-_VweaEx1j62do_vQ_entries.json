@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-02T13:48:10.059217+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-02T11:00:05+00:00",
+        "description": "Learn more about APIs here \u2192 https://ibm.biz/~ALwlgUzvT\n\nAPIs are powering more of your world than you realize. Amanda Downie explains APIs, types, architectures, and their role in AI. Learn how APIs connect apps, enable innovation, and shape modern software.\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/~cbYZguRKq\n\n#api #aiintegration #machinelearning #softwaredevelopment",
+        "id": 5886849,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Qw8qVSZEWBc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/Qw8qVSZEWBc/hqdefault.jpg",
+        "title": "What Is an API? Types, Uses, & AI Integration",
+        "vote": 0
+    }
+]

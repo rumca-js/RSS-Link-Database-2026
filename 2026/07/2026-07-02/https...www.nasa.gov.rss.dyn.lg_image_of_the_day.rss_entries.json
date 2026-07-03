@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-02T15:40:14.848764+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-02T14:46:00+00:00",
+        "description": "A bright orange sunburst illuminates Earth's atmosphere during an orbital sunrise in this photograph from the International Space Station as it orbited 264 miles above the Caucasus Mountains.",
+        "id": 5887707,
+        "language": "en-us",
+        "link": "https://www.nasa.gov/image-detail/iss074e0779393",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 485,
+        "source_url": "https://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Good Morning, Earth!",
+        "vote": 0
+    }
+]

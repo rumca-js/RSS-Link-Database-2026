@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kai Lentit",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-02T14:46:46.378456+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-02T14:12:33+00:00",
+        "description": "Production database final boss.\n\nFrom Interview with Walter Wallis 2026.\n\nprogramminghumor\ndatabase humor\nprogramming jokes\noracle\nsysadmin\ndatabase administrator",
+        "id": 5887279,
+        "language": "en-US",
+        "link": "https://www.youtube.com/shorts/ojpLQZUs0R8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 264,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCi8C7TNs2ohrc6hnRQ5Sn2w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/ojpLQZUs0R8/hqdefault.jpg",
+        "title": "Hardest working Database Admin.",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kevin Stratvert",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-02T11:17:49.007874+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-02T07:00:05+00:00",
+        "description": "In this step-by-step tutorial, you'll learn how to build an AI agent in UiPath from scratch. We'll start in the command line using the UiPath CLI, create an agent project, configure the agent with JSON, validate and deploy it, and then bring it into UiPath Studio Web for testing and refinement. Bring Claude Code, OpenAI Codex, Google Gemini CLI, Cursor, or any coding agent on UiPath, try for free: http://uipathaiagents.kevinstratvert.com \n\nAlong the way, you'll learn how agent inputs and outputs work, how to define prompts and schemas, how to debug your agent, and how to improve performance using evaluation tools. We'll also compare the code-first and visual approaches to agent development in UiPath.\nWhether you're new to AI agents or looking to build production-ready automations with UiPath, this tutorial will help you get started.\n\nHost: Kevin Stratvert\nSponsor: UiPath\n\n\ud83d\udcda RESOURCES\n- Download Visual Studio Code: https://code.visualstudio.com\n- Get Node.js: https://nodejs.org\n- Build",
+        "id": 5885910,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=6jCyXyuugV0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 958,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfJT_eYDTmDE-ovKaxVE1ig",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/6jCyXyuugV0/hqdefault.jpg",
+        "title": "How to Build an AI Agent in UiPath (Step-by-Step Tutorial)",
+        "vote": 0
+    }
+]

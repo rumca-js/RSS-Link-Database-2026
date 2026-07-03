@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Computerphile",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-02T17:11:51.287050+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-02T14:26:37+00:00",
+        "description": "After changes to pricing structures for LLM powered code assistants, Mike looks at how a seemingly simple task can burn through tokens when an agent 'looks after it' for you. \n\nPublished with three potential titles on a YouTube test:\nExtreme Token Use of Agentic AI - Computerphile\nWhy AI Tokens are so Expensive - Computerphile \nWhat is a token and why does it cost so much? - Computerphile \n\nComputerphile is supported by Jane Street. Learn more about them (and exciting career opportunities) at: https://jane-st.co/computerphile\n\nThis video was filmed and edited by Sean Riley.\n\nComputerphile is a sister project to Brady Haran's Numberphile. More at https://www.bradyharanblog.com",
+        "id": 5888387,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=-0HRzXk8vlk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 929,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9-y-6csu5WGm29I7JiwpnA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/-0HRzXk8vlk/hqdefault.jpg",
+        "title": "Extreme Token Use of Agentic AI - Computerphile",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Blog Staff",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-02T20:53:47.978454+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-02T20:06:07+00:00",
+        "description": "<p>\n\t<img alt=\"797f4c8c0b89b22b.png\" src=\"https://isocpp.org/files/img/797f4c8c0b89b22b.png\" style=\"width: 200px; margin: 10px; float: right; height: 200px;\" />In today&#39;s post, I will continue with the overall topics of the last two months. Today you&#39;ll learn when and where you need to apply C++17&#39;s <code>std::launder</code> and where the difference to this utility is to <code>reinterpret_cast</code> or <code>std::start_lifetime_as</code>.</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://andreasfertig.com/blog/2026/05/from-undefined-to-defined-using-stdlaunder-in-cpp/\">From Undefined to Defined: Using std::launder in C++</a></h3>\n\t<p>\n\t\tby Andreas Fertig</p>\n</blockquote>\n<p>\n\tFrom the article:</p>\n<blockquote>\n\t<p>\n\t\tThe fields where you can apply today&#39;s learning vary. The embedded domain is usually one where <code>std::launder</code> is used, but if you&#39;re writing library code, laundering occurs as well.</p>\n\t<p>\n\t\t<strong>When things may break</strong></p>\n\t<p>\n\t\tI&#3",
+        "id": 5889941,
+        "language": "en",
+        "link": "https://isocpp.org//blog/2026/07/from-undefined-to-defined-using-stdlaunder-in-cpp-andreas-fertig",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://isocpp.org/files/img/797f4c8c0b89b22b.png",
+        "title": "From Undefined to Defined: Using std::launder in C++ -- Andreas Fertig",
+        "vote": 0
+    }
+]

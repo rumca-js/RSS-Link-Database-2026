@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Bog",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-02T17:38:18.167568+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-02T16:31:41+00:00",
+        "description": "\ud83e\uddea Make a full-time living from YouTube - https://www.skool.com/bog/about",
+        "id": 5888590,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=GhAaRHN9iE0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 923,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZXW8E1__d5tZb-wLFOt8TQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/GhAaRHN9iE0/hqdefault.jpg",
+        "title": "4 years on YouTube - results",
+        "vote": 0
+    }
+]

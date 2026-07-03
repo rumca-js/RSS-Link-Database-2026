@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Shira Ovide",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-02T14:56:00.052829+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-02T14:21:23+00:00",
+        "description": "Don\u2019t stick your phone in the fridge. Do sign up for emergency text alerts.",
+        "id": 5887377,
+        "language": "en-US",
+        "link": "https://www.washingtonpost.com/technology/2024/06/18/heat-wave-phone-overheating-power-outage",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 364,
+        "source_url": "https://feeds.washingtonpost.com/rss/business/technology",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Heat wave do\u2019s and don\u2019ts for your phone",
+        "vote": 0
+    }
+]

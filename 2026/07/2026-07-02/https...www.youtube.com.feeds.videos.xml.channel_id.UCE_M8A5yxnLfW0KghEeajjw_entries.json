@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": null,
+        "author": "Apple",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-10-15T01:54:51.677323+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-02T01:57:44.056394+00:00",
+        "description": "Welcome to the official Apple YouTube channel. Here you\u2019ll find news about product launches, tutorials, and other great content. \n\nApple revolutionized personal technology with the introduction of the Macintosh in 1984. Today Apple continues to be a global leader in innovation with products like iPhone, iPad, Mac, Apple Watch and Apple Vision Pro. Our six software platforms (iOS, iPadOS, macOS, watchOS, tvOS, and visionOS) provide seamless experiences across Apple devices. Breakthrough services include the App Store, Apple Music, Apple Pay, and iCloud. And Apple keeps pursuing innovation with products like HomePod, Apple Fitness+, and Apple Card. Apple\u2019s more than 160,000 employees are dedicated to making the best products on earth, and to leaving the world better than we found it. \n\nAdditional products include AirPods, AirTags, Apple Arcade, Apple Books, Apple News, Apple Podcasts, and Apple TV.",
+        "id": 3815583,
+        "language": "en",
+        "link": "https://www.youtube.com/feeds/videos.xml?channel_id=UCE_M8A5yxnLfW0KghEeajjw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": true,
+        "source__id": 773,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCE_M8A5yxnLfW0KghEeajjw",
+        "status_code": 200,
+        "tags": [],
+        "thumbnail": "https://yt3.googleusercontent.com/s5hlNKKDDQWjFGzYNnh8UeOW2j2w6id-cZGx7GdAA3d5Fu7zEi7ZMXEyslysuQUKigXNxtAB=s900-c-k-c0x00ffffff-no-rj",
+        "title": "Apple",
+        "vote": 0
+    }
+]
