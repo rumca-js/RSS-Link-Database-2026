@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-03T16:38:26.401193+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-03T15:06:01+00:00",
+        "description": "Six times in fifteen years, Amazon Web Services went down and took half the internet with it. Airlines, hospitals, banks, smart home devices, Amazon's own delivery trucks. They were all frozen, all tracing back to a single data center in Northern Virginia. This is every major AWS outage, what caused each one, and why the same region keeps failing over and over again.\n\nThis video was created by @beau \n\n\u2b50\ufe0f Chapters \u2b50\ufe0f\n- 00:00 The Day the Internet Stopped (Intro)\n- 01:14 What is AWS US-East-1?\n- 02:12 2011: The Network Upgrade Mistake\n- 04:17 2012: The Northern Virginia Storm & Netflix's Resiliency\n- 05:54 2017: The Index Subsystem Typo\n- 08:17 2020: The Hidden Kinesis Dependency Cascades\n- 10:04 2021: Amazon Broken by Its Own Cloud\n- 12:09 2025: The Automated DynamoDB addressing failure\n- 14:38 The Uncomfortable Truth of Complex Systems\n\n\u2764\ufe0f Support for this channel comes from our friends at Scrimba \u2013 the coding platform that's reinvented interactive learning: https://scrimba.com/freecod",
+        "id": 5895565,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=6C14E9sQ_-w",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/6C14E9sQ_-w/hqdefault.jpg",
+        "title": "Every Major AWS Outage (And Why They Keep Happening)",
+        "vote": 0
+    }
+]

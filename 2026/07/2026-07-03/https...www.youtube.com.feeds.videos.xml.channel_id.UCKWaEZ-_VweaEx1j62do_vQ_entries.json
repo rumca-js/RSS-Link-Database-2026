@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-03T11:43:04.078838+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-03T10:00:27+00:00",
+        "description": "Visit Mixture of Experts podcast page to get more AI content  \u2192 https://ibm.biz/~WCwz6FqZD\n\nAre the new safety guardrails on GPT-5.6 Sol a breakthrough? This week Tim Hwang is joined by Chris Hay, Lauren McHugh Olende and Kush Varshney to debrief OpenAI\u2019s new GPT-5.6 Sol. The panel compares the new generation of models to Anthropic\u2019s Mythos. Next, there\u2019s growing skepticism from Wall Street around AI, we unpack the concerns about infrastructure costs, memory shortages and long-term economics of frontier AI models. Then, AI made it to the FIFA World Cup, but is it actually scoring? Finally, we analyze a new paper comparing LLMs to goats in Age of Empires II. \n\nAll that and more on this week\u2019s Mixture of Experts.\n\n00:00 \u2013 Introduction\n01:04 -- GPT-5.6 Sol\n12:50 \u2013 Wall Street and AI IPOs \n22:16 -- AI at the World Cup \n30:21 \u2013 Goats vs. Agentic AI\n\nThe opinions expressed in this podcast are solely those of the participants and do not necessarily reflect the views of IBM or any other organ",
+        "id": 5893760,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=tV5zXS78HzU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/tV5zXS78HzU/hqdefault.jpg",
+        "title": "GPT-5.6 Sol, FIFA AI & Wall Street\u2019s AI nerves",
+        "vote": 0
+    }
+]

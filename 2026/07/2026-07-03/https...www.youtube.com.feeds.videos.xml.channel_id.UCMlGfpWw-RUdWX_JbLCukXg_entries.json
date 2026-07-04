@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-03T16:26:25.368218+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-03T16:00:00+00:00",
+        "description": "https://cppcon.org/class-2026-essential-gdb/\n---\nCourse Description\nDevelopers spend more of their time debugging code, than actually writing code. So why do we not spend as much time learning debugging tools and associated utilities to help get us out of trouble? Part of the answer is that debugging is often not taught as a subject \u2014 but this workshop is here to fix that!\n\nIn this workshop you will learn how to use a debugger (GDB) and associated tools (valgrind, sanitizers, code coverage tools, objdump, dwarfdump, etc.) to help debug and understand what your software is doing. In the age of AI generated code, legacy code, and massive code bases, understanding how to use tools is of critical importance.\n\nIn this workshop we\u2019ll do interactive exercises to help ramp you up, and get you ready to tackle any project with tools in hand to help you understand how to write correct code, read code, and develop software with confidence.\n\nPrerequisites\nAttendees should have basic C++ programmin",
+        "id": 5895503,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/lv8dazZ6hsM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/lv8dazZ6hsM/hqdefault.jpg",
+        "title": "Master Linux Debugging: Essential GDB & System Tools",
+        "vote": 0
+    }
+]

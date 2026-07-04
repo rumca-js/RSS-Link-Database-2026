@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "AI Search",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-03T04:07:07.705878+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-03T03:26:30+00:00",
+        "description": "DSpark by Deepseek. Huge speed and throughput unlock. #ai #ainews #llm #agi #singularity \nThanks to our sponsor Higgsfield. Try Claude Fable with Higgsfield today: https://higgsfield.ai/s/mcp-theaisearch-pZHmcw\n\ndSpark paper: https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf\ndSpark code: https://github.com/deepseek-ai/DeepSpec/\nDeepseek with dSpark: https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-DSpark\nDeepseek v4 explainer: https://youtu.be/XJUpuOBpT-4\nHow AI models work: https://youtu.be/U2hZFMVNSE0\n\n00:00 dSpark intro\n01:05 Deepseek situation\n02:20 Why AI models are slow\n04:44 Speculative decoding\n7:42 The dilemma\n10:16 The fix\n11:05 Higgsfield with Claude Fable\n12:41 Markov loop\n14:50 Infra challenges\n16:29 Confidence heads\n19:33 Hardware aware algo\n21:20 Results\n23:18 Open sourced\n\n\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSupport: https://ko-fi.com/aisearch\n\nHere's my equipment, in case you're wondering:\nLenovo T",
+        "id": 5891833,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=J0D7qV3nl7w",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 806,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIgnGlGkVRhd4qNFcEwLL4A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/J0D7qV3nl7w/hqdefault.jpg",
+        "title": "Deepseek drops another HUGE breakthrough",
+        "vote": 0
+    }
+]

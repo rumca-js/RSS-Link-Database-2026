@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "redakcja",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-03T11:01:44.109033+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-03T09:18:08+00:00",
+        "description": "<p>Us\u0142uga z kt\u00f3rej tysi\u0105ce polskich hoteli korzysta do przyjmowania i zarz\u0105dzania rezerwacjami <strong>zosta\u0142a zhackowana</strong>. W\u0142amywacze <strong>uzyskali dost\u0119p do danych go\u015bci hotelowych r\u00f3\u017cnych obiekt\u00f3w obs\u0142ugiwanych przez system Hotres</strong> i do wielu z nich ju\u017c skierowali fa\u0142szywe, ale bardzo wiarygodnie wygl\u0105daj\u0105ce wiadomo\u015bci e-mail maj\u0105ce na celu <strong>wy\u0142udzenie pieni\u0119dzy</strong>. <span id=\"more-27171\"></span></p>\n<h3>Zacz\u0119\u0142o si\u0119\u00a0od&#8230; SQL injection</h3>\n<p>O problemach poinformowa\u0142 nas Czytelnik, kt\u00f3ry od strony IT obs\u0142uguje jeden z hoteli wykorzystuj\u0105cych system Hotres do zarz\u0105dzania rezerwacjami:\u2028\u2028</p>\n<blockquote><p>&#8220;Od wczoraj klienci kt\u00f3rzy maj\u0105 rezerwacj\u0119 [w naszym hotelu &#8212; dop. red.] otrzymuj\u0105 na whatsapp-ie wiadomo\u015bci o z\u0142o\u017conej rezerwacji z dok\u0142adnymi danymi oraz linkiem do p\u0142atno\u015bci co jest pr\u00f3b\u0105 wy\u0142udzenia op\u0142aty.\u00a0Sytuacja nie jest pojedynczym przypadkiem i dostaj\u0105 je r\u00f3wnie\u017c klienci innych hoteli.&#8221;</p></blockquote>\n<p><a href=\"htt",
+        "id": 5893558,
+        "language": "pl-PL",
+        "link": "https://niebezpiecznik.pl/post/wyciek-danych-gosci-wielu-polskich-hoteli",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 239,
+        "source_url": "https://feeds.feedburner.com/niebezpiecznik",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://niebezpiecznik.pl/wp-content/uploads/2026/07/atak-hotres-wyciek-danych-klientow2-150x150.jpg",
+        "title": "Wyciek danych go\u015bci wielu polskich hoteli",
+        "vote": 0
+    }
+]

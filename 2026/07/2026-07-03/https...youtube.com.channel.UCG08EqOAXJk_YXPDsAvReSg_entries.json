@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unity",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-03T16:39:58.771947+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-03T15:54:31+00:00",
+        "description": "Offer your players more payment choices and get more margin of your game\u2019s revenue. In this video, we dive into how you can leverage Unity In-App Purchasing (IAP 5) alongside third-party payment providers like Stripe and Coda Payments.\n\nFrom configuring your project environment, item catalogues,  to defining payment routing logic, we cover everything you need to get an alternative, direct-to-player checkout system rolling in your next game.\n\n\ud83d\udd17 Official documentation: https://on.unity.com/D2C_Workflow\n\ud83d\udd17 Discussion Article: https://on.unity.com/IAP54_Discussions\n\ud83d\udd17 Gem Hunter UGS Reference Project: https://on.unity.com/GemHunter_Blog\n\n[0:00] Introduction to IAP Web Checkouts\n[0:50] Walkthrough Overview\n[1:52] Unity IAP Package Samples\n[3:57] Connecting Stripe & Coda Providers\n[4:58] Configuring redirect URLs and deep linking\n[7:14] Customizing and branding Your checkout pages\n[7:42] Payment provider Routing logic\n[8:08] Previewing next steps: building a full webshop\n\n#Unity #IAP #InAppPu",
+        "id": 5895568,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=_szt-lgU_64",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 683,
+        "source_url": "https://youtube.com/channel/UCG08EqOAXJk_YXPDsAvReSg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/_szt-lgU_64/hqdefault.jpg",
+        "title": "IAP 5 Payment providers | Direct-to-Consumer (D2C) in-app tutorial",
+        "vote": 0
+    }
+]

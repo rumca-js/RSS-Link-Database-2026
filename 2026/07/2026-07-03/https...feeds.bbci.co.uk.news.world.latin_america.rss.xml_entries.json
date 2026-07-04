@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-03T21:32:42.264232+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-03T21:00:53+00:00",
+        "description": "The disaster has overwhelmed local services, with bodies put outside or in tents for identification.",
+        "id": 5897037,
+        "language": "en-gb",
+        "link": "https://www.bbc.co.uk/news/articles/c20y2p9qqqko",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 524,
+        "source_url": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d94/live/7466db40-7721-11f1-aedc-e7917f776e03.jpg",
+        "title": "Anguished families left to identify Venezuela quake victims at makeshift morgue",
+        "vote": 0
+    }
+]

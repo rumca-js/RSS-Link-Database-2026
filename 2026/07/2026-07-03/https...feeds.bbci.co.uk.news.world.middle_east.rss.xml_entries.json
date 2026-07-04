@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-03T06:45:38.985322+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-03T05:53:56+00:00",
+        "description": "Ali Khamenei's body will lie in state in Tehran's Grand Mosalla from Friday ahead of days-long funeral events.",
+        "id": 5892411,
+        "language": "en-gb",
+        "link": "https://www.bbc.co.uk/news/articles/cx2k4k7jqeno",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 525,
+        "source_url": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f091/live/51a79930-769c-11f1-b976-0b9c15b0ccfc.jpg",
+        "title": "Iran begins public mourning for Ayatollah killed in February",
+        "vote": 0
+    }
+]

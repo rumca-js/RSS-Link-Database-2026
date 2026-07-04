@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ryan Daws",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-03T15:46:01.992868+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-03T15:10:21+00:00",
+        "description": "<p>Administrators of the open-source game engine Godot have blocked automated code submissions to protect repository governance and fix review backlogs. The foundation is overhauling its contribution policies to control an unsustainable volume of pull requests cascading into the project tracking system. Repository maintainers report an overwhelming surge in submissions originating from new developers, a metric [&#8230;]</p>\n<p>The post <a href=\"https://www.developer-tech.com/news/godot-blocks-automated-code-to-protect-governance/\">Godot blocks automated code to protect governance</a> appeared first on <a href=\"https://www.developer-tech.com\">Developer Tech News</a>.</p>",
+        "id": 5895294,
+        "language": "en-GB",
+        "link": "https://www.developer-tech.com/news/godot-blocks-automated-code-to-protect-governance",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 92,
+        "source_url": "https://www.developer-tech.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Godot blocks automated code to protect governance",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Gruber",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-03T21:50:27.976641+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-03T21:24:05+00:00",
+        "description": "<p>Anthropic released the first version of the Claude \u201cdesktop\u201d app for MacOS in October 2024\u2009\u2014\u2009an Electron clunker that <a href=\"https://x.com/sdw/status/1852065949312233854\">did not impress UI designers</a>. When it came out, <a href=\"https://daringfireball.net/linked/2024/10/31/anthropic-mac-app-electron-turd\">I wrote</a>:</p>\n\n<blockquote>\n  <p><a href=\"https://openai.com/chatgpt/download/\">ChatGPT\u2019s native Mac app</a>, on the other hand, is a truly\nnative Mac app. It looks like a Mac app and feels like a Mac app\nbecause it really is a Mac app. I\u2019ve liked it ever since it\nlaunched <a href=\"https://www.cultofmac.com/news/chatgpt-finally-gets-official-mac-app\">back in May</a>, and it keeps getting better. And\nI keep using it more and more as my go-to resource for answering\nquestions.</p>\n\n<p>I asked Claude, \u201cWhat is the best way to engineer a native Mac\napp? What frameworks and developer tools should one use if the\ngoal is a great Mac experience?\u201d <a href=\"https://daringfireball.net",
+        "id": 5897123,
+        "language": "",
+        "link": "https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 489,
+        "source_url": "https://daringfireball.com/feeds/main",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "\u2605 Claude\u2019s Criminally Bad Electron Mac App Is an Inside Job",
+        "vote": 0
+    }
+]

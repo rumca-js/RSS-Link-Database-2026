@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Infographics Show",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-03T22:28:31.883546+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-03T20:11:13+00:00",
+        "description": "For years, we were told AI would replace programmers, office workers, and eventually most white-collar jobs. But behind closed doors, the companies leading the AI revolution are running into a problem they never expected. AI is becoming too expensive to replace humans.\nMicrosoft has started pulling back internal AI tools, Uber exhausted its AI budget in just a few months, and even the biggest tech companies are struggling to justify the costs.\n\nThis video explores why Microsoft's AI strategy suddenly changed, how Uber's AI rollout spiraled into a budget disaster, and why \"AI agents\" are costing companies far more than they anticipated.\nWe examine token costs, inference expenses, Nvidia's role in the AI boom, GitHub Copilot, Claude Code, and why the economics of artificial intelligence may be very different from what CEOs promised. We also look at the hidden costs of AI automation, why replacing human workers isn't as simple as it sounds, and how the industry's biggest investment could",
+        "id": 5897255,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=towF0_V7oHw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 999,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfdNM3NAhaBOXCafH7krzrA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/towF0_V7oHw/hqdefault.jpg",
+        "title": "Microsoft Admits it was Wrong About AI",
+        "vote": 0
+    }
+]
