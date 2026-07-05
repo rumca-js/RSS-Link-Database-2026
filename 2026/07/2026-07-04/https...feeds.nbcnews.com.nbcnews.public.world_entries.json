@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-04T23:32:47.004975+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-04T23:07:42+00:00",
+        "description": "NBC News\u2019 Richard Engel is in Tehran where huge crowds are gathering for the funeral of the late Supreme Leader Ayatollah Ali Khamenei. Our team was at the mosque where mourners were chanting \u201cdeath to America.\u201d The ayatollah was killed in American and Israeli airstrikes at the start of the war earlier this year.",
+        "id": 5902294,
+        "language": "en-US",
+        "link": "https://www.nbcnews.com/nightly-news/video/inside-tehran-as-funeral-for-late-iranian-supreme-leader-266181701618",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 224,
+        "source_url": "https://feeds.nbcnews.com/nbcnews/public/world",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_07/1783206457966_wnn_ren_inside_iran_as_funeral_begins_260704_S3_1920x1080-6jjvty.jpg",
+        "title": "Inside Tehran as funeral for late Iranian supreme leader",
+        "vote": 0
+    }
+]

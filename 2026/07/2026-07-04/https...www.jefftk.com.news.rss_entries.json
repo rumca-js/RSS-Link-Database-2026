@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-04T18:00:01.771736+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-04T08:00:00+00:00",
+        "description": "<p><span>\n\nTwo years ago I bought a pair of Gizmo watches for my kids (</span>\n\n<a href=\"https://www.jefftk.com/p/gizmo-watch-review\">review</a>).\nThere's a companion app for texting and configuration (\"Gizmohub\"),\nand Verizon is moving everyone over to a new one (\"Verizon Family\").\nBut the new app doesn't work for watch-only accounts like ours yet,\nand they're still saying they're going to turn off the old app on July\n6th.  Without the app we won't be able to text back and forth, see\nwhere they are, or add new contacts (the watch blocks calls except\nto/from contacts).\n\n\n\n<p>\n\nI first got the notification that Gizmohub was going away as an email on\n2026-06-10:\n\n</p>\n\n<p>\n\n<a href=\"https://www.jefftk.com/gizmo-hub-going-away-email-big.png\"><img src=\"https://www.jefftk.com/gizmo-hub-going-away-email.png\" width=\"550\" height=\"690\" class=\"mobile-fullwidth\" style=\"max-width:100.0vw; max-height:125.5vw;\" srcset=\"https://www.jefftk.com/gizmo-hub-going-away-email.png 550w,https://www.jefftk.co",
+        "id": 5901112,
+        "language": "en-US",
+        "link": "https://www.jefftk.com/p/verizon-is-about-to-break-our-watches",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 163,
+        "source_url": "https://www.jefftk.com/news.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.jefftk.com/gizmo-hub-going-away-email.png",
+        "title": "Verizon is About to Break our Watches",
+        "vote": 0
+    }
+]

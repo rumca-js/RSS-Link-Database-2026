@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-04T08:52:43.864326+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-04T07:52:55+00:00",
+        "description": "The daughter of disgraced president Alberto Fujimori is declared winner of tight race nearly a month after voting took place.",
+        "id": 5899065,
+        "language": "en-gb",
+        "link": "https://www.bbc.co.uk/news/articles/cr5jpvv06e1o",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 524,
+        "source_url": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ad4/live/e811c470-777a-11f1-bfcd-0551ebb03f4c.jpg",
+        "title": "Keiko Fujimori declared winner of Peru's presidential election weeks after vote",
+        "vote": 0
+    }
+]

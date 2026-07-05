@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Sourav Rudra",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-04T10:14:23.875245+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-04T10:10:55+00:00",
+        "description": "Brave Browser 1.92 introduces support for Containers that isolate cookies and site data per tab.",
+        "id": 5899331,
+        "language": "en-US",
+        "link": "https://itsfoss.com/news/brave-browser-containers",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 156,
+        "source_url": "https://news.itsfoss.com/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://itsfoss.com/content/images/2026/07/brave-browser-containers-banner.png",
+        "title": "Brave Says This is Not a Privacy Feature, But Using Containers Has Its Perks",
+        "vote": 0
+    }
+]
