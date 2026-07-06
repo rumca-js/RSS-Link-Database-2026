@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/Positive-Skin-2839",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-06T00:10:16.542950+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-05T16:53:03+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>Hello, </p> <p>I&#39;m a BA, and I joined an organization a while back. Since day 1, the way that &quot;user stories&quot; are written has caused me physical pain. </p> <p>Here are my observations of a typical story we write:</p> <ol> <li>We don&#39;t actually write user stories; we really write use cases.</li> <li>We have 8-16 Acceptance Criteria per story <ol> <li>Each AC uses Given/When/Then and, if &quot;appropriate,&quot; technical notes and notes for QMs.</li> </ol></li> <li>We throw in technical specifications on top of the ACs into a lot of user stories, making them even longer and hard to follow.</li> <li>We are allergic to breaking down stories into smaller chunks</li> <li>We are defining what makes a good user story on the &quot;length&quot; or if it&#39;s &quot;too much detail&quot; or &quot;not enough detail&quot; instead of looking at the qualities a good user story should have.</li> </ol> <p>Other challenges:</p> <ol> <li>There is very ",
+        "id": 5907149,
+        "language": "en",
+        "link": "https://www.reddit.com/r/developer/comments/1uo7575/user_stories_what_do_you_need_what_makes_them_good",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 508,
+        "source_url": "https://www.reddit.com/r/developer/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "User Stories: What do you need? What makes them good?",
+        "vote": 0
+    }
+]

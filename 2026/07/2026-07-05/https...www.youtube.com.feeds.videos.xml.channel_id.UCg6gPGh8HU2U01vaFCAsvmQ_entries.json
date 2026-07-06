@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Chris Titus Tech",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-05T12:58:36.335068+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-05T11:15:39+00:00",
+        "description": "I wiped my bare-metal system and rebuilt it from the ground up with Fedora Server, a minimal X/DWM/Quickshell desktop, GPU passthrough, bridge networking, Looking Glass, development tools, DaVinci Resolve, Steam, and the real-world fixes that come with doing this on actual hardware.\n\nThis is not a clean VM demo. This is the messy, advanced, real install with multiple drives, multiple GPUs, PCI passthrough, weird display issues, missing packages, broken libraries, and all the troubleshooting that makes Linux installs interesting.\n\nDo not blindly copy this setup. Use it to see the decisions, tradeoffs, and problems you may run into when building a serious Fedora workstation/server from scratch.\n\nChapters:\n0:00 Bare Metal Wipe\n5:00 Partitioning Choices\n10:00 First Boot Fixes\n15:00 GPU Passthrough Prep\n20:00 IOMMU Groups\n25:00 Virt Manager Setup\n30:00 Bridge Networking\n35:00 VM Hardware Passthrough\n40:00 Looking Glass Setup\n45:00 Build Dependencies\n50:00 VNC Recovery\n55:00 Windows In Linu",
+        "id": 5904447,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=mzgYhxd9LTY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 444,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCg6gPGh8HU2U01vaFCAsvmQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/mzgYhxd9LTY/hqdefault.jpg",
+        "title": "10 Drives, 2 GPUs, One Wild Linux Install",
+        "vote": 0
+    }
+]

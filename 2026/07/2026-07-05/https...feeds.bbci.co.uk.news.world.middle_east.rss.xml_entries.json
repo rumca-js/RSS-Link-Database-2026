@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-05T14:25:38.353169+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-05T12:29:18+00:00",
+        "description": "Mojtaba Khamenei has not been seen in public since the attack which killed his father at the onset of the US-Israel war with Iran.",
+        "id": 5904763,
+        "language": "en-gb",
+        "link": "https://www.bbc.co.uk/news/articles/cevllyj9vv3o",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 525,
+        "source_url": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/74a2/live/459df790-7860-11f1-ab53-3dbca6ef5ee1.jpg",
+        "title": "Iran's supreme leader absent as senior officials attend ayatollah's funeral",
+        "vote": 0
+    }
+]

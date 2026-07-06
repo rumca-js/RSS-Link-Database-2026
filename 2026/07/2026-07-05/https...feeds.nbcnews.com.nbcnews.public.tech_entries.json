@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-05T05:52:44.191475+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-05T03:50:02+00:00",
+        "description": "President Trump highlighted the potential approval of the SAVE America Act during his Salute to America 250 speech, stating his goal to require photo identification to vote and limit the use of mail-in ballots.",
+        "id": 5903227,
+        "language": "en-US",
+        "link": "https://www.nbcnews.com/video/trump-touts-save-america-act-during-salute-to-america-250-speech-266185797893",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 223,
+        "source_url": "https://feeds.nbcnews.com/nbcnews/public/tech",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_07/1783223397886_nbc_spec_trump_touts_saveact_260704_S3_1920x1080-mcf3hp.jpg",
+        "title": "Trump touts SAVE America Act during Salute to America 250 speech",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Khan Academy",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-05T14:12:18.792755+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-05T13:29:20+00:00",
+        "description": "Courses on Khan Academy are always 100% free. Start practicing\u2014and saving your progress\u2014now. https://www.khanacademy.org/science/ap-physics-c-mechanics\n\nAn object\u2019s average velocity over some interval is the object\u2019s change in position (displacement) divided by the time interval over which that displacement occurs. Taking the limit of this quotient as the time interval goes to zero gives the object\u2019s instantaneous velocity at some time, which is the derivative of position with respect to time. An object\u2019s average acceleration over some interval is the object\u2019s change in velocity divided by the time interval over which that change in velocity occurs. Taking the limit of this quotient as the time interval goes to zero gives the object\u2019s instantaneous acceleration at some time, which is the derivative of velocity with respect to time.\n\nSections:\n00:00 - Intro\n00:27 - Visualizing position over time\n02:36 - Average velocity\n06:20 - Instantaneous velocity\n07:59 - Plotting velocity as a func",
+        "id": 5904679,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=8bHhZ66tvfo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 977,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4a-Gbdw7vOaccHmFo40b9g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/8bHhZ66tvfo/hqdefault.jpg",
+        "title": "Kinematic quantities: Rates of change | AP Physics | Khan Academy",
+        "vote": 0
+    }
+]

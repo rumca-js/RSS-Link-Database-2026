@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Cynthia Cai",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-05T14:02:59.428025+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-05T13:00:42+00:00",
+        "description": "The online tracker\u2019s goal is to provide state policymakers, researchers, and the public with close to real-time data on the current state of the job market.",
+        "id": 5904651,
+        "language": "en-US",
+        "link": "https://www.theepochtimes.com/us/new-california-tracker-shows-spike-in-bay-area-ai-related-layoffs-but-no-statewide-impact-6055654",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 105,
+        "source_url": "https://feed.theepochtimes.com/tech/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.theepochtimes.com/assets/uploads/2026/06/01/id6055661-GettyImages-2188469160-1080x720.jpg",
+        "title": "New California Tracker Shows Spike in Bay Area AI-related Layoffs but No Statewide Impact",
+        "vote": 0
+    }
+]
