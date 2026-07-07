@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/Aggressive_Ad7289",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-06T22:21:18.438430+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-06T18:16:46+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>Hi <a href=\"/r/django\">r/django</a>, I maintain DRF API Logger, an open-source package for logging Django REST Framework API requests/responses.</p> <p>It is meant for production debugging and auditing, with masking for sensitive data and request correlation support.</p> <p>I\u2019m looking for feedback from people running DRF APIs in production:</p> <p>- Is the default logging useful?</p> <p>- What masking fields should be included by default?</p> <p>- What would make this safer for production use?</p> <p>Repo: <a href=\"https://github.com/vishalanandl177/DRF-API-Logger\">https://github.com/vishalanandl177/DRF-API-Logger</a></p> <p>Docs: <a href=\"https://drf-api-logger.readthedocs.io/\">https://drf-api-logger.readthedocs.io/</a></p> <p>PyPI: <a href=\"https://pypi.org/project/drf-api-logger/\">https://pypi.org/project/drf-api-logger/</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Aggressive_Ad7289\"> /u/Aggressive_Ad7",
+        "id": 5913843,
+        "language": "",
+        "link": "https://www.reddit.com/r/django/comments/1up5hn0/i_built_an_opensource_drf_api_logging_package_for",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 491,
+        "source_url": "https://www.reddit.com/r/django/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "I built an open-source DRF API logging package for production request tracing. Feedback welcome.",
+        "vote": 0
+    }
+]

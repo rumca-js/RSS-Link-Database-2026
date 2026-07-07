@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-06T12:40:27.149566+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-06T11:00:17+00:00",
+        "description": "Learn more about AI Code Refactoring here \u2192 https://ibm.biz/~QvKeWQY26\n\nAI can rewrite code, but can you trust it? Martin Keen explains how AI code refactoring works, from inline edits to autonomous agentic systems. Learn how guardrails, testing loops, and human oversight make AI-driven changes safe in production.\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/~bbtIppdAE\n\n#ai #developertools #aicoding #CICD",
+        "id": 5910102,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=f84XbvASkk4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/f84XbvASkk4/hqdefault.jpg",
+        "title": "What Is AI Code Refactoring? Agentic AI & Safe Code Changes",
+        "vote": 0
+    }
+]

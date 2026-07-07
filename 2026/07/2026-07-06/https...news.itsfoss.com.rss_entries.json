@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Sourav Rudra",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-06T10:50:58.711985+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-06T10:21:12+00:00",
+        "description": "A curious developer took it upon himself to revive this *iconic* gem.",
+        "id": 5909426,
+        "language": "en-US",
+        "link": "https://itsfoss.com/news/return-of-hannah-montana-linux",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 156,
+        "source_url": "https://news.itsfoss.com/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://itsfoss.com/content/images/2026/07/hannah-montana-linux-banner.png",
+        "title": "Return of The Meme! Hannah Montana Linux Lives Again in 2026",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kevin Stratvert",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-06T10:47:53.200784+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-06T07:00:28+00:00",
+        "description": "Learn how to generate AI videos completely FREE on your own PC using ComfyUI.\n\nIn this beginner-friendly tutorial, I'll show you how to install ComfyUI from scratch, download a free AI video model, generate videos from text prompts, animate existing images, and save your finished videos. Everything runs locally on your computer, so there are no API keys, subscriptions, or usage credits required.\n\nBy the end of this video, you'll know how to:\n- Install ComfyUI Desktop \n- Download the free LTX 2.3 AI video model \n- Generate videos from text prompts \n- Animate existing images \n- Adjust video settings like resolution, duration, and frame rate \n- Find and manage your generated videos \n- Explore additional AI video workflows \n\nIf you're looking for a free way to create AI videos on your own PC, this tutorial will get you up and running.\n\nHost: Kevin Stratvert\n\n\ud83d\udcda RESOURCES\n- Get started with ComfyUI: https://comfyui.kevinstratvert.com\n\n\u231a TIMESTAMPS\n0:00 - Introduction\n0:22 - Install ComfyUI\n",
+        "id": 5909408,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=0z8Pp4TaAl8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 958,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfJT_eYDTmDE-ovKaxVE1ig",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/0z8Pp4TaAl8/hqdefault.jpg",
+        "title": "How to Generate AI Videos for FREE with ComfyUI (Step-by-Step Tutorial)",
+        "vote": 0
+    }
+]

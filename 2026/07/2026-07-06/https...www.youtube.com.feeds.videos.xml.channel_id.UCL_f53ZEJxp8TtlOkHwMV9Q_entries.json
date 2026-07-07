@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jordan B Peterson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-06T22:48:14.831159+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-06T22:00:05+00:00",
+        "description": "Excerpt from Dr. Jordan B. Peterson\u2019s new course, Nietzsche: Further Down the Rabbit Hole, available on Peterson Academy.",
+        "id": 5914083,
+        "language": "en-US",
+        "link": "https://www.youtube.com/shorts/t62G_wdvX6U",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 167,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCL_f53ZEJxp8TtlOkHwMV9Q",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/t62G_wdvX6U/hqdefault.jpg",
+        "title": "Which Is The Real You?",
+        "vote": 0
+    }
+]

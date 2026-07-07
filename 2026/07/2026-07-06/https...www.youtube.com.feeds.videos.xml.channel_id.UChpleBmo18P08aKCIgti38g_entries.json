@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Matt Wolfe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-06T21:31:36.382105+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-06T17:48:05+00:00",
+        "description": "TODAY is the day to try Fable. And I used it to build a fully automated social media video generator.\n\nOn July 7, Anthropic\u2019s insanely good Fable model is going to get A LOT more expensive since you'll only be able to access it via usage credits on paid plans.\n\nSo I decided to see what I could build with it before that happens\u2026\n\nAnd in half a day, I vibe coded a fully automated social media video factory.\n\nIt can turn an article, raw text, file, or idea into a short-form script, fact-check it, generate B-roll, and even learn from my past Instagram Reels and YouTube Shorts to improve future scripts based on what\u2019s actually performing.\n\nBasically: a scriptwriter, researcher, editor assistant, teleprompter, and performance analyst all in one dashboard.\n\nIf you\u2019ve been meaning to try Fable, don\u2019t wait.\n\nAnd save this video or send it to a friend who should try it before it's too late.\n\n#AI #Anthropic #Fable #socialmedia #AItips",
+        "id": 5913544,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/1CAy_mB6E-g",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 933,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChpleBmo18P08aKCIgti38g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/1CAy_mB6E-g/hqdefault.jpg",
+        "title": "Building An Automated Social Media Factory",
+        "vote": 0
+    }
+]

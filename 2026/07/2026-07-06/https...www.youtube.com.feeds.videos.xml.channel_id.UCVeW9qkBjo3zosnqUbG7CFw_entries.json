@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Hammond",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-06T19:28:10.451804+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-06T14:57:07+00:00",
+        "description": "Shai-Hulud didn't just spread through compromised GitHub packages. The malware behind the campaign was later published as open source, making it available for anyone to examine or copy.\n\nDoes it matter if malware is \"vibe coded\" if it still gets the job done? It's an interesting question, especially when the code is now out in the open for anyone to study.\n\nWatch the full video here: https://youtu.be/Gk5mKCcM8dI?si=TbL-L7NGi7lD5RQx",
+        "id": 5912789,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/xr1aX6lfIK0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 959,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVeW9qkBjo3zosnqUbG7CFw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/xr1aX6lfIK0/hqdefault.jpg",
+        "title": "Open Source Malware",
+        "vote": 0
+    }
+]
