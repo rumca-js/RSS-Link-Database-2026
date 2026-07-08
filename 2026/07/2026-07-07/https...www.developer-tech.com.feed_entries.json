@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ryan Daws",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-07T17:07:00.627838+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-07T15:46:18+00:00",
+        "description": "<p>Multi-agent AI systems require strict AWS Cedar policies to prevent unchecked privilege escalation during automated delegation. Software engineers deploying multi-agent AI architectures face a distinct authorisation vulnerability when autonomous agents delegate tasks through multi-hop chains. The OWASP Top 10 for Agentic Applications categorises this specific threat as ASI03: Identity &#38; Privilege Abuse. Without hard boundaries, [&#8230;]</p>\n<p>The post <a href=\"https://www.developer-tech.com/news/securing-multi-agent-ai-systems-aws-cedar-policies/\">Securing multi-agent AI systems with AWS Cedar policies</a> appeared first on <a href=\"https://www.developer-tech.com\">Developer Tech News</a>.</p>",
+        "id": 5919504,
+        "language": "en-GB",
+        "link": "https://www.developer-tech.com/news/securing-multi-agent-ai-systems-aws-cedar-policies",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 92,
+        "source_url": "https://www.developer-tech.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Securing multi-agent AI systems with AWS Cedar policies",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-07T12:29:42.424610+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-07T11:00:35+00:00",
+        "description": "Learn more about AI Agents here \u2192 https://ibm.biz/~TjxCNJCU3\n\nChoosing how to extend an AI agent isn\u2019t always obvious. Cedric Clyburn explains when to use Model Context Protocol versus Skills for agents. Learn how context engineering helps you decide the right approach for your AI workloads.\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/~CeRTD6fZ0\n\n#mcp #aiagents #contextengineering #llms",
+        "id": 5917411,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=goU9VIXA8II",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/goU9VIXA8II/hqdefault.jpg",
+        "title": "MCP vs Skills: Which Is Right for Your AI Agent and LLMs?",
+        "vote": 0
+    }
+]

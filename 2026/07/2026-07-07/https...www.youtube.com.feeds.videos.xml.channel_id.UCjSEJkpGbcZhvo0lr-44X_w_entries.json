@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "TechHut",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-07T20:59:25.098110+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-07T16:49:28+00:00",
+        "description": "Try Opera browser FOR FREE here: https://opr.as/Opera-browser-techhut\n\nRustDesk is arguably the best open source alternative to TeamViewer and AnyDesk, and in this guide we take it a step further by self-hosting our own relay and signal server. We spin it up in Proxmox using a helper script, grab the security keys, and connect clients on Linux and Windows so your remote sessions never touch a public relay. Pair it with something like a NetBird routing peer and you can securely connect from anywhere in the world. All the links you need are down below.\n\n\ud83d\udcd6 RESOURCES\nRustDesk: https://rustdesk.com\nRustDesk Server Docs: https://rustdesk.com/docs/en/self-host/\nProxmox Helper Script (RustDesk Server): https://community-scripts.github.io/ProxmoxVE/scripts?id=rustdeskserver\nNetBird: https://netbird.io\n\n\ud83c\udfc6 FOLLOW TECHHUT\nX (Twitter): https://bit.ly/twitter-techhut\nMASTODON: https://bit.ly/mastodon-techhut\nBlueSky: https://bsky.app/profile/techhut.bsky.social\nINSTAGRAM: https://bit.ly/personal-in",
+        "id": 5921119,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=utSOC6BFd3A",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 430,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjSEJkpGbcZhvo0lr-44X_w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/utSOC6BFd3A/hqdefault.jpg",
+        "title": "This Free Tool Replaces TeamViewer AND AnyDesk",
+        "vote": 0
+    }
+]

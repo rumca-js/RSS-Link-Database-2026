@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Patrick Brosset",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-07T18:12:31.441932+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-07T16:04:36+00:00",
+        "description": "<p>Welcome to <em>New in Edge for developers</em>, a new series featuring recent web platform updates in Microsoft Edge that help web developers build better sites and apps.</p>\n<p>In this first edition, we'll look at <a href=\"#css-gap-decorations\">CSS gap de</p>\n<p>The post <a href=\"https://blogs.windows.com/msedgedev/2026/07/07/new-in-edge-for-developers-style-layout-gaps-improve-keyboard-accessibility-and-migrate-your-pwa-to-a-new-origin/\">New in Edge for developers \u2013 Style layout gaps, improve keyboard accessibility and migrate your PWA to a new origin</a> appeared first on <a href=\"https://blogs.windows.com\">Windows Blog</a>.</p>",
+        "id": 5920011,
+        "language": "en-US",
+        "link": "https://blogs.windows.com/msedgedev/2026/07/07/new-in-edge-for-developers-style-layout-gaps-improve-keyboard-accessibility-and-migrate-your-pwa-to-a-new-origin",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 1016,
+        "source_url": "https://blogs.windows.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://winblogs.thesourcemediaassets.com/sites/33/2026/07/css-gap-decorations.png",
+        "title": "New in Edge for developers \u2013 Style layout gaps, improve keyboard accessibility and migrate your PWA to a new origin",
+        "vote": 0
+    }
+]

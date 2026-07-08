@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Learn Linux TV",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-07T14:32:56.611071+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-07T14:00:13+00:00",
+        "description": "Manually spinning up VMs in Proxmox gets old fast. In this video, I'm using Kestra (an open-source workflow automation platform) to automatically clone a VM template and start it, all without touching the Proxmox UI! You'll see the process of buiding the workflow, setting up the Proxmox API - and more! In this step-by-step video, you'll be able to build this for yourself.\n\n*Thanks to Kestra for supporting this tutorial!*\nYou can self-host it and automate entire workflows!\nhttps://learnlinux.link/kestra-pve\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*\ud83d\udd17Video-specific Links*\n\n- Check out Kestra \u279c https://learnlinux.link/kestra-pve\n- Official blog post for this video \u279c https://learnlinux.link/kestra-pve-blog\n- Kestra's Proxmox VE Plugin \u279c https://learnlinux.link/kestra-pve-plugin\n- Kestra \"Getting Started\" Tutorial \u279c https://linux.video/install-kestra\n- Get up to speed with Proxmox \u279c https://linux.video/proxmox\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*\ud83d\udcd6 Switch to Linux with my latest book! (Available Now!)*\n\nThinking about",
+        "id": 5918260,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=1PU9G6YQ6aU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 997,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxQKHvKbmSzGMvUrVtJYnUA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/1PU9G6YQ6aU/hqdefault.jpg",
+        "title": "Kestra's Proxmox Plugin: Create a Workflow to Easily Spin-Up VMs",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Efficient Engineer",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-07T15:09:22.627226+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-07T14:00:35+00:00",
+        "description": "Check out https://sendcutsend.com/efficientengineer/ to get custom parts delivered in just a few days.\n----\nOn September 9, 2010, a pipeline exploded in a residential neighborhood in San Bruno, California, killing 8 people and causing huge amounts of destruction. This video explores fracture mechanics - the main tool engineers use to predict and prevent this type of failure.\n----\nChapters:\n00:00 - The San Bruno Pipeline Explosion\n01:44 - Why Cracks are Dangerous\n03:21 - The Stress Intensity Factor\n06:32 - Fracture Toughness\n08:41 - Bridge Analysis\n09:44 - More Advanced Fracture Mechanics Methods\n10:50 - Crack Growth and Paris' Law\n13:20 - The Damage Tolerance Approach\n15:25 - Fracture Mechanics in the Pipeline Industry\n16:36 - What Happened at San Bruno?\n19:14 - SendCutSend\n----\nAttribution:\nAerial imagery from the USDA National Agriculture Imagery Program (NAIP), distributed by the U.S. Geological Survey.\nSatellite imagery from the Sentinel-2 satellite\n3d models:\n\"Burned-out Cars\" (h",
+        "id": 5918501,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=xKxHQ19sxkk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 808,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXAS_Ekkq0iFJ9dSUIkcAkw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/xKxHQ19sxkk/hqdefault.jpg",
+        "title": "Predicting Disaster with Fracture Mechanics",
+        "vote": 0
+    }
+]

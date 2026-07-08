@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kai Lentit",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-07T16:26:41.575679+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-07T14:40:58+00:00",
+        "description": "On-call Engineer\n\nInterview with an On-call engineer in 2026 with Walter Wallis - aired on \u00a9 The On-Call engineer.\nThank you to Hetzner for letting us film! All filmed under strict German supervision.\n\nWalter Wallis shares the stories of his on-call life and is being interrupted by test calls on his pager. Until one of them is not a test call.\n\nFeaturing @Mytechceo \n\nProgrammer humor\nProgramming jokes\nOncall Dance\nOn-call humor\nDevops \nPager duty\nCloud computing\nData center video\nData center tour\nOn-call life\nOn-prem migration\nSSL cert expired\nOne Dance\nKubernetes\nCloud engineering\nPrometheus\nObservability\n\n#programming #jokes #devops",
+        "id": 5919127,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=sY1UqUuBqQQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 264,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCi8C7TNs2ohrc6hnRQ5Sn2w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/sY1UqUuBqQQ/hqdefault.jpg",
+        "title": "On-call Engineer 2026",
+        "vote": 0
+    }
+]

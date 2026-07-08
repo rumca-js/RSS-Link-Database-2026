@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Gruber",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-07T16:43:43.071473+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-07T15:22:26+00:00",
+        "description": "<p>Sarah Perez, writing for TechCrunch:</p>\n\n<blockquote>\n  <p>With the latest iOS 27 developer beta, Apple is giving testers an\nearly look at one of the upcoming improvements to <a href=\"https://techcrunch.com/2026/06/08/apples-long-awaited-ai-siri-overhaul-is-finally-here/\">its AI-powered\nSiri</a>: the ability to adjust how quickly and expressively\nthe AI assistant speaks. In iOS 27 beta 3, out today, Apple has\nenabled the voice controls for \u201cPace\u201d and \u201cExpressivity\u201d that were\npreviously labeled as \u201cComing soon\u201d in the first developer beta\nreleases.</p>\n</blockquote>\n\n<p>I started running developer beta 1 on a spare iPhone the day it came at WWDC. It proved so stable, and Siri AI so useful, that I moved my primary iPhone 17 Pro to the iOS 27 betas with beta 2. But I\u2019ve more or less been living on iOS 27 developer betas for a month now. If you\u2019re as reckless as me, you\u2019re probably doing so already too. If you\u2019re not, you should probably at least wait for the public betas, the first o",
+        "id": 5919235,
+        "language": "",
+        "link": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 489,
+        "source_url": "https://daringfireball.com/feeds/main",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "OS 27 Developer Beta 3 Enables New \u2018Pace\u2019 and \u2018Expressivity\u2019 Sliders for Siri\u2019s New Voices",
+        "vote": 0
+    }
+]

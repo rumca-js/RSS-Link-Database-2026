@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unity",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-07T12:18:52.809544+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-07T11:57:16+00:00",
+        "description": "The free Internet of Things (IoT) sample project lets you experiment with visualizing real-time sensor data. It includes a virtual office with simulated sensors for occupancy, temperature, humidity, air quality, and light levels.\n\nUse the sample to learn how real-world data drives real-time 3D visualizations.\n\n\ud83d\udd17 Find more free Unity Learn resources: https://on.unity.com/Learn\n\n#GameDev #UnityTips #Unity3d #UnityLearn",
+        "id": 5917350,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/gseWXAy4uKI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 683,
+        "source_url": "https://youtube.com/channel/UCG08EqOAXJk_YXPDsAvReSg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/gseWXAy4uKI/hqdefault.jpg",
+        "title": "Visualize real-time sensor data",
+        "vote": 0
+    }
+]

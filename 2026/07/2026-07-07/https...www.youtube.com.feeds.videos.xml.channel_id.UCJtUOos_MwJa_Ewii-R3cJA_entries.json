@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Leila Gharani",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-07T12:23:14.110340+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-07T09:00:13+00:00",
+        "description": "Want to build reliable data models? Excel Data Modeling with Power Pivot & DAX  \ud83d\udc49 https://www.xelplus.com/course/excel-power-pivot-dax/\n\nMost people drop a file into ChatGPT, type \"analyze this,\" and call it a day. I wanted to know if the answer you get back is actually correct, so I gave it a sales workbook you would not wish on anyone.\n\nThe transaction sheet is just codes. No names, no categories, nothing readable. To get real numbers, ChatGPT had to look up product info, customer location, and purchase type from three separate master sheets, then do the math itself. No formulas existed anywhere in the file. It had to build everything from scratch.\n\n\u2b07\ufe0f DOWNLOAD the prompts here: https://www.xelplus.com/ai-excel-prompts/#download\n\nIn this video:\n- The exact guardrail prompt I used before letting ChatGPT touch the analysis\n- How I made it inspect the workbook first and flag missing values, duplicate transactions, and hidden sheets\n- Three quick checks I ran to confirm it understood th",
+        "id": 5917357,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=0PzmVXPdkuk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 957,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJtUOos_MwJa_Ewii-R3cJA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/0PzmVXPdkuk/hqdefault.jpg",
+        "title": "I Gave ChatGPT a Messy Excel File. Here's What Happened",
+        "vote": 0
+    }
+]

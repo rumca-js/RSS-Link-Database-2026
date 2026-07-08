@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "JRE Clips",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-07T18:59:59.922327+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-07T17:00:10+00:00",
+        "description": "Taken from JRE #2523 w/Ali Siddiq\nYouTube: https://youtu.be/uk2h9oBZctc\nJRE on Spotify: https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk",
+        "id": 5920396,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=2PUjfqWq0I4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 157,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnxGkOGNMqQEUMvroOWps6Q",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/2PUjfqWq0I4/hqdefault.jpg",
+        "title": "Ali Siddiq on Taking Mushrooms and Shared Psychedelic Experiences",
+        "vote": 0
+    }
+]
