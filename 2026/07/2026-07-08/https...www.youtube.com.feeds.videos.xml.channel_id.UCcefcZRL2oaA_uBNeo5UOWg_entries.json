@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-08T16:05:05.551840+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-08T14:00:19+00:00",
+        "description": "Eddie Kim is the co-founder and Head of Technology at Gusto (W12), a payroll and HR platform serving over 500,000 small businesses in the U.S. that recently crossed $1 billion in annual revenue \u2014 with one in five new businesses started today becoming Gusto customers. \n\nRecently, Eddie built Gusto Cofounder, a new AI product that automates recurring business processes end-to-end, all triggered through SMS or Slack without the business owner ever logging in. In this episode of Founder Firesides, Eddie sat down with YC Managing Partner Harj Taggar to explain how he built the first working prototype which was then turned into a shippable product by a team of five people in ten weeks.\n\nApply to Y Combinator: https://www.ycombinator.com/apply\nWork at a startup: https://www.ycombinator.com/jobs\n\nChapters:\n\n00:00 \u2014 Intro\n00:56 \u2014 AI as a glorified search engine\n02:41 \u2014 Solving the blank canvas problem\n03:53 \u2014 From hobby project to product idea\n05:27 \u2014 Why texting AI works\n07:06 \u2014 The missed fl",
+        "id": 5926913,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=xpeRVyFFy_Q",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/xpeRVyFFy_Q/hqdefault.jpg",
+        "title": "How A Prototype Built During A Missed Flight Became A New Gusto Product",
+        "vote": 0
+    }
+]

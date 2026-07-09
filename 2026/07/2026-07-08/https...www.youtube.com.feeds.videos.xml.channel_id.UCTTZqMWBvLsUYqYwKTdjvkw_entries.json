@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mateusz Chrobok",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-08T12:09:50.446646+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-08T10:18:15+00:00",
+        "description": "Przyznaj\u0119, \u017ce bywa to nieco do\u0142uj\u0105ce, gdy po\u015bwi\u0119casz X godzin na przemy\u015blenie, napisanie, nagranie i zmontowanie materia\u0142u, kt\u00f3ry p\u00f3\u017aniej nie niesie si\u0119 tak, jak tego oczekiwa\u0142e\u015b. \nAle od czego s\u0105 \u015bmieszne filmiki z mieczem \u015bwietlnym!",
+        "id": 5925321,
+        "language": "pl-PL",
+        "link": "https://www.youtube.com/shorts/_FyQrIdnRpw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 211,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTTZqMWBvLsUYqYwKTdjvkw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/_FyQrIdnRpw/hqdefault.jpg",
+        "title": "\ud83e\udd3a Test algorytmu 200% mocy",
+        "vote": 0
+    }
+]

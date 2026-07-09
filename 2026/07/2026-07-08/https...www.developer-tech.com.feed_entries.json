@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ryan Daws",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-08T16:05:43.556412+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-08T15:33:02+00:00",
+        "description": "<p>According to Socket, malicious payment SDK packages on npm and PyPI are harvesting developer credentials and CI/CD environment variables. Socket&#8217;s scanning infrastructure detected 17 malicious packages deployed across the npm and Python Package Index registries on 7 July 2026. The operators behind this campaign explicitly built the code to exploit engineering teams integrating PaySafe, Skrill, [&#8230;]</p>\n<p>The post <a href=\"https://www.developer-tech.com/news/socket-pypi-and-npm-payment-sdk-malware-compromises-ci-cd/\">Socket: PyPI and npm payment SDK malware compromises CI/CD</a> appeared first on <a href=\"https://www.developer-tech.com\">Developer Tech News</a>.</p>",
+        "id": 5926922,
+        "language": "en-GB",
+        "link": "https://www.developer-tech.com/news/socket-pypi-and-npm-payment-sdk-malware-compromises-ci-cd",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 92,
+        "source_url": "https://www.developer-tech.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Socket: PyPI and npm payment SDK malware compromises CI/CD",
+        "vote": 0
+    }
+]

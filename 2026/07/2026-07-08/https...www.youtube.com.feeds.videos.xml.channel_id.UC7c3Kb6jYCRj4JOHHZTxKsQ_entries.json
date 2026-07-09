@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "GitHub",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-08T21:36:04.026370+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-08T20:26:07+00:00",
+        "description": "Managing GitHub Copilot across a large enterprise requires flexible budgeting that aligns with your organizational structure. In this video, we show you how to map enterprise teams to cost centers so membership stays synchronized automatically. Learn how to configure cost center AI credit pools, apply user-level spending caps, and set up individual overrides for your power users. These features help you manage enterprise AI spending efficiently at scale. \n\n#GitHubCopilot #AI #GitHub \n\nStay up-to-date on all things GitHub by connecting with us:\n\nYouTube: https://gh.io/subgithub\nBlog: https://github.blog\nX: https://twitter.com/github\nLinkedIn: https://linkedin.com/company/github\nInsider newsletter: https://resources.github.com/newsletter/\nInstagram: https://www.instagram.com/github\nTikTok: https://www.tiktok.com/@github\n\nAbout GitHub\nIt\u2019s where over 180 million developers create, share, and ship the best code possible. It\u2019s a place for anyone, from anywhere, to build anything\u2014it\u2019s where",
+        "id": 5929508,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=AzuGe_cuCvg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 1005,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7c3Kb6jYCRj4JOHHZTxKsQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/AzuGe_cuCvg/hqdefault.jpg",
+        "title": "How to manage Copilot spend across your enterprise",
+        "vote": 0
+    }
+]

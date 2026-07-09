@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-08T13:57:14.102125+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-08T13:03:29+00:00",
+        "description": "Struggling to type React components correctly? This TypeScript React tutorial walks you through using TypeScript in real React projects, from typing useState to building reusable typed components, with hands-on challenges throughout.\n\n\u270f\ufe0f Study this course interactively on Scrimba: https://scrimba.com/learn-typescript-c03c?via=scrimbafcc\nCode is available on the Scrimba course page for each lesson.\n\nTypeScript makes React code safer and more predictable. In this module, you'll learn how to type useState, component props, JSX elements, and function props through practical lessons. Perfect for developers who know React basics and want to add TypeScript to their workflow.\nThis isn't just a watch-and-learn tutorial. You'll complete real coding challenges, including building the AriaLiveStatus and WordLetters components from scratch.\n\nTimestamps\n- 00:00 Welcome to TypeScript and React! \n- 01:51 Setting up the React Project \n- 05:02 TS Refresher - Basic & Custom Types \n- 08:31 TS Refresher -",
+        "id": 5926067,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=aJP1AbZSqz8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/aJP1AbZSqz8/hqdefault.jpg",
+        "title": "TypeScript in React - Full Tutorial",
+        "vote": 0
+    }
+]

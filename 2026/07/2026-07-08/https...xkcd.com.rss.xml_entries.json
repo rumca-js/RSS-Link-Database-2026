@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-08T20:01:09.031414+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-08T04:00:00+00:00",
+        "description": "<img src=\"https://imgs.xkcd.com/comics/airport_meeting.png\" title=\"Although it was a setback for physics, I'm glad the particle naming rights issue led to the cancelation of Pizza Hut's Superconducting Super Collider in the early 90s, so the Double Stuffed Extra Cheese Topping Quark ended up just being named 'top quark.'\" alt=\"Although it was a setback for physics, I'm glad the particle naming rights issue led to the cancelation of Pizza Hut's Superconducting Super Collider in the early 90s, so the Double Stuffed Extra Cheese Topping Quark ended up just being named 'top quark.'\" />",
+        "id": 5928809,
+        "language": "en",
+        "link": "https://xkcd.com/3269",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 573,
+        "source_url": "https://xkcd.com/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://imgs.xkcd.com/comics/airport_meeting.png",
+        "title": "Airport Meeting",
+        "vote": 0
+    }
+]

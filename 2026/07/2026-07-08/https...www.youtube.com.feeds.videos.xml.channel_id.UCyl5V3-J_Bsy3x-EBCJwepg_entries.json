@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Babylon Bee",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-08T20:18:06.622398+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-08T20:15:06+00:00",
+        "description": "Women being logical? We asked AI to run a simulation to see what that might look like.\n\nOur sponsor is Bikini Zone ( promocode: BEEKINIZONE ): https://www.amazon.com/Bikini-Zone-Medicated-Gel-Oz/dp/B01MSHGPJI\n\nJust head over to Amazon and use code BEEKINIZONE at checkout to grab your discount.",
+        "id": 5928909,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=8fWbTVrv7yQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 31,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCyl5V3-J_Bsy3x-EBCJwepg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/8fWbTVrv7yQ/hqdefault.jpg",
+        "title": "We Asked AI To Simulate If Women Were Logical",
+        "vote": 0
+    }
+]

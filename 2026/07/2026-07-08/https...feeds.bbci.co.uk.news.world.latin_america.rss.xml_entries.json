@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-08T11:59:58.615666+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-08T10:56:55+00:00",
+        "description": "While Cuban officials said that power had been mostly restored, those still left in the dark vented their anger.",
+        "id": 5925221,
+        "language": "en-gb",
+        "link": "https://www.bbc.co.uk/news/articles/cm20g0d3ry4o",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 524,
+        "source_url": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60ff/live/24425700-7ab6-11f1-9f11-71e192f5293a.jpg",
+        "title": "Cubans protest after third nationwide power cut this year",
+        "vote": 0
+    }
+]

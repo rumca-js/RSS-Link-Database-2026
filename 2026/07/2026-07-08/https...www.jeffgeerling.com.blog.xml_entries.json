@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-08T15:10:04.258893+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-08T09:00:00+00:00",
+        "description": "<figure class=\"insert-image\"><img src=\"https://www.jeffgeerling.com/blog/2026/special-value-pi-4-extremely-short-lived/special-value-pi-4-4gb.jpg\"\n alt=\"Special Value Pi 4 4GB in hand\" width=\"700\" height=\"auto\">\n</figure>\n\n<p>The 'Special Value' Pi 4 pictured above is probably the rarest Raspberry Pi I own\u2014even rarer than my <a href=\"https://www.jeffgeerling.com/blog/2025/limited-time-flavor-blue-raspberry-pi/\">blue special edition Pi</a>.</p>\n<p>A Raspberry Pi reseller <a href=\"https://www.cnx-software.com/2026/06/26/discounted-1-25-ghz-raspberry-pi-4-model-b/\">briefly listed a special 'value edition' Pi 4</a>. But the product page 404's now. While it was up, my curiosity got the better of me, and now I have two 'value' Pi 4s.</p>\n<p>What makes them a 'value'? They're only certified to run at 1.25 GHz (retail Pi 4s run at 1.8 GHz, and can usually be overclocked).</p>",
+        "id": 5926488,
+        "language": "en",
+        "link": "https://www.jeffgeerling.com/blog/2026/special-value-pi-4-extremely-short-lived",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 162,
+        "source_url": "https://www.jeffgeerling.com/blog.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.jeffgeerling.com/blog/2026/special-value-pi-4-extremely-short-lived/special-value-pi-4-4gb.jpg",
+        "title": "The Special Value Pi 4 was extremely short-lived",
+        "vote": 0
+    }
+]

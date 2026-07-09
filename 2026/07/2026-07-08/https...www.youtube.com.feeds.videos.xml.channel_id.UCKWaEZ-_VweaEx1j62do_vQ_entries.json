@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-08T10:29:40.470769+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-08T10:00:20+00:00",
+        "description": "Explore the podcast \u2192 https://ibm.biz/~gP3tYd3Ta\n\nWhen it comes to Fable 5, Mythos 5, and GPT-5.6 Sol, the real story is in the safeguards.\n\nLast week, Anthropic and OpenAI both rolled out some powerful new models. And for perhaps the first time, the protections surrounding these models got almost as much airtime as the models\u2019 themselves. \n\nOn this week\u2019s episode of IBM Security Intelligence, Sophie Cunningham, Diego Matos Martins and Jeff Crume join host Matt Kosinski to talk about an emerging paradigm in frontier models: Safety first. What\u2019s gained and what\u2019s lost when security controls take center stage? And just how effective are the ones we\u2019ve developed?\n\nThen, we dive into Sysdig\u2019s report on JADEPUFFER, the first agentic ransomware. But not every security expert agrees with that conclusion. So where do we land? \nPlus: ClickFix is the new king of social engineering schemes\u2014and it\u2019s coming for your developers.\n\nFinally, Senior Threat Researcher Itzhak Chimino shares his technical",
+        "id": 5924687,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=HQDT_1OXUuU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/HQDT_1OXUuU/hqdefault.jpg",
+        "title": "Fable 5, GPT-5.6 and the high stakes of AI safeguards. Agentic ransomware, ClickFix reigns supreme",
+        "vote": 0
+    }
+]

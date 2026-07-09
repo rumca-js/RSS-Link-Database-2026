@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Marques Brownlee",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-08T21:05:12.095803+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-08T19:44:58+00:00",
+        "description": "Apple lost the AI race. Actually, Apple won the AI race. Wait.\n\nThat shirt: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+        "id": 5929242,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=eWKY0OnPByg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 210,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCBJycsmduvYEL83R_U4JriQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/eWKY0OnPByg/hqdefault.jpg",
+        "title": "Apple Lost the AI Race",
+        "vote": 0
+    }
+]

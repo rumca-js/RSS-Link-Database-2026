@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Adel El Hallak",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-08T17:51:58.155363+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-08T15:00:27+00:00",
+        "description": "NVIDIA Nemotron 3 Ultra is offering leading performance at lower cost than top closed models with the largest and most widely adopted AI agent orchestration platform.\u00a0 LangChain tuned its Deep Agents harness for NVIDIA Nemotron 3 Ultra, achieving the highest accuracy among open models, while completing more tasks at higher throughput and running at 10x [&#8230;]",
+        "id": 5927885,
+        "language": "en-US",
+        "link": "https://blogs.nvidia.com/blog/nemotron-langchain-agents-open-stack",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 1019,
+        "source_url": "https://feeds.feedburner.com/nvidiablog",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://blogs.nvidia.com/wp-content/uploads/2026/07/Nemotron_LangChain-842x450.jpg",
+        "title": "NVIDIA Nemotron Achieves Benchmark-Leading Performance With LangChain Deep Agents Harness",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeff Geerling",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-08T15:40:59.387422+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-08T14:00:05+00:00",
+        "description": "The Special Value Pi 4 was only for sale for a week. Right after I bought one, it was gone! What made it a 'special value', anyway?\n\nHere's where I first heard about these 'Special Value' Pi 4s: https://www.cnx-software.com/2026/06/26/discounted-1-25-ghz-raspberry-pi-4-model-b/\n\nSupport me on Patreon: https://www.patreon.com/geerlingguy\nSponsor me on GitHub: https://github.com/sponsors/geerlingguy\nMerch: https://www.redshirtjeff.com\n2nd Channel: https://www.youtube.com/@GeerlingEngineering\n3rd Channel: https://www.youtube.com/@Level2Jeff",
+        "id": 5926716,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=o4Lcg3YBYzg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 161,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR-DXc1voovS8nhAvccRZhg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/o4Lcg3YBYzg/hqdefault.jpg",
+        "title": "The Raspberry Pi I wasn't supposed to buy",
+        "vote": 0
+    }
+]
