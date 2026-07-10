@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-09T15:35:42.621502+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-09T14:00:05+00:00",
+        "description": "One of the biggest mistakes founders make is relying on aggregate user metrics instead of understanding how any individuals use their product. In this episode of Startup School, YC General Partner David Lieb walks through one of his favorite tools for better understanding your users, the dot plot. It\u2019s a simple two-dimensional grid that maps individual user activity over time and it can help separate signal from the noise in the early days of a startup. He\u2019ll cover why it gives founders a better sense of product health compared to aggregate metrics, what patterns to look for and real-world examples of how dot plots helped teams at Google Photos and PayPal.\n\n00:00 \u2014 Stop Looking at Aggregate Metrics\n00:52 \u2014 Why DAUs Lie to You\n01:39 \u2014 What is a Dot Plot and How Does it Work?\n02:50 \u2014 Picking the Right Event to Track\n03:34 \u2014 Reading Patterns in the Dots\n05:17 \u2014 Tracking User State & Attributes\n06:16 \u2014 The PayPal Fraud Insight\n07:59 \u2014 Dot Plot vs. DAU Graph\n08:56 \u2014 Finding Features That D",
+        "id": 5934697,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=e5-6rEwzxLs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/e5-6rEwzxLs/hqdefault.jpg",
+        "title": "See How Customers Actually Use Your Product",
+        "vote": 0
+    }
+]

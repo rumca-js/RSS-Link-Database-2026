@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Babylon Bee",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-10T00:08:49.064074+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-09T21:30:06+00:00",
+        "description": "Rumors swirl about the current condition of Senator Mitch McConnell, but his staff have come out to say that even if he were dead he will still be able to finish his term.",
+        "id": 5938057,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=a8gc294EfB4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 31,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCyl5V3-J_Bsy3x-EBCJwepg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/a8gc294EfB4/hqdefault.jpg",
+        "title": "Senator Mitch McConnell's Staff Say His Death Will Not Prevent Him From Finishing His Term",
+        "vote": 0
+    }
+]

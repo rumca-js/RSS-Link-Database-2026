@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-09T18:09:22.737423+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-09T17:13:00+00:00",
+        "description": "Violent protests are threating to spiral out of control in India after the rape and murder of a 12-year-old girl.",
+        "id": 5935861,
+        "language": "en-US",
+        "link": "https://news.sky.com/story/protests-threaten-to-spiral-out-of-control-in-india-after-rape-and-murder-of-12-year-old-girl-saw-innocent-man-killed-13562029",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 305,
+        "source_url": "https://feeds.skynews.com/feeds/rss/world.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://e3.365dm.com/26/07/1920x1080/skynews-baruipur-ballygung_7293813.jpg?20260709160101",
+        "title": "Protests threaten to spiral out of control after rape and murder of girl, 12, in India",
+        "vote": 0
+    }
+]

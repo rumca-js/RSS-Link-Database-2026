@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Branch Education",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-09T18:42:49.559608+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-09T17:18:38+00:00",
+        "description": "When you zoom into a CPU, SoC, or any microchip in general, you'll find a nanoscopic sea of transistors, each just a few nanometers wide, grouped into logic gates called standard cells. To wire a full processor together, it takes 18 stacked layers upon layers of intricate wiring with the  transistors at the bottom and then progressively larger wires up top \u2014 all connected vertically by vias.\n\nWatch the full video to see how it all fits together. \ud83d\udd2chttps://youtu.be/_Pqfjer8-O4\n\n#semiconductors #chips #engineering #howitworks #technology #smartphone #transistors #computerscience",
+        "id": 5936183,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/Bez-2cvYja0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 841,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCdp4_l1vPmpN-gDbUwhaRUQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/Bez-2cvYja0/hqdefault.jpg",
+        "title": "Zooming Into a CPU (It's Incredible)",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Craft Computing",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-09T18:34:32.192864+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-09T16:55:12+00:00",
+        "description": "Today's video is not sponsored, but do go check out our Open-Source SNMP Temperature and Humidity Sensors over at https://openviro.com. They'll be available for purchase in the next few weeks exclusively from https://mouser.com, so stay tuned for updates!\n\nOr grab yourself a Pint Glass at https://craftcomputing.store\n\nFollow me on Bluesky @CraftComputing.bsky.social\n\nEarlier this week, AMD pulled the curtain off of their \"all new\" Ryzen AI Halo Developer Platform. The hardware, we've seen before... it's just Strix Halo in a first-party enclosure. The Software though got some MAJOR attention from AMD, and I think deserves your full attention as well.\n\nBut first... What am I drinking???\n\nFounders All Day IPA (4.7%)\n\n*Links to items below may be affiliate links for which I may be compensated*\n\nCheck out the AMD Ryzen AI Halo Developer Platform: https://www.microcenter.com/product/711962/amd-ryzen-ai-halo-developer-platform-windows-11-pro\n\nMinisforum MS-S1 Strix Halo: https://amzn.to/4vZS",
+        "id": 5936124,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=VSoR-MLpFRU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 909,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCp3yVOm6A55nx65STpm3tXQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/VSoR-MLpFRU/hqdefault.jpg",
+        "title": "Making AMD's Ryzen AI Halo Do Work",
+        "vote": 0
+    }
+]

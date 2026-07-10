@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Tomasz Turba",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-09T12:08:04.166127+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-09T11:56:26+00:00",
+        "description": "<p>Wykrycie zagro\u017cenia to dopiero pocz\u0105tek. Nawet najlepszy alert nie zatrzyma atakuj\u0105cego, je\u017celi za jego wygenerowaniem nie p\u00f3jdzie szybka i adekwatna reakcja. Wazuh mo\u017ce nie tylko zbiera\u0107 logi i wykrywa\u0107 podejrzane zdarzenia. Dzi\u0119ki mechanizmom Active Response, w\u0142asnym skryptom oraz integracjom z zewn\u0119trznymi systemami mo\u017ce r\u00f3wnie\u017c automatycznie blokowa\u0107 atakuj\u0105cych, izolowa\u0107 zagro\u017cone urz\u0105dzenia,...</p>\n<p>Artyku\u0142 <a href=\"https://sekurak.pl/zastosowanie-wazuha-w-reagowaniu-na-incydenty-top-10-rozwiazan-od-sekuraka/\">Zastosowanie Wazuha w reagowaniu na incydenty. TOP 10 rozwi\u0105za\u0144 od sekuraka</a> pochodzi z serwisu <a href=\"https://sekurak.pl\">Sekurak</a>.</p>",
+        "id": 5933135,
+        "language": "pl-PL",
+        "link": "https://sekurak.pl/zastosowanie-wazuha-w-reagowaniu-na-incydenty-top-10-rozwiazan-od-sekuraka",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 300,
+        "source_url": "https://sekurak.pl/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Zastosowanie Wazuha w reagowaniu na incydenty. TOP 10 rozwi\u0105za\u0144 od sekuraka",
+        "vote": 0
+    }
+]

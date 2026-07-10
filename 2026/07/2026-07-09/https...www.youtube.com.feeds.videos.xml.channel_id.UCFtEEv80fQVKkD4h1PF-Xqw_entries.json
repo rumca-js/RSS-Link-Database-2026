@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Microsoft",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-09T09:04:49.310202+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-09T07:45:24+00:00",
+        "description": "Say how you feel. Get a poem that meets you there.\u00a0\n\u00a0\nOde is a voice experience built around William Sieghart, who has spent years matching poems to people's emotions through personal conversations with them.\u00a0\n\u00a0\nNow that experience is available to anyone. Speak in your own words. It listens and adapts to you. A poem finds you.\u00a0\n\u00a0\nEach poem comes from a curated library and is read aloud by real actors, keeping human creativity at the center.\u00a0\n\u00a0\nPowered by Microsoft AI voice and transcription models, the conversation feels natural, responsive, and personal.\u00a0\n\u00a0\nTry it: https://odepoetry.ai",
+        "id": 5932026,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=hnLxZYDb4z0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 793,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFtEEv80fQVKkD4h1PF-Xqw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/hnLxZYDb4z0/hqdefault.jpg",
+        "title": "Ode Poetry Experience | Powered by MAI models",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ryan Daws",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-09T16:00:17.963756+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-09T15:09:27+00:00",
+        "description": "<p>IBM and Red Hat have launched Lightwell to automate vulnerability remediation across enterprise open-source software deployments. The commercial release introduces Lightwell Network and Lightwell Clearinghouse Premier, targeting application-layer vulnerabilities within production environments. The platform supplies pre-validated, digitally signed dependencies across major programming ecosystems, launching with support for Java and Python. Overcoming the upstream upgrade deadlock [&#8230;]</p>\n<p>The post <a href=\"https://www.developer-tech.com/news/ibm-and-red-hat-automate-open-source-vulnerability-remediation/\">IBM and Red Hat automate open-source vulnerability remediation</a> appeared first on <a href=\"https://www.developer-tech.com\">Developer Tech News</a>.</p>",
+        "id": 5934879,
+        "language": "en-GB",
+        "link": "https://www.developer-tech.com/news/ibm-and-red-hat-automate-open-source-vulnerability-remediation",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 92,
+        "source_url": "https://www.developer-tech.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "IBM and Red Hat automate open-source vulnerability remediation",
+        "vote": 0
+    }
+]

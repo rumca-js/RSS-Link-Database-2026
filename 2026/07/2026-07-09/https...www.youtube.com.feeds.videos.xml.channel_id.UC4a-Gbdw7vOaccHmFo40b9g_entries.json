@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Khan Academy",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-09T16:27:54.417774+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-09T12:56:41+00:00",
+        "description": "Courses on Khan Academy are always 100% free. Start practicing\u2014and saving your progress\u2014now. https://www.khanacademy.org/science/ap-physics-c-mechanics\n\nApplying Newton\u2019s second law to a moving object experiencing kinetic friction results in a differential equation for velocity. The differential equation can be solved to find the object\u2019s velocity as a function of time. The velocity function can then be used to find the object\u2019s acceleration and position as functions of time through differentiation and integration, respectively. The force is constant while the object moves, so we find the velocity function is linear and the position function is quadratic.\n\nSections:\n00:00 - Intro\n00:33 - Kinetic friction\n03:08 - Drawing the free-body diagram\n04:56 - Finding the acceleration function\n06:24 - Finding the velocity function\n09:46 - Finding the position function\n12:32 - Summary\n\n------------------\n\nKhan Academy is a nonprofit organization with the mission of providing a free, world-class e",
+        "id": 5935091,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=T3UBiY4sHKA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 977,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4a-Gbdw7vOaccHmFo40b9g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/T3UBiY4sHKA/hqdefault.jpg",
+        "title": "Motion as a function of time: Friction example | AP Physics | Khan Academy",
+        "vote": 0
+    }
+]

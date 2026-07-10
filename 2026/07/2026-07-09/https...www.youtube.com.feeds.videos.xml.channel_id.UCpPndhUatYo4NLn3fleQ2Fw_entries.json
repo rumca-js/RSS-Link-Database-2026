@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "HRejterzy",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-09T13:01:07.435747+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-09T11:28:45+00:00",
+        "description": "Szymon Szcz\u0119\u015bniak (JSON) oprowadza Was z kamer\u0105 po niemal wszystkich biurach CodeTwo. Bez \u017cart\u00f3w, bez scenariusza. Niemal czysty spontan!\n\nJe\u015bli chcesz z nami pracowa\u0107: https://www.codetwo.pl/praca/",
+        "id": 5933478,
+        "language": "pl",
+        "link": "https://www.youtube.com/watch?v=d6q83w1R0K4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 465,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCpPndhUatYo4NLn3fleQ2Fw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/d6q83w1R0K4/hqdefault.jpg",
+        "title": "Szymon Szcz\u0119\u015bniak (JSON) oprowadza Was z kamer\u0105 po biurach CodeTwo",
+        "vote": 0
+    }
+]

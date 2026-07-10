@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Blog Staff",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-09T20:35:46.587149+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-09T20:14:54+00:00",
+        "description": "<p>\n\t<img alt=\"SANDOR_DARGO_ROUND.JPG\" src=\"https://isocpp.org/files/img/SANDOR_DARGO_ROUND.JPG\" style=\"width: 200px; margin: 10px; float: right; height: 204px;\" />C++26 completes the type-erased callable wrapper picture. <code>std::copyable_function</code> gives us what <code>std::function</code> should have been from the start: a copyable wrapper with correct const semantics. <code>std::function_ref</code> fills the non-owning niche, offering a lightweight, zero-allocation alternative for callback parameters. Together with <code>std::move_only_function</code>, there&rsquo;s no longer a reason to reach for <code>std::function</code> in new code.</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://www.sandordargo.com/blog/2026/05/20/cpp26-copyable-function\">C++26: More function wrappers</a></h3>\n\t<p>\n\t\tby Sandor Dargo</p>\n</blockquote>\n<p>\n\tFrom the article:</p>\n<blockquote>\n\t<p>\n\t\tC++26 continues to fill the gaps in our type-erased callable wrapper story. We already had <code>std::function</co",
+        "id": 5936881,
+        "language": "en",
+        "link": "https://isocpp.org//blog/2026/07/cpp26-more-function-wrappers-sandor-dargo",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://isocpp.org/files/img/SANDOR_DARGO_ROUND.JPG",
+        "title": "C++26: More function wrappers -- Sandor Dargo",
+        "vote": 0
+    }
+]
