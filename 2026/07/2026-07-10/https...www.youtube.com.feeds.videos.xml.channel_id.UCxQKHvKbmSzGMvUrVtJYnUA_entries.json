@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Learn Linux TV",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-10T16:33:48.884151+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-10T14:00:17+00:00",
+        "description": "If you've ever rebooted a Linux server and had it fail to come back up, there's a good chance the culprit is sitting right in your /etc/fstab file. Device names like /dev/sda1 can shift after a reboot, a drive swap, or even a kernel update \u2014 and when that happens, your mounts break and your server may not boot at all. In this video, I break down why UUIDs matter for Linux storage, and I show you a real production server that ran into exactly this problem.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*\ud83d\udcd6 Switch to Linux with my latest book! (Available Now!)*\n\nThinking about making the jump to Linux? This step-by-step guide will help you choose the right distribution, install Linux with confidence! Purchase your copy here:\nhttps://learnlinux.link/switch-to-linux\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*\ud83d\udc27 Save up to 30% on Linux Foundation Certifications*\n\nWhether you're starting a Linux career or advancing your existing skills, Linux Foundation training can help you stand out in a competitive industry. Check out the availab",
+        "id": 5942713,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=4gHjXV5vrn4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 997,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxQKHvKbmSzGMvUrVtJYnUA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/4gHjXV5vrn4/hqdefault.jpg",
+        "title": "Why You NEED UUIDs in fstab (Linux Storage Explained)",
+        "vote": 0
+    }
+]

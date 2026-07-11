@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-10T15:15:06.005052+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-10T14:00:10+00:00",
+        "description": "YC Head of Design Eve Bouffard doesn't use her keyboard to design anymore. Instead she builds entire new products and websites simply by talking to her computer using voice prompts. In this episode of Design Review, YC's Aaron Epstein sat down with Eve to discuss how she's pushing the boundaries of AI-native design through three recent projects: Paxel, SOTA Zine, and Startup School 2026. They cover why a detailed soul.md file is the difference between generic AI output and designs that are genuinely original, the emerging pattern of building both a human and machine version of every website, and why custom shaders have become her favorite new design tool.\n\nChapters:\n00:00 \u2014 AI Design Toolkit: Conductor, Paper Design, & Voice\n01:27 \u2014 Project 1: Paxel \u2014 Spotify Wrapped for Coding Sessions\n04:13 \u2014 Building the Paxel Landing Page\n05:23 \u2014 Custom Shader Fine-Tuning Tools\n07:13 \u2014 Designing for Humans vs. Machines\n08:31 \u2014 \"Send to an Agent\" Feature Request Forms\n10:18 \u2014 The Future of Locally ",
+        "id": 5942114,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=VbqaL_eHhKY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/VbqaL_eHhKY/hqdefault.jpg",
+        "title": "New Ways To Design With AI Tools",
+        "vote": 0
+    }
+]

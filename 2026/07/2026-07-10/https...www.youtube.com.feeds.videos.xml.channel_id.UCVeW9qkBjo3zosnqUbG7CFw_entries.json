@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Hammond",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-10T16:39:09.999738+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-10T15:01:39+00:00",
+        "description": "A fake Microsoft security module? Not quite.\n\nThis phishing page tries to convince users they need to install a \"Microsoft security module\" before they can continue. The download is actually a batch script named Microsoft.bat, a simple but effective social engineering trick.\n\nWatch the full investigation to see how this campaign works from the Google ad all the way through the malware analysis.\n\nFull video: https://youtu.be/NIi4i9IjshM?si=xBA1adt1tjFJfnIH",
+        "id": 5942750,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/0z5F68gIb2Q",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 959,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVeW9qkBjo3zosnqUbG7CFw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/0z5F68gIb2Q/hqdefault.jpg",
+        "title": "Fake Microsoft Installer",
+        "vote": 0
+    }
+]

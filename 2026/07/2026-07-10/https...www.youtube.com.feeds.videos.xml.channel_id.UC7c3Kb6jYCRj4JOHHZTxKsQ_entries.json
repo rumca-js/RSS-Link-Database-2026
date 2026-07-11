@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "GitHub",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-10T15:26:25.862507+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-10T15:00:38+00:00",
+        "description": "Welcome to another episode of The Download! This week, we cover the general availability of the GitHub Copilot app, which now supports free and education plans alongside the bring your own key feature. We also dive into the new GitHub issue fields that let you track structured metadata across your repositories. Plus, we explore the latest JavaScript methods and the brand-new HTTP query method. Check the links below to learn more about GitHub Universe happening this October.\n\n#DevNews #GitHubCopilot #GitHubUniverse \n\n\u2014 CHAPTERS \u2014  \n\n0:00 Welcome to the Download \n0:32 GitHub Copilot app updates \n0:56 GitHub issue fields are generally available \n1:29 GitHub Universe is coming to San Francisco \n1:53 New JavaScript methods in ECMAScript \n2:26 The new HTTP query method \n3:14 Wrapping up \n\n\u2014 RESOURCES\u2014 \n\nGitHub Copilot app on all plans   \nhttps://github.blog/changelog/2026-07-07-github-copilot-app-available-to-all/ \n\nIssue fields are now generally available   \nhttps://github.blog/changelog/2",
+        "id": 5942190,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=ZOqn2ZfoRQk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 1005,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7c3Kb6jYCRj4JOHHZTxKsQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/ZOqn2ZfoRQk/hqdefault.jpg",
+        "title": "The Download: GitHub Copilot app, GitHub Universe, new HTTP query method & more",
+        "vote": 0
+    }
+]

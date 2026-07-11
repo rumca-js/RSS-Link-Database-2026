@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Google DeepMind",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-10T18:35:43.675262+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-10T15:50:55+00:00",
+        "description": "What if you were to peer inside the \u2018mind\u2019 of AI? You wouldn't find fully formed thoughts, just vast arrays of numbers. In this episode, Professor Hannah Fry is joined by Neel Nanda, to shine a light on an ongoing open area of research, interpretability. Neel and his team are trying to do something phenomenally difficult: understand an intelligence that didn't come with a manual. \n\nTogether, they explore the cutting-edge \"neuroscience\" of artificial intelligence\u2014revealing the surprising, elegant structures being discovered inside these networks (like spare auto encoders), the inherent limits of looking under the hood, and why interpretability is absolutely essential if we are to build safe, aligned and trustworthy AI as we move towards AGI.\n\nLearn more about this area of research via https://deepmind.google/ \n\n00:00 Introduction \n02:41 Motivation for interpretability research\n04:01 Mechanistic interpretability \n08:14 Chain of thought monitoring \n18:14 Interpretability techniques \n35:0",
+        "id": 5943617,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=1DtMiRKg-cs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 934,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP7jMXSY2xbc3KCAE0MHQ-A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/1DtMiRKg-cs/hqdefault.jpg",
+        "title": "Understanding the inner thoughts of AI",
+        "vote": 0
+    }
+]

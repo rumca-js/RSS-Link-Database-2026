@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-10T18:26:54.127783+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-10T14:52:54+00:00",
+        "description": "Visit Mixture of Experts podcast page to get more AI content \u2192 https://ibm.biz/~mTLxSXeSX\n\nCan you trade GPU compute like oil futures? This week on Mixture of Experts, host Tim Hwang is joined by Mihai Criveti, Rynne Whitnah and Gabe Goodhart. First, we explore Reddit's aggressive new strategy to combat AI-generated spam and bots threatening platform authenticity. Next, we dive deep into Anthropic's Economic Index from June 2026. The report reveals how people actually use AI assistant Claude throughout their day, from homework help to weekend game development. \nThen, we analyze Orn's $33 million raise to create a liquid marketplace for buying and selling compute power. Is GPU compute the new commodity market? Finally, Anthropic enters the chip race with potential Samsung partnership. We debate whether frontier labs can successfully build their own hardware and reduce NVIDIA dependency.\n \nListen to this week\u2019s Mixture of Experts for more!\n\n00:00 \u2013 Introduction\n01:09 \u2013 Reddit's AI spam ",
+        "id": 5943574,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=WHFLWrnFc1E",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/WHFLWrnFc1E/hqdefault.jpg",
+        "title": "Reddit cracks down on AI slop & the future of AI compute",
+        "vote": 0
+    }
+]

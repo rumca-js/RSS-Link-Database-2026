@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-10T11:23:17.776787+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-10T07:00:00+00:00",
+        "description": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
+        "id": 5940628,
+        "language": "en",
+        "link": "https://openai.com/index/deutsche-telekom",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 953,
+        "source_url": "https://openai.com/news/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "How Deutsche Telekom is rewiring telecommunications with AI",
+        "vote": 0
+    }
+]

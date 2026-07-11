@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-10T11:10:42.297459+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-10T10:15:24+00:00",
+        "description": "Explore the history behind Dijkstra\u2019s algorithm and why it became one of the most important ideas in computer science. You\u2019ll see how the algorithm works step by step, using weighted graphs to find the shortest path efficiently.\n\nThis video was developed by @codingwithestefania \n\n\u2764\ufe0f Support for this channel comes from our friends at Scrimba \u2013 the coding platform that's reinvented interactive learning: https://scrimba.com/freecodecamp\n\nChapters\n00:00 Introduction to Edsger W. Dijkstra\n01:08 The 20-Minute Invention\n03:31 What is an Algorithm?\n04:16 Graph Theory (Nodes and Edges)\n05:20 Understanding Edge Weights\n06:27 Step-by-Step Practical Example\n12:04 The Greedy Algorithm Concept\n12:25 Python Code: Graph Representation\n13:44 Python Code: The Dijkstra Function\n18:23 Python Code: Recreating the Shortest Path\n20:19 Dijkstra's Legacy and Simplicity\n\n\ud83c\udf89 Thanks to our Champion and Sponsor supporters:\n\ud83d\udc7e @omerhattapoglu1158\n\ud83d\udc7e @goddardtan\n\ud83d\udc7e @akihayashi6629\n\ud83d\udc7e @kikilogsin\n\ud83d\udc7e @anthonycampbell2148\n\ud83d\udc7e",
+        "id": 5940551,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=n1VUnHD62r0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/n1VUnHD62r0/hqdefault.jpg",
+        "title": "The 20 Minute Masterpiece: Dijkstra's Algorithm",
+        "vote": 0
+    }
+]
