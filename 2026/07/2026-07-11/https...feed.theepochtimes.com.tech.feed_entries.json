@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Matthew Vadum",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-11T02:01:27.224587+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-11T01:45:40+00:00",
+        "description": "Apple is suing its corporate business partner for damages for breach of contract, and is seeking injunctions.",
+        "id": 5945844,
+        "language": "en-US",
+        "link": "https://www.theepochtimes.com/us/apple-suing-openai-2-ex-employees-for-allegedly-stealing-trade-secrets-6060360",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 105,
+        "source_url": "https://feed.theepochtimes.com/tech/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.theepochtimes.com/assets/uploads/2026/05/01/id6019979-CP27168623-1080x720.jpg",
+        "title": "Apple Suing OpenAI, 2 Ex-Employees, for Allegedly Stealing Trade Secrets",
+        "vote": 0
+    }
+]

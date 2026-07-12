@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jordan B Peterson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-11T19:19:03.505558+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-11T16:00:30+00:00",
+        "description": "Excerpt from Dr. Jordan B. Peterson\u2019s new course, Nietzsche: Further Down the Rabbit Hole, available on Peterson Academy.",
+        "id": 5949153,
+        "language": "en-US",
+        "link": "https://www.youtube.com/shorts/CdcgoZHBGHQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 167,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCL_f53ZEJxp8TtlOkHwMV9Q",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/CdcgoZHBGHQ/hqdefault.jpg",
+        "title": "Meaning That Sustains Life",
+        "vote": 0
+    }
+]

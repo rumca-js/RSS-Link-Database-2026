@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Lon.TV",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-11T23:58:18.902029+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-11T22:45:07+00:00",
+        "description": "Find an ATSC 3.0 tuner on amazon: https://lon.tv/m2flo (compensated affiliate link) - ATSC 3.0 tuners often require Internet connections to view live, over the air television. In this video I had Chat GPT 5.6 Sol generate a packet inspection tool to monitor the ADTH box and Zapperbox in realtime to see what data gets reported back to the mothership. See more ATSC 3.0 Tuners - https://www.youtube.com/playlist?list=PLCZHp4d1HnItrNhXon_xcr_kpgLM57j3D and subscribe to my email list! http://lon.tv/email and the channel - http://lon.tv/s\n\nVIDEO INDEX:\n00:00 - Intro\n00:47 - Methodology\n02:57 - ADTH - ATSC 1.0 Telemetry\n04:34 - Marker 2\n04:59 - ADTH - DRM ATSC 3.0 Channel\n05:57 - ADTH : Interactive TV Telemetry\n10:19 - Zapperbox: ATSC 3.0 DRM Channel\n12:33 - Zapperbox: Unecrypted ATSC 3.0\n12:59 - Zapperbox: ATSC 1.0 channel\n13:37 - Conclusion\n\nVisit my Blog! https://blog.lon.tv\n\nSubscribe to my email lists! \nWeekly Breakdown of Posted Videos:  - https://lon.tv/email\nDaily Email From My Blog P",
+        "id": 5950170,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=w6rRIAR2bms",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 199,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCymYq4Piq0BrhnM18aQzTlg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/w6rRIAR2bms/hqdefault.jpg",
+        "title": "Is Your ATSC 3.0 Box Spying On You?",
+        "vote": 0
+    }
+]

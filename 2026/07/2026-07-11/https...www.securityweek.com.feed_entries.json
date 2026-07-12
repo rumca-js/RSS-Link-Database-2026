@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ionut Arghire",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-11T18:35:28.936079+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-11T17:30:00+00:00",
+        "description": "<p>Multiple campaigns are using ghost accounts to map GitHub organizations, including their repositories and members.</p>\n<p>The post <a href=\"https://www.securityweek.com/ghost-accounts-abuse-github-api-in-mass-recon-campaign/\">Ghost Accounts Abuse GitHub API in Mass Recon Campaign</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+        "id": 5949001,
+        "language": "en-US",
+        "link": "https://www.securityweek.com/ghost-accounts-abuse-github-api-in-mass-recon-campaign",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 299,
+        "source_url": "https://www.securityweek.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Ghost Accounts Abuse GitHub API in Mass Recon Campaign",
+        "vote": 0
+    }
+]

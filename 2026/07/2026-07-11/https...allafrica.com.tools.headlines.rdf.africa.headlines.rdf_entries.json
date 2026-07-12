@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-11T22:23:19.802204+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-11T20:10:47+00:00",
+        "description": "[allAfrica] Every so often, a statement emerges from the African Union that makes one pause and wonder whether the institution has finally found its voice.",
+        "id": 5949895,
+        "language": "en",
+        "link": "https://allafrica.com/stories/202607110076.html",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 15,
+        "source_url": "https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Africa: The African Union's Corruption Wake-Up Call - Is This the Beginning of Renewal or Just Another Speech?",
+        "vote": 0
+    }
+]

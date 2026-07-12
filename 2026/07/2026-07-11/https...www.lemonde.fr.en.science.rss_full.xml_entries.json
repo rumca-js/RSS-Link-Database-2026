@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-11T21:21:00.735954+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-11T21:20:51.721468+00:00",
+        "description": "High temperatures shorten nights by affecting sleep quality, posing a threat to public health. To help combat this, one expert advises keeping up morning outings to avoid further disruptions to our body clocks.",
+        "id": 5949683,
+        "language": "en-US",
+        "link": "https://www.lemonde.fr/en/science/article/2026/07/11/why-heatwaves-disrupt-our-sleep-and-how-we-can-protect-it_6755384_10.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 190,
+        "source_url": "https://www.lemonde.fr/en/science/rss_full.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.lemde.fr/2026/07/10/404/0/5000/2500/644/322/60/0/3a63d05_upload-1-6pto5d6do2nb-000-b8e33ke.jpg",
+        "title": "Why heatwaves disrupt our sleep \u2013 and how we can protect it",
+        "vote": 0
+    }
+]
