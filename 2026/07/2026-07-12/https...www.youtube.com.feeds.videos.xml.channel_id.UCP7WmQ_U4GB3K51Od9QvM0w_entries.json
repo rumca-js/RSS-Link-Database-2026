@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "David Bombal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-12T18:27:01.465512+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-12T14:00:01+00:00",
+        "description": "Big thank you to DeleteMe for sponsoring this video. Use my link to receive a 20% discount https://joindeleteme.com/Bombal or use the QR Code in the video.\n\nYour phone is becoming the checkpoint.\n\nGovernments around the world are pushing age verification and age-check systems deeper into apps, platforms, and devices. Apple has its Declared Age Range API. Google Play has the Play Age Signals API. But GrapheneOS has drawn a very different line: it is not building this kind of age-check infrastructure into the operating system. In this video, I explain why that matters, how GrapheneOS differs from iOS and mainstream Android, and why a privacy-focused Pixel setup gives you more control over the device in your pocket. GrapheneOS does not make you invisible, but it does reduce trust in Google by default, lets you use sandboxed Google Play only if you need it, and gives you a phone that shares less out of the box. Then I walk you through how to install GrapheneOS on a supported Google Pixel ",
+        "id": 5953818,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=ViWVlXg2NTU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 984,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP7WmQ_U4GB3K51Od9QvM0w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/ViWVlXg2NTU/hqdefault.jpg",
+        "title": "Install GrapheneOS Before Your Phone Becomes the Checkpoint",
+        "vote": 0
+    }
+]

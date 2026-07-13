@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-12T21:06:19.731262+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-12T17:30:29+00:00",
+        "description": "Modern Linux distros have become quite large in general with Ubuntu being one of the largest at close to 5.9gb for the ISO but what if we go to the other end, what are some of the smallest Linux distros out there and how small can they get.\n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\nArch Linux: https://archlinux.org/download/\nGentoo Linux: https://www.gentoo.org/downloads/amd64/#media\nVoid Linux: https://voidlinux.org/download/\nAlpine Linux: https://alpinelinux.org/downloads/\nSlitaz: https://www.slitaz.org/en/\nDamn Small Linux: https://www.damnsmalllinux.org/\nTiny Core Linux: http://www.tinycorelinux.net/downloads.html\nMinimal Linux Live: https://github.com/ivandavidov/minimal \nTinybOx Linux: https://github.com/EN10/TinyBoxLinux\nFloppLinux: https://github.com/w84de",
+        "id": 5954385,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=8qOXRSZsI3A",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/8qOXRSZsI3A/hqdefault.jpg",
+        "title": "A Linux Distro In Under 20 Megabytes",
+        "vote": 0
+    }
+]

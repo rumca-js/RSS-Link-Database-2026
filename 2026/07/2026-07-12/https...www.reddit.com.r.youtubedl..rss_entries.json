@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/Rusty-socks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-13T01:44:22.841649+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-12T20:22:59+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>Hello, I am very unfamiliar with coding but I still wish to download mp3 files from Youtube. I have tried looking at other posts that have reported the same problem but have not helped. Could someone be kind enough to explain how to fix this problem as if im 5 please.</p> <p>I downloaded yt-dlp using the command</p> <pre><code>winget install yt-dlp.yt-dlp.nightly </code></pre> <p>below is part of the output after typing my command and then <code>--verbose</code></p> <p><code>ERROR: unable to open for writing: [Errno 13] Permission denied: &#39;Pink Floyd \u2013 Time (Official Audio) [Qr0-7Ds79zo].webm.part&#39;</code></p> <p><code>Traceback (most recent call last):</code></p> <p><code>File &quot;yt_dlp\\utils\\_utils.py&quot;, line 610, in sanitize_open</code></p> <p><code>yt_dlp.utils.LockingUnsupportedError: File locking is not supported</code></p> <p><code>During handling of the above exception, another exception occurred:</code></p> <p><code>Traceback (m",
+        "id": 5955232,
+        "language": "en",
+        "link": "https://www.reddit.com/r/youtubedl/comments/1uuqg5t/errno_13_permission_denied",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 791,
+        "source_url": "https://www.reddit.com/r/youtubedl/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "[ERRNO] 13 permission denied",
+        "vote": 0
+    }
+]

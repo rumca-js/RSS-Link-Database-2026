@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mateusz Chrobok",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-12T18:37:08.931947+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-12T16:00:23+00:00",
+        "description": "\ud83d\udca3\u00a0Instalujesz w przegl\u0105darce wtyczk\u0119 o nazwie \"Claude Assistant \u2013 Code Helper\". Niez\u0142e oceny. Ponad pi\u0119\u0107dziesi\u0105t tysi\u0119cy pobra\u0144. Tydzie\u0144 p\u00f3\u017aniej Twoje dokumenty kr\u0105\u017c\u0105 sobie po internecie. Jak to si\u0119 sta\u0142o?\n\n\u2753\u00a0Dowiedz si\u0119\u00a0wi\u0119cej, jak AI wchodzi w cyberbezpiecze\u0144stwo.\n\ud83d\udc49\u00a0https://www.uczmnie.pl/kursy/hackowanie-ai/ \ud83d\udc48\n \n\u0179r\u00f3d\u0142a:\n\ud83d\uddbc\ufe0f\u00a0\u201cAiFrame\u201d- Fake AI Assistant Extensions Targeting 260,000 Chrome Users via injected iframes\nhttps://layerxsecurity.com/blog/aiframe-fake-ai-assistant-extensions-targeting-260000-chrome-users-via-injected-iframes/\n\n\ud83e\udde9\u00a0Z\u0142o\u015bliwa kampania 30 wtyczek \u2013 \u201cnarz\u0119dzi AI\u201d w Chrome. Wsp\u00f3lny kod, infrastruktura i anonimowy tw\u00f3rca\nhttps://sekurak.pl/zlosliwa-kampania-30-wtyczek-narzedzi-ai-w-chrome-wspolny-kod-infrastruktura-i-anonimowy-tworca/\n\n\ud83d\udd0d\u00a0mozilla / readability @ GitHub\nhttps://github.com/mozilla/readability\n\n\ud83d\udc53\u00a0QuickLens Chrome extension steals crypto, shows ClickFix attack\nhttps://www.bleepingcomputer.com/news/security/quicklens-chrome-extension-steals-crypto-shows-cli",
+        "id": 5953851,
+        "language": "pl-PL",
+        "link": "https://www.youtube.com/watch?v=PoCqI-P4bpk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 211,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTTZqMWBvLsUYqYwKTdjvkw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/PoCqI-P4bpk/hqdefault.jpg",
+        "title": "Twoja wtyczka AI w przegl\u0105darce wie wi\u0119cej, ni\u017c Ci si\u0119\u00a0wydaje",
+        "vote": 0
+    }
+]

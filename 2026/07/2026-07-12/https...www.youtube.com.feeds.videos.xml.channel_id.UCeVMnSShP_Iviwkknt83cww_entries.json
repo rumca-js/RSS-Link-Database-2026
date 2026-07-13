@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CodeWithHarry",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-12T15:14:52.944624+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-12T14:21:19+00:00",
+        "description": "Download Handbook: https://drive.google.com/file/d/1ALDNmPdG36b1Abu8Ki9GoOFpSf3Ow_jP/view?usp=sharing\nDownload Cheatsheet: https://drive.google.com/file/d/1S7dAnOJYzgJce6C8Ka3UGKhUdblWz3hy/view?usp=sharing\n\nHandbook Mirror 1: https://drive.google.com/file/d/138dWmjKUqIk9YAahR64CmpRk8xES8io5/view\nHandbook Mirror 2: https://drive.google.com/file/d/1BiL1WY9B7_p0uinuNmvioyzXw1mwqSRN/view\nHandbook Mirror 3: https://drive.google.com/file/d/12KpsHV4RalrqCG6zne65FnfCX1zFxLDd/view\n\nCheatsheet Mirror 1: https://drive.google.com/file/d/1wPdPTH6naDJo48DyCJWvbCT-uFDqJzMD/view?usp=sharing\nCheatsheet Mirror 2: https://drive.google.com/file/d/1dUu_eDZBdZod-nrozKXquBlNhb3QM52o/view?usp=sharing\nCheatsheet Mirror 3: https://drive.google.com/file/d/1yUpyRtQI2dlB0B-tQEaDtkEkk7GRx5zU/view?usp=sharing\n\nTimeStamps:\n00:00:00 Skit\n00:05:35 Introduction\n00:06:48 What Is Git?\n00:07:23 Linus Torvalds got angry!\n00:09:19 Centralised vs Distributed Version Control Systems\n00:11:05 Git vs GitHub\n00:13:42 Installing ",
+        "id": 5952926,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=AB3J8ufDYHQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 991,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCeVMnSShP_Iviwkknt83cww",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/AB3J8ufDYHQ/hqdefault.jpg",
+        "title": "Git and Github Tutorial For Beginners (Full Course)",
+        "vote": 0
+    }
+]

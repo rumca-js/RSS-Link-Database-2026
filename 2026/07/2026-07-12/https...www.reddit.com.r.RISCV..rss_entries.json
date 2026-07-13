@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/Fiveful",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-12T06:05:14.727529+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-12T04:51:48+00:00",
+        "description": "<table> <tr><td> <a href=\"https://www.reddit.com/r/RISCV/comments/1uu5r1a/question_with_riscv_register_file/\"> <img src=\"https://preview.redd.it/o3aipg4qaqch1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=704b47f5dd242ea03215b7c8235074012bc597e5\" alt=\"Question with RISC-V register file\" title=\"Question with RISC-V register file\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Hello everyone, I&#39;m a high schooler currently self learning risc v isa using the book &quot;Computer Organization and Design RISC-V Edition: The Hardware Software Interface&quot;.</p> <p>In the screenshot it is referring to the register file module under a R type instruction, stating that we need 2 inputs for register addresses and 1 input for data, thus 3 in total.</p> <p>I&#39;m a bit confused, from my understanding, during an R type instruction don&#39;t we need 4 inputs? (register source 1, register source 2, register destination, and data?).</p> <p>Because for example take add x1, x2, x3. We need ",
+        "id": 5951085,
+        "language": "en",
+        "link": "https://www.reddit.com/r/RISCV/comments/1uu5r1a/question_with_riscv_register_file",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 471,
+        "source_url": "https://www.reddit.com/r/RISCV/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://preview.redd.it/o3aipg4qaqch1.png?width=640&crop=smart&auto=webp&s=704b47f5dd242ea03215b7c8235074012bc597e5",
+        "title": "Question with RISC-V register file",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Matt Wolfe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-13T02:22:32.901668+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-12T23:05:51+00:00",
+        "description": "The next big AI battle isn\u2019t about who has the biggest model. It\u2019s about where the AI actually runs.\n\n@qualcomm CEO Cristiano Amon told me the future of AI is distributed \u2014 where AI runs wherever it makes the most sense.\n\nSometimes that\u2019s in the cloud, on your phone, your car, your PC, your wearable, or the edge device right in front of you.\n\nAnd Qualcomm is betting big on powering that entire system.\n\nFrom Dragonfly C1000 for AI data centers, to High Bandwidth Compute for more efficient inference, to the Modular acquisition that Cristiano says could become \u201cthe Linux of AI,\u201d Qualcomm is trying to make AI run across basically everything.\n\nSo the next era of AI may not be one app you open on one device.\n\nIt may be intelligence spread across the entire computing system.\n\n#Ad #AI #futuretech #SponsoredByQualcomm",
+        "id": 5955336,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/lIi2FjPgjkg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 933,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChpleBmo18P08aKCIgti38g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/lIi2FjPgjkg/hqdefault.jpg",
+        "title": "This Tech CEO Is Building the \u201cLinux of AI\u201d",
+        "vote": 0
+    }
+]
