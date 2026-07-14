@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Learn Linux TV",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-13T14:51:40.668102+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-13T14:00:05+00:00",
+        "description": "Do you actually know how fast your network is? Not what your switch spec sheet says \u2014 what it's really doing between two hosts. iPerf3 is the tool sysadmins and homelab enthusiasts reach for when they need real answers, and in this video I'll show you how to use it from the ground up.\n\nWe cover everything from installation to practical usage, including how to test WiFi vs wired, push a 10 gigabit ethernet connection, bind to a specific interface, and dial in your test parameters for accurate results.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*\ud83d\udcd6 Switch to Linux with my latest book! (Available Now!)*\n\nThinking about making the jump to Linux? This step-by-step guide will help you choose the right distribution, install Linux with confidence! Purchase your copy here:\nhttps://learnlinux.link/switch-to-linux\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*\ud83d\udc27 Save on Linux Foundation Certifications*\n\nWhether you're starting a Linux career or advancing your existing skills, Linux Foundation training can help you stand out in a competi",
+        "id": 5958718,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=kGaD6KwyihA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 997,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxQKHvKbmSzGMvUrVtJYnUA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/kGaD6KwyihA/hqdefault.jpg",
+        "title": "How to Test Your Network Speed on Linux with iPerf3",
+        "vote": 0
+    }
+]

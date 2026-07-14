@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "C++ Weekly With Jason Turner",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-13T18:31:23.521417+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-13T15:29:47+00:00",
+        "description": "Be sure to check out Mark's project: https://github.com/mcguidarelli/trix\n\nThis month Jason and Mathieu are joined by Mark Guidarelli to discuss the history of C++ and esoteric programming languages. We also get into Mark\u2019s personal development history and what \u201cmerging\u201d used to mean before source control!\n\nNews\n* https://codedive.pl/ code::dive 2026 call for papers is open: https://forms.cloud.microsoft/e/ks0EvckRTB\n* Gor Nishanov, author of C++ coroutines, recently passed away https://herbsutter.com/2026/06/28/gor-nishanov-1971-2026/\n* C++ Documentary was released: https://youtu.be/lI7tMxzSJ7w\n* Check out the C++ Perf Quiz: https://quiz.cpp-perf.com/quiz/boolean-short-circuit-ordering/\n\nDiscussion links\n* https://github.com/mcguidarelli/trix\n* https://www.mazesforprogrammers.com/\n* https://en.wikipedia.org/wiki/Game_Oriented_Assembly_Lisp\n* https://opengoal.dev/\n* https://archive.org/details/fsdesign",
+        "id": 5960388,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=ImjpGm05-KQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 48,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxHAlbZQNFU2LgEtiqd2Maw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/ImjpGm05-KQ/hqdefault.jpg",
+        "title": "40 Years of C++ Programming and Embeddable Languages - Mark Guidarelli CppCast 409 / C++Weekly 541",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Marcin Maj",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-13T15:52:19.685426+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-13T13:45:13+00:00",
+        "description": "<p>&#8220;Wystaw to na chwil\u0119, sprawdzimy czy dzia\u0142a, potem si\u0119\u00a0wy\u0142\u0105czy&#8221; &#8212; co\u015b takiego powiedzia\u0142o wielu deweloper\u00f3w. Problem w tym, \u017ce &#8220;potem&#8221; czasem nigdy nie nadchodzi. To zjawisko &#8211; niekontrolowany wzrost liczby porzuconych maszyn wirtualnych &#8211; okre\u015blamy jako &#8220;VM sprawl&#8221;. Czy mo\u017cna mu zaradzi\u0107?<span id=\"more-27191\"></span></p>\n<h3>\u0141atwo dzi\u015b\u00a0o tani serwer, czyli prawdziwy pow\u00f3d VM sprawl</h3>\n<p>Dostawcy chmury, tacy jak AWS, Microsoft Azure czy GCP, odnie\u015bli gigantyczny sukces, bo upro\u015bcili operacje IT do granic mo\u017cliwo\u015bci (cho\u0107 wszyscy wiemy, \u017ce UX m\u00f3g\u0142by by\u0107 tu i tam lepszy ;). Postawienie nowej maszyny wirtualnej (VM) zajmuje dzi\u015b mniej czasu ni\u017c zaparzenie dobrej kawy. Niestety ma to pewne wady.</p>\n<p>Zespo\u0142y deweloperskie i testerskie codziennie spinuj\u0105 nowe VM na potrzeby kr\u00f3tkich projekt\u00f3w, test\u00f3w obci\u0105\u017ceniowych czy testowy deploy\u00f3w. Problem polega na tym, \u017ce po zako\u0144czeniu prac nikt tych maszyn nie sprz\u0105ta. Zamiast czystej ",
+        "id": 5959107,
+        "language": "pl-PL",
+        "link": "https://niebezpiecznik.pl/post/jak-nie-zalozyc-w-chmurze-cyfrowego-cmentarza-dla-cyberprzestepcow",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 239,
+        "source_url": "https://feeds.feedburner.com/niebezpiecznik",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://niebezpiecznik.pl/wp-content/uploads/2026/07/vm-sprawl-150x150.jpg",
+        "title": "Jak (nie) za\u0142o\u017cy\u0107 w chmurze cyfrowego cmentarza dla cyberprzest\u0119pc\u00f3w",
+        "vote": 0
+    }
+]

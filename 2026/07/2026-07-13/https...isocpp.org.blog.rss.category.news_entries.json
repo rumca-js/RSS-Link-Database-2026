@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Blog Staff",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-13T21:14:53.745255+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-13T20:17:19+00:00",
+        "description": "<p>\n\t<img alt=\"headshot.jpg\" src=\"https://isocpp.org/files/img/headshot.jpg\" style=\"width: 200px; margin: 10px; float: right; height: 300px;\" />Quite recently it was announced that the release of <a href=\"https://isocpp.org/blog/2026/04/gcc-16.1\" rel=\"noopener\" target=\"_blank\">GCC 16.1</a> brought in a load of C++26 reflection goodies. From looking at my LinkedIn, it seemed like everyone was extremely excited for this and a load of static reflection articles started popping up on my feed. This all got me a little excited to try it too, and I felt like this problem would be a good way to explore what static reflection has to offer.</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://kstocky.github.io/blog/validating-callable-parameters/c++26_4_enter_static_reflection/\">C++26 - Enter Static Reflection</a></h3>\n\t<p>\n\t\tby Keith Stockdale</p>\n</blockquote>\n<p>\n\tFrom the article:</p>\n<blockquote>\n\t<p>\n\t\t<strong>Step 0: Figuring out how to even use reflection?!</strong></p>\n\t<p>\n\t\tAs I mentioned, I ha",
+        "id": 5961351,
+        "language": "en",
+        "link": "https://isocpp.org//blog/2026/07/cpp26-enter-static-reflection-keith-stockdale",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://isocpp.org/files/img/headshot.jpg",
+        "title": "C++26 - Enter Static Reflection -- Keith Stockdale",
+        "vote": 0
+    }
+]

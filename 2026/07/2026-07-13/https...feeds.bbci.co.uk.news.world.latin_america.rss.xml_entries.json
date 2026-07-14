@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-13T11:56:25.538909+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-13T10:30:51+00:00",
+        "description": "The victim, David Mac\u00edas, was the brother of drug lord 'El Fito', who is awaiting trial in the US.",
+        "id": 5957514,
+        "language": "en-gb",
+        "link": "https://www.bbc.co.uk/news/articles/c20yx84g103o",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 524,
+        "source_url": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59ca/live/0e6492f0-7ea2-11f1-b62f-ff1d7cedfbfe.jpg",
+        "title": "Men disguised as police kill Ecuadorean drug lord's brother",
+        "vote": 0
+    }
+]

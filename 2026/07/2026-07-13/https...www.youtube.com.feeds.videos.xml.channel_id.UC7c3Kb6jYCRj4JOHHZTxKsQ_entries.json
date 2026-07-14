@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "GitHub",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-13T17:10:57.126296+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-13T16:00:25+00:00",
+        "description": "GitHub engineering manager Helen Hou-Sand\u00ed shares how the Maintainer Tiny Wins initiative is improving open source workflows. When a user reported that green and gray PR checkmarks were indistinguishable, the team realized it was actually a parsing issue. By grouping reviewers based on their impact on merge requirements, they created a better user experience for everyone. Learn how GitHub Copilot helped the team investigate unfamiliar code to ship this accessible design fix.\n\n#GitHub #Accessibility #OpenSource \n\nStay up-to-date on all things GitHub by connecting with us:\n\nYouTube: https://gh.io/subgithub\nBlog: https://github.blog\nX: https://twitter.com/github\nLinkedIn: https://linkedin.com/company/github\nInsider newsletter: https://resources.github.com/newsletter/\nInstagram: https://www.instagram.com/github\nTikTok: https://www.tiktok.com/@github\n\nAbout GitHub\nIt\u2019s where over 180 million developers create, share, and ship the best code possible. It\u2019s a place for anyone, from anywhere, ",
+        "id": 5959764,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=WBPFJ9OhtEE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 1005,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7c3Kb6jYCRj4JOHHZTxKsQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/WBPFJ9OhtEE/hqdefault.jpg",
+        "title": "Fixing accessibility issues on GitHub pull requests",
+        "vote": 0
+    }
+]

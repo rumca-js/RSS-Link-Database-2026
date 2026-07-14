@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-13T12:08:07.096879+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-13T11:44:58+00:00",
+        "description": "In this Full Stack React Native course, you will learn how to build a complete cross-platform grocery list application from scratch using Expo and React Native. Throughout the lessons, we will integrate modern technologies like Clerk for secure authentication, Neon Postgres with Drizzle ORM for the database, and NativeWind for styling. By the end, you will have the practical skills needed to confidently develop and deploy your own full-stack mobile applications for both iOS and Android.\n\nCourse from @codesistency \n\nLinks & resources \ud83d\udc47\n\nTo start the project, type this command in your terminal:\n\ud83d\udc49 npx create-expo-app@latest --template default\n\u2728 Source Code: https://dub.sh/2code\n\n\u2728 Try Neon for FREE: https://dub.sh/neon1\n\ud83d\ude80 Try Clerk for FREE: https://dub.sh/clerk2\n\ud83d\udcab Try Sentry for FREE: https://dub.sh/sentry1\n\ud83d\udca5 Try Expo for FREE: https://dub.sh/expo1\n\n\ud83c\udf89 Join Our Skool Community: https://dub.sh/codesistency\n\n\ud83d\udca5 Diagrams: https://dub.sh/diagrams4\n\n\u2764\ufe0f Support for this channel comes from our f",
+        "id": 5957557,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=4GtVeULrNks",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/4GtVeULrNks/hqdefault.jpg",
+        "title": "React Native Full Stack Course \u2013 Clerk, Postgres, NativeWind",
+        "vote": 0
+    }
+]

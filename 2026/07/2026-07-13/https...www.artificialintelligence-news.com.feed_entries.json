@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Dashveenjit Kaur",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-13T12:52:53.438361+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-13T11:00:00+00:00",
+        "description": "<p>AI agent crawlers, the bots that fetch pages in real time on behalf of a person waiting for an answer, will be blocked by default on a slice of the web from September 15 onwards. Cloudflare&#160;announced&#160;the change on July 1, and most of the coverage since then has focused on Google. The more useful part [&#8230;]</p>\n<p>The post <a href=\"https://www.artificialintelligence-news.com/news/ai-agent-crawlers-cloudflare-rules/\">AI agent crawlers now need permission. Here&#8217;s how to get it</a> appeared first on <a href=\"https://www.artificialintelligence-news.com\">AI News</a>.</p>",
+        "id": 5957916,
+        "language": "en-GB",
+        "link": "https://www.artificialintelligence-news.com/news/ai-agent-crawlers-cloudflare-rules",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 10,
+        "source_url": "https://www.artificialintelligence-news.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
+        "title": "AI agent crawlers now need permission. Here\u2019s how to get it",
+        "vote": 0
+    }
+]
