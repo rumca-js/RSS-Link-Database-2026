@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Web Dev Simplified",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-14T18:10:37.846797+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-14T16:00:36+00:00",
+        "description": "Checkout Neon: https://get.neon.com/HALyXNV\nCheckout Vercel Workflows: https://vercel.plug.dev/wMxDguF\nCheckout CodeRabbit: https://www.coderabbit.ai/?utm_source=youtube&utm_medium=video&utm_campaign=coderabbit_june26&utm_term=webdevsimplified&dub_id=li2pPKNg5Sz8P8ey\n\nRAG (Retrieval Augmented Generation) is crucial to nearly every business. Knowing how to build your own RAG system will put you far ahead of most other job applicants. In this video I will not only show you how to build a complete RAG system, but I will also show you how go about building production ready applications with AI from scratch.\n\n\n\ud83d\udcda Materials/References:\n\nGitHub Code: https://github.com/WebDevSimplified/video-blog-suggester-yt\nAI Sandbox Setup Video: https://youtu.be/7Z7ID5BbZU4\nAI Skills Video: https://youtu.be/cxQLKsktiBA\nLocal AI LM Studio Setup Video: https://youtu.be/UngVdAsQEiU\n\n\ud83c\udf0e Find Me Here:\n\nMy Blog: https://blog.webdevsimplified.com\nMy Courses: https://courses.webdevsimplified.com\nPatreon: https://w",
+        "id": 5967996,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=1mvlBz6pj1I",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 994,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFbNIlppjAuEX4znoulh0Cw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/1mvlBz6pj1I/hqdefault.jpg",
+        "title": "How To Build Your Own RAG AI System - Better Results Than Claude",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Boston Dynamics",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-14T16:04:48.888721+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-14T14:14:48+00:00",
+        "description": "Boston Dynamics is testing a last-mile delivery solution. Spot will help get packages from van to doorstep with less strain and greater efficiency. \n\nLearn more about how and why we're taking on one of the biggest supply chain challenges: https://bostondynamics.com/blog/bridging-the-porch-gap/",
+        "id": 5966993,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=EI1zFxLVkrs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 451,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7vVhkEfw4nOGp8TyDk7RcQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/EI1zFxLVkrs/hqdefault.jpg",
+        "title": "Going the Extra Mile with Spot | Boston Dynamics",
+        "vote": 0
+    }
+]

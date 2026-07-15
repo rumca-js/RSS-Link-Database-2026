@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Matt Wolfe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-14T16:41:40.417722+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-14T14:31:02+00:00",
+        "description": "How to \"Time Travel\" in your next video with this SUPER easy editing trick!\n\nYou don't need complex VFX software to create seamless, mind-bending transitions anymore. Here is a straightforward way to jump between locations using AI tools like Runway, Kling, or Leonardo:\n\nStep 1: Record your intro in Location A, then head to Location B. Try to wear the same outfit and match your pose at the start of the second clip\u2014it makes the final transition much more believable.\nStep 2: Take a screenshot of the very last frame of Clip A, and the very first frame of Clip B.\nStep 3: Upload these two images as your starting and ending keyframes in an AI tool (I used Runway's Seedance 2.0 for the edit you see in this video).\nStep 4: Use a prompt like this: \u201cThe camera shoots up like a big jump transition and reveals the second location in one smooth motion. The man does not speak.\u201d (Pro-tip: Adding \"does not speak\" stops the AI from generating weird facial movements).\nStep 5: Download the generated cli",
+        "id": 5967217,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/KzJkS00Ztd8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 933,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChpleBmo18P08aKCIgti38g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/KzJkS00Ztd8/hqdefault.jpg",
+        "title": "Crazy \u201cTime Travel\u201d Editing Hack",
+        "vote": 0
+    }
+]

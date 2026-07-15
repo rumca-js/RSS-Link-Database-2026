@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Bellular News",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-14T23:32:34.054558+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-14T22:27:07+00:00",
+        "description": "Tim Sweeney says Steam's AI disclosure acts like a scarlet letter. New analysis of Steam games suggests disclosed generative AI use is associated with sharply lower performance, with a modelled gap of up to 53%. That leaves an ugly incentive: honest studios take the hit, while undisclosed use may escape it entirely.\n\nWe break down the data, Valve's changed rules, why the warnings are difficult to search, and how the system may be teaching developers that silence is safer.\n\nJoin us at http://bellular.games for early access content, 20 editions of 'Loading Screen' a month and to support our team!\n\n00:00 - Steam's AI Scarlet Letter\n00:40 - Sweeney's Opposition\n03:03 - Up To 53%\n05:33 - Unnecessary Disclosure\n09:01 - Why Valve Doesn't Need Change\n11:23 - Non-Admission\n\nSources:\nhttps://www.pcgamer.com/gaming-industry/tim-sweeney-on-the-future-of-games-ai-and-whether-valve-will-ever-join-forces-with-epic-its-now-clear-that-nobodys-going-to-end-up-with-an-absolute-monopoly/\n\nhttps://www.eur",
+        "id": 5970111,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=XzSclyZoi4c",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 740,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC3nPaf5MeeDTHA2JN7clidg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/XzSclyZoi4c/hqdefault.jpg",
+        "title": "Steam Users Are Punishing AI Games: Now Tim Sweeney Is Mad",
+        "vote": 0
+    }
+]

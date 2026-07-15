@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Infographics Show",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-14T20:22:45.291141+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-14T20:11:39+00:00",
+        "description": "What China understands about AI that the US doesn\u2019t is surprisingly simple. The future of artificial intelligence will not be decided by better software alone. It will be decided by energy. While Microsoft, Amazon, Google, and Meta compete to secure nuclear reactors and private power connections for their data centers, American households are being left with higher electricity bills and an increasingly strained public grid.\n\nAI data centers require enormous amounts of reliable, around-the-clock electricity. Renewable energy alone cannot consistently deliver the Five Nines uptime demanded by frontier AI models, which is why Big Tech is locking up nuclear capacity, delaying the retirement of fossil-fuel plants, and investing in private Small Modular Reactors. The cleanest and most dependable power is increasingly being reserved for corporations, while ordinary consumers help fund the transmission lines, backup generation, and grid upgrades required to support them.\n\nChina is taking a co",
+        "id": 5968968,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=5u2rQevZPF4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 999,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfdNM3NAhaBOXCafH7krzrA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/5u2rQevZPF4/hqdefault.jpg",
+        "title": "What China Understands About AI That the US Doesn\u2019t",
+        "vote": 0
+    }
+]

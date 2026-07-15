@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-14T19:58:21.594981+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-14T19:14:51+00:00",
+        "description": "Wildfires burn near Paris for the first time, threatening the historic Fontainebleau forest. At least 13 people died in Spain's deadliest fire as Europe faces its third heatwave of summer. NBC News' Daniele Hamamdjian reports.",
+        "id": 5968807,
+        "language": "en-US",
+        "link": "https://www.nbcnews.com/now/video/firefighters-battle-blaze-in-france-s-fontainebleau-forest-amid-deadly-fires-in-europe-266662469805",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 224,
+        "source_url": "https://feeds.nbcnews.com/nbcnews/public/world",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_07/1784056485704_now_daily_b_dha_paris_forest_fire_260714_S3_1920x1080-n9c7fq.jpg",
+        "title": "Firefighters battle blaze in France's Fontainebleau forest amid deadly fires in Europe",
+        "vote": 0
+    }
+]

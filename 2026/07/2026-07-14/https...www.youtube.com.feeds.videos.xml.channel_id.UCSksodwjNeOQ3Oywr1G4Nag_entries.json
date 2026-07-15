@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Engineezy",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-14T20:21:25.290528+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-14T19:41:22+00:00",
+        "description": "The Dino Jump Mechanism\n\u2022\u2022\u2022\nI thought it would be coolest if the jump mechanism is completely mechanical, so when you press the button your force directly causes the Dino to Jump.  The press pulls a bike cable through a tube bumping a counterweighted seesaw that launches him up. Then there's a little wedge with two sliding pawls that make it a single tap, so you can't just hold the button down and cheat. One press only gets you one jump like the real game.\n\u2022\u2022\u2022\nThis was nowhere near my first version though. I tried a solenoid, a four-bar linkage, a vertical slider, and a bunch of counterbalance setups that either floated him or wouldn't let him jump at all. I'll get into all of that in the full build video. Next he needs something to jump over. Stay tuned!\n\u2022\u2022\u2022\n#engineering #mechanicalengineering #3dprinting #mechanisms #maker",
+        "id": 5968959,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/QCukTJdLOkY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 858,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSksodwjNeOQ3Oywr1G4Nag",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/QCukTJdLOkY/hqdefault.jpg",
+        "title": "Dino Jumping Mechanism - Chrome Dino game IRL",
+        "vote": 0
+    }
+]

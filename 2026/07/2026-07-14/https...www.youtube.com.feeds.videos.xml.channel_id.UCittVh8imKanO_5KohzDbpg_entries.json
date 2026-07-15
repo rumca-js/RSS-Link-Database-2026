@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Paul Joseph Watson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-14T22:21:45.328732+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-14T21:02:44+00:00",
+        "description": "FULL VIDEO: https://www.youtube.com/watch?v=5gFpK43WM_M",
+        "id": 5969697,
+        "language": "en-US",
+        "link": "https://www.youtube.com/shorts/Jdc77cqeT7Q",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 250,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCittVh8imKanO_5KohzDbpg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/Jdc77cqeT7Q/hqdefault.jpg",
+        "title": "It's Really Weird",
+        "vote": 0
+    }
+]

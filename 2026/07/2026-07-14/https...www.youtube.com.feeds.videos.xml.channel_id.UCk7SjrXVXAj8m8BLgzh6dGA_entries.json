@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Intel",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-14T20:43:26.325089+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-14T17:24:46+00:00",
+        "description": "In this episode, James Boyd, Principal Engineer at Intel, joins host Jerry Bryant to discuss Intel\u00ae Total Storage Encryption (Intel\u00ae TSE).\n\nIntel\u00ae TSE delivers near-native NVMe performance with hardware-based encryption, stronger key protection, and up to 75% lower CPU overhead, resulting in longer battery life. It provides security that is fast, efficient, and invisible to users.\n\nAvailable today on Intel\u00ae Core\u2122 Ultra Series 3 processors with Intel vPro\u00ae.\n \nSubscribe now to Intel on YouTube: https://intel.ly/3IX1bN2 \n \nAbout Intel:\nIntel, the world leader in silicon innovation, develops technologies, products and initiatives to continually advance how people work and live. Founded in 1968 to build semiconductor memory products, Intel introduced the world's first microprocessor in 1971. This decade, our mission is to create and extend computing technology to connect and enrich the lives of every person on Earth.\n \nConnect with Intel:\nVisit Intel WEBSITE: https://intel.ly/Intel \nFollow",
+        "id": 5969112,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=owRK0Dm6Uh4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 1006,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCk7SjrXVXAj8m8BLgzh6dGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/owRK0Dm6Uh4/hqdefault.jpg",
+        "title": "Intel Total Storage Encryption (TSE) | Chips & Salsa | Intel",
+        "vote": 0
+    }
+]

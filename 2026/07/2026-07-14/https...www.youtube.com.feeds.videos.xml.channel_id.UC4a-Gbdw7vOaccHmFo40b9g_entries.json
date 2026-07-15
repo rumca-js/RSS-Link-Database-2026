@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Khan Academy",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-14T11:44:09.893352+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-14T11:08:57+00:00",
+        "description": "Courses on Khan Academy are always 100% free. Start practicing\u2014and saving your progress\u2014now. https://www.khanacademy.org/science/ap-physics-c-mechanics\n\nWork is the amount of energy transferred into or out of a system by a force exerted on that system over a distance. Work is a scalar quantity that may be positive, negative, or zero. Only the component of the force exerted on a system that is parallel to the displacement of the point of application of the force will change the system\u2019s total energy. The work-energy theorem states that the change in an object\u2019s kinetic energy is equal to the sum of the work (net work) being done by all forces exerted on the object.\n\nSections:\n00:00 - Intro\n01:13 - Defining work in physics\n05:21 - Work-energy theorem\n06:22 - Applying the work-energy theorem\n10:42 - Sense check\n\n------------------\n\nKhan Academy is a nonprofit organization with the mission of providing a free, world-class education for anyone, anywhere. Khan Academy has been translated in",
+        "id": 5965065,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Qf8hIBrsWZI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 977,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4a-Gbdw7vOaccHmFo40b9g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/Qf8hIBrsWZI/hqdefault.jpg",
+        "title": "Work done by forces (part 1) | AP Physics | Khan Academy",
+        "vote": 0
+    }
+]

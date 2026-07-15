@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Hammond",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-14T18:24:06.604684+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-14T18:01:33+00:00",
+        "description": "What looks like a legitimate copy of TortoiseSVN turns out to be anything but.\n\nBy comparing the suspicious installer with the real software, I walk through the differences that stand out, including mismatched timestamps and unexpected network traffic. Those clues point toward DLL side-loading and malware communicating with remote infrastructure.\n\nFull video: https://youtu.be/NIi4i9IjshM?si=xBA1adt1tjFJfnIH",
+        "id": 5968082,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/MjCqP6a4e7k",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 959,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVeW9qkBjo3zosnqUbG7CFw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/MjCqP6a4e7k/hqdefault.jpg",
+        "title": "Backdoored TortoiseSVN Installer",
+        "vote": 0
+    }
+]
