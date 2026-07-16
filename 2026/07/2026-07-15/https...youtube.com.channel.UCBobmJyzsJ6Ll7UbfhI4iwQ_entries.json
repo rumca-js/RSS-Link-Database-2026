@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unreal Engine",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-15T15:56:22.767799+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-15T14:22:19+00:00",
+        "description": "Join us as our guest, Adam Kiraly, discusses Unreal Engine 5\u2019s major rendering features focusing on Nanite, Lumen, VSM and their alternatives to help you make better educated decisions about what to use. Whether you are early into a project or looking at ways to improve performance or visuals in your game, this talk should give you some useful pointers backed by Tanglewood's experience working on dozens of projects using cutting edge tech.",
+        "id": 5974925,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=mnjIr8uS4uo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 685,
+        "source_url": "https://youtube.com/channel/UCBobmJyzsJ6Ll7UbfhI4iwQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/mnjIr8uS4uo/hqdefault.jpg",
+        "title": "Spending Milliseconds: Choosing Rendering Features for Your Game | Inside Unreal",
+        "vote": 0
+    }
+]

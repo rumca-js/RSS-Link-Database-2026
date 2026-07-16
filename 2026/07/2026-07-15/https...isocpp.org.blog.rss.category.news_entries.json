@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Blog Staff",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-15T21:17:31.662689+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-15T20:21:37+00:00",
+        "description": "<p>\n\t<img alt=\"797f4c8c0b89b22b.png\" src=\"https://isocpp.org/files/img/797f4c8c0b89b22b.png\" style=\"width: 200px; margin: 10px; float: right; height: 200px;\" />In today&#39;s post, I like touch-up on C++26&#39;s static reflection. In case you haven&#39;t seen, I wrote a first post <a href=\"https://andreasfertig.com/blog/2025/08/cpp26-reflection-at-compile-time/\">C++26 reflection at compile-time</a> a while ago.</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://andreasfertig.com/blog/2026/06/more-cpp26-reflection-at-compile-time/\">C++ More C++26 reflection at compile-time</a></h3>\n\t<p>\n\t\tby Andreas Fertig</p>\n</blockquote>\n<p>\n\tFrom the article:</p>\n<blockquote>\n\t<p>\n\t\tOne of the great things about reflection is that we can already explore the new feature since with Clang there is a compiler available that implements all the facets.</p>\n\t<p>\n\t\tI was again exploring what of my use cases would be better solved with reflection. Now, one thing that I had to do most of my career is reading and writ",
+        "id": 5977380,
+        "language": "en",
+        "link": "https://isocpp.org//blog/2026/07/cpp-more-c26-reflection-at-compile-time-andreas-fertig",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://isocpp.org/files/img/797f4c8c0b89b22b.png",
+        "title": "C++ More C++26 reflection at compile-time -- Andreas Fertig",
+        "vote": 0
+    }
+]

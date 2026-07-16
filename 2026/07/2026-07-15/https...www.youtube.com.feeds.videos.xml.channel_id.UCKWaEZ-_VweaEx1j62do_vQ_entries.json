@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-15T13:24:18.030885+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-15T10:00:00+00:00",
+        "description": "Explore the podcast \u2192 https://ibm.biz/~UaTgKXYP5\n\nZ.ai\u2019s GLM-5.2 is, according to some, as good at finding vulnerabilities as Mythos. Or at least, close to it. And it\u2019s open weight.\n\nOn this episode of Security Intelligence, we dig into how powerful, open AI models are bringing frontier-style capabilities to more people, all while the proprietary models are emphasizing safeguards. What does it mean for cybersecurity pros? Security emergency, or a whole lot of hype?\n\nThen, we explore how CISA\u2019s new BOD 26-04 ditches the old CVSS scoring system for a four-variable model that could reshape how every security team prioritizes vulnerabilities. We also unpack \u201cvibe hunting,\u201d the AI-assisted evolution of threat hunting, and break down the commercial launch of Red Hat and IBM\u2019s Lightwell.\nSecuring open-source software in the AI era requires new approaches. \nLearn how Lightwell does it: https://ibm.biz/~fJaPqPXz3\n\n\nSegments:\n00:00 \u2013 Intro\n01:13 - GLM-5.2 \n10:26 - The end of CVSS? \n19:25 - Vibe",
+        "id": 5973852,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=qXGJ7pi-XOo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/qXGJ7pi-XOo/hqdefault.jpg",
+        "title": "GLM-5.2: The real security risk? Plus: Vibe hunting, the end of CVSS and updates on Lightwell",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Fireship",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-15T17:55:23.504645+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-15T17:39:02+00:00",
+        "description": "Try CodeRabbit Review free and turn your next big PR into a guided walkthrough - https://coderabbit.link/fireship\n\nBun just refactored their entire codebase from Zig to Rust in just 11 days. But not everybody is celebrating... \n\n#coding #programming #ai \n\nWant more Fireship?\n\n\ud83d\uddde\ufe0f Newsletter: https://bytes.dev\n\ud83e\udde0 Courses: https://fireship.dev",
+        "id": 5976007,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=CXSvKcLovAk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 584,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/CXSvKcLovAk/hqdefault.jpg",
+        "title": "The most controversial rewrite in history just shipped...",
+        "vote": 0
+    }
+]

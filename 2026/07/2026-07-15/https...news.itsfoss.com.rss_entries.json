@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Sourav Rudra",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-15T10:30:27.185287+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-15T09:59:20+00:00",
+        "description": "The flaw lets any repository auto-execute code on Cursor for Windows, and researchers say the company ignored it.",
+        "id": 5972686,
+        "language": "en-US",
+        "link": "https://itsfoss.com/news/cursor-ignores-critical-flaw",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 156,
+        "source_url": "https://news.itsfoss.com/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://itsfoss.com/content/images/2026/07/cursor-caution-banner.png",
+        "title": "Cursor AI's Silence on a Critical Flaw Jeopardizes Millions of Users",
+        "vote": 0
+    }
+]

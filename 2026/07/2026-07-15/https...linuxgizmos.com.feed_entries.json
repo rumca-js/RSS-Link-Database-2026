@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-15T14:28:51.040685+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-15T13:27:52+00:00",
+        "description": "Clintech has launched a Crowd Supply campaign for the Clintech Pico Board, an open-hardware microcontroller board based on Raspberry Pi&#8217;s RP2354B. The board retains the 51 &#215; 21mm Raspberry Pi Pico footprint while exposing all 48 GPIOs available from the larger RP2354B package. The RP2354B combines dual 150MHz Arm Cortex-M33 cores with dual Hazard3 RISC-V [&#8230;]",
+        "id": 5974266,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/clintech-pico-board-exposes-all-48-rp2354b-gpios-in-pico-compatible-form-factor",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Clintech Pico Board exposes all 48 RP2354B GPIOs in Pico-compatible form factor",
+        "vote": 0
+    }
+]

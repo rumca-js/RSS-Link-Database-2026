@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Boston Dynamics",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-15T15:35:49.284462+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-15T13:56:50+00:00",
+        "description": "Following Atlas' first-of-its-kind live performance at the FIFA World Cup 2026\u2122, we caught up with Seth Davis, senior program manager, to learn how this demonstration came together and what it takes to succeed in the field (and on the pitch).\n\nSee Atlas' halftime performance: https://www.youtube.com/watch?v=ezPLXk78Cfk\nRead the full interview: https://bostondynamics.com/blog/deploying-robots-into-and-onto-the-field/",
+        "id": 5974771,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=cCNkgD3qXvg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 451,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7vVhkEfw4nOGp8TyDk7RcQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/cCNkgD3qXvg/hqdefault.jpg",
+        "title": "Atlas' Journey to FIFA World Cup 2026\u2122 | Boston Dynamics",
+        "vote": 0
+    }
+]

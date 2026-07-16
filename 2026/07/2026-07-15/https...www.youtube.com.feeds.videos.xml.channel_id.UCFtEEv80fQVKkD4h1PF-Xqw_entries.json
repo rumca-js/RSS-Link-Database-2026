@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Microsoft",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-15T21:14:15.225014+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-15T20:00:24+00:00",
+        "description": "If a workflow is broken, AI won't fix it.\n \nWorkLab podcast clip. Rana el Kaliouby, AI scientist and entrepreneur (formerly CEO of Affectiva), shares a critical insight: too many organizations apply AI to problems that don't need solving or to workflows that aren't working.\n \nReal impact comes from focusing on outcomes first and redesigning workflows before layering in AI. Otherwise, organizations risk scaling inefficiency instead of creating value.",
+        "id": 5977345,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/CCNmGkT-M9M",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 793,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFtEEv80fQVKkD4h1PF-Xqw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/CCNmGkT-M9M/hqdefault.jpg",
+        "title": "AI can't fix broken workflows",
+        "vote": 0
+    }
+]

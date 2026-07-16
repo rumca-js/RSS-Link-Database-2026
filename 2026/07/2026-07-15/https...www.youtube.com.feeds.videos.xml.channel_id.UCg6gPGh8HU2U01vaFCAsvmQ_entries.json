@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Chris Titus Tech",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-15T13:32:52.793904+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-15T11:15:31+00:00",
+        "description": "What can AI ACTUALLY do? Here is what I've built with it in the past month.\n\nI built a searchable gaming guide, automated Fedora package repository, website moderation dashboard, custom Linux desktop, cross-platform fitness tracker, and a self-hosted open-source alternative to QuickBooks.\n\nThese aren\u2019t disposable demos or AI slop. They are real projects designed to solve problems in my work and personal life.\n\nIn this video, I show what AI development looks like when you combine capable models with Git, testing, code review, documentation, guardrails, and a solid technical foundation.\n\nAI won\u2019t replace understanding how software works\u2014but it can give an experienced developer the output of an entire team.\n\nCHAPTERS\n0:00 AI Game Guide\n3:51 Fedora Automation\n7:16 Comment Admin\n10:32 DWM Titus\n16:38 Fitness Tracker\n21:33 Accounting Software\n\n\u25ba\u25ba Digital Downloads \u279c https://www.cttstore.com\n\u25ba\u25ba Patreon \u279c https://www.patreon.com/christitustech\n\u25ba\u25ba Twitch \u279c https://www.twitch.tv/christitustech\n",
+        "id": 5973874,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=fYxSGXpl6d4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 444,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCg6gPGh8HU2U01vaFCAsvmQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/fYxSGXpl6d4/hqdefault.jpg",
+        "title": "What I Actually Built With AI",
+        "vote": 0
+    }
+]

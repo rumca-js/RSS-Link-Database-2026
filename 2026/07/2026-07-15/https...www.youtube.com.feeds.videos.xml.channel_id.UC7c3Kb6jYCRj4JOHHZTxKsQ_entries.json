@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "GitHub",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-15T17:39:37.688270+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-15T15:00:06+00:00",
+        "description": "Ready to start your journey as a developer? This complete compilation brings together every episode of our GitHub for beginners series season 3 into one ultimate crash course. You will learn how to organize tasks with issues and projects, automate your workflows with GitHub Actions, and secure your code like a pro. We also cover how to write in Markdown, deploy sites with GitHub Pages, and make your first open source contribution. \n\n\u2014 CHAPTERS \u2014  \n\n00:00 How to use GitHub issues and projects \n07:54 How to use GitHub Actions \n15:45 Getting started with GitHub security \n20:28 Getting started with GitHub Pages \n24:11 Getting started with Markdown on GitHub \n29:46 Getting started with open source contributions \n35:01 How to use Git and GitHub in VS Code \n43:42 Answering the most common GitHub beginner questions \n\n\u2014 RESOURCES \u2014  \n\nDeveloper portfolio template: https://github.com/github-samples/gitfolio?utm_source=youtube-episode-1&utm_medium=video&utm_campaign=gfb-s3-2026 \n\nLearn more abou",
+        "id": 5975858,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=zZuqjoLEYzo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 1005,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7c3Kb6jYCRj4JOHHZTxKsQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/zZuqjoLEYzo/hqdefault.jpg",
+        "title": "A complete beginner's guide to mastering GitHub",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-15T12:19:31.856724+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-15T11:17:50+00:00",
+        "description": "Learn the fundamentals of shaders, with zero prior experience required. Starting from the basics of how the GPU renders pixels, you'll progress to building an animated, fractal heart effect written entirely from scratch. Designed specifically for creative developers who want to break into WebGL and master the math of motion. \n\nCourse developed by @pattvira \n\n\u2b50\ufe0f Connect with Patt Vira \u2b50\ufe0f\n\ud83d\udd17 Website: https://pattvira.com \n\ud83d\udd17 Twitter: https://twitter.com/pattvira\n\ud83d\udd17 Instagram: https://www.instagram.com/pattvira\n\n\u2b50\ufe0f Code \u2b50\ufe0f\nPart 1: https://editor.p5js.org/pattvira/sketches/LV4ZSuHXD\nPart 2: https://editor.p5js.org/pattvira/sketches/fdykpy1OD\nPart 3: https://editor.p5js.org/pattvira/sketches/I0HtC1ISj\nPart 4: https://editor.p5js.org/pattvira/sketches/WQXm21NW2\n\n\u2764\ufe0f Support for this channel comes from our friends at Scrimba \u2013 the coding platform that's reinvented interactive learning: https://scrimba.com/freecodecamp\n\n\u2b50\ufe0f Chapters \u2b50\ufe0f \n- 0:00:00 Intro\n- 0:00:51 Part 1 - Basic Introduction to Shad",
+        "id": 5973330,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=YdhXnB5E-4s",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/YdhXnB5E-4s/hqdefault.jpg",
+        "title": "Intro to Shaders \u2013 JavaScript & p5.js Course for Beginners",
+        "vote": 0
+    }
+]

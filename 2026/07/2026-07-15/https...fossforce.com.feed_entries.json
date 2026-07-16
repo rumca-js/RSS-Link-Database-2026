@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Christine Hall",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-15T20:37:03.255172+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-15T19:35:33+00:00",
+        "description": "<p><em>The removal of GPL code from FreeBSD 16\u2019s base system isn\u2019t just housekeeping \u2014 it reflects a BSD vision of \u201csoftware freedom\u201d that differs from FSF, Gnu, and Linux.</em></p>\n<p>The post <a href=\"https://fossforce.com/2026/07/freebsd-16-cleans-house-no-gpl-left-in-the-base-system/\">FreeBSD 16 Cleans House: No GPL Left in the Base System</a> appeared first on <a href=\"https://fossforce.com\">FOSS Force</a>.</p>",
+        "id": 5977178,
+        "language": "en-US",
+        "link": "https://fossforce.com/2026/07/freebsd-16-cleans-house-no-gpl-left-in-the-base-system",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 108,
+        "source_url": "https://fossforce.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "FreeBSD 16 Cleans House: No GPL Left in the Base System",
+        "vote": 0
+    }
+]

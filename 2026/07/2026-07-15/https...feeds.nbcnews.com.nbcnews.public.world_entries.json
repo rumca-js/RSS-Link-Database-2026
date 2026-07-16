@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Katrina Tudlong",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-15T11:07:31.407224+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-15T10:51:05+00:00",
+        "description": "The World Cup has provided a welcome boost to England\u2019s pubs with millions more pints sold. But the industry is ailing and many are facing closure.",
+        "id": 5972953,
+        "language": "en-US",
+        "link": "https://www.nbcnews.com/sports/soccer/world-cup-semifinal-argentina-england-beer-sales-pubs-struggle-taxes-rcna587422",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 224,
+        "source_url": "https://feeds.nbcnews.com/nbcnews/public/world",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-07/260715-pub-rs-c86d02.jpg",
+        "title": "Thirsty England fans could down an extra 6 million pints for semifinal clash",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Seth Godin",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-15T09:27:34.274536+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-15T09:03:00+00:00",
+        "description": "Even though it&#8217;s invisible, easily transported and weightless, software used to stick around. It took years to architect and build a complex bit of software, and thousands of people to help maintain it. Even a complex website could be seen as a durable technical asset. Now, with Claude Code on everyone&#8217;s desk, new software is [&#8230;]",
+        "id": 5972405,
+        "language": "en-US",
+        "link": "https://seths.blog/2026/07/disposable-software",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Disposable software",
+        "vote": 0
+    }
+]
