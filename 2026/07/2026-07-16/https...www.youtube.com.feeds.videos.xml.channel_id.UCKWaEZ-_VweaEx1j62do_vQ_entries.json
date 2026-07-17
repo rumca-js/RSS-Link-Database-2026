@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-16T14:42:05.919965+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-16T11:00:18+00:00",
+        "description": "Learn more about Trustworthy AI here \u2192 https://ibm.biz/~4LxgbWosL\n\nMost AI systems are built in the wrong order. Phaedra Boinodiris explains why AI risk should shape requirements, architecture, and governance from the very beginning. Learn how explainability, accountability, and risk-driven design create trustworthy AI systems.\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/~tu56OGQgp\n\n#aiarchitecture #airisk #responsibleai #explainableai",
+        "id": 5982383,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=3G6AVkp4Rf0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/3G6AVkp4Rf0/hqdefault.jpg",
+        "title": "Why Risk Should Determine Your AI Architecture",
+        "vote": 0
+    }
+]

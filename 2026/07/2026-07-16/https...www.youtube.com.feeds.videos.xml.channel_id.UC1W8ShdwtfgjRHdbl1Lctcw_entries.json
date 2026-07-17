@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NASS",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-16T22:29:45.531532+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-16T20:21:17+00:00",
+        "description": "Travel back in time to the Bronx, New York, in the 1930s, and discover daily life in one of the most iconic boroughs of the United States during the Great Depression. These exceptional archival images show bustling sidewalks, crowded apartment blocks, street vendors, children playing, and families working hard to get through one of the most difficult periods in American history.\n\nIf you enjoy our restored archival footage, please \u201clike,\u201d leave a comment, and subscribe to support our future projects.\n\n\ud83d\udcfd\ufe0f Technologies & Techniques Used:\n\u2022 Advanced video restoration\n\u2022 New semantic colorization only for the ambiance (not historically accurate)\n\u2022 Manually colorized keyframes (to establish accurate ambiance and color consistency (not historically accurate)\n\u2022 Advanced frame reconstruction to 4K\n\u2022 Manual color corrections \n\u2022 Classical restoration workflows (AviSynth ) combined with modern tools for (60fps, stabilization, denoise, cleaning, and deblurring )\n\u2022 Sound design created for immersive",
+        "id": 5985743,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=vfN9V0JVeT8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 222,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC1W8ShdwtfgjRHdbl1Lctcw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/vfN9V0JVeT8/hqdefault.jpg",
+        "title": "The Bronx, New York 1930s, Life During the Great Depression | Advanced Colorization & 4K Restoration",
+        "vote": 0
+    }
+]

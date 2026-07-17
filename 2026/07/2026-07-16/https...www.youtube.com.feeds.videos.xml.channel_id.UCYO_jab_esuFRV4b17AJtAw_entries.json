@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "3Blue1Brown",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-16T13:18:19.716439+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-16T11:56:04+00:00",
+        "description": "Where the loss function for training LLMs comes from.\nJob opportunities aligned to this audience: https://3b1b.co/talent\nEarly views and other perks for supporters: https://3b1b.co/support\nHome page: https://www.3blue1brown.com\n\nManim animations by Aaron Gostein and Grant Sanderson\nNanoGPT animation by Clayton Rabideau\n3d black-box model by Paul Dancstep\nMusic by Vince Rubinetti\n\nTimestamps\n\n0:00 - Language trees and zipping\n3:02 - Recap optimal codes\n5:20 - Defining cross-entropy\n8:26 - Intuition and examples\n12:59 - Application to language trees\n14:55 - Pre-training LLMs\n20:38 - What makes this loss function best?\n26:13 - Distillation\n30:12 - 3b1b Talent\n31:35 - KL Divergence\n\n------------------\n\nThese animations are largely made using a custom Python library, manim.  See the FAQ comments here:\nhttps://3b1b.co/faq#manim\n\nMusic by Vincent Rubinetti.\nhttps://vincerubinetti.bandcamp.com/album/the-music-of-3blue1brown\nhttps://open.spotify.com/album/1dVyjwS8FBqXhRunaG5W5u\n\n--------------",
+        "id": 5981680,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=GlYgs6v2YfU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 884,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYO_jab_esuFRV4b17AJtAw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/GlYgs6v2YfU/hqdefault.jpg",
+        "title": "But what is cross-entropy? | Compression is Intelligence Part 2",
+        "vote": 0
+    }
+]

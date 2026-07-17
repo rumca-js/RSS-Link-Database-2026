@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Chris Price",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-16T13:00:39.302990+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-16T12:34:17+00:00",
+        "description": "Pound hits one-year high on hopes of Chancellor Mahmood",
+        "id": 5981563,
+        "language": "en-UK",
+        "link": "https://www.telegraph.co.uk/business/2026/07/16/uk-economy-gdp-iran-war-fuel-oil-prices-ftse-100-markets",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 81,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 354,
+        "source_url": "https://www.telegraph.co.uk/business/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Pound hits one-year high on hopes of Chancellor Mahmood",
+        "vote": 0
+    }
+]

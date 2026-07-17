@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Hammond",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-16T17:54:02.334986+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-16T15:01:56+00:00",
+        "description": "Attackers are openly advertising phishing infrastructure with dashboards, token capture, and Office 365-focused services.\n\nI walk through one of these marketplaces, examine the claims they're making, and discuss what defenders can learn from how these services are presented and marketed.\n\nWatch the full video here: https://youtu.be/9b3kirR8s2U?si=QrZfZQ6l_h9UVQB6",
+        "id": 5983842,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/xoBhmMhyWfk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 959,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVeW9qkBjo3zosnqUbG7CFw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/xoBhmMhyWfk/hqdefault.jpg",
+        "title": "Evil Token Marketplace",
+        "vote": 0
+    }
+]

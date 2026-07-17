@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-16T18:39:15.925808+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-16T17:30:13+00:00",
+        "description": "Just the other day Linus Torvalds himself fully confirmed that the Linux kernel was not going to be an anti-ai project and would happily embrace the technology which should have been obvious to anyone paying attention.\n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\nKernel AI Docs: https://docs.kernel.org/process/coding-assistants.html\nGreg KH AI: https://www.theregister.com/software/2026/03/26/linux-kernel-czar-says-ai-bug-reports-arent-slop-anymore/5226256\nTorvalds Thread: https://lore.kernel.org/linux-media/20260530103004.6fe2ffa7@foz.lan/\nSashiko Repo: https://github.com/sashiko-dev/sashiko\n\n=========Video Platforms==========\n\ud83c\udfa5 React: https://www.youtube.com/@BrodieRobertsonReacts\n\ud83c\udfa5 Podcast: https://techovertea.xyz/youtube\n\ud83c\udfae Gaming: https://brodierobertson.xyz/gamin",
+        "id": 5984211,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=_Okkcg-lsXI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/_Okkcg-lsXI/hqdefault.jpg",
+        "title": "Linus Torvalds Says The Linux Kernel Is Not \"Anti-AI\"",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Khan Academy",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-16T13:20:05.891557+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-16T11:28:23+00:00",
+        "description": "Courses on Khan Academy are always 100% free. Start practicing\u2014and saving your progress\u2014now. https://www.khanacademy.org/science/ap-physics-c-mechanics\n\nIf a force varies with position, the work done by that force cannot generally be calculated as a simple product. Instead, an integral is required to sum the infinitesimal work contributions along the object\u2019s path. The work done by such a force is given by a line integral, evaluated along the path from the object\u2019s initial to final position. For one-dimensional motion, work is equal to the area under the curve of the parallel component of force versus position.\n\nSections:\n00:00 - Intro\n01:27 - Work-energy theorem\n02:30 - Expression for work done\n04:32 - Work done by a variable force\n09:50 - Representing force and displacement vectors\n12:38 - Deriving an expression for velocity\n14:30 - Sense check\n16:22 - Intuition behind escape velocity\n\n------------------\n\nKhan Academy is a nonprofit organization with the mission of providing a free,",
+        "id": 5981707,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=gS2yei7d0_E",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 977,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4a-Gbdw7vOaccHmFo40b9g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/gS2yei7d0_E/hqdefault.jpg",
+        "title": "Work done by forces (part 2) | AP Physics | Khan Academy",
+        "vote": 0
+    }
+]

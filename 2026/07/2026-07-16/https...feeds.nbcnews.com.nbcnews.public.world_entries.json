@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Abigail Williams",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-16T02:12:42.124042+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-16T01:38:11+00:00",
+        "description": "Jared Genser, a lawyer who has been involved with high-profile cases of U.S. citizens detained in Iran, named the released citizen as his client, Dena Karari.",
+        "id": 5978836,
+        "language": "en-US",
+        "link": "https://www.nbcnews.com/world/iran/trump-announces-release-us-citizen-held-iran-2024-dena-karari-rcna587764",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 224,
+        "source_url": "https://feeds.nbcnews.com/nbcnews/public/world",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-07/260705-iran-khamenei-funeral-vl-357p-312d20.jpg",
+        "title": "Trump announces release of U.S. citizen held in Iran since 2024",
+        "vote": 0
+    }
+]

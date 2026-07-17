@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-16T13:50:56.599299+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-16T12:09:26+00:00",
+        "description": "The US military targeted an unladen oil tanker which it said was heading for the key Iranian oil terminal on Kharg island.",
+        "id": 5981940,
+        "language": "en-gb",
+        "link": "https://www.bbc.co.uk/news/articles/clyqwkegqk0o",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 525,
+        "source_url": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/796a/live/75bc39a0-8107-11f1-b976-0b9c15b0ccfc.png",
+        "title": "US strikes oil tanker with missiles as it enforces new Iran blockade",
+        "vote": 0
+    }
+]

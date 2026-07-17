@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Matt Wolfe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-16T14:47:23.262556+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-16T14:40:45+00:00",
+        "description": "I gave two of the most popular AI website builders the exact same prompt:\n\nBuild a landing page for Midjourney's crazy new full-body scanner product.\n\nBoth generated a great concept and turned out way better than I expected, but they had different workflows. Claude design generated a great concept, but @Framer is made for iterating, refining, and shipping a production-ready website all in 1 platform.\n\nLet me know in the comment which site you liked better.\n\nAnd check out www.Framer.com to build your own site today.\n\n#FramerPartner #vibecoding #webdesign #ai #aiagents",
+        "id": 5982423,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/FO5zsDIY6Yc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 933,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChpleBmo18P08aKCIgti38g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/FO5zsDIY6Yc/hqdefault.jpg",
+        "title": "Testing the 2 BIGGEST AI Website Builders",
+        "vote": 0
+    }
+]
