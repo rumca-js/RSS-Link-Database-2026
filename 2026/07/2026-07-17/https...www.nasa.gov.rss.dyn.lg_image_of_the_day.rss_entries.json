@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-17T21:50:21.518684+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-17T20:06:00+00:00",
+        "description": "Scientists using NASA\u2019s IXPE (Imaging X-ray Polarimetry Explorer) directly measured the magnetic fields of PSR J1101\u22126101, a pulsar located within what is often referred to as the \u201cLighthouse\u201d Nebula, for the first time.",
+        "id": 5993144,
+        "language": "en-us",
+        "link": "https://www.nasa.gov/image-detail/lighthouse-lg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 485,
+        "source_url": "https://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "NASA's Chandra and IXPE Study Pulsar in Lighthouse Nebula",
+        "vote": 0
+    }
+]

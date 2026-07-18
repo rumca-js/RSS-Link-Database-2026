@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-17T05:41:16.585195+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-17T05:09:09+00:00",
+        "description": "The HackRF Pro is an open-hardware software-defined radio platform from Great Scott Gadgets that supports transmission and reception from 100kHz to 6GHz. The half-duplex transceiver maintains backward compatibility with software and accessories developed for the earlier HackRF One. The HackRF Pro follows the same general architecture as its predecessor but introduces several RF, processing, timing, [&#8230;]",
+        "id": 5987343,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/hackrf-pro-sdr-covers-100khz-to-6ghz-with-fpga-based-processing",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "HackRF Pro SDR covers 100kHz to 6GHz with FPGA-based processing",
+        "vote": 0
+    }
+]

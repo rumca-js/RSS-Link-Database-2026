@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-17T11:59:37.424481+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-17T10:00:37+00:00",
+        "description": "Visit Mixture of Experts podcast page to get more AI content \u2192 https://ibm.biz/~KwWVYq9Sw\n\nIs customizable intelligence the future of AI? This week on Mixture of Experts, Tim Hwang is joined by Aaron Baughman, Chris Hay and Merve Unuvar to analyze Thinking Machines\u2019 first model release, Inkling. Next, Meta makes its comeback with Muse Spark 1.1, positioning itself as the most economical model built for scale. Then, OpenAI\u2019s GPT-5.6 Sol achieves an 8% score on ARC-AGI-3, sparking debate about if we\u2019re approaching AGI. Finally, we dissect Anthropic\u2019s latest paper on the \u201cJ-space\u201d\u2014claiming to reveal a subconscious-like layer inside Claude. \n\nAll that and more on this week\u2019s Mixture of Experts.\n\n00:00 \u2013 Introduction\n00:50 \u2013 Thinking Machines Inkling model release\n19:48 \u2013 GPT-5.6 Sol ARC-AGI-3 performance\n29:03 \u2013 Anthropic\u2019s J-space consciousness debate\n\nThe opinions expressed in this podcast are solely those of the participants and do not necessarily reflect the views of IBM or any other ",
+        "id": 5989149,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=8rGYGFmytQs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/8rGYGFmytQs/hqdefault.jpg",
+        "title": "Thinking Machines Lab drops Inkling & Meta\u2019s Muse Spark 1.1",
+        "vote": 0
+    }
+]

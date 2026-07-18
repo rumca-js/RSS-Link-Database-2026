@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Rational Animations",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-17T17:08:32.661266+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-17T15:15:23+00:00",
+        "description": "Can AI come up with original ideas?\n\nAI is often dismissed as a \"stochastic parrot\": just a word predictor that's incapable of original thought. Is this view correct? In this video we try to answer by looking at the history of AI, modern interpretability studies, and the way current AI is actually trained to solve complex problems.\n\n\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580SOURCES & READINGS\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\n\nBABBAGE AND LOVELACE\n\nThe Engines\nhttps://www.computerhistory.org/babbage/engines/\n\nUntangling the Tale of Ada Lovelace\nhttps://writings.stephenwolfram.com/2015/12/untangling-the-tale-of-ada-lovelace/\n\nSketch of The Analytical Engine Invented by Charles Babbage\nhttps://www.fourmilab.ch/babbage/sketch.html\n\nEARLY COMPUTING, AI MILESTONES, AND THE TURING TEST\n\nLarge Prime Numbers\nhttps://doi.org/10.1038/168838b0\n\nDeep Blue\nhttps://www.ibm.com/history/deep-blue\n\nLarge Language Models Pass the Turing Test\nhttps://arxiv.org/pdf/2503.23674\n\nComputing Machinery and Intelligence\nhttps://www.csee.umbc.edu/courses/471/pa",
+        "id": 5991258,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Z7dH_Cxx75g",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 879,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCgqt1RE0k0MIr0LoyJRy2lg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/Z7dH_Cxx75g/hqdefault.jpg",
+        "title": "Can AI Come Up With Original Ideas?",
+        "vote": 0
+    }
+]

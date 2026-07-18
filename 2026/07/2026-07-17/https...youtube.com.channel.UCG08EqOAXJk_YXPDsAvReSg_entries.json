@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unity",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-17T17:01:47.144346+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-17T16:43:06+00:00",
+        "description": "Learn how to create and manage IAP Webshops directly from the Unity Dashboard.\n\nIn this tutorial, we\u2019ll walk through:\n\u2705 Setting up a new Webshop.\n\u2705 Customizing the look and feel of your store with theme generation.\n\u2705 Connecting your IAP catalog and payment provider.\n\u2705 Testing your storefront with the mock catalog.\n\u2705 Integrating your Webshop into your Unity game.\n\nLearn more: \n\ud83d\udd17 Official documentation: https://on.unity.com/D2C_Workflow\n\ud83d\udd17 Discussion Article: https://on.unity.com/IAP54_Discussions\n\ud83d\udd17 Gem Hunter UGS Reference Project: https://on.unity.com/GemHunter_Blog\n\n[0:00] Introduction to IAP Webshops\n[0:25] Creating Your First Webshop\n[1:05] Testing with the Mock Catalog\n[1:54] Customizing the Store with Theme Generation\n[2:56] Managing & Adding Production Catalog Listings\n[3:34] Setting Up Payment Providers\n[4:02] Simulating a Purchase Checkout Flow\n[4:26] How to Open and Integrate the Webshop From Your Game\n\n_______________\n\nStay connected with us: \nGames Twitter/X: https://x.com/u",
+        "id": 5991232,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=yRgOiQ3sbHg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 683,
+        "source_url": "https://youtube.com/channel/UCG08EqOAXJk_YXPDsAvReSg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/yRgOiQ3sbHg/hqdefault.jpg",
+        "title": "IAP 5 Webshops | Building your first in-app purchases webshop tutorial",
+        "vote": 0
+    }
+]

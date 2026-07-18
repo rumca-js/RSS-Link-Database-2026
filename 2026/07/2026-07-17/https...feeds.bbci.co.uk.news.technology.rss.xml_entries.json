@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-17T17:59:16.351659+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-17T16:53:04+00:00",
+        "description": "The company has unveiled a massive new artificial intelligence model it says can take on top American firms.",
+        "id": 5991690,
+        "language": "en-US",
+        "link": "https://www.bbc.co.uk/news/articles/cy9w4q8pgp0o",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 28,
+        "source_url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c87/live/deb1fae0-81f6-11f1-8f4c-d74af0a2675b.jpg",
+        "title": "China's Moonshot AI claims Kimi K3 can rival OpenAI and Anthropic",
+        "vote": 0
+    }
+]

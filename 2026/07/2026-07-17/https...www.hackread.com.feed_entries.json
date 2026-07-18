@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Waqas",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-17T14:59:12.179848+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-17T13:51:42+00:00",
+        "description": "An email that appears to contain a shipping document, payment request, or business proposal can infect a Windows&#8230;",
+        "id": 5990266,
+        "language": "en-US",
+        "link": "https://hackread.com/ttf-trap-phishing-fake-font-files-windows-malware",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 139,
+        "source_url": "https://www.hackread.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "\u201cTTF Trap\u201d Phishing Emails Use Fake Font Files to Deliver Windows Malware",
+        "vote": 0
+    }
+]

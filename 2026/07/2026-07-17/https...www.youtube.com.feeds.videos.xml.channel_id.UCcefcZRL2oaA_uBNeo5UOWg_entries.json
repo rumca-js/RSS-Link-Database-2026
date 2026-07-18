@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-17T15:16:30.084546+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-17T14:00:25+00:00",
+        "description": "In this episode of Decoded, Ankit and Francois walk through the motivation and math behind world models. They cover a number of areas including why sample efficiency is one of the biggest unsolved problems in AI, how deterministic differentiable control and Newtonian physics represent a \"perfect world model,\" and why the action space explosion makes chess tractable but robotics nearly intractable.\n\nApply to Y Combinator: https://www.ycombinator.com/apply\nWork at a startup: https://www.ycombinator.com/jobs\n\nTranscript: https://ycrootaccess.substack.com/p/world-models-an-intuitive-introduction\n\nChapters:\n\n00:00 \u2014 Intro\n01:45 \u2014 What would perfect efficiency look like?\n05:10 \u2014 World models in the human brain\n09:20 \u2014 Control theory & the drone example\n14:30 \u2014 When physics breaks down\n17:45 \u2014 Chess, Go & the action space problem\n24:10 \u2014 Why AlphaGo can't scale\n28:00 \u2014 Monte Carlo tree search explained\n34:00 \u2014 Self-Driving: state space is infinite\n40:30 \u2014 Model-Free vs. Model-Based RL\n44:00 ",
+        "id": 5990425,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=qz4GQ0zUFRw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/qz4GQ0zUFRw/hqdefault.jpg",
+        "title": "AI Can't Learn The Way Humans Do - This Could Fix That",
+        "vote": 0
+    }
+]

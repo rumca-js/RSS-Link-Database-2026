@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Khan Academy",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-17T19:31:04.720880+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-17T18:49:32+00:00",
+        "description": "Courses on Khan Academy are always 100% free. Start practicing\u2014and saving your progress\u2014now. https://www.khanacademy.org/science/ap-physics-c-mechanics\n\nPotential energies are only associated with conservative forces. The change in potential energy between two configurations of a system is the negative of the work done by the conservative force during the change. Because the gravitational field near the surface of a planet is nearly constant, the change in gravitational potential energy of a system containing an object and a planet when the object is near the surface of the planet can be approximated by \u0394U_g = mg\u0394y. \n\nSections:\n00:00 - Intro\n00:26 - Calculating work done by gravity\n05:00 - Why is gravity a conservative force? \n06:19 - Why is friction a nonconservative force? \n09:09 - Defining potential energy for conservative forces\n12:18 - Conservation of mechanical energy\n14:03 - General equation for potential energy change\n16:28 - Summary\n\n------------------\n\nKhan Academy is a nonp",
+        "id": 5992358,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=1eooA5q9GCs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 977,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4a-Gbdw7vOaccHmFo40b9g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/1eooA5q9GCs/hqdefault.jpg",
+        "title": "Potential energy and conservative forces (part 1) | AP Physics | Khan Academy",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-17T20:22:29.465824+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-17T04:00:00+00:00",
+        "description": "<img src=\"https://imgs.xkcd.com/comics/latitude_and_longitude.png\" title=\"NGS and IERS are complaining that they left CLEAR instructions to set the washing machine to WGS84 (G2296) instead of WGS84 (G730).\" alt=\"NGS and IERS are complaining that they left CLEAR instructions to set the washing machine to WGS84 (G2296) instead of WGS84 (G730).\" />",
+        "id": 5992584,
+        "language": "en",
+        "link": "https://xkcd.com/3273",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 573,
+        "source_url": "https://xkcd.com/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://imgs.xkcd.com/comics/latitude_and_longitude.png",
+        "title": "Latitude and Longitude",
+        "vote": 0
+    }
+]
