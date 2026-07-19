@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Nancy Shute",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-18T11:16:19.993325+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-18T11:00:00+00:00",
+        "description": "Editor in Chief Nancy Shute discusses the history of unethical practices in research on human remains and the progress toward more ethical standards.",
+        "id": 5995640,
+        "language": "en-US",
+        "link": "https://www.sciencenews.org/article/who-owns-your-bones-ed-note-august-2026",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 295,
+        "source_url": "https://www.sciencenews.org/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Who owns your bones?",
+        "vote": 0
+    }
+]
