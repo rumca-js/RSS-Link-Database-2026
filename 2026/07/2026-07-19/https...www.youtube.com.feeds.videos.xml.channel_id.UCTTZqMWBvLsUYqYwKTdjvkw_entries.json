@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mateusz Chrobok",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-19T16:49:53.335987+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-19T16:00:36+00:00",
+        "description": "\ud83e\udd86\u00a0Mozilla poinformowa\u0142a niedawno, \u017ce wdro\u017cy\u0142a wsparcie dla mechanizmu QWAC. Ale co to w og\u00f3le takiego jest ten ca\u0142y QWAC? Czy mno\u017cenie byt\u00f3w ma jaki\u015b\u00a0sens? I czy co\u015b,\u00a0co kwacze jak kaczka, zawsze jest kaczk\u0105?\n\n\ud83d\udc49\u00a0Sprawd\u017a\u00a02FAS Pass\nhttps://2fas.com/pass/\n \n\u0179r\u00f3d\u0142a:\n\ud83e\udd8a\u00a0Firefox Nightly \ud83d\udd25\u00a0@ Twitter\nhttps://x.com/FirefoxNightly/status/2061716346895786203\n\n\ud83d\udda5\ufe0f\u00a0enable QWACs by default on desktop - bugzilla\nhttps://bugzilla.mozilla.org/show_bug.cgi?id=2043399\n\n\u2753\u00a0What is a QWAC?\nhttps://eidas.ec.europa.eu/efda/discover/qwac\n\n\ud83d\udd12\u00a0We need to talk about the \u201cgreen padlock\u201d\nhttps://medium.com/@ScottMcGready/we-need-to-talk-about-the-green-padlock-ca0ea433b61b\n\n\ud83d\udd0f\u00a0An Update on the Lock Icon \nhttps://blog.chromium.org/2023/05/an-update-on-lock-icon.html\n\n\ud83d\udd11\u00a0Certyfikat SSL a QWAC \u2013 r\u00f3\u017cnice i zastosowanie\nhttps://eurocert.pl/certyfikat-ssl-a-qwac-roznice-i-zastosowanie/\n\n\ud83e\udd83\u00a0Entire Internet's Security Jeopardized by Single Mistake\nhttps://www.nbcnews.com/id/wbna50357357\n\n\ud83d\udc8c\u00a0e-Dor\u0119czenia: Dla Kwalifikowanych Dost",
+        "id": 6001613,
+        "language": "pl-PL",
+        "link": "https://www.youtube.com/watch?v=lZdv6FeYHjE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 211,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTTZqMWBvLsUYqYwKTdjvkw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/lZdv6FeYHjE/hqdefault.jpg",
+        "title": "Gdy co\u015b\u00a0kwacze jak kaczka\u2026",
+        "vote": 0
+    }
+]

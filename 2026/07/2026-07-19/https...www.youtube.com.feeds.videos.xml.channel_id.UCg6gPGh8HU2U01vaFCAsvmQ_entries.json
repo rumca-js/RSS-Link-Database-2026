@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Chris Titus Tech",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-19T12:38:07.219716+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-19T11:15:15+00:00",
+        "description": "Windows can automatically install companion apps and manufacturer bloatware when you connect hardware or boot your PC.\n\nIn this video, I show you how to disable device companion apps and the Windows Platform Binary Table so companies like Razer, Logitech, LG, ASUS, and MSI cannot quietly push unnecessary software onto your system.\n\nThese tweaks can reduce background junk, improve security, and prevent manufacturer software from slowing down or interfering with Windows.\n\nGet the CTT Windows Utility with offline support:\nhttps://cttstore.com\n\nGamers Nexus Video about LG Monitor Spyware: https://youtu.be/Q9uefFYe6bM?si=E1J8WSEmxQs5uuxe\n\n00:00 Device Companion Apps\n01:25 Motherboard Crapware\n02:27 Disable Both Features\n\n\u25ba\u25ba Digital Downloads \u279c https://www.cttstore.com\n\u25ba\u25ba Patreon \u279c https://www.patreon.com/christitustech\n\u25ba\u25ba Twitch \u279c https://www.twitch.tv/christitustech\n\u25ba\u25ba Website and Guides \u279c https://christitus.com",
+        "id": 6000527,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=CNf0bLs1vyg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 444,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCg6gPGh8HU2U01vaFCAsvmQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/CNf0bLs1vyg/hqdefault.jpg",
+        "title": "Stop Windows From Installing Device Crapware",
+        "vote": 0
+    }
+]

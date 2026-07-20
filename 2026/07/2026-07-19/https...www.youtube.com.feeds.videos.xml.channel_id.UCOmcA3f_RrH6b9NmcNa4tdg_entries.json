@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CNET",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-19T12:40:13.412841+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-19T12:00:28+00:00",
+        "description": "Rhoda AI is betting the future of robotics starts with internet video, not lab data. We visited the company\u2019s headquarters to see how its Direct Video Action model learns physics from hundreds of millions of clips.\n\nAdd CNET as a trusted news source https://www.google.com/preferences/source?q=cnet.com\nNever miss a deal again! See CNET\u2019s browser extension \ud83d\udc49 https://bit.ly/3lO7sOU\nCheck out CNET\u2019s Amazon Storefront: https://www.amazon.com/shop/cnet\nSubscribe to CNET on YouTube: https://www.youtube.com/cnet\nFollow us on TikTok: https://www.tiktok.com/@cnetdotcom\nFollow us on Instagram: https://www.instagram.com/cnet\nFollow us on Bluesky: https://bsky.app/profile/cnet.com\nLike us on Facebook: https://www.facebook.com/cnet\nCNET's AI Atlas: https://www.cnet.com/ai-atlas\nFollow us on X: https://www.x.com/cnet\nVisit CNET.com:  https://www.cnet.com\n\n#Robot #AI #WTF",
+        "id": 6000537,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=DzsT58xEjXs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 796,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCOmcA3f_RrH6b9NmcNa4tdg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/DzsT58xEjXs/hqdefault.jpg",
+        "title": "Meet the Robot Trained on 100 Million Internet Videos",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Steve Hendrix",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-19T09:32:05.611356+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-19T09:00:00+00:00",
+        "description": "The incoming prime minister takes office Monday with little foreign policy background and daunting global challenges to confront.",
+        "id": 5999916,
+        "language": "en-US",
+        "link": "https://www.washingtonpost.com/world/2026/07/19/andy-burnham-prepares-become-uk-prime-minister-deal-with-trump",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 365,
+        "source_url": "https://feeds.washingtonpost.com/rss/world?itid=lk_inline_manual_36",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Andy Burnham prepares to lead Britain \u2014 and face Trump",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-19T19:52:47.567515+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-19T18:53:06+00:00",
+        "description": "M5Stack has introduced three compact products addressing wireless IoT development, industrial automation, and portable embedded control. The lineup includes the Stamp-C5 module with dual-band Wi-Fi 6 and IEEE 802.15.4 connectivity, the isolated StamPLC IO expansion module, and the lower-cost StickC Plus SE handheld development kit. The Stamp-C5 is based on Espressif&#8217;s ESP32-C5HF4 and measures 17.6 [&#8230;]",
+        "id": 6002422,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/m5stack-broadens-embedded-lineup-with-wireless-industrial-and-handheld-devices",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "M5Stack broadens embedded lineup with wireless, industrial, and handheld devices",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-19T13:31:55.518659+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-19T11:00:37+00:00",
+        "description": "Learn more about Retrieval Augmented Generation (RAG) here \u2192 https://ibm.biz/~xjkgmfItH\n\nComplex documents often lead AI systems to confusing answers. Shad Griffin explains how RAG solutions fail when documents contradict each other and evolve over time. Learn practical techniques to design RAG systems that respect data ambiguity and avoid false hallucinations.\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/~hewg14hoM\n\n#retrievalaugmentedgeneration #vectordatabases #aisystems #aiaccuracy",
+        "id": 6000758,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=xc63tFIIfeA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/xc63tFIIfeA/hqdefault.jpg",
+        "title": "Why RAG Solutions Fail with Complex Documents & Vector Databases",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NetworkChuck",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-19T19:07:59.589489+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-19T17:12:16+00:00",
+        "description": "Build your next random idea on a Hostinger: https://hostinger.com/chuckfifa\n\nI spent two days inside the FIFA World Cup International Broadcast Center (IBC), the temporary network that carries every camera, every replay, every goal from 16 stadiums, and the HBS team even handed me a packet capture of a real match. So we open it in Wireshark: uncompressed ST 2110 video, 150,000 multicast flows, and a failover trick that will make any network engineer smile.\n\n\ud83c\udf93 I asked the crew HOURS of questions that didn't fit in this video, the full behind-the-scenes interviews are on NetworkChuck Academy: https://ntck-ac.co/fifa?utm_source=youtube&utm_medium=video&utm_campaign=fifa_world_cup_2026&utm_content=fifa_main_tour\n\n \n\n\n\nRESOURCES / LINKS:\n\ud83c\udfae Play the Backrooms of the IBC (built on a Hostinger VPS with a Hermes agent): https://srv732026.hstgr.cloud\n\ud83d\udcda THE SIGNAL \u2014 the World Cup networking comic I made for my kids: https://srv732026.hstgr.cloud/comic/\n\ud83d\udee0\ufe0f Wireshark (decode packets yourself): htt",
+        "id": 6002175,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=LhnH0juUaGw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 565,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9x0AN7BWHpCDHSm9NiJFJQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/LhnH0juUaGw/hqdefault.jpg",
+        "title": "I got inside FIFA\u2019s Secret World Cup Broadcast Network",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ETA PRIME",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-19T16:05:08.913008+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-19T15:00:51+00:00",
+        "description": "Are pre-built Steam Machines too expensive? In this video, I build a custom, small form-factor Steam Machine that costs less and packs a serious punch! We are using an awesome Minisforum BD770i mobile motherboard combo featuring an AMD Ryzen 7 7745HX, paired with a used AMD Radeon RX 7600 GPU inside a compact Amazon Mini-ITX case.\n\nRadeon RX 7600: https://amzn.to/4kp0sWr\nUsed RX 7600: https://ebay.us/Bz3on4\nMinisforum B770i: https://amzn.to/4wR0dZe\nSodimm Ram: https://ebay.us/F9HRWX\nM.2 SSD: https://amzn.to/43qP0BB\n550W PSU: https://amzn.to/43kbmVj\n\nI\u2019ll walk you through the parts used, the official SteamOS installation process, and how to fix a common integrated graphics issue in the BIOS. We\u2019ll also run extensive 1080p, 1440p, and 4K benchmarks against a standard Steam Machine to see exactly what kind of performance uplift we get. Finally, we'll test real-world gameplay in heavy hitters like Cyberpunk 2077, Forza Horizon 6, Spider-Man 2, and more!\n\nFollow Me On Twitter: https://twit",
+        "id": 6001435,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=rfdAOPCdiEM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 100,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_0CVCfC_3iuHqmyClu59Uw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/rfdAOPCdiEM/hqdefault.jpg",
+        "title": "You Can Build a Faster Custom Steam Machine for Less!",
+        "vote": 0
+    }
+]
