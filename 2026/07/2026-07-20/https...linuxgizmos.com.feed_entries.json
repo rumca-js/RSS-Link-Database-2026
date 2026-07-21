@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-20T05:42:27.299239+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-20T04:37:18+00:00",
+        "description": "Geniatech&#8217;s XPI-3576-CM5 is a 55 &#215; 40mm compute module built around Rockchip&#8217;s RK3576 processor and designed for use with Raspberry Pi Compute Module 5 carrier boards. It combines an octa-core CPU, a 6-TOPS NPU, LPDDR5 memory, optional Wi-Fi 6 connectivity, and commercial- or industrial-temperature configurations. The RK3576 integrates four Arm Cortex-A72 cores running at up [&#8230;]",
+        "id": 6004185,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/geniatech-xpi-3576-cm5-brings-6-tops-rk3576-performance-with-raspberry-pi-cm5-compatibility",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Geniatech XPI-3576-CM5 brings 6-TOPS RK3576 performance with Raspberry Pi CM5 compatibility",
+        "vote": 0
+    }
+]

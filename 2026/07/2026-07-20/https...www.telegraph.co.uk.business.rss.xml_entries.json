@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Emma Taggart",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-20T18:03:31.917258+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-20T17:57:52+00:00",
+        "description": "UK borrowing costs rise at fastest pace in G7",
+        "id": 6008471,
+        "language": "en-UK",
+        "link": "https://www.telegraph.co.uk/business/2026/07/20/oil-prices-rise-above-90-dollars-us-iran-war",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 81,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 354,
+        "source_url": "https://www.telegraph.co.uk/business/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "UK borrowing costs rise at fastest pace in G7",
+        "vote": 0
+    }
+]

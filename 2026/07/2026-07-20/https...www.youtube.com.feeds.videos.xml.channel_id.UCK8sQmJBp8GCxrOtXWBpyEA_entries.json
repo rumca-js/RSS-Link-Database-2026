@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Google",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-20T17:59:46.257472+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-20T16:54:03+00:00",
+        "description": "Hit the \ud83c\udf4c in the Google app to try on different styles and find your new look.\n\n#GoogleSearch",
+        "id": 6008446,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/ey8ai_3FwJI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 777,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCK8sQmJBp8GCxrOtXWBpyEA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/ey8ai_3FwJI/hqdefault.jpg",
+        "title": "Try on that new hairstyle before heading to the salon \u2702\ufe0f",
+        "vote": 0
+    }
+]

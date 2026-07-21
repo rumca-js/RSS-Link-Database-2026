@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kevin Stratvert",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-20T08:48:29.534902+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-20T07:00:33+00:00",
+        "description": "Send personalized emails to hundreds of people directly from Gmail using a 100% free mail merge add-on.\n\nIn this step-by-step tutorial, I'll show you how to install my free Gmail Mail Merge add-on, connect it to a Google Sheets spreadsheet, personalize emails with merge fields, add custom subject lines, include PDF attachments, use CC and BCC recipients, preview your emails before sending, and send your mail merge in just a few clicks.\n\nWhether you're sending invoices, newsletters, customer updates, event invitations, or sales emails, this tutorial will help you get started quickly.\n\nHost: Kevin Stratvert\n\n\ud83d\udcda RESOURCES\n- Mail Merge by Kevin Stratvert: https://workspace.google.com/marketplace/app/mail_merge_by_kevin_stratvert/709221567226?flow_type=2\n\n\u231a TIMESTAMPS\n0:00 - Introduction\n0:25 - Install the Mail Merge add-on\n0:53 - Open Mail Merge\n1:03 - Add recipients and merge fields\n1:56 - Attach files from Google Drive\n2:24 - Add custom merge fields\n2:42 - Connect your spreadsheet\n2:53 -",
+        "id": 6004855,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Y3pu30IpypU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 958,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfJT_eYDTmDE-ovKaxVE1ig",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/Y3pu30IpypU/hqdefault.jpg",
+        "title": "How to Mail Merge in Gmail (100% Free)",
+        "vote": 0
+    }
+]

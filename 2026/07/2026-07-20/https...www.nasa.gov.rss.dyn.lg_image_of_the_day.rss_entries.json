@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-20T16:20:35.032009+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-20T15:43:00+00:00",
+        "description": "On the morning of July 20, 1976, roughly 40 minutes after mission controllers received word that the Viking 1 lander had successfully touched down on the surface of Mars, this photo gave us our first view from the surface of another planet.",
+        "id": 6007690,
+        "language": "en-us",
+        "link": "https://www.nasa.gov/image-detail/34280-mars-viking1-lander-1st-image-pia00381",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 485,
+        "source_url": "https://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Our First View of the Surface of Mars",
+        "vote": 0
+    }
+]

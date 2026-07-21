@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-20T11:05:19.081882+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-20T10:00:18+00:00",
+        "description": "The Claude Certified Architect \u2013 Foundations (CCA-F) is Anthropic\u2019s official credential validating your ability to design and implement production-grade AI solutions using Claude. The exam evaluates practical architectural judgment across real-world enterprise scenarios rather than theoretical trivia.\n\nLearn how to pass the exam! Earn the certification. \n\nMore course resources: https://www.exampro.co/cca-f\n\n\u270f\ufe0f Course developed by @ExamProChannel \n\n\u2764\ufe0f Support for this channel comes from our friends at Scrimba \u2013 the coding platform that's reinvented interactive learning: https://scrimba.com/freecodecamp\n\n\u2b50\ufe0f Chapter \u2b50\ufe0f\n- 00:00:47 Introduction\n- 00:10:17 SDK Environment Setup\n- 00:47:36 Agentic Loop Foundations\n- 01:52:53 Orchestration multi agent architecture\n- 04:15:46 Advanced Agent Patterns\n- 06:47:52 Sessions management context state\n- 07:31:50 Claude code configuration permissions safety\n- 08:58:52 Tooling built in tools usage\n- 09:39:03 Reliability Evaluation Output Quality\n- 10:43",
+        "id": 6005485,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=reDRM0tqhNs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/reDRM0tqhNs/hqdefault.jpg",
+        "title": "Claude Certified Architect - Foundations \u2013 Prepare for and pass the exam!",
+        "vote": 0
+    }
+]

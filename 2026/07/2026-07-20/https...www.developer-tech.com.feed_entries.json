@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ryan Daws",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-20T17:47:03.677076+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-20T16:39:09+00:00",
+        "description": "<p>Three malicious RubyGems packages published in July 2026 evaded CI detection by targeting developer laptops directly, researchers say. Security researchers at Aikido Security identified and named the campaign SleeperGem after tracing malicious releases of three RubyGems packages pushed to the public registry between July 18 and July 19, 2026. StepSecurity subsequently ran each compromised version [&#8230;]</p>\n<p>The post <a href=\"https://www.developer-tech.com/news/sleepergem-rubygems-attack-evades-ci-to-hit-developer-laptops/\">SleeperGem RubyGems attack evades CI to hit developer laptops</a> appeared first on <a href=\"https://www.developer-tech.com\">Developer Tech News</a>.</p>",
+        "id": 6008363,
+        "language": "en-GB",
+        "link": "https://www.developer-tech.com/news/sleepergem-rubygems-attack-evades-ci-to-hit-developer-laptops",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 92,
+        "source_url": "https://www.developer-tech.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "SleeperGem RubyGems attack evades CI to hit developer laptops",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Naveen Athrappully",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-20T13:31:57.878344+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-20T12:38:25+00:00",
+        "description": "The company was impacted by a ransomware incident, with the full scope of the attack \u2018not yet known,\u2019 Coca-Cola said.",
+        "id": 6006385,
+        "language": "en-US",
+        "link": "https://www.theepochtimes.com/business/coca-cola-suspends-fairlife-milk-production-after-hacking-incident-6064436",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 105,
+        "source_url": "https://feed.theepochtimes.com/tech/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.theepochtimes.com/assets/uploads/2025/06/18/id5875078-Fairlife-milk-copy-1080x720.jpg",
+        "title": "Coca-Cola Suspends Fairlife Milk Production After Hacking Incident",
+        "vote": 0
+    }
+]

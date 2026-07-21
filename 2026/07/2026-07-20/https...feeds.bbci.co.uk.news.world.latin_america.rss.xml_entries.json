@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-20T12:57:21.449255+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-20T10:32:54+00:00",
+        "description": "King is remembered as a \"Coventry musician who did so much and cared so much about his home city\".",
+        "id": 6006135,
+        "language": "en-gb",
+        "link": "https://www.bbc.co.uk/news/articles/cg7mg4ev8vko",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 524,
+        "source_url": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73e0/live/44f8d700-841e-11f1-b3ec-1d7f0502d196.jpg",
+        "title": "Tributes paid to influential soul singer Ray King",
+        "vote": 0
+    }
+]

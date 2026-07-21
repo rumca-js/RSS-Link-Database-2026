@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-20T12:17:43.375236+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-20T08:00:00+00:00",
+        "description": "<p><span>\n\nOur kids like listening to music on their tablets, and we decided it's\nworth it to pay some money so they can make playlists and don't need\nto listen to ads.  A family account makes sense if you're more than\none person, and we ended up with Amazon somewhat randomly.  I've been\npoking around: the personalization features are pretty terrible, and\nthey have a major artist conflation problem.\n\n</span>\n\n<p>\n\nWhen you first show up it asks you to pick some artists to seed your\nexperience with.  I put in the first few bands that came to mind:\n\n</p>\n\n<p>\n\n<a href=\"https://www.jefftk.com/amazon-music-seed-bands-big.png\"><img src=\"https://www.jefftk.com/amazon-music-seed-bands.png\" alt=\"Airdance, The Free Raisins,\nCrowfoot, Perpetual e-Motion, Great Bear, Kingfisher, Buddy System\" width=\"550\" height=\"224\" class=\"mobile-fullwidth\" style=\"max-width:100.0vw; max-height:40.7vw;\" srcset=\"https://www.jefftk.com/amazon-music-seed-bands.png 550w,https://www.jefftk.com/amazon-music-seed-bands",
+        "id": 6005887,
+        "language": "en-US",
+        "link": "https://www.jefftk.com/p/amazon-musics-artist-conflation",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 163,
+        "source_url": "https://www.jefftk.com/news.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.jefftk.com/amazon-music-seed-bands.png",
+        "title": "Amazon Music's Artist Conflation",
+        "vote": 0
+    }
+]
