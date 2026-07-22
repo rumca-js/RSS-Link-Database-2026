@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "1littlecoder",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-22T01:21:28.482171+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-21T22:00:07+00:00",
+        "description": "Last week, Hugging Face disclosed a new kind of security incident\u2060(opens in a new window) after they detected and contained an AI agent that compromised their infrastructure, something we expect to become more commonplace with the proliferation of increasingly cyber-capable models. After investigating, we now know that this particular incident was driven by a combination of OpenAI models \u2014 including GPT\u20115.6 Sol and an even more capable pre-release model, all with reduced cyber refusals for evaluation purposes \u2014 while being internally tested on a benchmark\u2060(opens in a new window) of cyber capabilities.\n\n\nhttps://openai.com/index/hugging-face-model-evaluation-security-incident/\n\n\u2764\ufe0f If you want to support the channel \u2764\ufe0f\nSupport here:\nPatreon - https://www.patreon.com/1littlecoder/\nKo-Fi - https://ko-fi.com/1littlecoder\n\n\ud83e\udded Follow me on \ud83e\udded\nTwitter - https://twitter.com/1littlecoder",
+        "id": 6018610,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=u5esm1--kUo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 948,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCpV_X0VrL8-jg3t6wYGS-1g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/u5esm1--kUo/hqdefault.jpg",
+        "title": "GPT 6 potentially LEAKS!!!",
+        "vote": 0
+    }
+]

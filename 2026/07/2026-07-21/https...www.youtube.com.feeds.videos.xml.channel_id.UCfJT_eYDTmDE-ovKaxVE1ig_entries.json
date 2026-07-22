@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kevin Stratvert",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-21T09:14:13.326337+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-21T07:00:09+00:00",
+        "description": "Learn how to use ElevenLabs AI with this complete beginner tutorial. I'll show you how to create realistic AI voiceovers, clone your voice, add multiple speakers, dub videos into multiple languages, and more!\n\nIn this step-by-step ElevenLabs tutorial, I'll show you everything you need to know to get started with one of the world's best AI voice generators. Whether you're creating YouTube videos, podcasts, audiobooks, online courses, marketing content, or presentations, ElevenLabs makes it easy to generate natural-sounding AI voices in just minutes.\n\n\ud83d\udd17 Try ElevenLabs: https://try.elevenlabs.io/elizabeth?sid1=elizabeth\n\nIn this tutorial, you'll learn:\n- How to create realistic AI voiceovers with Text to Speech\n- How to choose the perfect AI voice\n- How to adjust speed, stability, and expressiveness\n- Tips for making AI narration sound more natural\n- How to clone your own voice with Instant Voice Clone\n- How to create long-form narration with ElevenLabs Studio\n- How to dub videos into ot",
+        "id": 6012417,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=yDTbAxJ3sKI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 958,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfJT_eYDTmDE-ovKaxVE1ig",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/yDTbAxJ3sKI/hqdefault.jpg",
+        "title": "ElevenLabs Tutorial for Beginners (Complete Step-by-Step Guide)",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ryan Daws",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-21T17:22:07.872722+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-21T16:40:03+00:00",
+        "description": "<p>Hugging Face confirmed attackers used an autonomous AI agent to breach its production infrastructure and steal cloud credentials. The platform, which hosts more than 45,000 models and serves over 50,000 organisations according to the company&#8217;s own figures, disclosed the incident in a Thursday write-up. Investigators are still working out whether partner or customer data was [&#8230;]</p>\n<p>The post <a href=\"https://www.developer-tech.com/news/hugging-face-confirms-ai-agent-breached-production-systems/\">Hugging Face confirms AI agent breached production systems</a> appeared first on <a href=\"https://www.developer-tech.com\">Developer Tech News</a>.</p>",
+        "id": 6015506,
+        "language": "en-GB",
+        "link": "https://www.developer-tech.com/news/hugging-face-confirms-ai-agent-breached-production-systems",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 92,
+        "source_url": "https://www.developer-tech.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Hugging Face confirms AI agent breached production systems",
+        "vote": 0
+    }
+]

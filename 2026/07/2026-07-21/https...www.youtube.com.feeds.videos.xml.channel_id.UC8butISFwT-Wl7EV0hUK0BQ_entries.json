@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-21T13:06:12.942878+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-21T12:05:59+00:00",
+        "description": "It's 1956. Edsgar Dijkstra takes his girlfriend shopping. And in 20 minutes, he's invented one of the most important algorithms in history. Estefania tells you all about it here (and in her longer video essay on freeCodeCamp's YouTube channel).",
+        "id": 6013761,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/_kNabHEZQlo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/_kNabHEZQlo/hqdefault.jpg",
+        "title": "Did you know that Dijkstra came up with his famous algorithm in about 20 minutes?",
+        "vote": 0
+    }
+]

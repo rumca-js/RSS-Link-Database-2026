@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-21T12:47:34.197511+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-21T11:21:47+00:00",
+        "description": "A \"state of catastrophe\" has been declared in Coquimbo and Huasco following the downpour.",
+        "id": 6013618,
+        "language": "en-gb",
+        "link": "https://www.bbc.co.uk/news/videos/cy9wq8j2p7qo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 524,
+        "source_url": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90ee/live/c1f90d80-84f3-11f1-926f-c90d1bcfbc84.jpg",
+        "title": "Watch: Flooded towns and evacuations as Chile hit by heavy rain",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NASA",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-21T23:57:18.763085+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-21T14:19:25+00:00",
+        "description": "Tune in as we preview the Nancy Grace Roman Space Telescope mission one month ahead of its scheduled launch on Aug. 30! Experts from NASA are providing an overview of the mission and its current status:\n\n- Shawn Domagal-Goldman, director, Astrophysics Division, NASA Headquarters \n- Jackie Townsend, Roman telescope project manager, NASA\u2019s Goddard Space Flight Center\n- Julie McEnery, Roman telescope senior project scientist, NASA Goddard \n- Jeremy Perkins, Roman telescope integration and test scientist, NASA Goddard \n\nNamed after NASA\u2019s first chief astronomer, the Nancy Grace Roman Space Telescope will have a deep, panoramic view of the cosmos, generating never-before-seen pictures that will revolutionize our understanding of the universe.\n\nLearn more about Roman: https://science.nasa.gov/mission/roman-space-telescope/\n\nCredit: NASA",
+        "id": 6018278,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=7I-yAwdxWQo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 1010,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLA_DiR1FfKNvjuUpBHmylQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/7I-yAwdxWQo/hqdefault.jpg",
+        "title": "Nancy Grace Roman Space Telescope Mission Preview News Conference (July 29, 2026)",
+        "vote": 0
+    }
+]

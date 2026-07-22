@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Captain Disillusion",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-21T15:22:24.814035+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-21T14:46:13+00:00",
+        "description": "One of us is hosting a movie club livestream this Sunday: https://www.patreon.com/digitalspaghetti/events/163995065",
+        "id": 6014792,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/CVqG6wHUY6M",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 815,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCEOXxzW2vU0P-0THehuIIeg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/CVqG6wHUY6M/hqdefault.jpg",
+        "title": "Captain's Alan's Digital Spaghetti's Movie Club",
+        "vote": 0
+    }
+]

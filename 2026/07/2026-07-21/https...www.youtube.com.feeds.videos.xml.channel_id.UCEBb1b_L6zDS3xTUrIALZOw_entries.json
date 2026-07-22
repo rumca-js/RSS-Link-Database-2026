@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "MIT OpenCourseWare",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-21T17:01:16.144748+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-21T16:32:46+00:00",
+        "description": "MIT RES.9-010 Brain and Cognitive Sciences Computational Tutorial: Optimizing the Full Stack for Generative Image and Video Models Fall 2025\nSpeaker: Sayak Paul\n\nView the complete course: https://ocw.mit.edu/courses/res-9-010-bcs-tutorials-optimizing-the-full-stack-for-generative-image-and-video-models-fall-2025/\n\nThis tutorial covers optimization strategies for diffusion models used in image and video generation; topics include architecture design, hardware efficiency, and inference techniques. \n\nLicense: Creative Commons BY-NC-SA\nMore information at https://ocw.mit.edu/terms\nMore courses at https://ocw.mit.edu\nSupport OCW at http://ow.ly/a1If50zVRlQ\n\nWe encourage constructive comments and discussion on OCW\u2019s YouTube and other social media channels. Personal attacks, hate speech, trolling, and inappropriate comments are not allowed and may be removed. More details at https://ocw.mit.edu/comments.",
+        "id": 6015275,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=okgOtuRUCBs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 437,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCEBb1b_L6zDS3xTUrIALZOw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/okgOtuRUCBs/hqdefault.jpg",
+        "title": "Optimizing the Full Stack for Generative Image and Video Models",
+        "vote": 0
+    }
+]

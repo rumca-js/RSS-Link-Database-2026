@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-21T15:04:37.344212+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-21T11:00:28+00:00",
+        "description": "Learn more about Fine-Tuning here \u2192 https://ibm.biz/~c5OKNxoyO\n\nIs fine-tuning still needed for modern AI workflows? Martin Keen explains how LLM fine tuning compares to RAG, LoRA, and generative AI techniques. Learn when to customize machine learning models and how to design efficient AI systems.\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/~zn4aDcdla\n\n#finetuning #llm #generativeai #machinelearning",
+        "id": 6014642,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=-W2JdSl1v48",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/-W2JdSl1v48/hqdefault.jpg",
+        "title": "Is Fine-Tuning Still Needed? LLMs, RAG, & LoRA",
+        "vote": 0
+    }
+]

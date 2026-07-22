@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Web Dev Simplified",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-21T18:20:01.355695+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-21T16:00:18+00:00",
+        "description": "FREE Pi Cheat Sheet: https://webdevsimplified.com/pi-cheat-sheet.html\n\nTanstack\u2019s newest Intent library is a great idea, but unfortunately it is poorly executed to the point that I think it is actively harmful. In this video I cover how this library works, and more importantly I show I would fix this library to make it actually useful.\n\n\n\ud83d\udcda Materials/References:\n\nFREE Pi Cheat Sheet: https://webdevsimplified.com/pi-cheat-sheet.html\n\n\n\ud83c\udf0e Find Me Here:\n\nMy Blog: https://blog.webdevsimplified.com\nMy Courses: https://courses.webdevsimplified.com\nPatreon: https://www.patreon.com/WebDevSimplified\nTwitter: https://twitter.com/DevSimplified\nDiscord: https://discord.gg/7StTjnR\nGitHub: https://github.com/WebDevSimplified\nCodePen: https://codepen.io/WebDevSimplified\n\n\n\u23f1\ufe0f Timestamps:\n\n00:00 - Introduction\n00:52 - How To Use As Consumer\n01:56 - The Problems With Tanstack Intent\n04:54 - The Solution\n07:10 - How To Use As A Library Author\n\n\n#TanstackIntent #WDS #Tanstack",
+        "id": 6016048,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=BH9ZgUYjiic",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 994,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFbNIlppjAuEX4znoulh0Cw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/BH9ZgUYjiic/hqdefault.jpg",
+        "title": "I Wish This Was Better",
+        "vote": 0
+    }
+]

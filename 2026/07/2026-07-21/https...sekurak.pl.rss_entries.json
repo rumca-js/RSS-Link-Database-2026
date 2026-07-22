@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Tomasz Turba",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-21T10:06:43.211022+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-21T09:00:14+00:00",
+        "description": "<p>Od kwietnia 2026 roku nowelizacja ustawy o KSC jest ju\u017c faktem, a tysi\u0105ce podmiot\u00f3w i instytucji w\u0142a\u015bnie odkrywaj\u0105, \u017ce spoczywaj\u0105 na nich (tak naprawd\u0119 od kilku lat zapowiadane) nowe obowi\u0105zki: samoidentyfikacja, wdro\u017cenie SZBI, raportowanie incydent\u00f3w i audyty. Terminy si\u0119 zbli\u017caj\u0105, a kary, cho\u0107 obj\u0119te dwuletni\u0105 karencj\u0105 (art. 35 ustawy nowelizuj\u0105cej),...</p>\n<p>Artyku\u0142 <a href=\"https://sekurak.pl/czy-open-source-wystarczy-do-zapewnienia-zgodnosci-z-nis2-ksc2/\">Czy open-source wystarczy do zapewnienia zgodno\u015bci z NIS2/KSC2?</a> pochodzi z serwisu <a href=\"https://sekurak.pl\">Sekurak</a>.</p>",
+        "id": 6012617,
+        "language": "pl-PL",
+        "link": "https://sekurak.pl/czy-open-source-wystarczy-do-zapewnienia-zgodnosci-z-nis2-ksc2",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 300,
+        "source_url": "https://sekurak.pl/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Czy open-source wystarczy do zapewnienia zgodno\u015bci z NIS2/KSC2?",
+        "vote": 0
+    }
+]

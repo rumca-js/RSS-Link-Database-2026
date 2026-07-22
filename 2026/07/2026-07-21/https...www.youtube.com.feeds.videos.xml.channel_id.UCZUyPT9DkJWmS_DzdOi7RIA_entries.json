@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Caleb Curry",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-21T21:15:15.499044+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-21T18:12:48+00:00",
+        "description": "Enroll in Agentic AI (Limited Offer): https://www.codebreakthrough.com/agentic-ai\nFREE - Get my video notes: https://www.codebreakthrough.com/products/63765398-fb1e\n\nTimestamps:\n00:00 - Intro\n00:58 - Install Claude Code\n01:59 - Getting Started\n02:55 - Create Your CLAUDE.md\n04:49 - Make Your First Commit\n06:34 - Create a Vault\n08:06 - Obsidian\n08:55 - Models & Credits\n11:11 - Usage\n13:55 - Skills\n20:18 - Permissions\n25:28 - Deny Rules\n29:40 - Commit Hooks\n30:39 - Let's Build\n31:37 - Basic v1 Spec\n32:03 - Creating the Spec\n42:10 - Auto Mode\n45:40 - Headless Browsers\n48:47 - Hooks\n52:54 - MCP\n\n\u2699\ufe0f Backend Engineering Mind Map - https://calcur.tech/mindmap\n\n\ud83d\udcaf FREE Courses (100+ hours) - https://calcur.tech/free-courses\n\ud83c\udfc6 C++ Mastery Course - https://www.codebreakthrough.com/cpp-mastery\n\ud83d\udc0d Backend Python Course - https://calcur.tech/backend-python\n\ud83e\udd47 Python Mastery Course  - https://calcur.tech/python-mastery\n\n~~~~~~~~~~~~~~~ CONNECT ~~~~~~~~~~~~~~~\n\n\u2709\ufe0f Newsletter - https://calcur.tech/newsle",
+        "id": 6017255,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=8PVGtt7Fa7g",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 418,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZUyPT9DkJWmS_DzdOi7RIA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/8PVGtt7Fa7g/hqdefault.jpg",
+        "title": "Claude Code for Beginners - Skills, MCP, Subagents, Hooks (1 HOUR!)",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Gruber",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-21T23:38:59.794779+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-21T22:49:03+00:00",
+        "description": "<p><a href=\"https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1634\">The European Commission, last week</a>:</p>\n\n<blockquote>\n  <p>Today, the European Commission has issued two sets of binding\nspecification measures to Google under the Digital Markets Act.</p>\n\n<p>The aim of the first specification measures is to ensure that\ncompetitors\u2019 Artificial Intelligence (AI) services can compete\nwith Google\u2019s own AI services, such as Gemini, by having equal\naccess to features on Google\u2019s Android devices.</p>\n\n<p>The aim of the second specification measures is to rebalance the\nplaying field by giving third-party search engines access to\nsearch data that only Google Search can collect at scale.</p>\n</blockquote>\n\n<p>They provide separate \u201cQ&amp;A\u201d overviews of the guidance <a href=\"https://digital-markets-act.ec.europa.eu/developer-portal/interoperability/alphabet-specification-proceedings-interoperability-ai-services_en\">for Android AI interoperability</a> and <a href=\"https://digital",
+        "id": 6018175,
+        "language": "",
+        "link": "https://daringfireball.net/2026/07/ec_google_guidance_android_ai_and_search_sharing",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 489,
+        "source_url": "https://daringfireball.com/feeds/main",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "\u2605 European Commission: \u2018Guidance to Google for AI Interoperability on Android & Sharing of Google Search\u2019",
+        "vote": 0
+    }
+]
