@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/debba_",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-22T11:47:19.890502+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-22T09:02:18+00:00",
+        "description": "<table> <tr><td> <a href=\"https://www.reddit.com/r/developer/comments/1v3amqo/why_id_choose_tauri_again_for_a_crossplatform/\"> <img src=\"https://external-preview.redd.it/oo6XmYX_92iEX1eG-vh-LEVL0URupQl2XcFmwvKy6xs.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=588c5680e09346650e3b2624258a1825b9513b76\" alt=\"Why I\u2019d choose Tauri again for a cross-platform database client\" title=\"Why I\u2019d choose Tauri again for a cross-platform database client\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><a href=\"https://tabularis.dev/blog/why-tabularis-runs-on-tauri\"></a></p> <p>I started Tabularis as a one-person project, with the goal of shipping the same database client on Linux, macOS and Windows.</p> <p>Tauri turned out to be the right choice, but the reasons go beyond small installers. The Rust backend fits database protocols, SSH tunnels, credentials and plugin processes very well. The web frontend makes Monaco, data grids and diagrams practical.</p> <p>There are real costs too: three sy",
+        "id": 6021275,
+        "language": "en",
+        "link": "https://www.reddit.com/r/developer/comments/1v3amqo/why_id_choose_tauri_again_for_a_crossplatform",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 508,
+        "source_url": "https://www.reddit.com/r/developer/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://external-preview.redd.it/oo6XmYX_92iEX1eG-vh-LEVL0URupQl2XcFmwvKy6xs.png?width=640&crop=smart&auto=webp&s=588c5680e09346650e3b2624258a1825b9513b76",
+        "title": "Why I\u2019d choose Tauri again for a cross-platform database client",
+        "vote": 0
+    }
+]

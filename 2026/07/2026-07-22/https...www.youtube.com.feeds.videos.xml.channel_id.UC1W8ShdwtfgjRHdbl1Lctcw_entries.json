@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NASS",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-23T00:15:47.973466+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-22T22:37:51+00:00",
+        "description": "Step into the streets of 1940s Los Angeles after dark and experience the city as few have ever seen it. Captured from a moving vehicle, this rare historical footage reveals glowing streetlights, busy railroads, vintage automobiles, illuminated storefronts, and the unique atmosphere of nighttime Los Angeles during the golden age of America.\n\nIf you enjoy historical restorations like this, please Like, Comment, and Subscribe to support future projects.\n\n\ud83d\udcfd\ufe0f Technologies & Techniques Used:\n\u2022 Advanced video restoration\n\u2022 New semantic colorization only for the ambiance (not historically accurate)\n\u2022 Manually colorized keyframes (to establish accurate ambiance and color consistency (not historically accurate)\n\u2022 Advanced frame reconstruction to 4K\n\u2022 Manual color corrections \n\u2022 Classical restoration workflows (AviSynth ) combined with modern tools for (60fps, stabilization, denoise, cleaning, and deblurring )\n\u2022 Sound design created for immersive atmosphere\n\nB&W Video Source: Internet Archive\n\nJ",
+        "id": 6026428,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=qafUDPnoRA8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 222,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC1W8ShdwtfgjRHdbl1Lctcw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/qafUDPnoRA8/hqdefault.jpg",
+        "title": "Riding Through 1940s Los Angeles at Night | Advanced Colorization & 4K60fps Restoration",
+        "vote": 0
+    }
+]

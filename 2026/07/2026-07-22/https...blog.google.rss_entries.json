@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Sundar Pichai",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-22T21:40:15.752485+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-22T20:45:00+00:00",
+        "description": "Read an edited transcript of Sundar Pichai\u2019s remarks from the Q2 2026 Alphabet earnings call.",
+        "id": 6025617,
+        "language": "en-us",
+        "link": "https://blog.google/company-news/inside-google/message-ceo/alphabet-earnings-q2-2026",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 1018,
+        "source_url": "https://blog.google/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Q2 2026 earnings call: Remarks from our CEO",
+        "vote": 0
+    }
+]

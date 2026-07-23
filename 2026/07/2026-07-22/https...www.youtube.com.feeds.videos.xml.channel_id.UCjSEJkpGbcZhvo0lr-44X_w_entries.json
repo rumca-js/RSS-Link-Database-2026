@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "TechHut",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-22T16:20:17.955598+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-22T16:01:23+00:00",
+        "description": "Big thanks to HUANUO for sponsoring this video. Check out the FlowLift Pro Monitor Arm, the first link below, and use code HNTECHHUT1 at checkout to save some extra money. US: https://www.amazon.com/dp/B0GK6DT5SF?maas=maas_adg_B835ADDE745F8AD885A118585AED544C_afap_abs&ref_=aa_maas&tag=maas UK: https://www.amazon.co.uk/dp/B0GK6DT5SF?maas=maas_adg_7232125000BCBBD1656682FBCBB3AD61_afap_abs&ref_=aa_maas&tag=maas\n\nSuperfile (spf) is a fancy, modern terminal file manager written in Go that has genuinely changed my workflow, especially for server management over SSH. In this guide I go over installing it, all the core hotkeys, selection mode, file operations, sorting and searching, pinned folders, and how to customize the config, hotkeys, and themes. It's a really nice balance between the speed of the CLI and the creature comforts of a graphical file browser. Links and resources are down below.\n\n\ud83d\udcd6 RESOURCES\nSuperfile article: https://techhut.tv/superfile-terminal-file-manager\nSuperfile GitHu",
+        "id": 6023371,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=pDIMXiKyvA4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 430,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjSEJkpGbcZhvo0lr-44X_w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/pDIMXiKyvA4/hqdefault.jpg",
+        "title": "Superfile Tutorial: A Modern Terminal File Manager for Linux",
+        "vote": 0
+    }
+]

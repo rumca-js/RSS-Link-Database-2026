@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Zeyi Yang",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-22T19:47:46.525966+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-22T19:01:38+00:00",
+        "description": "As access to Anthropic\u2019s and OpenAI\u2019s frontier models becomes more restricted, Chinese labs are pitching their open-source alternatives as stable, accessible, and increasingly capable.",
+        "id": 6024916,
+        "language": "en-US",
+        "link": "https://www.wired.com/story/chinas-open-ai-models-are-challenging-silicon-valleys-playbook",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 396,
+        "source_url": "https://www.wired.com/feed/category/business/latest/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media.wired.com/photos/6a61111f07c746392b7d05d4/master/pass/China-Open-AI-Models-Challenging-Silicon-Valley-Playbook-Business-1191165992.jpg",
+        "title": "China\u2019s Open AI Models Are Challenging Silicon Valley\u2019s Playbook",
+        "vote": 0
+    }
+]

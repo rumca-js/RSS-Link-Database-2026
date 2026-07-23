@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-22T17:32:02.365821+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-22T16:52:00+00:00",
+        "description": "Messier 94 is a spiral galaxy with a bright inner ring around it, called a starburst ring, where new stars are forming.",
+        "id": 6024052,
+        "language": "en-us",
+        "link": "https://www.nasa.gov/image-detail/250th-ngc4736",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 485,
+        "source_url": "https://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "A New Look \u2013 and Sound \u2013 for Messier 94",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-22T11:52:25.243449+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-22T10:00:36+00:00",
+        "description": "Explore the podcast\u2192 https://ibm.biz/~eYVvjNfA0\n\nCybersecurity researchers have had a heck of a time trying to stop prompt injections. Maybe we should just let the AI handle the problem itself.\n\nThis week on Security Intelligence, Michelle Alvarez, Nick Bradley and Kimmie Farrington join host Matt Kosinski to discuss OpenAI's GPT-Red, the internal red-teaming tool that helped make GPT-5.6 Sol the company\u2019s most cyber resilient model yet.\n\nThen: ScamBuster, an open-source tool debuting at Black Hat, uses AI to bait email scammers into revealing their own tactics and infrastructure.\n\nFinally, Bruce Schneier's essay on the widening gap between skill and ability in cybersecurity. When AI lets anyone skip the years of training that used to come with real expertise\u2014and the ethics that came with it\u2014what happens to the field?\n\nAll that and more on Security Intelligence.\n\nSegments:\n\u2022 00:00 Intro\n\u2022 01:14 GPT - Red\n\u2022 10:55  Scam Buster\n\u2022 20:50 Are cybersecurity skills dying?\n\nThe opinions expres",
+        "id": 6021292,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=g4CNcUAqM4Q",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/g4CNcUAqM4Q/hqdefault.jpg",
+        "title": "GPT-Red: Can AI read teams stop prompt injections?",
+        "vote": 0
+    }
+]

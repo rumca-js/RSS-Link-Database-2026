@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-22T23:37:02.696100+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-22T23:02:32+00:00",
+        "description": "The company said earlier this year it expected to spend as much as $190bn on AI investments.",
+        "id": 6026243,
+        "language": "en-US",
+        "link": "https://www.bbc.co.uk/news/articles/c235n47g8g8o",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 28,
+        "source_url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f610/live/9cc8bdc0-8616-11f1-8dd8-4d5cff7c66df.jpg",
+        "title": "Google burning through cash with spiralling AI costs",
+        "vote": 0
+    }
+]

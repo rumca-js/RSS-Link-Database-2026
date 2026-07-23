@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeff Geerling",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-22T16:21:03.133366+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-22T14:00:35+00:00",
+        "description": "There was far too much to cram into such a short amount of time. But I made the best of it.\n\nHere are projects I referenced, products I used, and other creators I mentioned who you should most definitely be subscribed to.\n\n  - My Tufty 2350 GPS Time Badge project: https://github.com/geerlingguy/tufty-gps-time\n  - Pimoroni Tufty 2350: https://shop.pimoroni.com/products/tufty-2350?variant=55811986194811\n  - Adafruit MiniGPS STEMMA module: https://www.adafruit.com/product/4415\n  - Sean Hodgins' PPS Watch video: https://www.youtube.com/watch?v=AHSqyuOPpf0\n  - Sean Hodgins' PPS Watch project: https://github.com/idlehandsdev/pps-watch\n  - Robins Tools - Pixel Pump 2: https://www.crowdsupply.com/robins-tools/pixel-pump-2\n  - Aaed Musa's channel (he printed my badge clip!): https://www.youtube.com/@aaedmusa\n  - The Overengineering Department's Nixie Tube Clock: https://overengineering.department.wtf\n  - PianoPi: https://github.com/JBL99/PianoPi\n  - CuriousMarc's channel: https://www.youtube.c",
+        "id": 6023377,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=ziPIbxoFc_g",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 161,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR-DXc1voovS8nhAvccRZhg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/ziPIbxoFc_g/hqdefault.jpg",
+        "title": "I can prove I had the best time at Open Sauce",
+        "vote": 0
+    }
+]

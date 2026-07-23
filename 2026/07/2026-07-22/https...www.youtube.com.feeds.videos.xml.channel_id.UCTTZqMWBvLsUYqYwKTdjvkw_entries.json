@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mateusz Chrobok",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-22T13:54:24.928804+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-22T13:28:04+00:00",
+        "description": "Mechanizm jest sprytny w\u0142a\u015bnie dlatego, \u017ce nie przypomina klasycznego oszustwa. Nie ma pro\u015bby o has\u0142o, kod BLIK ani dane karty. Ofiara ma tylko wykona\u0107 kilka pozornie niewinnych krok\u00f3w.\n\nTo wygl\u0105da mniej wi\u0119cej tak:\n- Dziecko poznaje na Discordzie lub w grze \"koleg\u0119\", kt\u00f3ry obiecuje darmowe skiny, Robuxy, klucze do gier czy PaySafeCard.\n- Oszust wysy\u0142a link albo prosi o wej\u015bcie na stron\u0119, gdzie wy\u015bwietla si\u0119 kod QR lub rozpoczyna proces parowania Wiadomo\u015bci Google.\n- Zamiast m\u00f3wi\u0107 \"sparuj sw\u00f3j telefon z moim komputerem\", instruuje ofiar\u0119 krok po kroku:\n- otw\u00f3rz Wiadomo\u015bci Google, wejd\u017a w Parowanie urz\u0105dzenia,\n- zaloguj si\u0119 na konto Google (je\u015bli trzeba),\n- potwierd\u017a wy\u015bwietlone emotikony lub wcze\u015bniej zeskanuj kod QR (starszy spos\u00f3b parowania).\n\n\nDziecko wykonuje wszystkie instrukcje, bo my\u015bli, \u017ce to element odbioru nagrody. W rzeczywisto\u015bci w\u0142a\u015bnie udzieli\u0142o przegl\u0105darce oszusta dost\u0119pu do swoich SMS-\u00f3w.\n\nOd tej chwili komputer oszusta jest po\u0142\u0105czony z aplikacj\u0105 Wiadomo\u015bci w telefoni",
+        "id": 6022124,
+        "language": "pl-PL",
+        "link": "https://www.youtube.com/shorts/KHNR2Pl1hXk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 211,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTTZqMWBvLsUYqYwKTdjvkw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/KHNR2Pl1hXk/hqdefault.jpg",
+        "title": "\u26a0\ufe0f Z kim rozmawia Twoje dziecko?",
+        "vote": 0
+    }
+]

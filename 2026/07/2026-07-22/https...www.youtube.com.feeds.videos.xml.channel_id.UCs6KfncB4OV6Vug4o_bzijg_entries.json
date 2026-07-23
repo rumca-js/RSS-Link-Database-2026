@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Techlore",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-22T18:47:51.301071+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-22T17:58:43+00:00",
+        "description": "Brave just shipped Containers, and Firefox just made them native, so the profiles-vs-containers debate that split these two browsers is finally over. This video demos both features side by side in Brave 1.92 and Firefox 153, and breaks down when to use browser profiles vs container tabs for multi-account browsing, work/personal separation, and keeping your logins isolated. Whether you use Brave, Firefox, or both, here's how to actually get more out of your browser.\n\n\ud83d\udce8 Stay ahead of the news without doom-scrolling. Surveillance Report covers what matters in privacy, security, and digital rights. Weekly, free: https://techlore.tech/#/portal/signup\n\n\ud83d\udd10 MORE FROM TECHLORE\n\u2022 Test your privacy & security gaps: https://quiz.techlore.tech/\n\u2022 Close the gaps with the right tools: https://tools.techlore.tech/\n\u2022 Compare dozens of VPNs side by side: https://vpn.techlore.tech/\n\u2022 Learn everything from the ground up: https://techlore.tech/go-incognito-course/\n\u2022 Support Techlore, Join our Signal Group:",
+        "id": 6024582,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=dwFSytu_JUw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 327,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/dwFSytu_JUw/hqdefault.jpg",
+        "title": "Brave Just Copied Firefox's Best Feature (And Why That's Great)",
+        "vote": 0
+    }
+]

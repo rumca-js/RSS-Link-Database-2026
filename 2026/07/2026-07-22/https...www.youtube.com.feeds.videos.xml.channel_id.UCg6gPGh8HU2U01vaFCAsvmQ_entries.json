@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Chris Titus Tech",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-22T12:33:30.482755+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-22T11:15:16+00:00",
+        "description": "I spent 1.5 billion AI tokens and roughly 24 hours of compute trying to expand a real .NET application. The result was nearly 170,000 lines of bloated, unmaintainable code that ultimately had to be thrown away.\n\nIn this video, I break down where the project went wrong, why a more powerful model would not have solved the underlying problem, and how developers should actually use AI on large software projects.\n\nAI is an incredible pair programmer, debugger, and productivity tool. But without proper architecture, checkpoints, Git, and someone who understands the code, it can generate technical debt faster than any human developer.\n\nWhat do you think? Is AI coding getting better, or are we just producing slop faster?\n\n**Chapters**\n00:00 1.5 Billion Tokens\n03:17 170,000 Lines\n06:37 Technical Debt\n09:45 Resetting Everything\n13:06 The Right Approach\n16:06 Final Verdict\n\n\n\u25ba\u25ba Digital Downloads \u279c https://www.cttstore.com\n\u25ba\u25ba Patreon \u279c https://www.patreon.com/christitustech\n\u25ba\u25ba Twitch \u279c https://ww",
+        "id": 6021563,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=uwHQLLa4Rpc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 444,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCg6gPGh8HU2U01vaFCAsvmQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/uwHQLLa4Rpc/hqdefault.jpg",
+        "title": "I Spent 1.5 Billion AI Tokens on Absolute Slop",
+        "vote": 0
+    }
+]

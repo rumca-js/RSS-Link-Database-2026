@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-22T11:31:28.844775+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-22T10:00:13+00:00",
+        "description": "Learn how to use Trae IDE to plan, build, and deploy a full-stack habit tracker. You will learn how to leverage modern AI-assisted development tools\u2014including multi-agent collaboration, intelligent code completion, and automated scaffolding\u2014while working with React, Node.js, and PostgreSQL. By the end of the course, you will have transformed a simple idea into a fully working, production-ready application deployed live on the web.\n\nTry TRAE: https://www.trae.ai/?utm_source=influencerglobal&utm_medium=meeco&utm_campaign=freecodecamp\n\nCourse created by @aniakubow \n\n\u2b50\ufe0f Contents \u2b50\ufe0f\n- 00:00 Introduction\n- 01:57 How to get started with TRAE IDE\n- 07:19 How to PLAN your app with AI as your collaborator\n- 11:40 How to BUILD your app with AI as your collaborator\n- 15:49 How to run multi-agents\n- 20:39 How to ship your app\n\n\ud83c\udf89 Thanks to our Champion and Sponsor supporters:\n\ud83d\udc7e @omerhattapoglu1158\n\ud83d\udc7e @goddardtan\n\ud83d\udc7e @akihayashi6629\n\ud83d\udc7e @kikilogsin\n\ud83d\udc7e @anthonycampbell2148\n\ud83d\udc7e @tobymiller7790\n\ud83d\udc7e @rajibdasshar",
+        "id": 6021197,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=yVga-_gMfIM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/yVga-_gMfIM/hqdefault.jpg",
+        "title": "AI-Assisted Development \u2013 Multi-Agent Coding & Deployment with TRAE IDE",
+        "vote": 0
+    }
+]

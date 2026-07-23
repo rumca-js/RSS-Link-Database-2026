@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Khan Academy",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-22T14:31:04.014188+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-22T12:01:32+00:00",
+        "description": "Courses on Khan Academy are always 100% free. Start practicing\u2014and saving your progress\u2014now. https://www.khanacademy.org/science/ap-physics-c-mechanics\n\nA conservative force exerted on a system in a single dimension is equal to the negative derivative of the system\u2019s potential energy with respect to position in that dimension. The force points in the direction of decreasing potential energy. The relationship is represented by the following equation: F_x = -dU(x)/dx\n\nSections:\n00:00 - Intro\n01:04 - Finding force from potential energy\n05:03 - Earth-ball system\n08:08 - Two-mass system interacting gravitationally \n10:35 - Spring-block-wall system\n12:20 - Summary\n\n------------------\n\nKhan Academy is a nonprofit organization with the mission of providing a free, world-class education for anyone, anywhere. Khan Academy has been translated into dozens of languages, and 15 million people around the globe learn on Khan Academy every month. As a 501(c)(3) nonprofit organization, we would love yo",
+        "id": 6022415,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=qKTBVL5jBIA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 977,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4a-Gbdw7vOaccHmFo40b9g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/qKTBVL5jBIA/hqdefault.jpg",
+        "title": "Potential energy and conservative forces (part 4) | AP Physics | Khan Academy",
+        "vote": 0
+    }
+]
