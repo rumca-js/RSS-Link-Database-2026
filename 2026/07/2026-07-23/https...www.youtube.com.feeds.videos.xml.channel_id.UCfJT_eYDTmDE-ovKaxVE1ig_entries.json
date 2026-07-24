@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kevin Stratvert",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-23T09:20:30.435893+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-23T07:00:02+00:00",
+        "description": "This Claude Code tutorial for non-coders shows you how to build a real app in plain English, even if you have never written a line of code.\n\ud83e\udd16 Get started with Claude Code \u279c https://clau.de/kevinstratvert\n\nFirst, you'll clear up the biggest misconception about Claude Code, that it's only for developers, and see why it's really a general assistant that writes the code for you behind the scenes.\n\nNext, you'll learn how to pick the right project to build, so you focus on something small, focused, and genuinely useful instead of something that just looks cool.\n\nThen, you'll watch Claude Code turn a plain sales pipeline spreadsheet into a working app you can open with a double-click, all from a description you type in plain English.\n\nAlong the way, you'll see how plan mode lets you approve the plan before Claude touches anything, and how the permission modes keep you in control the whole time.\n\nAfterward, you'll discover three reasons a non-coder would reach for Claude Code over Claude Cowo",
+        "id": 6028274,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=inxAjCRHe2o",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 958,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfJT_eYDTmDE-ovKaxVE1ig",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/inxAjCRHe2o/hqdefault.jpg",
+        "title": "Claude Code Tutorial for Non-Coders",
+        "vote": 0
+    }
+]

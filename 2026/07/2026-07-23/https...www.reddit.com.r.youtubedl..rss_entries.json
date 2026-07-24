@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/New-Guarantee7004",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-23T22:16:43.687969+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-23T16:57:10+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>I moved from streaming platforms to mp3 players and needed a fast, fairly reliable way to rebuild my music library. I ended up making a yt-dlp configuration file to automate the process.</p> <p>The main focus is to extract the fundamental metadata that defines a track (artist, album, position in the album. Usually the website doesn&#39;t offer much more) and place them in the correct tags. Downloading whole albums from playlists results in the correct outcome most of the times or at most requires a small amount of correction.</p> <p>I think veterans may find it basic but it helped me understand a lot of things on how track files work and I wanted to share.</p> <p><a href=\"https://github.com/netted-gab/yt-dlp-media-library-configuration\">https://github.com/netted-gab/yt-dlp-media-library-configuration</a></p> <p>If you have suggestions, please share them.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/New-Guarant",
+        "id": 6033587,
+        "language": "en",
+        "link": "https://www.reddit.com/r/youtubedl/comments/1v4joub/configuration_file_to_help_organize_libraries",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 791,
+        "source_url": "https://www.reddit.com/r/youtubedl/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "configuration file to help organize libraries",
+        "vote": 0
+    }
+]

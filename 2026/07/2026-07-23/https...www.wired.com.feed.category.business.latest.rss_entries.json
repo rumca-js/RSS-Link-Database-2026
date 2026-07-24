@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Caroline Haskins",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-23T18:59:49.258134+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-23T18:45:52+00:00",
+        "description": "The clip features the David Bowie track \u201cFive Years,\u201d which includes lyrics such as \u201cEarth was really dying (dying).\u201d",
+        "id": 6032316,
+        "language": "en-US",
+        "link": "https://www.wired.com/story/meta-david-bowie-apocalypse-ad-is-optimistic-actually",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 396,
+        "source_url": "https://www.wired.com/feed/category/business/latest/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media.wired.com/photos/6a6231b4185179636cee2e10/master/pass/MetaDavid.jpg",
+        "title": "Meta\u2019s New Feel-Good AI Ad Uses a Song About the World Ending",
+        "vote": 0
+    }
+]

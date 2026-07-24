@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Hammond",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-23T16:50:10.453447+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-23T16:03:37+00:00",
+        "description": "Could a Windows notification really look like it came from Microsoft Edge?\n\nThis proof of concept uses Windows toast notifications, Application User Model IDs, and registry modifications to make a notification appear as though it was sent by Microsoft Edge. It is a good reminder that legitimate Windows features can be abused to carry out convincing phishing and social engineering.\n\nWatch the full video here: https://youtu.be/wrAFZLa1TAk?si=CxyHDhZ_iMSh3Ia1",
+        "id": 6031004,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/hH4378DBgzc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 959,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVeW9qkBjo3zosnqUbG7CFw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/hH4378DBgzc/hqdefault.jpg",
+        "title": "Fake Edge Update",
+        "vote": 0
+    }
+]

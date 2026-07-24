@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Blog Staff",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-23T20:55:12.261439+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-23T20:27:01+00:00",
+        "description": "<p>\n\t<img alt=\"RaymondChen_5in-150x150.jpg\" src=\"https://isocpp.org/files/img/RaymondChen_5in-150x150.jpg\" style=\"width: 150px; margin: 10px; float: right;\" />Last time, we looked at <a href=\"https://devblogs.microsoft.com/oldnewthing/20260602-00/?p=112376\" title=\"Rotation revisited: Another unidirectional algorithm\">the rotation algorithm used by gcc libstdc++ for random-access iterators</a>, and I concluded by noting that we&rsquo;re going to make a shocking discovery.</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://devblogs.microsoft.com/oldnewthing/20260603-00/?p=112378\">Rotation revisited: A shocking discovery about gcc&rsquo;s unidirectional rotation algorithm</a></h3>\n\t<p>\n\t\tby Raymond Chen</p>\n</blockquote>\n<p>\n\tFrom the article:</p>\n<blockquote>\n\t<p>\n\t\tAs with all shocking discoveries, this one will shock disappoint you.</p>\n\t<p>\n\t\tThe discovery is that the gcc libstdc++ algorithm is the same as <a href=\"https://devblogs.microsoft.com/oldnewthing/20260105-00/?p=111962\" title=\"How c",
+        "id": 6033129,
+        "language": "en",
+        "link": "https://isocpp.org//blog/2026/07/a-shocking-discovery-about-gccs-unidirectional-rotation-algorithm-raymond-c",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://isocpp.org/files/img/RaymondChen_5in-150x150.jpg",
+        "title": "A shocking discovery about gcc\u2019s unidirectional rotation algorithm -- Raymond Chen",
+        "vote": 0
+    }
+]

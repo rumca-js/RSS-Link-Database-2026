@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ben Farmer",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-23T16:14:25.152596+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-23T15:57:47+00:00",
+        "description": "Dozens of fatalities are being recorded each day in what could become the worst ever outbreak of the haemorrhagic fever",
+        "id": 6030658,
+        "language": "en-UK",
+        "link": "https://www.telegraph.co.uk/global-health/science-and-disease/ebola-death-toll-passes-1000-as-outbreak-shows-no-slowing",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 81,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 357,
+        "source_url": "https://www.telegraph.co.uk/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Ebola death toll passes 1,000 as outbreak shows no signs of slowing",
+        "vote": 0
+    }
+]

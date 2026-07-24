@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Leila Gharani",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-23T11:16:31.710626+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-23T09:00:18+00:00",
+        "description": "Start with Python Foundations: https://courses.xelplus.com/l/pdp/python-in-excel-foundations (apply coupon YTPY for 60% off for a limited time)\n\nNeed to turn month columns into rows in Excel?\nDo not restructure the data manually. Use Python in Excel and the pandas melt function to unpivot the entire table in seconds.\n\nIn this example, we keep Region, Country, and Channel, then convert the monthly columns into two clean fields: Month and Sales.\n\nThe result is dynamic too. Add another month to the Excel Table and the output updates automatically.\n\nPower Query can do this as well, but this method takes just one formula.\n\nTopics covered:\n- Excel columns to rows\n- Unpivot data in Excel\n- Python in Excel\n- Pandas melt\n- Wide to long data transformation\n\n500,000+ people have taken our courses so far. If you want to go deeper: \ud83d\udc49 https://link.xelplus.com/yt-d-all-courses\n\n\ud83d\udce8 Subscribe to \"Between the Sheets\" newsletter to stay on top of office tips and Excel hacks: https://link.xelplus.com/yt-d",
+        "id": 6028831,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/DKYR_AK1vJ4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 957,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJtUOos_MwJa_Ewii-R3cJA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/DKYR_AK1vJ4/hqdefault.jpg",
+        "title": "1 Formula to Reshape Messy Monthly Reports",
+        "vote": 0
+    }
+]

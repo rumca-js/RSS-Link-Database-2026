@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NASASpaceflight",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-23T23:28:09.179631+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-23T21:56:19+00:00",
+        "description": "Leading up to NSF's Starship Flight 13 launch broadcast, NSF will go live with over six hours of commentary as we stakeout Starship's 13th flight. We will answer questions, observe the ongoing activity at Starbase, and provide you with everything you need to know for Starship Flight 13.\n\nStarship launches Flight 13, the second launch of the Block 3 vehicle from Pad 2 at Starbase. This is the third attempt following a T-0 abort on July 16, and a weather scrub on July 23.\n\nLaunch Window: July 24th at 5:45PM to 7:15PM CDT (22:45-00:15 UTC)\n\nMission: Starship's 13th integrated flight test. Correcting issues from version 3's debut flight.\nLaunch location: Pad 2, Starbase, Earth. \nTarget orbit: Trans-atmospheric\nBooster: B20-1\nShip: S40-1\nBooster recovery: Expended - will attempt a water splashdown, no recovery.\nShip recovery: Expended - will attempt a water splashdown, no recovery.\nRocket trajectory: Southeast passing between Cuba and the Yucatan Peninsula.\nPayload onboard: 20 Starlink v3 ",
+        "id": 6033994,
+        "language": "",
+        "link": "https://www.youtube.com/watch?v=bAxlKeEUSIw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 1013,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSUu1lih2RifWkKtDOJdsBA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/bAxlKeEUSIw/hqdefault.jpg",
+        "title": "SpaceX Starship Flight 13 - Attempt 3 - Stakeout Stream",
+        "vote": 0
+    }
+]

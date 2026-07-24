@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Louis Rossmann",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-23T15:23:37.785382+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-23T13:45:54+00:00",
+        "description": "https://youtu.be/WpPIW4aeeag",
+        "id": 6030277,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=fR91G9uQ6l0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 201,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCl2mFZoRqjw_ELax4Yisf6w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/fR91G9uQ6l0/hqdefault.jpg",
+        "title": "Samsung SSD warranty update: they refunded me $1234.04 for my defective 990 Pro 4 TB drive",
+        "vote": 0
+    }
+]

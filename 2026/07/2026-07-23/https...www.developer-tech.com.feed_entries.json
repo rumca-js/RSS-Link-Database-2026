@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ryan Daws",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-23T16:03:54.097789+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-23T15:22:44+00:00",
+        "description": "<p>According to Socket, GitHub Actions abuse in Packagist repos ran cPanel scanning from temporary cloud runners. The incident began with malicious development versions across ten Packagist packages associated with the PHP and DevOps developer known as dinushchathurya. Socket says an attacker gained access to the developer\u2019s GitHub repositories, inserted malicious files under .github/workflows/, and pushed [&#8230;]</p>\n<p>The post <a href=\"https://www.developer-tech.com/news/github-actions-abuse-packagist-repositories-into-scanners/\">GitHub Actions abuse turned Packagist repositories into scanners</a> appeared first on <a href=\"https://www.developer-tech.com\">Developer Tech News</a>.</p>",
+        "id": 6030556,
+        "language": "en-GB",
+        "link": "https://www.developer-tech.com/news/github-actions-abuse-packagist-repositories-into-scanners",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 92,
+        "source_url": "https://www.developer-tech.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "GitHub Actions abuse turned Packagist repositories into scanners",
+        "vote": 0
+    }
+]

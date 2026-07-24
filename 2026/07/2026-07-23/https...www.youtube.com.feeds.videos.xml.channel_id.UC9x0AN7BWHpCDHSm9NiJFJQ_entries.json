@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NetworkChuck",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-23T20:09:52.148539+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-23T18:16:44+00:00",
+        "description": "This video is sponsored by NetworkChuck Coffee. Grab a bag of Default Route (my favorite) and fuel your next build: https://ntck.co/coffee\n\nRaspberry Pi sent me the new Raspberry Pi Touch Display 2, the 10 inch portrait version, and I mounted it on my studio wall to run all my Home Assistant and homelab stuff. It is a gorgeous little screen (1200x1920, real IPS, 10 finger touch, 400 nits) and at $80 it is a steal. There is one catch though, and a lot of you are not going to like it: this thing only works on the Raspberry Pi 5 and the Compute Modules. Your Pi 3 or Pi 4 will not work at all.\n\nIn this video I unbox it, walk through everything that is new versus the old touch display, hit a wall when it powered on and did absolutely nothing (turns out you have to update the firmware on your Pi 5, the EEPROM, before it will recognize the screen), mount it with nothing but a drill and some screws, and finally turn it into a beautiful Home Assistant dashboard using an open source kiosk app c",
+        "id": 6032745,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=34D1imLordU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 565,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9x0AN7BWHpCDHSm9NiJFJQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/34D1imLordU/hqdefault.jpg",
+        "title": "the PERFECT Raspberry Pi wall dashboard?",
+        "vote": 0
+    }
+]

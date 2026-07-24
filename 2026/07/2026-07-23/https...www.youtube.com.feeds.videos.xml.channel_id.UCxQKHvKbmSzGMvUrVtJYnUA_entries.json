@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Learn Linux TV",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-23T16:45:26.282835+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-23T14:00:01+00:00",
+        "description": "Learn how to secure an Ubuntu server with UFW (Uncomplicated Firewall) in this complete, hands-on Linux firewall tutorial. We\u2019ll install UFW, configure secure default policies, create firewall rules, protect SSH, allow Apache traffic, limit connections, manage subnets and port ranges, enable logging, and explore the GUFW graphical interface.\n\nWhether you\u2019re a Linux beginner, system administrator, homelab enthusiast, or server administrator, this practical guide will help you understand how UFW works and how to use it safely. You\u2019ll also learn the difference between deny and reject, how to check active rules, and how rate limiting can help protect SSH against brute-force attacks.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*\ud83d\udcd6 Switch to Linux with my latest book! (Available Now!)*\n\nThinking about making the jump to Linux? This step-by-step guide will help you choose the right distribution, install Linux with confidence! Purchase your copy here:\nhttps://learnlinux.link/switch-to-linux\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501",
+        "id": 6030963,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=F-ubkT1WNFk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 997,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxQKHvKbmSzGMvUrVtJYnUA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/F-ubkT1WNFk/hqdefault.jpg",
+        "title": "UFW Made Easy: Complete Getting Started Guide",
+        "vote": 0
+    }
+]

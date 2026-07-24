@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-23T11:22:18.399498+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-23T11:00:00+00:00",
+        "description": "Learn more about Balancing AI here \u2192 https://ibm.biz/~9OkAGRDQh\n\nAI isn\u2019t always the right tool for every problem. Sam Anthony explains when to use AI agents, machine learning, rules, or human judgment in system design. Learn how to choose the right approach and balance accuracy, and risk.\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/~PjTgag21u\n\n#aiagents #ml #systemdesign #generativeai",
+        "id": 6028878,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=_ZqSFVi6UDY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/_ZqSFVi6UDY/hqdefault.jpg",
+        "title": "Knowing When Not to Use AI: AI Agents vs Rules vs ML",
+        "vote": 0
+    }
+]

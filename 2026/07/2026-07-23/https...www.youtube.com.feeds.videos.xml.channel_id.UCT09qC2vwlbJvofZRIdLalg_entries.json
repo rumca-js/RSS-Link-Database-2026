@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Flick Connection",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-23T17:57:49.683180+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-23T16:31:16+00:00",
+        "description": "Subscribe to my new channel!\nlink coming soon....",
+        "id": 6031710,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=6ZYQC4Tk1To",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 730,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCT09qC2vwlbJvofZRIdLalg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/6ZYQC4Tk1To/hqdefault.jpg",
+        "title": "NEW Channel Announcement! and more...",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-23T17:26:28.090111+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-23T17:06:08+00:00",
+        "description": "The Iran-backed group in Yemen has threatened to target Saudi vessels in a vital shipping route.",
+        "id": 6031395,
+        "language": "en-gb",
+        "link": "https://www.bbc.co.uk/news/articles/cvgve0vxy1yo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 525,
+        "source_url": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/39c0/live/60bb5b90-86b5-11f1-bb58-d3ffca85db6d.jpg",
+        "title": "Houthi attacks raise fears of wider Middle East conflict and more global economic damage",
+        "vote": 0
+    }
+]
