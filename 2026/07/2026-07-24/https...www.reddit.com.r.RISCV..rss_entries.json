@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/brucehoult",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-24T14:13:14.030953+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-24T06:11:07+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>I ran different versions of GeekBench 5, 6, 7 on my Pico ITX K3 in the standard way, and ran the one that uses the most features in each version on the A100 &quot;AI&quot; cores also.</p> <p>GeekBench 7</p> <p>In GeekBench 7 RVA23 gives 3% to 4% better results than RV64GCBV, and a nice 22% single core 33% multi-core speed increase compared to RV64GC.</p> <p><a href=\"https://browser.geekbench.com/v7/cpu/compare/6927?baseline=7549\">https://browser.geekbench.com/v7/cpu/compare/6927?baseline=7549</a></p> <ul> <li><p>X100 RVA23 397 2193 <a href=\"https://browser.geekbench.com/v7/cpu/6927\">https://browser.geekbench.com/v7/cpu/6927</a></p></li> <li><p>X100 RV64GCBV 390 2121 <a href=\"https://browser.geekbench.com/v7/cpu/7222\">https://browser.geekbench.com/v7/cpu/7222</a></p></li> <li><p>X100 RV64GC 325 1650 <a href=\"https://browser.geekbench.com/v7/cpu/7549\">https://browser.geekbench.com/v7/cpu/7549</a></p></li> <li><p>A100 RVA23 120 658 <a href=\"https://brows",
+        "id": 6037937,
+        "language": "en",
+        "link": "https://www.reddit.com/r/RISCV/comments/1v52xrp/geekbench_700_is_available_some_riscv_results",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 471,
+        "source_url": "https://www.reddit.com/r/RISCV/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "GeekBench 7.0.0 is available. Some RISC-V results",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Licaon_Kter",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-24T23:05:20.068921+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-24T00:00:00+00:00",
+        "description": "<h3 id=\"this-week-in-f-droid\">This Week in F-Droid</h3>\n\n<h3 id=\"twif-curated-on-friday-24-jul-2026-week-30\">TWIF curated on Friday, 24 Jul 2026, Week 30</h3>\n\n<h4 id=\"community-news\">Community News</h4>\n\n<p><strong><a href=\"https://f-droid.org/packages/org.mozilla.fennec_fdroid\">Fennec F-Droid</a></strong> was updated to <code class=\"language-plaintext highlighter-rouge\">153.0.0</code> adding tab groups, another annoying instance of the privacy dashboard <em>(So, Mozilla, your telemetry showed everybody disabling that from the Start page so you\u2019ve added it to the Tab page because\u2026? Pfft)</em>, downloads improvements and bug fixes as usual. One noteworthy announced feature was <em>\u201cBookmark import: Import your bookmarks from a CSV file.\u201d</em> which I\u2019ve run to use right away\u2026 to no avail, because I have no idea how to actually use, or where. <em>(Ping us if you discover it, please!)</em></p>\n\n<p><strong><a href=\"https://f-droid.org/packages/com.mattermost.rnbeta\">Mattermost Beta</a></",
+        "id": 6041344,
+        "language": "en",
+        "link": "https://f-droid.org/en/2026/07/24/twif.html",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 1021,
+        "source_url": "https://f-droid.org/feed.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Feeling this connected",
+        "vote": 0
+    }
+]

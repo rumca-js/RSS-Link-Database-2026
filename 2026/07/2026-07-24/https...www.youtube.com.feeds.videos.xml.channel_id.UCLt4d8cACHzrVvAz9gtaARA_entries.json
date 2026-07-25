@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Neuralink",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-24T17:09:50.925909+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-24T15:25:21+00:00",
+        "description": "We've been exploring how clinical trial participants can control a powered wheelchair \u2014 with their minds.\n\nThe Neuralink implant decodes movement intentions in real time to move an on-screen cursor. That cursor controls a custom app that shows a live camera feed of what's in front of the participant. Move the cursor up and the wheelchair goes forward; down, backward; left and right to steer. The farther they push the cursor in any direction, the faster the chair moves.\n\nThis video provides an early look at our work on telepathic wheelchair control \u2014 an important step on the path towards restoring independent mobility for people with paralysis.\n\nLearn more: neuralink.com\n\nNeuralink devices are investigational and have not been approved by the FDA or other regulatory authorities. This video features voluntary clinical trial participants sharing their personal experiences, which may not reflect all participants or future outcomes.",
+        "id": 6039197,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/V06QXVSWxDs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 874,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLt4d8cACHzrVvAz9gtaARA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/V06QXVSWxDs/hqdefault.jpg",
+        "title": "Controlling A Wheelchair With Your Mind",
+        "vote": 0
+    }
+]

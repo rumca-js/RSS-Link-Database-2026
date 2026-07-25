@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ryan Daws",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-24T16:26:09.002742+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-24T15:43:18+00:00",
+        "description": "<p>Codeberg members voted to reject LLM training on platform data and to restrict vibe-coded projects hosted on the forge. The German non-profit Codeberg e.V. \u2013 which runs the Codeberg code-hosting platform as a GitHub alternative \u2013 held its annual assembly this month, where proposals get discussed live before members vote asynchronously over a 14-day window. [&#8230;]</p>\n<p>The post <a href=\"https://www.developer-tech.com/news/codeberg-members-vote-reject-llm-training-vibe-coding/\">Codeberg members vote to reject LLM training and vibe coding</a> appeared first on <a href=\"https://www.developer-tech.com\">Developer Tech News</a>.</p>",
+        "id": 6038914,
+        "language": "en-GB",
+        "link": "https://www.developer-tech.com/news/codeberg-members-vote-reject-llm-training-vibe-coding",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 92,
+        "source_url": "https://www.developer-tech.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Codeberg members vote to reject LLM training and vibe coding",
+        "vote": 0
+    }
+]

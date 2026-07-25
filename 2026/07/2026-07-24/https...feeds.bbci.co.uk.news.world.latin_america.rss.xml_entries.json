@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-24T08:57:32.474800+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-24T05:02:26+00:00",
+        "description": "As families continue to look for missing loved ones, there is growing anger and resentment at the authorities.",
+        "id": 6036034,
+        "language": "en-gb",
+        "link": "https://www.bbc.co.uk/news/articles/c39e17weydwo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 524,
+        "source_url": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/338a/live/7751b690-86c1-11f1-8c61-e72dd81a46e3.jpg",
+        "title": "One month after earthquakes, Venezuelans still search for loved ones and answers",
+        "vote": 0
+    }
+]

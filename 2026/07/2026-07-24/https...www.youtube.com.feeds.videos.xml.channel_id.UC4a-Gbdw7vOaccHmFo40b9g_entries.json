@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Khan Academy",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-24T13:40:50.596457+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-24T13:14:25+00:00",
+        "description": "Courses on Khan Academy are always 100% free. Start practicing\u2014and saving your progress\u2014now. https://www.khanacademy.org/science/ap-physics-c-mechanics\n\nGraphs of a system\u2019s potential energy as a function of position can be useful in determining properties of that system. Stable equilibrium is a location at which a small displacement results in a force opposite the direction of the displacement, accelerating the object back toward the equilibrium position. Stable equilibrium positions exist where the potential energy as a function of position has a local minimum. Unstable equilibrium is a location at which a small displacement results in a force in the same direction as the displacement, accelerating the object away from the equilibrium position. Unstable equilibrium positions exist where the potential energy as a function of position has a local maximum.\n\nSections:\n00:00 - Force and potential energy\n01:45 - Graphs of potential energy vs. position\n02:44 - Determining force magnitude\n0",
+        "id": 6037727,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=gY8sqnmju-0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 977,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4a-Gbdw7vOaccHmFo40b9g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/gY8sqnmju-0/hqdefault.jpg",
+        "title": "Potential energy and conservative forces (part 5) | AP Physics | Khan Academy",
+        "vote": 0
+    }
+]

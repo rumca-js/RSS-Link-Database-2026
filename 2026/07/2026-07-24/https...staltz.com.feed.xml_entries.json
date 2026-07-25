@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Andr\u00e9 Staltz",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-24T21:29:13.994808+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-24T21:29:05.041254+00:00",
+        "description": "<p>I have <em>felt</em> a lot more productive since getting into agentic coding with tools like Cursor, Claude, Grok Build, and Kimi. Beyond getting a lot more done at work and keeping my coworkers busy reviewing PRs, I've <a href=\"https://staltz.com/from-coder-to-curator\">revamped my personal blog</a>, made games for my kids, started building the <a href=\"https://x.com/andrestaltz/status/2065170439077265904\">spreadsheet app of my dreams</a>, <a href=\"https://staltz.com/one-handed-clock\">made my own clockface</a>, and more.</p>\n<div style=\"display:grid;grid-template-columns:1fr 1fr;gap:0.75rem;margin:var(--space-8,2rem) 0\">\n  <a href=\"https://staltz.com/img/20260724-lintupeli.jpg\"><img src=\"https://staltz.com/img/20260724-lintupeli.jpg\" alt=\"Lintupeli, a rollercoaster game\" style=\"margin:0;width:100%\"></a>\n  <a href=\"https://staltz.com/img/20260724-prinsessa.jpg\"><img src=\"https://staltz.com/img/20260724-prinsessa.jpg\" alt=\"Prinsessa, a castle adventure game\" style=\"margin:0;width:100",
+        "id": 6040873,
+        "language": "en-US",
+        "link": "https://staltz.com/i-am-7x-more-productive-with-ai.html",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 19,
+        "source_url": "https://staltz.com/feed.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://staltz.com/img/20260724-lintupeli.jpg",
+        "title": "I am 7x more productive with AI",
+        "vote": 0
+    }
+]

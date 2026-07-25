@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-24T15:04:34.155864+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-24T14:05:02+00:00",
+        "description": "Learn to build a fully typed Express server with TypeScript, covering routes, middleware, data handling, and more.\n\n\u270f\ufe0f Study this course interactively on Scrimba: \nhttps://scrimba.com/learn-typescript-c03c?via=scrimbafcc \n\nCode is available on the Scrimba course page for each lesson.\n\nTypeScript makes Express servers safer, more scalable, and easier to maintain. In this hands-on module, you'll go from setting up a TypeScript-powered Express environment to structuring routes, controllers, and middleware with full type safety. By the end of the video, you'll have the skills to build production-ready Express APIs with confidence.\n\n\u2764\ufe0f Support for this channel comes from our friends at Scrimba \u2013 the coding platform that's reinvented interactive learning: https://scrimba.com/freecodecamp\n\n\u2b50\ufe0f Contents \u2b50\ufe0f\n- 0:00:00 Intro to Express & TypeScript \n- 0:02:08 Setting up a Express and TypeScript Environment \n- 0:05:14 Set up your environment \n- 0:07:12 Setting up an Express & TypeScript project \n-",
+        "id": 6038290,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=bYgphDEWwvs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/bYgphDEWwvs/hqdefault.jpg",
+        "title": "TypeScript in Express \u2013 TypeScript Tutorial",
+        "vote": 0
+    }
+]

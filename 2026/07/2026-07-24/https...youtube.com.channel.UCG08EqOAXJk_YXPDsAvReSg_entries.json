@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unity",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-24T17:22:24.576072+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-24T16:11:53+00:00",
+        "description": "Introducing Unity 7 - built for a faster-moving, more open industry where creators, cross-functional teams, and coding agents can seamlessly collaborate across every stage of the development cycle. Featuring: \n\n\u2705 Create faster: Modernized CoreCLR foundation with a near-instant Play Mode and up to 90% faster shader builds.\n\u2705 Collaborate in better ways: New CLI, public API, and free MCP connect teams and coding agents directly to Unity.\n\u2705 Ship sharper graphics: Richer, realistic lighting via Surface Cache GI across all Unity supported devices.\n\u2705 Grow and monetize smarter: Built-in Unity Vector tools, native webshops, and direct-to-consumer IAP to scale efficiently.\n\u2705 No breaking changes: A direct continuation of Unity 6 architecture, offering an upgrade path with zero rebuilding.\n\nUnity 7 will enter early Beta testing in December, with the Full Release scheduled for Q1 2027\n\n\ud83d\udd17 Learn more: https://on.unity.com/Unity7\n\n_______________\n\nStay connected with us: \nGames Twitter/X: https://x.c",
+        "id": 6039312,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=zBPGZ8E6veo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 683,
+        "source_url": "https://youtube.com/channel/UCG08EqOAXJk_YXPDsAvReSg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/zBPGZ8E6veo/hqdefault.jpg",
+        "title": "Unity 7 announcement",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Snazzy Labs",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-24T15:35:06.873736+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-24T15:00:00+00:00",
+        "description": "*Buy FANTASTIC merch at Copland Supply* - https://copland.supply\nFollow Snazzy Labs on Twitter - https://twitter.com/snazzylabs  \nFollow me on Bluesky - https://snazzy.fm/UW\nFollow me on Threads - https://snazzy.fm/XV\nFollow me on Mastodon - https://snazzy.fm/NN\nFollow me on Instagram - https://instagram.com/snazzyq\n\nTesla Full Self-Driving v14.3.4 in a 2026 Model Y rental \u2014 no radar, no ultrasonic sensors, no lidar, just eight cameras, an end-to-end neural network trained by imitation learning, and a distilled student model small enough to run behind the dash. After eight years and $8,000 of Enhanced Autopilot and FSD Capability promises, plus a slow exit to Rivian R1T, R1S and R2, FSD v14 is finally smoother and more confident than the average Uber driver \u2014 and, surprisingly, more comfortable than a week of Waymo robotaxi rides around San Francisco. It still botches parking lots, misses freeway exits, invents its own routing instead of using Google Maps or Waze, and parked me nowher",
+        "id": 6038476,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=wmV_mBA1w3g",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 307,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCO2x-p9gg9TLKneXlibGR7w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/wmV_mBA1w3g/hqdefault.jpg",
+        "title": "Tesla Owes Me $8,000 and Eight Years",
+        "vote": 0
+    }
+]
