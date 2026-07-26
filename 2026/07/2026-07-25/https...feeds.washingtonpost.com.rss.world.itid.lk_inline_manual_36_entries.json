@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mohamad  El Chamaa",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-25T16:26:40.504820+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-25T15:33:08+00:00",
+        "description": "The strikes by Yemen's Iran-backed Houthi rebels could add to the pressure on global oil markets on top of disruptions caused by the closure of the Strait of Hormuz.",
+        "id": 6044561,
+        "language": "en-US",
+        "link": "https://www.washingtonpost.com/world/2026/07/25/houthis-claim-attack-saudi-oil-refinery-iran-war-widens-red-sea",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 365,
+        "source_url": "https://feeds.washingtonpost.com/rss/world?itid=lk_inline_manual_36",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Houthis claim attack on Saudi oil refinery as Iran war widens to Red Sea",
+        "vote": 0
+    }
+]

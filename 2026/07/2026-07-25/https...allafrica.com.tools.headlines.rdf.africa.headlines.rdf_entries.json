@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-25T19:53:17.249802+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-25T19:23:21+00:00",
+        "description": "[allAfrica] Artificial Intelligence (AI) is often described as the next industrial revolution. That description is already outdated. AI is rapidly becoming the infrastructure upon which future economies, governments, healthcare systems, education, agriculture, finance and national security will be built. The question for Africa is no longer whether AI will transform the world. The question is whether Africa will help shape that future--or simply consume technologies designed elsewhere.",
+        "id": 6045366,
+        "language": "en",
+        "link": "https://allafrica.com/stories/202607250233.html",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 15,
+        "source_url": "https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Africa: Africa's AI Moment - How the Continent Can Quantum Leap into the Future--Today",
+        "vote": 0
+    }
+]

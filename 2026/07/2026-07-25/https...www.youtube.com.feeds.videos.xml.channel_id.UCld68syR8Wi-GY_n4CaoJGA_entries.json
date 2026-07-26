@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-25T18:15:36.973225+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-25T17:30:14+00:00",
+        "description": "A few weeks ago there was this massive malware situation on Arch Linux's AUR but whatever happened since then and where are things going now.\n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\nSecondary Attacks: https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/message/P2PG2N73L6G66F46ZZDZO25IER2KSLLC/\nAUR Signup Down: https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/4JRS73YVTE7JUYHHE3ZDUIHXYHXZ3YQQ/\nHarsh words: https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/3XAEPJG2GC5RZCN57GM7U6MOJYIEL2WT/\nAccount Request: https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/BY7ML4ENZMKG7USE4JPGVPVM2Z5L26N4/\nSignup Announcement:  https://lists.archlinux.org/archives/list",
+        "id": 6045027,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=2J0lM9FiBLE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/2J0lM9FiBLE/hqdefault.jpg",
+        "title": "Arch Linux's AUR Is Going To Change",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Eduard Kovacs",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-25T09:41:50.594073+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-25T08:30:00+00:00",
+        "description": "<p>A researcher has explained how an attacker could exploit these vulnerabilities to target industrial organizations.</p>\n<p>The post <a href=\"https://www.securityweek.com/rockwell-patches-code-execution-flaws-in-arena-simulation-software/\">Rockwell Patches Code Execution Flaws in Arena Simulation Software</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+        "id": 6043118,
+        "language": "en-US",
+        "link": "https://www.securityweek.com/rockwell-patches-code-execution-flaws-in-arena-simulation-software",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 299,
+        "source_url": "https://www.securityweek.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Rockwell Patches Code Execution Flaws in Arena Simulation Software",
+        "vote": 0
+    }
+]

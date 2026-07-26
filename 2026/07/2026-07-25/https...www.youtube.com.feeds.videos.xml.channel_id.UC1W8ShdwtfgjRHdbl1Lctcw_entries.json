@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NASS",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-25T20:44:06.822981+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-25T19:45:33+00:00",
+        "description": "Travel back to 1950s Portugal and experience the country's timeless beauty through rare historical footage restored in stunning 4K 60fps. From charming whitewashed villages and Lisbon's iconic yellow trams to traditional fishing boats, steam trains, vineyards, and breathtaking Mediterranean landscapes, every scene has been carefully restored using my latest restoration and semantic colorization techniques.\n If you enjoy historical restorations, don't forget to Like, Comment, and Subscribe for more journeys through history.\n\n\ud83d\udcfd\ufe0f Technologies & Techniques Used:\n\u2022 Advanced video restoration\n\u2022 New semantic colorization only for the ambiance (not historically accurate)\n\u2022 Manually colorized keyframes (to establish accurate ambiance and color consistency (not historically accurate)\n\u2022 Advanced frame reconstruction to 4K\n\u2022 Manual color corrections \n\u2022 Classical restoration workflows (AviSynth ) combined with modern tools for (60fps, stabilization, denoise, cleaning, and deblurring )\n\u2022 Sound desi",
+        "id": 6045581,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=LY08M6wf1fQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 222,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC1W8ShdwtfgjRHdbl1Lctcw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/LY08M6wf1fQ/hqdefault.jpg",
+        "title": "Old Portugal 1950s \u2013 Advanced Colorization (4k60fps) with Sound Design",
+        "vote": 0
+    }
+]

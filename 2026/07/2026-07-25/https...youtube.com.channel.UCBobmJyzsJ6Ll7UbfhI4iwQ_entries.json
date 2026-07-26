@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unreal Engine",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-25T14:13:54.881333+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-25T14:00:24+00:00",
+        "description": "In this session recorded at Unreal Fest Chicago 2026, Audi AG gives a unique insight into their use of Unreal Engine to design the Audi F1 livery\u2014and how they are pushing real-time workflows to the limit. \n\nThe talk focuses on their Audi Visualization Unreal Solution platform\u2014in-house tech that leverages the functionality of the Unreal Editor and exposes it to 3D artists in a way that centers on automotive visualization as the primary use case, while ensuring artists and visualization experts are not limited in what they can achieve. \n\nWatch to see a real-time, in-editor demo as well as technical deep dives into various Unreal Engine workflows, including how the team leverages Substrate\u2014a node-based material authoring framework that replaces fixed shading models with a modular, layered system.\n\nFind out more about using Unreal Engine for automotive here: unrealengine.com/uses/automotive\n\n#AudiF1, #Livery, #Automotive, #AudiVisualizationUnrealSolution, #Substrate, #UnrealEngine, #Unrea",
+        "id": 6044024,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=5IGaSmzGepA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 685,
+        "source_url": "https://youtube.com/channel/UCBobmJyzsJ6Ll7UbfhI4iwQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/5IGaSmzGepA/hqdefault.jpg",
+        "title": "Audi F1\u2014Designing Livery with the Power of Unreal Engine | Unreal Fest Chicago 2026",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-25T12:54:17.824228+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-25T12:32:34+00:00",
+        "description": "AI won't necessarily displace skilled devs - it'll just move their value up the chain. Zubin discusses this with Quincy on the freeCodeCamp podcast.",
+        "id": 6043733,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/O3foXkb1Zos",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/O3foXkb1Zos/hqdefault.jpg",
+        "title": "AI won't necessarily displace skilled devs - it'll just move their value up the chain",
+        "vote": 0
+    }
+]

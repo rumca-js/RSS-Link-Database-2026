@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-25T05:36:21.558513+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-25T04:23:29+00:00",
+        "description": "The RealSense D585 Pro is a stereo depth camera built around the company&#8217;s new Gen 5 vision processor. It combines a 120 &#215; 100-degree field of view, global-shutter sensors, dual infrared projectors, an integrated IMU, and on-device processing for robotics and industrial-vision systems. The Gen 5 SoC incorporates a depth engine, image signal processor, digital [&#8230;]",
+        "id": 6042486,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/realsense-d585-pro-supports-1280-x-960-depth-capture-at-up-to-90-fps",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "RealSense D585 Pro combines stereo vision, dual IR projectors, and edge processing",
+        "vote": 0
+    }
+]

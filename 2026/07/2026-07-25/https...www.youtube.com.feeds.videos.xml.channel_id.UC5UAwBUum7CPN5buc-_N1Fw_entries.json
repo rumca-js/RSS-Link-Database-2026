@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Experiment",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-25T09:59:10.645289+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-25T09:43:02+00:00",
+        "description": "Try out Proton Mail, the secure email that protects your privacy: https://proton.me/mail/TheLinuxEXP\n\nGrab a brand new laptop or desktop running Linux: https://www.tuxedocomputers.com/en#\n\n\n\ud83d\udc4f SUPPORT THE CHANNEL:\nGet access to:\n- a Daily Linux News show\n- a weekly patroncast for more thoughts\n- your name in the credits\n\nYouTube: https://www.youtube.com/@thelinuxexp/join\nPatreon: https://www.patreon.com/thelinuxexperiment\n\nOr, you can donate whatever you want:\nhttps://paypal.me/thelinuxexp\nLiberapay: https://liberapay.com/TheLinuxExperiment/\n\n\ud83d\udc55 GET TLE MERCH\nSupport the channel AND get cool new gear: https://the-linux-experiment.creator-spring.com/\n\nTimestamps:\n00:00 Intro\n00:41 Sponsor: Proton Mail\n01:43 Upstream vs distros debate kicks off again\n05:16 432 CVEs published in 2 days by the Linux kernel team\n08:20 Flathub reviewers leaving\n11:18 Flathub's AI slop ban was probably the right call\n13:11 Collabora talks about their work on the Steam Frame OS\n14:51 GNOME changes how they hand",
+        "id": 6043200,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=2cQ9-_7GwmQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 349,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5UAwBUum7CPN5buc-_N1Fw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/2cQ9-_7GwmQ/hqdefault.jpg",
+        "title": "Egos ruining Open Source projects, distros vs software conflicts - Linux Weekly News",
+        "vote": 0
+    }
+]
