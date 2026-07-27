@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/Exciting-Menu1688",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-26T17:45:21.713907+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-26T12:47:49+00:00",
+        "description": "<table> <tr><td> <a href=\"https://www.reddit.com/r/hacking/comments/1v72zb9/arp_poisoning_in_2026/\"> <img src=\"https://preview.redd.it/1m0vzkq8ekfh1.png?width=140&amp;height=55&amp;auto=webp&amp;s=dbb2c07dc91f4904b5b6ca1cc006cf273d1fb566\" alt=\"ARP poisoning in 2026\" title=\"ARP poisoning in 2026\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Some of you may remember the good old Cain Abel sniffer that worked on Windows 9x. Today I tried running it on Windows 11 and it still &quot;works&quot;. Sure, you can&#39;t read plaintext passwords anymore and the communication is slow and incomplete due to MITM attacks, but ARP poisoning still works a little bit. </p> <p>I used xiaomi 15 as a victim and as you can see on screenshot I can see part of my browsing history on laptop with Cain. I think it&#39;s not bad for more than 25 years old software :)</p> <p><a href=\"https://preview.redd.it/1m0vzkq8ekfh1.png?width=1441&amp;format=png&amp;auto=webp&amp;s=ff1a1b7c2f5dfa1744c91319deec74097326",
+        "id": 6049486,
+        "language": "en",
+        "link": "https://www.reddit.com/r/hacking/comments/1v72zb9/arp_poisoning_in_2026",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 534,
+        "source_url": "https://www.reddit.com/r/hacking/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://preview.redd.it/1m0vzkq8ekfh1.png?width=140&height=55&auto=webp&s=dbb2c07dc91f4904b5b6ca1cc006cf273d1fb566",
+        "title": "ARP poisoning in 2026",
+        "vote": 0
+    }
+]

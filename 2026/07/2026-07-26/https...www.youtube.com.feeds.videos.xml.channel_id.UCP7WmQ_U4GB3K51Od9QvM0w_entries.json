@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "David Bombal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-26T17:18:19.175861+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-26T14:00:04+00:00",
+        "description": "Big thanks to Proton VPN for sponsoring this video.  To sign up for Proton VPN please use the following link https://protonvpn.com/davidbombal and get 70% off. \n\nQubes OS is built around one brutally honest idea: assume a breach. Instead of trusting your browser, files, passwords, work documents, and sensitive data in one shared environment like Windows, macOS, or a typical Linux install, Qubes separates everything into isolated compartments called qubes, so one mistake doesn't compromise your entire computer. \n\nIn this overview I walk through how Qubes OS actually works. I explain what a qube is (an isolated security compartment implemented as a virtual machine, but integrated into one desktop so apps sit side by side), and why the colored window borders matter, with a personal qube in yellow and a work qube in blue running Firefox at the same time. You'll see the separate file managers, how Whonix brings Tor browsing into its own compartment, the offline Vault qube that has no netwo",
+        "id": 6049382,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=_2Ce09mQfOg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 984,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP7WmQ_U4GB3K51Od9QvM0w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/_2Ce09mQfOg/hqdefault.jpg",
+        "title": "Qubes OS explained: assume you will get hacked",
+        "vote": 0
+    }
+]

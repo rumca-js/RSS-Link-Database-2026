@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "GitHub",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-26T17:33:54.193076+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-26T15:00:10+00:00",
+        "description": "The World Cup might be over, but exploring the data behind every match is just getting started. World Cup 2026 data portraits convert over 1,500 match events, from passes and touches to cards and shots, into interactive 3D visualizations. Built with self-hosted Three.js, local assets, and GPU fallbacks, this open-source project offers a new perspective on every game. Explore how creative data visualization turns raw sports metrics into a living story.\n\n#WorldCup #Football #DataVisualization\n\nStay up-to-date on all things GitHub by connecting with us:\n\nYouTube: https://gh.io/subgithub\nBlog: https://github.blog\nX: https://twitter.com/github\nLinkedIn: https://linkedin.com/company/github\nInsider newsletter: https://resources.github.com/newsletter/\nInstagram: https://www.instagram.com/github\nTikTok: https://www.tiktok.com/@github\n\nAbout GitHub\nIt\u2019s where over 180 million developers create, share, and ship the best code possible. It\u2019s a place for anyone, from anywhere, to build anything\u2014it\u2019",
+        "id": 6049420,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/XhNy3L_LGl4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 1005,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7c3Kb6jYCRj4JOHHZTxKsQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/XhNy3L_LGl4/hqdefault.jpg",
+        "title": "Turning World Cup match data into interactive 3D portraits",
+        "vote": 0
+    }
+]

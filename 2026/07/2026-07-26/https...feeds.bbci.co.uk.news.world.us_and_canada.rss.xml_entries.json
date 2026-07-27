@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-26T18:28:29.938817+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-26T18:04:53+00:00",
+        "description": "Neither the US nor Iran have launched attacks in the last two nights, after almost two weeks of tit-for-tat strikes risked derailing talks to permanently end the war.",
+        "id": 6049672,
+        "language": "en-gb",
+        "link": "https://www.bbc.co.uk/news/articles/c5y45kdkynpo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 526,
+        "source_url": "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77dd/live/1590f3b0-890c-11f1-84f3-d921f52926a2.jpg",
+        "title": "Trump paused attacks on Iran to make space for talks, US ambassador says",
+        "vote": 0
+    }
+]

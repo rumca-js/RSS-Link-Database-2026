@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-26T20:31:01.419973+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-26T17:30:26+00:00",
+        "description": "Recently FreeBSD eliminated the last bit of GPL code in the project and that's as a time as any to discuss how the BSD side of things greatly differ from Linux\n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\nOG Linux License: https://cdn.kernel.org/pub/linux/kernel/Historic/old-versions/RELNOTES-0.01\nTorvalds On GPL: https://www.youtube.com/watch?v=PaKIZ7gJlRU\nFreeBSD Change: https://reviews.freebsd.org/D55424\nPatch: https://github.com/freebsd/freebsd-src/commit/134a4c78d070f8c4ea43a060a7ae28d22ac39558\nFreeBSD Book: https://docs.freebsd.org/en/books/handbook/introduction\nWhy Use FreeBSD: https://freebsdfoundation.org/blog/why-you-should-use-freebsd/\nOpenBSD: https://www.openbsd.org/policy.html\n\n=========Video Platforms==========\n\ud83c\udfa5 React: https://www.youtube.com/@BrodieR",
+        "id": 6050087,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=jmWq0gMx20o",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/jmWq0gMx20o/hqdefault.jpg",
+        "title": "FreeBSD Eliminated All Its GPL Code",
+        "vote": 0
+    }
+]

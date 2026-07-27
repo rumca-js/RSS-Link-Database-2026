@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/brucehoult",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-26T11:03:20.652728+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-26T09:29:08+00:00",
+        "description": "<table> <tr><td> <a href=\"https://www.reddit.com/r/RISCV/comments/1v6z1h8/pretty_cool_2d_assembly_language_in_this_weekends/\"> <img src=\"https://external-preview.redd.it/lOBR_ZrqFK-bmqmGykkam4DPGu_xd5zd6CcLSyg5TN0.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=d938bc0e61618ee46fa4d1950bc79d44331088f2\" alt=\"Pretty cool 2D assembly language in this weekend's ICFP programming contest\" title=\"Pretty cool 2D assembly language in this weekend's ICFP programming contest\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Here&#39;s a pretty bad solution to the first (Triangle) problem that scores 183K (lower is better) that I made while trying to understand how the scoring system actually works.</p> <p>I do also have a solution that scores the minimum 832 which I&#39;ll reveal after the contest ends. Its SHA is 213fe1e79e32f9252dbece4f2ea9660c0ea63e8d.</p> <pre><code>+-----+ |@rMbv| |&gt;W/s+| |2 &gt;+v| |^Mdm&lt;| +-----+ ^ v ^ v +-+ +-+ |I| |O| +-+ +-+ </code></pre> <p>Although I&#39;ve",
+        "id": 6047948,
+        "language": "en",
+        "link": "https://www.reddit.com/r/RISCV/comments/1v6z1h8/pretty_cool_2d_assembly_language_in_this_weekends",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 471,
+        "source_url": "https://www.reddit.com/r/RISCV/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://external-preview.redd.it/lOBR_ZrqFK-bmqmGykkam4DPGu_xd5zd6CcLSyg5TN0.png?width=640&crop=smart&auto=webp&s=d938bc0e61618ee46fa4d1950bc79d44331088f2",
+        "title": "Pretty cool 2D assembly language in this weekend's ICFP programming contest",
+        "vote": 0
+    }
+]

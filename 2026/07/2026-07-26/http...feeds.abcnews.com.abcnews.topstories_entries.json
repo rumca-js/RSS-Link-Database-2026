@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-26T15:24:14.423519+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-26T11:13:04+00:00",
+        "description": "GOP Rep. Mike Turner said the U.S. should continue to apply pressure on Iran but conceded Trump has few options as long as \"Iran has a vote.\".",
+        "id": 6048892,
+        "language": "en-US",
+        "link": "https://abcnews.com/Politics/gop-rep-turner-lot-options-trump-iran/story?id=135095843",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 81,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 9,
+        "source_url": "http://feeds.abcnews.com/abcnews/topstories",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://s.abcnews.com/images/Politics/boarding-20260726-gty-jh_1785070634819_hpMain_4x3t_384.jpg",
+        "title": "GOP Rep. Turner: 'Not a lot of options' for Trump in Iran",
+        "vote": 0
+    }
+]
