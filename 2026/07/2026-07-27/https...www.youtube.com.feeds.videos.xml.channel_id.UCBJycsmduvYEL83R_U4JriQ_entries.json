@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Marques Brownlee",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-27T18:04:29.943504+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-27T15:38:21+00:00",
+        "description": "The modular Macbook Pro for Linux users. Color me impressed.\n\nMKBHD Merch: http://shop.MKBHD.com\n\nFramework 13 Pro: https://geni.us/SVkxq\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\nLaptop provided by Framework for review.\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+        "id": 6055854,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=_xjxwl1zLMc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 210,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCBJycsmduvYEL83R_U4JriQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/_xjxwl1zLMc/hqdefault.jpg",
+        "title": "Framework 13 Pro: The Modular Laptop is Real!",
+        "vote": 0
+    }
+]

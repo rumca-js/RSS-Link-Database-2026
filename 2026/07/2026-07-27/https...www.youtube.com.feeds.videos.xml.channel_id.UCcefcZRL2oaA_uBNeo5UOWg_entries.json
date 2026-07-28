@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-27T18:39:36.088507+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-27T17:00:30+00:00",
+        "description": "Fresh off the launch of Opus 5, Claude Code creator Boris Cherny joins Diana Hu at Startup School 2026 to talk about what the newest models can do, how Claude Code came to be, and what it means to build products when the underlying capabilities keep accelerating.\n\nTranscript: https://www.ycrootaccess.com/p/boris-cherny-building-claude-code\n\nApply to Y Combinator: https://www.ycombinator.com/apply\nWork at a startup: https://www.ycombinator.com/jobs\n\nChapters:\n00:07 \u2014 What Makes Opus 5 Different\n02:06 \u2014 Solving Prompt Injection\n03:21 \u2014 Why Claude Code Deleted 80% of Its System Prompt\n06:37 \u2014 Press Delete on Your AI Product\n07:20 \u2014 How to Rebuild Your System Prompt\n10:30 \u2014 Product Overhang and \u201cUnhobbling\u201d AI\n14:26 \u2014 Give Claude Harder Problems\n19:32 \u2014 Prompt Engineering Is Changing\n21:57 \u2014 The Two-Week Claude Code Prompt\n24:42 \u2014 Running Thousands of AI Agents\n30:15 \u2014 Coding Is (Almost) Solved\n32:20 \u2014 What Every CS Student Should Still Learn",
+        "id": 6056052,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=qyPCVqFUyDo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/qyPCVqFUyDo/hqdefault.jpg",
+        "title": "Boris Cherny: Building Claude Code",
+        "vote": 0
+    }
+]

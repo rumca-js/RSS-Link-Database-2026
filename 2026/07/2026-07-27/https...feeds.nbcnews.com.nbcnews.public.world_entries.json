@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-27T17:50:22.383677+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-27T17:33:36+00:00",
+        "description": "An American eye surgeon and his team performed over 1,000 cataract surgeries in Abyei along the South Sudan border, restoring sight to thousands in a region with one of the world's highest blindness rates. NBC News' Molly Hunter reports.",
+        "id": 6055730,
+        "language": "en-US",
+        "link": "https://www.nbcnews.com/now/video/american-doctor-performs-1-000-eye-surgeries-at-south-sudan-border-267328581630",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 224,
+        "source_url": "https://feeds.nbcnews.com/nbcnews/public/world",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_07/1785173606202_now_daily_a_mhu_south_sudan_eye_surgeries_260727_S3_1920x1080-axx1f4.jpg",
+        "title": "American surgeon restores sight to thousands at war-torn border of South Sudan",
+        "vote": 0
+    }
+]

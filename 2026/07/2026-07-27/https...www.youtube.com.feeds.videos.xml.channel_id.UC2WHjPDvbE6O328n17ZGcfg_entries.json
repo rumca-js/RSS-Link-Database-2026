@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ForrestKnight",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-27T20:34:58.890856+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-27T18:45:12+00:00",
+        "description": "I've been a Java developer for many years now, and I wanted to share my IntelliJ IDEA setup for it Java development after about 7 years of refining my setup.\n\nTry these and many other new features in the latest IntelliJ IDEA 2026.2 release:\n\ud83d\udd0d Explore what's new in IntelliJ IDEA: https://jetty.to/intellij-26-2\n\ud83d\udcbb Download IntelliJ IDEA to get started: https://jetty.to/intellij\n\nThis video is sponsored by IntelliJ IDEA by JetBrains.\n\nIf you're a developer, sign up to my free newsletter Dev Notes (about to get rebranded and revived) \ud83d\udc49 https://www.devnotesdaily.com/\n\nDon't know why you'd want to follow me on other socials. I don't even post. But here you go.\n\ud83d\udc31\u200d\ud83d\ude80 GitHub: https://github.com/forrestknight\n\ud83d\udc26 Twitter: https://www.twitter.com/forrestpknight\n\ud83d\udcbc LinkedIn: https://www.linkedin.com/in/forrestpknight\n\ud83d\udcf8 Instagram: https://www.instagram.com/forrestpknight",
+        "id": 6056767,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=nZ9PBEXyBYA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 118,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2WHjPDvbE6O328n17ZGcfg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/nZ9PBEXyBYA/hqdefault.jpg",
+        "title": "My IntelliJ IDEA Setup for Java Development",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-27T04:27:57.817380+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-27T03:32:19+00:00",
+        "description": "The PineVoice is a compact RISC-V smart speaker designed to operate as a local voice-assistant satellite for Home Assistant and other platforms supporting the Wyoming protocol. The device combines a dual-microphone array, built-in speaker, local wake-word detection, Wi-Fi and Bluetooth connectivity, and open-source firmware. Previously known as the PineVox, the PineVoice is built around Bouffalo [&#8230;]",
+        "id": 6051507,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/pinevoice-brings-local-voice-control-to-home-assistant",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "PineVoice RISC-V smart speaker supports local wake-word detection for Home Assistant",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Christian Romero",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-27T20:28:37.406129+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-27T19:25:18+00:00",
+        "description": "<div class=\"field field--name-body field--type-text-with-summary field--label-hidden\"><div class=\"field__items\"><div class=\"field__item even\"><p>EFF\u2019s first <a href=\"https://www.eff.org/pages/effecting-change\">EFFecting Change livestream</a> was all the way back in July of 2024. Maybe you've caught each stream, or maybe you\u2019ve only caught a few. Or maybe you\u2019re like me and prefer to listen to conversations like these on your daily commute! Either way, if you want to stay on top of these monthly conversations, you can now subscribe to our new podcast feed for EFFecting Change\u2014starting with our conversation on the <a href=\"https://www.eff.org/issues/right-to-repair\">Right to Repair movement</a> with Adam Savage and iFixit CEO Kyle Wiens:</p>\n<p><div class=\"mytube\" style=\"width: 100%px;\">\n  <div class=\"mytubetrigger\" tabindex=\"0\">\n\n    <img src=\"https://www.eff.org/sites/all/modules/custom/mytube/play.png\" class=\"mytubeplay\" alt=\"play\" style=\"top: 70px; left: 20px;\" />\n    <div hidden cl",
+        "id": 6056721,
+        "language": "en",
+        "link": "https://www.eff.org/deeplinks/2026/07/miss-last-weeks-livestream-adam-savage-and-ifixit-listen-here",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 101,
+        "source_url": "https://www.eff.org/rss/updates.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.eff.org/sites/all/modules/custom/mytube/play.png",
+        "title": "Missed EFF's Livestream with Adam Savage and iFixit? Listen Here!",
+        "vote": 0
+    }
+]

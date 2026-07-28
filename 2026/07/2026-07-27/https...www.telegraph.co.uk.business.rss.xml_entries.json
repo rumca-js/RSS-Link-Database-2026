@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Chris Price",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-27T16:46:58.911782+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-27T15:53:06+00:00",
+        "description": "Europe faces energy crisis as gas stockpiles sink",
+        "id": 6055167,
+        "language": "en-UK",
+        "link": "https://www.telegraph.co.uk/business/2026/07/27/oil-prices-us-iran-war-ftse-100-markets-gas",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 81,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 354,
+        "source_url": "https://www.telegraph.co.uk/business/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Europe faces energy crisis as gas stockpiles sink",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Sourav Rudra",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-27T15:35:23.560197+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-27T15:05:14+00:00",
+        "description": "It's been rewritten from scratch to provide some good gains.",
+        "id": 6054756,
+        "language": "en-US",
+        "link": "https://itsfoss.com/news/firedragon-v13-release",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 156,
+        "source_url": "https://news.itsfoss.com/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://itsfoss.com/content/images/2026/07/firedragon-banner.png",
+        "title": "FireDragon Browser Swoops in With New Wings",
+        "vote": 0
+    }
+]

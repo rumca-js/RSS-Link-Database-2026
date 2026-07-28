@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Blog Staff",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-27T20:51:37.185730+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-27T20:30:44+00:00",
+        "description": "<p>\n\t<img alt=\"RaymondChen_5in-150x150.jpg\" src=\"https://isocpp.org/files/img/RaymondChen_5in-150x150.jpg\" style=\"width: 150px; margin: 10px; float: right;\" />We got distracted by the rotation algorithm in gcc&rsquo;s libstdc++, <a href=\"https://devblogs.microsoft.com/oldnewthing/20260602-00/?p=112376\" title=\"Rotation revisited: Another unidirectional algorithm\">but let&rsquo;s get back to the cycle decomposition algorithm in </a><a href=\"https://github.com/llvm/llvm-project/blob/682c8e22e61f50ce2d9a0c42475a3aa6d578a1ad/libcxx/include/__algorithm/rotate.h\" target=\"_blank\">clang&rsquo;s libcxx</a><a href=\"https://devblogs.microsoft.com/oldnewthing/20260602-00/?p=112376\" title=\"Rotation revisited: Another unidirectional algorithm\">.</a></p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://devblogs.microsoft.com/oldnewthing/20260604-00/?p=112384\">Rotation revisited: Cycle decomposition in clang&rsquo;s libcxx</a></h3>\n\t<p>\n\t\tby Raymond Chen</p>\n</blockquote>\n<p>\n\tFrom the article:</p>\n<blockquote>\n",
+        "id": 6056894,
+        "language": "en",
+        "link": "https://isocpp.org//blog/2026/07/rotation-revisited-cycle-decomposition-in-clangs-libcxx-raymond-chen",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://isocpp.org/files/img/RaymondChen_5in-150x150.jpg",
+        "title": "Rotation revisited: Cycle decomposition in clang\u2019s libcxx -- Raymond Chen",
+        "vote": 0
+    }
+]
