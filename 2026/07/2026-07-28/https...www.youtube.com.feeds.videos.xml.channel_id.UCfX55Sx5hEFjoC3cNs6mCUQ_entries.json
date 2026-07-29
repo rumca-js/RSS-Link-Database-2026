@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Foundation",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-28T16:59:18.749787+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-28T16:21:06+00:00",
+        "description": "Mark Brown and Shuah Khan will talk about Mark\u2019s experience as a kernel developer and maintainer, taking questions from the attendees. Mark will share what works and what doesn\u2019t for him and strategies, interpersonal and technical skills and mindset that help him stay engaged for a longer term.",
+        "id": 6062870,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=SxXMI4E0xaI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 499,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfX55Sx5hEFjoC3cNs6mCUQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/SxXMI4E0xaI/hqdefault.jpg",
+        "title": "LF Live Maintainer Session: My Life as a Linux Kernel Developer and Maintainer with Mark Brown",
+        "vote": 0
+    }
+]

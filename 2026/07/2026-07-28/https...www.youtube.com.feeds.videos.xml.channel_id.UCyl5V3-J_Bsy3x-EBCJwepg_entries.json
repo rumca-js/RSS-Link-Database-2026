@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Babylon Bee",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-28T22:17:45.794558+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-28T21:00:06+00:00",
+        "description": "Here comes the latest horror movie, SMILE 3. He smiles. You vote. You die. This time, the Monstrosity is Mayor Mamdani and his socialist policies.",
+        "id": 6064994,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=90FpWh1VihM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 31,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCyl5V3-J_Bsy3x-EBCJwepg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/90FpWh1VihM/hqdefault.jpg",
+        "title": "TRAILER: Smile 3",
+        "vote": 0
+    }
+]

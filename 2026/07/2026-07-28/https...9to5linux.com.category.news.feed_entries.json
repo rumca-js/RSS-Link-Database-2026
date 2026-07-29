@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Marcus Nestor",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-28T19:17:18.937145+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-28T18:17:00+00:00",
+        "description": "<p><img width=\"1280\" height=\"720\" src=\"https://9to5linux.com/wp-content/uploads/2026/07/wayfire.webp\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Wayfire\" /></p>\n<p>Wayfire 0.11 modular and extensible Wayland compositor is now available with better fractional scaling, HDR rendering, support for per-output ICC profiles, and more.</p>\n<p>The post <a href=\"https://9to5linux.com/wayfire-0-11-wayland-compositor-adds-better-fractional-scaling-hdr-rendering\">Wayfire 0.11 Wayland Compositor Adds Better Fractional Scaling, HDR Rendering</a> appeared first on <a href=\"https://9to5linux.com\">9to5Linux</a> - do not reproduce this article without permission. This RSS feed is intended for readers, not scrapers.</p>",
+        "id": 6063910,
+        "language": "en-US",
+        "link": "https://9to5linux.com/wayfire-0-11-wayland-compositor-adds-better-fractional-scaling-hdr-rendering",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 6,
+        "source_url": "https://9to5linux.com/category/news/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://9to5linux.com/wp-content/uploads/2026/07/wayfire.webp",
+        "title": "Wayfire 0.11 Wayland Compositor Adds Better Fractional Scaling, HDR Rendering",
+        "vote": 0
+    }
+]

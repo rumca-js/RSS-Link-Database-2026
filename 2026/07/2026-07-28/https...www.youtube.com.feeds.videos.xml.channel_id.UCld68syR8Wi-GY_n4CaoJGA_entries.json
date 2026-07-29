@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-28T18:37:20.374672+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-28T17:30:25+00:00",
+        "description": "It's been a while since we've talked about a Wayland protocol discussion and so far there hasn't been much of a discussion but it's so amusing already that we need to talk about it.\n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\nWayland Protocol: https://gitlab.freedesktop.org/wayland/wayland-protocols/-/merge_requests/525\nOBS Proposal: https://ideas.obsproject.com/posts/2066/implement-globalshortcuts-portal\nPortal PR: https://github.com/flatpak/xdg-desktop-portal/issues/624\nHyprland PR: https://github.com/hyprwm/Hyprland/pull/15010\nNiri PR: https://github.com/niri-wm/niri/pull/4145\nGhostty PR: https://github.com/ghostty-org/ghostty/pull/13464\nOBS PR: https://github.com/obsproject/obs-studio/pull/13661\n\n=========Video Platforms==========\n\ud83c\udfa5 React: https://www.youtube.co",
+        "id": 6063637,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=VEXugiJsNbM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/VEXugiJsNbM/hqdefault.jpg",
+        "title": "The New Wayland Global Shortcuts Protocol",
+        "vote": 0
+    }
+]

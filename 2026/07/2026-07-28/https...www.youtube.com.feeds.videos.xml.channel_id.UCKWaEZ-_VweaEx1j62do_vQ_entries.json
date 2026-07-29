@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-28T12:20:05.107335+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-28T11:00:05+00:00",
+        "description": "Learn more about Large Language Models (LLMs) here \u2192 https://ibm.biz/~uLCBj5HLQ\n\nChoosing a local LLM engine can make or break performance. Cedric Clyburn breaks down Llama.cpp versus vLLM for real\u2011world local inference. Learn which tool fits personal hardware, production scale, and AI agent workloads.\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/~L7AEwTWo5\n\n#localllm #llama #vllm #aiagents #opensourceai",
+        "id": 6060838,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=0ujh7hfutq0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/0ujh7hfutq0/hqdefault.jpg",
+        "title": "Llama.cpp vs vLLM: Which Local LLM Engine Actually Scales?",
+        "vote": 0
+    }
+]

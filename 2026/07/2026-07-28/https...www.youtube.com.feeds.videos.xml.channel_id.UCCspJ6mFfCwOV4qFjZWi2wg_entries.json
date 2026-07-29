@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Xiaomi",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-28T09:45:17.676505+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-28T04:11:52+00:00",
+        "description": "Join the Xiaomi SkyNomad Technology Launch now.\nTune in on July 30th at 19:00 (GMT+8) for Lei Jun to reveal #XiaomiSkyNomad N90 and N70, the two all-new intelligent SUVs.",
+        "id": 6059956,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=quVAF5oEG_U",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 800,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCspJ6mFfCwOV4qFjZWi2wg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/quVAF5oEG_U/hqdefault.jpg",
+        "title": "Xiaomi SkyNomad Technology Launch Event",
+        "vote": 0
+    }
+]

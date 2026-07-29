@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Matthew Leib",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-28T16:12:54.258450+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-28T15:00:19+00:00",
+        "description": "Anyone can make a robot move; NVIDIA Jetson makes it think. As a discerning AI investor who values style and substance, Sarah Guo knows this season\u2019s standout accessory isn\u2019t the latest designer purse \u2014 but what\u2019s inside it.\u00a0 In a recent video, Guo, founder of AI-native venture capital firm Conviction and co-host of the AI [&#8230;]",
+        "id": 6062548,
+        "language": "en-US",
+        "link": "https://blogs.nvidia.com/blog/build-ai-with-nvidia-jetson",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 1019,
+        "source_url": "https://feeds.feedburner.com/nvidiablog",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://blogs.nvidia.com/wp-content/uploads/2026/07/SarahGuo_Jetson_FeaturedImage-842x450.png",
+        "title": "Powerful Compute So Compact, It\u2019s Clutch \u2014 Build AI in Your Hand With NVIDIA Jetson",
+        "vote": 0
+    }
+]

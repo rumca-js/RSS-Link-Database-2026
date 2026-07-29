@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Caleb Curry",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-28T17:59:36.384396+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-28T16:45:49+00:00",
+        "description": "ENDS TONIGHT https://www.codebreakthrough.com/agentic-ai",
+        "id": 6063383,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=ZPTiBpjcZG4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 418,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZUyPT9DkJWmS_DzdOi7RIA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/ZPTiBpjcZG4/hqdefault.jpg",
+        "title": "\ud83d\udd34 Live! AI and Agents for Software Engineers",
+        "vote": 0
+    }
+]

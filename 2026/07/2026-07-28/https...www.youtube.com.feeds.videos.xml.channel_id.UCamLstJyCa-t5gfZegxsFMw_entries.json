@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Colin and Samir",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-28T22:49:16.793434+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-28T20:56:28+00:00",
+        "description": null,
+        "id": 6065194,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/XkYzxSDWu50",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 721,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCamLstJyCa-t5gfZegxsFMw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/XkYzxSDWu50/hqdefault.jpg",
+        "title": "Products we wish existed, mocked up with @AdobeFirefly #adobepartner",
+        "vote": 0
+    }
+]

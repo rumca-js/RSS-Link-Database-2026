@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Emily Mullin, wired.com",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-28T13:39:52.383079+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-28T13:32:23+00:00",
+        "description": "The US is making measles great again, so treatment options are needed for the most vulnerable.",
+        "id": 6061326,
+        "language": "en-US",
+        "link": "https://arstechnica.com/health/2026/07/as-us-measles-cases-rise-biotech-firms-start-developing-new-treatments",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 21,
+        "source_url": "https://feeds.arstechnica.com/arstechnica/index",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2201696919-500x500.jpg",
+        "title": "As US measles cases rise, biotech firms start developing new treatments",
+        "vote": 0
+    }
+]
