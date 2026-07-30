@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Matt Wolfe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-29T16:11:58.198655+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-29T14:13:44+00:00",
+        "description": "I gave Claude Code a random photo with zero geotags and it searched the web to figure out where it was taken \ud83e\udd2f\n\nAnthropic recently launched a native, sandboxed in-app browser built directly into Claude Code on desktop that can open a real browser pane beside your workspace. It can read web pages, click links, and interact with elements\u2014making it incredibly useful for researching documentation, debugging, or building web tools side-by-side.\n\nHere's how to access and try it yourself \ud83d\udc47\n- Open up Claude Code Desktop.\n- Press Cmd + Shift + B on macOS (or Ctrl + Shift + B on Windows) to open the built-in browser panel.\n- Give Claude a task that requires web research, live testing, or coding based on web resources, and watch it work in real time.\n\n\ud83d\udcc1 Save this reel so you can reference these steps later, and follow for more updates, hands-on tutorials, and practical AI use cases!\n\n#AI #claudecode #anthropic #vibecoding #aihacks",
+        "id": 6070251,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/zdG2bgFPxl4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 933,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChpleBmo18P08aKCIgti38g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/zdG2bgFPxl4/hqdefault.jpg",
+        "title": "Claude Geolocated My Photo With ZERO Metadata",
+        "vote": 0
+    }
+]

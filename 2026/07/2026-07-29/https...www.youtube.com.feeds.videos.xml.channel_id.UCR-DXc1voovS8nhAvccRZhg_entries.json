@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeff Geerling",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-29T21:07:37.100466+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-29T20:08:06+00:00",
+        "description": "It's getting crazy out there.\n\nReferenced in this video:\n\n  - Tweet that kicked off my discussion: https://x.com/Raspberry_Pi/status/2082208491490459688\n  - Micro Center Pi 4 1GB for $35: https://www.microcenter.com/product/665122/raspberry-pi-4-model-b\n  - Micro Center Pi 5 1GB for $43: https://www.microcenter.com/product/704295/raspberry-pi-5-1gb\n  - Micro Center Pi 5 16GB for $280: https://www.microcenter.com/product/702590/raspberry-pi-5-16gb\n  - Pi blog post about memory price increases: https://www.raspberrypi.com/news/a-new-3gb-raspberry-pi-4-for-83-75-and-more-memory-driven-price-increases/\n  - Touch Display 2 (10\"): https://www.raspberrypi.com/news/a-new-10-raspberry-pi-touch-display-2-available-now-at-80/\n\nSupport me on Patreon: https://www.patreon.com/geerlingguy\nSponsor me on GitHub: https://github.com/sponsors/geerlingguy\nMerch: https://www.redshirtjeff.com\n2nd Channel: https://www.youtube.com/@GeerlingEngineering\n3rd Channel: https://www.youtube.com/@Level2Jeff\n\nContents",
+        "id": 6072460,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=53AkaYvw63U",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 161,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR-DXc1voovS8nhAvccRZhg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/53AkaYvw63U/hqdefault.jpg",
+        "title": "This was never a good deal.",
+        "vote": 0
+    }
+]

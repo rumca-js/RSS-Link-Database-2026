@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-29T12:35:54.494400+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-29T10:00:04+00:00",
+        "description": "Explore the podcast \u2192 https://ibm.biz/~AzuQjmL4k\n\nWe\u2019re in an AI arms race, and the bad guys might be winning.\n\nOn this episode of Security Intelligence, Suja Viswesan, Dave McGinnis and Jeff Crume join host Matt Kosinski to dig into IBM\u2019s 2026 Cost of a Data Breach report. This year\u2019s findings suggest that attackers are weaponizing AI faster than defenders can deploy it, leading to some very troubling capability gaps.\n\nBut it\u2019s not all doom and gloom. We also look at the very real steps organizations can take to start closing those gaps today. They\u2019re not as hard as you might think!\n\nThen: Hugging Face got hacked. By a rogue AI agent. From OpenAI. It was trying to cheat on a test. We talk about the lessons we can learn, including the vital importance of open-source AI tools and how coalitional approaches to cybersecurity can unlock institutional knowledge that no training dataset can ever bestow on even the most diligent LLM.\n\nRead the Cost of a Data Breach report: https://ibm.biz/~V",
+        "id": 6068715,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=lx41qvj80Jo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/lx41qvj80Jo/hqdefault.jpg",
+        "title": "The Cost of a Data Breach 2026, and what we can learn from the Hugging Face hack",
+        "vote": 0
+    }
+]

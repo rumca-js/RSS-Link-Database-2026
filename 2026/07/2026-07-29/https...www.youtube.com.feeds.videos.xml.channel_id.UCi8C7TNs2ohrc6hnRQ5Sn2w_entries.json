@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kai Lentit",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-29T17:05:50.973805+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-29T16:35:47+00:00",
+        "description": "Corporate Sysadmin. Three CIOs. Zero documented SOPs.\n\nInterview with an Sysadmin with Walter Wallis - aired on \u00a9 Sysadmin 2026.\n\nSponsored by: https://turbopuffer.com/\n\nFind more characters on https://www.realsta.cc/sysadmin\nIn this interview, a 2010-era Windows sysadmin explains how change management, and the phrase \"currently, our position is no\" have kept him employed through four \"transformations\" and one AI mandate. From the server that hasn't been rebooted since 2013, the 91 members in the temp security group, to the backup strategy that has never survived a restore test.\n\n\u23f1 CHAPTERS\n00:00 \u2013 Intro\n\nprogramminghumor\nprogramming jokes\ndevops\nsysadmin\nwindows admin\nIT admin\ncitrix\nwindows server\nofficecomedy\nBOFH\n\n#sysadmin #programmingjokes #corporatehumor",
+        "id": 6070822,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=I7IHInNJZvE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 264,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCi8C7TNs2ohrc6hnRQ5Sn2w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/I7IHInNJZvE/hqdefault.jpg",
+        "title": "Interview with a Sysadmin in 2026 [Corporate]",
+        "vote": 0
+    }
+]

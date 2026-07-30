@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Hammond",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-29T17:45:24.743028+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-29T15:01:33+00:00",
+        "description": "What if Minecraft became a cybersecurity playground?\n\nI started throwing around the idea of turning real security research into game mechanics. Think executable files as mobs, real tools like Binwalk, and exploring security concepts inside an interactive Minecraft world.\n\nWatch the full livestream here: https://www.youtube.com/live/vUvulqnTCVk?si=EP99TFucBZbvsCpN",
+        "id": 6071041,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/SZA6okeLi1s",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 959,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVeW9qkBjo3zosnqUbG7CFw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/SZA6okeLi1s/hqdefault.jpg",
+        "title": "Minecraft Security Mods",
+        "vote": 0
+    }
+]

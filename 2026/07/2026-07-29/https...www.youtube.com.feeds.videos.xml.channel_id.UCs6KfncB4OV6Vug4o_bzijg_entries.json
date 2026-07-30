@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Techlore",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-29T08:35:18.840128+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-29T03:59:16+00:00",
+        "description": "Firefox just shipped its biggest redesign in six years, and it's already live in Nightly. I put regular Firefox side-by-side with the new Nova UI to show you what's changed: rounded tabs, a reworked settings menu, Kit, the return of Compact Mode, and a few hidden gems most people are going to miss. \n\n\ud83d\udd17 SOURCES & LINKS\n\u2022 Learn more about the release: https://www.firefox.com/en-US/whatsnext/\n\n\ud83d\udd0e RELATED VIDEOS\nhttps://youtu.be/zPqsIGALt7s\nhttps://youtu.be/dwFSytu_JUw\n\n\ud83d\udce8 Stay ahead of the news without doom-scrolling. Surveillance Report covers what matters in privacy, security, and digital rights. Weekly, free: https://techlore.tech/#/portal/signup\n\n\ud83d\udd10 MORE FROM TECHLORE\n\u2022 Test your privacy & security gaps: https://quiz.techlore.tech/\n\u2022 Close the gaps with the right tools: https://tools.techlore.tech/\n\u2022 Compare dozens of VPNs side by side: https://vpn.techlore.tech/\n\u2022 Learn everything from the ground up: https://techlore.tech/go-incognito-course/\n\u2022 Support Techlore, Join our Signal Group: ",
+        "id": 6067400,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=r2MyE33t7SQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 327,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/r2MyE33t7SQ/hqdefault.jpg",
+        "title": "Meet Firefox Nova: A First Look at the New Design",
+        "vote": 0
+    }
+]

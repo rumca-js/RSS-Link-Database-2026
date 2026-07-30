@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Chris Titus Tech",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-29T12:36:07.586096+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-29T11:15:21+00:00",
+        "description": "Most people use AI coding agents by giving them one giant prompt and letting them run wild. That might work for a tiny project, but it quickly falls apart when you are building real software.\n\nIn this video, I walk through my complete AI development workflow using agents, specifications, roadmaps, testing, pull requests, CI, security scanning, and independent code reviews. I also demonstrate the process on a real project, from the initial request through review, fixes, validation, and the final merge.\n\nThe model matters, but your workflow matters more. Manual gates, clear acceptance criteria, small pull requests, and proper testing are what turn AI-generated code into maintainable software.\n\nWhat does your AI development workflow look like? Let me know what you would add or change.\n\nWebsite Article: https://christitus.com/my-ai-workflow/\nGithub Repo: https://github.com/ChrisTitusTech/titus-ai\n\n00:00 My AI Workflow\n00:47 Build Guardrails First\n01:54 Agents And Skills\n03:04 Reducing Tok",
+        "id": 6068716,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=wcRR5P0S2Us",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 444,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCg6gPGh8HU2U01vaFCAsvmQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/wcRR5P0S2Us/hqdefault.jpg",
+        "title": "My AI Coding Workflow That Actually Works",
+        "vote": 0
+    }
+]

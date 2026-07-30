@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-29T20:10:52.498378+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-29T04:00:00+00:00",
+        "description": "<img src=\"https://imgs.xkcd.com/comics/vera_rubin_observatory.png\" title=\"'Spurious signals from the kitchen' is harder for an optical telescope than a radio one, but with enough determination and creativity, I believe it's possible.\" alt=\"'Spurious signals from the kitchen' is harder for an optical telescope than a radio one, but with enough determination and creativity, I believe it's possible.\" />",
+        "id": 6072148,
+        "language": "en",
+        "link": "https://xkcd.com/3278",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 573,
+        "source_url": "https://xkcd.com/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://imgs.xkcd.com/comics/vera_rubin_observatory.png",
+        "title": "Vera Rubin Observatory",
+        "vote": 0
+    }
+]

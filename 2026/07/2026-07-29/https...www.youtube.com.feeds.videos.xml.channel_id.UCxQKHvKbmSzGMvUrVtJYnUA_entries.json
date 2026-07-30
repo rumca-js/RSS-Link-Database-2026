@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Learn Linux TV",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-29T17:38:32.422872+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-29T15:00:02+00:00",
+        "description": "Learn how to create a Linux VPS on Linode from start to finish in this beginner-friendly tutorial. I\u2019ll walk you through deploying a Linode instance, choosing the best data-center region, selecting a Linux distribution, comparing VPS plans and costs, and configuring your server.\n\nYou\u2019ll also learn how to enable Linode\u2019s optional backup service and securely access your new Linux server using both the browser-based Lish console and SSH. Whether you\u2019re building a web server, development environment, home lab, or cloud-hosted Linux project, this guide will help you get started quickly.\n\n*Create your Linode account here (and support the channel)* \u279c https://learnlinux.link/linode\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*\ud83d\udcd6 Switch to Linux with my latest book! (Available Now!)*\n\nThinking about making the jump to Linux? This step-by-step guide will help you choose the right distribution, install Linux with confidence! Purchase your copy here:\nhttps://learnlinux.link/switch-to-linux\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*\ud83d\udc27 ",
+        "id": 6071010,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=yT0BA4ce2UU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 997,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxQKHvKbmSzGMvUrVtJYnUA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/yT0BA4ce2UU/hqdefault.jpg",
+        "title": "How to Set Up a Linux VPS on Linode (Easy Walkthrough)",
+        "vote": 0
+    }
+]
