@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-30T21:23:46.394365+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-30T21:03:53+00:00",
+        "description": "In 2001, Jeff Dean and Sanjay Ghemawat did the math and realized Google\u2019s entire search index would fit in RAM \u2014 then shipped it in a few days, and search got fast. In 2013, another napkin calculation showed that three minutes of daily speech recognition per user would require doubling Google\u2019s server fleet. That one became the TPU. \n\nAt Startup School 2026, Google\u2019s Chief Scientist talks with YC\u2019s Diana Hu through the thought experiments behind both, why inference hardware is the next specialization, and where two or three people in a room can still win.\n\nTranscript: https://www.ycrootaccess.com/p/jeff-dean-the-1-rule-for-building\n\nApply to Y Combinator: https://www.ycombinator.com/apply\nWork at a startup: https://www.ycombinator.com/jobs\n\nChapters:\n00:07 \u2014 Are AI Models Already Junior Engineers?\n01:44 \u2014 AI Systems That Improve Themselves\n02:40 \u2014 The Google Search Breakthrough That Changed Everything\n04:38 \u2014 AI Agents Will Run for Weeks\n05:58 \u2014 The Napkin Math That Led to TPUs\n09:20 ",
+        "id": 6080329,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=CxXgV54KzpQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/CxXgV54KzpQ/hqdefault.jpg",
+        "title": "Jeff Dean: The 1% Rule for Building in AI",
+        "vote": 0
+    }
+]

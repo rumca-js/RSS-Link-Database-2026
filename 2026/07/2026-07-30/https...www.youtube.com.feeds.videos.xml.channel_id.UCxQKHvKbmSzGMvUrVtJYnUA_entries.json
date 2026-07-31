@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Learn Linux TV",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-30T18:06:16.253431+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-30T15:00:29+00:00",
+        "description": "Just installed Arch Linux? This Arch Linux post-install guide covers 10 essential steps for building a secure, optimized, and fully functional desktop - including Pacman, Flatpak, CPU microcode, firewall configuration, SSD TRIM, multimedia codecs, Bluetooth, printers,the AUR and more!\n\n- Check out the blog post for this video here \u279c https://learnlinux.link/arch-linux-post-install\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*\ud83d\udcd6 Switch to Linux with my latest book! (Available Now!)*\n\nThinking about making the jump to Linux? This step-by-step guide will help you choose the right distribution, install Linux with confidence! Purchase your copy here:\nhttps://learnlinux.link/switch-to-linux\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n*\ud83d\udc27 Save on Linux Foundation Certifications*\n\nWhether you're starting a Linux career or advancing your existing skills, Linux Foundation training can help you stand out in a competitive industry. Check out the available courses and certifications, and save!\nhttps://learnlinux.link/get-certified\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501",
+        "id": 6079022,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=MLAa2Sf_3QU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 997,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxQKHvKbmSzGMvUrVtJYnUA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/MLAa2Sf_3QU/hqdefault.jpg",
+        "title": "10 Important Tweaks You Should Make After Installing Arch",
+        "vote": 0
+    }
+]

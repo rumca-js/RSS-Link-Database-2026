@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "JerryRigEverything",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-30T13:34:06.938279+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-30T13:07:37+00:00",
+        "description": "The slate truck is repairable, modular, and inexpensive.  What's not to love?",
+        "id": 6076893,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/25185B-tWCI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 705,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCWFKCr40YwOZQx8FHU_ZqqQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/25185B-tWCI/hqdefault.jpg",
+        "title": "I think i'm in love",
+        "vote": 0
+    }
+]

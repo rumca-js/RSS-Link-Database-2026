@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Infographics Show",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-30T23:53:40.012179+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-30T20:11:30+00:00",
+        "description": "Use code TIS at https://incogni.com/tis to get an exclusive 60% off\n\nThe unstoppable computer virus may already have a name - Morris II. Unlike traditional malware, this generative AI worm doesn\u2019t need you to click a suspicious link, open an attachment, or download a file. An AI assistant simply has to read the wrong email, document, or image.\n\nThis video explores how researchers created Morris II, the world\u2019s first generative AI worm, and tested it against systems powered by ChatGPT, Gemini, and other AI models. Hidden prompt injections can potentially steal sensitive information, spread themselves through email, and turn infected AI assistants into part of the attack without the user realizing anything is wrong.\nWe also look back at the original Morris Worm of 1988, how it crippled thousands of computers, and why today\u2019s AI agents could make the next generation of cyberattacks far more dangerous. As AI gains access to inboxes, files, calendars, passwords, and financial systems, a si",
+        "id": 6081046,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=m1fFYdc3cuA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 999,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfdNM3NAhaBOXCafH7krzrA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/m1fFYdc3cuA/hqdefault.jpg",
+        "title": "The UNSTOPPABLE Computer Virus is HERE...",
+        "vote": 0
+    }
+]

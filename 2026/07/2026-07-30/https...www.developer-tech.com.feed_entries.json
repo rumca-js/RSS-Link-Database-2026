@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ryan Daws",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-30T17:30:35.339691+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-30T16:17:51+00:00",
+        "description": "<p>Amazon Threat Intelligence has tied a DPRK hacking group to four separate NPM package supply chain attacks, including axios. The company&#8217;s security teams have connected the axios, debug, chalk, and typo-crypto package incidents to a single actor tracked across the industry under five names: SAPPHIRE SLEET, STARDUST CHOLLIMA, BlueNoroff, CageyChameleon, and Alluring Pisces. The axios [&#8230;]</p>\n<p>The post <a href=\"https://www.developer-tech.com/news/amazon-ties-dprk-hackers-axios-and-three-other-npm-attacks/\">Amazon ties DPRK hackers to axios and three other NPM attacks</a> appeared first on <a href=\"https://www.developer-tech.com\">Developer Tech News</a>.</p>",
+        "id": 6078702,
+        "language": "en-GB",
+        "link": "https://www.developer-tech.com/news/amazon-ties-dprk-hackers-axios-and-three-other-npm-attacks",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 92,
+        "source_url": "https://www.developer-tech.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Amazon ties DPRK hackers to axios and three other NPM attacks",
+        "vote": 0
+    }
+]

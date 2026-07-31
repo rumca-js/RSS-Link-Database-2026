@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-30T15:07:02.083788+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-30T14:17:23+00:00",
+        "description": "The DFRobot seeMote Cube is a handheld spatial input device for Apple Vision Pro application development. The 56mm cube combines six-degree-of-freedom tracking, six programmable buttons, Bluetooth connectivity, and app-controlled haptic feedback for interacting with virtual objects and tools in visionOS. According to the DFRobot, the seeMote Cube provides a tangible controller that can be moved, [&#8230;]",
+        "id": 6077514,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/dfrobot-seemote-cube-tracks-motion-and-sends-haptic-feedback-in-visionos",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "DFRobot seeMote Cube tracks motion and sends haptic feedback in visionOS",
+        "vote": 0
+    }
+]

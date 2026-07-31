@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Matt Wolfe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-30T16:31:36.238803+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-30T16:03:52+00:00",
+        "description": "Google just released Gemini Robotics 2 today, and it's a much bigger leap than you may think.\n\nUnlike previous models, it coordinates everything from feet to fingertips, allowing the robot to balance and walk while handling delicate objects.\n\nWith 22 degrees of movement in its hands, it can seal Ziploc bags, unscrew lightbulbs, and even tie trash bag knots.\n\nPlus, an on-device version runs locally without an internet connection and can adapt to new robot bodies in just a few hours.\n\nTo be clear: this new release \"Google Robotics 2\" is the AI software behind the robot, not a physical robot you buy directly from Google. It powers hardware from partners like Apptronik on their Apollo 2 robot. \n\nFor Developers: You can access the reasoning model \"Gemini Robotics ER 2\" today on Google AI Studio.\nFor Hardware Integrators: The full Vision-Language-Action (VLA) and On-Device models are currently available to partners through Google DeepMind's early access program.\n\n#Google #deepmind #robotics",
+        "id": 6078283,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/Q60VNdtyiAA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 933,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChpleBmo18P08aKCIgti38g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/Q60VNdtyiAA/hqdefault.jpg",
+        "title": "Google built THIS?!",
+        "vote": 0
+    }
+]

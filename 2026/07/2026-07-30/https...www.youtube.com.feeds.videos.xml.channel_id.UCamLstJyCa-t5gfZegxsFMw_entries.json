@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Colin and Samir",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-30T17:44:02.910266+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-30T16:53:23+00:00",
+        "description": null,
+        "id": 6078871,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/eI17VgSx9nI",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 721,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCamLstJyCa-t5gfZegxsFMw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/eI17VgSx9nI/hqdefault.jpg",
+        "title": "The philosophy that led to TBPN's $100M+ Acquisition",
+        "vote": 0
+    }
+]

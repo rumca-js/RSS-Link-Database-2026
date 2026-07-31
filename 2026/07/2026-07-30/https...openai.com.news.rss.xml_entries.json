@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-31T02:53:03.550156+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-30T00:00:00+00:00",
+        "description": "avatarin uses OpenAI\u2019s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive.",
+        "id": 6081775,
+        "language": "en",
+        "link": "https://openai.com/index/avatarin",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 953,
+        "source_url": "https://openai.com/news/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
+        "vote": 0
+    }
+]
