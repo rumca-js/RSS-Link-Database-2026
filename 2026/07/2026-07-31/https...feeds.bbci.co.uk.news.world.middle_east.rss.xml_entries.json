@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-31T16:29:57.908004+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-31T16:00:56+00:00",
+        "description": "Hamas says it has accepted a disarmament plan for Gaza which will see it lay down its arms and Israeli troops withdraw from the territory.",
+        "id": 6085738,
+        "language": "en-gb",
+        "link": "https://www.bbc.co.uk/news/articles/c20e94k2ex5o",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 525,
+        "source_url": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20cd/live/e63e0bc0-8cf8-11f1-adaf-fb8940306590.jpg",
+        "title": "What's in the Gaza peace deal roadmap?",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Aldgra Fredly",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-31T04:21:42.498530+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-31T03:51:37+00:00",
+        "description": "Anthropic made the discovery after reviewing 141,006 evaluation runs in which Claude could have obtained internet access.",
+        "id": 6082029,
+        "language": "en-US",
+        "link": "https://www.theepochtimes.com/tech/anthropic-says-its-claude-ai-model-hacked-systems-of-3-organizations-during-safety-tests-6069650",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 105,
+        "source_url": "https://feed.theepochtimes.com/tech/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.theepochtimes.com/assets/uploads/2026/05/14/id6026119-GettyImages-2261974003-1080x720.jpg",
+        "title": "Anthropic Says Its Claude AI Model Hacked Systems of 3 Organizations During Safety Tests",
+        "vote": 0
+    }
+]

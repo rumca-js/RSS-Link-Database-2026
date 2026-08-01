@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Zeyi Yang",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-31T18:35:20.320286+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-31T18:14:43+00:00",
+        "description": "As OpenAI and Anthropic employees grow quieter online, researchers at Chinese AI labs are flocking to X to explain their work, recruit talent, and shape the global conversation on AI.",
+        "id": 6086736,
+        "language": "en-US",
+        "link": "https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 396,
+        "source_url": "https://www.wired.com/feed/category/business/latest/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media.wired.com/photos/6a6bc43ecd95420c8647a339/master/pass/Made-in-China--China-AI-Researchers-Are-Finding-Their-Voice-on-X-Business.jpg",
+        "title": "Chinese AI Researchers Are Finding Their Voice on X",
+        "vote": 0
+    }
+]

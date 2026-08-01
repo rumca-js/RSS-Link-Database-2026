@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/AffectionateAct7715",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-31T09:28:14.970865+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-31T05:22:41+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>C:\\ydtl&gt;yt-dlp &quot;<a href=\"https://youtu.be/pHf8Dh97Qqc\">https://youtu.be/pHf8Dh97Qqc</a>&quot;</p> <p>[youtube] Extracting URL: <a href=\"https://youtu.be/pHf8Dh97Qqc\">https://youtu.be/pHf8Dh97Qqc</a></p> <p>[youtube] pHf8Dh97Qqc: Downloading webpage</p> <p>WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add --js-runtimes RUNTIME[:PATH] to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See <a href=\"https://github.com/yt-dlp/yt-dlp/wiki/EJS\">https://github.com/yt-dlp/yt-dlp/wiki/EJS</a> for details on installing one</p> <p>[youtube] pHf8Dh97Qqc: Downloading android vr player API JSON</p> <p>[youtube] pHf8Dh97Qqc: This video is age-restricted; some formats may be missing without authentication. Use --cookies-from-browser or --cookies for the authentication. See <a href=\"https://github.com/yt-dlp/yt-dlp/wiki",
+        "id": 6083173,
+        "language": "en",
+        "link": "https://www.reddit.com/r/youtubedl/comments/1vbhjw8/pleasae_help_followed_install_guide_for_ytdlp",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 791,
+        "source_url": "https://www.reddit.com/r/youtubedl/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Pleasae help. followed install guide for yt-dlp. getting this error:",
+        "vote": 0
+    }
+]

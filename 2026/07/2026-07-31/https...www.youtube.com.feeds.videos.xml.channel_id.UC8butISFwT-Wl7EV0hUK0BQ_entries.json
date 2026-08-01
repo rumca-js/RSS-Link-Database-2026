@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-31T18:32:34.002927+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-31T15:59:06+00:00",
+        "description": "Learn the best practices for building robust and scalable Kubernetes operators using Kubebuilder. This course covers critical techniques, including managing multiple controllers for parallelism, implementing efficient retry logic, and resolving custom resource update conflicts. You will also discover how to leverage predicate filters to prevent infinite reconciliation loops and optimize your cluster's resource usage.\n\nCourse from @kubesimplify \n\n\u2b50\ufe0f Contents \u2b50\ufe0f\n\u2013 00:00:00 Understanding Resource Versions and Generations\n\u2013 00:03:48 System Architecture and Conflict Scenarios\n\u2013 00:26:57 Handling Conflict Errors and Retry Strategies\n\u2013 01:11:48 Implementing Parallel Processing with Concurrent Workers\n\u2013 01:41:59 Preventing Infinite Reconciliation Loops with Predicate Filters\n\n\u2764\ufe0f Support for this channel comes from our friends at Scrimba \u2013 the coding platform that's reinvented interactive learning: https://scrimba.com/freecodecamp\n\n\ud83c\udf89 Thanks to our Champion and Sponsor supporters:\n\ud83d\udc7e @omerhattap",
+        "id": 6086703,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=hAsz5GAbBQE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/hAsz5GAbBQE/hqdefault.jpg",
+        "title": "Kubernetes Operator Best Practices \u2013 Kubebuilder Deep Dive",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Cat Zakrzewski, Ian Duncan, Riley Beggin",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-31T09:42:44.585341+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-31T09:00:00+00:00",
+        "description": "Altman described an upcoming product that would enable  \u201cagents\u201d to divide tasks while also transforming the American economy.",
+        "id": 6083254,
+        "language": "en-US",
+        "link": "https://www.washingtonpost.com/technology/2026/07/31/sam-altman-courts-washington-openai-pushes-powerful-new-ai",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 364,
+        "source_url": "https://feeds.washingtonpost.com/rss/business/technology",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Sam Altman courts Washington as OpenAI pushes a powerful new AI",
+        "vote": 0
+    }
+]

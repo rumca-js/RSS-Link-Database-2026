@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "TechHut",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-31T17:46:03.293347+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-31T17:33:24+00:00",
+        "description": "Go to https://surfshark.com/techhut or use code TECHHUT at checkout to get 4 extra months of Surfshark VPN!\n\nGhostty is a GPU accelerated terminal emulator that supports the kitty graphics protocol, which means image previews actually work in tools like Superfile. In this guide I go over installing it, walking through the config file, setting up themes and fonts, custom key bindings, and the terminfo fix you need so SSH sessions do not break. It works great out of the box, but the config is where the fun is.\n\nFull written guide and my base config are linked below.\n\n\ud83d\udcd6 RESOURCES\nMy Config + Written Guide: link soon\nGhostty: https://ghostty.org\nGhostty Config Reference: https://ghostty.org/docs/config/reference\nNerd Fonts: https://www.nerdfonts.com\n\n\ud83c\udfc6 FOLLOW TECHHUT\nX (Twitter): https://bit.ly/twitter-techhut\nMASTODON: https://bit.ly/mastodon-techhut\nBlueSky: https://bsky.app/profile/techhut.bsky.social\nINSTAGRAM: https://bit.ly/personal-insta\n\n\ud83d\udc4f SUPPORT TECHHUT (all links below this lin",
+        "id": 6086406,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=hMSVgmPTQ3k",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 430,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjSEJkpGbcZhvo0lr-44X_w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/hMSVgmPTQ3k/hqdefault.jpg",
+        "title": "Stop Using Your Default Terminal",
+        "vote": 0
+    }
+]

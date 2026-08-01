@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-31T14:12:24.982992+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-31T09:00:00+00:00",
+        "description": "<figure class=\"insert-image\"><img src=\"https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/mac-studio-ports-full-back-ethernet.jpg\"\n alt=\"Mac Studio with all ports plugged in Ethernet 10G\" width=\"700\" height=\"auto\">\n</figure>\n\n<p>I've been using the built-in 10 Gigabit Ethernet on my Mac Studio for a few years. It works fine: I can edit 4K video straight off my NAS over the network, and run backups at around 1 GB/sec.</p>\n<p>But... I want <em>more</em>. I upgraded my rack and my NAS to 25 GbE a couple years ago, and wanted to upgrade my main workstation, too.</p>",
+        "id": 6084715,
+        "language": "en",
+        "link": "https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 162,
+        "source_url": "https://www.jeffgeerling.com/blog.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/mac-studio-ports-full-back-ethernet.jpg",
+        "title": "Getting 25 Gbps Thunderbolt Ethernet on my Mac Studio",
+        "vote": 0
+    }
+]

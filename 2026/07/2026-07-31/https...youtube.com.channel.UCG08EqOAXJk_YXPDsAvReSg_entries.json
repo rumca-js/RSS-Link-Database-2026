@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unity",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-31T13:37:49.254994+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-31T13:00:37+00:00",
+        "description": "Learn how to build an interactive 3D building showcase in Unity Studio by repurposing a ready-made template, without C#.\n\nUnity Studio is a web-based editor that helps teams create, collaborate on, and share interactive 3D experiences \u2014 without coding complexity. It's built for industries like manufacturing, automotive, healthcare, and architecture to bring 3D ideas to life, fast.\n\nIn this high-level overview, you'll watch Unity Studio's Car Review template transformed into an interactive building showcase, start to finish \u2013 the full workflow at speed, repurposed for an architectural experience instead of a car scene. Along the way you'll see how interactive 3D prototyping works in practice: an orbiting camera, clickable hotspots, and scene-wide lighting, all wired up with visual logic.\n\nYou'll learn how to do the following:\n\ud83d\udd39 Choose the right template for an orbiting camera and clickable hotspots, and reuse the working pieces before repurposing the scene\n \ud83d\udd39 Dress and light the buildi",
+        "id": 6084565,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=B8OxZVAW5PU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 683,
+        "source_url": "https://youtube.com/channel/UCG08EqOAXJk_YXPDsAvReSg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/B8OxZVAW5PU/hqdefault.jpg",
+        "title": "The Unity Studio templates | Build a design review application",
+        "vote": 0
+    }
+]

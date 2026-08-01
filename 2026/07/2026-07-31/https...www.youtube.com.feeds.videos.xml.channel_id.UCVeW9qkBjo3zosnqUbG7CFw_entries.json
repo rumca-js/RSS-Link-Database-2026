@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Hammond",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-31T11:39:10.552593+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-31T09:00:59+00:00",
+        "description": "Attackers don't need a sophisticated lure when excitement does the work for them.\n\nFake downloads for games like GTA VI, along with cheats and mods, are common ways for infostealer malware to be delivered. Even after an infection, simple commands like whoami can help an attacker understand the system they've compromised.\n\nWatch the full video: https://www.youtube.com/live/hG1imCvG7B8?si=OM2SJ72Mzj5_DKJA",
+        "id": 6083830,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/ZUMN4AFaIKs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 959,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVeW9qkBjo3zosnqUbG7CFw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/ZUMN4AFaIKs/hqdefault.jpg",
+        "title": "GTA Malware Trap",
+        "vote": 0
+    }
+]

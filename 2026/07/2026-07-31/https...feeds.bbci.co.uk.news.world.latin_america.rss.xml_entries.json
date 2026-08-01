@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-31T11:37:14.724544+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-31T10:32:17+00:00",
+        "description": "Ollanta Humala had been convicted of money laundering offences alongside his wife in 2025.",
+        "id": 6083829,
+        "language": "en-gb",
+        "link": "https://www.bbc.co.uk/news/articles/cx2j9nj88rro",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 524,
+        "source_url": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc3f/live/410af750-8cab-11f1-a1f4-f50057266998.jpg",
+        "title": "Peru's ex-president has 15-year jail sentence for corruption charges overturned",
+        "vote": 0
+    }
+]

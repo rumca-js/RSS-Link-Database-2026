@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeff Geerling",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-07-31T15:57:42.269574+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-07-31T14:00:33+00:00",
+        "description": "All it takes is fixing a few design flaws.\n\nMentioned in this video (some links are affiliate links):\n\n  - Generic OCP 25G Thunderbolt Adapter: https://amzn.to/4vGLjDG\n  - Dual 25GbE TB Dock: https://store.raidendigit.com/products/lightone-25gbe-thunderbolt-docking-station\n  - Sonnet Twin25G: https://amzn.to/4tVqlAM\n  - Atto ThunderLink: https://amzn.to/48Tj0cG\n  - Aluminum Heatsinks: https://amzn.to/48DSiVn\n  - Noctua NF-A8 80mm 5V fan: https://amzn.to/4gUpZqK\n  - Noctua NA-FC1 Speed Controller: https://amzn.to/4vQq8iB\n  - Generic USB 5V fan (louder but cheaper): https://amzn.to/4cCM6OS\n  - 3D print - 80mm fan duct: TODO\n  - 3D print - Noctua 80mm fan grill: https://www.printables.com/model/1098017-high-efficiency-noctua-80mm-fan-grill\n\nSupport me on Patreon: https://www.patreon.com/geerlingguy\nSponsor me on GitHub: https://github.com/sponsors/geerlingguy\nMerch: https://www.redshirtjeff.com\n2nd Channel: https://www.youtube.com/@GeerlingEngineering\n3rd Channel: https://www.youtube.com",
+        "id": 6085486,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=_--JjauL19A",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 161,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR-DXc1voovS8nhAvccRZhg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/_--JjauL19A/hqdefault.jpg",
+        "title": "Fast networking on a Mac is way too expensive. I fixed that.",
+        "vote": 0
+    }
+]
