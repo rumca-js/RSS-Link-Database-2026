@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/Myarmira",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-01T06:36:15.603778+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-01T00:38:53+00:00",
+        "description": "<table> <tr><td> <a href=\"https://www.reddit.com/r/RISCV/comments/1vc8hrf/my_first_impressions_of_the_milkv_titan/\"> <img src=\"https://preview.redd.it/baj2gck4nngh1.jpg?width=140&amp;height=105&amp;auto=webp&amp;s=e836f9e4d2ed9ecd97feea057d63f37006734908\" alt=\"My first impressions of the Milk-V Titan\" title=\"My first impressions of the Milk-V Titan\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Today my Milk-V Titan was delivered to my home and of course I wanted to try the board out straight away.</p> <p>I connected my AMD Radeon RX 7600, a simple 1TB SSD and 2x 8GB Ram kits and installed it in my old case, where I had previously used the Megrez.</p> <p>Compared to the Megrez, the Titan seems to have significantly fewer ports. GPIO and SD card slot are missing. Since I think it&#39;s intentionally intended to be a desktop workstation, I don&#39;t really miss those two things. What I&#39;m missing are additional pins for my USB front ports. Unfortunately, the only option here is",
+        "id": 6089526,
+        "language": "en",
+        "link": "https://www.reddit.com/r/RISCV/comments/1vc8hrf/my_first_impressions_of_the_milkv_titan",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 471,
+        "source_url": "https://www.reddit.com/r/RISCV/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://preview.redd.it/baj2gck4nngh1.jpg?width=140&height=105&auto=webp&s=e836f9e4d2ed9ecd97feea057d63f37006734908",
+        "title": "My first impressions of the Milk-V Titan",
+        "vote": 0
+    }
+]

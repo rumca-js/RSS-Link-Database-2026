@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Bill Toulas",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-01T14:27:16.068982+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-01T10:20:30+00:00",
+        "description": "A critical vulnerability in the Active Storage framework can allow an unauthenticated attacker to read arbitrary files from a Rails application, and potentially escalate to remote code execution (RCE). [...]",
+        "id": 6091054,
+        "language": "en-US",
+        "link": "https://www.bleepingcomputer.com/news/security/rails-patches-critical-active-storage-flaw-with-rce-potential",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 40,
+        "source_url": "https://www.bleepingcomputer.com/feed/",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Rails patches critical Active Storage flaw with RCE potential",
+        "vote": 0
+    }
+]

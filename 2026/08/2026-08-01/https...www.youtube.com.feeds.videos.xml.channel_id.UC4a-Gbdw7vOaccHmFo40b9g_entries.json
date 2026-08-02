@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Khan Academy",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-01T16:29:38.568076+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-01T12:44:27+00:00",
+        "description": "Courses on Khan Academy are always 100% free. Start practicing\u2014and saving your progress\u2014now. https://www.khanacademy.org/science/ap-physics-c-mechanics\n\nSimple harmonic motion (SHM) is a special case of periodic motion which results when the magnitude of the restoring force exerted on an object is proportional to that object\u2019s displacement from its equilibrium position. SHM is described by sinusoidal position, velocity, and acceleration functions. A spring-mass oscillator is one type of system that undergoes SHM. The period of a spring-mass oscillator is related to its mass and spring constant.\n\n------------------\n\nKhan Academy is a nonprofit organization with the mission of providing a free, world-class education for anyone, anywhere. Khan Academy has been translated into dozens of languages, and 15 million people around the globe learn on Khan Academy every month. As a 501(c)(3) nonprofit organization, we would love your help! \n\nDonate here: https://www.khanacademy.org/donate?utm_so",
+        "id": 6091579,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=eRZSzGKDfwU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 977,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4a-Gbdw7vOaccHmFo40b9g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/eRZSzGKDfwU/hqdefault.jpg",
+        "title": "SHM of spring-mass oscillators | AP Physics | Khan Academy",
+        "vote": 0
+    }
+]

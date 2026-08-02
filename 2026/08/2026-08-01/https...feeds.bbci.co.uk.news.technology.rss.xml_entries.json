@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-01T01:11:23.896877+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-01T00:00:00+00:00",
+        "description": "New technologies measuring forests and exclusive access to a hacker rehab programme.",
+        "id": 6088726,
+        "language": "en-US",
+        "link": "https://www.bbc.co.uk/iplayer/episode/m002zxt1",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 28,
+        "source_url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/images/ic/240x135/p0p1y1b0.jpg",
+        "title": "Tech Now",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/Zenvian",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-01T05:34:18.815343+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-01T01:38:03+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>I know of `-f &quot;bv*+ba/b&quot;` but if I wanted to prioritise the best quality video/audio (best pixels, information, ect) rather than just perfect performance on a device, what command should I use?</p> <p>I ask because I found a wiki that says that `-f &quot;bv*+ba/b&quot;` only &#39;Selects best video (<code>bv</code>) and best audio (<code>ba</code>) streams for merging.&#39;</p> <p>So, is this the best or is there better? I&#39;m so confused how AV1/VP9 work compared to H.264.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Zenvian\"> /u/Zenvian </a> <br/> <span><a href=\"https://www.reddit.com/r/youtubedl/comments/1vc9s9l/absolute_maximum_videoaudio_quality/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/youtubedl/comments/1vc9s9l/absolute_maximum_videoaudio_quality/\">[comments]</a></span>",
+        "id": 6089375,
+        "language": "en",
+        "link": "https://www.reddit.com/r/youtubedl/comments/1vc9s9l/absolute_maximum_videoaudio_quality",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 791,
+        "source_url": "https://www.reddit.com/r/youtubedl/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Absolute Maximum Video/Audio Quality?",
+        "vote": 0
+    }
+]

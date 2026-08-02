@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/Pulse_06",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-01T13:18:13.172964+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-01T11:49:41+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone,</p> <p>I\u2019m relatively new to Usenet and would appreciate some advice about improving the reliability of my setup.</p> <p>My current setup is:</p> <ul> <li>Indexer: NZBGeek</li> <li>Provider: UsenetServer</li> <li>Downloader: SABnzbd</li> <li>Indexer manager: Prowlarr</li> </ul> <p>Recently, SABnzbd has reported missing articles on several downloads. I\u2019m trying to determine which upgrade would provide the biggest improvement:</p> <ul> <li>A second indexer</li> <li>A block account or second provider on a different backbone</li> <li>Both</li> </ul> <p>Which indexer would complement NZBGeek well?</p> <p>Also, which block account or provider would complement UsenetServer while providing access to a meaningfully different backbone? I would prefer a block account rather than paying for a second unlimited subscription unless the difference is substantial.</p> <p>Thanks for any recommendations.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a ",
+        "id": 6090740,
+        "language": "en",
+        "link": "https://www.reddit.com/r/usenet/comments/1vclavz/would_a_second_indexer_or_a_provider_on_another",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 550,
+        "source_url": "https://www.reddit.com/r/usenet/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Would a second indexer or a provider on another backbone improve completion?",
+        "vote": 0
+    }
+]
