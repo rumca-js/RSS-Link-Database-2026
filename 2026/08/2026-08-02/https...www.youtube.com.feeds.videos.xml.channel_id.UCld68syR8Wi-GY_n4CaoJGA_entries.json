@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-02T19:11:21.251574+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-02T17:30:26+00:00",
+        "description": "After the malware attack on Arch Linux's AUR from about a month ago registrations were put on hold, shortly after reopening another malware attack hit the Arch User Repository through the exact same attack vector.\n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\nReddit Discovery: https://www.reddit.com/r/archlinux/comments/1v9scc5/seemingly_malicious_aur_package_found_where_to/\nAnalysis 1: https://gist.github.com/ysf/502a324ff301d0c738e8ae011272fd59\nAnalysis 2: https://gist.github.com/ysf/57850cdee152da066ac51c07a452e883\nReddit Discovery 2: https://www.reddit.com/r/archlinux/comments/1vaxtcs/another_wave_200_malicous_aur_packages_adoptions/\nMailing List Post: https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/WQPQFSOP5WHKFZRZYHI75RKT23N6DBLE",
+        "id": 6096645,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=McK6MY_1wbI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/McK6MY_1wbI/hqdefault.jpg",
+        "title": "Another Malware Wave Hit Arch Linux's AUR",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-02T23:49:37.094377+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-02T18:45:19+00:00",
+        "description": "Key senators have unveiled a short-term spending bill to avoid a government shutdown during the middle of campaign season",
+        "id": 6097513,
+        "language": "en-US",
+        "link": "https://abcnews.com/Politics/wireStory/senate-leaders-reach-funding-deal-avoid-shutdown-campaign-135312105",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 81,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 9,
+        "source_url": "http://feeds.abcnews.com/abcnews/topstories",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://s.abcnews.com/images/US/wirestory_081d1e1e72cb717243c2e51d17bace7a_4x3_384.jpg",
+        "title": "Senate leaders reach funding deal to avoid shutdown during campaign season",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mateusz Chrobok",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-02T17:08:22.092581+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-02T16:00:11+00:00",
+        "description": "\ud83d\udcdd\u00a0\u201eChcia\u0142em tylko szybciej przygotowa\u0107 raport, spersonalizowa\u0107 maila, oceni\u0107 ofert\u0119.\u201d Tak zaczyna si\u0119 wi\u0119kszo\u015b\u0107 historii o wyciekach danych przez narz\u0119dzia AI. Bo materia\u0142y okraszone NDA, kt\u00f3re przeczyta darmowy ChatGPT, przestaj\u0105 by\u0107 tajne. L\u0105duj\u0105 na serwerach w Stanach, a nast\u0119pnie s\u0105 ponownie wykorzystywane. Ca\u0142y proces zosta\u0142 ju\u017c nawet nazwany \u2013 Shadow AI. \n \n\u0179r\u00f3d\u0142a:\n\ud83d\udc49\u00a0BHP AI, czyli jak si\u0119 obchodzi\u0107 ze sztuczn\u0105 inteligencj\u0105 \ud83d\udc48\nhttps://bhp-ai.uczmnie.pl/\n\n\ud83c\udff4\u00a0Czym jest shadow AI i czy firmy powinny si\u0119 go obawia\u0107?\nhttps://www.parp.gov.pl/component/content/article/88414:czym-jest-shadow-ai-i-czy-firmy-powinny-sie-go-obawiac\n\n\ud83d\udcc2\u00a0Cyberportret polskiego biznesu 2026\nhttps://in.eset.pl/cyberportret-polskiego-biznesu\n\n\ud83d\udeb0\u00a0Samsung bans use of generative AI tools like ChatGPT after April internal data leak\nhttps://techcrunch.com/2023/05/02/samsung-bans-use-of-generative-ai-tools-like-chatgpt-after-april-internal-data-leak/\n\n\u26d3\ufe0f\u200d\ud83d\udca5 March 20 ChatGPT outage: Here\u2019s what happened\nhttps://openai.com/i",
+        "id": 6096161,
+        "language": "pl-PL",
+        "link": "https://www.youtube.com/watch?v=VOXOrQLGDBI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 211,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTTZqMWBvLsUYqYwKTdjvkw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/VOXOrQLGDBI/hqdefault.jpg",
+        "title": "Ka\u017cdy u\u017cywa, cho\u0107 m\u00f3wi, \u017ce nie - ShadowAI",
+        "vote": 0
+    }
+]

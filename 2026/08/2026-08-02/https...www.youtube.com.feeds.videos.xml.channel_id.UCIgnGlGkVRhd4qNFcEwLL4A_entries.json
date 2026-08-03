@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "AI Search",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-02T04:24:28.428043+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-02T03:26:23+00:00",
+        "description": "HUGE AI NEWS: Deepseek V4 Flash, Seedance 2.5, Minimax H3, Kimi K3 & more #ai #ainews #aitools #aivideo #agi\nThanks to our sponsor Higgsfield. Try it today https://higgsfield.ai/s/theaisearch-BTFzlL\n\n00:00 AI news intro\n00:46 ID V2V\n01:47 Crisper Whisper\n04:08 Deepseek V4 Flash 0731\n06:28 Redesign\n07:43 Kimi K3 open sourced\n09:16 Instella\n11:01 Ideogram obj remover\n12:04 Higgsfield\n13:39 Inkling Small\n15:33 Prism\n16:46 Seedance 2.5\n19:04 Minimax H3 \n22:10 Gemini Robotics 2\n24:04 Wonder\n25:19 Gemini voice typing\n26:26 Phi Zero\n\nID V2V https://eyeline-labs.github.io/ID-V2V/ \nCrisper Whisper https://nyra-labs.com/crisperwhisper \nDeepseek V4 Flash 0731 https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731\nDSpark explainer: https://youtu.be/J0D7qV3nl7w\nRedesign https://github.com/jintae-00/ReDesign \nKimi K3 https://huggingface.co/moonshotai/Kimi-K3\nAttention Residuals explainer https://youtu.be/2IfAVV7ewO0\nInstella https://rocm.blogs.amd.com/artificial-intelligence/instella-moe/README.",
+        "id": 6093704,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=OrcBSpADCGk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 806,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIgnGlGkVRhd4qNFcEwLL4A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/OrcBSpADCGk/hqdefault.jpg",
+        "title": "New Deepseek, Seedance 2.5, Minimax H3, Gemini Robotics, AMD models: AI NEWS",
+        "vote": 0
+    }
+]

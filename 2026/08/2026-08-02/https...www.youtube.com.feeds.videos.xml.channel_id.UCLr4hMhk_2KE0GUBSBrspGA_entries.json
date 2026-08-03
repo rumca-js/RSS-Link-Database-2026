@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kuba Klawiter",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-02T18:46:31.550218+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-02T18:25:52+00:00",
+        "description": "Dzisiaj inna perspektywa ni\u017c zwykle, ale mo\u017ce wyda Wam si\u0119 interesuj\u0105ca. \nLink do wyst\u0105pienia Jacka Conte na SXSW: https://www.youtube.com/watch?v=17_HcR95YBc",
+        "id": 6096489,
+        "language": "pl-PL",
+        "link": "https://www.youtube.com/watch?v=kgStuJze3ng",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 179,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLr4hMhk_2KE0GUBSBrspGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/kgStuJze3ng/hqdefault.jpg",
+        "title": "W obronie AI i robot\u00f3w. Tech Week",
+        "vote": 0
+    }
+]

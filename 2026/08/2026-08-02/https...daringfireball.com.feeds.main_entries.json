@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Gruber",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-02T21:21:16.256139+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-02T21:01:12+00:00",
+        "description": "<p>Boris Cherny, head of Claude Code at Anthropic, was interviewed by Diana Hu on stage at Y Combinator\u2019s Startup School 2026 last week. Starting <a href=\"https://youtu.be/qyPCVqFUyDo?t=1230\">around 20:30 in the video</a>, he briefly discussed directing Claude to perform difficult tasks:</p>\n\n<blockquote>\n  <p><strong>Cherny:</strong> I think the skill nowadays is less about prompt\nengineering and more about figuring out how do you give Claude a\nhard task that seems a little bit too hard. Then how do you make\nit possible for Claude to verify its work along the way? The\nverification is probably the single most important thing that\npeople do not get right, largely.</p>\n\n<p>One example of this is people were\u2009\u2014\u2009we have this desktop app\nfor Claude and it\u2019s built using Electron. We\u2019ve made it quite\nfast. Now it\u2019s a pretty awesome experience. Six months ago it was\nsluggish and it wasn\u2019t very reliable. Now it\u2019s pretty awesome.\nIt\u2019s the thing that most of the team uses. As an experiment, I\nwan",
+        "id": 6097085,
+        "language": "",
+        "link": "https://www.ycrootaccess.com/p/boris-cherny-building-claude-code",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 489,
+        "source_url": "https://daringfireball.com/feeds/main",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Boris Cherny on Trying to Get Claude Code to Rewrite the Claude App",
+        "vote": 0
+    }
+]

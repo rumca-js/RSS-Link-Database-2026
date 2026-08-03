@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Scott Manley",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-02T16:41:31.331304+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-02T16:16:55+00:00",
+        "description": "From the 1920's to 1950's the main way that aircraft navigated across the US was using the audio cues from the Low Frequency Radio Range system, or, 4 way beacons. These specialized antennae would emit a radio signal that varied depending on your location relative to the beacon, so you would hear different audio cues that would help guide them onto airways which were safe for cross country navigation. This system used morse code beeps which would merge into a continuous tone when you were on the airway, so they only needed a radio rather than a dedicated piece of navigation hardware.\n\nThere's a fantastic website devoted to this technology and its history. \nhttps://flyingthebeams.com/\nIt also includes maps showing locations of the remnants of the old system so you can find what's left of the local station that steered air traffic safely to their destination.\n\nFollow me on Twitter for more updates:\nhttps://twitter.com/DJSnM\n\nI have a discord server where I regularly turn up:\nhttps://dis",
+        "id": 6096023,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=4Q4Jsy0LGeE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 829,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxzC4EngIsMrPmbm6Nxvb-A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/4Q4Jsy0LGeE/hqdefault.jpg",
+        "title": "When Pilots Used Sounds To Guide Planes",
+        "vote": 0
+    }
+]

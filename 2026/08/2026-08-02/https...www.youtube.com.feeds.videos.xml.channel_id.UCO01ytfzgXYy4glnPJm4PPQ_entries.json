@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Matt Walsh",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-02T17:17:44.416406+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-02T14:00:36+00:00",
+        "description": null,
+        "id": 6096210,
+        "language": "en-US",
+        "link": "https://www.youtube.com/shorts/pku6xIr1AlI",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 212,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCO01ytfzgXYy4glnPJm4PPQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/pku6xIr1AlI/hqdefault.jpg",
+        "title": "Your car's \"safety\" app is really a Trojan horse for advertisers.",
+        "vote": 0
+    }
+]

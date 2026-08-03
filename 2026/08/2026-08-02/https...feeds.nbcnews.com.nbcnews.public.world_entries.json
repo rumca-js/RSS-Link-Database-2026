@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-02T16:50:24.464570+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-02T16:27:19+00:00",
+        "description": "Four crew members of a Greek firefighting helicopter were rescued after a midair collision with another helicopter, according to the Greek fire department. Two of the crew members were reported to be unconscious. Video captured the collision and shows the aircraft crashing to the ground.",
+        "id": 6096037,
+        "language": "en-US",
+        "link": "https://www.nbcnews.com/video/video-captures-midair-collision-of-greek-firefighting-helicopters-267647045632",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 224,
+        "source_url": "https://feeds.nbcnews.com/nbcnews/public/world",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_08/f_mo_greek_wildfire_helicopters_260802.00_00_36_00.Still001-kc7p4g.jpg",
+        "title": "Video captures midair collision of Greek firefighting helicopters",
+        "vote": 0
+    }
+]

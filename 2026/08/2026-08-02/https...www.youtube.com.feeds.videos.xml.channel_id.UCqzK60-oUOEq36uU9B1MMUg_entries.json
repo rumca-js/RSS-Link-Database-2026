@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Julia McCoy",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-02T17:25:18.193639+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-02T15:00:23+00:00",
+        "description": "\ud83d\udc49 *TRY Abacus AI* \u2014 https://chatllm.abacus.ai/fmj\n\n*An AI trading agent lost its very first trade, wrote its own post-mortem, and came back the same day with a 66.7% win rate. No human touched it.*\n\nEvery AI tool you use today forgets \u2014 you run the improvement loop for it. *Self-learning agents* flip that: an independent evaluator grades every run, and improvement becomes a *number* on a chart.\n\nWhat you'll learn:\n\u2705 A lead scoring agent that improved *precision* 254% across 1,075 leads\n\u2705 A bug fixer that traced a *root cause* and shipped its own fix\n\u2705 Why the flat thumbnail chart is the most honest demo here\n\nWait until you see what the agent deleted from its *own model*.\n\n#AI #AIAgents #Entrepreneurship\n\nFirst Movers is Julia's AI company focused on helping working professionals and founders create massive efficiency in their businesses and workplaces.\n\nFREE GUIDE: \ud83d\udcd8 *The Content Creator's AI Blueprint*  \u2013 https://FirstMovers.ai/blueprint/\n\nHIRE JULIA: *Done-for-You Clone & In-Person",
+        "id": 6096252,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=RAUC49M6RLE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 947,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqzK60-oUOEq36uU9B1MMUg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/RAUC49M6RLE/hqdefault.jpg",
+        "title": "AI Just Learned to Improve Itself (I Watched It Happen)",
+        "vote": 0
+    }
+]
