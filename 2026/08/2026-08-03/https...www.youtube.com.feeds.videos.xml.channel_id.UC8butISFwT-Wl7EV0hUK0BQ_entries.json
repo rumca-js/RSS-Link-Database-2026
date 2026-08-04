@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-03T12:37:28.016912+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-03T11:36:12+00:00",
+        "description": "This C programming course teaches you about direct pixel manipulation and graphics. By leveraging the cross-platform power of the SDL3 library, you will learn how to safely navigate modern operating system restrictions to build a low-level software renderer from scratch. This hands-on approach will demystify how computers handle memory and CPU instructions, ultimately culminating in rendering the classic Doom fire effect directly to a frame buffer.\n\n\u2764\ufe0f Support for this channel comes from our friends at Scrimba \u2013 the coding platform that's reinvented interactive learning: https://scrimba.com/freecodecamp\n\n\u2b50\ufe0f Chapters \u2b50\ufe0f\n- 00:00:00 Introduction to the Course and Low-Level Pixel Manipulation\n- 00:05:28 Understanding Monitor Resolutions and the Frame Buffer\n- 00:09:13 Modern Operating System Restrictions vs. MS-DOS\n- 00:13:36 Using SDL3 for Cross-Platform Hardware Access\n- 00:17:47 Overview of SDL Initialization, Windows, Renderers, and Textures\n- 00:24:47 Installing SDL3 on Mac OS, Linux",
+        "id": 6100305,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=wDWKUvTKCaw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/wDWKUvTKCaw/hqdefault.jpg",
+        "title": "Low-Level Graphics in C \u2013 Pixel Manipulation and Frame Buffers",
+        "vote": 0
+    }
+]

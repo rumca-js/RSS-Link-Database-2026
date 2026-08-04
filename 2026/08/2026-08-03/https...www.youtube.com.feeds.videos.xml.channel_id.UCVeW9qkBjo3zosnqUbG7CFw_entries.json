@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Hammond",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-03T14:57:09.389609+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-03T14:20:53+00:00",
+        "description": "Cyber deception doesn't have to be complicated.\n\nImagine an AI-enabled system that can automatically deploy canary tokens throughout your environment, helping improve visibility without adding another long security checklist to manage. \n\nThe goal is simple. Make deception easier to adopt so defenders can spend less time configuring and more time understanding what's happening in their environment.\n\nWatch the full conversation here: https://www.youtube.com/live/hG1imCvG7B8?si=OM2SJ72Mzj5_DKJA",
+        "id": 6101265,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/xAUB4svxW-4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 959,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVeW9qkBjo3zosnqUbG7CFw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/xAUB4svxW-4/hqdefault.jpg",
+        "title": "Cyber Deception Everywhere",
+        "vote": 0
+    }
+]

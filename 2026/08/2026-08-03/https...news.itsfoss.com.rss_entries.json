@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Sourav Rudra",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-03T14:18:41.808930+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-03T13:18:19+00:00",
+        "description": "The same low-quality AI patterns kept showing up in submissions even after GNOME updated its review guidelines in December.",
+        "id": 6100977,
+        "language": "en-US",
+        "link": "https://itsfoss.com/news/gnome-shell-extension-instructions-for-bots",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 156,
+        "source_url": "https://news.itsfoss.com/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://itsfoss.com/content/images/2026/08/gnome-manual-for-bots.png",
+        "title": "AI Slop Keeps Flooding GNOME Extensions, So They Wrote a Manual for Bots Instead",
+        "vote": 0
+    }
+]

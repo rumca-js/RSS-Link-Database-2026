@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-03T16:20:47.364676+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-03T15:57:27+00:00",
+        "description": "Fresh attacks on alternative shipping routes have left tankers facing an increasingly complex situation, analysts say.",
+        "id": 6101834,
+        "language": "en-gb",
+        "link": "https://www.bbc.co.uk/news/articles/cjrv0dy2e90o",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 525,
+        "source_url": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5304/live/8eb45f90-8f4f-11f1-99e6-95543b07d23d.jpg",
+        "title": "Threat to oil tankers in Middle East  worst since start of Iran war, analysts say",
+        "vote": 0
+    }
+]

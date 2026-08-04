@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Infographics Show",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-03T20:24:41.856233+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-03T20:11:34+00:00",
+        "description": "NVIDIA is about to do to CPUs what it already did to GPUs. Take control of the most valuable part of the computer and force the entire industry to build around its technology. With Microsoft reshaping Windows for AI and traditional processors losing ground, the personal computer may be entering its biggest transformation in decades.\n\nThis video examines NVIDIA\u2019s new AI-focused chip architecture, its partnership with MediaTek, Microsoft\u2019s Copilot+ hardware requirements, and the accelerating shift away from Intel\u2019s x86 platform toward Arm-based systems. We also explore how CUDA helped NVIDIA dominate data centers and why companies such as Dell, HP, Lenovo, and Asus could increasingly become assemblers rather than true technology owners.\nThe new generation of laptops promises powerful local AI, continuous assistants, smarter search, image generation, and software that can act across your files and applications, but that convenience comes with higher hardware demands, increased energy use",
+        "id": 6103556,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=LXmCTLSq2Ro",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 999,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfdNM3NAhaBOXCafH7krzrA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/LXmCTLSq2Ro/hqdefault.jpg",
+        "title": "NVIDIA is About to do to CPUs What it Did to GPUs",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kai Lentit",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-03T13:53:26.542090+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-03T13:17:25+00:00",
+        "description": "Walter Wallis on his mission to not document any system in the company he introduces.\n\nIn this interview, a 2010-era Windows sysadmin explains how change management, and the phrase \"currently, our position is no\" have kept him employed through four \"transformations\" and one AI mandate. From the server that hasn't been rebooted since 2013, the 91 members in the temp security group, to the backup strategy that has never survived a restore test.\n\nSysadmin life\nprogramming jokes\nprogramming humor\noffice humor\nIT Admin\nConfluence\n\n#programminghumor #sysadmin #officehumor",
+        "id": 6100769,
+        "language": "en-US",
+        "link": "https://www.youtube.com/shorts/sgZCoJ7axdA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 264,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCi8C7TNs2ohrc6hnRQ5Sn2w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/sgZCoJ7axdA/hqdefault.jpg",
+        "title": "*Next-door Sysadmin*",
+        "vote": 0
+    }
+]

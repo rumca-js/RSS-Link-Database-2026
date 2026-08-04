@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-03T23:50:22.399899+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-03T22:42:52+00:00",
+        "description": "Waymo\u2019s first autonomous demo took eighteen months. The product took fifteen years. Today, the Waymo Driver runs 500,000 trips a week \u2014 four million fully autonomous miles across fifteen cities, with 17 times fewer serious-injury crashes than human drivers.\n\nAt Startup School 2026, Waymo co-CEO Dmitri Dolgov shares the seven lessons behind that journey, from bridging the gap between a demo and a real product to building systems that can safely operate in the physical world.\n\nTranscript: https://www.ycrootaccess.com/p/dmitri-dolgov-seven-lessons-from\n\nApply to Y Combinator: https://www.ycombinator.com/apply\nWork at a startup: https://www.ycombinator.com/jobs\n\nChapters:\n00:00 \u2014 Intro\n00:07 \u2014 Seven Lessons From Building Waymo\n02:21 \u2014 Why Physical AI Is Different\n06:52 \u2014 Lesson 1: The Gap Between a Demo and a Product\n11:34 \u2014 Why Reliability Lives on an Exponential Curve\n14:17 \u2014 Lesson 2: Pick the Right Technology Curve\n16:05 \u2014 Why Waymo Uses Cameras, LiDAR, and Radar\n21:07 \u2014 Lesson 3: Rid",
+        "id": 6104645,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Gp4zrV3-6N8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/Gp4zrV3-6N8/hqdefault.jpg",
+        "title": "Waymo Co-CEO Dmitri Dolgov: The Demo Is Only 1% Of The Work",
+        "vote": 0
+    }
+]
