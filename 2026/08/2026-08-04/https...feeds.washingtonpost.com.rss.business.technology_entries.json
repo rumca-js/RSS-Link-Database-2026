@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Faiz Siddiqui",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-04T21:24:04.563853+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-04T20:51:25+00:00",
+        "description": "The company\u2019s stock had jumped by more than 10 percent before the announcement, among the first positive signs after weeks of decline.",
+        "id": 6111452,
+        "language": "en-US",
+        "link": "https://www.washingtonpost.com/technology/2026/08/04/elon-musks-spacex-lost-hundreds-millions-after-record-setting-ipo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 364,
+        "source_url": "https://feeds.washingtonpost.com/rss/business/technology",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "SpaceX posts loss of $541 million in first report since record-setting IPO",
+        "vote": 0
+    }
+]

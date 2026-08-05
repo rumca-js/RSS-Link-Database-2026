@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-04T13:21:34.864600+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-04T11:00:12+00:00",
+        "description": "Learn more about Large Database Models here \u2192 https://ibm.biz/~LdYkjFu30\n\nAI isn\u2019t reaching most of your data, until now \ud83e\udd2f. Martin Keen introduces large database models (LDMs) and how they bring AI directly into SQL and relational databases.\nLearn how embeddings and semantic queries unlock faster insights without moving your data.\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/~KAqghpd9O\n\nAI was used in the creation of the transcript and metadata for this video.\n\n#ai #sql #data #dataengineering",
+        "id": 6108081,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=uU1EP9_4qBU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/uU1EP9_4qBU/hqdefault.jpg",
+        "title": "What Are Large Database Models? AI for SQL Data",
+        "vote": 0
+    }
+]

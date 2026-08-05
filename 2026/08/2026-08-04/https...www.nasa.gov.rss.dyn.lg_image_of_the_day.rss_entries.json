@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-04T17:00:05.442704+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-04T15:54:00+00:00",
+        "description": "Technicians inside the Payload Hazardous Servicing Facility at NASA\u2019s Kennedy Space Center complete installation of a commemorative plaque on the agency\u2019s Nancy Grace Roman Space Telescope, as photographed on Tuesday, July 28, 2026.",
+        "id": 6109665,
+        "language": "en-us",
+        "link": "https://www.nasa.gov/image-detail/afs-8-101-1303",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 485,
+        "source_url": "https://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Roman Space Telescope Plaque Install",
+        "vote": 0
+    }
+]

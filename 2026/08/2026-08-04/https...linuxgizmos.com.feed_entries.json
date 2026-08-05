@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-04T05:12:49.538650+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-04T04:12:04+00:00",
+        "description": "Banana Pi has announced public availability of its BPI-AI2N embedded vision platform, following the hardware introduction covered last year. The platform combines a system-on-module based on the Renesas RZ/V2N Vision AI MPU with a separate carrier board designed for smart cameras, industrial vision, robotics, and other edge AI applications. As previously covered in June 2025, [&#8230;]",
+        "id": 6105767,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/banana-pi-bpi-ai2n-goes-on-sale-with-yocto-and-armbian-images",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Banana Pi BPI-AI2N Goes on Sale with Yocto and Armbian Images",
+        "vote": 0
+    }
+]

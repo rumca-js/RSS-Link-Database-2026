@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "redakcja",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-04T10:52:22.530063+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-04T09:10:35+00:00",
+        "description": "<p>Najpierw kr\u00f3tko, dla tych kt\u00f3rzy znaj\u0105 jako\u015b\u0107 naszych materia\u0142\u00f3w edukacyjnych: </p>\n<p><strong>tylko do poniedzia\u0142ku</strong> oferujemy wieczysty dost\u0119p do 30 lekcji i wirtualnego \u015brodowiska labowego, kt\u00f3re nauczy Ci\u0119 wszystkiego  na temat technik wykrywania, exploitowania i usuwania/zwalczania podatno\u015bci XSS. Kod <span class=\"code\">XSS30</span> obni\u017ca cen &#8212; <a href=\"https://nbzp.cz/-IP9\" target=\"_blank\">tutaj znajdziecie link od razu do koszyka</a>.</p>\n<h3>Kr\u00f3tki Internetowy Kurs XSS</h3>\n<p>A teraz wersja d\u0142u\u017csza: Niezale\u017cnie od tego, czy aplikacje tworzysz z u\u017cyciem AI czy nie, jednym z najcz\u0119stszych b\u0142\u0119d\u00f3w jakie pojawiaj\u0105 si\u0119 w kodzie s\u0105 &#8220;wstrzykni\u0119cia&#8221;, g\u0142\u00f3wnie JavaScriptu, czyli w\u0142a\u015bnie XSS-y. No i w\u0142a\u015bnie tego jak podchodzi\u0107 do wstrzykni\u0119\u0107 (nie tylko JavaScriptowych) z perspektywy zar\u00f3wno <strong>atakuj\u0105cego</strong> jak i <strong>obro\u0144cy</strong> uczy nasz <a href=\"https://nbzp.cz/-IP7\">Kr\u00f3tki Internetowy Kurs XSS</a>. W\u0142a\u015bnie ponownie otwieramy jego sprz",
+        "id": 6107087,
+        "language": "pl-PL",
+        "link": "https://niebezpiecznik.pl/post/programisto-pentesterze-na-chwile-wraca-nasz-kurs-xss-do-poniedzialku-30-taniej",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 239,
+        "source_url": "https://feeds.feedburner.com/niebezpiecznik",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://niebezpiecznik.pl/wp-content/uploads/2026/08/kurs-xss-350x113.jpg",
+        "title": "Programisto, pentesterze &#8211; na chwil\u0119 wraca nasz kurs XSS &#8211; do poniedzia\u0142ku 30% taniej!",
+        "vote": 0
+    }
+]

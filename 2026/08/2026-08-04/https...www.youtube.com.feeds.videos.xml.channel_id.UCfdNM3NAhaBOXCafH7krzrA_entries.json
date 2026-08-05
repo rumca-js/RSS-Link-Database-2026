@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Infographics Show",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-04T20:45:07.002370+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-04T20:11:09+00:00",
+        "description": "Artificial intelligence may look cheaper than ever, but many of today\u2019s prices are being subsidized by investors while model providers lose billions of dollars. Once that funding slows down, thousands of businesses built on cheap API access could face sudden price increases they cannot survive.\n\nThis video examines the real economics behind AI tokens, OpenAI\u2019s enormous infrastructure costs, NVIDIA H100 clusters, cloud contracts, and the startups known as AI \u201cwrappers.\u201d These companies often depend entirely on models they do not own, leaving them vulnerable to changing prices, retired APIs, weaker models, or direct competition from the same providers supplying their technology.\nWe also explore AI shrinkflation, vendor lock-in, \u201cSherlocking,\u201d advertising inside AI platforms, and why traditional software profit margins may not apply to systems that require expensive chips and massive amounts of electricity for every request.\n\nCheap AI was never guaranteed to last. It may have been the ba",
+        "id": 6111209,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=CW3e73pf_VE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 999,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfdNM3NAhaBOXCafH7krzrA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/CW3e73pf_VE/hqdefault.jpg",
+        "title": "Prepare for the AI Token Rug Pull",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ryan Daws",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-04T14:48:31.620513+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-04T13:49:30+00:00",
+        "description": "<p>Aikido Security says an npm supply chain attack has infected Keyv packages with a variant of the credential-stealing Shai-Hulud malware. The security firm reports that attackers have compromised the GitHub account of jaredwray, the maintainer of the Keyv key-value storage library. The attackers pushed malicious code to the main branch, then cut releases through GitHub [&#8230;]</p>\n<p>The post <a href=\"https://www.developer-tech.com/news/aikido-security-shai-hulud-npm-package-infection-surge/\">Aikido Security tracks Shai-Hulud npm package infection surge</a> appeared first on <a href=\"https://www.developer-tech.com\">Developer Tech News</a>.</p>",
+        "id": 6108639,
+        "language": "en-GB",
+        "link": "https://www.developer-tech.com/news/aikido-security-shai-hulud-npm-package-infection-surge",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 92,
+        "source_url": "https://www.developer-tech.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Aikido Security tracks Shai-Hulud npm package infection surge",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "James Bruton",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-04T14:39:34.942437+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-04T14:00:35+00:00",
+        "description": "Ad: Check out PCBWay for all your project needs! Get $10 off orders over $30 with code: PCBWay-JamesBruton-10 - https://www.pcbway.com/?from=JamesBruton\n\nIt's time to test the latest walking machine. It's a quadruped and its inherent mechanics mean that diagonal legs are linked so two feet have to move at once. This leaves only two feet on the ground so we need a way to stabilise the robot when walking on uneven terrain. I took the robot to EMFCamp to test it!\n\nThis project is open source: https://github.com/XRobots/Mid-Walker\n\n\nYou can support me on Patreon, join my Discord, or buy my Merchandise:\n***************************\nDiscord: https://discord.com/invite/fc6MedG7eW\nPatreon: https://www.patreon.com/xrobots\nMerch Store: https://james-bruton.teemill.com/collection/all-products/\n***************************\n\nOther socials:\n***************************\nInstagram: https://www.instagram.com/xrobotsuk\nTwitter: https://twitter.com/xrobotsuk \nFacebook: https://www.facebook.com/xrobotsuk/\n*",
+        "id": 6108595,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=5YPduEo7dU4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 852,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCUbDcUPed50Y_7KmfCXKohA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/5YPduEo7dU4/hqdefault.jpg",
+        "title": "Using 20-sided dice to stabilise my walking machine?",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Leila Gharani",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-04T09:46:54.303272+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-04T09:00:20+00:00",
+        "description": "500,000+ people have taken our courses so far. If you want to go deeper: \ud83d\udc49 https://link.xelplus.com/yt-d-all-courses\n\nHardcoded numbers hiding inside Excel formulas are almost impossible to find. Go To Special won't catch them, because the cell is a formula. Here's how to highlight every one of them automatically.\n\nA budget file can look completely clean and still be wrong. Someone types a rate straight into a calculation instead of referencing the input cell, then forgets to update it. The formula still looks normal. Nothing errors out.\n\nIn this video I show you how to combine three things to spot them: FORMULATEXT to pull the formula out as text, REGEXTEST to check that text against a pattern, and conditional formatting so every risky formula highlights itself. No helper columns, no VBA, no add-ins.\n\nI also cover the part most tools get wrong. Not every number inside a formula is a mistake. The 0 in ROUND sets decimal places. INDEX needs row and column numbers. Dividing by 12 turns ",
+        "id": 6106738,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=v85SsD3HMMk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 957,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJtUOos_MwJa_Ewii-R3cJA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/v85SsD3HMMk/hqdefault.jpg",
+        "title": "Do Your Excel Formulas Have Hardcoded Numbers? (How to Easily Spot Them)",
+        "vote": 0
+    }
+]
