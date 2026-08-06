@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-05T16:45:42.816974+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-05T14:00:08+00:00",
+        "description": "Philip Johnston is the co-founder and CEO of Starcloud, the company building data centers in space. In November 2025, Starcloud launched an Nvidia H100 GPU into orbit and trained the first large language model in space. They've since raised $200 million, hit a billion-dollar valuation just 17 months after YC demo day and filed with the FCC to deploy 88,000 more satellites. In this episode, Philip walks us through their wild origin story, the engineering challenges behind the StarCloud-1, why they booked a SpaceX launch before they even knew what they were building and how data centers in space make sense both economically and politically.\n\nTranscript: https://www.ycrootaccess.com/p/starcloud-solving-ais-energy-problem\n\nChapters:\n00:00 - First thing every space company should do\n01:06 - Why data centers in space\n01:40 - The Starbase trip that started it\n02:59 - Asteroid mining, space hotels, and the ideas they passed on\n03:25 - Why space-based solar doesn't work\n04:43 - Launching Starc",
+        "id": 6117428,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=A9JDkiYEhfY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/A9JDkiYEhfY/hqdefault.jpg",
+        "title": "Building the First Data Centers in Space",
+        "vote": 0
+    }
+]

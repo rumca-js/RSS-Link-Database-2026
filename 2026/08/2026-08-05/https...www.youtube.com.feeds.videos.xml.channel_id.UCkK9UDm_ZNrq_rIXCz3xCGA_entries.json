@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Lunduke Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-05T19:12:37.420783+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-05T16:44:20+00:00",
+        "description": "HB-5511, which will require Age data collection on all Operating Systems (including Linux, FreeBSD, and others), was signed by Governor Pritzker.\n\nMore from The Lunduke Journal:\nhttps://lunduke.com/",
+        "id": 6118433,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=3OtinDUoMlA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 616,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkK9UDm_ZNrq_rIXCz3xCGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/3OtinDUoMlA/hqdefault.jpg",
+        "title": "Operating System Age Verification Bill Signed Into Law in Illinois",
+        "vote": 0
+    }
+]

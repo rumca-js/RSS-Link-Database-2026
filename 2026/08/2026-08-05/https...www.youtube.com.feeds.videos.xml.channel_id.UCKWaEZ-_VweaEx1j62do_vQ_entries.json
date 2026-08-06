@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-05T14:05:56.264124+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-05T10:00:10+00:00",
+        "description": "Explore the podcast  \u2192 https://ibm.biz/~jDjLVwwSn \n\nLast week, OpenAI\u2019s models broke out of their sandboxes to cause chaos. This week, it\u2019s Anthropic\u2019s turn. \n\nOn this episode of Security Intelligence, Diego Matos Martins, Kimmie Farrington and Jeff Crume join host Matt Kosinski to discuss the results of Anthropic\u2019s internal review of testing procedures following the Hugging Face incident last month. Anthropic uncovered three instances of Claude models escaping containment and hacking real companies during what were supposed to be simulations. \n\nGranted, that\u2019s three incidents out of 141,000 reviewed tests, which raises the question: \nJust how big a deal is this really?\n\nThen, we talk about research from Zenity into PleaseFix, a class of vulnerabilities that affects every agentic browser on the market. Zenity\u2019s take: In the rush toward agentic functionality, these tools stripped away decades\u2019 worth of browser security fundamentals.\n\nFinally, a so-called \u201csecurity researcher\u201d has a pub",
+        "id": 6116126,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=A9nnvw2wqmE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/A9nnvw2wqmE/hqdefault.jpg",
+        "title": "Oh look. Anthropic\u2019s AI models also broke containment.",
+        "vote": 0
+    }
+]

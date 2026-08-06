@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-05T12:12:17.318314+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-05T08:00:00+00:00",
+        "description": "<p><span>\n\nWhen you have a lot of browser tabs open it can be very hard to tell\nthem apart, especially if they're from the same site:\n\n</span>\n\n<p>\n\n<a href=\"https://www.jefftk.com/top-tabs-chrome-big.png\"><img src=\"https://www.jefftk.com/top-tabs-chrome.png\" width=\"550\" height=\"361\" class=\"mobile-fullwidth\" style=\"max-width:100.0vw; max-height:65.6vw;\" srcset=\"https://www.jefftk.com/top-tabs-chrome.png 550w,https://www.jefftk.com/top-tabs-chrome-2x.png 1100w\"><div style=\"height:min(65.6vw, 361px)\" class=\"image-vertical-spacer\"></div></a>\n\n</p>\n\n<p>\n\nSince monitors are wide and websites are tall, we should very clearly\nput tabs on the side in a vertical stack.  I was a heavy user of these\nin Firefox, and when I switched to Chrome I used their <a href=\"https://issues.chromium.org/issues/40352308\">experimental</a>\n<code>--enable-vertical-tabs</code> flag.  When they <a href=\"https://issues.chromium.org/issues/40640156\">removed it</a> I\nwrote a <a href=\"https://www.jefftk.com/p/side-tabs",
+        "id": 6115290,
+        "language": "en-US",
+        "link": "https://www.jefftk.com/p/vertical-tabs-in-chrome",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 163,
+        "source_url": "https://www.jefftk.com/news.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.jefftk.com/top-tabs-chrome.png",
+        "title": "Vertical Tabs in Chrome",
+        "vote": 0
+    }
+]

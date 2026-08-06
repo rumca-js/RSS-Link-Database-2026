@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Scott Manley",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-05T18:40:02.014105+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-05T17:35:19+00:00",
+        "description": "Project Hail Mary is my favourite movie of the year, and while many people have made videos explaining time dilation due to travelling close to the speed of light, nobody has tried to visualise how the universe appears to warp due to relativistic aberration. I wanted to create these visuals to give you an idea of what it would look like at these speeds, even without a warp drive or hyperspace nothing looks right.\n\nThe Model used in the render tests is available here, thanks to Quake for sharing:\nhttps://sketchfab.com/3d-models/project-hail-mary-ship-6ab223b7be274f7ab473ca4aafa8a20d\n\nThe browser based visualization tool is here: https://dmytry.github.io/space/\nGo fast, see the big bang\n\nFollow me on Twitter for more updates:\nhttps://twitter.com/DJSnM\n\nI have a discord server where I regularly turn up:\nhttps://discord.gg/zStmKbM\n\nIf you really like what I do you can support me directly through Patreon\nhttps://www.patreon.com/scottmanley",
+        "id": 6118221,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=R_g9EeT233Q",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 829,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxzC4EngIsMrPmbm6Nxvb-A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/R_g9EeT233Q/hqdefault.jpg",
+        "title": "Travelling At 99% of The Speed Of Light Looks Strange - Project Hail Mary's Space Warp",
+        "vote": 0
+    }
+]

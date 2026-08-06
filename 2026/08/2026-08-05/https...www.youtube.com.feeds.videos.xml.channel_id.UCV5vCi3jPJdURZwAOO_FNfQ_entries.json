@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Thought Emporium",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-05T17:33:35.214771+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-05T15:37:23+00:00",
+        "description": "We recently built a CT scanner, and to make sure it was safe, we filled it full of lead. But we never found out how heavy the final machine was... until now.",
+        "id": 6117742,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/8FjfJNK_bHM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 849,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCV5vCi3jPJdURZwAOO_FNfQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/8FjfJNK_bHM/hqdefault.jpg",
+        "title": "How much does our CT scanner weigh?",
+        "vote": 0
+    }
+]

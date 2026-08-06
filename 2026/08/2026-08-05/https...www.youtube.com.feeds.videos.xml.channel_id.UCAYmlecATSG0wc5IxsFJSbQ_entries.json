@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Doug Sharpe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-05T16:41:59.949042+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-05T16:00:23+00:00",
+        "description": "The World Surf League has introduced a maternity wildcard allowing their athletes to take up to 2 years off, become mothers, and reenter the Championship Tour without needing to requalify.",
+        "id": 6117362,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/pUUKxVTBNGo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 811,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCAYmlecATSG0wc5IxsFJSbQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/pUUKxVTBNGo/hqdefault.jpg",
+        "title": "WSL Introduces Maternity Leave #funfact",
+        "vote": 0
+    }
+]

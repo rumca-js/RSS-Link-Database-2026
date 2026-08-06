@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Tomasz Turba",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-05T14:16:34.527695+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-05T13:30:27+00:00",
+        "description": "<p>OWASP opublikowa\u0142 now\u0105 list\u0119 najwa\u017cniejszych zagro\u017ce\u0144 dla aplikacji opartych na du\u017cych modelach j\u0119zykowych. Prompt Injection nadal zajmuje pierwsze miejsce, ale najwi\u0119kszy awans zaliczy\u0142o Excessive Agency. I s\u0142usznie, bo wsp\u00f3\u0142czesny model rzadko ko\u0144czy prac\u0119 na wygenerowaniu tekstu. Czyta poczt\u0119, odpytuje bazy danych, uruchamia kod, korzysta z MCP, wywo\u0142uje API i dzia\u0142a...</p>\n<p>Artyku\u0142 <a href=\"https://sekurak.pl/aktualizacja-listy-owasp-top-10-dla-llm-2026-agent-ai-dostal-rece-klucze-i-dostep-do-firmowych-systemow/\">Aktualizacja listy OWASP Top 10 dla LLM 2026. Agent AI dosta\u0142 r\u0119ce, klucze i dost\u0119p do firmowych system\u00f3w</a> pochodzi z serwisu <a href=\"https://sekurak.pl\">Sekurak</a>.</p>",
+        "id": 6116186,
+        "language": "pl-PL",
+        "link": "https://sekurak.pl/aktualizacja-listy-owasp-top-10-dla-llm-2026-agent-ai-dostal-rece-klucze-i-dostep-do-firmowych-systemow",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 300,
+        "source_url": "https://sekurak.pl/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Aktualizacja listy OWASP Top 10 dla LLM 2026. Agent AI dosta\u0142 r\u0119ce, klucze i dost\u0119p do firmowych system\u00f3w",
+        "vote": 0
+    }
+]

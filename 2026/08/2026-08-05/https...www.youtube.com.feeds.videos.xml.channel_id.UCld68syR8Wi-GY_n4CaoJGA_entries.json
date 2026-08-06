@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-05T21:50:12.635945+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-05T17:30:15+00:00",
+        "description": "In a recent video I did about FreeBSD I said that FreeBSD is Unix like but some people tried to correct me to say it was Unix, lets talk about what Unix actually is.\n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\nFreeBSD Video: https://www.youtube.com/watch?v=jmWq0gMx20o\nUnix Chart: https://upload.wikimedia.org/wikipedia/commons/7/77/Unix_history-simple.svg\nCertification: https://www.opengroup.org/certifications/unix\nRegistered Projects: https://www.opengroup.org/openbrand/register/index.html\nOSNews Article: https://www.osnews.com/story/141633/apples-macos-unix-certification-is-a-lie/\n\n=========Video Platforms==========\n\ud83c\udfa5 React: https://www.youtube.com/@BrodieRobertsonReacts\n\ud83c\udfa5 Podcast: https://techovertea.xyz/youtube\n\ud83c\udfae Gaming: https://brodierobertson.xyz/gaming\n\n======",
+        "id": 6119367,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=X2U6zDRr3CM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/X2U6zDRr3CM/hqdefault.jpg",
+        "title": "Why Linux Is Unix-Like But Not Unix",
+        "vote": 0
+    }
+]

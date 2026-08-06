@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Gamers Nexus",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-05T09:44:20.864225+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-05T03:37:29+00:00",
+        "description": "Support our work! Grab a Microslop Shirt, Coaster Pack, or Mouse Mat: https://store.gamersnexus.net/\nThis video provides an update on how GN is navigating LLM and \"AI\" crawlers harvesting our data, poisoning AI through tampered images (we're testing them, but haven't rolled them out yet), and subsidizing our consumer review content with our deep-dives and documentaries. We're providing an overall \"State of the Site\" in the current climate and talking about some cool projects we have coming up, plus a major addition to our free GN Mega Charts pages that collect our data in a set of convenient web pages. The AI poisoning is in testing and will eventually go to the full site, but we need to do some more analysis first. If you have ideas, share them!\n\nFIND THE MEGA CHARTS HERE:\n\nNew - Cases (our favorite one): https://gamersnexus.net/megacharts/cases\nNew - GPUs: https://gamersnexus.net/megacharts/gpus\nUpdated - CPUs: https://gamersnexus.net/megacharts/cpus\nUpdated - CPU Coolers: https://g",
+        "id": 6114461,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=0WP6kEO3i8g",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 428,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChIs72whgZI9w6d6FhwGGHA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/0WP6kEO3i8g/hqdefault.jpg",
+        "title": "It\u2019s Time to Poison AI | GN Mega Charts Update & LLM Countermeasures",
+        "vote": 0
+    }
+]

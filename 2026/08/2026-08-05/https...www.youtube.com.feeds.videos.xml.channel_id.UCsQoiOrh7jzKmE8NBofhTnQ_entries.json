@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Varun Mayya",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-05T16:17:34.943896+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-05T15:58:06+00:00",
+        "description": "In this Kata, we break down how to manage projects when you don\u2019t have all the answers from the start. We explain why traditional project management methods no longer work as well, how clarity comes from building instead of planning forever, and how we used Unleash the Avatar as a real example to develop our own way of managing projects.\n\nWe then walk through the entire process of turning a rough idea into a structured team. We cover how to decide what needs research, what already works, when to hire, when to outsource, when to invest in better tools, and how to use AI to keep large teams aligned. Along the way, we also share how we built different parts of Unleash the Avatar, from motion capture and photogrammetry to custom internal tools and playtesting.\n\nFinally, we talk about how projects grow over time. We discuss getting feedback early, building the right team before scaling, avoiding expensive mistakes, and why every successful project is really a series of small experiments th",
+        "id": 6117106,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=mwQhnZ32CeE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 882,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsQoiOrh7jzKmE8NBofhTnQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/mwQhnZ32CeE/hqdefault.jpg",
+        "title": "How I Manage Projects End To End (1 Hour Masterclass)",
+        "vote": 0
+    }
+]

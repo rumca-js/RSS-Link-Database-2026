@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Chris Titus Tech",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-05T14:06:10.145654+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-05T11:15:20+00:00",
+        "description": "The Windows Utility has evolved significantly in 2026. In this video, I walk through the redesigned interface, faster lazy loading, improved application installation, safer Windows tweaks, expanded logging, update controls, and the streamlined Windows 11 Creator.\n\nI also explain which tweaks you should avoid, why hardware companion applications can create security and privacy problems, and my ongoing work investigating Windows Global Device Identifiers.\n\n\u26a0\ufe0f Always copy the official command directly from my website. Fake and typo-squatted domains have previously been used to distribute malware.\n\nWindows Utility:\nhttps://christitus.com/windows-tool/\n\nOffline Version:\nhttps://cttstore.com/\n\nCodeRabbit:\nhttps://link.christitus.com/coderabbit\n\nGitHub Project:\nhttps://github.com/ChrisTitusTech/winutil\n\n## Chapters\n\n00:00 Windows Utility 2026\n03:23 Install Tab Upgrades\n07:00 Tweaks To Avoid\n10:08 Windows 11 Creator\n\n#Windows11 #WindowsUtility #WindowsToolbox #DebloatWindows #ChrisTitusTech\n\n",
+        "id": 6116127,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=_B7c6J5xtTg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 444,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCg6gPGh8HU2U01vaFCAsvmQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/_B7c6J5xtTg/hqdefault.jpg",
+        "title": "Windows Utility 2026: The Biggest Update Yet",
+        "vote": 0
+    }
+]

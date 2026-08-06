@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-05T00:38:56.759988+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-05T00:02:18+00:00",
+        "description": "The UK's AI Safety Institute said recent behaviour from Anthropic and OpenAI models was malicious and unprecedented.",
+        "id": 6112484,
+        "language": "en-US",
+        "link": "https://www.bbc.co.uk/news/articles/c1w1lvn7d9go",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 28,
+        "source_url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ab1/live/974e85e0-905d-11f1-b2ab-0dd01740f9f6.jpg",
+        "title": "AI used new levels of 'autonomy and deception' to trick people in safety test",
+        "vote": 0
+    }
+]

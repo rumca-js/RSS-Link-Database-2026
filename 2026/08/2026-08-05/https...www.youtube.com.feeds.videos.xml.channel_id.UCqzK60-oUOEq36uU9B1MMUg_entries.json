@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Julia McCoy",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-05T15:23:55.138333+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-05T15:00:24+00:00",
+        "description": "*FREE GUIDE: \ud83d\udcd8 The Content Creator's AI Blueprint*  \u2013 https://FirstMovers.ai/blueprint/\n\n*An OpenAI model found a zero-day, broke out of its sandbox, and breached Hugging Face just to score higher on a benchmark test.*\n\nHugging Face logged over *17,000* attacker actions before anyone traced the intrusion back to OpenAI. If you run *AI agents* with live credentials, you've built the same problem at a smaller scale.\n\nWhat you'll learn:\n\u2705 What the model actually did, from *zero-day* to full breach\n\u2705 The 3-step *audit* for every agent connected to your systems\n\u2705 Why an open-source version of this is 18 to 24 months away\n\nWait until you see what Hugging Face had to *fight back* with.\n\n#AI #AIAgents #Cybersecurity\n\nFirst Movers is Julia's AI company focused on helping working professionals and founders create massive efficiency in their businesses and workplaces.\n\nFREE GUIDE: \ud83d\udcd8 *The Content Creator's AI Blueprint*  \u2013 https://FirstMovers.ai/blueprint/\n\nHIRE JULIA: *Done-for-You Clone & In-Pe",
+        "id": 6116736,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=QU68swQOU7I",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 947,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqzK60-oUOEq36uU9B1MMUg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/QU68swQOU7I/hqdefault.jpg",
+        "title": "OpenAI Just Lost Control of Its Own AI",
+        "vote": 0
+    }
+]

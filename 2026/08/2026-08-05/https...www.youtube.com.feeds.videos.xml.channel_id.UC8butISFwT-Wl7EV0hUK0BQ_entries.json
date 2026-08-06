@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-05T11:29:44.776889+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-05T11:00:27+00:00",
+        "description": "Learn Claude Code with this comprehensive crash course taught by a former senior software engineer. You will learn everything from setting up your local environment in VS Code to executing autonomous tasks with goals and seamlessly deploying your applications. By mastering file structures, custom skills, and the Model Context Protocol, you will have the exact toolkit needed to automate your development and ship modern software.\n\n\u2764\ufe0f Support for this channel comes from our friends at Scrimba \u2013 the coding platform that's reinvented interactive learning: https://scrimba.com/freecodecamp\n\n\u2b50\ufe0f Contents \u2b50\ufe0f\n- 0:00:00 Introduction & Course Overview\n- 0:02:33 Installing Claude Code on Your Local Machine\n- 0:03:24 Choosing an IDE & Installing VS Code\n- 0:06:51 Customizing VS Code Themes\n- 0:07:39 Starting and Managing a Claude Code Session\n- 0:11:51 Understanding Permission Modes (Plan, Accept Edits, Auto, Bypass)\n- 0:15:03 Using Plan Mode & Autonomous Goals (/goal)\n- 0:24:24 Installing and Trigg",
+        "id": 6115135,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=7l6bXLAKyEI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/7l6bXLAKyEI/hqdefault.jpg",
+        "title": "Claude Code Full Course \u2013 Autonomous Goals, MCP, and VS Code Setup",
+        "vote": 0
+    }
+]

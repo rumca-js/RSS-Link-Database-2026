@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "AI Search",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-05T08:11:21.336123+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-05T03:31:09+00:00",
+        "description": "Minimax H3 installation tutorial. How to run Minimax H3 in ComfyUI #ai #aitools #aivideo \n\nTry Minimax online https://hailuoai.pxf.io/0G19e3  \nGet 10% off your first subscription with code AISEARCH\n\nMinimax H3 models: https://huggingface.co/Comfy-Org/MiniMax-H3\nWorkflows and files: https://docs.comfy.org/tutorials/video/minimax/minimax-h3\n\nComfyUI tutorial: https://youtu.be/g74Cq9Ip2ik\nWan2GP tutorial: https://youtu.be/KaQbt6NYrzY\nMinimax vs Seedance: https://youtu.be/RJT19JEug38\n\nSage attention wheels https://github.com/woct0rdho/SageAttention/releases\nKJ nodes https://github.com/kijai/ComfyUI-KJNodes\nSpectrum https://github.com/xmarre/ComfyUI-Spectrum-MiniMax-H3\n\nMore on license https://huggingface.co/MiniMaxAI/MiniMax-H3/discussions/12\n\nHow to find your torch and cuda version: python.exe -c \"import torch; print(torch.__version__)\n\n\n00:00 Minimax H3 intro\n00:39 Demos\n01:26 Multimodal strengths\n03:27 How to install Minimax H3\n04:40 Downloading models\n06:57 Text to video\n08:24 Image t",
+        "id": 6114108,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=8HutJ9W5pTg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 806,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIgnGlGkVRhd4qNFcEwLL4A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/8HutJ9W5pTg/hqdefault.jpg",
+        "title": "The BEST local AI video generator is here!",
+        "vote": 0
+    }
+]

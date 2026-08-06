@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Two Minute Papers",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-05T14:30:35.962724+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-05T13:54:29+00:00",
+        "description": "\u2764\ufe0f Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n\ud83d\udcdd Qwen 3.8 Max:\nhttps://qwen.ai/blog?id=qwen3.8\n\nSources:\nhttps://x.com/loktar00/status/2082589566934929750\nhttps://x.com/CommandCodeAI/status/2084293498950590839\n\n\ud83d\ude4f We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi",
+        "id": 6116303,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=ppQh4Tc9BmM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 945,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbfYPyITQ-7l4upoX8nvctg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/ppQh4Tc9BmM/hqdefault.jpg",
+        "title": "OpenAI's Biggest Problem Just Arrived",
+        "vote": 0
+    }
+]

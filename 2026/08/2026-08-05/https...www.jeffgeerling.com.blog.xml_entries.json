@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-05T18:12:39.088279+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-05T11:50:00+00:00",
+        "description": "<p>Proxmox today announced their <a href=\"https://forum.proxmox.com/threads/proxmox-virtual-environment-now-available-for-64-bit-arm-arm64.185527/\">Proxmox Virtual Environment is now available for 64-bit ARM</a>.</p>\n<p>I tested it on my <a href=\"https://www.jeffgeerling.com/blog/2023/testing-96-core-ampere-altra-developer-platform/\">Ampere Altra Dev Platform</a>\u2014the same machine on which I've <a href=\"https://www.jeffgeerling.com/blog/2023/ampere-altra-max-windows-gpus-and-gaming/\">booted Windows on Arm</a> the first time, messed with multiple GPUs, and most recently <a href=\"https://www.youtube.com/watch?v=QdU7WszFTAA\">tested Houdini's native arm64 support</a>.</p>\n<figure class=\"insert-image\"><img src=\"https://www.jeffgeerling.com/blog/2026/proxmox-ve-arm-official/proxmox-ve-on-arm-vm.jpg\"\n alt=\"Proxmox VE running on Ampere Altra Max workstation\" width=\"700\" height=\"auto\">\n</figure>\n\n<p>Install was easy, as the Ampere Altra uses UEFI / ACPI for its hardware, meaning Proxmox didn't ",
+        "id": 6117976,
+        "language": "en",
+        "link": "https://www.jeffgeerling.com/blog/2026/proxmox-ve-arm-official",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 162,
+        "source_url": "https://www.jeffgeerling.com/blog.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.jeffgeerling.com/blog/2026/proxmox-ve-arm-official/proxmox-ve-on-arm-vm.jpg",
+        "title": "Proxmox officially supports Arm, with some caveats",
+        "vote": 0
+    }
+]

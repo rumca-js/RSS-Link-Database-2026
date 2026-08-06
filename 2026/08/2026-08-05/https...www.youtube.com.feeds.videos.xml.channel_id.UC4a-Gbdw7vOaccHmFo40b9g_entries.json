@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Khan Academy",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-05T16:47:38.460694+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-05T16:11:27+00:00",
+        "description": "Courses on Khan Academy are always 100% free. Start practicing\u2014and saving your progress\u2014now. https://www.khanacademy.org/science/ap-physics-c-mechanics\n\nFor small amplitudes of motion, the small-angle approximation can be applied to the restoring torque exerted by gravity on a simple pendulum. Therefore, the motion of a pendulum with a small angular displacement can be modeled as simple harmonic motion because the restoring torque is proportional to the angular displacement. The period of a simple pendulum is related to its length and the magnitude of the gravitational field.\n\nSections:\n00:00 - Simple vs physical pendulums\n00:44 - Analyzing forces on a simple pendulum\n02:49 - Restoring torque on a simple pendulum\n05:56 - Small-angle approximation reveals SHM\n09:45 - Position-time graph of a simple pendulum\n10:35 - Energy of a simple pendulum\n\n------------------\n\nKhan Academy is a nonprofit organization with the mission of providing a free, world-class education for anyone, anywhere. K",
+        "id": 6117454,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=mRo0xlj7YGQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 977,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4a-Gbdw7vOaccHmFo40b9g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/mRo0xlj7YGQ/hqdefault.jpg",
+        "title": "SHM of simple pendulums | AP Physics | Khan Academy",
+        "vote": 0
+    }
+]

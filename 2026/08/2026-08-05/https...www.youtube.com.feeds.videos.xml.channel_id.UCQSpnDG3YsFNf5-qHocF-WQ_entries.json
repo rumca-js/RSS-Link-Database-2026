@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ThioJoe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-05T16:48:42.382517+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-05T15:45:14+00:00",
+        "description": "Even Apple couldn't stop the slop \ud83d\ude14\n\nApple has had to make a big change to their bug bounty program, which rewards researchers for reporting security vulnerabilities, because of AI Slop. People who have no idea what they're doing are submitting hallucinated, false bug reports that aren't even true, and it has completely bottlenecked them. So they've recently had to introduce limits to how many submissions someone can make.\n\nBut this is just the next domino to fall in a growing trend of AI being a double edged sword in the cybersecurity industry in general. While it does allow skilled security researchers to find legitimate buts faster, it allows anyone to generate a completely wrong report that looks plausible but wastes everyone's time. In this video I talk about all the 2nd-order consequences of this across the industries and what I think is probably the only thing that can stop AI slop for good.\n\nTime Stamps:\n0:00 - Intro\n1:11 - Fighting Fire With Fire\n4:46 - The Widespread Problem",
+        "id": 6117461,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=kt2arrIKA4g",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 366,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQSpnDG3YsFNf5-qHocF-WQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/kt2arrIKA4g/hqdefault.jpg",
+        "title": "AI Slop Has Defeated Apple",
+        "vote": 0
+    }
+]

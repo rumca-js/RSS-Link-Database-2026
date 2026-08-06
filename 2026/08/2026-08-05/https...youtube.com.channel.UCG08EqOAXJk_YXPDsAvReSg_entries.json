@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unity",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-05T16:14:44.167169+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-05T14:21:23+00:00",
+        "description": "Create Unity projects directly from your terminal, no Hub required. \n\nCheck your installed Editor versions, browse available templates, and set up a new project with a single command. Add the Pipeline package to open your Editor to external tools and start automating.\n\n\ud83d\udd17 Install the Unity CLI + Pipeline package: https://on.unity.com/UnityCLI_Docs",
+        "id": 6117091,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/AgHowl4_H0I",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 683,
+        "source_url": "https://youtube.com/channel/UCG08EqOAXJk_YXPDsAvReSg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/AgHowl4_H0I/hqdefault.jpg",
+        "title": "Unity CLI: Create and set up projects from the terminal",
+        "vote": 0
+    }
+]
