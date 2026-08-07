@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "redakcja",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-06T13:33:03.203264+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-06T11:47:08+00:00",
+        "description": "<p>Ten atak jest do\u015b\u0107 przera\u017caj\u0105cy, bo ofiara <strong>w og\u00f3le nie musi klika\u0107 ani w link, ani w z\u0142o\u015bliwy za\u0142\u0105cznik</strong>. Wystarczy, \u017ce otworzy e-maila&#8230;<span id=\"more-27245\"></span></p>\n<p><H3>Sprytny i pot\u0119\u017cny XSS wykrada\u0142 e-maile</H3>Jak <a href=\"https://media.defense.gov/2026/Jul/22/2003965244/-1/-1/1/CSA_RUSSIA_PHISHING_TARGET_ZIMBRA.PDF\" target=\"_blank\">ostrzega</a> wiele s\u0142u\u017cb specjalnych z r\u00f3\u017cnych kraj\u00f3w, w tym nasza Agencja Wywiadu razem z SKW, rosyjska grupa TA488, znana te\u017c jako (Void Blizzard/Laundry Bear) w ciekawy spos\u00f3b atakowa\u0142a u\u017cytkownik\u00f3w webowego interfejsu poczty e-mail Zimbra. Ofiarom wysy\u0142ano e-maila w HTML-u, w kt\u00f3rym znajdowa\u0142\u00a0si\u0119\u00a0payload XSS, czyli z\u0142o\u015bliwy kod JavaScript:</p>\n<div id=\"attachment_27247\" style=\"width: 360px\" class=\"wp-caption aligncenter\"><a href=\"https://niebezpiecznik.pl/wp-content/uploads/2026/08/xss-zimbra2-scaled.jpg\"><img decoding=\"async\" aria-describedby=\"caption-attachment-27247\" src=\"https://niebezpiecznik.pl/wp-content/upload",
+        "id": 6123499,
+        "language": "pl-PL",
+        "link": "https://niebezpiecznik.pl/post/rosjanie-wykradaja-e-maile-ciekawym-atakiem-xss-agencja-wywiadu-i-skw-ostrzegaja",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 239,
+        "source_url": "https://feeds.feedburner.com/niebezpiecznik",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://niebezpiecznik.pl/wp-content/uploads/2026/08/xss-zimbra-150x150.jpg",
+        "title": "Rosjanie wykradaj\u0105 e-maile ciekawym atakiem XSS. Agencja Wywiadu i SKW ostrzegaj\u0105!",
+        "vote": 0
+    }
+]

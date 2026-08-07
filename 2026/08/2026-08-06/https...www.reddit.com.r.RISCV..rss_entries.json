@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/Icy-Primary2171",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-06T13:17:23.407863+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-06T09:38:03+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>In July, SpacemiT continued to advance upstreaming efforts:</p> <p>Foundational support has been officially released in Binutils 2.47 and LLVM 23, while CPU targets (X100 and A100) for the K3 and matrix extension instructions for AI computing have successively been merged into the mainline. Regarding the Linux kernel, support for K1/K3 features\u2014including frequency scaling, storage, networking, PCIe, USB, and audio\u2014as well as support for various development boards, is being steadily integrated. Meanwhile, adaptation and optimization work for projects such as Box64, OpenOCD, U-Boot, and OpenSBI continues to progress, further enriching SpacemiT\u2019s RISC-V software and hardware ecosystem.</p> <p>Here are the details\uff1a</p> <h1>Upstream Progress in Core Development Tools</h1> <p>This month, baseline SpacemiT support was released as part of Binutils 2.47 and LLVM 23. LLVM/Clang also adopted the SpacemiT X60 scheduling model as a general optimization reference f",
+        "id": 6123366,
+        "language": "en",
+        "link": "https://www.reddit.com/r/RISCV/comments/1vgzim6/upstream_progress_updates_2026_july",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 471,
+        "source_url": "https://www.reddit.com/r/RISCV/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Upstream Progress Updates --2026 July",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-06T14:33:06.015215+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-06T13:46:27+00:00",
+        "description": "The murder of content creator C\u00e9sar Gast\u00e9lum on Tuesday raises questions about why influencers are coming under attack.",
+        "id": 6123919,
+        "language": "en-gb",
+        "link": "https://www.bbc.co.uk/news/articles/ckg9dwz8p30o",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 524,
+        "source_url": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ba2/live/6817d820-918f-11f1-8e84-2d20095c7a4b.jpg",
+        "title": "Livestreamer's murder raises questions over relations between Mexico's creators and cartels",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Facebook",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-06T16:43:18.563646+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-06T15:00:23+00:00",
+        "description": "<div><img width=\"890\" height=\"501\" src=\"https://about.fb.com/wp-content/uploads/2026/08/Tom-Shaw_-Interview-with-Rachel_Thumbnail.jpg?fit=890%2C501\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin-bottom: 15px;\" srcset=\"https://about.fb.com/wp-content/uploads/2026/08/Tom-Shaw_-Interview-with-Rachel_Thumbnail.jpg?w=1920 1920w, https://about.fb.com/wp-content/uploads/2026/08/Tom-Shaw_-Interview-with-Rachel_Thumbnail.jpg?w=300 300w, https://about.fb.com/wp-content/uploads/2026/08/Tom-Shaw_-Interview-with-Rachel_Thumbnail.jpg?w=768 768w, https://about.fb.com/wp-content/uploads/2026/08/Tom-Shaw_-Interview-with-Rachel_Thumbnail.jpg?w=1024 1024w, https://about.fb.com/wp-content/uploads/2026/08/Tom-Shaw_-Interview-with-Rachel_Thumbnail.jpg?w=1536 1536w, https://about.fb.com/wp-content/uploads/2026/08/Tom-Shaw_-Interview-with-Rachel_Thumbnail.jpg?w=800 800w, https://about.fb.com/wp-content/uploads/2026/08/Tom-Shaw_-Interview-with-Rachel_Thumbnail.jpg?w=1780 1780w\" sizes=",
+        "id": 6124957,
+        "language": "en-US",
+        "link": "https://about.fb.com/news/2026/08/why-meta-builds-its-own-data-centers",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 1017,
+        "source_url": "https://about.fb.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://about.fb.com/wp-content/uploads/2026/08/Thumbnail-1.jpg?fit=1920%2C1080",
+        "title": "Why Meta Builds Its Own AI Data Centers",
+        "vote": 0
+    }
+]

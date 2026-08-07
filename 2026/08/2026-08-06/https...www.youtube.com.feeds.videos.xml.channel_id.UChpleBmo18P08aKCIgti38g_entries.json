@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Matt Wolfe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-06T18:39:23.455976+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-06T15:02:48+00:00",
+        "description": "Jack Dorsey\u2019s company, Block, recently launched Buzz. It's basically a Slack workspace but for AI agents, and it's currently free, decentralized and open-source.\n\nHere's how it works:\n\ud83d\udc4b It starts you off with a core team: Fizz (the builder), Honey (the writer), and Bumble (the researcher).\n\ud83d\udcbb You can give them parallel tasks and watch them build it in real time using any model you choose.\n\u270d\ufe0f You can even tag them in a thread to peer-review each other's code and offer constructive feedback.\n\ud83d\udd12 Because it's built on the open-source Nostr protocol, it's model-agnostic, decentralized, and entirely under your control.\n\nThis kind of alternative is great for developers, startups, and anyone looking to run a self-sovereign AI workforce under their own control.\n\nWould this replace Slack for you?\n\n#AI #AIAgents #TechNews #OpenSource #futuretech",
+        "id": 6125749,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/FjalStmjUpw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 933,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChpleBmo18P08aKCIgti38g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/FjalStmjUpw/hqdefault.jpg",
+        "title": "It\u2019s like Slack\u2026 But for AIs",
+        "vote": 0
+    }
+]

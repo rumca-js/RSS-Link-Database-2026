@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Caleb Curry",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-06T17:19:30.106634+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-06T16:08:40+00:00",
+        "description": "FREE - Get my video notes: https://www.codebreakthrough.com/products/63765398-fb1e\nhttps://www.coursecatalyst.com/elite\n\nTimestamps\n00:00 - Introduction\n2:49 - What does MCP stand for?\n3:19 - How does MCP work?\n4:21 - A demo using Claude\n7:46 - How I use MCP\n14:16 - 3 Parts of MCP\n15:14 - stdio vs http\n16:31 - Features\n17:56 - Resources\n18:19 - Prompts\n19:19 - Tools\n21:12 - Calling Tools\n23:03 - MCP vs AI features\n28:29 - Building an MCP Server\n\n\u2699\ufe0f Backend Engineering Mind Map - https://calcur.tech/mindmap\n\n\ud83d\udcaf FREE Courses (100+ hours) - https://calcur.tech/free-courses\n\ud83c\udfc6 C++ Mastery Course - https://www.codebreakthrough.com/cpp-mastery\n\ud83d\udc0d Backend Python Course - https://calcur.tech/backend-python\n\ud83e\udd47 Python Mastery Course  - https://calcur.tech/python-mastery\n\n~~~~~~~~~~~~~~~ CONNECT ~~~~~~~~~~~~~~~\n\n\u2709\ufe0f Newsletter - https://calcur.tech/newsletter\n\ud83d\udcf8 Instagram - https://www.instagram.com/CalebCurry\n\ud83d\udc26 Twitter - https://twitter.com/calebCurry\n\ud83d\udd17 LinkedIn - https://www.linkedin.com/in/calebcur",
+        "id": 6125268,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=h_K70-MkRPw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 418,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZUyPT9DkJWmS_DzdOi7RIA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/h_K70-MkRPw/hqdefault.jpg",
+        "title": "Connect AI to Anything - Build your First MCP Server (Model Context Protocol)",
+        "vote": 0
+    }
+]
