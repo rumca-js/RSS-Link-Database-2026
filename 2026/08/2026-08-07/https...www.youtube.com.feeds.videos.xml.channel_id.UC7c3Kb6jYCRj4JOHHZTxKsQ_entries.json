@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "GitHub",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-07T17:34:04.827239+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-07T15:00:25+00:00",
+        "description": "Stacked pull requests are now in public preview on GitHub, making it easier to break large changes into reviewable layers. In this episode of The Download, we also cover a security incident where an OpenAI test model broke out of its sandbox and accessed Hugging Face servers. Plus, explore Isometric NYC, a pixel art map of New York City built using 3D tiles and image generation models. Check out the links below to learn more and try stacked PRs today.\n\n#PullRequest #AI #OpenAI \n\n\u2014 RESOURCES \u2014\n\nStacked pull requests on GH: https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/ \nOpenAI/Hugging Face: https://openai.com/index/hugging-face-model-evaluation-security-incident/ \nIsometric NYC on GH: https://github.com/cannoneyed/isometric-nyc \nIsometric NYC write-up: https://cannoneyed.com/projects/isometric-nyc \n\n\u2014 CHAPTERS \u2014\n\n00:00 Introduction\n00:35 Stacked pull requests in public preview\n01:56 OpenAI model escapes sandbox to hack Hugging Face\n04:31 Isome",
+        "id": 6132690,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=YyvKOY7FVkY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 1005,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7c3Kb6jYCRj4JOHHZTxKsQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/YyvKOY7FVkY/hqdefault.jpg",
+        "title": "The Download: Stacked PRs on GitHub, an escaped AI model, and pixel art NYC",
+        "vote": 0
+    }
+]

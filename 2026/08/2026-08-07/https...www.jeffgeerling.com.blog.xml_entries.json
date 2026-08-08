@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-07T15:04:22.431936+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-07T09:00:00+00:00",
+        "description": "<p>Shortly after Apple launched the budget <a href=\"https://github.com/geerlingguy/sbc-reviews/issues/102\">MacBook Neo</a>, Dell announced their response, a new low-end <a href=\"https://www.dell.com/en-us/shop/dell-laptops/new-xps-13-laptop/spd/xps13dx13260laptop\">XPS 13</a>.</p>\n<figure class=\"insert-image\"><img src=\"https://www.jeffgeerling.com/blog/2026/excited-for-intel-efficiency/dell-xps-13-running-fedora.jpeg\"\n\t\t\talt=\"Dell XPS 13 running Fedora 44\" width=\"700\" height=\"auto\">\n</figure>\n\n<p>Matching the Neo's <em>current</em> pricing, it starts at $699, or $599 with an educational discount. That discount is currently set to expire on November 2, and with the current component pricing insanity, I'd be surprised if we don't see a price increase on both laptops by next year.</p>\n<p>I ran the XPS 13 through my <a href=\"https://github.com/geerlingguy/sbc-reviews/issues/111\">gauntlet of benchmarks</a>, and published a review on my YouTube channel:</p>",
+        "id": 6131592,
+        "language": "en",
+        "link": "https://www.jeffgeerling.com/blog/2026/excited-for-intel-efficiency",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 162,
+        "source_url": "https://www.jeffgeerling.com/blog.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.jeffgeerling.com/blog/2026/excited-for-intel-efficiency/dell-xps-13-running-fedora.jpeg",
+        "title": "I'm excited for Intel after testing the XPS 13",
+        "vote": 0
+    }
+]

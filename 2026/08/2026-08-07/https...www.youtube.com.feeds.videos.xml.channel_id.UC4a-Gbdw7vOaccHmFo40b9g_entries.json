@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Khan Academy",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-08T02:04:22.805803+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-07T23:10:22+00:00",
+        "description": "Courses on Khan Academy are always 100% free. Start practicing\u2014and saving your progress\u2014now. https://www.khanacademy.org/science/ap-physics-c-mechanics\n\nSimple harmonic motion (SHM) can be modeled mathematically as a second-order differential equation derived using Newton\u2019s second law. The solution to this differential equation is the object\u2019s position as a function of time, which is sinusoidal. The position function can be differentiated with respect to time to find the object\u2019s velocity and acceleration functions, which are also sinusoidal.\n\nSections:\n00:00 - Intro\n00:32 - The spring-mass differential equation\n03:53 - Trial solutions for SHM\n07:15 - The SHM general solution \n09:17 - Deriving the expression for period\n12:31 - Deriving velocity and acceleration functions\n\n------------------\n\nKhan Academy is a nonprofit organization with the mission of providing a free, world-class education for anyone, anywhere. Khan Academy has been translated into dozens of languages, and 15 million",
+        "id": 6135157,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=-inpCcFh9qk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 977,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4a-Gbdw7vOaccHmFo40b9g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/-inpCcFh9qk/hqdefault.jpg",
+        "title": "Modeling spring-mass oscillators | AP Physics | Khan Academy",
+        "vote": 0
+    }
+]

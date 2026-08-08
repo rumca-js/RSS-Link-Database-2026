@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-07T16:44:01.199894+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-07T16:43:52.101349+00:00",
+        "description": "What will you see depending on your location? Use Le Monde's simulator before you put on your protective glasses, so you can watch the Sun as it is covered by the Moon on Wednesday, August 12.",
+        "id": 6132308,
+        "language": "en-US",
+        "link": "https://www.lemonde.fr/en/les-decodeurs/article/2026/08/07/where-can-you-see-the-august-12-solar-eclipse-find-out-with-our-maps_6756268_8.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 190,
+        "source_url": "https://www.lemonde.fr/en/science/rss_full.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.lemde.fr/2026/08/05/635/0/7615/3807/644/322/60/0/275e052_ftp-1-pfrlsyfu4smj-5778554-01-06.jpg",
+        "title": "Interactive map August 12 eclipse: Where will it be visible? Where can you watch it?",
+        "vote": 0
+    }
+]

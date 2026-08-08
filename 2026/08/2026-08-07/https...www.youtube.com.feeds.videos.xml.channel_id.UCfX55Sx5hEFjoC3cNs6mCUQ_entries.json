@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Foundation",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-07T17:22:58.541038+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-07T16:20:48+00:00",
+        "description": "AI-powered tools have compressed vulnerability discovery from weeks to hours. The same open source libraries powering banks, hospitals, and critical infrastructure are being scanned independently by hundreds of organizations, and every day those findings sit uncoordinated is a day attackers have a window.\n\nIn this exclusive interview with Swapnil Bhartiya at TFiR, Christopher \"CRob\" Robinson, CTO of OpenSSF and Chief Security Architect at the Linux Foundation, introduces Project Akrites, a new neutral coordination layer designed to responsibly route AI-generated vulnerability findings to upstream open source maintainers before public disclosure.\n\nKey Topics Covered:\n- How LLM-generated vulnerability reports evolved from AI slop to near-professional quality between late 2024 and mid-2025\n- Why uncoordinated scanning by thousands of independent actors creates a race condition between defenders and attackers\n- How Project Akrites differs from OpenSSF and where each fits in the secure sof",
+        "id": 6132628,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=YfzBTQ7XKWM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 499,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfX55Sx5hEFjoC3cNs6mCUQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/YfzBTQ7XKWM/hqdefault.jpg",
+        "title": "How Project Akrites Is Building a Global Open Source Security Response Team | CRob, OpenSSF",
+        "vote": 0
+    }
+]

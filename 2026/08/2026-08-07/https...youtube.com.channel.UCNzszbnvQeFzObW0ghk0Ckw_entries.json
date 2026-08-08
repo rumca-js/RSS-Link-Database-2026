@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Dave's Garage",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-07T17:03:32.711515+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-07T15:45:07+00:00",
+        "description": "Dave explains Ethernet from the outside in and back again!  \n\nCheck out an episode of ShopTalk!\nhttps://youtu.be/-5nVab-8CjI",
+        "id": 6132463,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=7vzjIv2l6wY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 907,
+        "source_url": "https://youtube.com/channel/UCNzszbnvQeFzObW0ghk0Ckw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/7vzjIv2l6wY/hqdefault.jpg",
+        "title": "Ethernet Explained so well that even YOU can Understand it!",
+        "vote": 0
+    }
+]

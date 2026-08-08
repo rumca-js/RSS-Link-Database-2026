@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/Existing-Sandwich999",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-07T17:20:18.367306+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-07T14:50:47+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>I had a backend interview with a weighted graph problem.<br/> I asked if I could first solve it with a naive approach and optimize later, but the interviewer insisted on the optimal solution from the start.<br/> I recognized that BFS wouldn\u2019t work because of weighted edges, but I couldn\u2019t implement Dijkstra from memory.<br/> Is it reasonable to expect candidates to code Dijkstra from memory, or should problem-solving and reasoning also carry significant weight?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Existing-Sandwich999\"> /u/Existing-Sandwich999 </a> <br/> <span><a href=\"https://www.reddit.com/r/developer/comments/1vi2r9t/is_this_a_fair_interview_expectation/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/developer/comments/1vi2r9t/is_this_a_fair_interview_expectation/\">[comments]</a></span>",
+        "id": 6132617,
+        "language": "en",
+        "link": "https://www.reddit.com/r/developer/comments/1vi2r9t/is_this_a_fair_interview_expectation",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 508,
+        "source_url": "https://www.reddit.com/r/developer/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Is this a fair interview expectation?",
+        "vote": 0
+    }
+]

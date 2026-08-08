@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-07T12:23:23.142966+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-07T12:00:00+00:00",
+        "description": "<div id=\"remove_no_follow\">\n\t\t<div class=\"grid grid--cols-10@md grid--cols-8@lg article-column\">\n\t\t\t\t\t  <div class=\"col-12 col-10@md col-6@lg col-start-3@lg\">\n\t\t\t\t\t\t<div class=\"article-column__content\">\n<section class=\"wp-block-bigbite-multi-title\"><div class=\"container\"></div></section>\n\n\n\n<p class=\"wp-block-paragraph\">It\u2019s all too easy to get into the zone with AI coding tools like Claude Code, Codex, or Google\u2019s Antigravity. You point them at your project, give them instructions, and the code starts flowing, just like magic.</p>\n\n\n\n<p class=\"wp-block-paragraph\">But no matter how powerful the model, AI can still make mistakes. Some blunders are minor, costing you little more than time and tokens as Claude Opus 5 or GPT-5.6-Sol dives into your code to fix the messes it made. Annoying, yes, but no big deal.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Other AI slipups can be devastating, and if you cruise around the Claude, ChatGPT, or Gemini subreddits long enough, you\u2019ll find <a href=\"https",
+        "id": 6130547,
+        "language": "en",
+        "link": "https://www.pcworld.com/article/3208043/the-one-command-you-should-never-let-claude-code-or-codex-run.html",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 246,
+        "source_url": "https://www.pcworld.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "The one command you should never let Claude Code or Codex run",
+        "vote": 0
+    }
+]

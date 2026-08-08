@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Blog Staff",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-07T21:12:24.765469+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-07T20:48:06+00:00",
+        "description": "<p>\n\t<img alt=\"1.png\" src=\"https://isocpp.org/files/img/1.png\" style=\"width: 200px; margin: 10px; float: right; height: 281px;\" />Traditional queues collect every event. Ajay Pandey shows how a coalescing queue can avoid redundant updates while keeping relevant state.</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://accu.org/journals/overload/34/193/pandey/\">A Coalescing Event Queue for High-Frequency Systems</a></h3>\n\t<p>\n\t\tby Ajay Pandey</p>\n</blockquote>\n<p>\n\tFrom the article:</p>\n<blockquote>\n\t<p>\n\t\tHigh-frequency event-driven systems often ingest more updates than downstream components can usefully process. A conventional FIFO queue preserves every event, but that can be the wrong abstraction when the consumer ultimately needs a current view of state rather than a complete history of every intermediate transition. This article describes a coalescing event queue: a design pattern that buffers events over short, bounded time windows and applies explicit merge policies to reduce redundant ",
+        "id": 6134015,
+        "language": "en",
+        "link": "https://isocpp.org//blog/2026/08/a-coalescing-event-queue-for-high-frequency-systems-ajay-pandey",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://isocpp.org/files/img/1.png",
+        "title": "A Coalescing Event Queue for High-Frequency Systems -- Ajay Pandey",
+        "vote": 0
+    }
+]

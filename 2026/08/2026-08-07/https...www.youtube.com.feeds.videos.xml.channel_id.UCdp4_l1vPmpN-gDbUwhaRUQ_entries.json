@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Branch Education",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-07T03:33:45.464085+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-07T01:35:39+00:00",
+        "description": "Inside this Nvidia graphics card is a GPU made from billions of transistors.\n\nBut before it becomes a chip, its microscopic design is printed onto a 300mm silicon wafer using an EUV photolithography system \u2014 a machine that can cost over $200 million.\n\nUsing extreme ultraviolet light, the machine prints one layer of each GPU chip at a time. In just seconds, it can pattern dozens of chips across a wafer, helping produce hundreds of thousands of microchips per day.\n\nThis is how modern GPUs are made.\n\nWatch the full video on EUV Photolithography:  https://youtu.be/B2482h_TNwg\n\n#Shorts #GPU #Nvidia #EUV #Photolithography #Microchip #Semiconductor #ChipManufacturing #SiliconWafer #Nanotechnology #TechExplained #Engineering #ASML #ComputerHardware #ScienceShorts",
+        "id": 6128493,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/_gbDFq5h9KI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 841,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCdp4_l1vPmpN-gDbUwhaRUQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/_gbDFq5h9KI/hqdefault.jpg",
+        "title": "How GPUs Are Printed With Light",
+        "vote": 0
+    }
+]

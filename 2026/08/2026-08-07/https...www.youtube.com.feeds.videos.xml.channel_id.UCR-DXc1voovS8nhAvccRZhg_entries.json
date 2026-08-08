@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeff Geerling",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-07T14:57:19.490609+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-07T14:00:11+00:00",
+        "description": "Intel's upped their efficiency game in a big way. The XPS 13 surprised me.\n\nMentioned in this video:\n\n  - Dell XPS 13: https://www.dell.com/en-us/shop/dell-laptops/new-xps-13-laptop/spd/xps13dx13260laptop\n  - MacBook Neo: https://www.apple.com/macbook-neo/\n  - My benchmark data for the XPS 13: https://github.com/geerlingguy/sbc-reviews/issues/111\n  - My benchmark data for the MacBook Neo: https://github.com/geerlingguy/sbc-reviews/issues/102\n\nThe XPS 13 shown in this video was provided on temporary loan from Dell. I am returning the laptop to Dell, and they had no control over the content of this video.\n\nSupport me on Patreon: https://www.patreon.com/geerlingguy\nSponsor me on GitHub: https://github.com/sponsors/geerlingguy\nMerch: https://www.redshirtjeff.com\n2nd Channel: https://www.youtube.com/@GeerlingEngineering\n3rd Channel: https://www.youtube.com/@Level2Jeff\n\nContents:\n\n00:00 - XPS 13\n00:49 - Improvements over the Neo\n01:35 - Some things are worse\n02:33 - Linux on the XPS 13\n02:5",
+        "id": 6131514,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=A2B7oI0FYqo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 161,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR-DXc1voovS8nhAvccRZhg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/A2B7oI0FYqo/hqdefault.jpg",
+        "title": "Intel just matched Apple Silicon. Seriously.",
+        "vote": 0
+    }
+]

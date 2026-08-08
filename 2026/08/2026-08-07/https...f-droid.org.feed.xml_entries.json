@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "paulali",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-07T19:53:51.147911+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-07T00:00:00+00:00",
+        "description": "<h3 id=\"this-week-in-f-droid\">This Week in F-Droid</h3>\n\n<h3 id=\"twif-curated-on-friday-07-aug-2026-week-32\">TWIF curated on Friday, 07 Aug 2026, Week 32</h3>\n\n<h4 id=\"f-droid-core\">F-Droid core</h4>\n\n<p><strong><a href=\"https://f-droid.org/packages/org.fdroid.fdroid\">F-Droid</a></strong> and <strong><a href=\"https://f-droid.org/packages/org.fdroid.basic\">F-Droid Basic</a></strong> were updated to <code class=\"language-plaintext highlighter-rouge\">2.0-rc0</code>, you know the deal, <a href=\"https://gitlab.com/fdroid/fdroidclient/-/blob/2.0-rc0/CHANGELOG.md#20-rc0-2026-08-03\">changelog</a> is short. If this is news to you and you didn\u2019t update to any 2.0 development builds yet, hello and welcome, so many things have changed, you\u2019ll just have to experience it. Navigate to the F-Droid or Basic app details page, check \u201cAllow beta updates\u201d in the top right three dot menu, and update.</p>\n\n<p>In website news, our mirror sync permission issue should be fixed now. Do ping us if you see any pa",
+        "id": 6133562,
+        "language": "en",
+        "link": "https://f-droid.org/en/2026/08/07/twif.html",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 1021,
+        "source_url": "https://f-droid.org/feed.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Dry season? Apps are pouring",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "iFixit",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-07T18:49:51.539603+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-07T17:17:51+00:00",
+        "description": "Wearables have a battery problem. Wireless earbuds, smartwatches, smart rings, and smart glasses are often built around glued-in lithium batteries that inevitably wear out\u2014turning otherwise functional devices into e-waste.\nAlthough new EU battery rules are expected to require user-replaceable batteries across many product categories beginning in 2027, wearables have received a major exemption. Manufacturers argue that replaceable batteries simply aren\u2019t practical in devices this small.\nIn this double teardown, we examine the Quark AI Glasses S1 and a competing pair of Chinese AR glasses to test that claim. Both use external battery packs, but their internal construction reveals two very different approaches to repairability. One is difficult and destructive to service. The other comes closer to a genuinely replaceable, technician-friendly design than almost any smart glasses we\u2019ve opened.\nWe also examine their Snapdragon-powered hardware, micro-OLED projection systems, cameras, circui",
+        "id": 6133176,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=T_J2-HZWnQw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 996,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHbx9IUW7eCeJsC4sBCTNBA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/T_J2-HZWnQw/hqdefault.jpg",
+        "title": "These Smart Glasses Prove Replaceable Batteries Are Possible",
+        "vote": 0
+    }
+]
