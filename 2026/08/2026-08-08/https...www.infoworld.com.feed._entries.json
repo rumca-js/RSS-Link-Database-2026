@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-08T03:31:12.125027+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-08T02:55:04+00:00",
+        "description": "<div id=\"remove_no_follow\">\n\t\t<div class=\"grid grid--cols-10@md grid--cols-8@lg article-column\">\n\t\t\t\t\t  <div class=\"col-12 col-10@md col-6@lg col-start-3@lg\">\n\t\t\t\t\t\t<div class=\"article-column__content\">\n<section class=\"wp-block-bigbite-multi-title\"><div class=\"container\"></div></section>\n\n\n\n<p class=\"wp-block-paragraph\">The Rust team has announced that it is enabling the Polonius Alpha borrow checker on nightly releases for testing. The team expects to fully stabilize Polonius Alpha later in the year. </p>\n\n\n\n<p class=\"wp-block-paragraph\">The announcement was made in a <a href=\"https://blog.rust-lang.org/2026/08/04/enabling-polonius-alpha-on-nightly/\" data-type=\"link\" data-id=\"https://blog.rust-lang.org/2026/08/04/enabling-polonius-alpha-on-nightly/\">blog post on August 4</a>. In the blog post, Rust team member Jack Huey said there are no known remaining issues with Polonius Alpha and performance is generally acceptable for stabilization.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Enabling ",
+        "id": 6135365,
+        "language": "en-US",
+        "link": "https://www.infoworld.com/article/4206875/rust-preps-improved-borrow-checker-for-stabilization.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 468,
+        "source_url": "https://www.infoworld.com/feed/",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Rust preps improved borrow checker for stabilization",
+        "vote": 0
+    }
+]

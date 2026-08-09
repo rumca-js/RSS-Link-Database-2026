@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Engineezy",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-08T14:02:17.902215+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-08T12:46:08+00:00",
+        "description": "The Cactus Magazine - Chrome Dino IRL Part 3\n\u2022\u2022\u2022\nThe obstacles magnet onto the 3D printed conveyor belt, and if they just rode around in a loop the game would be the same sequence forever. So at the end of the belt, these ramps passively pull each obstacle off and drop it into a ten-sided indexing wheel. Every drop ratchets the wheel forward one slot, which pushes the next obstacle up to the top of the queue, ready to go back into the game.\n\u2022\u2022\u2022\nThe original plan was a gantry-style pick-and-place that would grab obstacles and set them on the moving belt, but the obstacles are all different sizes, so it would've needed a vision system just to find them, plus a gripper synced to a moving conveyor. The indexing wheel does the same job with fewer moving parts.\n\u2022\u2022\u2022\nThe end goal is three of these magazines side by side with a randomizer picking which one serves up the next obstacle, so the sequence never repeats. Stay tuned for that!\n\u2022\u2022\u2022\n#engineezy #engineering #mechanicalengineering #mechan",
+        "id": 6137208,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/cOJnfJMxu2Y",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 858,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSksodwjNeOQ3Oywr1G4Nag",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/cOJnfJMxu2Y/hqdefault.jpg",
+        "title": "The Cactus Magazine - Chrome Dino IRL part 3",
+        "vote": 0
+    }
+]

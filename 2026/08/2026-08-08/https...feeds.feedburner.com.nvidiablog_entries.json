@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Rev Lebaredian",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-08T12:36:57.772379+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-08T10:24:54+00:00",
+        "description": "The global buildout of AI infrastructure reached a new milestone today \u2014 Firebird, an emerging AI cloud, launched the CIS region\u2019s largest AI factory in Armenia, establishing a new AI computing hub powered by NVIDIA accelerated computing and Dell Technologies high-performance AI infrastructure.\u00a0 Nikol Pashinyan, prime minister of the Republic of Armenia; Zhaslan Madiyev, deputy [&#8230;]",
+        "id": 6136901,
+        "language": "en-US",
+        "link": "https://blogs.nvidia.com/blog/firebird-ai-factory-armenia-blackwell-rubin-dsx",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 1019,
+        "source_url": "https://feeds.feedburner.com/nvidiablog",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://blogs.nvidia.com/wp-content/uploads/2026/08/5559253-Firebird-AI-Factory-Armenia-social-1920x1080-1-842x450.jpg",
+        "title": "Firebird Launches CIS Region\u2019s Largest AI Factory in Armenia",
+        "vote": 0
+    }
+]

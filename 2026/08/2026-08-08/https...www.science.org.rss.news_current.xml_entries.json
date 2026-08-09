@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeffrey Mervis",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-08T17:04:38.838001+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-08T12:30:00+00:00",
+        "description": "Language is part of bill to fund government until mid-December",
+        "id": 6137897,
+        "language": "en-US",
+        "link": "https://www.science.org/content/article/senate-votes-block-rule-giving-white-house-more-control-over-research",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 187,
+        "source_url": "https://www.science.org/rss/news_current.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Senate votes to block rule giving White House more control over research",
+        "vote": 0
+    }
+]
