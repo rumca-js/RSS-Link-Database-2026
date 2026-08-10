@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Lior Soroka, Sammy Westfall",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-09T13:22:03.893482+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-09T13:10:42+00:00",
+        "description": "\u201cIsrael does not accept the 15-point document,\u201d Prime Minister Benjamin Netanyahu said. The U.S. president had touted the Board of Peace plan as a step toward a lasting settlement.",
+        "id": 6141382,
+        "language": "en-US",
+        "link": "https://www.washingtonpost.com/world/2026/08/09/netanyahu-rejects-trump-backed-plan-hamas-disarm-israel-leave-gaza",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 365,
+        "source_url": "https://feeds.washingtonpost.com/rss/world?itid=lk_inline_manual_36",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Netanyahu rejects Trump-backed Gaza plan for Hamas to disarm, Israel to withdraw",
+        "vote": 0
+    }
+]

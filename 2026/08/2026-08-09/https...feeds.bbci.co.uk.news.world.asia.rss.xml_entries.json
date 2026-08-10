@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-10T01:41:05.497076+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-09T03:00:44+00:00",
+        "description": "Auqib Nabi becomes Jammu and Kashmir's first cricketer to get India Test call-up, inspiring millions.",
+        "id": 6144000,
+        "language": "en-gb",
+        "link": "https://www.bbc.co.uk/news/articles/c2elpkg1l0jo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 522,
+        "source_url": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d5c/live/cf1020a0-909a-11f1-b45c-fde20a4c7ffe.jpg",
+        "title": "How a schoolteacher's son became Kashmir's first India Test cricketer",
+        "vote": 0
+    }
+]

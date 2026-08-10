@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-09T12:13:48.554149+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-09T12:13:38.480490+00:00",
+        "description": "A total solar eclipse will be visible in Spain in the late afternoon on Wednesday, August 12. The eclipse will be partial in many parts of Europe. Here's what you need to know.",
+        "id": 6141134,
+        "language": "en-US",
+        "link": "https://www.lemonde.fr/en/les-decodeurs/article/2026/08/09/solar-eclipse-what-to-know-about-the-august-12-total-eclipse_6756314_8.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 190,
+        "source_url": "https://www.lemonde.fr/en/science/rss_full.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.lemde.fr/2026/07/14/357/0/4284/2142/644/322/60/0/a5bf93a_upload-1-ht1id1oa9ob4-000-36hu7q6.jpg",
+        "title": "Solar eclipse: What to know about the August 12 total eclipse",
+        "vote": 0
+    }
+]
