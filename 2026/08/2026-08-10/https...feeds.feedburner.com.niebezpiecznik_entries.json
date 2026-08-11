@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "redakcja",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-10T11:01:02.496816+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-10T09:31:53+00:00",
+        "description": "<p>Dziura znajduje si\u0119\u00a0we wszystkich wersjach WordPressa a\u017c\u00a0do <strong>7.0.3</strong> (niezale\u017cnie od zainstalowanych plugin\u00f3w) i pozwala atakuj\u0105cemu sta\u0107 si\u0119 administratorem bloga, a nawet wykona\u0107 dowolny kod PHP po stronie serwera. Atak bazuje na <a href=\"https://nbzp.cz/a2-xs-0\" target=\"_blank\">podatno\u015bci XSS</a> w wariancie pre-auth, czyli nie jest wymagane, aby atakuj\u0105cy mia\u0142 konto u\u017cytkownika na atakowanym blogu.<span id=\"more-27267\"></span></p>\n<h3>Atak XSS2shell</h3>\n<p>Ta <a href=\"https://github.com/WordPress/wordpress-develop/security/advisories/GHSA-52p2-r8wf-jcrf\">podatno\u015b\u0107</a> XSS zosta\u0142a odkryta w <span class=\"code\">wp-login.php</span> i aby j\u0105 wywo\u0142a\u0107 nale\u017cy przeprowadzi\u0107 pr\u00f3b\u0119\u00a0logowania na u\u017cytkownika, kt\u00f3ry nie istnieje. WordPress przepuszcza wtedy b\u0142\u0119dny login przez funkcj\u0119 <span class=\"code\">strip_tags()</span>, a p\u00f3\u017aniej przez filtr <span class=\"code\">wp_kses_post()</span>. Pierwszy parser nie widzi znacznika, je\u015bli po znaku &#8220;<span class=\"code\">&lt;</span>&#8",
+        "id": 6145812,
+        "language": "pl-PL",
+        "link": "https://niebezpiecznik.pl/post/nowy-atak-na-wordpressa-znaleziony-przez-ai-od-xss-do-admina-i-wykonania-dowolnego-kodu-php",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 239,
+        "source_url": "https://feeds.feedburner.com/niebezpiecznik",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://niebezpiecznik.pl/wp-content/uploads/2026/08/xss-wordpress-shell-150x150.jpg",
+        "title": "Nowy atak na WordPressa znaleziony przez AI: od XSS do admina i wykonania dowolnego kodu PHP",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Tomasz Turba",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-10T01:12:39.873568+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-10T00:38:30+00:00",
+        "description": "<p>WordPress to ta cz\u0119\u015b\u0107 \u015bwiata oprogramowania open source, o kt\u00f3rej na sekuraku piszemy na tyle regularnie, \u017ce tym razem ju\u017c darujemy Wam fragment o tym, jak wa\u017cny jest to projekt dla ca\u0142ego internetu. Powodem dzisiejszego wpisu jest \u0142a\u0144cuch drobnych b\u0142\u0119d\u00f3w zaczynaj\u0105cy si\u0119 od XSS, a po spe\u0142nieniu okre\u015blonych warunk\u00f3w ko\u0144cz\u0105cy...</p>\n<p>Artyku\u0142 <a href=\"https://sekurak.pl/roznica-w-parsowaniu-html-moze-doprowadzic-do-rce-w-wordpressie/\">R\u00f3\u017cnica w parsowaniu HTML mo\u017ce doprowadzi\u0107 do RCE w WordPressie</a> pochodzi z serwisu <a href=\"https://sekurak.pl\">Sekurak</a>.</p>",
+        "id": 6143940,
+        "language": "pl-PL",
+        "link": "https://sekurak.pl/roznica-w-parsowaniu-html-moze-doprowadzic-do-rce-w-wordpressie",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 300,
+        "source_url": "https://sekurak.pl/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "R\u00f3\u017cnica w parsowaniu HTML mo\u017ce doprowadzi\u0107 do RCE w WordPressie",
+        "vote": 0
+    }
+]

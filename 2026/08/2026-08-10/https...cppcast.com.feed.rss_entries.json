@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mathieu Ropert & Jason Turner",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-10T06:49:49.723936+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-10T06:49:34.974951+00:00",
+        "description": "Jason and Mathieu are joined by the self-taught Alex (Waffl3x) to discuss the C++ standards committee, defaulted post-fix operators, and self-taught computer engineering. Alex shares his experience of joining the C++ Committee and his efforts to get more people involved.\n        <h3>News</h3>\n<ul>\n<li><a href=\"https://mpusz.github.io/mp-units/latest/blog/2026/07/24/introducing-logarithmic-quantities-and-units/\">Mateusz needs help with his logarithmic unit design</a></li>\n<li><a href=\"https://www.reddit.com/r/cpp/comments/1v0ut9j/euro_llvm_2026_all_talks_related_to_c_security/\">EuroLLVM 2026 security related talks</a></li>\n<li><a href=\"https://www.reddit.com/r/cpp/comments/1v0hynk/a_set_of_papers_related_to_safety_in_july_mailing/\">A set of papers related to safety in the July mailing</a></li>\n<li><a href=\"https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2026/#mailing2026-07\">Brno mailing (2026-07)</a></li>\n</ul>\n<h3>Links</h3>\n<ul>\n<li><a href=\"https://wg21.link/P0847R7\">Deducing t",
+        "id": 6144802,
+        "language": "en",
+        "link": "https://cppcast.com/from_self_taught_to_committee_members_first_accepted_paper",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 80,
+        "source_url": "https://cppcast.com/feed.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "From Self Taught to Committee Member's First Accepted Paper",
+        "vote": 0
+    }
+]

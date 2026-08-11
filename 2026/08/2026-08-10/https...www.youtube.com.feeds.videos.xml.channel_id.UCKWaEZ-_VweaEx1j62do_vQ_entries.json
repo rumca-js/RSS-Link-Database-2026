@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-10T15:13:50.455337+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-10T11:00:29+00:00",
+        "description": "Learn more about 2026 Guide to AI Agents here \u2192 https://ibm.biz/~e7fElYU4A\n\nBuilding AI agent skills is easier than it looks. Martin Keen and Bri Kopecki explain five best practices for creating reliable, secure, and effective AI agent skills. Learn how to improve triggering, reduce context usage, add deterministic logic, and avoid common pitfalls.\n\n0:00 - Intro\n1:29 - Write Skills That Trigger\n3:38 - Build from Real Expertise\n6:15 - Spend Context Wisely\n8:25 - When Agents Shouldn't Guess\n11:02 -  Can You Trust This Skill?\n12:20 - Key Takeaways\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/~H9ZIaiRnS\n\nAI was used in the creation of the transcript and metadata for this video.\n\n#ai #aiagents #aiskills #agenticai",
+        "id": 6147349,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=qYNs80FKIVc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/qYNs80FKIVc/hqdefault.jpg",
+        "title": "5 Best Practices for Building AI Agent Skills",
+        "vote": 0
+    }
+]

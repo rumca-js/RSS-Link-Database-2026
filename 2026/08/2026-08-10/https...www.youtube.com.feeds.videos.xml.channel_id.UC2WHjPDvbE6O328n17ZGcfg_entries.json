@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ForrestKnight",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-10T17:21:00.668237+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-10T16:05:50+00:00",
+        "description": "Everything is Rust.\n\nTry out Cursor! It's so good. https://jetty.to/cursor\n\nSo Rust is over 10 years old. Nothing about the language fundamentally changed this year. But more companies than ever have been switching to Rust, even those that had a full plan to do so just a few years ago but shelved the idea... until now.\n\nI wanted to really understand why all of this is happening right now, all at the same time. So I dug into every one of these rewrites (not everything is listed here - I went over way more that you'll learn about in the video):\n- Why Meta ported their type checker to Rust when other languages would've been easier.\n- What actually happened with the Bun rewrite (now that Jarred finally released the blog post).\n- How companies like Linear got massive performance boosts without writing a single line of Rust.\n- Why every major AI lab keeps choosing Rust.\n- Updates on last year's stories (including the conclusion to the Linux kernel/Rust drama).\n- And way more so I could find",
+        "id": 6148251,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=iu_ALBDtoHo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 118,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2WHjPDvbE6O328n17ZGcfg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/iu_ALBDtoHo/hqdefault.jpg",
+        "title": "Why Everyone Keeps Switching to Rust",
+        "vote": 0
+    }
+]

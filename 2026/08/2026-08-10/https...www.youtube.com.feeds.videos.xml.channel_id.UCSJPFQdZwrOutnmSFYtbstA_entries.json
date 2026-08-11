@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Critical Drinker",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-10T21:32:13.299239+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-10T19:43:37+00:00",
+        "description": "Join me for an interview with Brian Bisson and Maxine Denis, the two leads in our short film, Complications.",
+        "id": 6149885,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=05tDeiIEyTc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 334,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSJPFQdZwrOutnmSFYtbstA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/05tDeiIEyTc/hqdefault.jpg",
+        "title": "Complications - Interviewing Brian Bisson And Maxine Denis",
+        "vote": 0
+    }
+]

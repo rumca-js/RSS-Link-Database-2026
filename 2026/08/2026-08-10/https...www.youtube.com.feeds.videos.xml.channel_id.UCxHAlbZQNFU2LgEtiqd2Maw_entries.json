@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "C++ Weekly With Jason Turner",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-10T17:41:49.689760+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-10T15:29:54+00:00",
+        "description": "This month Jason and Mathieu are joined by the self-taught Alex (Waffl3x) to discuss the C++ standards committee, defaulted post-fix operators, and self-taught computer engineering. Alex shares his experience of joining the C++ Committee and his efforts to get more people involved.\n\nNews\n* https://mpusz.github.io/mp-units/latest/blog/2026/07/24/introducing-logarithmic-quantities-and-units/ Mateusz needs help with his logarithmic unit design\n* https://www.reddit.com/r/cpp/comments/1v0ut9j/euro_llvm_2026_all_talks_related_to_c_security/ EuroLLVM security related talks\n* And more security related papers: https://www.reddit.com/r/cpp/comments/1v0hynk/a_set_of_papers_related_to_safety_in_july_mailing/\n* Brno mailing: https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2026/#mailing2026-07\n\n\n\nDiscussion links\n* https://wg21.link/P0847R7\n* https://wg21.link/P3899",
+        "id": 6148458,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=4jx7ZsRh6dc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 48,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxHAlbZQNFU2LgEtiqd2Maw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/4jx7ZsRh6dc/hqdefault.jpg",
+        "title": "From Self Taught to Committee Member\u2019s First Accepted Paper - Waffl3x CppCast 410 / C++Weekly 545",
+        "vote": 0
+    }
+]

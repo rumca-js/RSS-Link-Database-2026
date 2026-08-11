@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/JoannaNovaX",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-10T09:43:18.311681+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-10T09:10:20+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>The July release of openRuyi, a rolling-release Linux distribution for RISC-V, is out.</p> <p>2026.07 brings updates across the RISC-V platform stack, desktop, AI tooling, and build infrastructure.</p> <p>Highlights:</p> <ul> <li>Linux kernel 7.1.4 and LTS kernel 6.18.39</li> <li>RISC-V platform and toolchain improvements</li> <li>KDE Plasma 6.7.1 and Qt 6.11.1</li> <li>ROCm 7.2.4 with new Triton and timm packages</li> <li>RPM 6.0.1, virtiofsd, and TeX Live 2026 integration</li> <li>security updates across web and language runtimes</li> </ul> <p>Details:<br/> <a href=\"https://openruyi.cn/news/2026-07/release/\">https://openruyi.cn/news/2026-07/release/</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/JoannaNovaX\"> /u/JoannaNovaX </a> <br/> <span><a href=\"https://www.reddit.com/r/RISCV/comments/1vkfpk0/openruyi_202607_released/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/RISCV/comments/1vkfp",
+        "id": 6145410,
+        "language": "en",
+        "link": "https://www.reddit.com/r/RISCV/comments/1vkfpk0/openruyi_202607_released",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 471,
+        "source_url": "https://www.reddit.com/r/RISCV/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "openRuyi 2026.07 Released",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kevin Stratvert",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-10T09:18:30.057785+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-10T07:00:34+00:00",
+        "description": "Learn how to create professional motion graphics with Claude AI step by step. In this tutorial, I\u2019ll show you how to use Claude Design to build animations from simple prompts, refine them using natural language, and even generate motion graphics that synchronize with your existing video narration.\n\nWe\u2019ll start by creating a branded title animation from scratch. Then, I\u2019ll show you how to iterate on your design with simple prompts to make it look more polished and professional.\n\nNext, we\u2019ll take things further by uploading an SRT transcript along with brand assets so Claude Design can create motion graphics that match the timing and content of an existing video. Finally, I\u2019ll export the animation as an MP4 and bring it into DaVinci Resolve to combine it with a talking head video.\n\nBy the end, you\u2019ll know how to use Claude AI to create motion graphics, animated titles, charts, timelines, icons, process diagrams, and product visuals without building every animation manually.\n\nHost: Kevin",
+        "id": 6145275,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=ZE9URNHaP5M",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 958,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfJT_eYDTmDE-ovKaxVE1ig",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/ZE9URNHaP5M/hqdefault.jpg",
+        "title": "How to Create Motion Graphics with Claude AI",
+        "vote": 0
+    }
+]

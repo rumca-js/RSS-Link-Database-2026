@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "OpenAI",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-10T16:03:32.848832+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-10T13:33:42+00:00",
+        "description": "Model ML is solving the \u201clast-mile problem\u201d in finance, carrying asks from research to analysis to a finished PowerPoint deck or Excel workbook with traceable sources. \n\nWhen Model ML tested GPT\u20115.6 Sol in its Composite, the results \u201cblew every metric out the water,\u201d says Co-founder and CEO Chaz Englander: \n\n\u26a1 21% fewer tokens per PowerPoint deck than Fable 5\n\u2705 A 16.6 percentage-point lead over Opus 5 on decks ready for substantive review\n\ud83d\udcca 36% fewer tokens per Excel workbook than Opus 5\n\nWatch Englander walk through Model ML\u2019s evaluation process, then read the full story about how they use the model in production here: https://openai.com/index/model-ml/",
+        "id": 6147727,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=OEkxKdhtQng",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 935,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXZCJLdBC09xxGZ6gcdrc6A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/OEkxKdhtQng/hqdefault.jpg",
+        "title": "How Model ML Uses GPT-5.6 Sol to Get Finance Work Done More Efficiently",
+        "vote": 0
+    }
+]

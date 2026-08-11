@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-10T20:42:14.797508+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-10T20:30:26+00:00",
+        "description": "Last November, Peter Steinberger was annoyed that there was no good way to talk to his coding agents from his phone, so he built one himself. A few months later, OpenClaw had exploded into one of the biggest open source AI projects in the world, with nearly 3,000 contributors and a peak of 4.7 million weekly downloads.\n\nAt Startup School 2026, Peter tells the story of what happened when OpenClaw took off, what he got wrong as it grew, and how he eventually stopped using the product he had built for himself.\n\nHe shares why the best products often start with something that annoys you, why focus matters more as building gets easier, and why, in his words, \u201cfun is velocity.\u201d\n\nTranscript: https://www.ycrootaccess.com/p/peter-steinberger-what-happens-when\n\nApply to Y Combinator: https://www.ycombinator.com/apply\nWork at a startup: https://www.ycombinator.com/jobs\n\nChapters:\n00:00 \u2014 Intro\n01:16 \u2014 How OpenClaw Started\n05:10 \u2014 Finding Product-Market Fit\n07:01 \u2014 The Night OpenClaw Went Viral\n09",
+        "id": 6149561,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=whcfSGN6CAU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/whcfSGN6CAU/hqdefault.jpg",
+        "title": "Peter Steinberger: What Happens When 4.7 Million People Let It Cook",
+        "vote": 0
+    }
+]

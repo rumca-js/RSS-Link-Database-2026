@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-10T23:23:26.150514+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-10T22:31:42+00:00",
+        "description": "The money will be used to develop new data centres to house, operate, and cool miles of stacked computer chips that process AI data and actions.",
+        "id": 6150486,
+        "language": "en-US",
+        "link": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 28,
+        "source_url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13ae/live/d1192590-9504-11f1-bf69-07da70b136c8.jpg",
+        "title": "Nvidia gets $500bn from major banks to develop AI data centres",
+        "vote": 0
+    }
+]
