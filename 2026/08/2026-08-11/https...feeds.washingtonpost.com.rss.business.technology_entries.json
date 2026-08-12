@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Gerrit De Vynck",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-11T03:14:35.693146+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-11T02:50:07+00:00",
+        "description": "The Meta CEO's 6,500 word open letter echoes his previous arguments that letting his company innovate without restrictions will spread American values worldwide.",
+        "id": 6151308,
+        "language": "en-US",
+        "link": "https://www.washingtonpost.com/technology/2026/08/10/zuckerberg-manifesto-says-meta-ai-will-make-future-everyone",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 364,
+        "source_url": "https://feeds.washingtonpost.com/rss/business/technology",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Mark Zuckerberg\u2019s latest manifesto promises to save America with AI",
+        "vote": 0
+    }
+]

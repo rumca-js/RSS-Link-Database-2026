@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-11T11:35:57.305259+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-11T10:15:25+00:00",
+        "description": "In this comprehensive course, you will learn Python programming from scratch specifically tailored for mechanical engineering and robotics using ChatGPT. You'll start with fundamental concepts like variables, operators, and control flow before mastering essential scientific libraries including NumPy for numerical computations, Pandas for data handling, and Matplotlib for engineering analysis. Through real-world engineering case studies, material selection problems, and automated data workflows, you will gain practical coding skills to optimize your technical analysis and design workflows.\n\nCreated by https://gaugehow.com/\n\n\u2764\ufe0f Support for this channel comes from our friends at Scrimba \u2013 the coding platform that's reinvented interactive learning: https://scrimba.com/freecodecamp\n\n\u2b50\ufe0f Chapters \u2b50\ufe0f\n- 00:00 Course Overview & Python Basics\n- 01:14 Introduction to Python for Mechanical Engineers\n- 02:43 Important Features & Execution of Python\n- 05:12 Significance of Python in Mechanical Engin",
+        "id": 6153300,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=eDqVqVyCo6k",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/eDqVqVyCo6k/hqdefault.jpg",
+        "title": "Python for Engineers & Robotics \u2013 Master NumPy, Pandas, and ChatGPT Automation",
+        "vote": 0
+    }
+]

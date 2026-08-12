@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-11T20:04:57.458442+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-11T20:04:47.240116+00:00",
+        "description": "A 'frequently asked questions' page for the general public has been uploaded on French government ministry websites, with special posts shared on social media, ahead of the solar eclipse on Wednesday, August 12.",
+        "id": 6156909,
+        "language": "en-US",
+        "link": "https://www.lemonde.fr/en/france/article/2026/08/11/solar-eclipse-faced-with-criticism-public-authorities-defend-prevention-measures_6756396_7.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 190,
+        "source_url": "https://www.lemonde.fr/en/science/rss_full.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.lemde.fr/2026/08/09/0/0/5500/2750/644/322/60/0/3defabe_ftp-1-vadzxhh7ftrq-2026-08-09t130632z-1862917171-rc2zumab2acd-rtrmadp-3-solar-eclipse-spain.JPG",
+        "title": "Solar eclipse: Faced with criticism, public authorities defend prevention measures",
+        "vote": 0
+    }
+]

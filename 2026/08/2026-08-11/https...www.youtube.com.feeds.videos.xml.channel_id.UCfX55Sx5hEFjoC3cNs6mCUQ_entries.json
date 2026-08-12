@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Foundation",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-11T16:56:03.084053+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-11T16:29:49+00:00",
+        "description": "AI spending is accelerating faster than most organizations can track it, and the billing data coming from model providers and cloud platforms is not yet granular enough to tell teams where the money is actually going. Without a common framework, engineering and finance teams are flying blind on one of the fastest-growing line items in their budget.\n\nIn this exclusive interview with Swapnil Bhartiya at TFiR, Mike Fuller, Member of the Technical Staff, Tokenomics Foundation, breaks down how organizations can gain visibility into AI token spend, connect costs to business outcomes, and build governance before budgets spiral.\n\nKey Topics Covered:\n- Why token cost applies to both API-based inference and on-premises model deployments, including hardware procurement, energy, cooling, and lifecycle management\n- How the Tokenomics Foundation structures AI value across three domains: production, consumption, and monetization, and where the biggest efficiency opportunities sit today\n- The critica",
+        "id": 6155568,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=p_N-O_NG3A0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 499,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfX55Sx5hEFjoC3cNs6mCUQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/p_N-O_NG3A0/hqdefault.jpg",
+        "title": "Tokenomics Foundation: Open Standards for Managing AI Infrastructure Cost | Mike Fuller",
+        "vote": 0
+    }
+]

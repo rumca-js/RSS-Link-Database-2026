@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-11T17:48:17.990699+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-11T17:03:00+00:00",
+        "description": "NASA\u2019s James Webb Space Telescope imaged the planetary nebula NGC 2392, the Lion Nebula, using the observatory\u2019s NIRCam and MIRI instruments. The central star\u2019s remains are responsible for the nebula\u2019s structure, including a lion face-shaped bubble of ionized gas and dust \u201cmane.\u201d",
+        "id": 6155972,
+        "language": "en-us",
+        "link": "https://www.nasa.gov/image-detail/stsci-01kx6d0xbhsyp7q1em5qtc43rp",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 485,
+        "source_url": "https://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Lion Nebula Roars in Webb's Sights",
+        "vote": 0
+    }
+]

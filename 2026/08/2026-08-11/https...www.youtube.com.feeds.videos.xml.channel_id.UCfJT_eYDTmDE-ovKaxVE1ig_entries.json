@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kevin Stratvert",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-11T09:10:26.913385+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-11T07:00:30+00:00",
+        "description": "Learn how to use Google Flow Music to create your own AI-generated songs from start to finish. In this step-by-step tutorial, I\u2019ll show you how to generate music with a simple prompt, customize lyrics and vocals, remix sections, extend songs, create covers, and more.\n\nYou\u2019ll also learn how to turn an image into music, use voice mode to describe changes, download your finished songs and stems, and even transform your music into an AI-generated music video.\n\nHost: Kevin Stratvert\n\n\ud83d\udcda RESOURCES\n- Get started with Google Flow Music: https://www.flowmusic.app\n-Playlist with full songs featured in this video: https://www.flowmusic.app/Kevstrat\n\n\ud83d\udcac PROMPTS\n- Create a catchy, upbeat pop jingle for the Kevin Cookie Company about our new double chocolate chip cookie.\n- Change the vocalist from female to male\n- Replace this section with a playful rap about the Kevin Cookie Company\u2019s double chocolate chip cookie. Keep the same tempo and make the transition feel natural.\n- Transform this into an epi",
+        "id": 6152525,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=r8gDot5b22s",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 958,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfJT_eYDTmDE-ovKaxVE1ig",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/r8gDot5b22s/hqdefault.jpg",
+        "title": "How to Use Google Flow Music (Beginner Tutorial)",
+        "vote": 0
+    }
+]

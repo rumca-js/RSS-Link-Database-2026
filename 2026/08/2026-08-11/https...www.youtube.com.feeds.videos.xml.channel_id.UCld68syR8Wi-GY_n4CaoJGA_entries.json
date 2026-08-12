@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-11T18:27:54.351177+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-11T17:30:22+00:00",
+        "description": "Over the past few months Linux kernel developers have been pulling a ton of ancient network drivers for the simple fact that AI is now poking at them, why, because nobody wants to maintain this ancient code.\n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\nTovalds On AI: https://lore.kernel.org/linux-media/CAHk-=wi4zC+Ze8e+p3tMv8TtG_80KzsZ1syL9anBtmEh5Z40vg@mail.gmail.com/\nGreg KH Stance: https://lore.kernel.org/all/2026080354-skater-urgent-31b2@gregkh/T/#u\nBig Kernel Patch: https://lore.kernel.org/lkml/20260806182959.2963546-1-kuba@kernel.org/\nAnother One: https://lore.kernel.org/lkml/20260723185040.3891350-1-kuba@kernel.org/\nAI Bot: https://www.phoronix.com/news/Linux-WiFi-Strict-AI-Slop-Patch\nMoxa Driver: https://lore.kernel.org/lkml/2026080345-unmapped-sliced-49f2@gr",
+        "id": 6156227,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=n15KszMNtXE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/n15KszMNtXE/hqdefault.jpg",
+        "title": "Linux Kernel Devs Keep Removing Ancient Drivers",
+        "vote": 0
+    }
+]

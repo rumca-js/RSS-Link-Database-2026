@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Make Something",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-11T12:34:22.415813+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-11T12:12:48+00:00",
+        "description": "One machine that cuts everything, from all angles! Sponsored by Infimaker. InfiMaker K1 just launched on Kickstarter! Get discounted early pricing here (affiliate link): https://www.kickstarter.com/projects/infimaker/infimaker-k1-the-pro-grade-desktop-5-axis-cnc\n\nInfiMaker sent me their brand new K1 desktop 5-axis CNC to test before its public launch, so I made the same hammer head three times, once in oak, once in brass, and once in stainless steel, to really put this 5-axis CNC machine through its paces. In this video I cover the full CNC machining workflow, designing the part in Fusion, setting up the toolpaths, running tool changes on the automatic tool changer, and machining hard metals like stainless steel on a desktop CNC machine, something that used to require an industrial machine shop. I share the mistakes I made along the way, what I loved about this 5-axis CNC router, and what still needs work in a machine that's still in beta.\n\n#InfiMaker #InfiMakerK1 #DesktopCNC #5axisCN",
+        "id": 6153699,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=eMtrKImD8tI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 930,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtaykeSsGhtn2o2BsPm-rsw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/eMtrKImD8tI/hqdefault.jpg",
+        "title": "This Machine Used to Cost $100,000s / InfiMaker",
+        "vote": 0
+    }
+]

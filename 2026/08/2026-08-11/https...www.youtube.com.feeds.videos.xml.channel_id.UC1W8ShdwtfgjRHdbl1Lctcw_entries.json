@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NASS",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-11T22:08:06.254250+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-11T21:34:08+00:00",
+        "description": "Travel back to 1940s Quebec, Canada, and discover the winter streets of Trois-Rivi\u00e8res through rare historical footage restored in stunning 4K 60fps. Covered in snow and ice, the massive steel bridge, passing vehicles, and winter streets offer a fascinating glimpse into everyday Canadian life during the 1940s. Using my latest AI restoration and semantic colorization techniques\n\n\n\ud83d\udcfd\ufe0f Technologies & Techniques Used:\n\u2022 Advanced video restoration\n\u2022 New semantic colorization only for the ambiance (not historically accurate)\n\u2022 Manually colorized keyframes (to establish accurate ambiance and color consistency (not historically accurate)\n\u2022 Advanced frame reconstruction to 4K\n\u2022 Manual color corrections \n\u2022 Classical restoration workflows (AviSynth ) combined with modern tools for (60fps, stabilization, denoise, cleaning, and deblurring )\n\u2022 Sound design created for immersive atmosphere\n\nB&W Video Source from: Library and Archives Canada. Associated Screen News Limited fonds, 1973-0127, IDC 5056\n\n",
+        "id": 6157630,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=c9MKf0mcIH0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 222,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC1W8ShdwtfgjRHdbl1Lctcw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/c9MKf0mcIH0/hqdefault.jpg",
+        "title": "Quebec, Canada 1940s - Trois-Rivi\u00e8res | Advanced Colorization & 4K60fps Restoration",
+        "vote": 0
+    }
+]

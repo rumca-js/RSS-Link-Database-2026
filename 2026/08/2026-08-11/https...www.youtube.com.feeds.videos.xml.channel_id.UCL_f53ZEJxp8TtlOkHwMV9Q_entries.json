@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jordan B Peterson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-11T20:24:05.761633+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-11T19:11:40+00:00",
+        "description": "Excerpt from Dr. Jordan B. Peterson\u2019s eight-hour course, Sermon on the Mount, available at @PetersonAcademy\u200b.",
+        "id": 6157021,
+        "language": "en-US",
+        "link": "https://www.youtube.com/shorts/C1z76W9wOrw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 167,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCL_f53ZEJxp8TtlOkHwMV9Q",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/C1z76W9wOrw/hqdefault.jpg",
+        "title": "\u201cIf you work 10% longer hours, you make 40% more money.\u201d",
+        "vote": 0
+    }
+]

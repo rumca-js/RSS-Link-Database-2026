@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Blog Staff",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-11T21:43:43.701204+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-11T20:50:11+00:00",
+        "description": "<p>\n\t<img alt=\"SANDOR_DARGO_ROUND.JPG\" src=\"https://isocpp.org/files/img/SANDOR_DARGO_ROUND.JPG\" style=\"width: 200px; margin: 10px; float: right; height: 204px;\" />The two papers we are covering today are complementary in a philosophical sense. They both improve how string literals are handled in C++26. <a href=\"https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2023/p2361r6.html\">P2361R6</a> tackles strings that are never evaluated &mdash; the ones that only exist at compile time. <a href=\"https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2023/p1854r4.html\">P1854R4</a> tackles evaluated string literals, making non-encodable characters ill-formed instead of implementation-defined. Let&rsquo;s start with the unevaluated side.</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://www.sandordargo.com/blog/2026/06/10/cpp26-string-literals-cleaned-up\">C++26: Cleaning up string literals</a></h3>\n\t<p>\n\t\tby Sandor Dargo</p>\n</blockquote>\n<p>\n\tFrom the article:</p>\n<blockquote>\n\t<p>\n\t\tNot all string li",
+        "id": 6157496,
+        "language": "en",
+        "link": "https://isocpp.org//blog/2026/08/cpp26-cleaning-up-string-literals-sandor-dargo",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://isocpp.org/files/img/SANDOR_DARGO_ROUND.JPG",
+        "title": "C++26: Cleaning up string literals -- Sandor Dargo",
+        "vote": 0
+    }
+]

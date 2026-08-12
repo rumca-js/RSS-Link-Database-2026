@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "GitHub",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-11T16:12:17.901265+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-11T15:00:40+00:00",
+        "description": "Managing library updates and triaging pull requests manually every day can quickly create tech debt. In episode 4 of our beginner series, learn how to set up automations in the GitHub Copilot app to offload tedious recurring tasks. Discover how to create scheduled or issue-triggered tasks using plain English prompts, starting with a daily Dependabot review. Watch Copilot summarize open PRs and hand off complex updates so you can focus on work that needs your judgment.\n\nDownload the app today and try out automation: https://github.com/features/ai/github-app?utm_source=youtube-copilot-app-ep4-description&utm_medium=social&utm_campaign=copilot-app-for-beginners-series\n\n#Automation #GitHubCopilot #CopilotApp \n\n\u2014 CHAPTERS \u2014  \n\n00:00 Offloading tedious developer chores\n00:26 What is an automation in the GitHub Copilot app?\n00:47 Setting up names, triggers, and schedules\n01:26 Writing natural language automation prompts\n02:22 Running automations and reviewing summaries\n02:56 Starting a new s",
+        "id": 6155281,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=k73_z4Hv3Ls",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 1005,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7c3Kb6jYCRj4JOHHZTxKsQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/k73_z4Hv3Ls/hqdefault.jpg",
+        "title": "Automate recurring developer tasks with the GitHub Copilot app | Tutorial for beginners",
+        "vote": 0
+    }
+]
