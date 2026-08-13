@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-12T21:30:35.146909+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-12T20:17:00+00:00",
+        "description": "A total solar eclipse is seen from San Mill\u00e1n de los Caballeros, Spain, Wednesday, Aug. 12, 2026.",
+        "id": 6165473,
+        "language": "en-us",
+        "link": "https://www.nasa.gov/image-detail/2026-total-solar-eclipse-2",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 485,
+        "source_url": "https://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "2026 Total Solar Eclipse in Spain",
+        "vote": 0
+    }
+]

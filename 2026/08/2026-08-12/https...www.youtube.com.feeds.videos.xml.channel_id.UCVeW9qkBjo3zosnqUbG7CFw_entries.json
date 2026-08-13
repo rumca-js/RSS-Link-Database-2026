@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Hammond",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-12T15:44:14.369248+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-12T13:00:03+00:00",
+        "description": "https://jh.live/flare-kali365 || Manage threat intelligence and your exposed attack surface with Flare! Try a free trial and see what info is out there: https://jh.live/flare-kali365\n\nKali365 is a phishing-as-a-service kit that targets Microsoft 365 sessions and OAuth device authorization, letting criminals steal access tokens even when MFA succeeds. I trace the kit across public reporting and underground sources, unpack how the token theft works, and explain why defenders need session revocation and device-code controls, not MFA alone.\n\nhttps://www.ic3.gov/PSA/2026/PSA260521?pubDate=20260525\nhttps://www.huntress.com/blog/kali365-device-code-phishing-kit\nhttps://www.bleepingcomputer.com/news/security/fbi-warns-of-kali365-phishing-service-targeting-microsoft-365-accounts/\n\nLearn Cybersecurity and more with Just Hacking Training: https://jh.live/training\nSee what else I'm up to with: https://jh.live/newsletter\n\n\u2139\ufe0f Resources:\nSee what cybersecurity events are happening: https://jh.live/i",
+        "id": 6162923,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=NKS8Gbt6qUk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 959,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVeW9qkBjo3zosnqUbG7CFw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/NKS8Gbt6qUk/hqdefault.jpg",
+        "title": "I Found an MFA-Bypassing Phishing Attack on Microsoft 365",
+        "vote": 0
+    }
+]

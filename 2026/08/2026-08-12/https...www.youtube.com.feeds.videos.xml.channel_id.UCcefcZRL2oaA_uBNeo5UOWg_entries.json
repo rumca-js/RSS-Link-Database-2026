@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-12T17:28:21.021284+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-12T15:41:58+00:00",
+        "description": "Robots can already fold laundry, make espresso, clean kitchens, and assemble things. The harder problem is getting them to do those tasks reliably, for long periods of time, without a human babysitting them.\n\nAt Startup School 2026, Physical Intelligence cofounder Chelsea Finn explains what it takes to build general-purpose robots that work in the real world. She shares how reinforcement learning pushed robot throughput up 2x, how their systems can run autonomously for hours, and why she believes robotics is entering its GPT era: moving from specialized models toward general-purpose systems that can work across tasks, robots, and environments.\n\nTranscript: https://www.ycrootaccess.com/p/chelsea-finn-on-the-next-decade-in\n\nApply to Y Combinator: https://www.ycombinator.com/apply\nWork at a startup: https://www.ycombinator.com/jobs\n\nChapters:\n00:00 \u2014 The State of Physical Intelligence\n01:23 \u2014 What It Takes to Make Robots Useful\n05:11 \u2014 The Reliability Problem\n07:43 \u2014 Reinforcement Learni",
+        "id": 6163725,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=cRZNwgvcWUg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/cRZNwgvcWUg/hqdefault.jpg",
+        "title": "Chelsea Finn: This is the State of the Art in Robotics",
+        "vote": 0
+    }
+]

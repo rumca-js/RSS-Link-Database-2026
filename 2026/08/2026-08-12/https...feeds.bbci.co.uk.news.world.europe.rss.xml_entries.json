@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-12T18:04:11.466228+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-12T17:47:01+00:00",
+        "description": "Grain exports from both Russia and Ukraine are falling as both countries attack each other's shipping facilities and ports.",
+        "id": 6164041,
+        "language": "en-gb",
+        "link": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 523,
+        "source_url": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3190/live/fb878e50-966e-11f1-870d-5d08c49babb2.jpg",
+        "title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
+        "vote": 0
+    }
+]

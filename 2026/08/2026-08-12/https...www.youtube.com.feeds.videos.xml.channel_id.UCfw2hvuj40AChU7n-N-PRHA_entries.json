@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Apple Explained",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-12T18:53:34.547484+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-12T17:31:54+00:00",
+        "description": "The glowing Apple logo on the back of a MacBook was never a light. There was no bulb behind it, no dedicated LED, no wire running to it, and no way to turn it off manually. That\u2019s because it was just a hole in the display enclosure. Apple cut a logo-shaped opening straight through the aluminum lid, capped it with a piece of translucent plastic, and let the screen's own backlight spill out the back. So when people say Apple removed the glowing logo, that isn't quite what happened. Apple filled in a hole it could no longer leave open. And the reasons come down to engineering issues, durability issues, and a new design direction.",
+        "id": 6164301,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=AUJNH0okdaI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 714,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfw2hvuj40AChU7n-N-PRHA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/AUJNH0okdaI/hqdefault.jpg",
+        "title": "Why Apple Removed The Glowing Logo From MacBooks",
+        "vote": 0
+    }
+]

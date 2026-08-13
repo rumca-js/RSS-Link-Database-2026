@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "AI Search",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-12T07:54:48.989471+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-12T03:30:34+00:00",
+        "description": "Minimax H3 advanced tutorial. Minimax H3 with low VRAM, turbo loras, live preview, etc. #ai #aitools #aivideo #minimax #comfyui \n\nThanks to our sponsor Higgsfield. Try it today https://higgsfield.ai/s/theaisearch-XuZcwW\n\nPart 1 Minimax H3 installation tutorial: https://youtu.be/8HutJ9W5pTg \nMinimax vs Seedance 2.5: https://youtu.be/Vpvne2istKg\n\nResources in order of mention:\nSpectrum https://github.com/xmarre/ComfyUI-Spectrum-MiniMax-H3 \nLive preview https://huggingface.co/Kijai/MiniMax-H3-TAE \nTurbo models:\nhttps://huggingface.co/larryvrh/MiniMax-H3-Turbo-Lora\nhttps://huggingface.co/joyfox/MiniMax-H3-Turbo\nhttps://huggingface.co/lightx2v/Minimax-h3-Turbo\nhttps://huggingface.co/Kijai/MiniMax-H3_comfy/\nSmaller models: https://huggingface.co/Kijai/MiniMax-H3-experimental/tree/main \nEasy workflow: https://github.com/nkxx188/ComfyUI-MiniMaxH3-Easy \nImage workflow https://huggingface.co/reverentelusarca/minimax-h3-comfyui-workflows\nPrompt guides:\nhttps://huggingface.co/MiniMaxAI/MiniMax-H3",
+        "id": 6159810,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=G3YHSvXZP_g",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 806,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIgnGlGkVRhd4qNFcEwLL4A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/G3YHSvXZP_g/hqdefault.jpg",
+        "title": "The BEST local AI video generator just got BETTER!",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Chris Titus Tech",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-12T12:45:40.282735+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-12T11:15:11+00:00",
+        "description": "After 3 years of development, the project I thought might be impossible is finally here.\n\nI completely rebuilt my Windows Utility as a native .NET application while keeping compatibility with the open-source WinUtil configuration. Instead of simply executing PowerShell behind the scenes, it translates those tweaks into native .NET implementations.\n\nThat means faster execution, better system detection, automatic updates, localization, restore points, Windows tweaking, app installs, and an insanely fast Windows 11 ISO creator.\n\nIf you've previously purchased the Windows Utility, you get this new version and future updates.\n\nDownload it here:\nhttps://cttstore.com\n\nThanks to General Translation for sponsoring the video and helping make localization possible:\nhttps://link.christitus.com/generaltranslation\n\nCHAPTERS\n0:00 The Impossible App\n2:28 Automatic Updates\n5:09 Worldwide Localization\n7:58 Windows ISO Creator\n10:19 Native And Signed\n\n\u25ba\u25ba Digital Downloads \u279c https://www.cttstore.com\n\u25ba\u25ba P",
+        "id": 6161472,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=a3rXKlgKHGU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 444,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCg6gPGh8HU2U01vaFCAsvmQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/a3rXKlgKHGU/hqdefault.jpg",
+        "title": "I Finally Built the Impossible Windows App",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-12T13:10:18.874188+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-12T13:00:00+00:00",
+        "description": "<div id=\"remove_no_follow\">\n\t\t<div class=\"grid grid--cols-10@md grid--cols-8@lg article-column\">\n\t\t\t\t\t  <div class=\"col-12 col-10@md col-6@lg col-start-3@lg\">\n\t\t\t\t\t\t<div class=\"article-column__content\">\n<section class=\"wp-block-bigbite-multi-title\"><div class=\"container\"></div></section>\n\n\n\n<p class=\"wp-block-paragraph\">Email that only your recipient can read\u2014sounds like a great idea for sensitive messages, right? Especially if you could have that within Gmail.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Technically, you can. Google does offer full end-to-end encryption (EE2E) for email, which blocks everyone but you and your recipient from reading its contents. Not even Google would be able to know what EE2E emails say, despite the data living on its servers.</p>\n\n\n\n<p class=\"wp-block-paragraph\">But I don\u2019t recommend Gmail if you want to use EE2E for your email. For this protection, you should turn elsewhere. Other email providers have a better lock on this feature for users like you and me",
+        "id": 6161626,
+        "language": "en-US",
+        "link": "https://www.pcworld.com/article/3203183/gmail-offers-fully-encrypted-email-but-better-alternatives-exist.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 245,
+        "source_url": "https://www.pcworld.com/index.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://b2c-contenthub.com/wp-content/uploads/2026/08/Foundry-Light.png?w=1240&h=697&crop=1",
+        "title": "Gmail offers fully encrypted email. But better alternatives exist",
+        "vote": 0
+    }
+]
