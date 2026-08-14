@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Blog Staff",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-13T21:55:30.621098+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-13T20:52:42+00:00",
+        "description": "<p>\n\t<img alt=\"AdxWs-825x510.jpg\" src=\"https://isocpp.org/files/img/AdxWs-825x510.jpg\" style=\"width: 400px; margin: 10px; float: right;\" />Programs often read configuration files at startup, even when those files never change after the program is built. With C++26, you can eliminate that entire step by having the compiler read, parse, and validate the configuration at compile time, leaving only the finished data in the executable.</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://lemire.me/blog/2026/06/14/parsing-json-at-compile-time-with-c26-static-reflection/\">Parsing JSON at compile time with C++26 static reflection</a></h3>\n\t<p>\n\t\tby Daniel Lemire</p>\n</blockquote>\n<p>\n\tFrom the article:</p>\n<blockquote>\n\t<p>\n\t\tSuppose that you have a configuration file in JSON. Something like this:</p>\n\t<div>\n\t\t<pre>\n<code>&#123; \"width\": 1920, \"height\": 1080, \"fullscreen\": true, &#10;\"title\": \"My Game\", \"volume\": 0.8 &#125; </code></pre>\n\t</div>\n\t<p>\n\t\tNormally you ship this file alongside your program,",
+        "id": 6173150,
+        "language": "en",
+        "link": "https://isocpp.org//blog/2026/08/parsing-json-at-compile-time-with-cpp26-static-reflection-daniel-lemire",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://isocpp.org/files/img/AdxWs-825x510.jpg",
+        "title": "Parsing JSON at compile time with C++26 static reflection -- Daniel Lemire",
+        "vote": 0
+    }
+]

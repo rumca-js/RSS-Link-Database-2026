@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-13T14:00:19.394907+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-13T11:00:17+00:00",
+        "description": "Learn more about Artificial Intelligence (AI) here \u2192 https://ibm.biz/~XmOXmQOix\n\nLearn more about Data Science here \u2192 https://ibm.biz/~L2ex6PDTu\n\nAI and data science use different frameworks, this brings them together. Aaron Baughman and Martin Keen combine the AI and data science periodic tables into one system view. Learn how pipelines, embeddings, and RAG work together to power real-world AI applications.\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/~H9ZIaiRnS\n\nAI was used in the creation of the transcript and metadata for this video.\n\n#ai #datascience #machinelearning #dataengineering",
+        "id": 6169735,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=jAkB_qeATag",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/jAkB_qeATag/hqdefault.jpg",
+        "title": "AI & Data Science Periodic Tables: How They Work Together",
+        "vote": 0
+    }
+]

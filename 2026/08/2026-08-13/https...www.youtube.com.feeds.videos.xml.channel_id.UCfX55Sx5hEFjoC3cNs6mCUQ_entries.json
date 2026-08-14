@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Foundation",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-13T20:04:02.761821+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-13T18:13:49+00:00",
+        "description": "Sponsored by Harness\n\nAI can already write your Terraform. Point it at a requirement and it will generate the modules, the variables, the pipeline any code including infrastructure as code, at AI speed. That part's solved.\n\nWhat's not solved is everything after we generate code: is this change compliant? What breaks if it's applied? And when the real world drifts from what's declared in code (ie a manual console change, an expired resource, a config someone \"just fixed\" by hand) who notices, and who fixes it? In this session, we'll walk through the full arc of AI in Infrastructure Automation: from generating IaC, to governing what it's allowed to do, to healing infrastructure when it drifts out of the state it's supposed to be in.\n\nWe'll discuss:\n- How AI agents are moving beyond writing code into governing and maintaining it after it ships\n- How the AI Blast Radius Agent analyzes a proposed change before it's applied and brings true governance at the moment of decision, not after the",
+        "id": 6172486,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=4jL-lioTYdI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 499,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfX55Sx5hEFjoC3cNs6mCUQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/4jL-lioTYdI/hqdefault.jpg",
+        "title": "LF Live Webinar: AI Can Write Your Infrastructure Code. Can It Govern and Heal What It Builds?",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kuba Klawiter",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-13T19:38:26.271689+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-13T18:43:35+00:00",
+        "description": null,
+        "id": 6172318,
+        "language": "pl-PL",
+        "link": "https://www.youtube.com/watch?v=xm6cuOX1hY4",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 179,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLr4hMhk_2KE0GUBSBrspGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/xm6cuOX1hY4/hqdefault.jpg",
+        "title": "Twoje dane medyczne - nie Twoja decyzja",
+        "vote": 0
+    }
+]

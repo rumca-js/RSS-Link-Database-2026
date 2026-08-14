@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "iFixit",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-13T15:39:14.282731+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-13T14:00:29+00:00",
+        "description": "The Samsung Galaxy Z Fold 8 may be the company\u2019s most polished foldable yet\u2014but its IP48 rating leaves one critical vulnerability: fine dust can still enter the hinge.\nWe exposed the Fold 8 to UV-reactive powder, worked the hinge repeatedly, and then tore the phone down to track exactly where the particles traveled. While the sealed sections protected the cameras, batteries and circuit boards surprisingly well, the folding mechanism was another story.\nInside, we examine Samsung\u2019s redesigned hinge, new titanium-supported folding display and first silicon-carbon batteries. We also test how practical common repairs would be, from replacing the USB-C port and batteries to removing the outer and inner displays.\nThe result: some thoughtful improvements, several risky repair procedures and a provisional repairability score of 4 out of 10.\n\nChapters\n00:00 Samsung\u2019s best foldable has a problem\n00:45 The Fold 8\u2019s IP48 dust vulnerability\n01:29 UV powder, dirt and sand compared\n02:45 The hinge st",
+        "id": 6170461,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=bg6iwM4LoVA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 996,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHbx9IUW7eCeJsC4sBCTNBA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/bg6iwM4LoVA/hqdefault.jpg",
+        "title": "Galaxy Z Fold 8 Teardown  The Hinge Has a Serious Problem",
+        "vote": 0
+    }
+]

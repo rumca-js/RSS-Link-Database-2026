@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kai Lentit",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-13T19:19:00.383360+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-13T18:15:29+00:00",
+        "description": null,
+        "id": 6172132,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=x0Cr-UhKhZI",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 264,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCi8C7TNs2ohrc6hnRQ5Sn2w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/x0Cr-UhKhZI/hqdefault.jpg",
+        "title": "MTV cribs - San Francisco [720p]",
+        "vote": 0
+    }
+]

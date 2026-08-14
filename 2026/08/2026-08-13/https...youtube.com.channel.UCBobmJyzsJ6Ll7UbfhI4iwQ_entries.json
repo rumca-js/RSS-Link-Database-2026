@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unreal Engine",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-13T22:04:51.703874+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-13T21:20:53+00:00",
+        "description": "Players expect their games to follow them from the devices they have today, from Windows 11 PCs and handhelds to the future of the Xbox console. \n\nThe Microsoft GDK plugins for Unreal Engine, publicly available in UE 5.8, give you a single path to build on Win64 to ship your games on all of these devices. \n\nIn this session recorded at Unreal Fest Chicago 2026, Microsoft and Epic share the Xbox and Epic Games implementation plan, demonstrate plugin features, and examine how Epic Games itself leveraged these plugins to build and launch Fortnite on Xbox on PC.\n\nFind out more about using Unreal Engine to develop games here: unrealengine.com/uses/games\n\n#Xbox, #MicrosoftGDKPlugins, #UE5.8, #Fortnite, #GameDevelopment, #UnrealEngine, #UnrealFestChicago2026",
+        "id": 6173180,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=OQG4OcmG2F0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 685,
+        "source_url": "https://youtube.com/channel/UCBobmJyzsJ6Ll7UbfhI4iwQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/OQG4OcmG2F0/hqdefault.jpg",
+        "title": "Building Xbox Games with Unreal Engine's New GDK Plugins | Unreal Fest Chicago 2026",
+        "vote": 0
+    }
+]

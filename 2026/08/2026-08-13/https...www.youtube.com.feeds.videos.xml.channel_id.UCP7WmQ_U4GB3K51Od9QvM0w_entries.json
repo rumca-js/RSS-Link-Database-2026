@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "David Bombal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-13T21:20:20.033966+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-13T18:00:16+00:00",
+        "description": "Think old tech is harmless? This 15-year-old Cisco IP phone found in a hotel could be a massive network security vulnerability. See why unsecured VLAN access matters.\n\n#cisco #ipphone #oldtech",
+        "id": 6172918,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/fZ9J8ld2xIk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 984,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP7WmQ_U4GB3K51Od9QvM0w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/fZ9J8ld2xIk/hqdefault.jpg",
+        "title": "Nobody Uses This Old Stuff!",
+        "vote": 0
+    }
+]

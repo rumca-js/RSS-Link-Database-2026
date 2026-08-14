@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jacob Burg",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-13T19:52:41.983177+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-13T19:10:47+00:00",
+        "description": "The company has faced increasing scrutiny in recent months following concerns over data retention and some police officers allegedly misusing the cameras.",
+        "id": 6172407,
+        "language": "en-US",
+        "link": "https://www.theepochtimes.com/us/flock-announces-platform-changes-after-public-backlash-to-its-camera-network-6074816",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 105,
+        "source_url": "https://feed.theepochtimes.com/tech/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.theepochtimes.com/assets/uploads/2020/12/04/5bfc42940c9aeb0c212ecd4f_IMG_17101.jpg",
+        "title": "Flock Announces Platform Changes After Public Backlash to Its Camera Network",
+        "vote": 0
+    }
+]

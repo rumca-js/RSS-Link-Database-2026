@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Matt Wolfe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-13T03:58:22.922245+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-13T01:53:16+00:00",
+        "description": "I vibe coded a full game sequel using Claude Code and Codex, and it proved something important about AI and game development.\n\nA year ago I built The Librarian, a playable vibe coded game you can still find on GitHub. This time I wanted to see how far AI coding tools have come, and whether one person could build something that actually feels like a real game.\n\nI used Claude Code with Opus 5 for the initial build, then switched to Codex and GPT-5.6 Sol for all the fine-tuning. The result is The Librarian 2, a 3D procedurally generated roguelite with boss enemies, natural disasters, meta progression, and a chaos system. 10,400 lines of code across 33 modules. Zero asset files.\n\nThe verdict: game development is far from cooked. But it's also a lot harder than the one-level demos on X make it look.\n\nDiscover More:\n\ud83d\udee0\ufe0f Explore AI Tools & News: https://futuretools.io/\n\ud83d\udcf0 Weekly Newsletter: https://futuretools.io/newsletter\n\nSocials:\n\u274c Twiter/X: https://x.com/mreflow\n\ud83d\uddbc\ufe0f Instagram: https://inst",
+        "id": 6166986,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=qK4nV_LnXxQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 933,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChpleBmo18P08aKCIgti38g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/qK4nV_LnXxQ/hqdefault.jpg",
+        "title": "Making An Actually Fun 3D Game with AI",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Drew Harwell, Douglas MacMillan, Aaron Schaffer",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-13T13:18:51.708106+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-13T13:00:00+00:00",
+        "description": "The license-plate-reader firm said it will require stricter oversight after a Washington Post investigation found dozens of officers had misused its cameras to spy on their exes and romantic interests.",
+        "id": 6169469,
+        "language": "en-US",
+        "link": "https://www.washingtonpost.com/technology/2026/08/13/flock-unveils-changes-after-post-report-police-misuse-its-network",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 364,
+        "source_url": "https://feeds.washingtonpost.com/rss/business/technology",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Flock unveils changes after Post report on police misuse of its network",
+        "vote": 0
+    }
+]

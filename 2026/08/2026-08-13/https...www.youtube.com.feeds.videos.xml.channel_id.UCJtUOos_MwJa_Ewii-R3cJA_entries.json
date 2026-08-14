@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Leila Gharani",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-13T10:24:31.120839+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-13T09:00:24+00:00",
+        "description": "500,000+ people have taken our courses so far. If you want to go deeper: \ud83d\udc49 https://link.xelplus.com/yt-d-all-courses\nGot names spread across multiple columns? Here's the formula that flattens them into one clean, sorted, duplicate-free list, and updates itself when you add new names.\n\n=SORT(UNIQUE(TOCOL(range,1)))\n\n- TOCOL flattens your columns into a single column\n- The \"1\" ignores blanks so you don't get gaps\n- UNIQUE removes duplicates\n- SORT puts everything in order\n- Extend your range so new entries show up automatically\n\nNo copy-paste. No manual updates. One formula that stays live as your data changes.\n\nWorks in Excel 365 and Excel 2021+.\n\n\ud83d\udce8 Subscribe to \"Between the Sheets\" newsletter to stay on top of office tips and Excel hacks: https://link.xelplus.com/yt-d-newsletter\n\n\ud83d\udd13 Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCJtUOos_MwJa_Ewii-R3cJA/join\n\n\ud83d\udcf2 Let\u2019s connect on social:\nInstagram: https://www.instagram.com/lgharani\nLinkedIn: https://www.linked",
+        "id": 6168475,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/s63hXFx9AHw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 957,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJtUOos_MwJa_Ewii-R3cJA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/s63hXFx9AHw/hqdefault.jpg",
+        "title": "When did you last use TOCOL?",
+        "vote": 0
+    }
+]
