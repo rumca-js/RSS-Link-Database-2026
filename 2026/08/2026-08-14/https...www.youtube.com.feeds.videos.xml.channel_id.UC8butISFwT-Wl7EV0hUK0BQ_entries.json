@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-14T12:00:29.211605+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-14T10:00:24+00:00",
+        "description": "Learn how to design and build a production-ready, multi-agent AI system that automates pull request reviews with senior-level engineering judgment. This comprehensive tutorial covers everything from fault-tolerant system architecture and database modeling to utilizing the Genesis kit for reliable, AI-native development.\n\nCode: https://github.com/ayush488-glitch/genesis-kit\n\nCourse created by @AyushSinghSh \n\n\u2764\ufe0f Support for this channel comes from our friends at Scrimba \u2013 the coding platform that's reinvented interactive learning: https://scrimba.com/freecodecamp\n\n\u2b50\ufe0f Chapters \u2b50\ufe0f\n- 0:00:00 Introduction: Building a Production-Ready AI PR Review Agent\n- 0:06:35 The System Design Lens & Mapping the Mess\n- 0:19:12 Addressing AI Failure Modes & Reliability Engineering\n- 0:33:04 Part 1: First Principles & Reclaiming Senior Engineer Attention\n- 0:42:44 The Four Mindsets of a Reviewer (Security, Quality, Testing, Docs)\n- 0:54:08 Implementing the Agentic Fan-Out and Fan-In Pattern\n- 1:00:08 Part ",
+        "id": 6176451,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=iqRcGCah0Kw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/iqRcGCah0Kw/hqdefault.jpg",
+        "title": "System Design for AI Agents \u2013 Building a Multi-Agent PR Reviewer",
+        "vote": 0
+    }
+]

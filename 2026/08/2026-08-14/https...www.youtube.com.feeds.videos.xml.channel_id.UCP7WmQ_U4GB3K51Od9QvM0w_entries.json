@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "David Bombal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-14T14:46:26.370820+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-14T14:00:23+00:00",
+        "description": "Big thanks to Proton VPN for sponsoring this video. To sign up for Proton VPN please use the following link https://protonvpn.com/davidbombal and get 70% off. \n\nLearn how fake cell towers and Stingray-style devices can be used to track phones, capture metadata, and monitor cellular activity.\n\nOTW joins David Bombal to demonstrate how SDR tools such as HackRF, RTL-SDR, DragonOS, and Falcon can be used to scan nearby cell towers and investigate suspicious signals. They look at how 4G and 5G networks work, why mobile networks still expose valuable metadata, how IMSI catchers operate, and what suspicious or rogue cell towers may look like.\n\nThey also discuss SS7 vulnerabilities, mobile network attacks, Signal, GrapheneOS, and practical steps you can take to better protect your communications.\n\nTopics covered:\nHow to scan for nearby cell towers\nHow fake cell towers and Stingrays work\nDetecting suspicious cell towers with SDR\nHackRF and RTL-SDR\nDragonOS and Falcon\nIMSI catchers and phone tr",
+        "id": 6177450,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=NQM9x9kxqUs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 984,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP7WmQ_U4GB3K51Od9QvM0w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/NQM9x9kxqUs/hqdefault.jpg",
+        "title": "How to Detect Fake Cell Towers Near You",
+        "vote": 0
+    }
+]

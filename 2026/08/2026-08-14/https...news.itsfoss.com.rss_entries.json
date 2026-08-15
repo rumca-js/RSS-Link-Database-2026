@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Sourav Rudra",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-14T04:55:57.037369+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-14T04:06:26+00:00",
+        "description": "It took years of silence, new maintainers, and a release to bring LightDM back.",
+        "id": 6174669,
+        "language": "en-US",
+        "link": "https://itsfoss.com/news/lightdm-is-back",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 156,
+        "source_url": "https://news.itsfoss.com/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://itsfoss.com/content/images/2026/08/lightdm-revival-banner.png",
+        "title": "LightDM is Back From The Dead, But Canonical isn't in Charge Anymore",
+        "vote": 0
+    }
+]

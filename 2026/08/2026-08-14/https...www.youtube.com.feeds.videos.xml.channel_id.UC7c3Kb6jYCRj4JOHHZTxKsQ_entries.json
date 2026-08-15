@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "GitHub",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-14T18:40:58.914465+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-14T16:57:05+00:00",
+        "description": "Join us for Open Source Friday with Francesco Bonacci, CEO of Cua, exploring the future of computer-use agents.\n\nWe discuss Cua\u2019s open-source ecosystem, including Lum, Cua Driver, benchmarks, and the shift from screenshot-based \u201ccomputer use 1.0\u201d to more capable, policy-driven agents. Francesco shares how his team builds with coding agents, approaches security and evaluation, works with open-source contributors, and stays focused in a rapidly changing AI landscape.",
+        "id": 6179080,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=JWmbmn0KDkQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 1005,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7c3Kb6jYCRj4JOHHZTxKsQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/JWmbmn0KDkQ/hqdefault.jpg",
+        "title": "Replay: Open Source Friday  Cua with Francesco Bonacci",
+        "vote": 0
+    }
+]

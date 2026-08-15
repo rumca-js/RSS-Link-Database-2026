@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-14T09:39:47.599050+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-14T08:34:19+00:00",
+        "description": "A man is arrested after eight works by the French artist are found at a home in greater S\u00e3o Paulo.",
+        "id": 6175699,
+        "language": "en-gb",
+        "link": "https://www.bbc.co.uk/news/articles/c1l1ym96ydvo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 524,
+        "source_url": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/27d1/live/3099e280-97a7-11f1-b9b1-c18c7ed25243.jpg",
+        "title": "Stolen Matisse artworks recovered by police in Brazil",
+        "vote": 0
+    }
+]

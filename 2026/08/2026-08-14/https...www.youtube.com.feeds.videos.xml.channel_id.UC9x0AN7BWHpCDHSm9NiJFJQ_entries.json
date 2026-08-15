@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NetworkChuck",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-14T18:10:30.144416+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-14T17:11:47+00:00",
+        "description": "Scammers have AI now, and even the router we build in this video can't stop the scam text that walks straight up to your phone. Bitdefender Scam Radar gives you a heads-up when a scam wave hits your area: https://bitdefend.me/90NetworkChuck\n\n\nThe government just banned your home router. Chinese state hackers were living inside consumer routers, so the FCC banned future foreign-made ones. And honestly? Your router was already slow, insecure, and boring. So in this video we replace my editor Mike's router (and yours) with OPNsense: a free, open source router and firewall running on a cheap mini PC. Whole-house ad blocking, encrypted DNS, a real firewall you control. Then I hand the whole thing to an AI agent (Hermes on a Raspberry Pi) to see if it can manage the router for us. Its first job: block an entire country.\n\n\n\n\ud83c\udf93 Want to go DEEPER? VLANs, firewall rules, GeoIP country blocking, Suricata IDS, and the hardened version of the AI agent are all in my OPNsense course on NetworkChuck A",
+        "id": 6178832,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=a3RI4DjFBzw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 565,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9x0AN7BWHpCDHSm9NiJFJQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/a3RI4DjFBzw/hqdefault.jpg",
+        "title": "your home router STILL SUCKS!! (use OPNsense instead)",
+        "vote": 0
+    }
+]

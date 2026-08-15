@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeff Geerling",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-14T15:40:12.810824+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-14T14:00:22+00:00",
+        "description": "Huge thanks to Adam (othermod) for sending over a PSPi 6 for me to test and review.\n\nI wanted to try this out when I first heard about it in 2022... since then it's been completely overhauled! And better yet, it's open source with a CC BY-SA license.\n\nHere are some links to things I mentioned in this video:\n\n  - PSPi 6 Board: https://othermod.com/product/pspi-6-board/\n  - Open Source files: https://github.com/othermod/PSPi-Version-6\n  - CM5 PSPi Heatsink Mod: https://www.youtube.com/watch?v=Dpj7oJ_UN2A\n  - Heatsink mod based on: https://github.com/othermod/PSPi-Version-6/wiki/6.-Community-Mods#custom-cooling-modules\n  - Macho Nacho Production's video on the PSPi: https://www.youtube.com/watch?v=PKXbAd7vXA4\n  - Joe Cirillo's video on the PSP: https://www.youtube.com/watch?v=I7AeQFk00dQ\n  - polymatt's custom PSP: https://www.youtube.com/watch?v=ORz3dcgBAVE\n\nSupport me on Patreon: https://www.patreon.com/geerlingguy\nSponsor me on GitHub: https://github.com/sponsors/geerlingguy\nMerch: htt",
+        "id": 6177808,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=tNmPTgMoZUI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 161,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR-DXc1voovS8nhAvccRZhg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/tNmPTgMoZUI/hqdefault.jpg",
+        "title": "This PSP Pi mod just keeps getting better",
+        "vote": 0
+    }
+]

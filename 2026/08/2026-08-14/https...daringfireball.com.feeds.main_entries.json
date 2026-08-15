@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Gruber",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-14T17:14:19.346393+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-14T16:33:55+00:00",
+        "description": "<p>This page from Google Design on their \u201cMaterial 3\u201d UI language came to my attention after <a href=\"https://daringfireball.net/linked/2026/08/12/google-design-pants-pissed\">my snarky post</a> about the ungainly new to-do app <a href=\"https://x.com/googledesign/status/2087195277094695096\">they bizarrely bragged</a> about on Twitter/X this week. I don\u2019t think this \u201cMaterial 3\u201d page is new\u2009\u2014\u2009I think it\u2019s a few years old\u2009\u2014\u2009but I\u2019d never seen it before.</p>\n\n<p>First, it\u2019s crazy that (in desktop browsers with a mouse cursor) they change the I-beam cursor for text selection to ... a circle. I guess it looks kind of fun but the whole point of the I-beam cursor is to enable precise character selection. They changed that to something that makes precise selection as difficult as possible. It\u2019d be better to just an arrow pointer than a goddamn circle. This, from the UI design team.</p>\n\n<p>Second, this paragraph made me honestly wonder if I was reading a spoof, a years-old unfunny April Fool\u2019s",
+        "id": 6178523,
+        "language": "",
+        "link": "https://design.google/library/expressive-material-design-google-research",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 489,
+        "source_url": "https://daringfireball.com/feeds/main",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Google\u2019s \u2018Material 3\u2019 Design Write-Up Is 93.3 Percent Embarrassing",
+        "vote": 0
+    }
+]
