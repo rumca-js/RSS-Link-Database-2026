@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "dalvrosa",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-15T20:12:02.111782+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-15T18:52:26+00:00",
+        "description": "<p>\n\tA step-by-step derivation of the type-erasure idiom, building a minimal <code>std::any</code> from nothing but virtual functions and templates.</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://david.alvarezrosa.com/posts/deriving-type-erasure/\">Deriving Type Erasure</a></h3>\n\t<p>\n\t\tby David &Aacute;lvarez Rosa</p>\n</blockquote>\n<p>\n\tFrom the article:</p>\n<blockquote>\n\t<p>\n\t\tEver looked at <code>std::any</code> and wondered what&rsquo;s going on behind the scenes? Beneath the intimidating interface is a classic technique called type erasure: concrete types hidden behind a small, uniform wrapper.</p>\n\t<p>\n\t\tStarting from familiar tools like virtual functions and templates, we&rsquo;ll build a minimal <code>std::any</code>. By the end, you&rsquo;ll have a clear understanding of how type erasure works under the hood.</p>\n</blockquote>",
+        "id": 6184599,
+        "language": "en",
+        "link": "https://isocpp.org//blog/2026/08/deriving-type-erasure-david-alvarez-rosa",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Deriving Type Erasure -- David \u00c1lvarez Rosa",
+        "vote": 0
+    }
+]

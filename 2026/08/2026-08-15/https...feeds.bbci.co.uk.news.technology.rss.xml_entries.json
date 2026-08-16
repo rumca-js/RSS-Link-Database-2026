@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-15T23:54:02.573623+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-15T23:45:44+00:00",
+        "description": "Mobile game No 10: Full Confidence recently ranked above Minecraft on the UK App Store paid games chart",
+        "id": 6185269,
+        "language": "en-US",
+        "link": "https://www.bbc.co.uk/news/articles/cq56pzqy6jvo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 28,
+        "source_url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a22/live/86235450-9731-11f1-870d-5d08c49babb2.jpg",
+        "title": "I survived two years as prime minister in a hit new game - then my cabinet deserted me",
+        "vote": 0
+    }
+]
