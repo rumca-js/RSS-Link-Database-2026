@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Lunduke Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-16T17:10:40.768369+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-16T15:59:08+00:00",
+        "description": "Candidates for the Python Foundation Board focus on \"Code of Conduct\" and \"Inclusivity\", brag about \"fabulous Pride celebrations\".\n\nMore from The Lunduke Journal:\nhttps://lunduke.com/",
+        "id": 6188255,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=PbsZ8N0Fj9o",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 616,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkK9UDm_ZNrq_rIXCz3xCGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/PbsZ8N0Fj9o/hqdefault.jpg",
+        "title": "Python Board Candidates Push for DEI, Code of Conduct",
+        "vote": 0
+    }
+]

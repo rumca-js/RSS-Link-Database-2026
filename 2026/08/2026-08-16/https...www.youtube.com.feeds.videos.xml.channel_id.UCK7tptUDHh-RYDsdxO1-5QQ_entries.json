@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Wall Street Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-16T17:03:40.542578+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-16T16:00:26+00:00",
+        "description": "Artificial-intelligence models from companies including OpenAI, Anthropic and Meta Platforms used the internet to hack other organizations in recent weeks, fueling concerns that businesses and individuals aren\u2019t prepared for the cyber risks posed by the latest AI tools.\n\nWSJ break down how OpenAI\u2019s models broke out of their training environment to hack the AI company Hugging Face and explain what the hacks mean for the Trump administration\u2019s tech strategy.\n\nChapters:\n0:00 Rogue AI models\n0:47 How rogue attacks happen\n2:39 What these hacks mean\n3:25 U.S. vs. China\n4:50 AI guardrails\n\nNews Explainers\nSome days the high-speed news cycle can bring more questions than answers. WSJ\u2019s news explainers break down the day's biggest stories into bite-size pieces to help you make sense of the news.\n\n#AI #OpenAI #WSJ",
+        "id": 6188245,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=KLw0AY-bsVs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 363,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCK7tptUDHh-RYDsdxO1-5QQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/KLw0AY-bsVs/hqdefault.jpg",
+        "title": "How OpenAI and Anthropic\u2019s AI Models Go Rogue | WSJ",
+        "vote": 0
+    }
+]

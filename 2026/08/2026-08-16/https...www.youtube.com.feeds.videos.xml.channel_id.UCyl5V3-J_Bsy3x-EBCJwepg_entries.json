@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Babylon Bee",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-16T15:27:44.111685+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-16T13:00:02+00:00",
+        "description": "Read the article that inspired the reel at https://babylonbee.com/news/after-observing-adam-for-two-minutes-god-decides-mans-going-to-need-a-helper",
+        "id": 6187829,
+        "language": "en-US",
+        "link": "https://www.youtube.com/shorts/1ukZMvW-K5w",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 31,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCyl5V3-J_Bsy3x-EBCJwepg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/1ukZMvW-K5w/hqdefault.jpg",
+        "title": "After Observing Adam For Two Minutes, God Decides Man's Going To Need A Helper",
+        "vote": 0
+    }
+]

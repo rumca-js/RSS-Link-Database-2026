@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Marlene Lenthang",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-16T20:54:32.590158+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-16T20:44:40+00:00",
+        "description": "As a furious blaze raged inside a high-rise apartment building in Berlin, one woman was rescued by scaling the building\u2019s exterior and taking a terrifying leap more than two stories down to safety.",
+        "id": 6189048,
+        "language": "en-US",
+        "link": "https://www.nbcnews.com/world/germany/woman-leaps-11th-floor-ledge-firefighters-arms-berlin-high-rise-burns-rcna592815",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 224,
+        "source_url": "https://feeds.nbcnews.com/nbcnews/public/world",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-08/260816-berlin-fire-apartment-ww-1316-7dbf21.jpg",
+        "title": "Woman leaps from 11th-floor ledge into firefighter\u2019s arms as Berlin high-rise burns",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-16T11:55:20.528167+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-16T11:00:01+00:00",
+        "description": "Learn more about the 2026 Guide to AI Agents here \u2192 https://ibm.biz/~nlygweHxH\n\nConnecting AI agents to tools is harder than it looks. Grant Miller breaks down five proven patterns for integrating agents with tools, from simple APIs to secure token-based architectures. Learn how authentication, MCP, and vaults improve security and scalability in agentic systems.\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/~H9ZIaiRnS\n\nAI was used in the creation of the transcript and metadata for this video.\n\n#aiagents #aiarchitecture #tools #machinelearning #agenticai",
+        "id": 6187055,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=BHGTA6ZEls4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/BHGTA6ZEls4/hqdefault.jpg",
+        "title": "5 Ways to Connect AI Agents to Tools: From APIs to MCP",
+        "vote": 0
+    }
+]

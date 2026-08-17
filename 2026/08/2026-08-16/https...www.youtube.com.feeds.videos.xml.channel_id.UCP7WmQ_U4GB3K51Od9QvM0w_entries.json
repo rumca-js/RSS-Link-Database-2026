@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "David Bombal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-16T16:47:30.098454+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-16T13:30:16+00:00",
+        "description": "Thank you to Threatlocker for sponsoring my trip to Black Hat so I can interview amazing people.\n\nJen Easterly joins David Bombal to discuss why today\u2019s cybersecurity problem may actually be a software quality problem.\n\nFor decades, users and organizations have been blamed for failing to patch systems, change default passwords, or enable MFA. Jen argues that the bigger question is whether software vendors should be held responsible for shipping insecure products in the first place.\n\nThey discuss Secure by Design, software vulnerabilities, memory safety, AI security, zero-day attacks, rogue AI agents, critical infrastructure, vendor accountability, and how artificial intelligence could dramatically shorten the time between discovering a vulnerability and weaponizing it.\n\nJen also shares lessons from her career at the NSA, the White House, CISA, Morgan Stanley, the U.S. Army, and now RSAC, including her advice for hackers, cybersecurity professionals, and future leaders.\n\nTopics include",
+        "id": 6188179,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=TDCM0zp1hJ4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 984,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP7WmQ_U4GB3K51Od9QvM0w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/TDCM0zp1hJ4/hqdefault.jpg",
+        "title": "This is the Real Cybersecurity Problem",
+        "vote": 0
+    }
+]
