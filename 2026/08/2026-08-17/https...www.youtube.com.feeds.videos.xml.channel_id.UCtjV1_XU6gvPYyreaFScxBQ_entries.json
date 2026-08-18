@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Huawei",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-17T04:39:50.247877+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-17T04:04:31+00:00",
+        "description": "How does #Huawei stay ahead of the curve? Meet an #AI engineer helping large models think faster, work smarter, and keep pace with the world's accelerating compute demands.\n\n\u26a1 Quick thinking\n\ud83e\udde0 Relentless problem-solving\n\u23f3 Zero time for standing still\n\nLearn more: https://bit.ly/4gE4U2f #FacesOfHuawei",
+        "id": 6190372,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=elJDCbFuD5M",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 875,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtjV1_XU6gvPYyreaFScxBQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/elJDCbFuD5M/hqdefault.jpg",
+        "title": "Keeping Pace with the Compute Surge",
+        "vote": 0
+    }
+]

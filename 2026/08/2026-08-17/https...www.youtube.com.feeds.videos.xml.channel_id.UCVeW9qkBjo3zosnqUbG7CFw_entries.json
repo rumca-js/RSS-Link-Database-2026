@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Hammond",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-17T13:15:23.162435+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-17T12:02:35+00:00",
+        "description": "Okay, this one is interesting.\n\nI came across a post claiming to describe a cross-platform exploit kit with persistence and stealth techniques like registry run keys, scheduled tasks, and runtime AMSI patching. There are also some pretty obvious signs that the post itself was AI-generated.\n\nWatch the full video here: https://youtu.be/XZ4E2sHtNuw?si=pgOl5MYfpjqveG4C",
+        "id": 6192655,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/SjT-_Rw9Gqc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 959,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVeW9qkBjo3zosnqUbG7CFw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/SjT-_Rw9Gqc/hqdefault.jpg",
+        "title": "AI Malware Gets Weird",
+        "vote": 0
+    }
+]

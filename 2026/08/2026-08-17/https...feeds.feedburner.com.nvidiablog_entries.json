@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jensen Huang",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-17T14:47:19.906100+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-17T12:34:51+00:00",
+        "description": "AI factories are the defining infrastructure of the AI era \u2014 where compute transforms energy and data into intelligence that powers every business, industry and country. In the AI economy, compute is revenue. AI factories require a full stack of critical resources: advanced chips, packaging, memory, and networking \u2014 as well as land, power and [&#8230;]",
+        "id": 6193256,
+        "language": "en-US",
+        "link": "https://blogs.nvidia.com/blog/securing-the-infrastructure-of-intelligence",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 1019,
+        "source_url": "https://feeds.feedburner.com/nvidiablog",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://blogs.nvidia.com/wp-content/uploads/2026/08/partner-promo-pack-logo-lockup-openai-sbenergy-5590550_-press-1920x1080-1-842x450.png",
+        "title": "Securing the Infrastructure of Intelligence",
+        "vote": 0
+    }
+]

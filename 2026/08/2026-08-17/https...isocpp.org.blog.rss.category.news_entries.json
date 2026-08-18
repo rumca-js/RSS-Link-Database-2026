@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Blog Staff",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-17T22:04:21.495118+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-17T20:55:01+00:00",
+        "description": "<p>\n\t<img alt=\"SANDOR_DARGO_ROUND.JPG\" src=\"https://isocpp.org/files/img/SANDOR_DARGO_ROUND.JPG\" style=\"width: 200px; margin: 10px; float: right; height: 204px;\" />Memory management is one of those topics that every C++ developer has to deal with, yet very few of us take the time to study it systematically. <a href=\"https://amzn.to/441ob7B\">Memory Management in C++ by Patrice Roy</a> is a book that finally gives this fundamental topic the deep and up-to-date treatment it deserves. It covers everything from the basics of how objects live in memory to modern techniques introduced as recently as C++26.</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://www.sandordargo.com/blog/2026/06/17/memory-managenent-by-patrice-roy\">Book Review: Memory Management in C++ by Patrice Roy</a></h3>\n\t<p>\n\t\tby Sandor Dargo</p>\n</blockquote>\n<p>\n\tFrom the article:</p>\n<blockquote>\n\t<p>\n\t\tWhat impressed me right away is how current the book is. It discusses <a href=\"https://www.sandordargo.com/blog/2025/02/05/cpp26-e",
+        "id": 6196075,
+        "language": "en",
+        "link": "https://isocpp.org//blog/2026/08/book-review-memory-management-in-cpp-by-patrice-roy-sandor-dargo",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://isocpp.org/files/img/SANDOR_DARGO_ROUND.JPG",
+        "title": "Book Review: Memory Management in C++ by Patrice Roy -- Sandor Dargo",
+        "vote": 0
+    }
+]

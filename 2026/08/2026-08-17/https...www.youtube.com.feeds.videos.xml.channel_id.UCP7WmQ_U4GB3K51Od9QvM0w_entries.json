@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "David Bombal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-17T15:20:29.603564+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-17T14:00:28+00:00",
+        "description": "Microsoft gave BitLocker recovery keys to the FBI after receiving a valid legal order.\n\nBut that raises a much bigger question: Is your encrypted data really under your control if the recovery key is stored in the cloud?\n\nIn this video, David looks at Microsoft OneDrive, BitLocker encryption, cloud storage, and what can happen when companies receive legally valid government requests for customer data.\n\nThe important distinction is that Microsoft does not have a universal key that can decrypt every BitLocker drive. The issue applies when a BitLocker recovery key has been stored with Microsoft, meaning Microsoft possesses a key that may be provided in response to a valid legal order.\n\nSo where should you keep genuinely confidential data: in the cloud, or offline on storage you control?\n\n#bitlocker #cybersecurity #dataprivacy",
+        "id": 6193549,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/auO6PNiGuAg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 984,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP7WmQ_U4GB3K51Od9QvM0w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/auO6PNiGuAg/hqdefault.jpg",
+        "title": "Microsoft Gave BitLocker Keys to FBI",
+        "vote": 0
+    }
+]

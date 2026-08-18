@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unity",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-17T15:25:12.197989+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-17T14:20:20+00:00",
+        "description": "Discover new Editor features available from Unity 6.3. These include grid rotation, new data columns that display more details in the Hierarchy window, advanced lighting search, a stats overlay that displays CPU and GPU rendering times as well as memory consumption, Splash screen customization, drag and drop overlays improvements, and a detailed physics debugger window, with gizmo visualization in the Scene view.\n\n\ud83d\udd17 Link to documentation: https://on.unity.com/6_5_Docs\n\n[00:00] Introduction\n[00:09] Grid and snap settings\n[02:25] Hierarchy columns\n[03:18] Lighting search\n[05:24] Stats overlay\n[05:44] Splash screen\n[06:07] Drag and drop overlays\n[06:27] Physics debugger\n\n_______________\n\nStay connected with us: \nGames Twitter/X: https://x.com/unitygames\nInstagram: https://www.instagram.com/unitytechnologies/\nDiscord: https://discord.com/invite/unity\nDiscussions: https://discussions.unity.com/\nLinkedIn: https://www.linkedin.com/company/unity/\nFacebook: https://www.facebook.com/unity3d.in/",
+        "id": 6193575,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=CiPety1pnI4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 683,
+        "source_url": "https://youtube.com/channel/UCG08EqOAXJk_YXPDsAvReSg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/CiPety1pnI4/hqdefault.jpg",
+        "title": "New Unity Editor features to speed up your workflows",
+        "vote": 0
+    }
+]

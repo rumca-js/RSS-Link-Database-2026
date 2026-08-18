@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-17T16:24:04.991943+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-17T16:03:00+00:00",
+        "description": "Like a collage made of layered sheets of colored cellophane, a vibrant new image layers observations of a famous star-forming nebula from NASA space telescopes. The resulting cosmic \u201ccraft\u201d reveals new details about the star formation region known as 30 Doradus, or the Tarantula Nebula.",
+        "id": 6193990,
+        "language": "en-us",
+        "link": "https://www.nasa.gov/image-detail/30dor-crop",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 485,
+        "source_url": "https://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Colorful Collage of Tarantula Nebula",
+        "vote": 0
+    }
+]
