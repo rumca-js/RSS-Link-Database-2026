@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "AI Search",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-18T04:07:29.681387+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-18T03:30:45+00:00",
+        "description": "LTX 2.5 installation tutorial. Free open source AI video generator. How to use LTX 2.5 in ComfyUI #ai #aivideo #aitools #agi\n\nhttps://ltx.io/model/ltx-2-5\n\nMinimax H3 vs LTX 2.5 https://youtu.be/62HSUsS0ypo?t=880\nComfy workflow https://docs.comfy.org/tutorials/video/ltx/ltx-2-5\nLTX models https://huggingface.co/Lightricks/LTX-2.5\nMinimax + LTX upscaler https://github.com/peterducan-hub/PeterDuncan_Comfyui/blob/main/MINIMAX_H3_LTX2.5_Upscaler_v1.json\nLTX Director https://github.com/WhatDreamsCost/WhatDreamsCost-ComfyUI\n\n00:00 LTX 2.5 new features\n01:53 Downloading the models\n05:50 Text to video\n07:52 Image to video\n09:12 First last frame\n10:41 Using loras\n12:50 For low vram\n15:00 Minimax + LTX upscaler\n15:32 LTX Director\n\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSupport: https://ko-fi.com/aisearch\n\nHere's my equipment, in case you're wondering:\nLenovo Thinkbook: https://amzn.to/4jWeKwH\nDell Precision 5690: https://www.dell.com/en-us/dt/ai-t",
+        "id": 6197375,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=ig3PUfSow5Y",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 806,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIgnGlGkVRhd4qNFcEwLL4A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/ig3PUfSow5Y/hqdefault.jpg",
+        "title": "The FASTEST local AI video generator",
+        "vote": 0
+    }
+]

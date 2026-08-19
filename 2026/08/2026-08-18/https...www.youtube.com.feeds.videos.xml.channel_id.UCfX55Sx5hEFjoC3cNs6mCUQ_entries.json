@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Foundation",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-18T16:55:26.964906+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-18T16:38:53+00:00",
+        "description": "The Cap(AI)bility Edge: Why Workforce Upskilling Is Becoming the Defining Competitive Advantage of the AI Era\n\nSponsored by LF Education, LF Research, & KodeKloud\n\nAI is reshaping the technical workforce faster than most organizations can respond. But the story playing out in the headlines about AI eliminating jobs, shrinking teams, and displacing developers, is not the story the data tells.\n\nThe 2026 State of Tech Talent Report reveals a different reality: AI is a net driver of job creation in IT (+31% net hiring effect in 2026), and the organizations struggling most are not struggling because they can't find people. They're struggling because they lack the capAIbility to deploy AI safely, securely, and at scale.\n\nSecurity concerns have jumped from the last-place barrier to technology adoption in 2024 to the number-one barrier in 2026. Most organizations haven't deployed the foundational infrastructure AI requires. And the talent gap is not just in AI, it runs across the full stack: ",
+        "id": 6201551,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=nxWD42TyRgI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 499,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfX55Sx5hEFjoC3cNs6mCUQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/nxWD42TyRgI/hqdefault.jpg",
+        "title": "LF Live Webinar: The Cap(AI)bility Edge",
+        "vote": 0
+    }
+]

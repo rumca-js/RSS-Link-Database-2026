@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Sophia Cope",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-19T00:28:47.545213+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-18T23:23:50+00:00",
+        "description": "<div class=\"field field--name-body field--type-text-with-summary field--label-hidden\"><div class=\"field__items\"><div class=\"field__item even\"><p>A federal appeals court just made it harder for online services, big and small, to get lawsuits over user speech dismissed early. In <a href=\"https://cdn.ca9.uscourts.gov/datastore/opinions/2026/08/10/24-7032.pdf\"><em>California v. Meta</em></a>, a Ninth Circuit three-judge panel held that the lower court\u2019s denial of Section 230 immunity to Meta is not immediately appealable. The misguided ruling has the potential to have widespread impact and to threaten the free speech of all internet users.</p>\n<p>The ruling is bigger than a loss for Meta, which has the resources to defend itself against these lawsuits. The court\u2019s ruling signals that all online services (and internet users) that host others\u2019 speech\u2014including those without Meta\u2019s deep pockets\u2014must bear the burden and expense of fighting lawsuits that Section 230 ultimately precludes. This ",
+        "id": 6204153,
+        "language": "en",
+        "link": "https://www.eff.org/deeplinks/2026/08/ninth-circuit-ruling-will-force-online-platforms-host-user-speech-fight-lengthy",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 101,
+        "source_url": "https://www.eff.org/rss/updates.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Ninth Circuit Ruling Will Force Online Platforms That Host User Speech to Fight Lengthy and Costly Lawsuits Before They Are Dismissed Under Section 230",
+        "vote": 0
+    }
+]

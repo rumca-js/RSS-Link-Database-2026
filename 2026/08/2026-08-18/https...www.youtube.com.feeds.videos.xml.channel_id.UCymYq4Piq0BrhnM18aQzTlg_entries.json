@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Lon.TV",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-18T22:51:08.968133+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-18T22:45:49+00:00",
+        "description": "Find the Intel GPU on Amazon - https://lon.tv/ma1ys (compensated affiliate link) - The new Qwen 3.8 26B model is so good it's rivaling cloud based AI solutions for me. I picked up a new Intel GPU that can fit not only the full dense model but also a significant amount of context too. See more in this series: https://www.youtube.com/playlist?list=PLfqUj3TrcUR8 and subscribe to my email list! http://lon.tv/email\n\nOculink Dock - https://lon.tv/jt1up (compensated affiliate link)\nMinisforum PC - https://lon.tv/wqxat\n\nLinks:\nMy Configuration: https://lon.tv/sycl\nSpace Invaders comparison: https://lon.tv/aidemo/\nOculink Info : https://www.youtube.com/playlist?list=PLCZHp4d1HnItjakNpg7ufmyyLEjljOQbg\n\nVIDEO INDEX:\n00:00 - Intro\n03:28 - GPU Price\n04:59 - Power Consumption\n05:41 - OS Choice\n05:50 - How I set it up\n07:25 - Space Invaders Code Test\n08:09 - The Gadget Tracker App\n09:47 - Opencode - Making Changes to the App\n11:59 - Context Explained\n13:00 - Testing the Code Change\n13:56 - Web scrap",
+        "id": 6203721,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=bLac7-toF68",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 199,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCymYq4Piq0BrhnM18aQzTlg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/bLac7-toF68/hqdefault.jpg",
+        "title": "A 32GB GPU for a Third of the Price? Intel's B70 for Local AI",
+        "vote": 0
+    }
+]

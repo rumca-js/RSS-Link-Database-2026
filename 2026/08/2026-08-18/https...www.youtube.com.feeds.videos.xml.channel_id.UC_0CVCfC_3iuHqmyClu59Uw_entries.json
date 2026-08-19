@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ETA PRIME",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-18T16:01:09.210516+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-18T15:47:05+00:00",
+        "description": "Intel Arc support has officially arrived on SteamOS, and we are testing the brand new Intel Arc B580 to see if it can power the ultimate budget Steam Machine! In this video, we dive into the SteamOS 3.9 Beta to benchmark 1440p gaming performance directly on Intel Battlemage. While it's not perfect\u2014thanks to the open-source Linux Mesa drivers currently missing support for Intel's XMX AI engines and Frame Generation\u2014the raw performance using FSR and base XeSS is still incredibly impressive.\n\nFollow Me On Twitter: https://twitter.com/theetaprime\nFollow Me On Instagram: https://www.instagram.com/etaprime/\n\nVip-URCDKey 25% code for software: ETA\u00a0\nWindows 11 Pro Key($25):https://biitt.ly/RUZiX\u00a0\nWindows 11 Home Key($23):https://biitt.ly/SQKqi\u00a0\nWindows 10 Pro OEM Key($20):https://biitt.ly/KpEmf\u00a0\nWindows10 Home Key($17):https://biitt.ly/2tPi1\u00a0\nWindows 10 LTSC 2021 Key($15): https://biitt.ly/W564e\u00a0\nOffice 2019 pro key($63):https://biitt.ly/o0OQT\n2016 pro key($32): https://biitt.ly/xWmvn\u00a0\nBuy Wi",
+        "id": 6201106,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=SFTsnwjNiZ0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 100,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_0CVCfC_3iuHqmyClu59Uw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/SFTsnwjNiZ0/hqdefault.jpg",
+        "title": "Intel Arc Finally Works on SteamOS (And It's Amazing)",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Shira Ovide",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-18T21:23:38.783745+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-18T20:25:34+00:00",
+        "description": "A new survey adds to the evidence that Americans are skeptical that artificial intelligence will have positive effects on daily life or the job market.",
+        "id": 6203276,
+        "language": "en-US",
+        "link": "https://www.washingtonpost.com/technology/2026/08/18/americans-under-30-are-becoming-more-pessimistic-about-artificial-intelligence",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 364,
+        "source_url": "https://feeds.washingtonpost.com/rss/business/technology",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Young Americans really hate AI. These two charts show how much.",
+        "vote": 0
+    }
+]

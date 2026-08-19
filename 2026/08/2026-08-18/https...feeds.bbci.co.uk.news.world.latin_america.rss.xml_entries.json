@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-18T13:25:50.899161+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-18T13:13:54+00:00",
+        "description": "Environmentalists have heavily criticised the exploratory drilling in the sea off the mouth of the Amazon.",
+        "id": 6199898,
+        "language": "en-gb",
+        "link": "https://www.bbc.co.uk/news/articles/c4gd7xd8e8lo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 524,
+        "source_url": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5240/live/17e6ceb0-9ae0-11f1-b2f7-5d1639b20e22.jpg",
+        "title": "Brazil's President Lula hails oil discovery near Amazon river",
+        "vote": 0
+    }
+]

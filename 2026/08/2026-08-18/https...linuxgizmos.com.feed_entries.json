@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-18T04:52:32.984835+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-18T03:58:42+00:00",
+        "description": "Crowd Supply recently featured the USBridge-KVM 2.0, a compact IP-KVM designed for remote system administration, debugging, and bare-metal recovery. The device provides HDMI video capture, USB keyboard and mouse emulation, virtual media, hardware power control, BIOS text recognition, and an integrated display while operating independently of the target computer&#8217;s operating system. The USBridge-KVM 2.0 is [&#8230;]",
+        "id": 6197480,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/radxa-zero-3w-powers-compact-ip-kvm-with-bios-ocr",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Radxa Zero 3W Powers Compact IP-KVM with BIOS OCR",
+        "vote": 0
+    }
+]

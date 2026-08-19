@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-18T15:56:55.175100+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-18T15:16:00+00:00",
+        "description": "NASA's Boeing 777 returns to the agency's Langley Research Center after receiving a new paint scheme.",
+        "id": 6201076,
+        "language": "en-us",
+        "link": "https://www.nasa.gov/image-detail/jsc2026e407303",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 485,
+        "source_url": "https://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "NASA's B777 Gets New Coat of Paint",
+        "vote": 0
+    }
+]

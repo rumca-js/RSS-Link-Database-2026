@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "James Warrington",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-18T12:48:23.229329+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-18T12:23:16+00:00",
+        "description": "Unemployment rate fails to fall for Burnham",
+        "id": 6199603,
+        "language": "en-UK",
+        "link": "https://www.telegraph.co.uk/business/2026/08/18/unemployment-uk-economy-jobs-burnham",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 81,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 354,
+        "source_url": "https://www.telegraph.co.uk/business/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Unemployment rate fails to fall for Burnham",
+        "vote": 0
+    }
+]

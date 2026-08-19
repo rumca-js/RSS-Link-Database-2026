@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "David Bombal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-18T15:49:37.313148+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-18T14:00:12+00:00",
+        "description": "Big thank you to DeleteMe for sponsoring this video. Use my link https://joindeleteme.com/Bombal to receive a 20% discount or use the QR Code in the video. \n\nWant to replace Windows with the most secure operating system you can run today? In this step by step tutorial, David Bombal shows you how to download and install Qubes OS and completely replace Windows on your laptop. Qubes OS is a free, Linux-based operating system built around strong security through VM isolation, and it is trusted by security-focused users and organizations. The video references praise\nfor Qubes from Edward Snowden, Mullvad, and the EFF before walking through the full install.\n\nYou will start by checking the Qubes OS documentation and installation guide, including the hardware requirements: a 64-bit Intel or AMD processor with Intel VT-x or AMD-V for nested virtualization, at least 6 GB of RAM (16 GB recommended) and 32 GB of storage (128 GB recommended), plus a look at the hardware compatibility list and cer",
+        "id": 6201006,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=JZK6h-4QZgQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 984,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP7WmQ_U4GB3K51Od9QvM0w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/JZK6h-4QZgQ/hqdefault.jpg",
+        "title": "How to install Qubes OS and replace Windows (step by step)",
+        "vote": 0
+    }
+]

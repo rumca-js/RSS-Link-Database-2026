@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Web Dev Simplified",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-18T17:28:35.195942+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-18T16:00:21+00:00",
+        "description": "The browser is constantly releasing new features, but your AI doesn\u2019t even know they exist. Your browser even has old features your AI refuses to use. In this video I will be showing you 10 amazing browser features (some old and some new), that will drastically improve the quality of your code.\n\n\n\ud83d\udcda Materials/References:\n\nFull Lazy Load Images Video: https://youtu.be/hJ7Rg1821Q0\nLazy Load Images Article: https://blog.webdevsimplified.com/2023-05/lazy-load-images\n\n\n\ud83c\udf0e Find Me Here:\n\nMy Blog: https://blog.webdevsimplified.com\nMy Courses: https://courses.webdevsimplified.com\nPatreon: https://www.patreon.com/WebDevSimplified\nTwitter: https://twitter.com/DevSimplified\nDiscord: https://discord.gg/7StTjnR\nGitHub: https://github.com/WebDevSimplified\nCodePen: https://codepen.io/WebDevSimplified\n\n\n\u23f1\ufe0f Timestamps:\n\n00:00 - Introduction\n00:47 - #1 - Browser Locks\n05:26 - #2 - Browser Share\n06:23 - #3 - Vibrate API\n07:12 - #4 - Screen Wake API\n08:24 - #5 - #6 - Color Picker and Clipboard API\n09:15 - ",
+        "id": 6201737,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=QMG5F64b454",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 994,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFbNIlppjAuEX4znoulh0Cw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/QMG5F64b454/hqdefault.jpg",
+        "title": "10 Hidden Browser Features AI Forgot to Tell You About",
+        "vote": 0
+    }
+]
