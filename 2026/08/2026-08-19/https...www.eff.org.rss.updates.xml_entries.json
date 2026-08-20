@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Hudson Hongo",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-19T17:11:16.383306+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-19T16:35:30+00:00",
+        "description": "<div class=\"field field--name-body field--type-text-with-summary field--label-hidden\"><div class=\"field__items\"><div class=\"field__item even\"><p>Your location isn't just a pin on a map\u2014it can expose some of the most intimate details about your life. The value of this information to advertisers and others has turned the location data business into a multi-billion dollar industry. In <a href=\"https://eff.org/effector/38/14\">our latest EFFector newsletter</a>, we're covering a\u00a0new EFF report\u00a0on\u00a0how ad libraries encourage apps to leak user location data\u2014potentially without app developers themselves even realizing it.</p>\n<p class=\"take-action\"><a href=\"https://www.eff.org/effector/\">JOIN OUR NEWSLETTER</a></p>\n<p><span>For over 35 years,\u00a0<a href=\"https://eff.org/effector\">EFFector</a>\u00a0has been your guide to understanding the intersection of technology, civil liberties, and the law. This issue covers what\u00a0<a href=\"https://www.eff.org/deeplinks/2026/08/too-little-too-late-flock-admits-their",
+        "id": 6209230,
+        "language": "en",
+        "link": "https://www.eff.org/deeplinks/2026/08/sneaky-code-tracking-app-users-effector-3815",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 101,
+        "source_url": "https://www.eff.org/rss/updates.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.eff.org/sites/all/modules/custom/mytube/play.png",
+        "title": "\ud83d\udccd The Sneaky Code Tracking App Users | EFFector 38.15",
+        "vote": 0
+    }
+]

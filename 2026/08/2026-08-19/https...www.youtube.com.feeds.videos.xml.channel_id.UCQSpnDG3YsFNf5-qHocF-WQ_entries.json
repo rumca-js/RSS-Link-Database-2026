@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ThioJoe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-19T16:31:00.239368+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-19T15:45:01+00:00",
+        "description": "What is YouTube thinking with this update \ud83e\udee9\n\nYouTube has decided to update how views are counted and displayed for all videos. You'd think with such a fundamental change, that they'd have good reason to do so (Lol). Basically they're going to start counting a view as when the video plays from the very first frame. But worse, they seem to specifically doing this so that AUTOPLAYED views are the main source of these \"views\". Before it would takes a few seconds after autoplaying to, you know make sure someone actually wanted to watch it before counting. But now, if a video autoplays, and a person clicks off immediately because they don't want to watch, it will still count. Incredibly stupid in my opinion. So I talk about all that and possible reasons for them doing this.\n\nTime Stamps:\n0:00 - Intro\n0:14 - The Update\n0:42 - Why It\u2019s Dumb\n1:45 - It Gets Worse\n3:54 - WHAT Are They Thinking\n5:20 - An Important Point\n7:09 - What\u2019s the REAL Reason\n7:57 - The Only Arguable Reason\n9:02 - Is This ",
+        "id": 6208858,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=r7epWYqRqog",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 366,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQSpnDG3YsFNf5-qHocF-WQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/r7epWYqRqog/hqdefault.jpg",
+        "title": "Dumb New YouTube Update",
+        "vote": 0
+    }
+]

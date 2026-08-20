@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ryan Daws",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-19T15:31:29.941682+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-19T15:20:49+00:00",
+        "description": "<p>AWS DevOps Agent automates CI/CD failure investigation by linking GitHub commits to pipeline errors inside CodePipeline. Quality engineering leaders face a decision that goes beyond tooling preference: keep manual log correlation as the default response to a broken pipeline, or hand that first-pass investigation to an automated agent. AWS has published a walkthrough describing how [&#8230;]</p>\n<p>The post <a href=\"https://www.developer-tech.com/news/aws-devops-agent-traces-pipeline-failures-github-commits/\">AWS DevOps Agent traces pipeline failures to GitHub commits</a> appeared first on <a href=\"https://www.developer-tech.com\">Developer Tech News</a>.</p>",
+        "id": 6208406,
+        "language": "en-GB",
+        "link": "https://www.developer-tech.com/news/aws-devops-agent-traces-pipeline-failures-github-commits",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 92,
+        "source_url": "https://www.developer-tech.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "AWS DevOps Agent traces pipeline failures to GitHub commits",
+        "vote": 0
+    }
+]

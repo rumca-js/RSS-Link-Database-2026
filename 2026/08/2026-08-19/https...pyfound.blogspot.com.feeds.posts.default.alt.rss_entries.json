@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-19T13:57:30.473481+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-19T12:53:50+00:00",
+        "description": "<p><i>Written by Jacob Coffee, Director of Engineering at the Python Software Foundation</i></p>\n\n<p>Working on infrastructure at the Python Software Foundation (PSF) as the Director of Engineering is a broad job with many hats. Python turns up everywhere. It's in healthcare systems and government agencies, in research labs and classrooms, in one-person side projects and in infrastructure at companies with six-figure headcounts. Somebody is using it to analyze a genome right now and somebody else is using it to automate a spreadsheet they hate arranging by hand. That range has always been the interesting part of the PSF's work, and it's only broadened in the last couple of years as AI continues to pull people from many disciplines into writing Python.</p>\n\n<p>At the PSF we support and maintain the infrastructure behind PyPI, Python.org, PyCon US, CPython, and a growing number of community services. The majority of the PSF's infrastructure runs on <a href=\"https://aws.amazon.com/openso",
+        "id": 6207813,
+        "language": "en",
+        "link": "https://pyfound.blogspot.com/2026/08/how-aws-powers-pypi-and-psf.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 267,
+        "source_url": "https://pyfound.blogspot.com/feeds/posts/default?alt=rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "How AWS Powers PyPI and the PSF",
+        "vote": 0
+    }
+]

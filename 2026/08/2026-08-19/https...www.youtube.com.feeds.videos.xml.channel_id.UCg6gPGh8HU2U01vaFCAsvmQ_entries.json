@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Chris Titus Tech",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-19T11:57:23.021460+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-19T11:15:09+00:00",
+        "description": "GitHub Copilot is actually a surprisingly good GitHub app\u2026 once you stop thinking of it as Copilot.\n\nIn this video, I show how I\u2019m using the GitHub Copilot desktop app on Linux as a dashboard for managing repositories, issues, pull requests, notifications, and daily triage across a massive number of projects.\n\nI\u2019ll also show how I bypass the built-in Copilot subscription and connect my existing OpenAI Codex subscription through CLIProxyAPI, giving me one AI subscription that I can use across multiple applications.\n\nFor developers managing dozens or even hundreds of repositories, this has become a surprisingly useful way to prioritize issues, organize PRs, keep local repositories synchronized, and figure out what actually needs attention.\n\nArticle link: https://christitus.com/github-copilot-on-linux/\n\nThanks to Blacksmith for sponsoring this video. I\u2019ve been using their GitHub Actions runners and caching to significantly reduce CI build times.\nhttps://link.christitus.com/blacksmith\n\n**",
+        "id": 6207010,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=sspesgDbWLc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 444,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCg6gPGh8HU2U01vaFCAsvmQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/sspesgDbWLc/hqdefault.jpg",
+        "title": "GitHub Copilot App Is Actually Good\u2026 Just Not with Copilot",
+        "vote": 0
+    }
+]

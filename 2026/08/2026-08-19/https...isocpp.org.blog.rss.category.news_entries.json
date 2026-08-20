@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Blog Staff",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-19T22:11:46.945972+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-19T20:57:20+00:00",
+        "description": "<p>\n\t<img alt=\"avatar.jpg\" src=\"https://isocpp.org/files/img/avatar.jpg\" style=\"width: 200px; margin: 10px; float: right; height: 200px;\" />Dispatch tables are a common way to map names to functions, but traditional C++ implementations inevitably involve either repetitive boilerplate or runtime initialization. C++26&#39;s static reflection opens the door to a fundamentally different approach, allowing the compiler to discover functions, build the dispatch table, and optimize its representation entirely at compile time.</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://noqtabeda.github.io/2026/06/20/cpp26-dispatch-table_en/\">Dispatch Table with C++26 Reflection - Zero Boilerplate &amp; Zero Runtime Overhead</a></h3>\n\t<p>\n\t\tby NoqtaBeda</p>\n</blockquote>\n<p>\n\tFrom the article:</p>\n<blockquote>\n\t<p>\n\t\tAs compile-time reflection is finally adopted to C++26 standard, developers are enabled to fetch and operate on the metadata of the C++ program itself. Metadata of various C++ entities (variables, ",
+        "id": 6211222,
+        "language": "en",
+        "link": "https://isocpp.org//blog/2026/08/dispatch-table-with-cpp26-reflection-zero-boilerplate-zero-runtime-overhead",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://isocpp.org/files/img/avatar.jpg",
+        "title": "Dispatch Table with C++26 Reflection - Zero Boilerplate &amp; Zero Runtime Overhead -- NoqtaBeda",
+        "vote": 0
+    }
+]

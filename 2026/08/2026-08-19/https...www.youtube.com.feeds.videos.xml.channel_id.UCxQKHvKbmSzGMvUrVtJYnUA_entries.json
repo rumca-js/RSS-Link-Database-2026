@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Learn Linux TV",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-19T17:52:17.825997+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-19T15:00:39+00:00",
+        "description": "Is openSUSE Leap the stable Linux distribution you\u2019ve been overlooking? In this review, I explore the installation process, KDE Plasma desktop, Btrfs and Snapper support, reliability, and how openSUSE Leap compares with other popular Linux distros.\n\nFind out who openSUSE Leap is for - and whether its dependable desktop experience makes it the right Linux distro for you.\n\n\ud83d\udcd6 *Get my \"Switching to Linux\" book* \u279c https://learnlinux.link/stl-deal\n\n*\ud83d\udc27 Save on Linux Foundation Training and Certifications*\n\nWhether you're beginning a Linux career or advancing your existing skills, Linux Foundation training can help you stand out. Save 30% (or more) on eligible Linux Foundation training and certifications:\nhttps://learnlinux.link/get-certified\n\n*\ud83d\udd17 Relevant Links*\n\n- Check out openSUSE Leap \u279c https://get.opensuse.org/leap/16.0\n- Check out openSUSE Tumbleweed \u279c https://get.opensuse.org/tumbleweed\n\n*\ud83d\udcda Courses, Books, Discounts and More*\n\nBuild your skills, find useful Linux resources, and support",
+        "id": 6209583,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=szqcqDITKzs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 997,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxQKHvKbmSzGMvUrVtJYnUA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/szqcqDITKzs/hqdefault.jpg",
+        "title": "openSUSE Leap 16.0 Review - Stable, Reliable and Surprisingly Good",
+        "vote": 0
+    }
+]

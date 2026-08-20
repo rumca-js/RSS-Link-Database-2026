@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-19T12:27:03.024428+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-19T10:00:28+00:00",
+        "description": "Explore the podcast  \u2192 https://ibm.biz/~msEZOskFL\n\nCybersecurity leaders are flush with cash\u2014earmarked for AI, mind you\u2014and eager to spend it. What they don\u2019t have is a plan for how.\n\nThis week on Security Intelligence, Claire Nu\u00f1ez, Curtis Pitts and Dave Bales join host Matt Kosinski to talk about why so many security teams are experience AI decision fatigue\u2014and what to do about it.\n\nThen, we discuss Tenet Security\u2019s DEFCON presentation on ghostjacking, a new method for sneaking malicious prompts into some of our most trusted data sources (logs, alerts, error reports). Because regular prompt injections are just too vanilla.\n\nOh, and speaking of how to deploy AI in cybersecurity: Research from 1Password shows LLMs are a lot better at exploiting vulnerabilities than patching them. What does that mean for defenders?\n\nFind out all this\u2014and more\u2014on Security Intelligence.\n\n00:00 - Introduction\n1:04 - Cybersecurity\u2019s AI paralysis\n10:45 - Ghostjacking\n20:53 - Is AI bad at patching?\n\nAgentic ",
+        "id": 6207160,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=3zhveTN1VzE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/3zhveTN1VzE/hqdefault.jpg",
+        "title": "What should security leaders do with AI? They don\u2019t know.",
+        "vote": 0
+    }
+]

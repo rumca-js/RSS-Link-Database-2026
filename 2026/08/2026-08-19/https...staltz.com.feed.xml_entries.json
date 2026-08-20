@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Andr\u00e9 Staltz",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-19T01:42:57.574175+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-19T01:42:48.162412+00:00",
+        "description": "<p>I hate analog clocks. It takes (slightly) too long to read them, so I've preferred digital clocks my entire life.</p>\n<p>However, digital clocks tell you a point in time and nothing else. They have no any visual cue to help see the passage of time. Analog clocks have motion, and as a result help the user associate difference in needle angle to difference in time.</p>\n<p>I felt like building a simpler analog clock, so I went ahead and built one for myself. My goal is simplicity, quickness to read (must be &lt;1 second), and elegance. I also want to live a calmer lifestyle where I'm not monitoring every single minute.</p>\n<div id=\"one-handed-clock\"><style>#one-handed-clock{--face:#fff;--face-border:#b4b2a9;--tick-hour:#2c2c2a;--tick-minor:#888780;--numbers:#2c2c2a;--hand:#2c2c2a;--hand-outline:rgba(44,44,42,.4);display:flex;flex-direction:column;align-items:center;gap:1rem;font-family:system-ui,-apple-system,\"Segoe UI\",sans-serif}[data-theme=dark] #one-handed-clock{--face:#1f1e1d;--f",
+        "id": 6204495,
+        "language": "en-US",
+        "link": "https://staltz.com/one-handed-clock.html",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 19,
+        "source_url": "https://staltz.com/feed.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://staltz.com/img/onehandedclock.jpg",
+        "title": "One-handed clock",
+        "vote": 0
+    }
+]

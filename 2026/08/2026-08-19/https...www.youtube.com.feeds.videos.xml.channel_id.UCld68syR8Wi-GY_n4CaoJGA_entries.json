@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-19T18:23:16.858506+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-19T17:30:04+00:00",
+        "description": "A few months back the choice was made to kill off support for ancient x86 CPUs by making a feature called TSC the Time Stamp Counter a mandatory requirement for booting, so lets talk about what CPUs are effected.\n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\nTSC Patch: https://git.kernel.org/pub/scm/linux/kernel/git/tip/tip.git/commit/?h=x86/cpu&id=111cbb4596e336373ab93e202918f4cdbf78a4c3\nRemove i486: https://www.phoronix.com/news/Linux-7.1-Begins-Removing-i486\nRemove AMD K5: https://www.phoronix.com/news/AMD-K5-CPUs\nRemove KDE Elan: ttps://www.phoronix.com/news/AMD-Elan-Linux-Driver-Removal\nRemove i386: https://www.phoronix.com/news/MTI0OTg\n\n=========Video Platforms==========\n\ud83c\udfa5 React: https://www.youtube.com/@BrodieRobertsonReacts\n\ud83c\udfa5 Podcast: https://techovertea.xyz/y",
+        "id": 6209769,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=_spBu9pKcNo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/_spBu9pKcNo/hqdefault.jpg",
+        "title": "Linux Kills Even More Old Hardware",
+        "vote": 0
+    }
+]

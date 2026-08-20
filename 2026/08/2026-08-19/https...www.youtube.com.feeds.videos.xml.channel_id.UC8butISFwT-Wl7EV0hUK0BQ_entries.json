@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-19T10:09:49.625660+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-19T10:00:28+00:00",
+        "description": "Learn how to build a complete reinforcement learning framework from scratch in C. The course begins with constructing a custom computational graph and automatic differentiation (autograd) engine to handle matrix operations alongside forward and backward passes. It then walks through developing a standalone Snake game environment from the ground up, including custom state vector encoding and collision reward logic. Finally, the lesson ties everything together by implementing the REINFORCE policy gradient algorithm, trajectory rollouts, and an end-to-end training pipeline to train the agent.\n\n\ud83d\udcbb Code: https://github.com/harshbhatt7585/cRL\n\n\u270f\ufe0f Course created by @harshbhatt7585 \nsocials: \nTwitter: https://x.com/harshbhatt7585\nInsta:   harshbhatt.ai\n\n\u2b50\ufe0f Chapters \u2b50\ufe0f\n- 0:00:00 Introduction & Overview\n- 0:02:48 Setting Up the Autograd Engine & Variables\n- 0:16:09 Matrix Creation & Allocation Logic\n- 0:26:27 Building Nodes & Computational Graph Traversal\n- 0:56:12 Forward & Backward Activation ",
+        "id": 6206388,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=R5fPn6W8m6k",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/R5fPn6W8m6k/hqdefault.jpg",
+        "title": "Code a Reinforcement Learning Library in C from Scratch (Full Course)",
+        "vote": 0
+    }
+]

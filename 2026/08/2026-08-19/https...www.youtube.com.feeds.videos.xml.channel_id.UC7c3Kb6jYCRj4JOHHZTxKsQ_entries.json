@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "GitHub",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-19T16:46:33.527786+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-19T15:00:07+00:00",
+        "description": "The GitHub podcast is back for season 2 with new co-hosts Cassidy, Marlene, and GPS! In this premiere episode, the team looks back at standout moments from season 1, including hot takes on Electron performance, Model Context Protocol (MCP), and solving maintainer paper cuts. They also share their personal career journeys across cloud engineering, Python advocacy, and web development. Stick around to hear their weekly open source project recommendations.\n\n#GitHubPodcast #OpenSource #MCP\n\n\u2014 CHAPTERS \u2014\n\n00:00 Welcome to season 2 of the GitHub podcast\n01:06 Recapping favorite season 1 episodes\n06:21 Meet the hosts: GPS and Learn to Cloud\n09:33 Meet the hosts: Marlene, Python, and LangChain\n14:18 Meet the hosts: Cassidy and web development\n19:02 Weekly open source picks\n22:35 Wrap-up and host socials\n\nStay up-to-date on all things GitHub by connecting with us:\n\nYouTube: https://gh.io/subgithub\nBlog: https://github.blog\nX: https://twitter.com/github\nLinkedIn: https://linkedin.com/company/gi",
+        "id": 6208956,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=i3i5eiTm6jU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 1005,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7c3Kb6jYCRj4JOHHZTxKsQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/i3i5eiTm6jU/hqdefault.jpg",
+        "title": "Favorite episodes and open source picks | S02E01 | The GitHub Podcast",
+        "vote": 0
+    }
+]

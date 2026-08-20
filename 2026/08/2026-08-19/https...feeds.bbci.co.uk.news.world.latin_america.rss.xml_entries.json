@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-19T12:49:54.971255+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-19T12:25:30+00:00",
+        "description": "It is not yet clear what caused the two vehicles to crash into each other in the early hours of Wednesday morning.",
+        "id": 6207281,
+        "language": "en-gb",
+        "link": "https://www.bbc.co.uk/news/articles/cpvwgk1n2k8o",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 524,
+        "source_url": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a986/live/d6173c80-9bbc-11f1-ae8a-8d57110c5ba6.jpg",
+        "title": "Head-on collision between bus and lorry in Brazil kills more than 20",
+        "vote": 0
+    }
+]

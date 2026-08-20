@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unity",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-19T21:36:09.186964+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-19T20:15:32+00:00",
+        "description": "A custom template is a packaged version of a project that you can reuse when you create a project in the Hub. You can create them from blank projects, sample projects or your own projects. You can also share these with teammates to ensure consistency across the team.\n\n[00:00] Introduction\n[00:29] Create a template project\n[02:10] Create a template\n[06:35] Using the template\n[07:04] Sharing a template\n[08:22] Create a scene template\n\n\ud83d\udd17 Want to learn more? Check out the documentation: https://docs.unity.com/en-us/hub/templates-create-custom\n\n_______________\n\nStay connected with us: \nGames Twitter/X: https://x.com/unitygames\nInstagram: https://www.instagram.com/unitytechnologies/\nDiscord: https://discord.com/invite/unity\nDiscussions: https://discussions.unity.com/\nLinkedIn: https://www.linkedin.com/company/unity/\nFacebook: https://www.facebook.com/unity3d.in/\nBluesky: https://bsky.app/profile/unity.com\nCompany Twitter/X: https://x.com/unity\n\n#Unity",
+        "id": 6210988,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=PNm_JUJY6fw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 683,
+        "source_url": "https://youtube.com/channel/UCG08EqOAXJk_YXPDsAvReSg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/PNm_JUJY6fw/hqdefault.jpg",
+        "title": "Create your own custom templates for the Unity Hub",
+        "vote": 0
+    }
+]

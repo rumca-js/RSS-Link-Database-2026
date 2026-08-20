@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-19T12:15:41.269037+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-19T11:19:12+00:00",
+        "description": "The ChatGPT-maker said training will be slowed for two weeks while it puts the upgrades in place.",
+        "id": 6207062,
+        "language": "en-US",
+        "link": "https://www.bbc.co.uk/news/articles/c235dmndylzo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 28,
+        "source_url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc62/live/f7f452d0-9bbb-11f1-9cab-ed9e722cbe4c.jpg",
+        "title": "OpenAI slows down training after its AI carried out hack",
+        "vote": 0
+    }
+]

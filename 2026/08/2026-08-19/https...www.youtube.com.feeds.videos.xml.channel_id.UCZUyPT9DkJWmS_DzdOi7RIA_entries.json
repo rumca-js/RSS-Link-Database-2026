@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Caleb Curry",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-19T19:15:37.354934+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-19T18:44:54+00:00",
+        "description": "FREE - Get my video notes: https://www.codebreakthrough.com/products/63765398-fb1e\nhttps://www.coursecatalyst.com/elite\n\nTimestamps\n00:00 - intro\n02:46 - Getting Started\n03:50 - Getting an API Key\n05:08 - Setting up a Workspace\n06:36 - First Prompt\n07:47 - Important Config\n10:26 - Initialize our Project\n11:45 - Creating a Vault\n15:03 - Creating Skills\n18:05 - Deterministic Behavior\n20:05 - Permissions and Plugins\n27:54 - Create a Detailed Spec\n34:26 - Deepseek Harness Subagents\n35:39 - Reviewing our Spec\n37:06 - Working with other Models\n38:31 - Local Models\n41:51 - Different Provider Subagents\n43:23 - Project Review\n\n\u2699\ufe0f Backend Engineering Mind Map - https://calcur.tech/mindmap\n\n\ud83d\udcaf FREE Courses (100+ hours) - https://calcur.tech/free-courses\n\ud83c\udfc6 C++ Mastery Course - https://www.codebreakthrough.com/cpp-mastery\n\ud83d\udc0d Backend Python Course - https://calcur.tech/backend-python\n\ud83e\udd47 Python Mastery Course  - https://calcur.tech/python-mastery\n\n~~~~~~~~~~~~~~~ CONNECT ~~~~~~~~~~~~~~~\n\n\u2709\ufe0f Newsletter ",
+        "id": 6210152,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=h5tIniAH5ec",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 418,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZUyPT9DkJWmS_DzdOi7RIA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/h5tIniAH5ec/hqdefault.jpg",
+        "title": "DeepSeek Harness - Full Tutorial for Beginners",
+        "vote": 0
+    }
+]
