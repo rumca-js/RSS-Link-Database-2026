@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-20T15:23:39.242455+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-20T09:00:00+00:00",
+        "description": "<p>The <a href=\"https://www.aliexpress.us/item/3256806531632512.html?gatewayAdapt=glo2usa4itemAdapt\">BOE TV070WXM-TV0 LCD</a> used in the original Steam Deck can be had for around $30. It's a serviceable 7&quot; touchscreen with 400 nits of brightness and a resolution of 1280x800 (for a sharp 216 ppi).</p>\n<figure class=\"insert-image\"><img src=\"https://www.jeffgeerling.com/blog/2026/steam-deck-lcd-pi-hat/steam-deck-lcd-pi-front-touch.jpeg\"\n alt=\"Steam Deck LCD working on a Raspberry Pi 5\" width=\"700\" height=\"auto\">\n</figure>\n\n<p>The specs are a lot nicer than the <a href=\"https://www.raspberrypi.com/products/raspberry-pi-touch-display/\">Pi 7&quot; Touch Display</a>, which costs twice as much, with giant bezels and half the resolution!</p>\n<p>Until today, the Steam Deck LCD didn't work with a Raspberry Pi. But the folks at <a href=\"https://www.scandent.com\">Scandent</a> were trying to standardize on a mass-market touchscreen for one of their own devices, and built a <a href=\"https://gi",
+        "id": 6215999,
+        "language": "en",
+        "link": "https://www.jeffgeerling.com/blog/2026/steam-deck-lcd-pi-hat",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 162,
+        "source_url": "https://www.jeffgeerling.com/blog.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.jeffgeerling.com/blog/2026/steam-deck-lcd-pi-hat/steam-deck-lcd-pi-front-touch.jpeg",
+        "title": "Getting the Steam Deck LCD working on a Raspberry Pi",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Xiaomi",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-20T10:14:00.770478+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-20T08:00:55+00:00",
+        "description": "Every test asks the same question. Does it still work?\n\nScreen, touch, buttons, calls. The REDMI Note 17 Series comes out the other side working exactly like it did.\n\n#REDMINote17Series. Coming this month.",
+        "id": 6214038,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/W7r65cY8noo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 800,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCspJ6mFfCwOV4qFjZWi2wg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/W7r65cY8noo/hqdefault.jpg",
+        "title": "Water Resistance Lab Test",
+        "vote": 0
+    }
+]

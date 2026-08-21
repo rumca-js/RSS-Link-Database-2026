@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "JaDropping Science",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-20T18:21:17.219558+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-20T17:49:47+00:00",
+        "description": "This is a much larger version for a previous copper tube and magnet demo, and I tried to simplify the explanation so that as many people as possible can understand, so here's a footnote: \n\nSince the copper tube is one solid tube, you might be wondering how current is induced since it doesn't seem like a complete circuit. The induced currents are called Eddy currents, and they are tiny swirling currents within the copper itself! Also, don't short batteries for fun, I just wanted a visual for the explanation. Have a great day!",
+        "id": 6217311,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/tXKeGva82YI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 846,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCK70H_67YRgeA513ZHA2TIg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/tXKeGva82YI/hqdefault.jpg",
+        "title": "Drop a magnet upstairs, catch it downstairs!",
+        "vote": 0
+    }
+]

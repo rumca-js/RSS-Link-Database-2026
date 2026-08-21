@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Good Work",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-20T22:12:26.839900+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-20T20:14:46+00:00",
+        "description": "the benioff goes crazy",
+        "id": 6218693,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/92VgiEuwnZU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 617,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_-hYjoNe4PJNFa9iZ4lraA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/92VgiEuwnZU/hqdefault.jpg",
+        "title": "rare company watches",
+        "vote": 0
+    }
+]

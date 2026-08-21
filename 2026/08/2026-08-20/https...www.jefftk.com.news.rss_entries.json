@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-20T13:17:34.040614+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-20T08:00:00+00:00",
+        "description": "<p><span>\n\nIn May 2025 I met </span>\n\n<a href=\"https://yonadavshavit.com/\">Yo Shavit</a>,\nwho was working on national security policy at OpenAI and was thinking\nabout how to prepare for a future in which models could seriously assist\nattackers in creating pandemics. We had a call, and when I shared notes\nwith my team their main response was: \"maybe start with not making\nmodels that can do that?\"\n\n\n\n<p>\n\nWhich is, in many ways, fair: by continuing to push the frontier in\nbiological capabilities, OpenAI's actions were making things worse on\nmany of the problems SecureBio is trying to solve. But OpenAI stopping\nwouldn't have resolved the problem: other firms were pushing quickly\ntoo, and the economic incentives strongly favored rapid capability\nadvancement.  Making the world more resilient to pandemics needed to be\na high priority regardless, especially in light of models' <a href=\"https://securebio.org/benchmarks/\">increasing</a> ability to help\npeople with biology.\n\n</p>\n\n<p>\n\nWhen I t",
+        "id": 6215066,
+        "language": "en-US",
+        "link": "https://www.jefftk.com/p/thoughts-on-taking-openai-foundation-funding",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 163,
+        "source_url": "https://www.jefftk.com/news.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Thoughts on Taking OpenAI Foundation Funding",
+        "vote": 0
+    }
+]

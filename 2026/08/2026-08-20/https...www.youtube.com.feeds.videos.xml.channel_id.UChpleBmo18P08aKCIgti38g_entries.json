@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Matt Wolfe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-20T13:36:39.251052+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-20T12:41:43+00:00",
+        "description": "Anthropic is working on a watermark for Claude-generated text that could follow the text even after you copy, paste, or edit it \ud83d\udc40\n\nThey haven't revealed exactly how this watermark works yet, but one way could be by creating a statistical pattern in Claude's word choices that humans can\u2019t see, but a detector potentially could.\n\nAnd the implications of this have taken the internet by storm. \n\n\nPeople are wondering what happens if Claude only edits something that you originally wrote? Does that now get flagged as AI-generated? What about code, copyright, privacy, or people simply rewriting the text enough to remove the watermark entirely?\n\nAnd then there\u2019s the bigger debate: Do people have a right to know when something was created with AI? \n\n\nCurious where you land on this one. Let me know in the comments \ud83d\udc47\n\nAnd follow for more AI news and updates.\n\n#AI #ainews #anthropic #claude",
+        "id": 6215200,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/O-8TbMFOAfg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 933,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChpleBmo18P08aKCIgti38g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/O-8TbMFOAfg/hqdefault.jpg",
+        "title": "Claude\u2019s Text Watermark Could Follow It Everywhere",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-20T12:24:03.796969+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-20T10:14:35+00:00",
+        "description": "Build an intuitive mental model of core data structures and algorithms using relatable, real-world analogies. Topics range from arrays and hash maps to trees, graphs, and dynamic programming. Once you grasp the underlying logic and problem-solving mechanics covered here, implementing them in any programming language becomes easy.\n\n- Sumit's YouTube Channel: https://youtube.com/@logicBaseLabs\n- Sumit's Bangla-language YouTube Channel: https://youtube.com/@LearnwithSumit\n- Sumit's website: https://www.sumitsaha.me/\n- logicBase Labs Facebook page: https://facebook.com/logicBaseLabs\n- Sumit's previous freeCodeCamp videos:\n    \u27a1 Next.js Caching Masterclass:https://www.youtube.com/watch?v=qYk_BqGHXEg\n    \u27a1 JavaScript DOM Course:https://www.youtube.com/watch?v=c6IyCwAV6BY\n    \u27a1 Git-GitHub Course: https://www.youtube.com/watch?v=mAFoROnOfHs\n- Sumit's many freeCodeCamp handbooks and tutorials: https://www.freecodecamp.org/news/author/sumitsaha/\n- Sumit's Interview with freeCodeCamp Founder Qui",
+        "id": 6214801,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=RpLnQnurpLY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/RpLnQnurpLY/hqdefault.jpg",
+        "title": "Learn Data Structures and Algorithms Visually \u2013 Crash Course",
+        "vote": 0
+    }
+]

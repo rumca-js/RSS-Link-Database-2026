@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Clement Farabet",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-20T18:01:09.275823+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-20T15:30:00+00:00",
+        "description": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/OneBillionGemma_Hero.max-600x600.format-webp.webp\">A look at the Gemmaverse as Gemma surpasses one billion downloads.",
+        "id": 6217127,
+        "language": "en",
+        "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemma-one-billion-downloads",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 1014,
+        "source_url": "https://blog.google/intl/en-us/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/OneBillionGemma_Hero.max-600x600.format-webp.webp",
+        "title": "Inside the Gemmaverse: Celebrating one billion Gemma downloads",
+        "vote": 0
+    }
+]
