@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Wall Street Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-21T21:11:02.440856+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-21T20:53:34+00:00",
+        "description": "WSJ auto critic Dan Neil judges Concours d\u2019Lemons, the satirical counterpart to the Pebble Beach Concours d\u2019Elegance, where strange, unloved and deeply personal cars compete for the coveted \u2018Worst in Show.\u2019",
+        "id": 6225478,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/65GBRp36yv8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 363,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCK7tptUDHh-RYDsdxO1-5QQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/65GBRp36yv8/hqdefault.jpg",
+        "title": "Inside the Car Show Celebrating the Best of the Worst",
+        "vote": 0
+    }
+]

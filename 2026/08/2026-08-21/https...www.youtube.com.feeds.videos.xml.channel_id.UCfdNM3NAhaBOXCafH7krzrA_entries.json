@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Infographics Show",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-21T22:23:09.666394+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-21T20:11:15+00:00",
+        "description": "The modern internet was built on one assumption. Some mathematical problems are simply too difficult for computers to solve. Quantum computing could destroy that assumption, and with it, the encryption protecting banks, governments, infrastructure, private messages, and almost everything else online.\n\nThis video explores what could happen when a quantum computer becomes powerful enough to break modern encryption. Digital certificates could fail, fake software updates could appear legitimate, financial transfers could freeze, and years of intercepted encrypted data could suddenly become readable.\nThe threat is already changing cybersecurity. Governments and tech companies are racing to deploy post-quantum encryption, while billions of older devices may be impossible or too expensive to upgrade. At the same time, China is building quantum communication networks that rely on the laws of physics rather than traditional mathematical security.\n\nThe quantum threat may still be years away, bu",
+        "id": 6225862,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=jlyIyObWBzo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 999,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfdNM3NAhaBOXCafH7krzrA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/jlyIyObWBzo/hqdefault.jpg",
+        "title": "Global Encryption Is DEAD. A 2034 Quantum Attack Will DOOM the ECONOMY.",
+        "vote": 0
+    }
+]

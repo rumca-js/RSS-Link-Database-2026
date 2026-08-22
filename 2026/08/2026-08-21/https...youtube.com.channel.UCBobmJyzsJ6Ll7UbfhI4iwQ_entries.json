@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unreal Engine",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-21T14:19:06.624104+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-21T14:00:12+00:00",
+        "description": "When it comes to creating stylized games and animations in Unreal Engine, many teams rely on the manipulation of materials. But did you know you could combine the power of the engine with the simplicity of a 2D toolset like Odyssey to create stylized content? \n\nIn this talk recorded at Unreal Fest Chicago 2026, Praxinos explores the different workflows the Odyssey 2D plugin makes possible. They cover various aspects of using Odyssey to mix 2D and 3D for beautiful stylized games and animations, including how to bring real paintings into Unreal Engine with the scan cleaner; how to paint on props and characters without third-party software; how to 2D animate in a 3D environment; and beyond.\n\nFind out more about using Unreal Engine to create animation here: unrealengine.com/uses/animation\n\n#Animation, #Odyssey, #2D, #Praxinos, #UnrealEngine, #UnrealFestChicago2026",
+        "id": 6222896,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=5WLUmP0jnL0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 685,
+        "source_url": "https://youtube.com/channel/UCBobmJyzsJ6Ll7UbfhI4iwQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/5WLUmP0jnL0/hqdefault.jpg",
+        "title": "So, You Want to Make Stylized Stuff with Unreal Engine? Meet Odyssey  | Unreal Fest Chicago 2026",
+        "vote": 0
+    }
+]

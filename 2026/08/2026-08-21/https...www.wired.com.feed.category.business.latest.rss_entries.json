@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Zeyi Yang",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-21T23:35:05.841129+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-21T23:25:32+00:00",
+        "description": "Cheap energy, abundant land, and proximity to Beijing have turned a city in Inner Mongolia into a crucial hub for data centers.",
+        "id": 6226138,
+        "language": "en-US",
+        "link": "https://www.wired.com/story/the-unlikely-place-at-the-center-of-chinas-ai-boom",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 396,
+        "source_url": "https://www.wired.com/feed/category/business/latest/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media.wired.com/photos/6a86349028fa0a4f102bcd1b/master/pass/Made-in-China-Unlikely-Place-at-Center-of-China-AI-Boom-Business.jpg",
+        "title": "The Unlikely Place at the Center of China\u2019s AI Boom",
+        "vote": 0
+    }
+]

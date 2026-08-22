@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Chris Stuckmann",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-21T16:05:06.378091+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-21T14:30:04+00:00",
+        "description": "Chris Stuckmann reviews Insidious: Out of the Further, starring Amelia Eve, Island Austin, Lin Shaye, Brandon Perea, Maisie Richardson-Sellers. Directed by Jacob Chase.",
+        "id": 6223568,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=xXAczPeHm4Y",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 618,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCqEeDAUf4Mg0GgEN658tkA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/xXAczPeHm4Y/hqdefault.jpg",
+        "title": "Insidious: Out of the Further - Movie Review",
+        "vote": 0
+    }
+]

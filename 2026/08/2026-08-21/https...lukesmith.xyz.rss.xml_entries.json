@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-21T22:41:42.570081+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-21T21:45:09+00:00",
+        "description": "<p>The internet has gone from annoying to unusable. It once could be insipid or dangerously temptacious&mdash;Now I can&rsquo;t even bear to be on it.</p>\n<p>One would be justified in wondering why I haven&rsquo;t posted videos or articles in a while.\nI&rsquo;ve taken breaks in the past&mdash;sometimes for months, but starting around 2023 I nearly entirely went radio silent.\nAfter a bit of a personal break, the internet I came back to was entirely different.\nThe bad seeds were already there when I left, but they had come to blossom in quite ugly fruit.</p>\n<p>I had <a href=\"https://www.youtube.com/watch?v=N8P6MTOQlyk\">complained in 2021</a> that search engines had already become entirely useless due to algorithmically-generated sites that even back then were probably most of the internet.\nEven then, searching nearly any query would be met with a long string of fake sites with algorithmically generated text to garner clicks and ads.</p>\n<p>Now LLMs/AI have so significantly exacerbated ",
+        "id": 6225937,
+        "language": "en-US",
+        "link": "https://lukesmith.xyz/articles/disenchantment-with-the-post-ai-internet",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 203,
+        "source_url": "https://lukesmith.xyz/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Disenchantment With the Post-AI Internet",
+        "vote": 0
+    }
+]

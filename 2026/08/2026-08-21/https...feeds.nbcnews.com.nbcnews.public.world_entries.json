@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-21T18:43:57.738387+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-21T17:32:11+00:00",
+        "description": "The USS Lincoln is headed back to San Diego after an extended deployment in the Middle East. The U.S. Navy vessel is making its way back after crew complained of deteriorating conditions, with both supplies and morale running low.",
+        "id": 6224722,
+        "language": "en-US",
+        "link": "https://www.nbcnews.com/now/video/uss-lincoln-heads-home-after-sailors-complain-of-poor-conditions-268674629917",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 224,
+        "source_url": "https://feeds.nbcnews.com/nbcnews/public/world",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_08/1787333525699_now_daily_a_uss_lincoln_update_260821_S3_1920x1080-y7w0dg.jpg",
+        "title": "USS Lincoln heads home after sailors complain of poor conditions",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-21T17:12:57.052500+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-21T15:58:57+00:00",
+        "description": "Seven World Central Kitchen workers were killed in the Israeli strike on their convoy in 2024.",
+        "id": 6224098,
+        "language": "en-gb",
+        "link": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 525,
+        "source_url": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44aa/live/1a046dd0-9d6d-11f1-b109-879e35c24276.jpg",
+        "title": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
+        "vote": 0
+    }
+]

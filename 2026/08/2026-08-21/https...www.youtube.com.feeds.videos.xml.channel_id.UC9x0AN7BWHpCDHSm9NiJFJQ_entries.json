@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NetworkChuck",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-21T16:55:07.881179+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-21T14:55:43+00:00",
+        "description": "Show ThreatLocker some love and take control of what runs in your environment. See how ThreatLocker can help you lock down applications and AI tools without getting in the way: https://www.threatlocker.com/networkchuck\n\nI installed Arch Linux in one minute and forty seven seconds. Omarchy is DHH's opinionated Linux distro built on Arch, Hyprland and Quickshell, and it is the first time Linux has ever felt like the operating system I actually wanted. I put it on an old gaming laptop, then on Terry (my dual RTX 4090 machine), and I let an AI agent rice the whole desktop while I watched. I talked to DHH about why he built it, and Chris from Typecraft showed me how to stop reaching for my mouse.\n\n\nIn this video you'll learn how to install Omarchy on almost any hardware, how tiling window managers and Hyprland keybindings actually work, how to build your own Quickshell plugin with AI, how to game on Linux with Steam and Proton, and how to run Windows inside a container when you still need ",
+        "id": 6223962,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=9SDkU5VDQEQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 565,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9x0AN7BWHpCDHSm9NiJFJQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/9SDkU5VDQEQ/hqdefault.jpg",
+        "title": "You need to switch to Linux RIGHT NOW!!",
+        "vote": 0
+    }
+]
