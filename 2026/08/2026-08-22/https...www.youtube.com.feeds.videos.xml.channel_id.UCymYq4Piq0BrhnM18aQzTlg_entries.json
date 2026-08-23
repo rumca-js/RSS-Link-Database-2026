@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Lon.TV",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-22T23:33:29.706611+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-22T22:45:01+00:00",
+        "description": "Find the Intel GPU on Amazon - https://lon.tv/ma1ys (compensated affiliate link) - Many of you were curious about how the Intel B70 can handle local AI image and video generation. In this video we'll find out!  See more in this series: https://www.youtube.com/playlist?list=PLfqUj3TrcUR8 and subscribe to my email list! http://lon.tv/email\n\nOculink Dock - https://lon.tv/jt1up (compensated affiliate link)\nMinisforum PC - https://lon.tv/wqxat\n\nVIDEO INDEX:\n00:00 - Intro\n00:28 - MiniMax H3 Image Generation\n01:05 - Video Creation from Prompt\n02:14 - Rendering TIme\n03:22 - More Renderings - \"LonDonalds\"\n03:59 - Demo 3: Captain Picard's Traffic Stop\n04:41 - Dialog Issues with Multiple Characters\n05:13 - Looping Backgrounds\n05:46 - Images to Video\n06:36 - Demo: 90s Retro Commercial from Starting Still Image\n06:46 - Advantages of Local Generation\n07:55 - Anime Example\n08:45 - How I'm installing everything\n09:20 - Image Generation - Flux.2 Klein 9b\n10:59 - 3 Panel Image Generation\n11:25 - Conclu",
+        "id": 6230733,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=HfevkEZ8w5Q",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 199,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCymYq4Piq0BrhnM18aQzTlg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/HfevkEZ8w5Q/hqdefault.jpg",
+        "title": "Local AI Video and Image Generation on the Intel's Low Cost 32GB GPU!",
+        "vote": 0
+    }
+]

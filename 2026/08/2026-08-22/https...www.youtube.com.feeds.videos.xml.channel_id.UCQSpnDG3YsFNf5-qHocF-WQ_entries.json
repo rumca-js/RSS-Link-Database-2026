@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ThioJoe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-22T17:30:01.825539+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-22T15:45:26+00:00",
+        "description": "Up to a quarter of the internet is going to block the Googlebot\n\nOne of the biggest web providers of around 25% of all internet sites, Cloudflare, is going to implement new default filter rules soon that will block major search engine crawler bots that also are used for AI training. Specifically those from Google, Microsoft (Bing), and Apple. They've been using the same bots they use to index sites (which sites want) to train on AI (which they don't want). But with these defaults, it will hopefully force the companies to separate the bots by purpose, making it easier to control what they do on your websites.\n\nTime Stamps:\n0:00 - Intro\n1:02 - The Deadline\n1:58 - What I Mean By Blocked\n2:55 - What is Robots.txt\n3:51 - Problematic Bots\n5:00 - Which Companies Cooperate\n6:20 - How Much Bot Traffic Anyway\n7:22 - Does AI Traffic Even Benefit Sites\n7:58 - Types of AI Traffic\n8:35 - What Will They Do\n\n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\n\u2022 My Desktop Wallpapers \u21e8 https://thiojoe.art/\n\u21e8 http://Instagram.",
+        "id": 6229548,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=EB6BhmoSDvI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 366,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQSpnDG3YsFNf5-qHocF-WQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/EB6BhmoSDvI/hqdefault.jpg",
+        "title": "Google Gets Banned",
+        "vote": 0
+    }
+]

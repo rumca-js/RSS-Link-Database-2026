@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Chris Stuckmann",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-22T14:59:11.296317+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-22T14:30:06+00:00",
+        "description": "Chris Stuckmann reviews Teenage Sex and Death at Camp Miasma, starring Hannah Einbinder, Gillian Anderson, Jack Haven, Patrick Fischler, Jess McLeod, Zach Cherry, Dylan Baker, Jasmin Savoy Brown, Sarah Sherman. Directed by Jane Schoenbrun.",
+        "id": 6228893,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=YT75f0OOiys",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 618,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCqEeDAUf4Mg0GgEN658tkA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/YT75f0OOiys/hqdefault.jpg",
+        "title": "Teenage Sex and Death at Camp Miasma - Movie Review",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Techno Tim",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-22T16:34:05.774895+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-22T16:12:28+00:00",
+        "description": "What is an NPU actually useful for? Is it faster than a GPU, more efficient, or meant for a completely different kind of AI workload?\n\nI tested the Intel NPU in the MINISFORUM MS-03 using Frigate and OpenVINO, comparing the same workload across the CPU, GPU, and NPU.\n\nMINISFORUM sent the MS-03 for me to test and that's why you see the disclosure overlay. This video is not sponsored, they had no input into this video.\n\nVideo Notes: https://technotim.com/posts/intel-npu-frigate/\n\nNON-AFFILIATE LINK\n- MINISFORUM MS-03: https://store.minisforum.com/products/minisforum-ms-03-workstation\n\nAmazon AFFILIATE LINKS\n- Intel CPUs with NPU: https://amzn.to/4zyzO4r\n- AMD NPU laptops (no desktop CPUs with NPUs): https://amzn.to/4ghirw8\n- Apple devices with NPU: https://amzn.to/3S1BG56\n- Google Pixel with NPU: https://amzn.to/3Sm6IVo\n- MINISFORUM MS-03: https://amzn.to/3UOCCdN\n\nMerch Shop \ud83d\udecd\ufe0f: https://l.technotim.com/shop\nSupport me on Patreon: https://www.patreon.com/technotim\nSponsor me on GitHub: h",
+        "id": 6229267,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=8NFV6duMKQA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 911,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCOk-gHyjcWZNj3Br4oxwh0A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/8NFV6duMKQA/hqdefault.jpg",
+        "title": "What Is an NPU Actually Good For?",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Nancy Shute",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-22T11:14:35.184211+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-22T11:00:00+00:00",
+        "description": "Editor in Chief Nancy Shute reviews new research in static electricity and other science revelations in our September magazine issue.",
+        "id": 6228129,
+        "language": "en-US",
+        "link": "https://www.sciencenews.org/article/ed-note-september-2026",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 295,
+        "source_url": "https://www.sciencenews.org/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Mysteries of the commonplace",
+        "vote": 0
+    }
+]

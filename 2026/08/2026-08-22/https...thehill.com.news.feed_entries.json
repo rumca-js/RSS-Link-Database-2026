@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Rebecca Beitsch",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-22T10:37:02.905128+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-22T10:00:00+00:00",
+        "description": "Lower court judges have now fully lifted certain limitations on the Department of Homeland Security (DHS) in the wake of a Supreme Court decision that cleared the end of temporary protected status (TPS), removing any final roadblock to deportations. A federal judge earlier this week lifted the final stay that barred immigration officials from carrying...",
+        "id": 6227986,
+        "language": "en-US",
+        "link": "https://thehill.com/homenews/administration/6044212-court-lifts-tps-deportation-stays",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 345,
+        "source_url": "https://thehill.com/news/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "DHS starts deportation flights after end to remaining protections for TPS holders",
+        "vote": 0
+    }
+]

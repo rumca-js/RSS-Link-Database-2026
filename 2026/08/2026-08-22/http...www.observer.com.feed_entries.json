@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Elisa Carollo",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-22T13:13:40.708044+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-22T13:00:30+00:00",
+        "description": "A recent run of ambitious site-specific projects demonstrates aptly why exhibitions must be conceived in dialogue with architecture, history and the bodies moving through them.",
+        "id": 6228539,
+        "language": "en",
+        "link": "https://observer.com/2026/08/opinion-arts-venice-biennale-moving-white-cube-curating-market-insights",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 243,
+        "source_url": "http://www.observer.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "title": "How Venice and New Media Art Are Making the White Cube Increasingly Obsolete",
+        "vote": 0
+    }
+]

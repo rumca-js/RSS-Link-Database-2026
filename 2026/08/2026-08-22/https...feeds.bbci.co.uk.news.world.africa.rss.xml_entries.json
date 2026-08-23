@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-23T00:00:54.947029+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-22T23:22:02+00:00",
+        "description": "Prospectors have come to West Pokot county in the hope a gram of the precious metal can change their lives.",
+        "id": 6230828,
+        "language": "en-gb",
+        "link": "https://www.bbc.co.uk/news/articles/clyjmnvdr95o",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 521,
+        "source_url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5663/live/1c0143c0-9cb3-11f1-a291-b542ee92de7c.jpg",
+        "title": "Did a goat herder's lucky $200 nugget spark a gold rush in western Kenya?",
+        "vote": 0
+    }
+]

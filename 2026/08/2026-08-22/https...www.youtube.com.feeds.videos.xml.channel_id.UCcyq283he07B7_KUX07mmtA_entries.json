@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Business Insider",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-22T14:13:53.019738+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-22T13:00:13+00:00",
+        "description": "Uber once sold riders on a simple promise: Order a car right from your phone for less than a taxi.\n\nOne major change happened behind the scenes: up-front pricing. Instead of relying on a predictable rate based largely on time and distance, Uber now uses algorithms and a range of real-time factors to determine what riders pay and what drivers earn.\n\nSince then, prices have risen dramatically. From 2018 to 2022, average Uber fares in the US rose 83%, nearly four times the annual rate of inflation. And when Business Insider employees requested the same UberX ride at the same time, the highest fare was nearly 21% more expensive than the lowest. A larger Consumer Reports test of Uber and Lyft found even wider gaps on some routes.\n\nCritics accuse Uber of using AI and algorithms to extract the most money from consumers while paying drivers the least. Uber flatly denies using personalized data and cites higher costs and a post-pandemic driver shortage among the reasons prices have skyrocketed",
+        "id": 6228757,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=gnjVqeBoaqs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 152,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcyq283he07B7_KUX07mmtA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/gnjVqeBoaqs/hqdefault.jpg",
+        "title": "How Uber Uses AI To Charge You More",
+        "vote": 0
+    }
+]

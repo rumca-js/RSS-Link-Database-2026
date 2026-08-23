@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Terrence McCoy",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-22T09:14:17.984694+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-22T09:00:00+00:00",
+        "description": "Trump aide Natalie Harp is estranged from her brother, Preston, who has used social media and recent interviews to criticize her and highlight his own left-wing politics.",
+        "id": 6227735,
+        "language": "en-US",
+        "link": "https://www.washingtonpost.com/world/2026/08/22/shes-trump-acolyte-hes-gringo-sandinista-meet-harps",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 365,
+        "source_url": "https://feeds.washingtonpost.com/rss/world?itid=lk_inline_manual_36",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "She\u2019s a Trump acolyte. He\u2019s a \u2018gringo Sandinista.\u2019 Meet the Harps.",
+        "vote": 0
+    }
+]
