@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-23T20:58:56.525911+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-23T17:30:27+00:00",
+        "description": "For a long time LightDM was the face of the Linux login screen but for a few years the project has been completely dead, however that just changed a few days back.\n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\nLightDM Arch Wiki: https://wiki.archlinux.org/title/LightDM\nOld Release: https://github.com/ubuntu/lightdm/releases/tag/1.32.0\nGithub Issue: https://github.com/ubuntu/lightdm/issues/427\nProject Announcement: https://discourse.ubuntu.com/t/current-status-of-lightdm/29048?u=d0od\nLightDM Github: https://github.com/ubuntu/lightdm\n\n=========Video Platforms==========\n\ud83c\udfa5 React: https://www.youtube.com/@BrodieRobertsonReacts\n\ud83c\udfa5 Podcast: https://techovertea.xyz/youtube\n\ud83c\udfae Gaming: https://brodierobertson.xyz/gaming\n\n==========Social Media==========\n\ud83c\udfa4 Discord: https://brodier",
+        "id": 6234185,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=JeSG0q4Erfw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/JeSG0q4Erfw/hqdefault.jpg",
+        "title": "This Beloved Linux Login Screen Is Back",
+        "vote": 0
+    }
+]

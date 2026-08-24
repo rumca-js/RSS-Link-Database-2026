@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/Miserable-Daikon5795",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-23T16:50:11.837452+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-23T14:54:12+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>I needed a first-run walkthrough for an app and hit two things that annoyed me.</p> <p>First, the highlight would end up in the wrong place.</p> <p>A lot of coach-mark implementations resolve the target&#39;s position once and paint it. Scroll the list, open the keyboard, rotate the device, resize a desktop window \u2014 and suddenly the hole is next to the button instead of on it.</p> <p>Second, a dimmed hole tells the user where something is, but not how to use it.</p> <p>&quot;Drag this card to that column&quot; isn&#39;t something a static highlight can really express.</p> <p>So I built keyspot:</p> <p>- The spotlight and pointer re-resolve the target&#39;s geometry every frame from its GlobalKey, so they can track through scrolling, insets, rotation and resizing.</p> <p>- An animated hand pointer that glides in a straight line or along an arc, rotates from its current angle, and tap-pulses \u2014 enough to demonstrate interactions like drag and pinch rathe",
+        "id": 6232293,
+        "language": "en",
+        "link": "https://www.reddit.com/r/developer/comments/1vw9a31/built_a_flutter_onboarding_package_where_the",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 508,
+        "source_url": "https://www.reddit.com/r/developer/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "built a Flutter onboarding package where the spotlight doesn't drift \u2014 and the pointer teaches the gesture",
+        "vote": 0
+    }
+]

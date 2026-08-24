@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "David Bombal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-23T18:39:04.000736+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-23T14:00:33+00:00",
+        "description": "David Bombal sits down with Darren Kitchen from Hak5 for a hands-on look at some of the most recognizable hacking gadgets used by penetration testers and red teams.\n\nNote: Hak5 did not pay me to make this video. But, I'm marking it as sponsored because Darren was kind enough to give me some cool Hak5 gadgets. Get your own using my link below.\n\n// Buy Hak5 coolness here (Affiliate Link): //\nBuy Hak5: https://davidbombal.wiki/gethak5\n\nDarren breaks the Hak5 lineup into three main categories: hot-plug attack tools, pen-test implants, and near-access Wi-Fi testing tools. He explains how these devices are designed to emulate real-world attacks so defenders can understand how an organization could be compromised and what needs to be fixed.\n\nWe start with the USB Rubber Ducky, a device that looks like a normal flash drive but identifies itself to a computer as a keyboard. Darren explains keystroke injection, DuckyScript, and why the Rubber Ducky is one of the best Hak5 devices for learning h",
+        "id": 6233670,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=6ckvxEQEBn8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 984,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP7WmQ_U4GB3K51Od9QvM0w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/6ckvxEQEBn8/hqdefault.jpg",
+        "title": "Hacking Gadgets Every Cybersecurity Pro Should Know",
+        "vote": 0
+    }
+]

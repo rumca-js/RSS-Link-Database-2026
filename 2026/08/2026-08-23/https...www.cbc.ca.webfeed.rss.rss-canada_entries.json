@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-23T16:49:18.013861+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-23T12:17:45+00:00",
+        "description": "<img src='https://i.cbc.ca/ais/9acffa1f-7942-4173-9216-1757fb098f24,1787502233045/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C986%2C3412%2C1919%29%3BResize%3D%28620%29' alt='Submitted by Parsa Nourian/@parsanourian5' width='620' height='349' title='Several lightning strikes across the night sky observed from UBC&apos;s Vancouver campus.'/><p>Lightning strikes lit up the skies across B.C.'s South Coast overnight in a rare display as a severe thunderstorm passed over the region, snarling traffic at Vancouver International Airport and causing flight issues in the process.</p>",
+        "id": 6232279,
+        "language": "en",
+        "link": "https://www.cbc.ca/news/canada/british-columbia/southern-bc-thunderstorm-airport-9.7317454?cmp=rss",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 49,
+        "source_url": "https://www.cbc.ca/webfeed/rss/rss-canada",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i.cbc.ca/ais/9acffa1f-7942-4173-9216-1757fb098f24,1787502233045/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C986%2C3412%2C1919%29%3BResize%3D%28620%29",
+        "title": "Rare thunderstorm with lightning strikes wows southern B.C., causing havoc at Vancouver airport",
+        "vote": 0
+    }
+]

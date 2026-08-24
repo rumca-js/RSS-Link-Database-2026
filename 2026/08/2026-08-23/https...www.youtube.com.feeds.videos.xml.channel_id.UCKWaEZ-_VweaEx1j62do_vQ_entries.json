@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-23T18:35:50.883170+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-23T11:00:37+00:00",
+        "description": "Learn more about Types of AI agents here \u2192 https://ibm.biz/~CybnjCGya\n\nYour data may know what happened, but not always why. Shad Griffin explains how a Digital Librarian AI Agent combines SQL databases, vector databases, and semantic search to answer complex questions. Learn how agentic workflows connect structured and unstructured data into grounded insights.\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/~X8FmdLGYs\n\nAI was used in the creation of the transcript and metadata for this video.\n\n#aiagents #sql #vectordatabases #agenticai",
+        "id": 6233630,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=eFf2OvkZxEM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/eFf2OvkZxEM/hqdefault.jpg",
+        "title": "What Is a Digital Librarian AI Agent? Connecting SQL & Vector Database",
+        "vote": 0
+    }
+]

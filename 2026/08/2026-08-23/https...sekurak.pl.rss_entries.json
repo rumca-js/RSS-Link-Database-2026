@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Tomasz Turba",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-23T16:58:17.069591+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-23T13:51:46+00:00",
+        "description": "<p>Zesp\u00f3\u0142 reagowania na incydenty firmy QUIRSO podczas analizy pow\u0142amaniowej serwera VMware vCenter natrafi\u0142 na \u015blady globalnej kampanii, sterowanej najprawdopodobniej przez chi\u0144sk\u0105 grup\u0119 APT. Badania wykaza\u0142y, \u017ce cyberprzest\u0119pcy wykorzystali krytyczn\u0105 podatno\u015b\u0107 CVE-2026-59310 (CVSS 9.8) w us\u0142udze Syslog Server. R\u00f3wnolegle zidentyfikowali pr\u00f3by u\u017cycia drugiej luki CVE-2026-59309 (CVSS 9.8) jednak analitycy nie powi\u0105zali...</p>\n<p>Artyku\u0142 <a href=\"https://sekurak.pl/chinskie-grupy-apt-wykorzystuja-podatnosc-cve-2026-59310-do-masowych-atakow-na-srodowiska-vmware-vcenter/\">Chi\u0144skie grupy APT wykorzystuj\u0105 podatno\u015b\u0107 CVE-2026-59310 do masowych atak\u00f3w na \u015brodowiska VMware vCenter</a> pochodzi z serwisu <a href=\"https://sekurak.pl\">Sekurak</a>.</p>",
+        "id": 6232364,
+        "language": "pl-PL",
+        "link": "https://sekurak.pl/chinskie-grupy-apt-wykorzystuja-podatnosc-cve-2026-59310-do-masowych-atakow-na-srodowiska-vmware-vcenter",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 300,
+        "source_url": "https://sekurak.pl/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Chi\u0144skie grupy APT wykorzystuj\u0105 podatno\u015b\u0107 CVE-2026-59310 do masowych atak\u00f3w na \u015brodowiska VMware vCenter",
+        "vote": 0
+    }
+]

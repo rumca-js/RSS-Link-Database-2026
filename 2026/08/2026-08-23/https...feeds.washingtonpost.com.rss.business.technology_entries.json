@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeremy B. Merrill",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-23T09:24:40.823601+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-23T09:00:00+00:00",
+        "description": "In the past six months, Republicans' public statements about data centers have turned sharply negative, according to a Washington Post analysis.",
+        "id": 6232051,
+        "language": "en-US",
+        "link": "https://www.washingtonpost.com/technology/2026/08/23/most-gop-politicians-now-talk-negatively-about-data-centers-data-shows",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 364,
+        "source_url": "https://feeds.washingtonpost.com/rss/business/technology",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "See the moment when Republican politicians turned against data centers",
+        "vote": 0
+    }
+]

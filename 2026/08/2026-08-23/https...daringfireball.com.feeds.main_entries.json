@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Gruber",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-23T17:54:44.003664+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-23T17:36:28+00:00",
+        "description": "<p>John Moltz, in his weekly members-only column for Six Colors (no gift links, but Moltz\u2019s column is <a href=\"https://sixcolors.com/subscribe/\">worth the subscription</a> in and of itself):</p>\n\n<blockquote>\n  <p>This week <a href=\"https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content\">Anthropic announced</a> that in order to identify AI from\nhuman-generated content it would be watermarking all text it\ngenerates by subtly altering the randomness at which its models\npicked the next word. While this might seem a perfectly cromulent\nmeans of accomplishing a worthy goal, it really rubbed John Gruber\nthe wrong way, as if someone suggested putting autocomplete Swiss\non his Philly cheesesteak AI.</p>\n</blockquote>\n\n<p><a href=\"https://coopercheese.com/products/cooper-sharp-white\">Cooper Sharp</a> cheese is the way to go. The best new cheesesteak joint in town\u2009\u2014\u2009<a href=\"https://readingterminalmarket.org/merchant/uncle-gus/\">Uncle Gus\u2019s</a>\u2009\u2014\u2009<em>only</em> off",
+        "id": 6233216,
+        "language": "",
+        "link": "https://sixcolors.com/member/2026/08/this-week-in-apple-lets-fight",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 489,
+        "source_url": "https://daringfireball.com/feeds/main",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Cooper Sharp Proves That American Cheese Can Be Great Cheese",
+        "vote": 0
+    }
+]
