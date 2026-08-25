@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Matt Wolfe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-24T15:35:20.398403+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-24T12:18:26+00:00",
+        "description": "This might be one of the coolest AI models I\u2019ve seen all year.\n\nTencent\u2019s new WorldClaw model can generate an entire editable 3D world from a prompt \u2014 not just the environment, but every individual object inside it.\n\nTrees, buildings, carts, lamp posts, terrain, they\u2019re all generated as separate 3D assets you can actually work with.\n\nUnder the hood, it combines image generation, segmentation, and Tencent\u2019s Hunyuan 2D-to-3D tech to turn a generated scene into a full collection of 3D objects.\n\nAnd the use cases could get really interesting.\n\nYou could imagine generating game environments in minutes, building virtual worlds for simulations, or even creating environments where robots can train before they ever enter the real world.\n\nUnfortunately we can\u2019t actually play with this model yet, but this is absolutely one I\u2019m keeping an eye on.\n\n#ai #ainews #aimodel #genai #3dart",
+        "id": 6238669,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/ZY628bslSYY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 933,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChpleBmo18P08aKCIgti38g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/ZY628bslSYY/hqdefault.jpg",
+        "title": "This AI Creates Insane 3D Worlds",
+        "vote": 0
+    }
+]

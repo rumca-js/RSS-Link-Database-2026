@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "GitHub",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-24T15:49:45.751457+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-24T15:00:33+00:00",
+        "description": "Building software on GitHub means navigating tiny details every single day. In this clip from the GitHub Podcast, Cassidy Williams highlights the GitHub Tiny Wins team, a group dedicated to fixing small platform frictions and paper cuts for maintainers. From site performance tweaks to making contributing guidelines accessible right in the repository sidebar, small details make a massive impact. \n\n#TinyWins #GitHubPodcast #SoftwareDevelopment\n\nStay up-to-date on all things GitHub by connecting with us:\n\nYouTube: https://gh.io/subgithub\nBlog: https://github.blog\nX: https://twitter.com/github\nLinkedIn: https://linkedin.com/company/github\nInsider newsletter: https://resources.github.com/newsletter/\nInstagram: https://www.instagram.com/github\nTikTok: https://www.tiktok.com/@github\n\nAbout GitHub\nIt\u2019s where over 180 million developers create, share, and ship the best code possible. It\u2019s a place for anyone, from anywhere, to build anything\u2014it\u2019s where the world builds software. https://github.",
+        "id": 6238728,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/c44_HuUuTtY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 1005,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7c3Kb6jYCRj4JOHHZTxKsQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/c44_HuUuTtY/hqdefault.jpg",
+        "title": "How GitHub's tiny wins team fixes developer paper cuts",
+        "vote": 0
+    }
+]

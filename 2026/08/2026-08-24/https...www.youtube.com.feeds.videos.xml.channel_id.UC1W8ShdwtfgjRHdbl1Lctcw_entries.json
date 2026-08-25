@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NASS",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-24T23:01:36.263562+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-24T21:35:23+00:00",
+        "description": "I colorized, restored, and designed sound for this captivating footage of New Orleans, showcasing its iconic landmarks, bustling downtown streets, historic architecture, and everyday city life.\n\n\ud83d\udcfd\ufe0f Technologies & Techniques Used:\n\u2022 Advanced video restoration\n\u2022 New semantic colorization only for the ambiance (not historically accurate)\n\u2022 Manually colorized keyframes (to establish accurate ambiance and color consistency (not historically accurate)\n\u2022 Advanced frame reconstruction to HD\n\u2022 Manual color corrections \n\u2022 Classical restoration workflows (AviSynth ) combined with modern tools for (60fps, stabilization, denoise, cleaning, and deblurring )\n\u2022 Sound design created for immersive atmosphere\n\nB&W Video Source: Prelinger Archives, A/V Geeks\n\n\nMany thanks to Prelinger Archives, A/V Geeks for their hard work and dedication to preserving archival sources. (Please support them.)\n\nJoin this channel to benefit from exclusive advantages and also to support us: https://www.youtube.com/channel/U",
+        "id": 6241416,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=PpKEPUwFjA0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 222,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC1W8ShdwtfgjRHdbl1Lctcw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/PpKEPUwFjA0/hqdefault.jpg",
+        "title": "New Orleans 1930s in color, Downtown and Landmarks [60fps, Remastered] w/sound design added",
+        "vote": 0
+    }
+]

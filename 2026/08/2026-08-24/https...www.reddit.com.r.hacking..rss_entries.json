@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/RigelDigi",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-24T16:24:23.793790+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-24T12:48:12+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>So I\u2019ve been using Havij on and off for years, but always hated dealing with Wine or keeping a Windows VM around just for one tool. </p> <p>Decided to just rebuild it for Linux. </p> <p>It\u2019s not a perfect 1:1 copy, but it looks and feels like the original \u2014 dark theme, green text, same workflow. Under the hood it\u2019s Python + PyQt6, so it runs native and doesn\u2019t need any extra layers. </p> <p>Here\u2019s the repo if you want to check it out:<br/> <a href=\"https://github.com/CrypticRig3l/havij-original.git\">https://github.com/CrypticRig3l/havij-original.git</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/RigelDigi\"> /u/RigelDigi </a> <br/> <span><a href=\"https://www.reddit.com/r/hacking/comments/1vx1v60/i_ported_havij_to_linux_natively_no_wine_no_net/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/hacking/comments/1vx1v60/i_ported_havij_to_linux_natively_no_wine_no_net/\">[comments]</a></span>",
+        "id": 6239012,
+        "language": "en",
+        "link": "https://www.reddit.com/r/hacking/comments/1vx1v60/i_ported_havij_to_linux_natively_no_wine_no_net",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 534,
+        "source_url": "https://www.reddit.com/r/hacking/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "I ported Havij to Linux natively (no Wine, no .NET)",
+        "vote": 0
+    }
+]

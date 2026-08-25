@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Blog Staff",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-24T19:38:08.981771+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-24T19:09:25+00:00",
+        "description": "<p>\n\t<strong><img alt=\"\" src=\"https://avatars.sched.co/3/c5/23329177/avatar.jpg?4b4\" style=\"width: 150px; float: right; height: 150px;\" />Registration is now open for CppCon 2026!</strong> The conference starts on September 12 and will be held&nbsp;<a href=\"https://cppcon.org\">in person in Aurora, CO</a>.&nbsp;To whet your appetite for this year&rsquo;s conference, we&rsquo;re posting some upcoming talks that you will be able to attend this year. Here&rsquo;s another CppCon future talk we hope you will enjoy &ndash; and&nbsp;<strong><a href=\"https://cppcon.org/registration/\">register today</a> for CppCon 2026!</strong></p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://cppcon2026.sched.com/event/2RT6L/ai-is-ub-with-better-pr\">AI is UB with Better PR</a></h3>\n\t<p>\n\t\tWednesday, September 16, 2026 15:15 - 16:15 MDT</p>\n\t<p>\n\t\tby Matt Kulukundis &amp; Andy Soffer</p>\n</blockquote>\n<p>\n\tSummary of the talk:</p>\n<blockquote>\n\t<p>\n\t\tC++ runs the world&rsquo;s systems, and with that comes a responsibi",
+        "id": 6240367,
+        "language": "en",
+        "link": "https://isocpp.org//blog/2026/08/cppcon-2026-ai-is-ub-with-better-pr-matt-kulukundis-andy-soffer",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://avatars.sched.co/3/c5/23329177/avatar.jpg?4b4",
+        "title": "CppCon 2026 AI is UB with Better PR -- Matt Kulukundis &amp; Andy Soffer",
+        "vote": 0
+    }
+]

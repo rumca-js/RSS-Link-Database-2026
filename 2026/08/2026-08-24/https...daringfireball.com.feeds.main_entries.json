@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Gruber",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-24T17:31:53.771501+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-24T16:37:54+00:00",
+        "description": "<p>10 years ago <a href=\"https://daringfireball.net/linked/2016/06/10/bitcam\">I wrote about BitCam 1.0</a>:</p>\n\n<blockquote>\n  <p>Gorgeous, unbelievably faithful one-bit camera app for iPhone done\nin the style of the original Mac. A lovely tribute to <a href=\"https://www.google.com/search?q=bill+atkinson+dithering+algorithm\">Bill\nAtkinson\u2019s remarkable dithering algorithm</a>. \u201cCatnip for\nold-school Mac users,\u201d <a href=\"https://twitter.com/siracusa/status/740989106268831744\">says John Siracusa</a>. Check out <a href=\"https://twitter.com/cdespinosa/with_replies\">the\nfun recent-hire-at-Apple Chris Espinosa is having with it</a>.</p>\n</blockquote>\n\n<p>Originally a creation of The Iconfactory, BitCam is now in the good hands of <a href=\"https://heliographe.studio/\">H\u00e9liographe</a> (coiners of <a href=\"https://www.threads.com/@heliographe.studio/post/DTeOwAykwQ1\">the best icon-design zinger</a> ever). Version 2.0 has everything great about BitCam 1, and so much more. Just a wonderful ode t",
+        "id": 6239475,
+        "language": "",
+        "link": "https://bitcam-app.com",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 489,
+        "source_url": "https://daringfireball.com/feeds/main",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "BitCam: The 1-Bit Camera App Turns 2.0",
+        "vote": 0
+    }
+]

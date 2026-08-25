@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ryan Daws",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-24T15:34:31.294686+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-24T15:15:08+00:00",
+        "description": "<p>Canonical is funding a University of Bristol PhD to automate translation of C code into Rust for Ubuntu&#8217;s security tools. The three-year project, backed with matched funding from UK Research and Innovation (UKRI), aims to address a difficult problem: manual conversion of C code is expensive and carries risk, yet leaving it untouched means forgoing [&#8230;]</p>\n<p>The post <a href=\"https://www.developer-tech.com/news/canonical-bristol-phd-to-automate-c-to-rust-translation/\">Canonical backs Bristol PhD to automate C to Rust translation</a> appeared first on <a href=\"https://www.developer-tech.com\">Developer Tech News</a>.</p>",
+        "id": 6238661,
+        "language": "en-GB",
+        "link": "https://www.developer-tech.com/news/canonical-bristol-phd-to-automate-c-to-rust-translation",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 92,
+        "source_url": "https://www.developer-tech.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Canonical backs Bristol PhD to automate C to Rust translation",
+        "vote": 0
+    }
+]
