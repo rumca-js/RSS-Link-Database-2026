@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kuba Klawiter",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-25T12:51:15.920198+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-25T11:59:23+00:00",
+        "description": "W odcinku:\n00:00 Kradzie\u017c to\u017csamo\u015bci na Facebooku\n00:47 Walka Rafa\u0142a Brzoski z Facebookiem\n02:25 Fejkowe reklamy z Kub\u0105 \n02:43 Dyrektor Mety w Radzie ds. Cyfryzacji - czyli pa\u0144stwo raczej nie pomo\u017ce\n05:13 M\u00f3wmy o problemach, kt\u00f3re widzimy",
+        "id": 6244724,
+        "language": "pl-PL",
+        "link": "https://www.youtube.com/watch?v=ris_gMLHfKk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 179,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLr4hMhk_2KE0GUBSBrspGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/ris_gMLHfKk/hqdefault.jpg",
+        "title": "Fejk jak Facebook",
+        "vote": 0
+    }
+]

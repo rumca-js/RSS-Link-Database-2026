@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-25T13:09:45.922780+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-25T12:14:06+00:00",
+        "description": "Learn how to move past generic AI-generated interfaces and ship high-end, production-ready web applications using modern AI coding workflows. In this hands-on course, you will gather deep project context, clone and restyle proven UI architectures, and implement dynamic, Apple-style scroll animations using Hicksfield AI. Finally, you'll see the complete end-to-end front-end build deployed live to Cloudflare.\n\n\u2764\ufe0f Support for this channel comes from our friends at Scrimba \u2013 the coding platform that's reinvented interactive learning: https://scrimba.com/freecodecamp\n\n\u2b50\ufe0f Chapters \u2b50\ufe0f\n- 00:00 Intro\n- 02:25 Build Context\n- 05:32 Clone Strategy\n- 10:55 Cloning CMC\n- 14:24 Merge Context\n- 18:04 Impeccable Skill\n- 23:49 Worktree Variations\n- 31:26 Final Touches\n- 36:48 Scroll Animations\n- 42:30 Frame Analysis\n- 48:15 Video Generation\n- 55:44 Animated About\n- 00:05 Cloudflare Deploy\n\n\ud83c\udf89 Thanks to our Champion and Sponsor supporters:\n\ud83d\udc7e @omerhattapoglu1158\n\ud83d\udc7e @goddardtan\n\ud83d\udc7e @akihayashi6629\n\ud83d\udc7e @kikilogs",
+        "id": 6244869,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=g3X8JauSWTM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/g3X8JauSWTM/hqdefault.jpg",
+        "title": "Stop Building AI Slop \u2013 Build High-End Web Apps with AI",
+        "vote": 0
+    }
+]

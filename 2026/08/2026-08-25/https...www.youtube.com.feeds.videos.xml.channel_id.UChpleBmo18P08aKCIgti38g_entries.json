@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Matt Wolfe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-25T16:54:05.433270+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-25T14:08:30+00:00",
+        "description": "I built an AI-powered business expense tracker that automatically digs through my email for receipts, categorizes my expenses, and keeps track of where my money is going\u2014without me having to constantly update a spreadsheet.\n\nAnd I built the whole thing with a team of AI agents in @Hyperagentapp .\n\nFernando finds receipts, invoices, and subscription confirmations in my inbox. Jackson categorizes everything into things like software subscriptions, production costs, gear, travel, and subcontractors. Then Xander keeps everything organized in a dashboard, flags subscriptions I forgot about, and updates it daily.  \n\nBecause the agents can hand work off to each other, the whole thing operates more like one connected workflow instead of three separate AI chats.\n\nAnd my team can use the same agents through Hyperagent or directly inside Slack\u2014or even copy the build for themselves.\n\nBuild your own team of AI Agents with Hyperagent and get $100 in bonus credits when you sign up for a paid plan he",
+        "id": 6246575,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/f74JmwXm-sQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 933,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChpleBmo18P08aKCIgti38g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/f74JmwXm-sQ/hqdefault.jpg",
+        "title": "This AI Found Money I Was Wasting",
+        "vote": 0
+    }
+]

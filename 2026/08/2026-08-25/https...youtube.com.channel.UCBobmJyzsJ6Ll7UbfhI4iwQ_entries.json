@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unreal Engine",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-25T14:52:10.146400+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-25T14:29:12+00:00",
+        "description": "Watch this video and discover how Unreal Engine 5 helped Bit Reactor bring a galaxy of tactical possibilities to life, empowering the studio with the tools to build their debut project \u2018Star Wars Zero Company,\u2019 a gritty, authentic Star Wars\u2122 story set in the Clone Wars era. \n\nThe game sees you deploy a team of operatives with a wide variety of archetypes\u2014from scoundrels to astromechs, or even a Jedi\u2014in a single-player, turn-based tactics story developed in collaboration with Electronic Arts, Respawn Entertainment, and Lucasfilm Games.\n\nCheck out the interview to find out how Unreal Engine features such as Lumen, Nanite, and MetaHuman helped Bit Reactor Technical Director Ryan McFall\u2019s team realize their vision.\n\nRead the full interview here: https://epic.gm/dev-interviews-star-wars-zero-company\n\n#StarWarsZeroCompany #BitReactor #UnrealEngine #Lumen #Nanite #MetaHuman",
+        "id": 6245566,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=LNQ0oxTfcVI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 685,
+        "source_url": "https://youtube.com/channel/UCBobmJyzsJ6Ll7UbfhI4iwQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/LNQ0oxTfcVI/hqdefault.jpg",
+        "title": "Star Wars Zero Company | Developer Interview | Unreal Engine",
+        "vote": 0
+    }
+]

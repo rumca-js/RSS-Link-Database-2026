@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Alexander Mejia",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-25T18:46:58.266973+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-25T15:30:48+00:00",
+        "description": "NVIDIA is bringing the next wave of RTX gaming to the Gamescom conference running this week in Cologne, Germany, with support for new games, anti-cheat technologies and increased visual quality.\u00a0 Electronic Arts, Embark and Ubisoft are among the latest game publishers and developers bringing their blockbuster titles to NVIDIA RTX Spark ahead of its launch [&#8230;]",
+        "id": 6247427,
+        "language": "en-US",
+        "link": "https://blogs.nvidia.com/blog/gamescom-rtx-spark-pc-games-technology",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 1019,
+        "source_url": "https://feeds.feedburner.com/nvidiablog",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://blogs.nvidia.com/wp-content/uploads/2026/08/Gamescom-RTX-Spark-Key-Visual-842x450.jpg",
+        "title": "Leading Publishers Bring Blockbuster PC Games and Technology to NVIDIA RTX Spark",
+        "vote": 0
+    }
+]

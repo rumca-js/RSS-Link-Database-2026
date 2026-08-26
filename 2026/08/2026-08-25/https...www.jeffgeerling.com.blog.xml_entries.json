@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-25T20:26:08.875131+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-25T14:18:00+00:00",
+        "description": "<p>For a mobile 'mini homelab' project I'm working on, I wanted to use 5G Internet as a primary 'on-to-go' connection, but still have the ability to plug in another Internet connection when I put the mobile rack I'm building in a fixed location.</p>\n<figure class=\"insert-image\"><img src=\"https://www.jeffgeerling.com/blog/2026/unifi-u5g-backup-debugging/unifi-5g-backup-20mbps-in-studio.jpg\"\n alt=\"UniFi 5G Backup getting 20 Mbps in my studio\" width=\"700\" height=\"auto\">\n</figure>\n\n<p>I'll have more on that project soon, but I figured this project was a good way to check out Ubiquiti's solutions, especially considering many of their smaller gear fits nicely within the dimensions of a <a href=\"https://mini-rack.jeffgeerling.com\">mini rack</a> (the 3U DeskPi RackMate TT is pictured above).</p>",
+        "id": 6248178,
+        "language": "en",
+        "link": "https://www.jeffgeerling.com/blog/2026/unifi-u5g-backup-debugging",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 162,
+        "source_url": "https://www.jeffgeerling.com/blog.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.jeffgeerling.com/blog/2026/unifi-u5g-backup-debugging/unifi-5g-backup-20mbps-in-studio.jpg",
+        "title": "Debugging Ubiquiti's 5G Backup on AT&T",
+        "vote": 0
+    }
+]

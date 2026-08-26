@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/nzbfast",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-25T06:21:15.382989+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-25T00:36:07+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>The latest version of every nzb downloader has been benchmarked against each other, with clock timings, cpu time, memory usage, network i/o &amp; disk i/o fully tracked.</p> <p>This has taken 48 hours of continuous running on a variety of different machines, with multiple different internet line speeds - 256Meg, 512Meg, 1 Gbps, and 10 gbps. And its taken weeks to get the harnesses right to make it an automated process. in most tests, 5 servers were used.</p> <p>Every nzb client was configured to its best settings to be optimum. the details are in the notes.</p> <p>If you always wanted to know how each nzb downloader performs on various different platforms and line speeds, this could be a useful resource.</p> <p>for the version thats just the raw data, without any highlighting, colors, or commentary.</p> <p><a href=\"https://nzbfast.github.io/nzbfast/benchmarks-data.html\">https://nzbfast.github.io/nzbfast/benchmarks-data.html</a></p> <p>and this is the ",
+        "id": 6242931,
+        "language": "en",
+        "link": "https://www.reddit.com/r/usenet/comments/1vxkq23/benchmarking_nzbget_vs_sabnzbd_vs_nzbfast_vs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 550,
+        "source_url": "https://www.reddit.com/r/usenet/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Benchmarking NZBGet vs SABnzbd vs nzbfast vs weaver vs rustnzb vs Newsbin Pro",
+        "vote": 0
+    }
+]

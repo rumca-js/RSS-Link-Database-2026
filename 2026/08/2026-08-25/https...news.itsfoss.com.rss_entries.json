@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Abhishek Prakash",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-25T10:18:04.009692+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-25T09:44:54+00:00",
+        "description": "The $42 open source dongle gives you BIOS-level keyboard and mouse control plus SSH access. No software installation is needed on the target machine.",
+        "id": 6243923,
+        "language": "en-US",
+        "link": "https://itsfoss.com/news/openterface-keymod-crowdfunding-campaign",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 156,
+        "source_url": "https://news.itsfoss.com/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://itsfoss.com/content/images/2026/08/keycmd.webp",
+        "title": "This Tiny USB Device Turns Your Phone Into a Keyboard, Mouse, and SSH Terminal",
+        "vote": 0
+    }
+]

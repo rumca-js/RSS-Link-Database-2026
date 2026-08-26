@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kate Taylor",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-25T09:53:15.730078+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-25T09:30:00+00:00",
+        "description": "Thanks to a dwindling supply of open roles, \u201cone-click\u201d applications, and the rise of artificial intelligence, it\u2019s easier than ever to apply for a job. We\u2019re all paying the price.",
+        "id": 6243766,
+        "language": "en-US",
+        "link": "https://www.wired.com/story/applying-for-a-job-is-too-damn-easy",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 396,
+        "source_url": "https://www.wired.com/feed/category/business/latest/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media.wired.com/photos/6a84e66df285f2dc95adad96/master/pass/Recruiters-Want-It-To-Be-Harder-To-Apply-For-a-Job-Business.jpg",
+        "title": "It Should Be Harder to Apply for a Job. No, Really",
+        "vote": 0
+    }
+]

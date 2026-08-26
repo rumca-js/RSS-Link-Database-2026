@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NetworkChuck",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-25T18:54:30.209252+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-25T18:03:38+00:00",
+        "description": "Show ThreatLocker some love and take control of what runs in your environment. See how ThreatLocker can help you lock down applications and AI tools without getting in the way: \nhttp://www.threatlocker.com/networkchuck-ai\n\nDavid Heinemeier Hansson spent more than 20 years using macOS. Then he put roughly 3,000 hours into building the computer experience he actually wanted: Omarchy.\n\nDHH created Ruby on Rails, co-owns 37signals, and now he\u2019s rethinking what a personal computer should feel like. In this conversation, DHH and I talk about why he left macOS, why Omarchy is built around Arch Linux, Hyprland, and Quickshell, and why opinionated defaults might be Linux\u2019s best shot at becoming genuinely approachable.\n\nThis isn\u2019t a distro tour. It\u2019s a conversation about ownership, taste, constraints, and the vision behind DHH\u2019s perfect operating system.\n\nLEARN MORE:\n\ud83c\udf10 Omarchy: https://omarchy.org\n\ud83d\udcd5 The Omarchy Manual: https://omarchy.org/manual\n\ud83d\udcbb Omarchy on GitHub: https://github.com/basecamp/",
+        "id": 6247501,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=_CuibYl_Fh0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 565,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9x0AN7BWHpCDHSm9NiJFJQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/_CuibYl_Fh0/hqdefault.jpg",
+        "title": "Is Linux the perfect operating system? - Omarchy interview with DHH",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ryan Daws",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-25T15:25:17.395199+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-25T14:56:12+00:00",
+        "description": "<p>OpenAI&#8217;s GPT-5.6 model family is now available in Kiro, the AWS agentic coding service built for spec-driven development and testing. The update brings three models from OpenAI&#8217;s latest flagship series \u2013 Sol, Terra, and Luna \u2013 into Kiro. AWS and OpenAI describe the pairing as a way to help developers produce code with fewer iterations [&#8230;]</p>\n<p>The post <a href=\"https://www.developer-tech.com/news/aws-adds-openai-gpt-5-6-kiro-agentic-coding-workflow/\">AWS adds OpenAI&#8217;s GPT-5.6 to Kiro&#8217;s agentic coding workflow</a> appeared first on <a href=\"https://www.developer-tech.com\">Developer Tech News</a>.</p>",
+        "id": 6245885,
+        "language": "en-GB",
+        "link": "https://www.developer-tech.com/news/aws-adds-openai-gpt-5-6-kiro-agentic-coding-workflow",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 92,
+        "source_url": "https://www.developer-tech.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "AWS adds OpenAI\u2019s GPT-5.6 to Kiro\u2019s agentic coding workflow",
+        "vote": 0
+    }
+]
