@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "GitHub",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-26T17:40:24.606923+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-26T13:59:07+00:00",
+        "description": "En este Jueves de Quack, Bruno y Gisela se juntan para charlar de WebMCP y y de c\u00f3mo hacer sitios agent-ready con interacciones m\u00e1s confiables, menos errores y mejor automatizaci\u00f3n.",
+        "id": 6255025,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=9ZhKn8hA_sI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 1005,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7c3Kb6jYCRj4JOHHZTxKsQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/9ZhKn8hA_sI/hqdefault.jpg",
+        "title": "Jueves de Quack con Gisela, hablamos de WebMCP",
+        "vote": 0
+    }
+]

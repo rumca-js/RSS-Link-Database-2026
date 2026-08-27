@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ryan Daws",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-26T14:21:49.845274+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-26T14:07:43+00:00",
+        "description": "<p>AI agents now rank among the top tools developers use for writing and testing code, but manual checks still gate what reaches production. The State of Development 2026 report from Temporal puts numbers behind that pattern, drawing on a survey of 554 engineers and technical leaders who currently use AI agents. Its opening finding sets [&#8230;]</p>\n<p>The post <a href=\"https://www.developer-tech.com/news/developers-trust-ai-agents-still-verify-code-manually/\">Developers trust AI agents yet still verify code manually</a> appeared first on <a href=\"https://www.developer-tech.com\">Developer Tech News</a>.</p>",
+        "id": 6253386,
+        "language": "en-GB",
+        "link": "https://www.developer-tech.com/news/developers-trust-ai-agents-still-verify-code-manually",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 92,
+        "source_url": "https://www.developer-tech.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Developers trust AI agents yet still verify code manually",
+        "vote": 0
+    }
+]

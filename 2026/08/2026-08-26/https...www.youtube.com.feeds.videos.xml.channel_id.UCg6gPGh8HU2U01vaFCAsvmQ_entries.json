@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Chris Titus Tech",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-26T11:29:55.127124+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-26T11:15:35+00:00",
+        "description": "I rebuilt my entire website from Hugo to Astro after years of using Hugo as the backbone of ChrisTitus.com. Hugo was fast, simple, and honestly still fantastic\u2014but my site had grown into much more than a blog. Downloads, livestream archives, chat replay, forums, search, store integrations, and other features were starting to push Hugo beyond what I wanted it to do.\n\nIn this video, I break down why I moved to Astro, what the massive migration looked like, how I used AI review loops to help with the conversion, and what Astro gives me that Hugo didn't. I also cover the downsides: Astro has a much heavier Node/npm ecosystem, requires more security and CI checks, and the migration even appears to have reduced my AdSense revenue.\nWas it worth it? For my site, absolutely. But if you're running a straightforward static blog, I'd still recommend Hugo.\n\nThanks to Blacksmith for sponsoring this video. I\u2019ve been using their GitHub Actions runners and caching to significantly reduce CI build time",
+        "id": 6252200,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=KwsGvnsGq4c",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 444,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCg6gPGh8HU2U01vaFCAsvmQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/KwsGvnsGq4c/hqdefault.jpg",
+        "title": "I Rebuilt My Entire Website in Astro\u2026 Was It Worth It?",
+        "vote": 0
+    }
+]

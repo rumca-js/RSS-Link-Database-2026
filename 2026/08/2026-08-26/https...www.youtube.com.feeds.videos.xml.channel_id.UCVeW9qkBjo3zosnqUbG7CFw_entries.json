@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Hammond",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-26T14:30:34.858163+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-26T14:03:03+00:00",
+        "description": "A quick look at how device code phishing abuses a legitimate Microsoft authentication flow to steal OAuth tokens.\n\nWatch the full video: https://youtu.be/NKS8Gbt6qUk?si=9jWYD1O7aiyB_TeZ",
+        "id": 6253428,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/QSCFW4up5Co",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 959,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVeW9qkBjo3zosnqUbG7CFw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/QSCFW4up5Co/hqdefault.jpg",
+        "title": "Device Code Phishing",
+        "vote": 0
+    }
+]

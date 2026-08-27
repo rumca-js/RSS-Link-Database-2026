@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kai Lentit",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-26T16:30:00.081615+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-26T15:22:51+00:00",
+        "description": "A official overhead-projector presentation by Jean-Baptiste Rossi-Mueller right before his 3 months summer holiday.\n\nNot supported by the EU.\n\neuropean ai\neu/acc\nnext gen ai\ntechindustry\n\n#officehumor #techindustry #europeanunion",
+        "id": 6254386,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=gGlpBuW6ZFc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 264,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCi8C7TNs2ohrc6hnRQ5Sn2w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/gGlpBuW6ZFc/hqdefault.jpg",
+        "title": "How Americans see EU Tech",
+        "vote": 0
+    }
+]

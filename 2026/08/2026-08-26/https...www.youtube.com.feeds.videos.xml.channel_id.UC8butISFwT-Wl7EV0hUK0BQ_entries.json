@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-26T17:14:26.871659+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-26T15:08:03+00:00",
+        "description": "Learn how to build full-stack applications and autonomous AI workflows using Meta's Muse models and the Muse Code coding harness. Andrew Brown guides you through model architecture, structured outputs, search grounding, and programmatic API integrations with SDKs like LangChain. You will also master advanced developer workflows in the Muse Code CLI, including custom skills, MCP server setup, automated goal decomposition, and containerized deployments with Docker Compose.\n\n\u270f\ufe0f Course created by @ExamProChannel \n\n\u2764\ufe0f Support for this channel comes from our friends at Scrimba \u2013 the coding platform that's reinvented interactive learning: https://scrimba.com/freecodecamp\n\n\u2b50\ufe0f Contents \u2b50\ufe0f\n- 0:00:00 Introduction & MetaMuse Course Overview\n- 0:00:49 Meta Muse Models, Architecture & Pricing Breakdown\n- 0:12:14 Getting Started in the Meta AI Playground\n- 0:14:56 Prompting Muse Spark & Vision Capabilities\n- 0:20:53 Generating a Retro Single-Page Layout (PHP-Nuke Concept)\n- 0:27:07 Conceptualizing C",
+        "id": 6254776,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=b-P5ZQ1NxxE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/b-P5ZQ1NxxE/hqdefault.jpg",
+        "title": "Meta Muse Code & Muse Spark Course \u2013 Build AI Agents, APIs, and Full-Stack Apps",
+        "vote": 0
+    }
+]

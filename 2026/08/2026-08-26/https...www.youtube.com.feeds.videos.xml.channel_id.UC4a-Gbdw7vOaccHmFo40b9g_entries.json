@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Khan Academy",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-26T14:56:44.035893+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-26T14:15:40+00:00",
+        "description": "Learn more in Khan Academy\u2019s What are deductible, copay, in and out of network? lesson!",
+        "id": 6253653,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/QyL0sJEtXlY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 977,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4a-Gbdw7vOaccHmFo40b9g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/QyL0sJEtXlY/hqdefault.jpg",
+        "title": "Why Your Doctor Visit Costs So Much",
+        "vote": 0
+    }
+]

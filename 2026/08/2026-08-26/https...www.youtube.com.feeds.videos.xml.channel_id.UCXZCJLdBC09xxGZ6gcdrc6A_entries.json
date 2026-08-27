@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "OpenAI",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-26T13:21:24.040716+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-26T09:06:31+00:00",
+        "description": "At loveholidays, AI-assisted code changes grew from 7% to 79% in a year, while deployments increased 73% without growing the engineering team. \ud83d\ude80 With Codex, product managers, designers and commercial teams can now build alongside engineers\u2014with 10+ new search experiences already developed through Search Playground, most by non-engineers.",
+        "id": 6252902,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=o38xYi2mtgc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 935,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXZCJLdBC09xxGZ6gcdrc6A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/o38xYi2mtgc/hqdefault.jpg",
+        "title": "What Codex Unlocks for loveholidays",
+        "vote": 0
+    }
+]

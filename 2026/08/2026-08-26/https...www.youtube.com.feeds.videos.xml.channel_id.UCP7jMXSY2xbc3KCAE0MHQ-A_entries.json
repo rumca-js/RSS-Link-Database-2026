@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Google DeepMind",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-26T17:11:51.301195+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-26T15:45:28+00:00",
+        "description": "Long before the current wave of large language models, one academic researcher was trying to give machines a sense of their own limitations. Zoubin Ghahramani has spent the last 30 years pioneering a type of intelligence built on the mathematics of uncertainty. Today, as a professor at Cambridge and VP of research at Google DeepMind, Zoubin finds himself at the heart of an interesting debate: will improving machine uncertainty be one of the missing pieces to ever improving AI? \n\nTimecodes:\n00:00 Introduction \n01:06 The role of uncertainty \n07:45 Correctness vs confidence \n09:40 Historical perspectives\n16:10 Bayesian thinking in AI \n26:30 Uncertainty in the real world \n36:42 Future research and AGI \n___\n\nSubscribe to our channel https://www.youtube.com/@googledeepmind \nFind us on X https://x.com/GoogleDeepMind\nFollow us on Instagram https://instagram.com/googledeepmind \nAdd us on Linkedin https://www.linkedin.com/company/deepmind/",
+        "id": 6254735,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=tBjgCj_dGZM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 934,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP7jMXSY2xbc3KCAE0MHQ-A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/tBjgCj_dGZM/hqdefault.jpg",
+        "title": "The mathematics of AI uncertainty",
+        "vote": 0
+    }
+]

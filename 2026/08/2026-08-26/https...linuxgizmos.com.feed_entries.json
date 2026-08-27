@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-26T02:15:39.164252+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-26T02:08:01+00:00",
+        "description": "NVIDIA has announced the Jetson Orin Nano 2, an updated edge AI platform aimed at robotics, drones, machine vision, and other embedded AI applications. The new module provides up to 78 TOPS of AI performance, 8GB of memory, and an 8-core Arm CPU while retaining the compact form factor of the previous Jetson Orin Nano [&#8230;]",
+        "id": 6249947,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/upcoming-jetson-orin-nano-2-boosts-edge-ai-performance-to-78-tops",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Upcoming Jetson Orin Nano 2 boosts edge AI performance to 78 TOPS",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-26T09:46:22.469579+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-26T09:00:00+00:00",
+        "description": "<div id=\"remove_no_follow\">\n\t\t<div class=\"grid grid--cols-10@md grid--cols-8@lg article-column\">\n\t\t\t\t\t  <div class=\"col-12 col-10@md col-6@lg col-start-3@lg\">\n\t\t\t\t\t\t<div class=\"article-column__content\">\n<section class=\"wp-block-bigbite-multi-title\"><div class=\"container\"></div></section>\n\n\n\n<p class=\"wp-block-paragraph\">Here is a mundane question that came up in an agentic coding session: How do I convert a select widget to a radio group? I was working on <a href=\"https://url.usb.m.mimecastprotect.com/s/dfaeCrgGYGToE07VT7f6Zh4J9QI?domain=github.com\">Bram</a>, a desktop app that harnesses coding agents to a GitHub-backed workflow. Bram\u2019s UI is made with <a href=\"https://url.usb.m.mimecastprotect.com/s/DOhdCvmMjMuKxjqNcXhlxhQHqYX?domain=github.com\">XMLUI</a>, a framework that wraps a simple declarative syntax around React and CSS. Agents using the XMLUI Model Context Protocol (MCP) server are instructed to prefer <a href=\"https://url.usb.m.mimecastprotect.com/s/peyKCwnNkNs9Kzk8h9iG6hJ1l",
+        "id": 6251631,
+        "language": "en-US",
+        "link": "https://www.infoworld.com/article/4211198/when-an-ai-agent-goes-off-the-rails-file-a-bug-to-fix-the-documentation-then-test-the-fix.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 468,
+        "source_url": "https://www.infoworld.com/feed/",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "When an AI agent goes off the rails, file a bug to fix the documentation \u2013 then test the fix",
+        "vote": 0
+    }
+]

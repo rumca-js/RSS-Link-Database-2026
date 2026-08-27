@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Chris Price",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-26T12:29:34.246563+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-26T11:52:39+00:00",
+        "description": "Households warned of \u2018worse to come\u2019 as energy bills rise",
+        "id": 6252551,
+        "language": "en-UK",
+        "link": "https://www.telegraph.co.uk/business/2026/08/26/ofgem-price-cap-energy-bills-burnham-gas-electricity",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 81,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 354,
+        "source_url": "https://www.telegraph.co.uk/business/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Households warned of \u2018worse to come\u2019 as energy bills rise",
+        "vote": 0
+    }
+]
