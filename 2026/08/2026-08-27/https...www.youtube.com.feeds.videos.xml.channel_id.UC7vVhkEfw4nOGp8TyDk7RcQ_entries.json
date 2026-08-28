@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Boston Dynamics",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-27T15:44:46.562244+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-27T14:22:34+00:00",
+        "description": "Mark DiLeo, a member of Atlas repair team, shares how Boston Dynamics fixes problems that have never been seen before and what makes a good robot surgeon.",
+        "id": 6261760,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/A0VdM2S3vL4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 451,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7vVhkEfw4nOGp8TyDk7RcQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/A0VdM2S3vL4/hqdefault.jpg",
+        "title": "What is a robot surgeon? #askaroboticist #bostondynamics #robotics",
+        "vote": 0
+    }
+]

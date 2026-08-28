@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ChuckAllison",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-28T00:13:13.948991+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-27T23:23:59+00:00",
+        "description": "<p>\n\tChuck Allison concludes his two-part series revisiting a minimalist unit-testing framework originally developed for teaching C++. Part 2 modernizes the design using facilities such as std::source_location and inline variables while preserving the framework&rsquo;s emphasis on simplicity and minimal overhead. The article also reflects on how the evolution of the C++ language has simplified framework implementation over the past 25 years.</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://freshsources.com/code-capsules/test-part2/\">Automated Unit Testing On-The-Cheap: Part 2</a></h3>\n\t<p>\n\t\tby Chuck Allison</p>\n</blockquote>\n<p>\n\tFrom the article:</p>\n<blockquote>\n\t<p>\n\t\tIn <a href=\"https://freshsources.com/code-capsules/test-part1/\">Part 1</a> of this two-part series I introduced a time-tested (i.e., old <img src=\"https://isocpp.org/images/smileys/grin.gif\" width=\"19\" height=\"19\" alt=\"grin\" style=\"border:0;\" />) technique that handled automated unit testing in a remarkably simple way, incl",
+        "id": 6265237,
+        "language": "en",
+        "link": "https://isocpp.org//blog/2026/08/modernizing-a-minimal-cpp-unit-test-framework-part-2",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://isocpp.org/images/smileys/grin.gif",
+        "title": "Automated Unit Testing On-The-Cheap: Part 2 -- Chuck Allison",
+        "vote": 0
+    }
+]

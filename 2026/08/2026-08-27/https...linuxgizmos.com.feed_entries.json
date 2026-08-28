@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-27T03:58:44.291046+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-27T03:18:22+00:00",
+        "description": "A recent Crowd Supply campaign features the Firehat, an open-source FireWire HAT designed for PCIe-capable single-board computers including the Raspberry Pi 5 and Radxa ROCK 2F. The board uses a VIA VT6315N IEEE 1394 controller and targets direct DV and HDV capture from older digital camcorders and tape decks using Linux. Developed by Computer Equipment [&#8230;]",
+        "id": 6258134,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/firewire-hat-with-pcie-2-0-for-tapeless-dv-and-hdv-capture",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "FireWire HAT with PCIe 2.0 for Tapeless DV and HDV Capture",
+        "vote": 0
+    }
+]

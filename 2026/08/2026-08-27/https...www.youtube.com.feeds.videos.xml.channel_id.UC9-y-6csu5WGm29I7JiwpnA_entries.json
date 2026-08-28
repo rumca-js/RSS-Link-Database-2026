@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Computerphile",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-27T13:31:22.225929+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-27T13:00:19+00:00",
+        "description": "The CPU can take time to find out the time, so how does it know the time? Matt Godbolt is the genius behind Compiler Explorer and the Godbolt BBC Micro Emulator, find more from him at godbolt.org \n\nComputerphile is supported by Jane Street. Learn more about them (and exciting career opportunities) at: https://jane-st.co/computerphile\n\nThis video was filmed and edited by Sean Riley.\n\nComputerphile is a sister project to Brady Haran's Numberphile. More at https://www.bradyharanblog.com",
+        "id": 6260728,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=xs5iOwkX9fU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 929,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9-y-6csu5WGm29I7JiwpnA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/xs5iOwkX9fU/hqdefault.jpg",
+        "title": "Why CPU Time \u2260 Wall Clock Time! - Computerphile",
+        "vote": 0
+    }
+]

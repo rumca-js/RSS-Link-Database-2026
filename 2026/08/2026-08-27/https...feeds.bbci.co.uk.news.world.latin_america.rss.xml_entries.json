@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-27T20:22:28.531480+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-27T20:10:30+00:00",
+        "description": "It is a step towards ending a plan to stop violence by bringing rebel and criminal groups to the negotiating table.",
+        "id": 6263904,
+        "language": "en-gb",
+        "link": "https://www.bbc.co.uk/news/articles/cvgy45zv8e2o",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 524,
+        "source_url": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f36b/live/71d35670-a213-11f1-9090-b51af3a01fc2.jpg",
+        "title": "Colombia's new president approves extradition of rebel leaders to US",
+        "vote": 0
+    }
+]

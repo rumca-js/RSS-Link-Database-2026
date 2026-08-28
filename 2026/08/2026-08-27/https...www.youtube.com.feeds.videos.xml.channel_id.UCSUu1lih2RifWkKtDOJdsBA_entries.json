@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NASASpaceflight",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-27T16:54:45.212238+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-27T13:46:09+00:00",
+        "description": "Instantaneous launch window: August 30th at 7:25:49AM EDT (11:25:49 UTC)\n\nMission: Falcon Heavy launch of NASA's Nancy Grace Roman Space Telescope\nLaunch location: Launch Complex 39A, Kennedy Space Center, Earth.\nTarget orbit: Transfer orbit to Sun-Earth Lagrange Point 2 (L2)\nCenter Core: B1XXX-1\nCenter Core history: New Booster\nCenter Core Recovery: None, will be expended\nMY Side Booster: B1072-3; 122d 21h 13min turnaround\nMY Side Booster history: GOES-U and Viasat-3 F3\nPY Side Booster: B1XXX-1\nPY Side Booster history: New Booster\nSide boosters recovery: Landing Zone 2 (LZ-2) and Landing Zone 40 (LZ-40)\nFairing halves: Unknown\nFairing recovery: Doug\nRocket trajectory: East-Northeast\nPayload mass: Approximately 10.5 metric tons\nStats:\n  - SpaceX's 714th launch overall.\n  - SpaceX's 105th launch of the year.\n  - SpaceX's 14th and last launch of the month.\n  - Earth's 206th orbital launch of the year.\n  - Falcon's 332nd launch since the last failure.\n  - Falcon Heavy's 13th orbital flig",
+        "id": 6262382,
+        "language": "",
+        "link": "https://www.youtube.com/watch?v=-8yDQhVgypw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 1013,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSUu1lih2RifWkKtDOJdsBA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/-8yDQhVgypw/hqdefault.jpg",
+        "title": "SpaceX Falcon Heavy Launches Roman Space Telescope",
+        "vote": 0
+    }
+]

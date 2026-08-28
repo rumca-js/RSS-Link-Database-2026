@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Dave's Garage",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-27T16:16:52.173092+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-27T15:54:25+00:00",
+        "description": "Dave explains what happens when you nuke one network packet, and how it is handled differently by TCP and UDP, and what that means for you!\n\nCheck out the NEW Task Manager on ShopTalk!\nhttps://youtu.be/c3EEs-O3bGE",
+        "id": 6261908,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=DSA4VFdqELg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 907,
+        "source_url": "https://youtube.com/channel/UCNzszbnvQeFzObW0ghk0Ckw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/DSA4VFdqELg/hqdefault.jpg",
+        "title": "Reliable Isn\u2019t Always Better: TCP vs UDP",
+        "vote": 0
+    }
+]

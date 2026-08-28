@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "David Bombal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-27T19:46:56.804742+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-27T16:00:12+00:00",
+        "description": "Jen Easterly tells David why AI is radically shrinking the time between vulnerability discovery and weaponization. She warns that zero-days could soon be exploited so quickly that Patch Tuesday is no longer enough.\n\n#rsac #bhusa2026 #patchtuesday",
+        "id": 6263723,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/vDYVpSklrOU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 984,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP7WmQ_U4GB3K51Od9QvM0w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/vDYVpSklrOU/hqdefault.jpg",
+        "title": "Say Goodbye To Patch Tuesdays",
+        "vote": 0
+    }
+]

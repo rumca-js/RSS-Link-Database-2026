@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "David Shapiro",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-27T19:55:39.543700+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-27T18:52:47+00:00",
+        "description": null,
+        "id": 6263761,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=ekimKKpDRPE",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 946,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvKRFNawVcuz4b9ihUTApCg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/ekimKKpDRPE/hqdefault.jpg",
+        "title": "The OpenAI HuggingFace attack is pure stupidity",
+        "vote": 0
+    }
+]

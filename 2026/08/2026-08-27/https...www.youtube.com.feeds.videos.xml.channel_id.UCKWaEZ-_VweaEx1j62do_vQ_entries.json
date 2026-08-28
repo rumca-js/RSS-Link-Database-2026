@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-27T11:37:35.828103+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-27T11:00:22+00:00",
+        "description": "Learn more about LLM Benchmarks here \u2192 https://ibm.biz/~e64ktvs52\n\nYour AI model scored high, but does it actually work? Cedric Clyburn explains why LLM benchmarks don\u2019t reflect real-world performance in AI applications and agents. Learn how to evaluate accuracy, latency, and cost to build reliable AI systems at scale.\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/~8qaatdRba\n\nAI was used in the creation of the transcript and metadata for this video.\n\n#llm #aievaluation #aiengineering #aiagents #machinelearning",
+        "id": 6260037,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=nVImVgKpoOY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/nVImVgKpoOY/hqdefault.jpg",
+        "title": "LLM & AI Agent Benchmarks vs Reality: Why AI Applications Break",
+        "vote": 0
+    }
+]

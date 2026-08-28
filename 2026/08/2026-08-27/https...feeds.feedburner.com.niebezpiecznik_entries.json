@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "redakcja",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-27T06:42:43.510095+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-27T05:06:41+00:00",
+        "description": "<p>Citizen Lab <a href=\"https://citizenlab.ca/research/uncovering-global-telecom-exploitation-by-covert-surveillance-actors/\" target=\"_blank\">opisa\u0142</a> dwie wieloletnie kampanie nieautoryzowanego namierzania lokalizacji telefon\u00f3w kom\u00f3rkowych nale\u017c\u0105cych do r\u00f3\u017cnych os\u00f3b. Atakuj\u0105cy przeskakiwali mi\u0119dzy protoko\u0142ami SS7 i Diameter, podszywali si\u0119 pod operator\u00f3w z wielu pa\u0144stw &#8212; w tym z polskiego Plusa &#8212; a tak\u017ce wysy\u0142ali niewidoczne dla u\u017cytkownika SMS-y z &#8220;ukrytymi&#8221; poleceniami dla karty SIM. Zidentyfikowano ponad 16 000 pr\u00f3b lokalizacji.<span id=\"more-27330\"></span></p>\n<div id=\"attachment_27331\" style=\"width: 360px\" class=\"wp-caption aligncenter\"><a href=\"https://niebezpiecznik.pl/wp-content/uploads/2026/08/nbzp-operatorzy-widma-v4.png\"><img fetchpriority=\"high\" decoding=\"async\" aria-describedby=\"caption-attachment-27331\" src=\"https://niebezpiecznik.pl/wp-content/uploads/2026/08/nbzp-operatorzy-widma-v4-350x197.png\" alt=\"\" width=\"350\" height=\"197\" class=\"size-med",
+        "id": 6258711,
+        "language": "pl-PL",
+        "link": "https://niebezpiecznik.pl/post/namierzali-lokalizacje-ludzi-niewidocznymi-sms-ami-uzyto-tez-polskiego-operatora",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 239,
+        "source_url": "https://feeds.feedburner.com/niebezpiecznik",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://niebezpiecznik.pl/wp-content/uploads/2026/08/nbzp-operatorzy-widma-v4-150x150.png",
+        "title": "Namierzali lokalizacj\u0119\u00a0ludzi niewidocznymi SMS-ami. U\u017cyto te\u017c\u00a0polskiego operatora",
+        "vote": 0
+    }
+]
