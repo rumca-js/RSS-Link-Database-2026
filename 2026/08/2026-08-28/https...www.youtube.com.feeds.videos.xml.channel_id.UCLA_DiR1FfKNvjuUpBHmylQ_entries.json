@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NASA",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-28T22:58:04.070081+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-28T22:01:34+00:00",
+        "description": "On Aug. 28, 2026, President Donald J. Trump spoke with NASA astronauts Jessica Meir, Jack Hathaway, and Anil Menon as they orbited Earth aboard the International Space Station.\n\nThis is the first time that a sitting U.S. President has called the station from the Mission Control Center at NASA's Johnson Space Center.\n\nCredit: NASA",
+        "id": 6272139,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=1icdW32gS8A",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 1010,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLA_DiR1FfKNvjuUpBHmylQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/1icdW32gS8A/hqdefault.jpg",
+        "title": "President Donald J. Trump Calls the International Space Station Crew",
+        "vote": 0
+    }
+]

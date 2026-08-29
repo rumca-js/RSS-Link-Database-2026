@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-28T16:04:21.697767+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-28T10:00:00+00:00",
+        "description": "<p>I'm traveling to Chicago for <a href=\"https://vcfmw.org\">VCF Midwest</a> next month. I'll be demoing NTP time history on vintage Macs, with my own GPS-derived NTP service hosted on an Xserve G5, synced via NTP or a strange <a href=\"https://netatalk.io/manual/en/timelord.8\">AppleTalk timing extension from the 1990s</a>.</p>\n<figure class=\"insert-image\"><img src=\"https://www.jeffgeerling.com/blog/2026/mini-homelab-network-fits-in-carry-on/ubiquiti-mini-rack-network-with-ups.jpg\"\n alt=\"Ubiquiti mini rack network with UPS\" width=\"700\" height=\"auto\">\n</figure>\n\n<p>So I built a little 'portable homelab' (pictured above) that supports 1-10 Gbps networking, can run off a small battery for at least an hour, switches between multiple WANs (so I can get my own 5G Internet connection, in case I need it), and gives me 12 wired Ethernet connections.</p>",
+        "id": 6269648,
+        "language": "en",
+        "link": "https://www.jeffgeerling.com/blog/2026/mini-homelab-network-fits-in-carry-on",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 162,
+        "source_url": "https://www.jeffgeerling.com/blog.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.jeffgeerling.com/blog/2026/mini-homelab-network-fits-in-carry-on/ubiquiti-mini-rack-network-with-ups.jpg",
+        "title": "Building a mini Homelab that fits in my carry-on",
+        "vote": 0
+    }
+]

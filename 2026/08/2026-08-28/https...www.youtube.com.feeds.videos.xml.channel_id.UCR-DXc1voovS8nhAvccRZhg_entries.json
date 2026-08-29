@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeff Geerling",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-28T16:21:51.713836+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-28T15:00:20+00:00",
+        "description": "Back to School Tech Deals: https://micro.center/e01f1d\nSign up for a FREE 128 gig Flash Drive at Micro Center Austin, TX: https://micro.center/4f41ea\nVisit Micro Center Columbus for the Grand Re-Opening: https://micro.center/e9bcb1\nMicro Center News: https://micro.center/a14f51\n\nHuge thanks to Micro Center for sponsoring this build and my trip out to Columbus!\n\nMini rack parts (from Micro Center):\n\n  - UniFi Cloud Gateway Fiber: https://www.microcenter.com/product/695361/ubiquiti-cloud-gateway-fiber\n  - 2x Ubiquiti 1ft Etherlighting Patch Cable: https://www.microcenter.com/product/709787/ubiquiti-unifi-etherlighting-patch-cable-1-ft\n  - 2x Ubiquiti 3.3ft Etherlighting Patch Cable: https://www.microcenter.com/product/698549/ubiquiti-33-ft-unifi-premium-etherlighting-braided-patch-ethernet-cable-white\n  - UniFi Flex 2.5G PoE: https://www.microcenter.com/product/695379/ubiquiti-flex-25g-poe-8-port-poe-compliant-managed-network-switch-(psu-not-included)\n  - Ubiquiti 210 Watt AC Power Adap",
+        "id": 6269749,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=qclCCQeg-RQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 161,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR-DXc1voovS8nhAvccRZhg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/qclCCQeg-RQ/hqdefault.jpg",
+        "title": "Unplug it. Move it. It never goes down.",
+        "vote": 0
+    }
+]

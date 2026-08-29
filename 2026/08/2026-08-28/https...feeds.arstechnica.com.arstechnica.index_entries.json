@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ashley Belanger",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-28T17:33:43.119967+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-28T15:42:24+00:00",
+        "description": "Meta fixes AI glasses to stop recording any time users cover up the safety light.",
+        "id": 6270291,
+        "language": "en-US",
+        "link": "https://arstechnica.com/tech-policy/2026/08/meta-tweaks-ai-glasses-to-block-some-creepy-recordings-but-privacy-risks-remain",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 21,
+        "source_url": "https://feeds.arstechnica.com/arstechnica/index",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2235448062-500x500-1787929400.jpg",
+        "title": "Meta makes AI glasses slightly less creepy with limit on nonconsensual recording",
+        "vote": 0
+    }
+]
