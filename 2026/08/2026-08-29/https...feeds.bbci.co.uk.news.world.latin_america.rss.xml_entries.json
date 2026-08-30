@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-29T20:20:28.651681+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-29T19:44:54+00:00",
+        "description": "Len\u00edn Moreno denies taking bribes from a Chinese firm to secure a contract to build a hydroelectric plant.",
+        "id": 6276237,
+        "language": "en-gb",
+        "link": "https://www.bbc.co.uk/news/articles/cvgym9rz07zo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 524,
+        "source_url": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc04/live/e3ac7010-a3d0-11f1-b109-879e35c24276.jpg",
+        "title": "Former Ecuadorian president imprisoned for corruption",
+        "vote": 0
+    }
+]

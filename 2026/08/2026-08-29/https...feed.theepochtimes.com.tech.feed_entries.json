@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Autumn Spredemann",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-29T10:08:43.483395+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-29T09:00:09+00:00",
+        "description": "One book store owner noticed a sudden spike in book sales in April\u2014between double and triple the weekly sales tally.",
+        "id": 6273945,
+        "language": "en-US",
+        "link": "https://www.theepochtimes.com/article/book-sellers-alarmed-as-ai-giants-shred-millions-of-books-6070394",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 105,
+        "source_url": "https://feed.theepochtimes.com/tech/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.theepochtimes.com/assets/uploads/2026/08/22/id6078554-EpochImages-3681167447-xl-1080x720.jpg",
+        "title": "Book Sellers Alarmed as AI Giants Shred Millions of Books",
+        "vote": 0
+    }
+]
