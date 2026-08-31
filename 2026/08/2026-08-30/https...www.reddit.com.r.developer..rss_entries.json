@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/19damiano16",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-30T22:24:13.737435+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-30T18:04:52+00:00",
+        "description": "<table> <tr><td> <a href=\"https://www.reddit.com/r/developer/comments/1w2onb3/working_on_police_chopper_ai_for_our_isometric/\"> <img src=\"https://external-preview.redd.it/ZWQ3ZGFhaTh5am1oMbHA0sEy2bnX_NQQZmcHnj86DK1nNvPdPZxoPjIxMvEE.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=47a2b77fb7af681faabe7eac734cfb805c447590\" alt=\"Working on police chopper AI for our isometric game. It tracks the car and dives to obscure the view. Any ideas to improve this mechanic?\" title=\"Working on police chopper AI for our isometric game. It tracks the car and dives to obscure the view. Any ideas to improve this mechanic?\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>We&#39;re developing an isometric crime game inspired by GTA 2. Once you hit wanted level 3, a helicopter spawns. Currently, the player has to break line of sight to escape it, and it sometimes dives low to obscure the camera&#39;s view of the road. I&#39;m wondering if we should change this behavior or add new mechanics. Any feedba",
+        "id": 6281114,
+        "language": "en",
+        "link": "https://www.reddit.com/r/developer/comments/1w2onb3/working_on_police_chopper_ai_for_our_isometric",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 508,
+        "source_url": "https://www.reddit.com/r/developer/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://external-preview.redd.it/ZWQ3ZGFhaTh5am1oMbHA0sEy2bnX_NQQZmcHnj86DK1nNvPdPZxoPjIxMvEE.png?width=640&crop=smart&auto=webp&s=47a2b77fb7af681faabe7eac734cfb805c447590",
+        "title": "Working on police chopper AI for our isometric game. It tracks the car and dives to obscure the view. Any ideas to improve this mechanic?",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-30T22:27:41.372557+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-30T17:09:00+00:00",
+        "description": "<p>In building an NTP time demo on old Macs for <a href=\"https://vcfmw.org\">VCF Midwest</a>, I came across <a href=\"https://www.rfc-editor.org/info/rfc867/\">RFC 867</a> and <a href=\"https://www.rfc-editor.org/info/rfc868/\">RFC 868</a>, for the 'Daytime' and 'Time' Protocols, respectively.</p>\n<figure class=\"insert-image\"><img src=\"https://www.jeffgeerling.com/blog/2026/rfc-867-868-time/rfc-867-daytime-protocol.png\"\n\t\t\talt=\"RFC 867 Daytime Protocol\" width=\"700\" height=\"auto\">\n</figure>\n\n<p>My first exposure to any form of network time was when I upgraded from a used PowerBook 180c to my first 'new' computer, a Power Mac G3, in 2000. With the introduction of Mac OS 8.5, Apple added a 'Network Time Server' option in the Date &amp; Time Control Panel.</p>",
+        "id": 6281131,
+        "language": "en",
+        "link": "https://www.jeffgeerling.com/blog/2026/rfc-867-868-time",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 162,
+        "source_url": "https://www.jeffgeerling.com/blog.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.jeffgeerling.com/blog/2026/rfc-867-868-time/rfc-867-daytime-protocol.png",
+        "title": "Before NTP there were Time and Daytime",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-30T21:37:30.099156+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-30T17:30:11+00:00",
+        "description": "XCF has been the format used by GIMP for its entire life but that may not be the case for much longer as a new and improved but fully backwards compatible format is being worked on.\n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\nBlog Post: https://www.gimp.org/news/2026/08/16/dev-update-august-2026/\nXCF Docs: https://developer.gimp.org/core/standards/xcf/\nOld Email: https://marc.info/?l=gimp-developer&m=100852164010776&w=2\n\n=========Video Platforms==========\n\ud83c\udfa5 React: https://www.youtube.com/@BrodieRobertsonReacts\n\ud83c\udfa5 Podcast: https://techovertea.xyz/youtube\n\ud83c\udfae Gaming: https://brodierobertson.xyz/gaming\n\n==========Social Media==========\n\ud83c\udfa4 Discord: https://brodierobertson.xyz/discord\n\ud83d\udc26 Twitter: https://brodierobertson.xyz/twitter\n\ud83c\udf10 Mastodon: https://brodierobertson.xyz/mast",
+        "id": 6280917,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=kPdHbfr0PpA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/kPdHbfr0PpA/hqdefault.jpg",
+        "title": "GIMP Is Ditching Its Ancient File Format",
+        "vote": 0
+    }
+]

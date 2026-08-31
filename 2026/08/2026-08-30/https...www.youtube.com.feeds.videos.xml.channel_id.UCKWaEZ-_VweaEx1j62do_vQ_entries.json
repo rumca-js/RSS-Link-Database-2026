@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-30T13:47:57.744298+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-30T11:00:23+00:00",
+        "description": "Learn more about Knowledge Layers here \u2192 https://ibm.biz/~HPIDv0n6T\n\nAI models stop learning when training ends, but the world keeps changing. Bright Data Chief Product Officer Ariel Shulman explains why AI needs live access to the web, how knowledge layers provide real-time context, and how web data infrastructure helps AI agents stay grounded with fresh, reliable information.\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/~GQaDNjtfB\n\n#ai #llm #aiagents #realtimeai \n\nAI was used in the creation of the transcript and metadata for this video.",
+        "id": 6279063,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=IRtSdLX_Obw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/IRtSdLX_Obw/hqdefault.jpg",
+        "title": "Why Does AI Need Access to the Web?",
+        "vote": 0
+    }
+]

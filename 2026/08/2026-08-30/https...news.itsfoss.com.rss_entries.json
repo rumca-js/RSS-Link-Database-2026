@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Abhishek Prakash",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-30T06:05:04.064300+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-30T05:23:46+00:00",
+        "description": "Debian is a big name, a leader in the community, so the decision Debian made is going to set a precedent. It may lead to more projects embracing AI as Debian leads the way.",
+        "id": 6277646,
+        "language": "en-US",
+        "link": "https://itsfoss.com/news/debian-allows-ai-contribution",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 156,
+        "source_url": "https://news.itsfoss.com/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://itsfoss.com/content/images/2026/08/debian-ai-vote.png",
+        "title": "Debian AI Vote has Divided the Community",
+        "vote": 0
+    }
+]

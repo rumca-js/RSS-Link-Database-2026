@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unity",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-30T12:55:30.406949+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-30T11:39:00+00:00",
+        "description": "Learn how to read and act on your Unity Ads campaign data. In this video, we\u2019ll walk you through the reporting dashboard, drill into performance by country, creative, and campaign type, and understand the key metrics (ROAS window, creative fatigue, and conversion rate) that tell you when to adjust bids, refresh creatives, or let the algorithm keep running\n\n\ud83d\udd17 Check out the Unity Ads best practices Ebook to level up your Unity Ads campaigns: https://on.unity.com/UABestPractices\n\n_______________\n\nStay connected with us: \nGames Twitter/X: https://x.com/unitygames\nInstagram: https://www.instagram.com/unitytechnologies/\nDiscord: https://discord.com/invite/unity\nDiscussions: https://discussions.unity.com/\nLinkedIn: https://www.linkedin.com/company/unity/\nFacebook: https://www.facebook.com/unity3d.in/\nBluesky: https://bsky.app/profile/unity.com\nCompany Twitter/X: https://x.com/unity\n\n#UnityAds #UnityPlayworks #UserAcquisition",
+        "id": 6278876,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=eiFHnn4roEw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 683,
+        "source_url": "https://youtube.com/channel/UCG08EqOAXJk_YXPDsAvReSg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/eiFHnn4roEw/hqdefault.jpg",
+        "title": "How to understand Unity Ads campaign results",
+        "vote": 0
+    }
+]

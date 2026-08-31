@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Marcus Nestor",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-30T23:41:43.896172+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-30T21:41:28+00:00",
+        "description": "<p><img width=\"1920\" height=\"1080\" src=\"https://9to5linux.com/wp-content/uploads/2026/08/lk73rc.webp\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Linux 7.3 Release Candidate\" /></p>\n<p>Linus Torvalds announced today the general availability of the first Release Candidate (RC) of the upcoming Linux 7.3 kernel series for public testing and early adopters.</p>\n<p>The post <a href=\"https://9to5linux.com/linus-torvalds-announces-first-linux-kernel-7-3-release-candidate\">Linus Torvalds Announces First Linux Kernel 7.3 Release Candidate</a> appeared first on <a href=\"https://9to5linux.com\">9to5Linux</a> - do not reproduce this article without permission. This RSS feed is intended for readers, not scrapers.</p>",
+        "id": 6281279,
+        "language": "en-US",
+        "link": "https://9to5linux.com/linus-torvalds-announces-first-linux-kernel-7-3-release-candidate",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 6,
+        "source_url": "https://9to5linux.com/category/news/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://9to5linux.com/wp-content/uploads/2026/08/lk73rc.webp",
+        "title": "Linus Torvalds Announces First Linux Kernel 7.3 Release Candidate",
+        "vote": 0
+    }
+]

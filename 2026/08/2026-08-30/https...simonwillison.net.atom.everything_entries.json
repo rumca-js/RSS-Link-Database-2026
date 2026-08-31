@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Simon Willison",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-31T01:12:28.958038+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-30T23:59:47+00:00",
+        "description": null,
+        "id": 6281557,
+        "language": "en-us",
+        "link": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work",
+        "manual_status_code": 0,
+        "page_rating": 28,
+        "page_rating_contents": 88,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 423,
+        "source_url": "https://simonwillison.net/atom/everything",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://static.simonwillison.net/static/2026-08-30/IMG_7741.jpeg",
+        "title": "Understanding ChatGPT Work",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "DankPods",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-30T17:00:04.719800+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-30T15:42:44+00:00",
+        "description": "Jump into the streams! \nhttps://www.twitch.tv/the_garbage_drum_stream\nhttps://www.floatplane.com/channel/TheTrashNetwork/home",
+        "id": 6279871,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=7rpJF9mEhz0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 922,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7Jwj9fkrf1adN4fMmTkpug",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/7rpJF9mEhz0/hqdefault.jpg",
+        "title": "The New Skullcandy Crushers \ud83d\udc80",
+        "vote": 0
+    }
+]

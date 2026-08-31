@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "David Bombal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-30T18:23:59.251666+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-30T14:00:01+00:00",
+        "description": "Your internet speed can look fine while your Wi-Fi is still failing. Packet loss, latency, congested channels, interference and poor configuration can all damage performance, but a normal speed test will not show you the full picture.\n\nIn this video, I test the Ookla Speedtest Pulse, a pocket-sized Wi-Fi 7 diagnostic tool that measures more than 25 network metrics in around 45 seconds. We test Wi-Fi at the Natural History Museum in London and examine results from an Airbnb to identify whether the problem comes from the Wi-Fi network, wired connection or internet service provider.\n\nMatt explains how the device tests 2.4, 5 and 6 GHz Wi-Fi, detects channel problems, measures signal quality and gives you practical recommendations in plain English.\n\nWe also compare Speedtest Pulse with the normal Speedtest application, laptopbased tools and the Ekahau Sidekick 2. You will see its current limitations, upcoming continuous monitoring features and how it could help technicians finally capture",
+        "id": 6280230,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=YpOOWc2fplw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 984,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP7WmQ_U4GB3K51Od9QvM0w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/YpOOWc2fplw/hqdefault.jpg",
+        "title": "This Pocket Tool Diagnoses Wi-Fi in 45 Seconds",
+        "vote": 0
+    }
+]

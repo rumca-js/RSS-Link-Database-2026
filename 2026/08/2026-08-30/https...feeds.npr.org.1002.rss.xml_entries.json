@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Fatima Al-Kassab",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-30T15:21:15.653041+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-30T10:36:44+00:00",
+        "description": "Ontario Premier Doug Ford has unveiled a giant billboard reading: \"Lake Ontario \u2014 Now and Always.\" But tech giant Google has said it is renaming the lake for U.S. users, as President Trump demanded.",
+        "id": 6279469,
+        "language": "en",
+        "link": "https://www.npr.org/2026/08/30/nx-s1-5949254/lake-ontario-america-doug-ford-trump-sign-google",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 226,
+        "source_url": "https://feeds.npr.org/1002/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4969x3313+0+0/resize/4969x3313!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7c%2Fd3%2F34edc3ed470abb1249553419ff38%2Fap26241611483319.jpg",
+        "title": "Canada claps back at Trump's efforts to rename Lake Ontario as 'Lake America'",
+        "vote": 0
+    }
+]
