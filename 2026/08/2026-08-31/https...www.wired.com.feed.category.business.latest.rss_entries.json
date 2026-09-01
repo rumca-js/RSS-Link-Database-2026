@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kate Taylor",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-31T10:42:20.570246+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-31T10:30:00+00:00",
+        "description": "Of the Glassdoor reviews from claims adjusters that mentioned AI, a staggering 98 percent were negative. \u201cAI is just a tool,\u201d one person tells WIRED. \u201cIt should never be given the keys.\u201d",
+        "id": 6283322,
+        "language": "en-US",
+        "link": "https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 396,
+        "source_url": "https://www.wired.com/feed/category/business/latest/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media.wired.com/photos/6a90caf6df5e45f6df862f92/master/pass/You-Know-Who-Really-Hates-AI-Business.jpg",
+        "title": "You Know Who Really Hates AI? Insurance Claims Adjusters",
+        "vote": 0
+    }
+]

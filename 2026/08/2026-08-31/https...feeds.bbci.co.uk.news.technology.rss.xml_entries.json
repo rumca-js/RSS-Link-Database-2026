@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-31T17:08:30.186689+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-31T16:49:11+00:00",
+        "description": "The governor of the Bank of England warned of AI's \u201cvolatility\u201d caused by energy shocks from the US-Iran war.",
+        "id": 6285787,
+        "language": "en-US",
+        "link": "https://www.bbc.co.uk/news/articles/c99dym3prl1o",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 28,
+        "source_url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b34/live/537541c0-a556-11f1-aed2-8d6da8d75094.jpg",
+        "title": "AI could cause global economic downturn, Andrew Bailey warns G20",
+        "vote": 0
+    }
+]

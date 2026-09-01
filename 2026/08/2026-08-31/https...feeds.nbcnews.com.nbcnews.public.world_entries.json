@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-01T00:03:31.773973+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-31T23:20:13+00:00",
+        "description": "Five years into Taliban rule, Afghan women continue pushing back against severe restrictions placed on them, including bans on education. NBC News' Daniele Hamadjian speaks with a few who are finding new ways to bypass those laws.",
+        "id": 6288163,
+        "language": "en-US",
+        "link": "https://www.nbcnews.com/video/women-and-girls-in-afghanistan-defy-taliban-imposed-laws-to-receive-an-education-269124677790",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 224,
+        "source_url": "https://feeds.nbcnews.com/nbcnews/public/world",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_08/1788218406241_now_hallie_dha_afghanistan_girls_260831_S3_1920x1080-op10te.jpg",
+        "title": "Women and girls take virtual classes to get around severe restrictions on education in Afghanistan",
+        "vote": 0
+    }
+]

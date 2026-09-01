@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Blog Staff",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-31T17:16:26.974823+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-31T16:51:45+00:00",
+        "description": "<p>\n\t<strong><img alt=\"\" src=\"https://avatars.sched.co/5/f8/15024062/avatar.jpg?5aa\" style=\"width: 150px; height: 150px; float: right;\" />Registration is now open for CppCon 2026!</strong> The conference starts on September 12 and will be held&nbsp;<a href=\"https://cppcon.org\">in person in Aurora, CO</a>.&nbsp;To whet your appetite for this year&rsquo;s conference, we&rsquo;re posting some upcoming talks that you will be able to attend this year. Here&rsquo;s another CppCon future talk we hope you will enjoy &ndash; and&nbsp;<strong><a href=\"https://cppcon.org/registration/\">register today</a> for CppCon 2026!</strong></p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://cppcon2026.sched.com/event/2RT7S/how-c++26-changes-the-way-we-write-code\">How C++26 Changes the Way We Write Code</a></h3>\n\t<p>\n\t\tWednesday, September 16 10:30 - 12:00 MDT</p>\n\t<p>\n\t\tby Timur Doumler</p>\n</blockquote>\n<p>\n\tSummary of the talk:</p>\n<blockquote>\n\t<p>\n\t\tThe upcoming C++26 Standard is a major update of the language ",
+        "id": 6285851,
+        "language": "en",
+        "link": "https://isocpp.org//blog/2026/08/cppcon-2026-keynote-how-cpp26-changes-the-way-we-write-code-timur-doumler",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://avatars.sched.co/5/f8/15024062/avatar.jpg?5aa",
+        "title": "CppCon 2026 Keynote: How C++26 Changes the Way We Write Code -- Timur Doumler",
+        "vote": 0
+    }
+]

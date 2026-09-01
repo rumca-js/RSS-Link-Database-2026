@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-31T04:41:42.329411+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-31T03:29:58+00:00",
+        "description": "Radxa has recently published additional hardware details for the C201, a 120 &#215; 120mm carrier board designed for its compute module based on Qualcomm&#8217;s Dragonwing IQ-9075 platform. The board provides access to the module&#8217;s high-speed interfaces through dual 2.5GbE, NVMe storage, camera support, as well as RS-232, RS-485, and CAN bus connectivity. The C201 is [&#8230;]",
+        "id": 6282073,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/radxa-c201-exposes-dual-2-5gbe-nvme-and-serial-i-o-for-vmarc-q9075",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Radxa C201 exposes dual 2.5GbE, NVMe and serial I/O for VMARC-Q9075",
+        "vote": 0
+    }
+]

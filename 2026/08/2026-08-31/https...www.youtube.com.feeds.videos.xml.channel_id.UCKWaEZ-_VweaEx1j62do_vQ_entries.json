@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-08-31T14:17:39.962035+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-08-31T11:00:30+00:00",
+        "description": "Learn more about AI Code Review here \u2192 https://ibm.biz/~alHgF4FNQ\n\nCode reviews have evolved from line-by-line inspections to AI-assisted outcome validation. In this video, we explore how software reviews have progressed from Fagan inspections and pair programming to pull requests, CI/CD automation, and AI-powered development workflows. Learn why the future of code reviews is shifting away from implementation details and toward validating intent, requirements, outcomes, and business impact.\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/~jpjrTIXin\n\n#aicoding #ai #softwaredevelopment #softwareengineering",
+        "id": 6284571,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=c57vAe-mMLo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/c57vAe-mMLo/hqdefault.jpg",
+        "title": "How AI Is Changing Code Reviews & Software Development",
+        "vote": 0
+    }
+]
