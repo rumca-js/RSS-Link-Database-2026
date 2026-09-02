@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unity",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-01T16:30:46.959715+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-01T16:12:10+00:00",
+        "description": "Unity 6.6 is here with major performance and build improvements, Editor workflow upgrades, new graphics and 2D features, UI enhancements, and platform updates. In this video, we cover what\u2019s new in Unity 6.6, including faster Enter Play Mode, Dictionary serialization, Build Analysis and content directories, the new Hierarchy window, Shader Build Settings and DXC support, 2D lighting and profiling improvements, Shader Graph features, Graph Toolkit debugging, UI Toolkit visual effects, WebGPU, progressive asset loading, and more. \n\n\ud83d\udd17 Unity 6.6 is a supported release. For more details and highlights, check out our discussion post: https://on.unity.com/6-6_Discussions\n\ud83d\udd17 Learn more and upgrade: https://on.unity.com/6_6_Docs\n\ud83d\udd17 Read what else is new in 6.6: https://on.unity.com/New6_6_Docs\n\ud83d\udd17Check out the 6.6 upgrade guide: https://on.unity.com/UpgradeTo6_6_Docs\n\n[0:00] Introduction \n[00:18] Fast Enter Playmode\n[03:12] Dictionary Serialization\n[04:18] Build Analysis\n[04:58] Content Directorie",
+        "id": 6292913,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=u7TQJWmZ_rk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 683,
+        "source_url": "https://youtube.com/channel/UCG08EqOAXJk_YXPDsAvReSg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/u7TQJWmZ_rk/hqdefault.jpg",
+        "title": "What's new in 6.6",
+        "vote": 0
+    }
+]

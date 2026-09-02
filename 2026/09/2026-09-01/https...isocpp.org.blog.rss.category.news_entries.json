@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Blog Staff",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-01T17:12:07.185909+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-01T17:08:06+00:00",
+        "description": "<p>\n\t<strong><img alt=\"\" src=\"https://avatars.sched.co/F/63/2192519/avatar.jpg?044\" style=\"width: 150px; height: 150px; float: right;\" />Registration is now open for CppCon 2026!</strong> The conference starts on September 12 and will be held&nbsp;<a href=\"https://cppcon.org\">in person in Aurora, CO</a>.&nbsp;To whet your appetite for this year&rsquo;s conference, we&rsquo;re posting some upcoming talks that you will be able to attend this year. Here&rsquo;s another CppCon future talk we hope you will enjoy &ndash; and&nbsp;<strong><a href=\"https://cppcon.org/registration/\">register today</a> for CppCon 2026!</strong></p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://cppcon2026.sched.com/event/2RT2n/profiles-for-simplicity-and-guarantees\">Profiles for Simplicity and Guarantees</a></h3>\n\t<p>\n\t\tMonday, September 14 08:30 - 10:15 MDT</p>\n\t<p>\n\t\tby Bjarne Stroustrup</p>\n</blockquote>\n<p>\n\tSummary of the talk:</p>\n<blockquote>\n\t<p>\n\t\tThe C++ community is growing fast. C++ is being used in critical",
+        "id": 6293252,
+        "language": "en",
+        "link": "https://isocpp.org//blog/2026/09/cppcon-2026-keynote-cpp-profiles-for-simplicity-and-guarantees-bjarne-strou",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://avatars.sched.co/F/63/2192519/avatar.jpg?044",
+        "title": "CppCon 2026 Keynote: C++: Profiles for Simplicity and Guarantees -- Bjarne Stroustrup",
+        "vote": 0
+    }
+]

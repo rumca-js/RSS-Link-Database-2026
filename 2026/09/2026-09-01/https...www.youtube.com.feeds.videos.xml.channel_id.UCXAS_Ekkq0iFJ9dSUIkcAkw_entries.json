@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Efficient Engineer",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-01T16:50:34.626864+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-01T15:00:21+00:00",
+        "description": "Check out https://sendcutsend.com/efficientengineer/ to get custom parts delivered in just a few days.\n----\nSome of the most common structures in engineering are surprisingly inefficient. Even a simple beam carries plenty of material that isn't doing much at all. So what if we handed the problem to an algorithm instead - told it what the structure needs to do, and let it work out the best possible shape? That's exactly how topology optimization works - the field of engineering that uses algorithms to arrange material in the most efficient way possible, producing unusual but highly efficient structures.\n----\nAttribution:\n3D model: \"Male human with separated anatomical systems\" by ogbog, via Blend Swap - https://blendswap.com/blend/26915. Licensed CC BY-SA.\nAnatomical data: BodyParts3D, The Database Center for Life Science, licensed under CC Attribution-Share Alike 2.1 Japan - https://lifesciencedb.jp/bp3d/\n\"Human Femur\" (https://skfb.ly/6ursH) by Eric Bauer is licensed under Creative C",
+        "id": 6293078,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=dICWP3yHJmE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 808,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXAS_Ekkq0iFJ9dSUIkcAkw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/dICWP3yHJmE/hqdefault.jpg",
+        "title": "Can an Algorithm Design the Perfect Structure?",
+        "vote": 0
+    }
+]

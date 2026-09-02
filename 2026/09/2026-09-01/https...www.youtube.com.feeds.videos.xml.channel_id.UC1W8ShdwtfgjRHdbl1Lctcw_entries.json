@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NASS",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-02T00:55:17.685168+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-01T23:45:31+00:00",
+        "description": "I colorized, restored, and designed sound for this fascinating 1904 journey through East Pittsburgh,Pennsylvania and the surrounding Westinghouse industrial district, filmed from a moving train. The footage appears to have been incorrectly spliced, with two sections placed in reverse order. Based on historical maps and the railway route, the first section logically belongs at the end. The journey passes the Turtle Creek train station, homes, buildings, rail yards, and industrial facilities, possibly including the Westinghouse Air Brake Company, before reaching another station believed to be Pitcairn. The second section features the Westinghouse Machine Company and the Westinghouse Electric and Manufacturing Company buildings, offering a remarkable glimpse into East Pittsburgh\u2019s industrial landscape and railway surroundings in 1904.\n\n\ud83d\udcfd\ufe0f Technologies & Techniques Used:\n\u2022 Advanced video restoration\n\u2022 New semantic colorization only for the ambiance (not historically accurate)\n\u2022 Manually c",
+        "id": 6296008,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=9uDax2r4r7Q",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 222,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC1W8ShdwtfgjRHdbl1Lctcw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/9uDax2r4r7Q/hqdefault.jpg",
+        "title": "East Pittsburgh 1904 in color [60fps, Remastered] w/sound design added",
+        "vote": 0
+    }
+]

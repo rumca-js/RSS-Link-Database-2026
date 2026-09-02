@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Retro Game Corps",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-01T15:07:36.526154+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-01T14:00:13+00:00",
+        "description": "The Anbernic RG55G1 sits in a strange position: it has a good design and no major faults, but it also doesn't do anything exceptionally well -- even compared to handhelds within their own catalog.\n\nMore info:\nAnbernic direct: https://tinyurl.com/RGC-RG55G1\nAliExpress: https://s.click.aliexpress.com/e/_c3uhYt2P\n\nImpressions video: https://youtu.be/Kxv-l-QWdcI\nAnbernic RG476H review: https://youtu.be/cCx4BpIrTRY\n\nCRT shaders that work well on the device: https://www.reddit.com/r/SBCGaming/comments/1k9gwcd/crt_shaders_that_work_on_the_retroid_pocket/\n\nTurnip GPU drivers:\nA12 GameNative: https://gitlab.freedesktop.org/mesa/mesa/-/work_items/14596#note_3421695\nGamma's drivers: https://github.com/TheGammaSqueeze/sd-tools/tree/main/gpu/turnip-dist\n\nThis was a review unit sent to me by the manufacturer.  All opinions are my own, they did not see this review ahead of time, and no money was exchanged in any way.\n\nCheck out my weekly newsletter: http://news.retrogamecorps.com/\n\nWays to support t",
+        "id": 6292295,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=RAhvX0aUEjQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 823,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCoZQiN0o7f36H7PaW4fVhFw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/RAhvX0aUEjQ/hqdefault.jpg",
+        "title": "Anbernic RG55G1 Review: No Man's Land",
+        "vote": 0
+    }
+]

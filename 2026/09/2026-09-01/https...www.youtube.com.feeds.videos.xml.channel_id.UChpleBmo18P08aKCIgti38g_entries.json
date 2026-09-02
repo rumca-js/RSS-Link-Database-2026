@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Matt Wolfe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-01T17:19:05.294593+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-01T14:27:45+00:00",
+        "description": "I turned a boring spreadsheet into the ultimate content creator dashboard.\n\nIt tracks my audience and growth across YouTube, Instagram, TikTok, LinkedIn, X, Threads, Facebook, and my newsletter, all in one place that my whole team can use.\n\nAnd I built the whole thing with @OpenAI ChatGPT Sites inside the Codex app.\n\nSites handles the hosting, authentication, database, analytics, and even lets you add WebMCP actions that AI agents can interact with directly.\n\nBasically: custom software for your team without having to build all the infrastructure yourself.\n\n\ud83d\udd17If you want to try Sites for yourself, head to the link in the pinned comment to download the Codex app!\n\n#AI #Ainews #ChatGPT #Codex #contentcreator",
+        "id": 6293289,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/-goIBDS9UNU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 933,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChpleBmo18P08aKCIgti38g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/-goIBDS9UNU/hqdefault.jpg",
+        "title": "The One-Prompt Dashboard Trick",
+        "vote": 0
+    }
+]

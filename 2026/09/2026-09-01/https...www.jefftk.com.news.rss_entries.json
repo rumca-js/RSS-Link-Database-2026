@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-02T01:29:59.811873+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-01T08:00:00+00:00",
+        "description": "<p><span>\n\nMy program that uses whistling to control a synthesizer is now </span>\n\n<a href=\"https://apps.apple.com/us/app/whistle-synth/id6807012579\">available\nin the Mac App Store</a>:\n\n\n\n<p>\n\n<a href=\"https://www.jefftk.com/whistle-synth-in-app-store-big.png\"><img src=\"https://www.jefftk.com/whistle-synth-in-app-store.png\" width=\"550\" height=\"360\" class=\"mobile-fullwidth\" style=\"max-width:100.0vw; max-height:65.5vw;\" srcset=\"https://www.jefftk.com/whistle-synth-in-app-store.png 550w,https://www.jefftk.com/whistle-synth-in-app-store-2x.png 1100w\"><div style=\"height:min(65.5vw, 360px)\" class=\"image-vertical-spacer\"></div></a>\n\n</p>\n\n<p>\n\nIt's free, no ads, and <a href=\"https://github.com/jeffkaufman/whistle-synth\">open source</a>.\nIf you have a mac and like to whistle, give it a try?  You need an\nexternal mic, headphones (<a href=\"https://www.benkuhn.net/wireless/\">wired to minimize\nlatency</a>), or both; I recommend the former.\n\n</p>\n\n<p>\n\n<a highlight href=\"https://www.jefftk.com/wh",
+        "id": 6296188,
+        "language": "en-US",
+        "link": "https://www.jefftk.com/p/whistle-synth-mac-app",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 163,
+        "source_url": "https://www.jefftk.com/news.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.jefftk.com/whistle-synth-in-app-store.png",
+        "title": "Whistle Synth Mac App",
+        "vote": 0
+    }
+]

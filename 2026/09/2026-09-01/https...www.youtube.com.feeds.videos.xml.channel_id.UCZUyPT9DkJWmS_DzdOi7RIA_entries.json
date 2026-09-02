@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Caleb Curry",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-01T19:43:33.080033+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-01T17:35:14+00:00",
+        "description": "Run a full Android environment in the cloud \u2014 no physical phone needed. Try Cloud Android for FREE inside Gologin: https://bit.ly/gologin_caleb-curry\nPromo code: CALEBCURRY40\n\nApp being released soon, so stay tuned! In this episode I share how I built an app pretty much entirely with the use of agents. This will work if you want to use AI through claude code, cursor, antigravity, etc. \n\nTimestamps\n00:00 - Intro\n04:01 - Which Stack to Choose\n07:41 - How I Built My App\n08:26 - Keep V1 Thin\n09:55 - Example Spec\n12:02 - Subagents\n13:55 - Auditing Your App\n15:45 - Plugins and Skills\n\n\u2699\ufe0f Backend Engineering Mind Map - https://calcur.tech/mindmap\n\ud83d\udcbb System Design Playlist - https://calcur.tech/system-design\n\n\ud83d\udcaf FREE Courses (100+ hours) - https://calcur.tech/free-courses\n\ud83c\udfc6 C++ Mastery Course - https://www.codebreakthrough.com/cpp-mastery\n\ud83d\udc0d Backend Python Course - https://calcur.tech/backend-python\n\ud83e\udd47 Python Mastery Course  - https://calcur.tech/python-mastery\n\n~~~~~~~~~~~~~~~ CONNECT ~~~~~~~~~~",
+        "id": 6294305,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=fcJz7TIPfR4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 418,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZUyPT9DkJWmS_DzdOi7RIA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/fcJz7TIPfR4/hqdefault.jpg",
+        "title": "Want to Build a Mobile App? Watch this first...",
+        "vote": 0
+    }
+]

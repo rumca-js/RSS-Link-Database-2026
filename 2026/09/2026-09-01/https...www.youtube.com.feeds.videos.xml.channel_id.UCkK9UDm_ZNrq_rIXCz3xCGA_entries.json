@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Lunduke Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-01T00:50:34.256070+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-01T00:11:14+00:00",
+        "description": "California AB-1856 would, in theory, exempt Open Source Operating Systems from requiring Age Verification. But the wording is VERY odd. And vague.\n\nMore from The Lunduke Journal:\nhttps://lunduke.com/",
+        "id": 6288358,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=4q5TqO5UCBc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 616,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkK9UDm_ZNrq_rIXCz3xCGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/4q5TqO5UCBc/hqdefault.jpg",
+        "title": "Linux Exemption for California Age Attestation Law Goes to Governor for Signing",
+        "vote": 0
+    }
+]
