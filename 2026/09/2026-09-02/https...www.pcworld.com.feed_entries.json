@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-02T15:08:05.219155+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-02T15:00:00+00:00",
+        "description": "<div id=\"remove_no_follow\">\n\t\t<div class=\"grid grid--cols-10@md grid--cols-8@lg article-column\">\n\t\t\t\t\t  <div class=\"col-12 col-10@md col-6@lg col-start-3@lg\">\n\t\t\t\t\t\t<div class=\"article-column__content\">\n<section class=\"wp-block-bigbite-multi-title\"><div class=\"container\"></div></section>\n\n\n\n<p class=\"wp-block-paragraph\">Need to rearrange the pages in a PDF without uploading the file to an online service? <a href=\"https://github.com/pdfarranger/pdfarranger\">PDF Arranger</a> lets you do exactly that.</p>\n\n\n\n<p class=\"wp-block-paragraph\">With multi-page PDF files, you may sometimes need to rearrange the pages. This isn\u2019t possible with Acrobat Reader, and most other PDF viewers don\u2019t support this either. The downside with using an online tool such as <a href=\"https://www.pdf24.org/en/\">PDF24</a> is that you have no control over who can access your PDF.</p>\n\n\n\n<p class=\"wp-block-paragraph\">A simple but effective local solution is the open-source software PDF Arranger. On GitHub, click on t",
+        "id": 6300009,
+        "language": "en",
+        "link": "https://www.pcworld.com/article/3219079/how-to-reorder-pdf-pages-quickly-and-easily.html",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 246,
+        "source_url": "https://www.pcworld.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://b2c-contenthub.com/wp-content/uploads/2026/07/Pdfarranger_RGBeci.jpg?quality=50&strip=all",
+        "title": "How to reorder PDF pages quickly and easily",
+        "vote": 0
+    }
+]

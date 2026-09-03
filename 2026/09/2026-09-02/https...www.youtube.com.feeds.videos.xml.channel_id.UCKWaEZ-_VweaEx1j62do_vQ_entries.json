@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-02T10:25:26.427565+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-02T10:00:09+00:00",
+        "description": "Explore the podcast \u2192 https://ibm.biz/~LR5oerBlh\n\nIBM, OpenAI and 100 other organizations released an open letter calling for collective action on cyber defense. On episode 49 of Security Intelligence, Michelle Alvarez, Nick Bradley and J.R. Rao join host Matt Kosinski to explore what a \u201cglobal cyber defense surge\u201d could\u2014and should\u2014look like.\n\nAnd speaking of collective action on cyber defense: The SANS Institute named the winners of its Find Evil! hackathon last week. The five autonomous incident response agents are now available on the SIFT Workstation. We discuss the results and what the hackathon\u2019s success means for the future of autonomous agents in cybersecurity.\n\nFinally: Flare unmasked a couple of the alleged leaders of the notorious hacking gang TeamPCP. We look at how they did it, and what the rest of us can learn from it. \n\nAll that and more on Security Intelligence.\n\n00:00 - Intro\n1:19 - OpenAI\u2019s open letter\n12:22 - Find Evil! winners\n22:03 - TeamPCP takedown\n\n\n\"The opinio",
+        "id": 6298190,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=-0p68wKEitE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/-0p68wKEitE/hqdefault.jpg",
+        "title": "Why OpenAI is calling for a \u2018cyber defense surge.\u2019 Plus: Find Evil! winners and TeamPCP losers",
+        "vote": 0
+    }
+]

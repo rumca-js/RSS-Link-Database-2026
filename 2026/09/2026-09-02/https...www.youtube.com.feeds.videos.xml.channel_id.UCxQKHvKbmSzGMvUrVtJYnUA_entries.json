@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Learn Linux TV",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-02T19:02:08.033629+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-02T16:00:08+00:00",
+        "description": "Every time you create a new user account on a Linux system, the files that land in their home directory have to come from somewhere - and that somewhere is /etc/skel. In this video I walk through what the skel directory actually is, how it gets used during account creation, and how you can leverage it so every new user on your servers and workstations starts out with exactly the configuration you want.\n\n*\u2699\ufe0f Grab Jay's actual Dotfiles!*\nFor a small donation, grab a zip file full of configs for Bash, ZSH, Vim, Tmux, i3, Sway (and more)! Curated over a decade, there's something for everyone.\n- Download here \u279c http://learnlinux.link/jay-dotfiles\n\n*\ud83d\udcda Discounts, Courses, Books, and More! (Support Linux Learning)*\n- 10% Off Linux Swag! \u279c https://learnlinux.link/swag\n- Get the \"Linux Pro-Tips\" Newsletter \u279c https://learnlinux.link/linux-tips\n- Grab Jay's *ACTUAL* Dotfiles! \u279c https://learnlinux.link/linux-tips\n- Switching to Linux Book (15% Off!) \u279c https://learnlinux.link/switch-to-linux\n- Lino",
+        "id": 6301816,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=YSzURqn5oWY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 997,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxQKHvKbmSzGMvUrVtJYnUA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/YSzURqn5oWY/hqdefault.jpg",
+        "title": "/etc/skel Explained - Give Every New Linux User the Same Setup",
+        "vote": 0
+    }
+]

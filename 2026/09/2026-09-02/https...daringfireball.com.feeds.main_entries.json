@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Gruber",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-02T22:16:11.436969+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-02T20:58:28+00:00",
+        "description": "<p>Joe Rossignol, MacRumors:</p>\n\n<blockquote>\n  <p>\u201ciPhone Handoff\u201d can be set up from the Settings app, under the Cellular menu. During the setup process, you can choose which iPhone you want to be the main device that you use most often and which one you want to be the companion device.</p>\n\n<p>Apple says a user\u2019s main eSIM will remain on the main iPhone, while the companion iPhone will receive a companion eSIM, and this will enable you to switch between the devices back and forth while using the same phone number.</p>\n\n<p>All cellular settings are managed on the main iPhone, and location sharing is based on whichever iPhone is actively using the phone number.</p>\n</blockquote>\n\n<p>This sounds amazing for those of us who use multiple iPhones. It\u2019s not a common use case but it\u2019s not <em>that</em> unusual. Developers come to mind, as do, <em>ahem</em>, new-phone reviewers. I presume there are a lot of people in Cupertino who use multiple iPhones, too.</p>\n\n<p>The only downside is tha",
+        "id": 6303067,
+        "language": "",
+        "link": "https://www.macrumors.com/2026/09/02/ios-27-iphone-handoff-feature",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 489,
+        "source_url": "https://daringfireball.com/feeds/main",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "iOS 27 Introduces New \u2018iPhone Handoff\u2019 Feature",
+        "vote": 0
+    }
+]

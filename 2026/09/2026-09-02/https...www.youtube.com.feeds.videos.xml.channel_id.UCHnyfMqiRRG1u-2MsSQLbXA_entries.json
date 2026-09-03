@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Veritasium",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-02T13:31:35.800170+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-02T13:00:04+00:00",
+        "description": "A UCLA Physics Professor bet me $10,000 that my video (https://youtu.be/jyQwgBAaBag) about going downwind faster than the wind was wrong.\n\nHere's how we proved it...",
+        "id": 6299269,
+        "language": "en-US",
+        "link": "https://www.youtube.com/shorts/F5_G0AHfYhI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 379,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/F5_G0AHfYhI/hqdefault.jpg",
+        "title": "Settling A $10,000 Physics Bet",
+        "vote": 0
+    }
+]

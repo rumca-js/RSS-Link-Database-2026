@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kevin Stratvert",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-02T08:34:25.593233+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-02T07:00:24+00:00",
+        "description": "Open the Gmail app and tap your profile picture in the top right. Tap Manage your Google Account, then select Security & sign in. Scroll down and tap Password. Verify your identity if prompted, enter your new password, and tap Change password.",
+        "id": 6297672,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/yv5Bp65McEo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 958,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfJT_eYDTmDE-ovKaxVE1ig",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/yv5Bp65McEo/hqdefault.jpg",
+        "title": "How to Change Your Gmail Password",
+        "vote": 0
+    }
+]

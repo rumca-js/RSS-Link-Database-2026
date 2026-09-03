@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ForrestKnight",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-02T14:05:04.756532+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-02T13:15:14+00:00",
+        "description": "C++ is just better than Rust.*\n\nCheck out Macroscope: https://jetty.to/macroscope\n\n*at some things.\n\nI know I've made a few videos about Rust replacing other languages - simply because I find these sorts of things fascinating, like rewriting an entire codebase. And I typically have a section in those videos stating while Rust is great in many use cases, it isn't a magic bullet.\n\nSo I figured it was time to make a dedicated video on that notion, specifically surrounding C++, because I've found that most people consider Rust to just be a better C++ all around, more so than any other language. This idea, however, translates to plenty of other languages. Rust is good, but it isn't always the best choice. I hope y'all enjoy!!\n\nSources:\nDARPA TRACTOR (C to Rust): https://www.darpa.mil/research/programs/translating-all-c-to-rust\nCISA Product Security Bad Practices: https://www.cisa.gov/resources-tools/resources/product-security-bad-practices\nSecure by Design, memory safety (Google): https://",
+        "id": 6299527,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=QNPwKMOQIKM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 118,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2WHjPDvbE6O328n17ZGcfg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/QNPwKMOQIKM/hqdefault.jpg",
+        "title": "Why Rust Can't Replace C++",
+        "vote": 0
+    }
+]

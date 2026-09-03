@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-02T21:01:35.609235+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-02T16:39:14+00:00",
+        "description": "As the food shortage in Cuba worsens and some elderly residents look through the trash for their next meal, church volunteers provide what\u2019s become some people\u2019s only meal.",
+        "id": 6302625,
+        "language": "en-US",
+        "link": "https://www.nbcnews.com/video/in-havana-church-meals-become-a-lifeline-for-many-269221445612",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 224,
+        "source_url": "https://feeds.nbcnews.com/nbcnews/public/world",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_09/f_pkg_cuba_food_shortage_260902.00_01_13_17.Still003-6slixf.jpg",
+        "title": "In Havana, church meals become a lifeline for many",
+        "vote": 0
+    }
+]

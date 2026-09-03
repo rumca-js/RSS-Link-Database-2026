@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unity",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-02T14:05:25.183814+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-02T13:39:22+00:00",
+        "description": "In this session, we will learn how to identify graphics bottlenecks using the latest GPU profiling tools and examine the most common issues encountered when rendering complex projects on mobile platforms. Once the bottlenecks are identified, we will improve game performance by leveraging the new technologies and optimization features in Unity 6.6. After the game speeds up, we will take full advantage of the increased performance to take graphics quality to the next level using the latest lighting and rendering capabilities in URP.\n\nThis session was recorded at our 2026 Unite conference in Seoul, South Korea. \n\n_______________\n\nStay connected with us: \nGames Twitter/X: https://x.com/unitygames\nInstagram: https://www.instagram.com/unitytechnologies/\nDiscord: https://discord.com/invite/unity\nDiscussions: https://discussions.unity.com/\nLinkedIn: https://www.linkedin.com/company/unity/\nFacebook: https://www.facebook.com/unity3d.in/\nBluesky: https://bsky.app/profile/unity.com\nCompany Twitte",
+        "id": 6299532,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=oJnRMqftoiE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 683,
+        "source_url": "https://youtube.com/channel/UCG08EqOAXJk_YXPDsAvReSg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/oJnRMqftoiE/hqdefault.jpg",
+        "title": "Unity 6.6-6.7 unleashes the potential of URP | Unite Seoul 2026",
+        "vote": 0
+    }
+]

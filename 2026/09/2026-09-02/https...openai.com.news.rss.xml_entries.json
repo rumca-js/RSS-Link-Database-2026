@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-03T01:07:48.067680+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-02T12:00:00+00:00",
+        "description": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
+        "id": 6303910,
+        "language": "en",
+        "link": "https://openai.com/index/atv-big-air-tour",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 953,
+        "source_url": "https://openai.com/news/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+        "vote": 0
+    }
+]

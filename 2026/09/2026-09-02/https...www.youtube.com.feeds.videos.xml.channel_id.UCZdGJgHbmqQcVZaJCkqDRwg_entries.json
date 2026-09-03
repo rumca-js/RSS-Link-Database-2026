@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Q",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-02T11:25:15.592460+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-02T09:52:53+00:00",
+        "description": "I tested the LightMake L4, a new 4-head 3D printer built around an independent Toolchanger system and high-speed LinearMotors3D technology.\n\nCheck out the LightMake L4 on Kickstarter:\nhttps://www.kickstarter.com/projects/968766790/lightmake-l4-1st-4-head-color-3d-printer-with-linear-motor?ref=601d4t\n\nWith four independent print heads, the L4 can switch between colors and materials in about one second, while its MultiColor3DPrinting workflow is designed to significantly reduce purge waste with ZeroWaste3DPrinting technology.\n\nI tested the multi-color workflow, print speed, waste, build volume, motion system and smart features to see what this printer is actually like to use.\n\nThis is a Beta Unit, so some features and performance may still change before the final production version.\n\nThanks to @LightMake_official  letting me test the L4. Check them out through the link above to learn more.\n\n#LightMake #LightMakeL4 #L4 #3DPrinting",
+        "id": 6298479,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=ByDv2UTXJDo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 778,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZdGJgHbmqQcVZaJCkqDRwg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/ByDv2UTXJDo/hqdefault.jpg",
+        "title": "One Head Is Good But Four Are Better - LightMake L4 - A New King of 3D Printers",
+        "vote": 0
+    }
+]
