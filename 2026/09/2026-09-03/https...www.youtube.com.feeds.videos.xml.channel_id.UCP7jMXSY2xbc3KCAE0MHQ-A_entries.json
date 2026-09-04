@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Google DeepMind",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-03T17:48:33.335407+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-03T14:58:32+00:00",
+        "description": "WeatherNext 3: More accurate, timely, and local weather forecasts \n\nPredicting the weather is one of the oldest, most complex challenges we face. Traditional numerical weather prediction models are powerful, but they can be slow to run and costly at a global scale. WeatherNext 3 takes a different approach. Built on a fundamentally different architecture, WeatherNext 3 learns directly from real-world observations, including live satellite feeds and ground-level weather station data.\n\n\nWhat makes WeatherNext 3 different?\nHourly refresh: While traditional models typically refresh every six hours, WN3 produces a fresh forecast every single hour.\nHyper-Local resolution: Native 5km resolution for temperature and humidity, enabling better detail for coastal regions, mountains, and urban areas.\nActionable data: Includes variables like 100m wind speeds for wind energy management and detailed cloud/radiation metrics for solar energy planning.\nGlobal reach: Delivering high-resolution insights ev",
+        "id": 6309375,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=_6jZlnRsXXQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 934,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP7jMXSY2xbc3KCAE0MHQ-A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/_6jZlnRsXXQ/hqdefault.jpg",
+        "title": "WeatherNext 3: More accurate, timely, and local weather forecasts",
+        "vote": 0
+    }
+]

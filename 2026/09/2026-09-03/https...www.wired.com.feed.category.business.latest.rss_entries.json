@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Maxwell Zeff",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-03T16:51:04.116330+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-03T16:42:40+00:00",
+        "description": "OpenAI recently estimated its Cursor partnership would make more than $1 billion in revenue a year, WIRED has learned. It still walked away after Elon Musk\u2019s SpaceX acquired the AI coding startup.",
+        "id": 6308877,
+        "language": "en-US",
+        "link": "https://www.wired.com/story/openai-elon-musk-cursor-billion-revenue",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 396,
+        "source_url": "https://www.wired.com/feed/category/business/latest/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media.wired.com/photos/6a9996ebd275abfc723b2792/master/pass/Model-Behavior-Elon-Musk-Costs-OpenAI-Billion-Dollar-Customer-Business.jpg",
+        "title": "OpenAI Cut Off a Billion-Dollar Customer to Avoid Elon Musk",
+        "vote": 0
+    }
+]

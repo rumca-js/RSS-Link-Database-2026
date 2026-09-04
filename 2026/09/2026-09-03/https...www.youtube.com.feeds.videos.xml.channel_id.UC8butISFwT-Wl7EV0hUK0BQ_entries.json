@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-03T15:17:59.204215+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-03T13:38:43+00:00",
+        "description": "Welcome to this comprehensive course on the semiconductor supply chain, where you will learn how a chip moves from design to the data center. You will learn all about semiconductor physics, design, fabrication, memory, packaging, and rack-scale integration. Your instructor, Kian, will guide you through this journey to help you understand the hardware infrastructure powering modern artificial intelligence.\n\nCourse created by @neuralkian \n\n\u2764\ufe0f Support for this channel comes from our friends at Scrimba \u2013 the coding platform that's reinvented interactive learning: https://scrimba.com/freecodecamp\n\n\u2b50\ufe0f Chapters \u2b50\ufe0f\n- 0:00:00 Intro & Course Overview\n- 0:04:21 GB300 Architecture & Scale-Up vs. Scale-Out\n- 0:08:44 Reticle Limits, Dual Dies & NV-HBI\n- 0:11:00 High Bandwidth Memory (HBM)\n- 0:13:28 Caches, NVLink & PCIe Routing\n- 0:16:15 Inference Walkthrough & Memory Hierarchy\n- 0:19:55 Hardware Economics & Transistor Budgets\n- 0:22:41 Vera Rubin & Next-Gen Roadmap\n- 0:24:46 Part 1: Semiconductor ",
+        "id": 6308106,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=FGT7LZbZe-g",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/FGT7LZbZe-g/hqdefault.jpg",
+        "title": "Inside the AI Hardware Engine \u2013 Full Semiconductor Supply Chain Course",
+        "vote": 0
+    }
+]

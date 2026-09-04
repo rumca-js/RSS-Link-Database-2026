@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NetworkChuck",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-03T13:51:38.282457+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-03T13:00:38+00:00",
+        "description": "Ditch the VPN and lock down your network with Twingate. Zero trust access that's actually easy to set up, and it's free for up to 5 users: https://twingate.com/chuck-defcon\n\nDEFCON is the world's largest hacking conference, and every year it takes over Las Vegas with tens of thousands of hackers, researchers, feds, and people who really shouldn't be trusted near a Wi-Fi network. We went back again, and this time we tried to capture what it actually feels like to be there. The villages, the badges, the lockpicking, the car hacking, the social engineering booth where people get owned live on stage, and the strange, welcoming culture that holds all of it together. If you've never been, this is your walkthrough. If you have, you already know why we keep coming back.\n\nHuge shoutout to NahamSec, who was there with us. Go watch his DEFCON vlog here: https://www.youtube.com/watch?v=4QQnW170C5g\n\nJoin the NetworkChuck Academy!: https://ntck.co/NCAcademy\n\nRESOURCES / LINKS:\n\ud83c\udf10 DEF CON: https://de",
+        "id": 6307408,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=RYY0ibk4s60",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 565,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9x0AN7BWHpCDHSm9NiJFJQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/RYY0ibk4s60/hqdefault.jpg",
+        "title": "This Is the World\u2019s Largest Hacking Conference",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-03T14:01:29.813427+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-03T11:00:15+00:00",
+        "description": "Learn more about Types of AI Agents here \u2192 https://ibm.biz/~P180J8KFb\n\nAI agents need more than training data to solve real-world problems. Martin Keen breaks down four core techniques used in modern AI agents: Skills, MCP, RAG, and Memory. Learn when each approach should be used, how they work together, and why they play different roles in helping AI agents access information, follow procedures, and learn from experience.\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/~UffJ1nJdB\n\nAI was used in the creation of the transcript and metadata for this video.\n\n#skills #mcp #retrievalaugmentedgeneration #memory #aiagents",
+        "id": 6307470,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=X4FVEEegCbk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/X4FVEEegCbk/hqdefault.jpg",
+        "title": "Skills vs MCP vs RAG vs Memory: What AI Agents Need to Know",
+        "vote": 0
+    }
+]

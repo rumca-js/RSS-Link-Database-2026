@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Two Minute Papers",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-03T10:55:55.243265+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-03T08:23:37+00:00",
+        "description": "\u2764\ufe0f Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n\ud83d\udcdd The Claude Fable 5.1 paper is available here:\nhttps://www.anthropic.com/claude-fable-and-mythos-5-1\nhttps://www-cdn.anthropic.com/0339e6a7c5c7b87f5c07798616dc32c215d14235/Claude%20Fable%205.1%20%26%20Claude%20Mythos%205.1%20System%20Card.pdf\n\nSources:\nhttps://x.com/alexalbert__/status/2094860187743986169?s=46\nhttps://x.com/holytrinity/status/2094866061212459130?s=46\nhttps://x.com/holytrinity/status/2094927984217985474?s=46\nhttps://x.com/omedvibecodes/status/2094887840848965845?s=46\nhttps://x.com/loktar00/status/2094951511742632168?s=46\nhttps://x.com/maxt3chno/status/2094798704385380762?s=46\nhttps://x.com/fabianofirmo/status/2094954495646035978?s=46\nhttps://x.com/fabianofirmo/status/2094954495646035978?s=46\nhttps://x.com/Rubzem/status/2094866225960493189?s=20\nhttps://x.com/atomicagent_io/status/2094895071304839400?s=20\nhttps://x.com/do_owne/status/2095054932466422125\nhttps://x.com/holytrinity/status/2",
+        "id": 6306229,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=B3LXEW4Pc-w",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 945,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbfYPyITQ-7l4upoX8nvctg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/B3LXEW4Pc-w/hqdefault.jpg",
+        "title": "Claude Fable AI Is Much Stranger Than The Headlines Suggest",
+        "vote": 0
+    }
+]

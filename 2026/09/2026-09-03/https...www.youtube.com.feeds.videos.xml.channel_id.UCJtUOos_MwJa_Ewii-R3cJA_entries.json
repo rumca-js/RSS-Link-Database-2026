@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Leila Gharani",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-03T10:22:08.108765+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-03T09:00:29+00:00",
+        "description": "500,000+ people have taken our courses so far. If you want to go deeper: \ud83d\udc49 https://link.xelplus.com/yt-d-all-courses\n\nSales data split across monthly columns? Here's how to reshape it into one clean table, with month, sales, and units each in their own column, using Python inside Excel.\n\n=PY\npd.wide_to_long(sales_data, stubnames=[\"sales\",\"units\"], i=\"sales rep\", j=\"month\", sep=\"_\", suffix=\".+\").reset_index()\n\n- Type =PY and press Tab to activate Python mode\n- wide_to_long turns repeated column groups (like sales_Jan, units_Jan) into rows\n- stubnames lists the values you're tracking\n- i is your identifier column, like sales rep\n- j names the new column that holds the month\n- sep matches the separator in your source headers\n- suffix=\".+\" means the leftover text can be anything\n- reset_index() keeps everything aligned\n- Right-click the Python output and choose \"Excel Value\" to drop it into cells\n\nAdd a new month to your source data and the table updates on its own.\n\nUses the pandas wide_",
+        "id": 6305979,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/aUlGfk7kst0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 957,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJtUOos_MwJa_Ewii-R3cJA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/aUlGfk7kst0/hqdefault.jpg",
+        "title": "The 1-Formula Fix for Excel\u2019s Messiest Tables",
+        "vote": 0
+    }
+]

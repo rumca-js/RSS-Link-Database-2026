@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Muhammad Zulhusni",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-03T09:02:56.462033+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-03T09:00:00+00:00",
+        "description": "<p>Cursor has expanded its self-hosted cloud agent infrastructure, adding dynamically scheduled worker pools and support for running agent workloads across cloud and infrastructure platforms. The update allows development teams to manage the machines that execute tool calls from Cursor\u2019s cloud agents while continuing to start and manage agent sessions through Cursor. The company made self-hosted [&#8230;]</p>\n<p>The post <a href=\"https://www.developer-tech.com/news/cursor-self-hosted-cloud-agents/\">Cursor lets companies run cloud coding agent workloads on their own infrastructure</a> appeared first on <a href=\"https://www.developer-tech.com\">Developer Tech News</a>.</p>",
+        "id": 6305634,
+        "language": "en-GB",
+        "link": "https://www.developer-tech.com/news/cursor-self-hosted-cloud-agents",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 92,
+        "source_url": "https://www.developer-tech.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Cursor lets companies run cloud coding agent workloads on their own infrastructure",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Blog Staff",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-03T18:02:39.916336+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-03T16:56:02+00:00",
+        "description": "<p>\n\t<strong><img alt=\"\" src=\"https://avatars.sched.co/0/0a/5813844/avatar.jpg?df8\" style=\"width: 200px; height: 200px; float: right;\" />Registration is now open for CppCon 2026!</strong> The conference starts on September 12 and will be held&nbsp;<a href=\"https://cppcon.org\">in person in Aurora, CO</a>.&nbsp;To whet your appetite for this year&rsquo;s conference, we&rsquo;re posting some upcoming talks that you will be able to attend this year. Here&rsquo;s another CppCon future talk we hope you will enjoy &ndash; and&nbsp;<strong><a href=\"https://cppcon.org/registration/\">register today</a> for CppCon 2026!</strong></p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://cppcon2026.sched.com/event/2RT2w/c++-growing-in-a-world-of-efficiency-safety-and-ai\">C++: Growing in a World of Efficiency, Safety, and AI</a></h3>\n\t<p>\n\t\tFriday, September 18 16:15 - 18:00 MDT</p>\n\t<p>\n\t\tby Herb Sutter</p>\n</blockquote>\n<p>\n\tSummary of the talk:</p>\n<blockquote>\n\t<p>\n\t\tC++ is adding major expressive power (e.g.,",
+        "id": 6309480,
+        "language": "en",
+        "link": "https://isocpp.org//blog/2026/09/cppcon-2026-keynote-cpp-growing-in-a-world-of-efficiency-safety-and-ai-herb",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://avatars.sched.co/0/0a/5813844/avatar.jpg?df8",
+        "title": "CppCon 2026 Keynote: C++: Growing in a World of Efficiency, Safety, and AI -- Herb Sutter",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-03T10:37:01.419515+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-03T09:53:58+00:00",
+        "description": "Al-Mughayyir's council says they were trying to stop settlers stealing sheep, but the Israeli military says they threw stones at its troops.",
+        "id": 6306112,
+        "language": "en-gb",
+        "link": "https://www.bbc.co.uk/news/articles/cj6482r6yl4o",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 525,
+        "source_url": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cc0/live/a22ffbc0-a772-11f1-993c-a325009c1935.jpg",
+        "title": "Palestinian teens killed during settler attack on West Bank village, officials say",
+        "vote": 0
+    }
+]

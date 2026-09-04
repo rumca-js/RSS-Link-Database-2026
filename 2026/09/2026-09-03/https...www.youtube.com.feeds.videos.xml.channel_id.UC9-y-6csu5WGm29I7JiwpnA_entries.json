@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Computerphile",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-03T14:44:25.734985+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-03T13:30:04+00:00",
+        "description": "This AI Watermarking Deep Dive by Dr Mike Pound includes an explanation of the idea behind the latest AI Watermarking plus a demo of Mike's own implementation of the system. \n\nComputerphile is supported by Jane Street. Learn more about them (and exciting career opportunities) at: https://jane-st.co/computerphile\n\nThis video was filmed and edited by Sean Riley.\n\nComputerphile is a sister project to Brady Haran's Numberphile. More at https://www.bradyharanblog.com",
+        "id": 6307907,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=kVXp6UNVPTo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 929,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9-y-6csu5WGm29I7JiwpnA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/kVXp6UNVPTo/hqdefault.jpg",
+        "title": "How Watermarks Track AI Generated Content - Computerphile",
+        "vote": 0
+    }
+]

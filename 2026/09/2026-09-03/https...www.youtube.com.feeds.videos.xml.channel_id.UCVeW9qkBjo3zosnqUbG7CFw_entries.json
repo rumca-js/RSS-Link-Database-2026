@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Hammond",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-03T19:28:36.614175+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-03T18:00:42+00:00",
+        "description": "Your AI agent might infect you with malware. \ud83d\udc40 Really cool new research from Island: they found almost 8,000 malicious public Github repositories that just lie to your robots -- code that LOOKS LIKE legitimate software, but it's actually an infostealer or payload to compromise your computer.\n\nI got to chat with Oleg Zaystev and Chris Gaun and they told me all about the malicious AI skills and MCP servers. The conversation is recorded and available on demand! Huge thanks to Island for letting me hang out with them, check it out to see how you and your team can defend from AI threats like these: https://jh.live/agentbaiting",
+        "id": 6310126,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/CyU_It2FauQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 959,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVeW9qkBjo3zosnqUbG7CFw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/CyU_It2FauQ/hqdefault.jpg",
+        "title": "AI Might Give You Malware",
+        "vote": 0
+    }
+]
