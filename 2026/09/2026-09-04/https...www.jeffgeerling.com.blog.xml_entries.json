@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-04T14:54:57.830897+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-04T09:00:00+00:00",
+        "description": "<p>In June I purchased <a href=\"https://www.ebay.com/itm/127605824680\">this TrueTime XL-AK time server</a>, so I could learn more of the history of GPS-based time.</p>\n<p>I received it on June 22, and just 16 days later a similar GPS time server <a href=\"https://www.abc.net.au/news/2026-09-02/telstra-outage-review-findings-known-network-issues-not-priority/107106588\">took down Australia's cell service for 12 hours</a>! I made a <a href=\"https://www.youtube.com/watch?v=1T9xQy-dsQo\">short video about it</a> but put off digging into the TrueTime... until now.</p>\n<figure class=\"insert-image\"><img src=\"https://www.jeffgeerling.com/blog/2026/truetime-xl-gps-time-server-restomod/truetime-pi-densitron-lcd-working-time.jpeg\"\n\t\t\talt=\"TrueTime XL-AK with Pi inside running Densitron LCD\" width=\"700\" height=\"auto\">\n</figure>\n\n<p>Over the past couple weeks, I've 'restomodded' this device with a Raspberry Pi, to build a stratum 1 NTP Time server, which I'd like to eventually add to the <a href=\"htt",
+        "id": 6315543,
+        "language": "en",
+        "link": "https://www.jeffgeerling.com/blog/2026/truetime-xl-gps-time-server-restomod",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 162,
+        "source_url": "https://www.jeffgeerling.com/blog.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.jeffgeerling.com/blog/2026/truetime-xl-gps-time-server-restomod/truetime-pi-densitron-lcd-working-time.jpeg",
+        "title": "Rebuilding a 1995 GPS Time Server so I don't get Telstra'd",
+        "vote": 0
+    }
+]

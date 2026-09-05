@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-05T00:52:57.383336+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-04T23:07:23+00:00",
+        "description": "If it wins an outright majority in Saxony-Anhalt, it would be the first time a far-right party has held state-level power in Germany since World War Two.",
+        "id": 6318823,
+        "language": "en-gb",
+        "link": "https://www.bbc.co.uk/news/articles/cvgypkzgy4wo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 523,
+        "source_url": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80f2/live/23835360-a882-11f1-824a-0fc4c5d895ae.jpg",
+        "title": "Germany's far-right AfD bids for first taste of power in eastern vote",
+        "vote": 0
+    }
+]

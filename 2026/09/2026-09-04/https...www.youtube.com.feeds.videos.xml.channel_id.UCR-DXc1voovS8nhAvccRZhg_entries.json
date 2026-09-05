@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeff Geerling",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-04T16:29:10.326821+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-04T14:00:21+00:00",
+        "description": "Timing is everything.\n\nMore about Telstra's GNSS timing-related outage:\n\n  - https://hackaday.com/2026/08/27/australias-nationwide-phone-outage-was-an-embarrassing-failure/\n  - https://www.abc.net.au/news/2026-09-02/telstra-outage-review-findings-known-network-issues-not-priority/107106588\n\nSome of the projects I built, contributed to, or used:\n\n  - Jimmy Paputto GNSS HAT: https://github.com/jimmypaputto/gnsshat\n  - Densitron LCD: https://github.com/geerlingguy/densitron-lcd\n  - Time-Pi Fan Control: https://github.com/geerlingguy/time-pi/tree/master/fan-control\n  - Time-Pi Chrony Dashboard: https://github.com/geerlingguy/time-pi/tree/master/chrony-dashboard\n  - TrueTime Pi Mounting Bracket: https://www.printables.com/model/1832259-truetime-pi-mounting-bracket\n  - Right-angle HDMI and USB-C Adapter: https://deskpi.com/products/deskpi-kl-p24-raspberry-pi-adapter-board\n\nAnd here's the EEVBlog forum thread on the TrueTime XL-AK: https://www.eevblog.com/forum/projects/symmetricom-truetime-",
+        "id": 6316188,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=CivRNW0b1H8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 161,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR-DXc1voovS8nhAvccRZhg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/CivRNW0b1H8/hqdefault.jpg",
+        "title": "I modded a 30-year-old GPS Time Server (Telstra should've)",
+        "vote": 0
+    }
+]

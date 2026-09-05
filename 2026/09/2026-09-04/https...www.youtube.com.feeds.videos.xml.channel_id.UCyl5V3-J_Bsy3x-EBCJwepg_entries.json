@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Babylon Bee",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-05T00:51:47.665490+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-04T20:52:46+00:00",
+        "description": "After a controversial mistrial, Lindsay Clancy is now the front-runner to be the Democratic nominee for President in 2028.",
+        "id": 6318817,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=ISCz2aRbE_M",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 31,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCyl5V3-J_Bsy3x-EBCJwepg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/ISCz2aRbE_M/hqdefault.jpg",
+        "title": "After Mistrial, Lindsay Clancy Is Now The 2028 Democrat Front-Runner",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/Ill-Layer-6765",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-04T16:04:18.741438+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-04T13:19:36+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>I launched a small developer-tools website about 3 days ago:</p> <p><a href=\"https://www.thinklikedeveloper.online/\">https://thinklikedeveloper.online/</a></p> <p>It has browser-based tools for things like JSON formatting, JWT decoding, Base64/URL encoding, UUID generation, regex testing, SQL formatting, converters, etc.</p> <p>I&#39;m completely new to analyzing traffic for a site like this, and I&#39;m a little confused by what I&#39;m seeing in GA4.</p> <p>The site has been live for only ~3 days, but GA4 is showing very few active users. I expected the numbers to be low because it&#39;s a new site, but I&#39;m not sure whether what I&#39;m seeing is simply normal for a brand-new site or whether I&#39;ve messed something up with the Analytics implementation.</p> <p>For people who have launched sites recently:</p> <ul> <li>How long does it normally take before GA4 data becomes meaningful?</li> <li>Would you trust GA4 after only 3 days?</li> <li>What&",
+        "id": 6315983,
+        "language": "en",
+        "link": "https://www.reddit.com/r/developer/comments/1w747sm/launched_a_developer_tools_site_3_days_ago_ga4_is",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 508,
+        "source_url": "https://www.reddit.com/r/developer/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Launched a developer tools site 3 days ago, GA4 is showing almost no active users. Is this normal?",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/Boah_met",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-04T15:48:10.652115+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-04T01:45:14+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>I sometimes give tech support for users of a small indie app. I commonly recommended users to download it through Aurora Store. Right now, Aurora Store is giving the following error when attempting to download this application: AppNotPurchased(code=3, reason=App not purchased / unavailable in your country)</p> <p>The application is not georestricted in the App Store in any country, but the overwhelming majority of its users, and me, are located in Brazil. I also get the same error when attempting to download &quot;Genshin Stickers WaStickers&quot; or &quot;Cronometer&quot; calorie tracker in Aurora Store, which is another very small indie app which is not geolocked, but I&#39;m able to download big company applications such as Crunchyroll and Waze normally.</p> <p>The app I give support for is not geolocked and is free. Same for Genshin Stickers WaStickers and Cronometer. What is happening here?</p> <p>My full error log:</p> <p>App not purchased / una",
+        "id": 6315858,
+        "language": "",
+        "link": "https://www.reddit.com/r/fossdroid/comments/1w6qsce/aurora_store_gives_a_geolocation_error_for_small",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 1020,
+        "source_url": "https://www.reddit.com/r/fossdroid/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Aurora Store gives a geolocation error for small indie apps but not big company ones",
+        "vote": 0
+    }
+]

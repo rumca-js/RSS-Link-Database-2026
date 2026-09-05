@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giovanni Dicanio",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-04T18:42:33.801819+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-04T17:17:34+00:00",
+        "description": "<p>\n\tAI offers powerful tools for programmers. But should we completely trust the AI-generated output? Let&#39;s take a look at a concrete example.</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://giodicanio.com/2026/07/28/why-we-should-double-check-the-ai-output-a-bug-which-wasnt/\">Why We Should Double-Check the AI Output: A Bug Which Wasn&rsquo;t</a></h3>\n</blockquote>\n<blockquote>\n\t<p>\n\t\tby Giovanni Dicanio</p>\n</blockquote>\n<p>\n\tFrom the article:</p>\n<blockquote>\n\t<p>\n\t\tRecently I asked Claude to review the code of my WinReg C++ library. [...]</p>\n\t<p>\n\t\tAs a result of its analysis, Claude reported that there were zero-length bugs in my code, in particular Claude stated that zero-length REG_SZ/REG_EXPAND_SZ values crash the GetStringValue, GetExpandStringValue, TryGetStringValue and TryGetExpandStringValue methods of the RegKey class.</p>\n\t<p>\n\t\tIn particular, Claude noted that I correctly guarded against dataSize == 0 in the binary-returning getters (like RegKey::GetBinaryValue), but th",
+        "id": 6317082,
+        "language": "en",
+        "link": "https://isocpp.org//blog/2026/09/why-we-should-double-check-the-ai-output-a-bug-which-wasnt-giovanni-dicanio",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Why We Should Double-Check the AI Output: A Bug Which Wasn\u2019t -- Giovanni Dicanio",
+        "vote": 0
+    }
+]

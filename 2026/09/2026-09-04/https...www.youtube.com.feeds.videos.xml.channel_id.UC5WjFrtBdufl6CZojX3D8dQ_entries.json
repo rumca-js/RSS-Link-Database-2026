@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Tesla",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-04T02:08:59.387541+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-04T00:35:04+00:00",
+        "description": "Our Robotaxi vehicle lineup now includes Cybercab, our first purpose-built autonomous vehicle without a steering wheel or pedals \u2014 Now launching in Austin, Texas.\n\nDesigned for safety, accessibility and comfort, Cybercab is bringing autonomy to everyone and every ride. Schedule your next ride today to experience the future of autonomy for yourself\u2014only available in the Robotaxi app. \n\nDownload the Tesla Robotaxi app:\niOS \u2013 https://apps.apple.com/us/app/tesla-robotaxi/id6744257048\nAndroid \u2013 https://play.google.com/store/apps/details?id=com.tesla.riders&hl=en_US",
+        "id": 6312118,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=grdt05okn3Q",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 805,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5WjFrtBdufl6CZojX3D8dQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/grdt05okn3Q/hqdefault.jpg",
+        "title": "The Future Has Arrived | Cybercab",
+        "vote": 0
+    }
+]

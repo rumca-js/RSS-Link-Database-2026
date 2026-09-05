@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Engineering Mindset",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-04T14:00:07.617042+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-04T13:30:46+00:00",
+        "description": "The difference between AC alternating current and DC direct current explained with simple AC and DC circuits",
+        "id": 6315150,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/-YKX0gbvGyY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 961,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCk0fGHsCEzGig-rSzkfCjMw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/-YKX0gbvGyY/hqdefault.jpg",
+        "title": "Voltage flow: AC vs DC compared #physics #electrical #technology",
+        "vote": 0
+    }
+]

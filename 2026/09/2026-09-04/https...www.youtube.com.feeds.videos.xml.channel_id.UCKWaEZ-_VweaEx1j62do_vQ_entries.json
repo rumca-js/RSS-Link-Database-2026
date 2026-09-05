@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-04T10:36:16.767165+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-04T10:00:19+00:00",
+        "description": "Visit Mixture of Experts podcast page to get more AI content  \u2192 https://ibm.biz/~6DuRx9a12\n\nOn episode 123 of Mixture of Experts, host Tim Hwang and co-host Sascha Brodsky are joined by Chris Hay, Kaoutar El Maghraoui, and Kush Varshney to discuss this week\u2019s full slate of frontier AI news. \n\nFirst, Anthropic introduced Claude Fable 5.1 and Claude Mythos 5.1, positioning them as its most advanced models yet for coding and knowledge work. New benchmark records and lower costs, changes meant to reduce token cost and cut down on false-positives and restrictions from the models' safeguards. Anthropic also opened a research preview of its Model Hardware Standard, a shared specification letting AI agents safely operate lab and manufacturing equipment like microscopes and robotic arms, hinting at the physical world as agentic AI\u2019s next destination.\n\nBut it wasn't all smooth sailing for the industry. OpenAI published a sobering account of a summer security incident involving Hugging Face, rev",
+        "id": 6314047,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=W3iQbl5R_Jk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/W3iQbl5R_Jk/hqdefault.jpg",
+        "title": "Anthropic reveals hardware specs and Claude updates, OpenAI talks security, and Runway's new model",
+        "vote": 0
+    }
+]

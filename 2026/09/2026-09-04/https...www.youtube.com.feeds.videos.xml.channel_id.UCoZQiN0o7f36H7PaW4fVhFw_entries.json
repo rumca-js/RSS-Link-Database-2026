@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Retro Game Corps",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-04T14:24:13.518961+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-04T14:00:26+00:00",
+        "description": "We've got a lot of ARM-based Android handhelds out today, and new operating systems like Armada allow you to have a SteamOS experience on them. In this video I'll show you how to install ARM Linux on a handheld and demonstrate what kind of performance you can expect.\n\nArmada OS: https://armadaos.dev/\nROCKNIX: https://rocknix.org/\nGameNative: https://gamenative.app/\npocknix-os: https://github.com/shuuri-labs/pocknix-os\n\nTop 20 Steam Deck games on GameNative: https://youtu.be/Q5v10lisr_o \n\nRecommended handhelds:\nAYN Odin 3: https://tinyurl.com/RGC-Odin3\nRetroid Pocket 6: https://tinyurl.com/Retroid-RGC\nAYN Thor: https://tinyurl.com/ThorRGC\nAYN Odin 2 Portal: https://tinyurl.com/RGCodin2Portal\nRetroid Pocket Nova: https://tinyurl.com/RPNovaRGC\n\nCheck out my weekly newsletter: http://news.retrogamecorps.com/\n\nWays to support this channel:\nRGC merch: https://store.retrogamecorps.com\nYT channel membership: https://www.youtube.com/channel/UCoZQiN0o7f36H7PaW4fVhFw/join\nPatreon: https://www.pa",
+        "id": 6315294,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=2fInQ69ODZ0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 823,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCoZQiN0o7f36H7PaW4fVhFw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/2fInQ69ODZ0/hqdefault.jpg",
+        "title": "Yes, Android Handhelds Can Be \"Steam Decks\"",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/Injury_Chemical",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-04T12:52:25.092085+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-04T12:42:57+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>Guys it&#39;s been 1 month now I&#39;ve tried every solution here but wouldn&#39;t still be able to download audio not videos here&#39;s my log Pls help I&#39;m using Android </p> <p>Downloading: Title: Yeat - Box (slowed to perfection) URL: <a href=\"https://www.youtube.com/watch?v=Zmazz6I3G5A\">https://www.youtube.com/watch?v=Zmazz6I3G5A</a> Type: audio Command: --extractor-args &quot;youtube:player_client=mweb;po_token=mweb.gvs+Mnu-6vuFXfHkAb7ViYZWUge74ORoEvj53GXT83B_AVYoEViC-WAvKfWRIF5bymySMDJoYKNevpS_ez0zI296yTwjWUuwQlrhLsdMCvyJrxDcPSmyc_lPq2p8r6JWWwMtRkdRQ08XLvsQyWCofARE4faeG7zux0YrODj9-F0=,mweb.player+MpcBI9-yZgcubxsj4MBlDI2MoX3RIfGiJld_TsY5nFuJowvFt7CDdfZ-i71rEik2Tbso9VXqveRLNGGgBmqMIBa3OcR--aEAPqXd0d-NFAQlzPiZgbz1kItnI0eyq-39csjXMznaZOJctwqzQQbGSB8MzxAJOD7czQpAWVxrvu0JV8MBOBMtwCl_0eUtBbT1dh4FKeUuLbqnrw==,mweb.subs+MpcBI9-yZgcubxsj4MBlDI2MoX3RIfGiJld_TsY5nFuJowvFt7CDdfZ-i71rEik2Tbso9VXqveRLNGGgBmqMIBa3OcR--aEAPqXd0d-NFAQlzPiZgbz1kItnI0eyq-39csjX",
+        "id": 6314781,
+        "language": "en",
+        "link": "https://www.reddit.com/r/youtubedl/comments/1w73cbf/error_403",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 791,
+        "source_url": "https://www.reddit.com/r/youtubedl/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Error 403",
+        "vote": 0
+    }
+]
