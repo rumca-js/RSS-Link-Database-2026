@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-05T18:36:01.255427+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-05T16:46:07+00:00",
+        "description": "Paul Graham on what drives founders through the hard parts:\n\n\u201cBeing dutiful is not enough. The obstacles are too fearsome for mere dutifulness.\u201d\n\n\u201cYou know what actually motivates founders day to day? The fear of failure.\u201d\n\n\u201cIf your server\u2019s crashing, you\u2019re not thinking, \u2018I got to deal with this because if I deal with it, I\u2019ll become a billionaire.\u2019 You\u2019re thinking, \u2018Oh no, the server\u2019s crashing. It will be a disaster. The engine of my model train set is falling off the edge of the table. I need to go and save it.\u2019\u201d",
+        "id": 6322201,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/Wxq7ZIEodJg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/Wxq7ZIEodJg/hqdefault.jpg",
+        "title": "Paul Graham on what motivates founders",
+        "vote": 0
+    }
+]

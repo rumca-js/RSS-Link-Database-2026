@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Sarah Law",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-05T16:29:46.424126+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-05T08:48:13+00:00",
+        "description": "<img src='https://i.cbc.ca/ais/1.5744268,1746817832000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C273%2C4928%2C2772%29%3B' alt='A close-up of a patch that says Nishnawbe Aski Police.' width='620' height='349' title='Nishnawbe Aski Police say they will opt-in to provincial policing regulations under new legislation, in hopes that it will lead to an increase in funding. '/><p>One person is dead and another is in police custody following a shooting in North Spirit Lake First Nation, a remote Oji-Cree community in northwestern Ontario. Here's what we know about the incident.</p>",
+        "id": 6321685,
+        "language": "en",
+        "link": "https://www.cbc.ca/news/canada/thunder-bay/north-spirit-lake-shooting-death-9.7333699?cmp=rss",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 49,
+        "source_url": "https://www.cbc.ca/webfeed/rss/rss-canada",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i.cbc.ca/ais/1.5744268,1746817832000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C273%2C4928%2C2772%29%3B",
+        "title": "1 person dead, another in custody after shooting in remote First Nation in northwestern Ontario",
+        "vote": 0
+    }
+]

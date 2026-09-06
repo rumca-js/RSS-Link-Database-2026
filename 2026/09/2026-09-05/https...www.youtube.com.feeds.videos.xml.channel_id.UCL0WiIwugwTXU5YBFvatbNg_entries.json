@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ku Bogu",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-05T20:37:15.599461+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-05T20:03:39+00:00",
+        "description": null,
+        "id": 6322576,
+        "language": "pl",
+        "link": "https://www.youtube.com/shorts/FhXmR0tDOys",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 178,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCL0WiIwugwTXU5YBFvatbNg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/FhXmR0tDOys/hqdefault.jpg",
+        "title": "Do\u015bwiadczenie Boga",
+        "vote": 0
+    }
+]

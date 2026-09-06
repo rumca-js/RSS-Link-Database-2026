@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ACCU Conference",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-05T17:20:48.153080+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-05T12:59:55+00:00",
+        "description": "ACCU Membership: https://tinyurl.com/ydnfkcyn\n---\n\nSoftware Abstraction in the Age of AI-Generated Code: Languages, Compilers, and Systems Engineering - Andrei Alexandrescu - ACCU 2026\n---\n\nFor a long time, programming was limited by our ability to produce code. That constraint is changing quickly. AI systems can now generate large amounts of code with ease, while inspection and validation remain hard.\n\nThis shift changes the balance of the field. Code is easier to produce than to reason about, and judgment is in a short supply compared to specialized intelligence. The pressure moves from writing programs to understanding systems, their structure, and their behavior over time.\n\nThe talk looks at this transition through a mix of history, language design, and recent developments. It argues that the core challenges ahead are less about generation and more about managing complexity at scale.\n\nAI will change how we build software. As before, the outcome depends on how we adapt.\n\nSlides: ht",
+        "id": 6321911,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=-RWdevA0gWI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 421,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJhay24LTpO1s4bIZxuIqKw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/-RWdevA0gWI/hqdefault.jpg",
+        "title": "Software Abstraction in the Age of AI-Generated Code - Andrei Alexandrescu - ACCU 2026",
+        "vote": 0
+    }
+]

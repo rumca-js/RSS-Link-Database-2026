@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Phie Jacobs",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-05T16:05:47.171596+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-05T09:40:00+00:00",
+        "description": "NIH director defends interagency plan as \u201c100% aligned with our public health mission\u201d",
+        "id": 6321555,
+        "language": "en-US",
+        "link": "https://www.science.org/content/article/outrage-greets-nih-pact-could-funnel-biodefense-research-funds-pentagon",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 187,
+        "source_url": "https://www.science.org/rss/news_current.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Outrage greets NIH pact that could funnel biodefense research funds to Pentagon",
+        "vote": 0
+    }
+]

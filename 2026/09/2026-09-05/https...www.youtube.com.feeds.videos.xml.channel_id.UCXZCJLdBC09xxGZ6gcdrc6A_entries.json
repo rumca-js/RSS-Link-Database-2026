@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "OpenAI",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-05T02:15:11.852838+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-05T00:11:56+00:00",
+        "description": "Ben Davis shares his first impressions of GPT-6 Astra after testing it on some of DEF CON's hardest puzzle challenges. He explains how parallel research branches help the model test theories, stay on track, and solve complex problems, including one no one else had solved.",
+        "id": 6319137,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=B-jjnydci50",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 935,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXZCJLdBC09xxGZ6gcdrc6A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/B-jjnydci50/hqdefault.jpg",
+        "title": "GPT-6 Astra with Ben Davis",
+        "vote": 0
+    }
+]

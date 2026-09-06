@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NetworkChuck",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-05T14:56:11.717214+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-05T13:00:30+00:00",
+        "description": "See how ThreatLocker can help you lock down applications and AI tools without getting in the way: https://www.threatlocker.com/networkchuck-ai\n\nFifty things to do after you install Omarchy. Thousands of you installed it after my last video and then sat there staring at a blank tiling desktop wondering what to do next, so I went through the entire 4.0 manual and pulled out every single thing I actually use, in the order you will hit them in your first week.\n\nYou will learn the keybindings that replace your mouse, how to install anything (and when to be careful with the AUR), what Btrfs snapshots really save you from, the local dictation and AirDrop-for-Linux tools that are already sitting on your machine, how to build a whole theme out of one wallpaper, and then the part that still feels illegal: handing an AI agent the keys to your operating system and letting it rewrite the thing while you watch. At the end I build my own plugin, run it on a local model with no GPU, and publish it to",
+        "id": 6321362,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=2IDjteRQgMQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 565,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9x0AN7BWHpCDHSm9NiJFJQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/2IDjteRQgMQ/hqdefault.jpg",
+        "title": "Omarchy Can Do WHAT?! 50 Features You\u2019re Missing",
+        "vote": 0
+    }
+]

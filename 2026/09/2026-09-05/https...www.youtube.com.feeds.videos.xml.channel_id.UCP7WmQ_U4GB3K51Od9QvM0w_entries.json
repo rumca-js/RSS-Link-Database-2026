@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "David Bombal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-05T17:37:00.770396+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-05T16:00:31+00:00",
+        "description": "AI agents are being rapidly adopted inside organizations, but what happens when an attacker gains control of one?\n\nAn AI agent may already have access to sensitive data, admin credentials, critical servers and production environments. Instead of doing the hard work themselves, attackers could manipulate your trusted agent to steal data, expose credentials or deploy a malicious payload.\n\nIn this Short, we look at how AI agents can be weaponized against the organizations that deployed them and why agent security must be a priority from day one.\n\nThank you to Radware for sponsoring this video.\n\n#radware #bhusa2026 #aiagents",
+        "id": 6322029,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/fcp7wmP9-7w",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 984,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP7WmQ_U4GB3K51Od9QvM0w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/fcp7wmP9-7w/hqdefault.jpg",
+        "title": "How Hackers Weaponize Your AI Agents",
+        "vote": 0
+    }
+]

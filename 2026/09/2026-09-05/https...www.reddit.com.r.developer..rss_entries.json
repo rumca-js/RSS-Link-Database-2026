@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/Alert-Ad-5918",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-05T05:17:11.876024+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-05T03:44:42+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>I\u2019ve been working on <strong>DevKit by DeveloperScope</strong>, a CLI focused on making the initial setup of development projects faster.</p> <p>The idea is pretty simple, instead of installing a framework and then manually adding all the packages and configuration you usually use, you can create a project with the tooling you want in one command.</p> <p>For example:</p> <pre><code>devkit install react my-app --tailwind --lucide-react </code></pre> <p>Instead of going through:</p> <pre><code>npm create vite@latest cd my-app npm install # configure Tailwind # install TypeScript # install your UI/icon libraries # etc... </code></pre> <p>The goal is to eventually support things like:</p> <ul> <li>React</li> <li>Vue</li> <li>Angular</li> <li>Preact</li> <li>React Native</li> <li>Vite</li> <li>TypeScript</li> <li>Tailwind CSS</li> <li>Lucide React</li> <li>ESLint / Prettier</li> <li>Node.js</li> <li>Python</li> <li>PHP</li> <li>Laravel</li> <li>Symfony</li",
+        "id": 6319558,
+        "language": "en",
+        "link": "https://www.reddit.com/r/developer/comments/1w7pqlu/im_building_devkit_a_cli_to_make_setting_up_dev",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 508,
+        "source_url": "https://www.reddit.com/r/developer/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "I\u2019m building DevKit a CLI to make setting up dev projects less painful",
+        "vote": 0
+    }
+]

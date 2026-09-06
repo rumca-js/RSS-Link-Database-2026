@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ionut Arghire",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-05T13:54:50.726818+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-05T13:00:28+00:00",
+        "description": "<p>Tracked as CVE-2026-32475 (CVSS score of 9.8), the bug described as an arbitrary file upload issue in the function that handles form submissions.</p>\n<p>The post <a href=\"https://www.securityweek.com/elementor-pro-wordpress-plugin-vulnerability-exploited-to-hack-sites/\">Elementor Pro WordPress Plugin Vulnerability Exploited to Hack Sites</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+        "id": 6321050,
+        "language": "en-US",
+        "link": "https://www.securityweek.com/elementor-pro-wordpress-plugin-vulnerability-exploited-to-hack-sites",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 299,
+        "source_url": "https://www.securityweek.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Elementor Pro WordPress Plugin Vulnerability Exploited to Hack Sites",
+        "vote": 0
+    }
+]
