@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Retro Game Corps",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-06T17:42:44.887022+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-06T14:00:37+00:00",
+        "description": "Here is a fun, casual look at some more advanced shader configurations for the Retroid Pocket Nova (and other handhelds).\n\nBuy an RP Nova: https://tinyurl.com/RPNovaRGC\nAliExpress: https://s.click.aliexpress.com/e/_c43sjcBN\n\nRetroid Pocket Nova Starter Guide: https://youtu.be/1lD4LYUrVgM\nFull written guide: https://retrogamecorps.com/2022/01/16/retroid-pocket-2-starter-guide/\nCRT Beam and BFI video: https://youtu.be/d2GS7wDa2XI\nReview video: https://youtu.be/QntymbB9a2Q\n\nCheck out my weekly newsletter: http://news.retrogamecorps.com/\n\nWays to support this channel:\nRGC merch: https://store.retrogamecorps.com\nYT channel membership: https://www.youtube.com/channel/UCoZQiN0o7f36H7PaW4fVhFw/join\nPatreon: https://www.patreon.com/retrogamecorps\nKo-Fi: https://ko-fi.com/retrogamecorps\n\nTimestamps:\n00:00 introduction\n01:21 initial setup\n04:16 CRT Beam and BFI\n08:30 color correction\n11:50 pixel scaling\n16:23 CRT shaders\n31:11 Game Boy Advance\n44:50 Game Boy Color\n53:14 Game Boy (DMG)\n58:58 fina",
+        "id": 6326261,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=U2Lu8rsTDSw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 823,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCoZQiN0o7f36H7PaW4fVhFw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/U2Lu8rsTDSw/hqdefault.jpg",
+        "title": "These Are My Favorite RP Nova Shaders",
+        "vote": 0
+    }
+]

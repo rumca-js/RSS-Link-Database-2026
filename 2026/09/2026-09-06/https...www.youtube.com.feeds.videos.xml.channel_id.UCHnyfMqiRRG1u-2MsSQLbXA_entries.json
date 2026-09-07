@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Veritasium",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-06T14:30:02.628971+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-06T13:00:26+00:00",
+        "description": "In 2018 football fans were leaving a stadium in Rome. They boarded an escalator down to the metro. Suddenly the machine sprung a fault.\n\nMultiple safety systems were triggered. One after another. And then the final line failed.\n\nThis is why.",
+        "id": 6325546,
+        "language": "en-US",
+        "link": "https://www.youtube.com/shorts/oR94cicO7xM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 379,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/oR94cicO7xM/hqdefault.jpg",
+        "title": "The Most Dangerous Escalator In Europe",
+        "vote": 0
+    }
+]

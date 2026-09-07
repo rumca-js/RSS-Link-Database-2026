@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Infographics Show",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-06T16:02:13.810474+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-06T14:11:38+00:00",
+        "description": "OpenAI built one of the most successful consumer products in modern tech. But behind the explosive growth is a brutal financial reality. The company is burning through enormous amounts of cash, and its newest plan to fix that problem depends heavily on ads.\n\nThis video explores why OpenAI\u2019s business model is becoming increasingly risky. Revenue is growing fast, but so are operating losses, compute costs, infrastructure commitments, and the amount of money needed just to keep the system running. Now OpenAI is betting that advertising can become one of its biggest revenue engines. The company expects ad revenue to climb dramatically over the next few years, requiring billions of users and an advertising market far larger than current forecasts suggest. At the same time, OpenAI is relying on massive funding rounds, complex partnerships, circular financing, expensive GPUs, and data centers that require staggering amounts of electricity.\n\nAI may be revolutionary, but a revolutionary produc",
+        "id": 6325893,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=UVKmPMTwglI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 999,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfdNM3NAhaBOXCafH7krzrA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/UVKmPMTwglI/hqdefault.jpg",
+        "title": "The Leaked Audit That Exposes OpenAI's Real Financial Crisis",
+        "vote": 0
+    }
+]

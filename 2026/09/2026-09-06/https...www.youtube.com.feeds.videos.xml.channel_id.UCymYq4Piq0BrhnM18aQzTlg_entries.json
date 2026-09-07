@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Lon.TV",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-07T01:11:15.849765+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-06T22:45:03+00:00",
+        "description": "Buy one on Amazon: https://lon.tv/291nh - also find the aaostar dock here: https://amzn.to/3TcsM5b (compensated affiliate links).The cheapest 32GB GPU you can buy right now is a pulled Nvidia Tesla V100  from a datacenter! I found it works quite well for Qwen 3.8 and other local models - even some diffusion models! See more local AI : https://www.youtube.com/watch?v=45vLPVEb0bM&list=PLfqUj3TrcUR8\n\nI was running MTP on Qwen 3.8\n\nVIDEO INDEX:\n00:00 - Intro\n01:20 - Getting a Tesla V100 to work on a desktop\n02:05 - Oculink Dock and Power Connections\n04:14 - Powering the cooling system\n05:16 - eGPU Installation\n06:43 - Linux vs. Windows\n07:06 - ChatGPT Assistance with Configuration\n08:02 - Qwen 3.8 27B Test\n11:36 - Gemma-4 26B-A4B Mixture of Experts\n12:39 - Video and Image Diffusion Models!\n\nVisit my Blog! https://blog.lon.tv\n\nSubscribe to my email lists! \nWeekly Breakdown of Posted Videos:  - https://lon.tv/email\nDaily Email From My Blog Posts! https://lon.tv/digest\n\nSee my second channel",
+        "id": 6327799,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=3P6m_QBIgAo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 199,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCymYq4Piq0BrhnM18aQzTlg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/3P6m_QBIgAo/hqdefault.jpg",
+        "title": "The Cheapest 32GB Nvidia GPU You Can Buy for Local AI (Tesla V100)",
+        "vote": 0
+    }
+]

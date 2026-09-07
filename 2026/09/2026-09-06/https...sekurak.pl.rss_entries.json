@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "sekurak",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-06T16:07:17.739049+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-06T15:52:48+00:00",
+        "description": "<p>Chodzi o krytyczne podatno\u015bci, kt\u00f3re s\u0105 aktywnie wykorzystywane przez atakuj\u0105cych, a szczeg\u00f3\u0142y luk s\u0105 wr\u0119cz&#8230; nieprawdopodobne. Cytaty za CERT Polska, kt\u00f3ry zg\u0142osi\u0142 do MikroTika luki: W skr\u00f3cie &#8211; mo\u017cna dosta\u0107 si\u0119 na Mikrotiki z poziomu Internetu, bez jakiegokolwiek uwierzytelnienia&#8230; \u0141atajcie si\u0119. ~ms</p>\n<p>Artyku\u0142 <a href=\"https://sekurak.pl/krytyczne-luki-w-mikrotiku-umozliwiajace-przejecie-urzadzenia-przez-ssh-latajcie-sie-pilnie/\">Krytyczne luki w MikroTiku, umo\u017cliwiaj\u0105ce przej\u0119cie urz\u0105dzenia przez SSH. \u0141atajcie si\u0119 pilnie.</a> pochodzi z serwisu <a href=\"https://sekurak.pl\">Sekurak</a>.</p>",
+        "id": 6325905,
+        "language": "pl-PL",
+        "link": "https://sekurak.pl/krytyczne-luki-w-mikrotiku-umozliwiajace-przejecie-urzadzenia-przez-ssh-latajcie-sie-pilnie",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 300,
+        "source_url": "https://sekurak.pl/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Krytyczne luki w MikroTiku, umo\u017cliwiaj\u0105ce przej\u0119cie urz\u0105dzenia przez SSH. \u0141atajcie si\u0119 pilnie.",
+        "vote": 0
+    }
+]

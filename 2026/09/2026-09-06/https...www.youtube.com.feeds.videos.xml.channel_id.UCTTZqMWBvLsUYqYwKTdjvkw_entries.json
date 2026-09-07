@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mateusz Chrobok",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-06T16:34:01.126093+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-06T16:00:27+00:00",
+        "description": "\ud83d\udd13\u00a0W po\u0142owie lipca HuggingFace poinformowa\u0142o w o\u015bwiadczeniu o incydencie bezpiecze\u0144stwa. Kto\u015b niepowo\u0142any uzyska\u0142 dost\u0119p do ich produkcyjnej infrastruktury wysy\u0142aj\u0105c do serwisu z\u0142o\u015bliwy, specjalnie spreparowany zestaw danych treningowych, kt\u00f3rego automatyczne sprawdzenie doprowadzi\u0142o do zdalnego wykonania kodu. A w konsekwencji - eskalacji uprawnie\u0144, przechwycenia po\u015bwiadcze\u0144 oraz dalszego rozej\u015bcia si\u0119 po infrastrukturze ofiary. Jak do tego dosz\u0142o? Czy to w\u0142a\u015bnie ten moment w historii, kiedy Skynet budzi si\u0119\u00a0do \u017cycia? I jak w og\u00f3le wygl\u0105da co\u015b\u00a0na kszta\u0142t spo\u0142ecze\u0144stwa, kt\u00f3re wykszta\u0142ci\u0142a AI?\n\n\ud83d\udc49\u00a0Otw\u00f3rz Konto M\u00f3j Biznes online w Banku Millennium i zyskaj do 5000 z\u0142 premii po spe\u0142nieniu warunk\u00f3w promocji, korzystaj\u0105c z rzeczy, kt\u00f3re i tak robisz na co dzie\u0144 jak op\u0142acanie ZUS-u czy p\u0142atno\u015bci kart\u0105 w telefonie,\u00a0czy przyjmowanie p\u0142atno\u015bci na terminalu p\u0142atniczym\n.\ud83d\ude80\u00a0Do tego nie p\u0142acisz za prowadzenie Konta M\u00f3j Biznes i otrzymujesz bezp\u0142atne przelewy internetowe w PLN i EUR \u2013 przez 2 lata w p",
+        "id": 6325967,
+        "language": "pl-PL",
+        "link": "https://www.youtube.com/watch?v=ynTpg2kMUBY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 211,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTTZqMWBvLsUYqYwKTdjvkw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/ynTpg2kMUBY/hqdefault.jpg",
+        "title": "Skynet ju\u017c tu jest?",
+        "vote": 0
+    }
+]
