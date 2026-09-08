@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Blog Staff",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-07T17:41:16.218142+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-07T17:11:51+00:00",
+        "description": "<p>\n\t<strong><img alt=\"\" src=\"https://avatars.sched.co/0/8a/3972095/avatar.jpg?fd0\" style=\"width: 150px; height: 150px; float: right;\" />Registration is now open for CppCon 2026!</strong> The conference starts on September 12 and will be held&nbsp;<a href=\"https://cppcon.org\">in person in Aurora, CO</a>.&nbsp;To whet your appetite for this year&rsquo;s conference, we&rsquo;re posting some upcoming talks that you will be able to attend this year. Here&rsquo;s another CppCon future talk we hope you will enjoy &ndash; and&nbsp;<strong><a href=\"https://cppcon.org/registration/\">register today</a> for CppCon 2026!</strong></p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://cppcon2026.sched.com/event/2RT5i/graphics-programming-with-sdl-3-part-2\">Graphics Programming with SDL 3 Part 2</a></h3>\n\t<p>\n\t\tMonday, September 14 16:45 - 17:45 MDT</p>\n\t<p>\n\t\tby Mike Shah</p>\n</blockquote>\n<p>\n\tSummary of the talk:</p>\n<blockquote>\n\t<p>\n\t\tLast year I introduced the SDL3 library which provides a solution for bu",
+        "id": 6332010,
+        "language": "en",
+        "link": "https://isocpp.org//blog/2026/09/cppcon-2026-graphics-programming-with-sdl-3-part-2-mike-shah",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://avatars.sched.co/0/8a/3972095/avatar.jpg?fd0",
+        "title": "CppCon 2026: Graphics Programming with SDL 3 Part 2 -- Mike Shah",
+        "vote": 0
+    }
+]

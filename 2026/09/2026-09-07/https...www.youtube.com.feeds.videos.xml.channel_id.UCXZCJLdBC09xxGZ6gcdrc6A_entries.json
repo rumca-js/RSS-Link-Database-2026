@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "OpenAI",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-07T19:35:22.089691+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-07T17:15:32+00:00",
+        "description": "Tom Krcha shares his first impressions of GPT-6 Astra through a customizable logo tool, website designs with coordinated visual details, and adjustable photo shaders. He explores how the model helps designers develop ideas, build interactive prototypes, and bring a clearer creative direction to their engineering teams.",
+        "id": 6332597,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=QDLlQ5IL2Bk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 935,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXZCJLdBC09xxGZ6gcdrc6A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/QDLlQ5IL2Bk/hqdefault.jpg",
+        "title": "GPT-6 Astra with Tom Krcha",
+        "vote": 0
+    }
+]

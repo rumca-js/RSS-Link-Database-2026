@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/Capable-Nature5860",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-07T09:16:12.823370+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-07T08:56:32+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://www.reddit.com/r/django/comments/1upuy8j/\">Part 1</a> | <a href=\"https://www.reddit.com/r/django/comments/1uv4s7n/\">Part 2</a> | <a href=\"https://www.reddit.com/r/django/comments/1v1f4zl/\">Part 3</a> | <a href=\"https://www.reddit.com/r/django/comments/1vefehr/how_i_turned_my_django_crm_into_a_modular/\">Part 4</a> | <a href=\"https://www.reddit.com/r/django/comments/1vkjoen/integrating_a_national_postal_service_api_into_my/\">Part 5</a> | <a href=\"https://www.reddit.com/r/django/comments/1vqncax/refactoring_stock_management_adding/\">Part 6</a> | <a href=\"https://www.reddit.com/r/django/comments/1vycfbj/moving_from_signals_to_a_service_layer_adding/\">Part 7</a> | <a href=\"https://www.reddit.com/r/django/comments/1w37688/refactoring_a_monolithic_telegram_bot_fixing_n1/\">Part 8</a> - production CRM for truck service center, Django + DRF.</p> <p>This one covers v2.13 and v2.14 - the features that made my system feel like a real product. Part",
+        "id": 6329224,
+        "language": "",
+        "link": "https://www.reddit.com/r/django/comments/1w9mtzv/autosuggesting_parts_from_previous_orders",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 491,
+        "source_url": "https://www.reddit.com/r/django/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Autosuggesting parts from previous orders, backup/restore via API and spam protection for my Django CRM",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unreal Engine",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-07T18:16:17.932791+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-07T17:26:25+00:00",
+        "description": "Watch this Epic Games Education Office Hours session for a hands-on look at the Experimental MCP Plugin in Unreal Engine 5.8.\n\nThe session explores how the MCP Plugin connects AI models with Unreal Engine workflows, including what the plugin is, how it works, and how you can start using it in your own projects or in the classroom.\n\nWhether you\u2019re a creator, educator, or curious about AI-assisted workflows in Unreal Engine, this recording is a great place to get started.\n\n#unrealenginebeginnertutorial  #epicgames #UE58 #UE #MCP",
+        "id": 6332216,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=k0tgmrBuIJc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 685,
+        "source_url": "https://youtube.com/channel/UCBobmJyzsJ6Ll7UbfhI4iwQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/k0tgmrBuIJc/hqdefault.jpg",
+        "title": "Getting Started with MCP in Unreal Engine 5.8",
+        "vote": 0
+    }
+]

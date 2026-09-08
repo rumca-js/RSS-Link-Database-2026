@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-08T02:21:24.725068+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-07T08:00:00+00:00",
+        "description": "<p><span>\n\n</span>\n\n<a href=\"https://davidroodman.com/\">David</a> asked a great question\non my \n\n<a href=\"https://www.jefftk.com/p/considering-installing-a-solar-battery-system\">solar\nbattery system post</a>: why buy a small battery just for emergencies\nwhen electric cars have a large battery you can also use for other\nthings? [1] This would be great, and seems like the obvious way for it\nto work: when the grid goes down the panels can charge the car when\nit's sunny, and the car can power the house when it's not.\nUnfortunately as far as I can tell the only way I could do this today\nis with a Cybertruck, and other systems are a long way off.\n\n\n\n<p>\n\nThe basic problem is that while several manufacturers support having\nthe car power your house when the grid is down (\"V2H\"), they generally\ntreat it as a separate discharging-only mode.  For example, the <a href=\"https://gmenergy.gm.com/content/dam/gmenergy/na/us/en/index/01-pdfs/gm-energy-v2h-bundle-user-guide-v1-2.pdf\">GM\nV2H Bundle docum",
+        "id": 6333960,
+        "language": "en-US",
+        "link": "https://www.jefftk.com/p/bidirectional-charging-during-grid-outages",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 163,
+        "source_url": "https://www.jefftk.com/news.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.jefftk.com/quasar2-ev9-v2h-not-working.png",
+        "title": "Bidirectional Charging During Grid Outages",
+        "vote": 0
+    }
+]

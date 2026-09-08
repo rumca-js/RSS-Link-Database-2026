@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "C++ Weekly With Jason Turner",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-07T17:17:42.225441+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-07T15:29:53+00:00",
+        "description": "Mathieu and Jason are joined by Kevin Carpenter to discuss all aspects of being involved with a conference: from regular attendee, to volunteering, to speaker, volunteer coordinator, and catering concerns. Kevin also shares some of his insights into how credit card processing works, along with some of the challenges he\u2019s encountered. In this episode Jason also gives the guest some homework assignments for future conferences!\n\nLinks:\n* https://www.linkedin.com/in/kevinbcarpenter/\n\nNews:\n* https://lemire.me/blog/2026/08/02/how-fast-is-c26s-stdhive/\n* https://pvs-studio.com/en/blog/posts/cpp/1405/",
+        "id": 6331892,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=hPjwPyAAqYg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 48,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxHAlbZQNFU2LgEtiqd2Maw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/hPjwPyAAqYg/hqdefault.jpg",
+        "title": "Running Conferences and Processing Credit Cards - Kevin Carpenter - CppCast 411 / C++Weekly 549",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-07T14:01:34.921213+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-07T14:00:00+00:00",
+        "description": "<div id=\"remove_no_follow\">\n\t\t<div class=\"grid grid--cols-10@md grid--cols-8@lg article-column\">\n\t\t\t\t\t  <div class=\"col-12 col-10@md col-6@lg col-start-3@lg\">\n\t\t\t\t\t\t<div class=\"article-column__content\">\n<section class=\"wp-block-bigbite-multi-title\"><div class=\"container\"></div></section>\n\n\n<div id=\"review-body\" class=\"review\"><h4 class=\"review-title\" id=\"at-a-glance\">At a glance</h4><h3 class=\"review-subTitle\" id=\"experts-rating\">Expert's Rating</h3><div class=\"starRating\" style=\"--rating: 3.5\" aria-label=\"Rating of this product is 3.5 out of 5.\" role=\"img\"></div>\n<div><div class=\"review-columns\">\n<div class=\"review-column\"><h3 class=\"review-subTitle\" id=\"pros\">Pros</h3>\n<ul class=\"wp-block-list\">\n<li>A wide range of connectivity options</li>\n\n\n\n<li>Good 5G and 4G reception</li>\n\n\n\n<li>Support for 6 GHz Wi-Fi 7</li>\n</ul>\n</div>\n\n\n\n<div class=\"review-column\"><h3 class=\"review-subTitle\" id=\"cons\">Cons</h3>\n<ul class=\"wp-block-list\">\n<li>Bulky dimensions for a pocket router</li>\n\n\n\n<li>",
+        "id": 6330778,
+        "language": "en",
+        "link": "https://www.pcworld.com/article/3213357/netgear-nighthawk-m7-pro-review.html",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 246,
+        "source_url": "https://www.pcworld.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.pcworld.com/wp-content/themes/idg-b2b-base-theme/dist/static/img/best-buy-logo.png",
+        "title": "Netgear Nighthawk M7 Pro review: A flexible 5G router at a steep price",
+        "vote": 0
+    }
+]
