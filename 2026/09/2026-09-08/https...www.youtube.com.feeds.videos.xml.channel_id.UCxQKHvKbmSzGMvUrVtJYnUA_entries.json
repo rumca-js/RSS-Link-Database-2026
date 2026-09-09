@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Learn Linux TV",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-08T17:07:40.965764+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-08T14:00:22+00:00",
+        "description": "Learn how to create a Linux Golden Image on Linode and use it to deploy secure, preconfigured VPS instances in minutes.\n\nIn this hands-on Linux tutorial, you\u2019ll learn what a Golden Image is, why system administrators use them, and the best practices to follow when building one. We\u2019ll prepare a reusable Linode image by installing updates, preinstalling essential packages, configuring Fail2ban, and converting the finished VPS into a deployment-ready template.\n\nBy the end of the lab, you\u2019ll be able to launch new Linux servers from your Golden Image - saving time, improving consistency, and eliminating repetitive server configuration.\n\n*\ud83d\udcda Discounts, Courses, Books, and More! (Support Linux Learning)*\n- 10% Off Linux Swag! \u279c https://learnlinux.link/swag\n- Get the \"Linux Pro-Tips\" Newsletter \u279c https://learnlinux.link/linux-tips\n- Grab Jay's *ACTUAL* Dotfiles! \u279c https://learnlinux.link/linux-tips\n- Switching to Linux Book (15% Off!) \u279c https://learnlinux.link/switch-to-linux\n- Linode Starter ",
+        "id": 6338442,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=quNWLm5Wd3g",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 997,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxQKHvKbmSzGMvUrVtJYnUA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/quNWLm5Wd3g/hqdefault.jpg",
+        "title": "How to Create a Linux Golden Image on Linode (Step-by-Step Lab)",
+        "vote": 0
+    }
+]

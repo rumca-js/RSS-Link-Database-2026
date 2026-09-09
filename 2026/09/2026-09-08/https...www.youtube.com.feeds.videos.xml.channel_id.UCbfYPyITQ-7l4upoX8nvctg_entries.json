@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Two Minute Papers",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-08T08:53:10.717103+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-08T08:24:27+00:00",
+        "description": "\u2764\ufe0f Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\nLinks / sources:\nHoney sim: search for \"Variational Stokes: A Unified Pressure-Viscosity Solver for Accurate Viscous Liquids\" here: https://cs.uwaterloo.ca/~c2batty/\nhttps://x.com/mindblown_ai/status/2095661874037813298?s=20\nhttps://x.com/aollivier82/status/2096226819401801896?s=46\nhttps://x.com/sahilexec/status/2095688272269984016?s=46\nhttps://x.com/petergostev/status/2095596176804307342?s=20\nhttps://x.com/mattshumer_/status/2095609734845927525?s=20\nhttps://x.com/mattshumer_/status/2095596175705399482?s=46\nhttps://x.com/davis7/status/2095742249275699415?s=46\nhttps://x.com/dimillian/status/2095596700815516004?s=46\nhttps://x.com/sharifshameem/status/2095653641164329143?s=46\nhttps://x.com/skirano/status/2095648379455861054?s=46\nhttps://x.com/petergostev/status/2095596341422440714?s=46\nhttps://x.com/keunhongp/status/2095739550484365620?s=46\nhttps://x.com/Bhavani_00007/status/2095858967515930706?s=20\nhttps",
+        "id": 6335263,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=eVBJIUxv8N8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 945,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbfYPyITQ-7l4upoX8nvctg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/eVBJIUxv8N8/hqdefault.jpg",
+        "title": "GPT-6 Astra - A Massive Leap Into The Future",
+        "vote": 0
+    }
+]

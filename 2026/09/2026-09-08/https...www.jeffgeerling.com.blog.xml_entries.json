@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-08T16:42:11.542278+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-08T11:00:00+00:00",
+        "description": "<figure class=\"insert-image\"><img src=\"https://www.jeffgeerling.com/blog/2026/opennmc-apc-ups-replacement-card/apc-smart-ups-2200xl-in-rack.jpg\"\n\t\t\talt=\"APC SmartUPS 2200XL\" width=\"700\" height=\"auto\">\n</figure>\n\n<p>UPSes are typically the most boring part of your homelab, but they're important. One of their main jobs is to give servers time to shut down safely if the power goes out. Another job is to condition your power so your servers can run smoothly.</p>\n<p>To do both of those things <em>well</em>, you need a smart interface. And at least with APC, there are tons of older UPSes that use Network Management Cards. The one pictured below is the NMC 2, and I pulled out of my old APC Smart-UPS 2200 XL (pictured above).</p>",
+        "id": 6338264,
+        "language": "en",
+        "link": "https://www.jeffgeerling.com/blog/2026/opennmc-apc-ups-replacement-card",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 162,
+        "source_url": "https://www.jeffgeerling.com/blog.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.jeffgeerling.com/blog/2026/opennmc-apc-ups-replacement-card/apc-smart-ups-2200xl-in-rack.jpg",
+        "title": "OpenNMC is an open replacement for expensive APC management cards",
+        "vote": 0
+    }
+]

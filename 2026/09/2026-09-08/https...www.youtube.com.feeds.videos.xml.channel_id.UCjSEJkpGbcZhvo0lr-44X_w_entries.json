@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "TechHut",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-08T19:03:40.857206+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-08T18:36:22+00:00",
+        "description": "Go to Beautiful AI today: http://mght.co/techhut to start building better slides today!\n\nI've run Nextcloud for years and I like it, but OpenCloud caught my eye. It's the continuation of ownCloud Infinite Scale, written in Go, with no database to babysit and no schema migrations to worry about. In this guide I go over where OpenCloud came from, how it stacks up against Nextcloud, and then a full Docker Compose setup with a real domain and certificate, storage on a local disk, full text search, and browser based document editing with Euro-Office. All links and resources are down below.\n\nOpenCloud: https://opencloud.eu\nOpenCloud Compose repo: https://github.com/opencloud-eu/opencloud-compose\nEuro Office: https://github.com/euro-office/documentserver\nNGINX Proxy Manager setup video: https://youtu.be/79e6KBYcVmQ\nDocker getting started guide: https://techhut.tv/7-docker-basics-for-beginners/\nStorage setup guide: https://github.com/TechHutTV/homelab/tree/main/storage\nFrank Karlitschek inter",
+        "id": 6339299,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=EiLU4d-TlSI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 430,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjSEJkpGbcZhvo0lr-44X_w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/EiLU4d-TlSI/hqdefault.jpg",
+        "title": "will THIS make me leave NextCloud?",
+        "vote": 0
+    }
+]

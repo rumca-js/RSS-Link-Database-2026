@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "GitHub",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-08T16:07:09.387147+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-08T15:00:30+00:00",
+        "description": "Every project has its own conventions, scripts, and code style. In episode 8 of our beginner series, discover how to teach the GitHub Copilot app your specific project standards. Learn how to set up custom instructions in your .github folder, create repeatable skills for testing, assign custom agents, and connect MCP servers like Playwright for browser testing. Download the app today: https://github.com/features/ai/github-app?utm_source=youtube-copilot-app-ep8-description&utm_medium=social&utm_campaign=copilot-app-for-beginners-series\n\n#GitHubCopilot #CopilotApp #GitHub \n\n\u2014 CHAPTERS \u2014  \n\n00:00 Why context matters for AI coding \n00:30 Custom instructions and .github folder setup \n01:35 Repeatable procedures with agent skills \n02:39 Using custom agents for complex tasks \n03:42 Connecting MCP servers for external capabilities \n05:08 The four levels of Copilot extensibility \n\nStay up-to-date on all things GitHub by connecting with us:\n\nYouTube: https://gh.io/subgithub\nBlog: https://github",
+        "id": 6338056,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=QGakvawJc2M",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 1005,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7c3Kb6jYCRj4JOHHZTxKsQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/QGakvawJc2M/hqdefault.jpg",
+        "title": "How to teach GitHub Copilot about your codebase | Tutorial for Beginners",
+        "vote": 0
+    }
+]

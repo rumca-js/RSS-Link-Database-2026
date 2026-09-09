@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-08T18:09:49.568989+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-08T17:30:29+00:00",
+        "description": "I've not bothered to talk about much of the Omarchy security issues being uncovered but this one in particular I wanted to highlight because this is one you can accidentally setup on your own distro because it's a problem with the Kitty terminal\n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\nTwitter Report: https://x.com/bl4sty/status/2096647017992982592\nOmarchy PR: https://github.com/omacom/omarchy/pull/10527\nKitty Conf: https://github.com/omacom/omarchy/blob/master/config/kitty/kitty.conf\nKitty Docs: https://sw.kovidgoyal.net/kitty/conf/#opt-kitty.allow_remote_control\nKitty Report: https://github.com/kovidgoyal/kitty/issues/2084\n\n=========Video Platforms==========\n\ud83c\udfa5 React: https://www.youtube.com/@BrodieRobertsonReacts\n\ud83c\udfa5 Podcast: https://techovertea.xyz/youtube\n\ud83c\udfae Gam",
+        "id": 6338966,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=DYu9391lVP0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/DYu9391lVP0/hqdefault.jpg",
+        "title": "This Security Issue Is Too Funny To Ignore",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "James Bruton",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-08T16:51:49.951938+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-08T14:00:25+00:00",
+        "description": "Ad: Check out PCBWay for all your project needs! Get $10 off orders over $30 with code: PCBWay-JamesBruton-10 - https://www.pcbway.com/?from=JamesBruton\n\nIn this video we\u2019re going to make tentacle robots useful by working out how to position the very end of the robot in 3D space, and have all the other joints fall into place to achieve the target. I'm going to both simulate and build various configurations, and calculate inverse-kinematics for each using ROS2 Moveit.\nThis sort of tentacle robot is very similar to the thrust vectoring system in some vertical take-off jets. There are generally three sections with slanted rotating joints which allow the output thrust of the jet to be directed straight backwards for normal flying, or downward for take-off. \n\nYou can support me on Patreon, join my Discord, or buy my Merchandise:\n***************************\nDiscord: https://discord.com/invite/fc6MedG7eW\nPatreon: https://www.patreon.com/xrobots\nMerch Store: https://james-bruton.teemill.com/c",
+        "id": 6338320,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=BvGphB0iaHE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 852,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCUbDcUPed50Y_7KmfCXKohA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/BvGphB0iaHE/hqdefault.jpg",
+        "title": "Making Tentacle Robots Useful",
+        "vote": 0
+    }
+]

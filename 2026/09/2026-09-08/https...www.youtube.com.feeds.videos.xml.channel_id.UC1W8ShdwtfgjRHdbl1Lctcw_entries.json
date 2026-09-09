@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NASS",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-08T23:55:21.794783+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-08T21:55:56+00:00",
+        "description": "I colorized, restored, and created a sound design for this fascinating footage of Peking, China, capturing its bustling streets, rickshaws, horse-drawn carts, markets, crowded squares, and pedestrians. The film also offers a glimpse into everyday life, with traditional games, shops, street vendors, communal kitchens, and scenes of people going about their daily activities.\n\n\ud83d\udee0\ufe0f Video Restoration Process:\n\u2714 FPS boosted to 60 frames per second\n\u2714 Image resolution enhanced up to FHD quality\n\u2714 Improved video sharpness and brightness with my own AviSynth scripts\n\u2714 Colorized only for the ambiance (not historically accurate)\n\u2714 Sound design created for immersive atmosphere\n\u2714 Full restoration: stabilization, denoise, cleaning, and deblurring made with my own AviSynth and VapourSynth scripts\n\nPlease, be aware that colorization colors are not real and fake, colorization was made only for the ambiance and do not represent real historical data.\n\nB&W Video Source:Library and Archives Canada. National",
+        "id": 6340979,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=RMI2gd3vFwU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 222,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC1W8ShdwtfgjRHdbl1Lctcw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/RMI2gd3vFwU/hqdefault.jpg",
+        "title": "Peking, China 1900s | Advanced Colorization & Restoration (4k60fps)",
+        "vote": 0
+    }
+]

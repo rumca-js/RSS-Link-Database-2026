@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-08T19:25:45.662571+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-08T19:25:36.181954+00:00",
+        "description": "In France, nearly one in four people reported feeling lonely in 2025. This isolation particularly affects young people and the elderly, and could be a significant source of suffering. Among the possible ways to counter it are taking part in local activities and encouraging more volunteering.",
+        "id": 6339490,
+        "language": "en-US",
+        "link": "https://www.lemonde.fr/en/science/article/2026/09/08/why-loneliness-is-now-seen-as-a-harmful-epidemic-for-mental-and-physical-health_6757314_10.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 190,
+        "source_url": "https://www.lemonde.fr/en/science/rss_full.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.lemde.fr/2026/09/07/1571/0/3780/1890/644/322/60/0/659bd9a_upload-1-1n56yct8782z-hl-sbouillaud-1064812.jpg",
+        "title": "Why loneliness is now seen as a harmful epidemic for mental and physical health",
+        "vote": 0
+    }
+]

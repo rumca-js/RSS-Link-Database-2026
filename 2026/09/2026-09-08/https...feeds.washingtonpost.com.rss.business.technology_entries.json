@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Miriam Waldvogel",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-08T19:25:16.834996+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-08T19:15:00+00:00",
+        "description": "OpenAI on Tuesday released a technical paper for its result that will now be closely read by mathematicians around the world.",
+        "id": 6339488,
+        "language": "en-US",
+        "link": "https://www.washingtonpost.com/technology/2026/09/09/openai-claims-it-solved-elusive-math-problem-with-1-million-prize",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 364,
+        "source_url": "https://feeds.washingtonpost.com/rss/business/technology",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "OpenAI claims solution to one of math\u2019s $1 million Millennium Prize problems",
+        "vote": 0
+    }
+]
