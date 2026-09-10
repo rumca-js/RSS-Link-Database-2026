@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Critical Drinker",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-09T17:28:45.102068+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-09T17:00:01+00:00",
+        "description": "Guy Ritchie's crime caper show is on its second season now, and it is by far one of the best shows on TV right now.",
+        "id": 6346407,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=3HsYf_lf4Bw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 334,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSJPFQdZwrOutnmSFYtbstA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/3HsYf_lf4Bw/hqdefault.jpg",
+        "title": "The Drinker Recommends... The Gentlemen",
+        "vote": 0
+    }
+]

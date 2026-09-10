@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unity",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-09T19:11:00.057814+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-09T16:21:22+00:00",
+        "description": "We're bringing Unity directly into the AI workflows you use every day.\n\nIntroducing the official Unity plugin for Claude Code - a first-party integration available directly in Claude\u2019s plugin directory.\n\nInstead of toggling between tools or piecing together community scripts, a single install delivers:\n\u2705 29 Native Engine Skills available at launch: Built for URP, UI Toolkits, Multiplayer, LevelPlay, and IAP \n\u2705 Streamlined CLI Workflows: Supported build operations built right in.\n\u2705 Direct Editor Control: Connect Claude Code directly to your active project with official Unity support and security.\n\nOne install, no configuration, supported by Unity.\n\n\ud83d\udd17 Get started: https://on.unity.com/ClaudePlugin\n\n#Unity #Claude #Anthropic #GameDev",
+        "id": 6347054,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=rA1RuMheNrY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 683,
+        "source_url": "https://youtube.com/channel/UCG08EqOAXJk_YXPDsAvReSg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/rA1RuMheNrY/hqdefault.jpg",
+        "title": "Introducing the official Unity plugin for Claude Code",
+        "vote": 0
+    }
+]

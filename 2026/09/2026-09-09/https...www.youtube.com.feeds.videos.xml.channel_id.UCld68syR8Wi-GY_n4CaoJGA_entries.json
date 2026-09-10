@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-10T00:19:44.163231+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-09T17:30:36+00:00",
+        "description": "Red Hat or Red Hat based projects have powered the Large Hadron Collider all this time but no longer is that going to be the case, now they're going to be swapping over to Debian, more specifically with Freexian commercial support\n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\nDebian Conf Talk: https://gemmei.ftp.acc.umu.se/pub/debian-meetings/2026/MiniDebConf-Winterthur/ch2026-53-controlling-cerns-accelerators-with-debian.av1.webm\nFedora v3: https://www.phoronix.com/news/Fedora-x86-64-v3-Delayed-F46\nArch Linux v3: https://lwn.net/Articles/1046949/\nNixOS v3: https://discourse.nixos.org/t/pre-rfc-gradual-transition-of-nixos-x86-64-baseline-to-x86-64-v3-with-an-intermediate-step-to-x86-64-v2/\nOpenSUSE v3: https://en.opensuse.org/openSUSE:X86-64-Architecture-Levels\nFreexi",
+        "id": 6348795,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=LfZnfadTkFs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/LfZnfadTkFs/hqdefault.jpg",
+        "title": "Red Hat Enterprise Linux Is Out Debian Is In",
+        "vote": 0
+    }
+]

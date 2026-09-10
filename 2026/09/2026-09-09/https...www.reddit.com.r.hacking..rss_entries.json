@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/Ok-Affect-691",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-09T22:38:34.457615+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-09T17:41:51+00:00",
+        "description": "<table> <tr><td> <a href=\"https://www.reddit.com/r/hacking/comments/1wbsiuw/made_my_first_virus/\"> <img src=\"https://external-preview.redd.it/bk4U2l-pyW_2gU8mmMO2OmHgDWGoF5weFdesEZ8lJf4.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=9cbc2bfd786c18971b1edfd295f48f2ed70713de\" alt=\"made my first virus\" title=\"made my first virus\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>idk its very simple and made for arch and its bassicaly &quot;ram tester&quot; that made only for root user cuz otherwise it will be innacurate and it will just restart ur pc lol (i dont think you can even consider this a virus lol) </p> <pre><code>#include &lt;iostream&gt; #include &lt;unistd.h&gt; #include &lt;cstdlib&gt; #include &lt;new&gt; using namespace std; string KEY; string KEY2; int mem; int count; int main() { if(getuid() != 0) { cout &lt;&lt; &quot;RAm TEster needs root or i will show incorrect data&quot;; return 0; } label1: { cout &lt;&lt; &quot;@@ @@@ # # #\\n&quot;; cout &lt;&lt; &quot;@ @ @ ",
+        "id": 6348204,
+        "language": "en",
+        "link": "https://www.reddit.com/r/hacking/comments/1wbsiuw/made_my_first_virus",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 534,
+        "source_url": "https://www.reddit.com/r/hacking/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://external-preview.redd.it/bk4U2l-pyW_2gU8mmMO2OmHgDWGoF5weFdesEZ8lJf4.jpeg?width=320&crop=smart&auto=webp&s=9cbc2bfd786c18971b1edfd295f48f2ed70713de",
+        "title": "made my first virus",
+        "vote": 0
+    }
+]

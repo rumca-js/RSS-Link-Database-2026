@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kevin Stratvert",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-09T10:20:40.292355+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-09T07:00:13+00:00",
+        "description": "Learn how to use Google Vids from start to finish in this complete beginner tutorial. I\u2019ll show you how to create videos with AI, generate clips from prompts, animate images, use AI avatars, add captions and music, convert presentations into videos, and export your finished project.\n\nYou\u2019ll see how Google Vids can help you quickly create everything from social media videos and promotional content to employee onboarding, training videos, internal communications, and presentations.\n\nIn this tutorial, you\u2019ll learn how to:\n - Create an AI video from a text prompt\n - Edit and extend AI-generated video clips\n - Animate still images\n - Use images as \u201cingredients\u201d to guide video generation\n - Create videos with AI avatars\n - Create a personalized AI avatar\n - Add captions and edit video styles\n - Generate original music\n - Turn Google Slides or PowerPoint presentations into videos\n\nGoogle Vids combines familiar Google Workspace-style editing with Gemini-powered AI tools for generating scripts",
+        "id": 6343353,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=J5mdP0Q0nn4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 958,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfJT_eYDTmDE-ovKaxVE1ig",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/J5mdP0Q0nn4/hqdefault.jpg",
+        "title": "Google Vids Tutorial for Beginners \u2013 How to Create Videos with AI",
+        "vote": 0
+    }
+]

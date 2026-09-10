@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "David Bombal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-09T19:22:57.507732+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-09T18:00:11+00:00",
+        "description": "DEF CON badges hide more than LEDs. David Bombal meets Panda at Noob Village to explore electronic badges with CTF challenges, hidden puzzles and a mechanical randomizer.\n\n#defcon #ctf #badges",
+        "id": 6347105,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/Ui3JYL9b1VQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 984,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP7WmQ_U4GB3K51Od9QvM0w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/Ui3JYL9b1VQ/hqdefault.jpg",
+        "title": "DEF CON Badges Hide Secret CTFs",
+        "vote": 0
+    }
+]

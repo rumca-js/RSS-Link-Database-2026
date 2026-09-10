@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-09T13:38:01.565505+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-09T10:00:14+00:00",
+        "description": "Explore the podcast  \u2192 https://ibm.biz/~jShHVJwcb\n\nWhy bother giving your AI agents rules if they\u2019re just gonna reason around them?\n\nOn episode 50 of Security Intelligence, Dustin \u201cEvilMog\u201d Heywood, Seth Glasgow and Nick Bradley join host Matt Kosinski to discuss why AI agents go off-script and whether we can stop them. \n\nDrawing on the HuggingFace hack and an op-ed from Dark Reading, we explore what ethics looks like for a piece of software that has no concept of right and wrong. Is there a way to balance the utility of probabilistic AI with the security of deterministic controls? \n\nThen: The OWASP Top 10 for agentic skills is here, and the list is full of some very basic security hygiene failures. We ask: Why are agentic skills hubs so bad at cybersecurity?\n\nPlus: As AI makes it easier than ever to find vulnerabilities and generate bug reports, bug bounty programs are struggling to keep up. Will AI slop spell the end of independent bug research?\n\nFinally, Itzhak Chimino stops by to ",
+        "id": 6344494,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=6AuYLbHqirk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/6AuYLbHqirk/hqdefault.jpg",
+        "title": "Why won\u2019t AI agents just follow the rules?",
+        "vote": 0
+    }
+]

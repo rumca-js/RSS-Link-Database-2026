@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-09T11:14:45.961299+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-09T11:01:41+00:00",
+        "description": "President Abelardo de la Espriella has lifted a decade-long suspension on permits to carry legal firearms.",
+        "id": 6343704,
+        "language": "en-gb",
+        "link": "https://www.bbc.co.uk/news/articles/cqlwekrl3dqo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 524,
+        "source_url": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f43/live/342134d0-ac3d-11f1-aa42-a9647fd0ba61.jpg",
+        "title": "Colombia's new president loosens gun control rules",
+        "vote": 0
+    }
+]

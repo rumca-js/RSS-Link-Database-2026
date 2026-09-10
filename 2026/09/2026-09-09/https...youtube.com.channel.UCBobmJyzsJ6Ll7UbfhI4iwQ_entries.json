@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unreal Engine",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-09T16:09:38.363379+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-09T13:12:31+00:00",
+        "description": "Discover the power of animating directly in Unreal Engine with the new animation and rigging features in Unreal Engine 5.8.\n\nJoin the Epic team to see how the latest in-engine tools were used to bring the Zebra Sample to life\u2014from body animation and physics to facial rigging and animation. We\u2019ll also explore Fortnite Body Rig Modules and how these new workflows can help streamline character creation and animation.",
+        "id": 6345691,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=CfhHFFvcRow",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 685,
+        "source_url": "https://youtube.com/channel/UCBobmJyzsJ6Ll7UbfhI4iwQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/CfhHFFvcRow/hqdefault.jpg",
+        "title": "Bringing Zebra to Life: Animating in Unreal Engine 5.8 | Inside Unreal",
+        "vote": 0
+    }
+]

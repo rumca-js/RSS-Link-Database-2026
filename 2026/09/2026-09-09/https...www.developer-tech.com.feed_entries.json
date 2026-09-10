@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Muhammad Zulhusni",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-09T09:32:06.294565+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-09T09:00:00+00:00",
+        "description": "<p>AWS has published a reference implementation for testing AI agents through GitHub Actions, allowing developers to run automated evaluations as part of a continuous integration and continuous delivery (CI/CD) pipeline. The workflow can fail an evaluation job when an agent&#8217;s scores fall below a configured threshold. The approach puts agent behaviour alongside other checks that [&#8230;]</p>\n<p>The post <a href=\"https://www.developer-tech.com/news/aws-ai-agent-regression-testing-github-actions/\">AWS brings AI agent regression testing to GitHub Actions</a> appeared first on <a href=\"https://www.developer-tech.com\">Developer Tech News</a>.</p>",
+        "id": 6343167,
+        "language": "en-GB",
+        "link": "https://www.developer-tech.com/news/aws-ai-agent-regression-testing-github-actions",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 92,
+        "source_url": "https://www.developer-tech.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "AWS brings AI agent regression testing to GitHub Actions",
+        "vote": 0
+    }
+]
