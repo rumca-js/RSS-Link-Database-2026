@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unreal Engine",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-10T21:36:03.624589+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-10T20:29:23+00:00",
+        "description": "Learn how to create MetaHuman character animation from your own video footage using the MetaHuman Animator Markerless Motion Capture workflow in Unreal Engine.\n\nIn this recorded session, Nazzal Naseer from the Epic Games Education team walks through the core workflow\u2014from preparing and importing video footage to generating and refining animation sequences for MetaHuman characters.\n\nGet the free MetaHuman Animator Markerless Mocap plugin now.\nhttps://www.fab.com/listings/4095b8e0-3eff-44f1-acb4-cb40b99228b9\n\n#UnrealEngine #epicgames #UE58 #UE #MetaHuman",
+        "id": 6355986,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=r_-fEi7fXLA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 685,
+        "source_url": "https://youtube.com/channel/UCBobmJyzsJ6Ll7UbfhI4iwQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/r_-fEi7fXLA/hqdefault.jpg",
+        "title": "MetaHuman Animator Markerless Motion Capture Demo",
+        "vote": 0
+    }
+]

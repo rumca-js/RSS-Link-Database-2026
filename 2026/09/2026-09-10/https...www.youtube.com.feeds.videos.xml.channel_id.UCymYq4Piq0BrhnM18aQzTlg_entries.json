@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Lon.TV",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-10T23:52:20.128313+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-10T22:45:22+00:00",
+        "description": "Buy one at Walmart: https://lon.tv/mt4p1 (compensated affiliate link) - I was able to turn my Onn 4k Pro TV Box into a Tailscale subnet router! This allows you to connect to any device in your home from outside your home. See more tailscale: https://www.youtube.com/playlist?list=PLPyHuD7dzL9g and subscribe to my email list! http://lon.tv/email and my channel : http://lon.tv/s\n\nVIDEO INDEX:\n00:00 - Intro\n01:31 - Tailscale Free Tier\n02:13 - Tailscale on Android / Google TV\n02:18 - Ethernet recommended\n02:58 - How to setup the Subnet Router\n04:22 - First Test\n05:12 - Bonjouir / mDNS broadcasts Are Not Supported\n05:36 - Field Test: iPerf Test\n06:28 - Field Test: HDHomerun TV Tuning\n07:19 - Conclusion\n\nVisit my Blog! https://blog.lon.tv\n\nSubscribe to my email lists! \nWeekly Breakdown of Posted Videos:  - https://lon.tv/email\nDaily Email From My Blog Posts! https://lon.tv/digest\n\nSee my second channel for supplementary content : http://lon.tv/extras\n\nFollow me on Amazon too! http://lon.tv/a",
+        "id": 6356717,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=VnaCJkbMh5U",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 199,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCymYq4Piq0BrhnM18aQzTlg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/VnaCJkbMh5U/hqdefault.jpg",
+        "title": "I turned my Onn TV Box Into a VPN Router with Tailscale!",
+        "vote": 0
+    }
+]

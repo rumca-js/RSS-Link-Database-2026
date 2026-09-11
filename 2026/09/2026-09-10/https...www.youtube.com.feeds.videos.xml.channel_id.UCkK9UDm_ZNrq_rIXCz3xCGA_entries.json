@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Lunduke Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-10T16:59:22.296929+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-10T16:20:53+00:00",
+        "description": "The past Executive Director of the Free Software Foundation says he has been called \"fascist\", sent copies of 1984, and threatened with doxing.\n\nMore from The Lunduke Journal:\nhttps://lunduke.com/",
+        "id": 6354096,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=ZDQIWOo1bPo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 616,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkK9UDm_ZNrq_rIXCz3xCGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/ZDQIWOo1bPo/hqdefault.jpg",
+        "title": "Software Freedom Conservancy Rails Against Open Source Corruption",
+        "vote": 0
+    }
+]

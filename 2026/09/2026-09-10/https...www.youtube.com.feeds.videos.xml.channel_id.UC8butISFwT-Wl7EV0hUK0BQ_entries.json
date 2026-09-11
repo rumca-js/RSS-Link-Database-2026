@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-10T17:03:42.893177+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-10T15:04:22+00:00",
+        "description": "Learn the core fundamentals of OpenAI Codex, from setting up scheduled automations and custom skills to mastering Plan and Go modes. Follow along step-by-step as we build, test, and deploy a voice-controlled Flappy Bird game built entirely with Codex.\n\nCourse developed by @SkyrocketingTech \n\n\u2764\ufe0f Support for this channel comes from our friends at Scrimba \u2013 the coding platform that's reinvented interactive learning: https://scrimba.com/freecodecamp\n\n\u2b50\ufe0f Chapters \u2b50\ufe0f\n- 00:00 Introduction to OpenAI Codex\n- 01:17 Download & Installation\n- 02:08 Pricing & Plan Options\n- 03:27 Left Sidebar Overview & Scheduled Automations\n- 05:08 Projects vs. Chats\n- 07:09 Integrations & Plugins (Supabase, Notion, Gmail)\n- 09:21 Updated Interface & ChatGPT Desktop Integration\n- 11:08 GitHub Pull Requests in Codex\n- 12:07 Deploying Web Apps with Sites\n- 14:02 Main Work Area: Voice Input, Models & Speed Settings\n- 17:06 Permission Levels & Context Inputs\n- 19:13 Commands, Codex Pet & Reusable Skills\n- 26:04 Plan ",
+        "id": 6354123,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=o3CX_Y59_74",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/o3CX_Y59_74/hqdefault.jpg",
+        "title": "OpenAI Codex Crash Course \u2013 Build & Deploy Apps with Autonomous AI",
+        "vote": 0
+    }
+]

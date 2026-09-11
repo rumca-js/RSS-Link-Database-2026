@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Chris Titus Tech",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-10T11:38:32.650280+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-10T11:15:33+00:00",
+        "description": "Everyone seems to be hyping Omarchy. I'm not switching to it, but some of its ideas are absolutely worth stealing.\n\nIn this hands-on review, I dig into DHH's take on Arch Linux and Hyprland: the plugins, polished theming, helpful menus, and opinionated defaults. I cover what impressed me, what I'd remove, and why my own desktop takes a different direction.\n\nThen I show my Fedora setup with DWM, X11, and Quickshell, including the ideas Omarchy inspired me to bring into my own workflow.\n\nThat's the beauty of Linux: keep what you like, change what you don't, and build something that works for YOU.\n\nWhich Omarchy feature would you steal for your own desktop? Let me know in the comments.\n\nCHAPTERS\n0:00 Omarchy First Impressions\n3:40 Menus and Theming\n7:00 Security and Bloat\n10:45 X11 vs Wayland\n13:45 Make Linux Yours\n\n#Linux #Omarchy #ArchLinux\n\u25ba\u25ba Digital Downloads \u279c https://www.cttstore.com\n\u25ba\u25ba Patreon \u279c https://www.patreon.com/christitustech\n\u25ba\u25ba Twitch \u279c https://www.twitch.tv/christitustec",
+        "id": 6351703,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=9d9PQ1hrhBk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 444,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCg6gPGh8HU2U01vaFCAsvmQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/9d9PQ1hrhBk/hqdefault.jpg",
+        "title": "Omarchy: Arch Savior or Overhyped Reskin?",
+        "vote": 0
+    }
+]

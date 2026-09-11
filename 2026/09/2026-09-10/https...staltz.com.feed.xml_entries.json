@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Andr\u00e9 Staltz",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-10T20:48:00.169795+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-10T20:47:51.277821+00:00",
+        "description": "<p><a href=\"https://staltz.com/img/the-c-programming-language.jpg\"><img src=\"https://staltz.com/img/the-c-programming-language.jpg\" alt=\"The C Programming Language by K&amp;R\"></a></p>\n<p>I bought my first programming book in 2004, &quot;The C Programming Language&quot; by K&amp;R.\nI had been making video games by myself since 2001 using simpler tools such as\nMultimedia Fusion, and had dabbled with Visual Basic too. But this time I wanted\nto get serious and do real programming, despite being just a kid.</p>\n<p>What dragged me into programming was the promise of building all my ideas. I\nalways liked making pixels move on the screen. I'm not sure why. After my\ninitiation into game development, I moved on to other challenges such as\ncomputational fluid dynamics at university, which I enjoyed very much. More\npixels moving on the screen, but this time backed by science, and full of\nmeaning. Programming was a craft and a superpower.</p>\n<p>Throughout my career as a web and mobile software e",
+        "id": 6355722,
+        "language": "en-US",
+        "link": "https://staltz.com/farewell-programming.html",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 19,
+        "source_url": "https://staltz.com/feed.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://staltz.com/img/the-c-programming-language.jpg",
+        "title": "Farewell, programming",
+        "vote": 0
+    }
+]

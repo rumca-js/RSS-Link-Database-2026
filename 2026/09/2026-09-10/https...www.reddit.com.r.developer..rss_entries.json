@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/bl4ckl1nr",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-10T12:27:04.844007+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-10T08:17:59+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>Hi techies,</p> <p>I&#39;m the developer of an industrial software module. We have a partner which takes care of marketing and support. This partnership last for over 5 years for diffrent kind of modules all for the same software. And its not an Support company, but they are also in the same market. </p> <p>As I developed a new version from scratch, I get more and more the feeling that they just give up the support. Meaning: Everything lands unfiltered on my desk (I&#39;m the only dev for that module). There is almost no first-level support anymore. Maybe they focus a 100% on marketing? And I know that some of them can definitively do better. They are technically fit.</p> <p>One example:<br/> Support: Your software does not work anymore.<br/> Dev: I checked the logs and there was an HTTP Status code 500 from the other (your!) endpoint meaning &quot;Internal server error&quot;.<br/> Support: Oh yeah we did an update, the api has changed. </p> <p>Just t",
+        "id": 6352036,
+        "language": "en",
+        "link": "https://www.reddit.com/r/developer/comments/1wccync/first_level_support_with_no_effort",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 508,
+        "source_url": "https://www.reddit.com/r/developer/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "First Level Support with no effort",
+        "vote": 0
+    }
+]

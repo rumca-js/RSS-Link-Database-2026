@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Sourav Rudra",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-10T17:32:04.308397+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-10T17:22:31+00:00",
+        "description": "These thirteen patches would delete the deprecated platform code, and the driver cleanup will follow later.",
+        "id": 6354368,
+        "language": "en-US",
+        "link": "https://itsfoss.com/news/linux-kernel-old-arm-code-removal",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 156,
+        "source_url": "https://news.itsfoss.com/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://itsfoss.com/content/images/2026/09/linux-arm-purge-banner.png",
+        "title": "Linux Kernel is Getting Ready to Purge 55,00 Lines of Old 32-bit Arm Platform Code",
+        "vote": 0
+    }
+]

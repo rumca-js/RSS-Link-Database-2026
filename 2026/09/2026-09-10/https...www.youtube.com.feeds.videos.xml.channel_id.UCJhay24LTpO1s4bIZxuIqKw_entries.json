@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ACCU Conference",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-10T15:45:22.727782+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-10T12:00:29+00:00",
+        "description": "ACCU Membership: https://tinyurl.com/ydnfkcyn\n---\n\nTaming C++23 - The Things About C++23 You Do Not Know - Nicolai M. Josuttis - ACCU on Sea 2026\n---\n\nC++23 is now fully available by major C++ compilers so that more and more projects and companies are using it. And we have first experience how to use it right. However, C++ would not be C++ if the would not be unexpected aspects in both the language and its library. This talk will cover the ones that might hit you but are not often told or widely known. \n\nSlides: https://github.com/Digital-Medium/ACCU-On-Sea-Slides-2026\n---\n\nNicolai M. Josuttis\n\nNicolai Josuttis (www.josuttis.com) is well-known in the community for his authoritative books and talks. For more than 25 years he has been a member of the C++ Standard Committee. He is the author of several worldwide best-sellers, including:\n\n- C++23: The Complete Guide\n- C++20: The Complete Guide\n- C++17: The Complete Guide\n- C++ Move Semantics: The Complete Guide\n- The C++ Standard Library:",
+        "id": 6353458,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=IVee1JXbrQE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 421,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJhay24LTpO1s4bIZxuIqKw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/IVee1JXbrQE/hqdefault.jpg",
+        "title": "Taming C++23 - The Things About C++23 You Do Not Know - Nicolai M. Josuttis - ACCU on Sea 2026",
+        "vote": 0
+    }
+]

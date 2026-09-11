@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Veritasium",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-10T14:16:06.165144+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-10T13:00:12+00:00",
+        "description": "Why is the Smith Chart one of the scariest charts in electrical engineering?\n\nWe printed the largest one in the world to explain how it works and why it's so terrifying (to engineers at least).",
+        "id": 6352681,
+        "language": "en-US",
+        "link": "https://www.youtube.com/shorts/O3a99HNskNk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 379,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/O3a99HNskNk/hqdefault.jpg",
+        "title": "The Scariest Chart In Engineering",
+        "vote": 0
+    }
+]
