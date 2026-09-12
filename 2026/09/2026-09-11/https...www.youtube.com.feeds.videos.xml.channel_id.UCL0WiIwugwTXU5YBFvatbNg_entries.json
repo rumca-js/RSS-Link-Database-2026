@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ku Bogu",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-11T12:47:30.096117+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-11T11:41:10+00:00",
+        "description": null,
+        "id": 6359872,
+        "language": "pl",
+        "link": "https://www.youtube.com/watch?v=T4RrtPyywtQ",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 178,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCL0WiIwugwTXU5YBFvatbNg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/T4RrtPyywtQ/hqdefault.jpg",
+        "title": "Jedno\u015b\u0107 Wiary",
+        "vote": 0
+    }
+]

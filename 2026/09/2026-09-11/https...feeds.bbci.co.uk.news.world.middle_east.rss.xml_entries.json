@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-11T11:57:39.458091+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-11T11:35:19+00:00",
+        "description": "Rebel fighters are reported to have captured Perim, a strategic island on a vital international shipping route.",
+        "id": 6359642,
+        "language": "en-gb",
+        "link": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 525,
+        "source_url": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09dc/live/6dac0640-adcc-11f1-a540-61c3f7fc4e6c.jpg",
+        "title": "Houthis take strategic Red Sea island, witnesses say",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Sourav Rudra",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-11T12:16:04.817789+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-11T11:59:46+00:00",
+        "description": "As of now, he has the desktop app installing and signing in.",
+        "id": 6359720,
+        "language": "en-US",
+        "link": "https://itsfoss.com/news/bottles-microsoft-365-early-look",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 156,
+        "source_url": "https://news.itsfoss.com/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://itsfoss.com/content/images/2026/09/ms-office-bottles-banner.png",
+        "title": "Bottles' Founder Has Managed to Run Microsoft 365 on Linux",
+        "vote": 0
+    }
+]

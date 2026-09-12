@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-11T13:03:57.591524+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-11T10:00:14+00:00",
+        "description": "Visit Mixture of Experts podcast page to get more AI content  \u2192 https://ibm.biz/~AHBoMt9Qu\n\nIt's been a week that proves AI is moving faster than anyone can fully keep up with, unless you\u2019ve got a good backhand. On episode 124 of Mixture of Experts, host Tim Hwang and co-host David Zax are joined by Bri Kopecki, Aaron Baughman, and Olivia Buzek to talk about new advances from OpenAI, new cybersecurity threats, and new tools for US Open fans from IBM. \n\nFirst, OpenAI introduced GPT-6 Astra as the company's most intelligent and aligned model yet, reaching state-of-the-art results across computer use, software engineering, cybersecurity and science. Not missing a beat, the company dropped a second bit of news: an internal model produced a proof related to the 3-D Navier-Stokes equation, resolving one of mathematics' most famous unsolved problems. We dig into both the breakthrough and the conversation around the use of AI to solve these seemingly impossible problems.\n\nThen, IBM and the US",
+        "id": 6359944,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=XPReiOKCzFI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/XPReiOKCzFI/hqdefault.jpg",
+        "title": "OpenAI talks GPT-6 Astra and Millenium Prize, researchers create WeWorm exploit & IBM\u2019s US Open app",
+        "vote": 0
+    }
+]

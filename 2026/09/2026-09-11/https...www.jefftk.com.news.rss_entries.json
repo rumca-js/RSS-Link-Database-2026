@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-11T12:22:36.147551+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-11T08:00:00+00:00",
+        "description": "<p><span>\n\nWe should end net metering, including for existing solar\ninstallations, and compensate people with a one-time subsidy for\nbattery purchase.  I'm going to give an argument from grid efficiency,\nwhich I expect to be the main consideration for most people, though\nthe benefit that makes me enthusiastic about this change is actually\nincreasing societal resilience.\n\n</span>\n\n<p>\n\nNet metering is a common form of solar subsidy where you only pay for\nyour \"net\" usage: the difference between how much you consume and how\nmuch you produce.  At first glance this doesn't even seem like a\nsubsidy: if you take 800 kWh and put back 800 kWh, then did you really\nuse any?  But it's not like a bank account: the kWh you put back are\nusually much less useful than the kWh you used.\n\n</p>\n\n<p>\n\nSay I started a solar farm, putting out a lot of panels somewhere out\nin the less populated part of the state (MA), and sold the power to\nthe grid.  Averaging over the year, the electricity market might pay",
+        "id": 6359760,
+        "language": "en-US",
+        "link": "https://www.jefftk.com/p/replace-net-metering-with-batteries",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 163,
+        "source_url": "https://www.jefftk.com/news.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Replace Net Metering With Batteries",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/Dry-Crazy3723",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-11T13:09:39.583938+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-11T10:00:56+00:00",
+        "description": "<table> <tr><td> <a href=\"https://www.reddit.com/r/developer/comments/1wdbv78/built_a_free_chrome_extension_for_developers/\"> <img src=\"https://preview.redd.it/51ntjg6s6voh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=5da12c2d02f1d6090f2386ee4356a6252b333320\" alt=\"Built a free Chrome extension for developers [Feedback needed]\" title=\"Built a free Chrome extension for developers [Feedback needed]\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Hi everyone,</p> <p>Over the last few months I&#39;ve been building a free Chrome extension called <strong>Devtools Web Studio</strong>. It started as a tool to help me in my daily work as a developer, but I decided to make it available for anyone who might find it useful.</p> <p>Instead of installing multiple extensions, the goal is to have many useful developer, SEO, design and debugging tools in a single sidebar.</p> <p>Some of the features include:</p> <ul> <li>Element Inspector</li> <li>SEO checks (Meta Tags, Ope",
+        "id": 6360010,
+        "language": "en",
+        "link": "https://www.reddit.com/r/developer/comments/1wdbv78/built_a_free_chrome_extension_for_developers",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 508,
+        "source_url": "https://www.reddit.com/r/developer/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://preview.redd.it/51ntjg6s6voh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=5da12c2d02f1d6090f2386ee4356a6252b333320",
+        "title": "Built a free Chrome extension for developers [Feedback needed]",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "David Bombal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-11T17:06:55.749522+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-11T14:00:22+00:00",
+        "description": "Encrypted DNS can hide DNS queries while SNI still exposes domain names. Watch a Wireshark demo to see what remains visible and how hostname encryption can help.\n\nBig thank you to Infoblox for sponsoring this video.  To learn more about Infoblox please visit:  https://www.infoblox.com\n \n#dns #sni #isp",
+        "id": 6361724,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/r9vjpdoeeY4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 984,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP7WmQ_U4GB3K51Od9QvM0w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/r9vjpdoeeY4/hqdefault.jpg",
+        "title": "Encrypted DNS Doesn't Equal Privacy",
+        "vote": 0
+    }
+]

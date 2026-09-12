@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeremy Jahns",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-11T15:08:15.415249+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-11T13:00:03+00:00",
+        "description": "30 years later, we have a sequel to Practical Magic. But is the magic still alive?....you already saw the thumbnail, so let's talk about it.\n\n#PracticalMagic2",
+        "id": 6360840,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=a71v3jnM3wI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 164,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7v3-2K1N84V67IF-WTRG-Q",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/a71v3jnM3wI/hqdefault.jpg",
+        "title": "Practical Magic 2 - Movie Review",
+        "vote": 0
+    }
+]

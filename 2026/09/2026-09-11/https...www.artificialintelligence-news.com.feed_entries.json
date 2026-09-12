@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ryan Daws",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-11T13:54:47.321694+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-11T12:00:18+00:00",
+        "description": "<p>NVIDIA is using Palantir Foundry and cuOpt to automate its hardware supply chain allocation decisions across global manufacturing sites. The company measures operational delivery from wafer-out to first token. This window splits into time-to-rack (the transit from fab output to an assembled data centre system) and time-to-token (which covers power, cooling, networking, and day-one software [&#8230;]</p>\n<p>The post <a href=\"https://www.artificialintelligence-news.com/news/palantir-foundry-cuopt-nvidia-supply-chain-allocation/\">Palantir Foundry and cuOpt drive NVIDIA supply chain allocation</a> appeared first on <a href=\"https://www.artificialintelligence-news.com\">AI News</a>.</p>",
+        "id": 6360394,
+        "language": "en-GB",
+        "link": "https://www.artificialintelligence-news.com/news/palantir-foundry-cuopt-nvidia-supply-chain-allocation",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 10,
+        "source_url": "https://www.artificialintelligence-news.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/nvidia-nemotron-3-5-lightning-model-hardware-allocation-ai-benchmarks-1024x576.jpg",
+        "title": "Palantir Foundry and cuOpt drive NVIDIA supply chain allocation",
+        "vote": 0
+    }
+]
