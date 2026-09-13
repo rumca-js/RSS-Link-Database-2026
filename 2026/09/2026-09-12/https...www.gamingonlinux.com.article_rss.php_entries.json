@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Liam Squires-Hand",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-12T10:34:53.711648+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-12T08:13:24+00:00",
+        "description": "Valve released a small update for Proton Experimental - the compatibility layer to run Windows games on SteamOS / Linux for September 11th.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/1581965311id29752gol.webp\" alt /></p><p>Read the full article on <a href=\"https://www.gamingonlinux.com/2026/09/proton-experimental-updated-with-fixes-for-steins-gate-re-boot-ea-app-borderlands-4/\">GamingOnLinux</a>.</p>",
+        "id": 6365632,
+        "language": "en-us",
+        "link": "https://www.gamingonlinux.com/2026/09/proton-experimental-updated-with-fixes-for-steins-gate-re-boot-ea-app-borderlands-4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 130,
+        "source_url": "https://www.gamingonlinux.com/article_rss.php",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1581965311id29752gol.webp",
+        "title": "Proton Experimental updated with fixes for STEINS;GATE RE:BOOT, EA App, Borderlands 4",
+        "vote": 0
+    }
+]

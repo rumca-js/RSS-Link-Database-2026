@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Yuri Wong",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-12T12:16:06.239352+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-12T12:00:31+00:00",
+        "description": "learn how to make your music sound pro: https://www.musicprosessions.com/the-steal-method",
+        "id": 6365989,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=WZfxep5Vulk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 405,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIw5fgJcTtR2Av-0JkZp-xg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/WZfxep5Vulk/hqdefault.jpg",
+        "title": "\"DELUSIONS!\" (Full Song) / Created in stock Logic Pro with EP-40 Riddim stems",
+        "vote": 0
+    }
+]

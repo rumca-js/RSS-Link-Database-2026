@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Hammond",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-12T15:31:12.383977+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-12T14:01:05+00:00",
+        "description": "I was messing around with Codex, Fabric, and Hunt.io on a live stream and started thinking about what cybersecurity research could look like inside Minecraft.\n\nThe idea was pretty simple: open directories become dimensions, files become mobs, and tools become weapons.\n\nFull video: https://youtu.be/Neq3ydILwHI?si=INfeICFsHYxwtrex",
+        "id": 6366762,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/4lwdMt7to_8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 959,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVeW9qkBjo3zosnqUbG7CFw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/4lwdMt7to_8/hqdefault.jpg",
+        "title": "Minecraft Meets Security Research",
+        "vote": 0
+    }
+]

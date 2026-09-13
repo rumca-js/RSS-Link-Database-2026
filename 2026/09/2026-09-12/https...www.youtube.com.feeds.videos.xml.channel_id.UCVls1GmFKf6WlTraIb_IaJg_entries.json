@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "DistroTube",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-12T14:42:42.407108+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-12T14:15:19+00:00",
+        "description": "The 'nl' command adds line numbers to files or to terminal output.\n\n+ Number non-blank lines in a file:\n  nl path/to/file\n\n+ Number non-blank lines in ouptut from stdin:\n  command | nl\n  ex: seq 10 | nl\n\n+ Number [a]ll [b]ody lines including blank lines or do [n]ot number body lines:\n  nl -b a path/to/file\n\n+ Do [n]ot number [b]ody lines (essentially this suppresses the line numbers):\n  nl -b n path/to/file\n\n  NOTE The above command is not that different than 'cat' or 'less' except that 'nl -b n' does reserve space for where the line numbers would have been.\n\n+ Number only the lines matching a basic regex [p]attern:\n  nl -b p'FooBar[0-9]' path/to/file\n  \n  -OR-\n  nl -b p'^#' .bashrc\n\n+ Use a specific [i]ncrement for line numbering:\n  nl -i NUMBER path/to/file\n\n+ Specify the line numbering width (default = 6):\n  nl -w NUMBER path/to/file\n\n+ Specify [n]umber-format as [r]ight justified with leading [z]eroes:\n  nl -n rz path/to/file\n  \n+ Specify [n]umber-format as [r]ight justified with ",
+        "id": 6366565,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=2SyiQrsPyu8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 95,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVls1GmFKf6WlTraIb_IaJg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/2SyiQrsPyu8/hqdefault.jpg",
+        "title": "'nl' - number lines of files - Video Man Pages",
+        "vote": 0
+    }
+]

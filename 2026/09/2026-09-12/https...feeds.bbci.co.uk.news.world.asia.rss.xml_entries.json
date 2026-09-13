@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-12T03:38:24.631006+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-12T03:02:28+00:00",
+        "description": "Access to the burnt-out boat has been slowed by toxic fumes and lingering heat, the country's coast guard says.",
+        "id": 6364648,
+        "language": "en-gb",
+        "link": "https://www.bbc.co.uk/news/articles/cwyz755yeg9o",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 522,
+        "source_url": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28b9/live/a4414240-ae46-11f1-bc1f-3f186ca4140c.jpg",
+        "title": "Death toll from Philippines ferry fire climbs to 35, with dozens still missing",
+        "vote": 0
+    }
+]

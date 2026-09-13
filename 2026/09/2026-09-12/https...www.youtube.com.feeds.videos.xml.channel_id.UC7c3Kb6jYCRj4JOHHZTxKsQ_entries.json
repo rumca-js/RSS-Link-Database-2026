@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "GitHub",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-12T17:59:18.830498+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-12T15:00:23+00:00",
+        "description": "Hill climbing isn't just an exercise term; it is a practical method for improving AI agent performance. In this clip from the GitHub Podcast, the team breaks down how hill climbing transitioned from model training into agent harness optimization. By using targeted evals to continuously benchmark and steer responses, developers can systematically refine agent accuracy over time.\n\n#AIAgent #HillClimbing #GitHub\n\nStay up-to-date on all things GitHub by connecting with us:\n\nYouTube: https://gh.io/subgithub\nBlog: https://github.blog\nX: https://twitter.com/github\nLinkedIn: https://linkedin.com/company/github\nInsider newsletter: https://resources.github.com/newsletter/\nInstagram: https://www.instagram.com/github\nTikTok: https://www.tiktok.com/@github\n\nAbout GitHub\nIt\u2019s where over 180 million developers create, share, and ship the best code possible. It\u2019s a place for anyone, from anywhere, to build anything\u2014it\u2019s where the world builds software. https://github.com",
+        "id": 6367412,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/u5CS4_b8eU8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 1005,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7c3Kb6jYCRj4JOHHZTxKsQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/u5CS4_b8eU8/hqdefault.jpg",
+        "title": "What is hill climbing in AI agent development?",
+        "vote": 0
+    }
+]

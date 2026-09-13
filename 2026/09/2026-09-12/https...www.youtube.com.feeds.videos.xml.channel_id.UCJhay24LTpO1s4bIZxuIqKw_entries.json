@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ACCU Conference",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-12T13:50:09.008539+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-12T12:00:38+00:00",
+        "description": "ACCU Membership: https://tinyurl.com/ydnfkcyn\n---\n\nO(1) or O(no-no-no) - Mastering the unordered_map - Kevin B. Carpenter - ACCU on Sea 2026\n---\n\nIn modern C++, std::vector is king. We justifiably reach for it as our default, cache-friendly, contiguous sequence. But what happens when your problem doesn't fit a simple array? What is the second container you should reach for?\n\nThis talk dives deep into the data that proves std::unordered_map is the undisputed #2 container in modern C++ codebases. Its dominance signifies a fundamental shift in application design: the overwhelming, performance-critical need for average-case key-value lookups.\n\nJoin this session as we move beyond \"just use a hash map\" and explore the critical, real-world implications of this choice. We'll start by benchmarking the classic std::map (red-black tree) against std::unordered_map (hash table) to understand precisely what you gain\u2014and what you might lose.\n\nBut this power comes with pitfalls. An \"average-case\" can",
+        "id": 6366337,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=OF4Id8085s0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 421,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJhay24LTpO1s4bIZxuIqKw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/OF4Id8085s0/hqdefault.jpg",
+        "title": "Mastering the unordered_map in C++ - Kevin B. Carpenter - ACCU 2026",
+        "vote": 0
+    }
+]

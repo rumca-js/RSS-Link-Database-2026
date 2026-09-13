@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NetworkChuck",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-12T15:54:15.614192+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-12T14:00:11+00:00",
+        "description": "Check out the full video: https://youtu.be/9SDkU5VDQEQ\n\nOur interview with DHH: https://youtu.be/_CuibYl_Fh0",
+        "id": 6366903,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/JP9_clebjDE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 565,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9x0AN7BWHpCDHSm9NiJFJQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/JP9_clebjDE/hqdefault.jpg",
+        "title": "Your App Crashed. Now AI Gets to Work.",
+        "vote": 0
+    }
+]

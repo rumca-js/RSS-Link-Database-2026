@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Bill Toulas",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-12T14:41:41.633163+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-12T10:14:32+00:00",
+        "description": "The Dutch Nationaal Cyber Security Centrum (NCSC) is warning of imminent exploitation of two critical flaws in Check Point VPN tracked as CVE-2026-85102 and CVE-2026-85103. [...]",
+        "id": 6366562,
+        "language": "en-US",
+        "link": "https://www.bleepingcomputer.com/news/security/dutch-ncsc-critical-check-point-vpn-flaws-exploitation-is-imminent",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 40,
+        "source_url": "https://www.bleepingcomputer.com/feed/",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Dutch NCSC: Critical Check Point VPN flaws exploitation is imminent",
+        "vote": 0
+    }
+]
