@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Miriam Waldvogel",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-13T14:40:20.357532+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-13T10:00:00+00:00",
+        "description": "A New York University professor questions whether AI agents that solved one of the most complex problems in theoretical mathematics were fed on his work.",
+        "id": 6371174,
+        "language": "en-US",
+        "link": "https://www.washingtonpost.com/technology/2026/09/13/he-was-close-1-million-breakthrough-then-openai-swooped",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 364,
+        "source_url": "https://feeds.washingtonpost.com/rss/business/technology",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "He was close to a huge math breakthrough. Then he got scooped by AI.",
+        "vote": 0
+    }
+]

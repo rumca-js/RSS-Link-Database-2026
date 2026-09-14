@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Critical Drinker",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-13T20:44:39.189540+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-13T19:45:08+00:00",
+        "description": "Got a question? Then ask the Drinker! Join me for a Sunday night session as we finish up the weekend.",
+        "id": 6372784,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=3FBmV8wi8Uk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 334,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSJPFQdZwrOutnmSFYtbstA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/3FBmV8wi8Uk/hqdefault.jpg",
+        "title": "Ask The Drinker - Sunday Night Session!",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jocelyn Kaiser",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-13T16:02:27.220349+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-13T10:40:00+00:00",
+        "description": "Anthropic describes five cases where scientists in unnamed countries tried to use its Claude software for potentially nefarious work on viruses or toxins",
+        "id": 6371582,
+        "language": "en-US",
+        "link": "https://www.science.org/content/article/chilling-warning-or-overreaction-ai-bioweapons-report-divides-experts",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 187,
+        "source_url": "https://www.science.org/rss/news_current.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "\u201cChilling\u201d warning or overreaction? AI bioweapons report divides experts",
+        "vote": 0
+    }
+]

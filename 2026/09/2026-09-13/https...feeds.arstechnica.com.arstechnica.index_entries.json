@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Beth Mole",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-13T23:08:08.123956+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-13T21:56:52+00:00",
+        "description": "The 40-year-old unvaccinated woman reportedly had underlying health conditions.",
+        "id": 6373260,
+        "language": "en-US",
+        "link": "https://arstechnica.com/health/2026/09/unvaccinated-pennsylvania-woman-died-of-measles-complications-coroner-says",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 21,
+        "source_url": "https://feeds.arstechnica.com/arstechnica/index",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-930111236-500x500.jpeg",
+        "title": "Unvaccinated Pennsylvania woman died of measles complications, coroner says",
+        "vote": 0
+    }
+]

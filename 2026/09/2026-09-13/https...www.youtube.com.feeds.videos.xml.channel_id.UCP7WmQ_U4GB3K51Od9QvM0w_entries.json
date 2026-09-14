@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "David Bombal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-13T17:38:01.894941+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-13T14:00:14+00:00",
+        "description": "Big thanks to ThreatLocker for sponsoring my trip to Black Hat USA 2026 and also for sponsoring this video.  To start your free trial with ThreatLocker, please use the following link:  https://www.threatlocker.com/davidbombal\n\nIs cybersecurity still worth learning in 2026? AI agents are changing vulnerability research, but where does that leave you? \n\nAt Black Hat, I\u2019m joined by Arizona State University professor Yan Shoshitaishvili to discuss what AI can actually do, where it falls short, and why he would still choose a career in cybersecurity today.\n\nYan shares how his lab used AI agents and human-designed workflows to find what he describes as over 1,000 Linux kernel vulnerabilities triggerable by an unprivileged local user. Running 128 agents was only part of the story. Understanding which vulnerabilities to look for and improving the research process proved critical. \n\nWe discuss: \n\u2022 How AI agents test potential vulnerabilities instead of simply reporting suspected bugs \n\u2022 How ag",
+        "id": 6372003,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=-J26QZPOHLo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 984,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP7WmQ_U4GB3K51Od9QvM0w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/-J26QZPOHLo/hqdefault.jpg",
+        "title": "Is Cybersecurity Still Worth Learning in 2026?",
+        "vote": 0
+    }
+]

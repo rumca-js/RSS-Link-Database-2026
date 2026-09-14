@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-13T16:59:31.710437+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-13T15:47:27+00:00",
+        "description": "[The Conversation Africa] The UN has passed a non-binding resolution to endorse the Equal Earth Projection, a map which more fairly represents the true size of the Earth's landmasses. The current commonly used projection, called the Mercator Projection, greatly exaggerates land towards the north and south poles, which makes Africa look much smaller. In the Mercator projection, countries near the north and south pole can be anywhere from two to 14 times their true size. In the Equal Earth projection these distortions are minimised,",
+        "id": 6371848,
+        "language": "en",
+        "link": "https://allafrica.com/stories/202609130140.html",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 15,
+        "source_url": "https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Africa: New World Map Makes Africa Look Bigger - What's the Fuss About? Cartographers Explain",
+        "vote": 0
+    }
+]

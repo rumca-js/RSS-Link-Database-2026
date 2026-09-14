@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/nzbfast",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-13T04:17:11.423562+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-13T03:25:58+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>TL; DR - a lot faster at the hard jobs and a bit faster at the easy ones.</p> <p>PAR2 tools are awkward to optimise. they all do the easy thing - Verifying - in seconds .. the hard bits are repairs with lots of missing blocks, and creating a par set from scratch - which can mean generating up to 32768 recovery blocks. that\u2019s where they can be slow, because the usual way of doing the Reed-Solomon math is a big dense matrix multiply and the work grows - missing blocks x total blocks - double both and the job\u2019s quadrupled.</p> <p>Parfast produces exactly the same PAR2 files (it\u2019s still Reed-Solomon) - it just solves it in a different way. Instead of the dense matrix it uses a transform based approach - FFT style, same Galois field math - with a Forney-style back substitution step. The setup cost is high but the blocks are generated linearly, so the more blocks the job needs, the bigger the win.</p> <p><a href=\"https://en.wikipedia.org/wiki/Reed%E2%80%93S",
+        "id": 6369333,
+        "language": "en",
+        "link": "https://www.reddit.com/r/usenet/comments/1wewk2u/announcing_parfast_a_high_performance_par2_tool",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 550,
+        "source_url": "https://www.reddit.com/r/usenet/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Announcing Parfast - a high performance PAR2 tool that uses some old math in a new way",
+        "vote": 0
+    }
+]

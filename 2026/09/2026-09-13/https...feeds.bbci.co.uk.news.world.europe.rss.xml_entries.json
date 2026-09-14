@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-13T20:53:43.997068+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-13T19:48:42+00:00",
+        "description": "Social Democrats leader Magdalena Andersson may return as prime minister - a job she held from 2021 to 2022.",
+        "id": 6372797,
+        "language": "en-gb",
+        "link": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 523,
+        "source_url": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7e0/live/f8b9f5b0-afa4-11f1-a27d-17e2480354ed.jpg",
+        "title": "Left-wing bloc leads Swedish vote after far-right lose support, exit polls say",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/OppositeResident2286",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-13T11:44:17.237245+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-13T04:53:59+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>This project represents more than just creating a personal website for me. </p> <p>I built it with Python, Django, Bootstrap, and Django templates as a place to bring together my development work, projects, experience, services, resume, and technical writing. </p> <p>More importantly, building and deploying it gave me the opportunity to work through the kinds of problems that don&#39;t always appear while following tutorials. </p> <p>I had to think about application structure, reusable templates, responsive UI, static and media files, deployment, SEO, content management, debugging production issues, and how the project could continue growing instead of remaining a static portfolio. </p> <p>Some things worked immediately. </p> <p>Others definitely didn&#39;t. </p> <p>And those problems ended up teaching me more than the parts that went smoothly. </p> <p>I&#39;m continuing to strengthen my skills in Django, Django REST Framework, REST APIs, PostgreSQL, ",
+        "id": 6370497,
+        "language": "",
+        "link": "https://www.reddit.com/r/django/comments/1wey953/my_developer_portfolio_is_officially_live",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 491,
+        "source_url": "https://www.reddit.com/r/django/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "My developer portfolio is officially live. \ud83d\ude80",
+        "vote": 0
+    }
+]
