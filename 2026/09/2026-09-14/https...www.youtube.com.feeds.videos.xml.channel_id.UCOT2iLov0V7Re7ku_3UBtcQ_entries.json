@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Hank Green",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-14T20:37:33.413388+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-14T19:57:32+00:00",
+        "description": "Adam's channel is here: https://www.youtube.com/ClimateAdam\n\nA great place to start out would be this video on sodium batteries https://www.youtube.com/watch?v=weYg88FCHWg",
+        "id": 6379747,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=kGfvfGeVdrY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 507,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCOT2iLov0V7Re7ku_3UBtcQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/kGfvfGeVdrY/hqdefault.jpg",
+        "title": "The Hockey Stick of Doom.",
+        "vote": 0
+    }
+]

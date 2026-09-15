@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ACCU Conference",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-14T14:45:18.261496+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-14T12:00:17+00:00",
+        "description": "ACCU Membership: https://tinyurl.com/ydnfkcyn\n---\n\nDangerous Optimizations! - Part Deux - Robert C. Seacord - ACCU on Sea 2026\n---\n\nIncreasingly, compiler writers are taking advantage of undefined behaviors in the C and C++ programming languages to improve optimizations. Frequently, these optimizations are interfering with the ability of developers to perform cause-effect analysis on their source code, that is, analyzing the dependence of downstream results on prior results. Consequently, these optimizations are eliminating causality in software and are increasing the probability of software faults, defects, and vulnerabilities. I will continue where I left off last year and present common optimizations, how these can lead to software vulnerabilities, and applicable and practical mitigation strategies. \n\nSlides: https://github.com/Digital-Medium/ACCU-On-Sea-Slides-2026\n---\n\nRobert C. Seacord\n\nRobert C. Seacord is standardization lead at Woven by Toyota, where he helps standardize soft",
+        "id": 6377155,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=gFynjahe-bg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 421,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJhay24LTpO1s4bIZxuIqKw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/gFynjahe-bg/hqdefault.jpg",
+        "title": "Dangerous Optimizations! in C++ - Part Deux - Robert C. Seacord - ACCU on Sea 2026",
+        "vote": 0
+    }
+]

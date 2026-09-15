@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "GitHub",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-14T15:30:46.999047+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-14T13:25:11+00:00",
+        "description": "CVE Lite CLI is a fast, local dependency vulnerability scanner for JavaScript and TypeScript projects. It supports npm, pnpm, Yarn, and Bun, classifies vulnerabilities as direct or transitive, validates fix versions with OSV, and provides exact upgrade commands. The project is an OWASP Lab Project.\n\nProject repository: https://github.com/OWASP/cve-lite-cli",
+        "id": 6377511,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=_Mmf3DLVuOQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 1005,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7c3Kb6jYCRj4JOHHZTxKsQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/_Mmf3DLVuOQ/hqdefault.jpg",
+        "title": "Open Source Friday: Securing JavaScript Projects with CVE Lite CLI",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Edmar Pereira",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-14T12:38:20.509094+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-14T11:48:37+00:00",
+        "description": "openEuler is an open-source project incubated and operated by the OpenAtom Foundation. The community is expanding international collaboration through local user groups, industry partnerships, and participation in global open-source events.",
+        "id": 6376302,
+        "language": "en-US",
+        "link": "https://itsfoss.com/news/openeuler-ai-race-leap-fest",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 156,
+        "source_url": "https://news.itsfoss.com/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://itsfoss.com/content/images/2026/09/ai-race.webp",
+        "title": "openEuler and the Race to Build Asia's AI Infrastructure",
+        "vote": 0
+    }
+]

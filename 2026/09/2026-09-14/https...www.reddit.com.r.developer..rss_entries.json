@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/apyhubnico",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-14T20:57:13.240239+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-14T19:45:53+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone, I\u2019m Nikolas. </p> <p>I\u2019ve been developing software for years, and I\u2019ve noticed we often build around the product rather than building the product itself.</p> <p>Say you\u2019re building an SEO tool. </p> <p>The idea might be relatively simple, but suddenly you\u2019re dealing with SERP scraping, web scraping, PDF generation, document extraction, file conversion, and more. </p> <p>None of those things are really the product, but they can end up taking more engineering time than the product itself.</p> <p>That\u2019s basically why we&#39;ve been building ApyHub. It\u2019s an <a href=\"https://apyhub.com/catalog\">API catalog</a> with 1,500+ production-ready tools for these kinds of common capabilities, so developers can spend more time building the actual product instead of rebuilding the infrastructure around it. </p> <p>Heck, if you have an API, you can also become a provider and make money. </p> <p>Curious how other developers handle this; feel free to share",
+        "id": 6379887,
+        "language": "en",
+        "link": "https://www.reddit.com/r/developer/comments/1wgdx7a/spent_weeks_building_around_the_product_instead",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 508,
+        "source_url": "https://www.reddit.com/r/developer/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "\"Spent weeks building around the product instead of building the product itself\", Isn't this a common pattern?",
+        "vote": 0
+    }
+]

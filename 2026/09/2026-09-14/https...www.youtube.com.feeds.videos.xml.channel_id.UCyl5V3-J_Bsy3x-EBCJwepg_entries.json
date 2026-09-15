@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Babylon Bee",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-14T21:07:45.110987+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-14T20:14:24+00:00",
+        "description": "We asked AI to simulate how the Founding Fathers would react to our time, and it came out way different than we expected.",
+        "id": 6379958,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=GcCWatI2Hf0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 31,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCyl5V3-J_Bsy3x-EBCJwepg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/GcCWatI2Hf0/hqdefault.jpg",
+        "title": "We Asked AI To Simulate How The Founding Fathers Would React To Our Time And They Were Shocked",
+        "vote": 0
+    }
+]

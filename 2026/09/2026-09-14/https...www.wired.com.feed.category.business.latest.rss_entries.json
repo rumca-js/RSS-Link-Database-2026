@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Joel Khalili",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-14T09:12:55.489638+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-14T09:00:00+00:00",
+        "description": "While the publishing industry frets over how authors are using AI, many readers are taking things into their own hands.",
+        "id": 6375230,
+        "language": "en-US",
+        "link": "https://www.wired.com/story/chatbot-generated-fiction-i-like-my-big-rat-wife",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 396,
+        "source_url": "https://www.wired.com/feed/category/business/latest/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media.wired.com/photos/6aa091ab5bb8894d9970b282/master/pass/Why-Get-Library-Card-When-Theres-ChatGPT-Culture.jpg",
+        "title": "\u2018I Like My Big Rat Wife\u2019: Meet the People Using Chatbots to Write Custom Fiction",
+        "vote": 0
+    }
+]

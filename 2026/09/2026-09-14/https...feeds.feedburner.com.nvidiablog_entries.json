@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Gerardo Delgado",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-14T19:18:40.218725+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-14T15:00:52+00:00",
+        "description": "As local models become more capable, AI agents can handle more work directly on a PC while keeping sensitive information on the device. Portable Computer is a local version of the agent Perplexity Computer that plans and carries out multistep tasks. Accelerated by NVIDIA GPUs, it uses local models to analyze data, bring together information [&#8230;]",
+        "id": 6379275,
+        "language": "en-US",
+        "link": "https://blogs.nvidia.com/blog/local-ai-perplexity-windows-pcs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 1019,
+        "source_url": "https://feeds.feedburner.com/nvidiablog",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://blogs.nvidia.com/wp-content/uploads/2026/09/Local-AI_Perplexity-on-Windows_Blog_Feature-842x450.jpg",
+        "title": "Perplexity Portable Computer Is Now Available on Windows, Powered by NVIDIA RTX",
+        "vote": 0
+    }
+]

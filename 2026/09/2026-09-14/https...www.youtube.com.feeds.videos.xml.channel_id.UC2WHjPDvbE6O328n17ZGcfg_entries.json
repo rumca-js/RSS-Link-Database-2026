@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ForrestKnight",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-14T22:19:01.343827+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-14T20:20:32+00:00",
+        "description": "Microservices solved a problem that most companies never had.\n\nTry out PostHog, it's genuinely awesome (and a lot of fun!): https://jetty.to/posthog\n\nSo I've covered Netflix's engineering a couple times before, and one of the biggest things they've done was migrating to microservices. It was perfect for them, and it worked out so well that the rest of the industry followed suit. However, there's just one problem there... most of these other companies never even knew the problem they were copying the solution to.\n\nSources:\nFour Reasons We Choose Amazon's Cloud as Our Computing Platform (Netflix, Dec 2010): https://netflixtechblog.com/four-reasons-we-choose-amazons-cloud-as-our-computing-platform-4aceb692afec\nNetflix completes AWS migration, 2016 coverage (Data Center Dynamics): https://www.datacenterdynamics.com/en/news/netflix-completes-move-to-aws-public-cloud/\nNetflix completes cloud migration (Silicon UK): https://www.silicon.co.uk/cloud/cloud-management/netflix-completes-cloud-mig",
+        "id": 6380325,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=I_of74HSHiA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 118,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2WHjPDvbE6O328n17ZGcfg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/I_of74HSHiA/hqdefault.jpg",
+        "title": "Why Your Company Copied Netflix's Architecture",
+        "vote": 0
+    }
+]

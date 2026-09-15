@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Gruber",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-14T20:20:55.805663+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-14T19:41:41+00:00",
+        "description": "<p>Armin Briegel at Scripting OS X has compiled links for all the release notes for all of today\u2019s OS updates (features, developer, security). In addition to the 27.0 updates, Apple also released 26.7 updates <em>and</em> MacOS 15.8 Sequoia. Big day.</p>\n\n<div>\n<a  title=\"Permanent link to \u2018Apple\u2019s 27.0 OS Updates\u2019\"  href=\"https://daringfireball.net/linked/2026/09/14/apples-270-os-updates\">&nbsp;\u2605&nbsp;</a>\n</div>",
+        "id": 6379595,
+        "language": "",
+        "link": "https://scriptingosx.com/2026/09/apple-27-platform-updates-september-2026",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 489,
+        "source_url": "https://daringfireball.com/feeds/main",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Apple\u2019s 27.0 OS Updates",
+        "vote": 0
+    }
+]

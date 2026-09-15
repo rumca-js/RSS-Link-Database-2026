@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-14T14:42:42.889613+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-14T11:00:05+00:00",
+        "description": "Learn more about Shift-Left Testing here \u2192 https://ibm.biz/~GjS7OaN8v\n\nAI can generate software faster than ever, but speed alone doesn't create trust. Jeff Crume explains how developers secure AI-generated code using shift-left security, dependency validation, continuous testing, and outcome-based verification. Learn five key principles for building safer AI-assisted software development workflows.\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/~q0cz4suIE\n\nAI was used in the creation of the transcript and metadata for this video.\n\n#ai #aisecurity #devsecops #aicoding",
+        "id": 6377147,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=X0UI0O8YzJM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/X0UI0O8YzJM/hqdefault.jpg",
+        "title": "How Developers Secure AI-Generated Code: 5 Security Best Practices",
+        "vote": 0
+    }
+]
