@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Web Dev Simplified",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-15T21:53:18.378078+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-15T20:00:10+00:00",
+        "description": "There are tons of different ways to configure your AI agents, but most people get it wrong. They don\u2019t know how to use AGENTS.md, when SKILLS.md should be used, or even what a system prompt is. In this video I go through everything you need to know about configuring your AI agent and also talk about the most common mistakes I see even billion dollar companies making in their configuration files.\n\n\n\ud83d\udcda Materials/References:\n\nSkills Crash Course Video: https://youtu.be/cxQLKsktiBA\n\n\n\ud83c\udf0e Find Me Here:\n\nMy Blog: https://blog.webdevsimplified.com\nMy Courses: https://courses.webdevsimplified.com\nPatreon: https://www.patreon.com/WebDevSimplified\nTwitter: https://twitter.com/DevSimplified\nDiscord: https://discord.gg/7StTjnR\nGitHub: https://github.com/WebDevSimplified\nCodePen: https://codepen.io/WebDevSimplified\n\n\n\u23f1\ufe0f Timestamps:\n\n00:00 - Introduction\n00:45 - What files to configure\n03:55 - Bad AGENTS.md examples\n07:23 - How to write good AGENTS.md files\n13:53 - Dealing with CLAUDE.md\n15:50 - Neste",
+        "id": 6388092,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=jojMVmRZABw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 994,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFbNIlppjAuEX4znoulh0Cw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/jojMVmRZABw/hqdefault.jpg",
+        "title": "Why Your AI Generates Crap Code - And How to Fix It",
+        "vote": 0
+    }
+]

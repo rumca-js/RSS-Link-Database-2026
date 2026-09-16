@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-15T15:07:32.450833+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-15T14:35:04+00:00",
+        "description": "All flights are suspended from one of Italy's busiest airports until Tuesday night.",
+        "id": 6385099,
+        "language": "en-gb",
+        "link": "https://www.bbc.co.uk/news/articles/cq5ym3rdmkzjo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 523,
+        "source_url": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7cc3/live/547ac1c0-b105-11f1-a451-6b1ff10ed362.jpg",
+        "title": "Ash from Mount Etna grounds flights at Sicily airport",
+        "vote": 0
+    }
+]

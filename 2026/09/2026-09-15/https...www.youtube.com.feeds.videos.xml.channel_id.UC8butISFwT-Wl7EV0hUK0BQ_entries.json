@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-15T13:03:32.835476+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-15T12:41:24+00:00",
+        "description": "Learn how to take a web application from local development to a secure, live production environment. You will learn how to manually configure an Ubuntu server, set up essential runtimes, establish automated CI/CD pipelines, and secure your site using HTTPS and Cloudflare. By tackling everything hands-on before introducing automation, you will gain a deep, foundational understanding of full-stack deployment and how to reliably host complex systems.\n\n\u2b50\ufe0f Links and resources \u2b50\ufe0f\nCourse handbook and documentation: https://github.com/ImadSaddik/FullStackDeploymentHandbook\nProject source code: https://github.com/ImadSaddik/ImadSaddikWebsite\nDigitalOcean ($200 free credit): https://m.do.co/c/4f9010fc5eb3\nSSH config documentation: https://www.ssh.com/academy/ssh/config\nPorkbun domain registrar: https://porkbun.com/\nLet's Encrypt: https://letsencrypt.org/\nCertbot: https://certbot.eff.org/\nCloudflare: https://www.cloudflare.com/\nNmap network scanner: https://nmap.org/\nPre-commit framework: https:",
+        "id": 6384236,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=wY5pQOTsGaA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/wY5pQOTsGaA/hqdefault.jpg",
+        "title": "How to Deploy, Secure, and Automate Full-Stack Web Apps \u2013 Course for Beginners",
+        "vote": 0
+    }
+]

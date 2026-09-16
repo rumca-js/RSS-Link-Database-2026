@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "OpenAI",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-16T01:08:06.672240+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-15T23:31:15+00:00",
+        "description": "Included in ChatGPT Plus and Pro.",
+        "id": 6389014,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/DhAsqpjliYw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 935,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXZCJLdBC09xxGZ6gcdrc6A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/DhAsqpjliYw/hqdefault.jpg",
+        "title": "Stay on top of the pack with ChatGPT Work.",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ryan Daws",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-15T13:13:44.053399+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-15T12:59:51+00:00",
+        "description": "<p>Software developers assessing deployment risks can now evaluate consolidated development telemetry through the Release Readiness Index, a capability introduced by PractiTest to guide quality decisions across engineering pipelines. Built as an analytical layer within the vendor&#8217;s wider QA Intelligence initiative, the system links test execution, requirements coverage, and outstanding defects into a single evaluative score. [&#8230;]</p>\n<p>The post <a href=\"https://www.developer-tech.com/news/practitest-software-qa-data-release-readiness-score/\">PractiTest turns software QA data into a release readiness score</a> appeared first on <a href=\"https://www.developer-tech.com\">Developer Tech News</a>.</p>",
+        "id": 6384310,
+        "language": "en-GB",
+        "link": "https://www.developer-tech.com/news/practitest-software-qa-data-release-readiness-score",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 92,
+        "source_url": "https://www.developer-tech.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "PractiTest turns software QA data into a release readiness score",
+        "vote": 0
+    }
+]

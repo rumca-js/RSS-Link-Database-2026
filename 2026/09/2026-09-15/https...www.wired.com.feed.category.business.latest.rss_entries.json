@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Sophie Kleeman, Kate Knibbs",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-15T10:47:47.572211+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-15T10:30:00+00:00",
+        "description": "WIRED tested samples of four types of peptides. The results show how lightly regulated the industry is, even as popularity surges.",
+        "id": 6383340,
+        "language": "en-US",
+        "link": "https://www.wired.com/story/viral-bodega-peptides-tests-show-they-arent-peptides-oops",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 396,
+        "source_url": "https://www.wired.com/feed/category/business/latest/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media.wired.com/photos/6a9b2bbf24449f8ffea94935/master/pass/Bodeg-Peptides-Are-Fake-Science.jpg",
+        "title": "Those Viral Bodega Peptides Aren\u2019t Actually Peptides",
+        "vote": 0
+    }
+]

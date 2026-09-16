@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Matt Wolfe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-15T16:01:17.432757+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-15T12:26:35+00:00",
+        "description": "Is this the easiest AI agent to use?\n\nI connected Meta's new AI Agent Muse to my email and asked it to audit my subscriptions to see how much I\u2019m spending on AI tools. \n\nBut what impressed me most wasn\u2019t just the audit, it was how easy the agent was to use. It feels like a normal messaging app, runs tasks inside a secure virtual machine, and suggests ways it can help as you connect your apps.\n\nIf you\u2019ve only used AI for chatting and haven\u2019t tried agents yet, this might be one of the easiest places to start.\n\n#AI #Aiagent #aitools #meta #muse",
+        "id": 6385608,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/FxcYK5WOk1c",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 933,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChpleBmo18P08aKCIgti38g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/FxcYK5WOk1c/hqdefault.jpg",
+        "title": "The Actual Easiest AI Agent Setup",
+        "vote": 0
+    }
+]

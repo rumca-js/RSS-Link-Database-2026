@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Leila Gharani",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-15T11:37:17.232373+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-15T09:00:30+00:00",
+        "description": "Learn how to combine data from multiple sheets in Excel using the VSTACK function without ever copying and pasting. These 6 advanced VSTACK techniques will help you automate data consolidation and save hours of manual reporting time.\n\n\ud83d\udce5 Download the practice workbook here: https://www.xelplus.com/excel-vstack-function/#download\n\n\ud83c\udf93 Get your whole team up to speed with our XelPlus courses (team licenses available): https://link.xelplus.com/yt-d-all-courses\n\nIn this tutorial, you will learn how to:\n- Combine official Excel tables from different sheets into one clean list using VSTACK.\n-Consolidate standard data ranges while planning for future data entries.\n- Remove blank rows and zero values using the new dot annotation trick in Microsoft 365.\n-Summarize and analyze your stacked data directly using the GROUPBY and CHOOSECOLS functions.\n- Use 3D referencing with the FILTER function to consolidate monthly expense sheets.\n- Set up dynamic 3D ranges using \"Start\" and \"End\" placeholder sheet",
+        "id": 6383644,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=UEDQ9CalxBI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 957,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJtUOos_MwJa_Ewii-R3cJA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/UEDQ9CalxBI/hqdefault.jpg",
+        "title": "Stop Copying Data Between Excel Sheets! (Do This Instead)",
+        "vote": 0
+    }
+]

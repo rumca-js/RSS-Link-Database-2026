@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Shira Ovide",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-15T09:53:03.486762+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-15T09:33:50+00:00",
+        "description": "The president has said tech executives calling for slower AI development could hobble an engine of U.S. economic growth.",
+        "id": 6383007,
+        "language": "en-US",
+        "link": "https://www.washingtonpost.com/technology/2026/09/15/investors-are-trying-work-out-financial-costs-an-ai-slowdown",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 364,
+        "source_url": "https://feeds.washingtonpost.com/rss/business/technology",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "AI companies buoyed the U.S. economy. What happens if they slow down?",
+        "vote": 0
+    }
+]

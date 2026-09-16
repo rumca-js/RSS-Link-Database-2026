@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Caleb Curry",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-15T17:10:20.206856+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-15T16:11:51+00:00",
+        "description": "Use code calebcurry for an extra 10% off a Hostinger VPS - https://www.hostg.xyz/SHJy7 (Buzz) or https://www.hostg.xyz/SHK2H (Paperclip)\nFREE - Get my video notes: https://www.codebreakthrough.com/products/63765398-fb1e\n\n\u2699\ufe0f Backend Engineering Mind Map - https://calcur.tech/mindmap\n\ud83d\udcbb System Design Playlist - https://calcur.tech/system-design\n\nTimestamps:\n00:00 - Intro\n01:30 - VPS Setup\n03:29 - App Overviews\n08:01 - Cost Management\n09:33 - What are heartbeats in Paperclip?\n10:18 - Assigning a task in Paperclip\n10:43 - Setting up our Paperclip structure\n12:11 - Building out a Workflow\n12:38 - What was created in GitHub?\n13:41 - SSH Port Forwarding\n14:23 - Typeform\n19:00 - Creating agents with Buzz\n23:44 - An overview of everything Buzz can do\n24:26 - Running local models through Buzz\n26:25 - Building with Buzz\n29:40 - Buzz vs Paperclip\n\n\ud83d\udcaf FREE Courses (100+ hours) - https://calcur.tech/free-courses\n\ud83c\udfc6 C++ Mastery Course - https://www.codebreakthrough.com/cpp-mastery\n\ud83d\udc0d Backend Python Cour",
+        "id": 6386134,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Y-9ChZWD97U",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 418,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZUyPT9DkJWmS_DzdOi7RIA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/Y-9ChZWD97U/hqdefault.jpg",
+        "title": "Autonomous AI and Agent Orchestration - Buzz + Paperclip",
+        "vote": 0
+    }
+]

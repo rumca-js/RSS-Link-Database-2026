@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-15T11:41:46.903543+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-15T11:00:31+00:00",
+        "description": "Learn more about Legacy Code here \u2192 https://ibm.biz/~IGoAQN8Qn\n\nLegacy code powers some of the world's most important systems, but maintaining it is becoming increasingly difficult. Anna Gutowska explains what legacy code is, why modernization is so challenging, and how AI can accelerate software migration, documentation, testing, and modernization workflows. Learn how AI helps teams preserve critical business logic while reducing technical debt and modernization risk.\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/~OlLZDTEOh\n\n#legacycode #aicoding #softwareengineering #aiagents",
+        "id": 6383716,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=CKC47S92wA4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/CKC47S92wA4/hqdefault.jpg",
+        "title": "What Is Legacy Code? How AI Is Modernizing Legacy Systems",
+        "vote": 0
+    }
+]

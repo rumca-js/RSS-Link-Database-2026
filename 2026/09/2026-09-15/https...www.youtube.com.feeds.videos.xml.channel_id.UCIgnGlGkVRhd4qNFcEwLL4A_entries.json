@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "AI Search",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-15T04:04:56.257005+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-15T03:24:28+00:00",
+        "description": "YuE2 installation tutorial. How to run YuE2 in ComfyUI and make cover songs. Best AI music generator and editor. #ai #aitools #aimusic #suno #aicover Thanks to our sponsor Luma. Try it today: https://lumalabs.ai/aisearch-sep\n\nYuE2 official repo https://github.com/multimodal-art-projection/YuE\nComfy workflow https://github.com/user-attachments/files/32133499/yue2_full.json\nYuE2 models https://huggingface.co/Comfy-Org/YuE2/tree/main\nComfyUI tutorial https://youtu.be/g74Cq9Ip2ik\n\nAlso see\nMinimax music https://youtu.be/aUcDyeZgz_k \nAcestep XL https://youtu.be/UAlLD5fS7-c \n\n00:00 YuE2 intro\n00:20 Jazz demo\n01:36 Boogie woogie\n02:42 Spanish flamenco\n03:54 Folktronica\n04:35 Korean emo rock\n05:15 Making cover songs\n06:25 Beethoven cover\n07:04 Minor cover\n07:54 Agent iterative editing\n09:17 How it works\n09:55 Benchmarks\n10:20 Luma\n11:52 How to install YuE2\n14:30 Text to music\n19:30 Instrumental only\n20:36 How to use reference audio\n23:17 License\n\nNewsletter: https://aisearch.substack.com/\nFin",
+        "id": 6381621,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=9RtywbN--QE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 806,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIgnGlGkVRhd4qNFcEwLL4A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/9RtywbN--QE/hqdefault.jpg",
+        "title": "New BEST local AI music generator is here!",
+        "vote": 0
+    }
+]

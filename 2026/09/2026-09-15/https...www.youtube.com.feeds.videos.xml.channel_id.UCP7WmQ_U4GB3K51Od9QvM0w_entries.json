@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "David Bombal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-15T16:26:13.772429+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-15T14:00:19+00:00",
+        "description": "Big thanks to ThreatLocker for sponsoring my trip to Black Hat USA 2026 and also for sponsoring this video.  To start your free trial with ThreatLocker please use the following link:  https://www.threatlocker.com/davidbombal \n\nIs Microsoft Defender enough to protect your PC? Malware researcher Leo joins me at Black Hat to discuss antivirus, Windows security and how hackers steal your accounts.\n\nWe explore how infostealers target saved passwords and session tokens, why two-factor authentication cannot prevent every account takeover, and how a message from a compromised friend\u2019s account can lead to an infection.\n\nLeo shares practical starting points for investigating your computer, including Autoruns for startup entries, TCPView for linking connections to applications, and Wireshark for examining network traffic. We also discuss password managers, account recovery planning, Windows telemetry and why switching operating systems does not eliminate security risks.\n\nIn this interview:\n\u2022 Mic",
+        "id": 6385800,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=oGjLP6kcXWg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 984,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP7WmQ_U4GB3K51Od9QvM0w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/oGjLP6kcXWg/hqdefault.jpg",
+        "title": "How Hackers Steal Your Accounts Even With 2FA Enabled",
+        "vote": 0
+    }
+]

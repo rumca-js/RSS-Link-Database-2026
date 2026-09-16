@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-15T13:47:36.426632+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-15T12:59:21+00:00",
+        "description": "Laura Sarabia is accused of ordering police to interrogate her nanny after cash allegedly went missing from her flat.",
+        "id": 6384579,
+        "language": "en-gb",
+        "link": "https://www.bbc.co.uk/news/articles/c61580330nj1o",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 524,
+        "source_url": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2518/live/fbc11580-b0f4-11f1-9707-2187f52634c5.jpg",
+        "title": "Colombian ex-foreign minister charged over nanny's lie detector test",
+        "vote": 0
+    }
+]
