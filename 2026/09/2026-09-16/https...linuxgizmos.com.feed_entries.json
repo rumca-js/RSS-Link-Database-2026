@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-16T01:13:12.095240+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-16T01:05:30+00:00",
+        "description": "Sipeed is preparing the SLogic32U3, a compact 32-channel logic analyzer designed for high-speed digital capture over USB 3.2 Gen2. The device supports configurable sample rates based on the number of active channels, direct streaming to a host system, optional analog acquisition modules, and software support across Windows, Linux, and macOS. According to the campaign, the [&#8230;]",
+        "id": 6389047,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/32-channel-logic-analyzer-supports-1-4gs-s-sampling-and-usb-3-2-gen2-streaming",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "32-channel logic analyzer supports 1.4GS/s sampling and USB 3.2 Gen2 streaming",
+        "vote": 0
+    }
+]

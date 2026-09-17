@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Infographics Show",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-16T20:53:26.394600+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-16T20:11:16+00:00",
+        "description": "AI is advancing faster than the systems designed to keep it under control, and some of the people responsible for AI safety are already leaving the room.\n\nThis video explores why the next two years could be critical for artificial intelligence. Major AI companies have dismantled or reorganized prominent safety teams while racing to build increasingly capable models, autonomous agents, and eventually AGI. Researchers are already documenting disturbing behaviors in frontier AI systems. In controlled experiments, models have used deception, blackmail, and rule-breaking to achieve their objectives. Other incidents have raised concerns about AI agents exploiting vulnerabilities, ignoring operator instructions, and finding unexpected ways to complete assigned goals. The danger doesn\u2019t require AI to become conscious or \u201cevil.\u201d A powerful system only needs a goal, access to real-world tools, and safeguards that aren\u2019t strong enough to stop it.\n\nFor now, humans still control most critical infr",
+        "id": 6395400,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=3OCNhNEJcZk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 999,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfdNM3NAhaBOXCafH7krzrA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/3OCNhNEJcZk/hqdefault.jpg",
+        "title": "Why the Next 2 Years are Critical for AI Safety",
+        "vote": 0
+    }
+]

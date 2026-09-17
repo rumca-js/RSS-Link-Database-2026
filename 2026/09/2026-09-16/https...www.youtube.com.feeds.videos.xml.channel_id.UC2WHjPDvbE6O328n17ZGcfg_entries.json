@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ForrestKnight",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-16T17:29:53.655180+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-16T16:00:25+00:00",
+        "description": "This is everything you need to know about Java 27.\n\nCheck out CodeRabbit Security and scan your codebase! jetty.to/coderabbit\n\nSources:\nJDK 27 (OpenJDK): https://openjdk.org/projects/jdk/27/\nHTTP/3 for the HTTP Client API, JEP 517 (OpenJDK, JDK 26): https://openjdk.org/jeps/517\nRemove the Applet API, JEP 504 (OpenJDK, JDK 26): https://openjdk.org/jeps/504\nCompact Object Headers (Experimental), JEP 450 (OpenJDK, JDK 24): https://openjdk.org/jeps/450\nMake G1 the Default Garbage Collector, JEP 248 (OpenJDK, JDK 9): https://openjdk.org/jeps/248\nQuality Outreach Heads-up, JDK 27: G1 default in all environments (Inside.java, Jul 20 2026): https://inside.java/2026/07/20/quality-heads-up/\nOpenJDK interim policy on AI-generated contributions (OpenJDK, Apr 2026): https://openjdk.org/legal/ai\nAn Efficient Key Recovery Attack on SIDH, the SIKE break (IACR ePrint, Jul 2022): https://eprint.iacr.org/2022/975\nQuality Outreach Heads-up, JDK 27: Post-Quantum Hybrid Key Exchange for TLS 1.3 (Inside.jav",
+        "id": 6394059,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=29k3eay4Lr4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 118,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2WHjPDvbE6O328n17ZGcfg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/29k3eay4Lr4/hqdefault.jpg",
+        "title": "Java 27 Changed More Than I Expected",
+        "vote": 0
+    }
+]

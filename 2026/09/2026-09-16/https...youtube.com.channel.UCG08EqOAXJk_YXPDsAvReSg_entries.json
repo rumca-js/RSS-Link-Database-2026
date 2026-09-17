@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unity",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-16T17:05:54.471657+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-16T15:53:23+00:00",
+        "description": "We heard you loud and clear \ud83d\udd0a Introducing the official Unity plugin for OpenAI\u2019s Codex - a first-party integration available now directly in OpenAI\u2019s universal plugin directory.\n\nDevelopers are already using OpenAI\u2019s Codex for Unity, but now with our official plugin, your agent gets direct engine expertise written and maintained by Unity\u2019s own engineers:\n\u2705 Higher Accuracy: Instructions written and kept current by the Unity teams that own each system, so the details come out right the first time.\n\u2705 First-party Skills: Teaches Codex how Unity development is actually done, right out of the box.\n\u2705 Unity from your Terminal:  The Unity CLI skill installs Editors, creates and opens projects, and manages packages.\n\nGet it in one click from the OpenAI plugin directory.\n\n\ud83d\udd17 Get started: https://on.unity.com/OpenAIPlugin\n\n#Unity #OpenAI #Codex #GameDev",
+        "id": 6393917,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=gy4HlUNn1lE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 683,
+        "source_url": "https://youtube.com/channel/UCG08EqOAXJk_YXPDsAvReSg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/gy4HlUNn1lE/hqdefault.jpg",
+        "title": "Introducing the official Unity plugin for OpenAI Codex",
+        "vote": 0
+    }
+]

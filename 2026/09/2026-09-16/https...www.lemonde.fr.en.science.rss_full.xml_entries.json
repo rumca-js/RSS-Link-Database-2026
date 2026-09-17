@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-16T01:21:47.908931+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-16T01:21:37.668041+00:00",
+        "description": "First described in 2006, an Iranian viper has an astonishing tail capable of fooling even the sharpest eyes. Scientists have now announced that the mystery does not lie in its skeleton.",
+        "id": 6389070,
+        "language": "en-US",
+        "link": "https://www.lemonde.fr/en/science/article/2026/09/16/the-snake-that-mimics-a-spider-to-lure-birds_6757571_10.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 190,
+        "source_url": "https://www.lemonde.fr/en/science/rss_full.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.lemde.fr/2026/09/11/219/0/4773/2386/644/322/60/0/1930c66_upload-1-ubv1zlaj34pq-p-urarachnoides-mberroneau-02.jpg",
+        "title": "The snake that mimics a spider to lure birds",
+        "vote": 0
+    }
+]

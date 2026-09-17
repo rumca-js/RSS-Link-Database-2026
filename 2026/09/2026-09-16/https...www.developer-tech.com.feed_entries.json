@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ryan Daws",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-16T13:16:12.147376+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-16T13:05:12+00:00",
+        "description": "<p>Oracle has released JDK 27 into general availability, enabling default compact headers and quantum-ready TLS key exchange across enterprise Java environments. The production distribution delivers nine targeted Java Enhancement Proposals (JEPs), spanning runtime memory optimisations, compiler updates, and post-quantum network protections alongside dozens of low-level virtual machine fixes. Default compact headers and memory reduction HotSpot [&#8230;]</p>\n<p>The post <a href=\"https://www.developer-tech.com/news/oracle-jdk-27-post-quantum-tls-compact-headers/\">Oracle ships JDK 27 with post-quantum TLS and compact headers</a> appeared first on <a href=\"https://www.developer-tech.com\">Developer Tech News</a>.</p>",
+        "id": 6392146,
+        "language": "en-GB",
+        "link": "https://www.developer-tech.com/news/oracle-jdk-27-post-quantum-tls-compact-headers",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 92,
+        "source_url": "https://www.developer-tech.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Oracle ships JDK 27 with post-quantum TLS and compact headers",
+        "vote": 0
+    }
+]

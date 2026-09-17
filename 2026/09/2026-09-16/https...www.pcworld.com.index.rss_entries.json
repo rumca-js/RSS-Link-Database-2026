@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-16T15:41:25.994885+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-16T15:40:03+00:00",
+        "description": "<div id=\"remove_no_follow\">\n\t\t<div class=\"grid grid--cols-10@md grid--cols-8@lg article-column\">\n\t\t\t\t\t  <div class=\"col-12 col-10@md col-6@lg col-start-3@lg\">\n\t\t\t\t\t\t<div class=\"article-column__content\">\n<section class=\"wp-block-bigbite-multi-title\"><div class=\"container\"></div></section>\n\n\n\n<p class=\"wp-block-paragraph\">In the new versions of Chrome 153.0.8010.47/48 for Windows and macOS, and 153.0.8010.47 for Linux, Google has fixed more than 40 security vulnerabilities, some of which are critical. According to Google, none of the patched vulnerabilities have been exploited in attacks yet.</p>\n\n\n\n<p class=\"wp-block-paragraph\">In the <a href=\"https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_0541751186.html\" target=\"_blank\" rel=\"noreferrer noopener\">Chrome Releases blog post</a>, Srinivas Sista lists 42 vulnerabilities that have been fixed. While Google discovered 26 of the vulnerabilities internally, another 16 were identified by external security resear",
+        "id": 6393333,
+        "language": "en-US",
+        "link": "https://www.pcworld.com/article/3236986/google-just-fixed-42-chrome-security-flaws-update-now.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 245,
+        "source_url": "https://www.pcworld.com/index.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Google just fixed 42 Chrome security flaws. Update now",
+        "vote": 0
+    }
+]

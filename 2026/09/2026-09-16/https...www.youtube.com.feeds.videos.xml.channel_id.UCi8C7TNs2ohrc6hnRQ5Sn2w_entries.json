@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kai Lentit",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-16T16:55:35.904256+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-16T14:59:40+00:00",
+        "description": "Interview with a Big Data engineer in 2026\n\n\nSonsored by https://railway.com\n\nInterview with a Big Data Engineer & Architect in 2026 with Azuros Cloudapi - aired on \u00a9 The Big Data.\n\nScripts inspired by X account \"Devops Borat\"\n\nProgrammer humor\nBig Data engineering\nDevops humor\ndevops essentials\nHive tables\nAirflow Graph\nFlink\nApache Iceberg\nDatabricks\nKubernetes\nK8s\nCloud engineering\nObservability\nDocker\n\n\n\n\n#humor\n#programming  \n#devops",
+        "id": 6393872,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=FG8sUgjBGXs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 264,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCi8C7TNs2ohrc6hnRQ5Sn2w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/FG8sUgjBGXs/hqdefault.jpg",
+        "title": "Interview with Big Data engineer in 2026.",
+        "vote": 0
+    }
+]

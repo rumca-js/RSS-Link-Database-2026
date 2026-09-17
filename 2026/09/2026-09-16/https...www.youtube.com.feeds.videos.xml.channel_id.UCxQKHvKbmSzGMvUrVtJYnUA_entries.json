@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Learn Linux TV",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-16T18:03:14.626208+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-16T15:00:39+00:00",
+        "description": "Kestra 2.0 is here, and in this tutorial I'll show you how to automate DigitalOcean with it. We'll walk through the brand new DigitalOcean plugin, build our Kestra flow, and add inputs so the flow can be reused with different values. If you've been looking for an open-source way to automate your cloud infrastructure, this one's for you!\n\n*\ud83d\udd17 Video-Specific Links*\n- Check out Kestra \u279c https://learnlinux.link/kestra-3\n- Kestra 2.0 Release Notes \u279c https://learnlinux.link/kestra-v2\n- Kestra/Digital Ocean partnership \u279c https://learnlinux.link/kestra-do\n- Kestra\u2019s source code on Github \u279c https://learnlinux.link/kestra-github\n- Set up a Digital Ocean account \u279c https://learnlinux.link/digitalocean\n- Official blog post for this video \u279c https://learnlinux.link/kestra-3-article\n\n*\ud83d\udcda Discounts, Courses, Books, and More! (Support Linux Learning)*\n- 10% Off Linux Swag! \u279c https://learnlinux.link/swag\n- Get the \"Linux Pro-Tips\" Newsletter \u279c https://learnlinux.link/linux-tips\n- Grab Jay's *ACTUAL* Dotfi",
+        "id": 6394257,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=jXbACP0nMFg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 997,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxQKHvKbmSzGMvUrVtJYnUA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/jXbACP0nMFg/hqdefault.jpg",
+        "title": "How to Automate DigitalOcean with Kestra 2.0 (Full Tutorial)",
+        "vote": 0
+    }
+]
