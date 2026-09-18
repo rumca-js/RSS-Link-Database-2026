@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-17T19:37:44.540787+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-17T17:30:04+00:00",
+        "description": "One of the biggest disservice we've ever done to new Linux users is saying that you never need to reboot your Linux system, this is so far from true.\n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\nReddit Post 1: https://www.reddit.com/r/linux4noobs/comments/1wd8bet/linux_doesnt_need_reboots_but_every_pacman_update/\nReddit Post 2: https://www.reddit.com/r/linux/comments/4cotoa/eli5_if_linux_systems_are_so_famous_for_not/\nNeedrestart: https://github.com/liske/needrestart\n\n=========Video Platforms==========\n\ud83c\udfa5 React: https://www.youtube.com/@BrodieRobertsonReacts\n\ud83c\udfa5 Podcast: https://techovertea.xyz/youtube\n\ud83c\udfae Gaming: https://brodierobertson.xyz/gaming\n\n==========Social Media==========\n\ud83c\udfa4 Discord: https://brodierobertson.xyz/discord\n\ud83d\udc26 Twitter: https://brodierobertson.xyz/twitt",
+        "id": 6402737,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=9NTNW0egSsA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/9NTNW0egSsA/hqdefault.jpg",
+        "title": "The Biggest Lie We Tell Linux Users",
+        "vote": 0
+    }
+]

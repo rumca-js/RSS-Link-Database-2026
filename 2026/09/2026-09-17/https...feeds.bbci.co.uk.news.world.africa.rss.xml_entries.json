@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-17T07:04:22.500597+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-17T06:46:31+00:00",
+        "description": "The body of the 54-year-old veteran broadcaster was found hours after three armed men kidnapped him near Johannesburg.",
+        "id": 6397925,
+        "language": "en-gb",
+        "link": "https://www.bbc.co.uk/news/articles/c52e047wpw7po",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 521,
+        "source_url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6141/live/21fff040-b25d-11f1-8894-1de5e01abbbb.png",
+        "title": "Abducted South African journalist found dead with gunshot wounds",
+        "vote": 0
+    }
+]

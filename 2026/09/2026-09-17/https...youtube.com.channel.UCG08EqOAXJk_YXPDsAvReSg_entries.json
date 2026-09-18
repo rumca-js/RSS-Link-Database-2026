@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unity",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-17T17:45:07.965762+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-17T17:14:47+00:00",
+        "description": "The Unity Editor\u2019s visual interface is great for human developers, but interpreting all those UI elements creates a massive bottleneck for AI automation. This extra visual layer makes AI agents slow, error-prone, and expensive in tokens. The new Unity CLI and Unity Pipeline package fix this problem by letting AI interact directly with the Editor under the hood.\n\nIn this video, we'll cover how the two tools work together. The CLI handles your environment - installing editors, managing licenses, and opening projects. Meanwhile, the Pipeline package turns your running Editor into a local server that stays warm in memory, survives domain reloads, and can compile and run C# snippets on the main thread in milliseconds.\n\nWe\u2019ll walk through the simple two-command install, show you how to read the command pattern so you never have to memorize syntax, and demonstrate live eval running code directly in the Editor. You\u2019ll also see how any agent that runs shell commands (like Claude Code, Codex, C",
+        "id": 6401987,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=EaEIynRqIHU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 683,
+        "source_url": "https://youtube.com/channel/UCG08EqOAXJk_YXPDsAvReSg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/EaEIynRqIHU/hqdefault.jpg",
+        "title": "Getting started with Unity CLI",
+        "vote": 0
+    }
+]

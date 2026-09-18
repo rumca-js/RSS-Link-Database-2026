@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Fireship",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-17T21:10:21.360957+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-17T20:33:55+00:00",
+        "description": "Run GitHub Actions 2x faster and build with Codesmith at https://www.blacksmith.sh/\n\nGoogle DeepMind just published Dream-RSI, a technique that turns an AI's old discovery logs into a simulator so it can test thousands of exploration strategies. But is this actually RSI or just a search algorithm with caching? Let's dive in. \n\n#coding #programming\n\nWant more Fireship?\n\n\ud83d\uddde\ufe0f Newsletter: https://bytes.dev\n\ud83e\udde0 Courses: https://fireship.dev",
+        "id": 6403281,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=LoLYw--s-5w",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 584,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/LoLYw--s-5w/hqdefault.jpg",
+        "title": "Did Google actually build RSI? Dream-RSI first look",
+        "vote": 0
+    }
+]

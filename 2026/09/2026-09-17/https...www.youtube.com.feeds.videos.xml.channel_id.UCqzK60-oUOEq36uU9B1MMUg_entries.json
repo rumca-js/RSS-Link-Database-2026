@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Julia McCoy",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-17T18:03:32.696073+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-17T15:15:56+00:00",
+        "description": "\ud83d\udc49 *TRY Abacus AI* \u2013 https://studio.abacus.ai/fmj\n\n*One paragraph typed into a chat box, and AI came back with a playable 5v5 MOBA: five original champions, three lanes, turrets, a shop, and bots that fight back. Then it built two more games.*\n\nApps and websites are a closed chapter. A 3D game is thousands of *taste calls* that used to need an art team and months, and this tool makes them itself, opens *Blender*, and grades its own screenshots against its concept art.\n\nWhat you'll learn:\n\u2705 The *pictures-before-code* loop all three builds run on\n\u2705 A cinematic camera reveal written in code from one sentence\n\u2705 What each game *admitted* it didn't finish, and why that matters\n\nOne line in the MOBA build made me trust this more than the map did.\n\n#AI #GameDev #AITools\n\nFirst Movers is Julia's AI company focused on helping working professionals and founders create massive efficiency in their businesses and workplaces.\n\nFREE GUIDE: \ud83d\udcd8 *The Content Creator's AI Blueprint*  \u2013 https://FirstMovers.",
+        "id": 6402138,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=GjSzyj2e7-M",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 947,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqzK60-oUOEq36uU9B1MMUg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/GjSzyj2e7-M/hqdefault.jpg",
+        "title": "AI Just Built 3 Full Video Games From a Single Prompt Each",
+        "vote": 0
+    }
+]

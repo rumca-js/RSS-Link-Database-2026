@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-18T01:22:14.514277+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-17T12:00:00+00:00",
+        "description": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.",
+        "id": 6404500,
+        "language": "en",
+        "link": "https://openai.com/index/cooley-gopublic",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 953,
+        "source_url": "https://openai.com/news/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "How Cooley is accelerating IPO work with ChatGPT",
+        "vote": 0
+    }
+]

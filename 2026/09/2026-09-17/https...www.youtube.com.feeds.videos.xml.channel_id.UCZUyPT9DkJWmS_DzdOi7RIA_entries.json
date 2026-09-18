@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Caleb Curry",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-17T17:11:11.408207+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-17T15:55:11+00:00",
+        "description": "Get $100 of Viktor's work for free - https://ref.viktor.com/ccurry-yt \nUse code CALEBCURRY100 @getviktor_com \n\n\u2699\ufe0f Backend Engineering Mind Map - https://calcur.tech/mindmap\n\ud83d\udcbb System Design Playlist - https://calcur.tech/system-design\n\nTimestamps:\n00:00 - Intro\n01:24 - 3 main ways to use AI\n02:02 - The difference between AI and AI agents\n03:39 - Viktor: AI employee\n04:43 - How I use AI to simplify my work\n04:55 - Server logs and Debugging\n07:24 - Daily blockers and kanban boards\n09:34 - Agile development\n11:15 - Forms of communication\n13:15 - Use AI for things you can't easily do\n16:33 - Reviewing sales calls\n17:46 - Using AI to build full apps\n19:47 - Non-deterministic processing\n22:28 - How the AI makes choices\n23:40 - Build in a reflective way\n25:47 - Build internal software\n27:21 - Specialized software\n\n\ud83d\udcaf FREE Courses (100+ hours) - https://calcur.tech/free-courses\n\ud83c\udfc6 C++ Mastery Course - https://www.codebreakthrough.com/cpp-mastery\n\ud83d\udc0d Backend Python Course - https://calcur.tech/back",
+        "id": 6401696,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=lTOW91Qo_zc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 418,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZUyPT9DkJWmS_DzdOi7RIA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/lTOW91Qo_zc/hqdefault.jpg",
+        "title": "Here's What I Built With AI",
+        "vote": 0
+    }
+]

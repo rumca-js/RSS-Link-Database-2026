@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Techlore",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-17T19:28:44.978241+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-17T18:38:03+00:00",
+        "description": "A hacker emailed Revolut pretending to be a government agency, and Revolut handed over customers' passports, IDs, and financial details. Plus: the global age-verification wave forcing even more ID collection (EU, California, Microsoft), OpenAI's rogue AI agents and why I've hit a breaking point with these companies, and the usual run of data breaches, threats, and open-source updates. Correction: it's really DMARC that stops the spoofing, misspoke! Set up SPF, DKIM, and DMARC together.\n\n\ud83d\udd0e EasyOptOuts is the easy, affordable, and effective way to automatically remove your data from people search sites: https://easyoptouts.com\nThanks to the EasyOptOuts team for sponsoring Surveillance Report!\n\n\ud83d\udd17 SOURCES & LINKS\n\u2022 Sources, Podcast & Shownotes: https://techlore.tech/no-hack-needed-how-revolut-leaked-your-passport-plus-new-age-verification-rogue-ai-agents/\n\n\ud83d\udd0e RELATED VIDEOS\nhttps://youtu.be/RSqD8wWRjqw\n\n\ud83d\udce8 Stay ahead of the news without doom-scrolling. Surveillance Report covers what matter",
+        "id": 6402674,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=cGv79hjL_jY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 327,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/cGv79hjL_jY/hqdefault.jpg",
+        "title": "Revolut Just Had the Most Embarrassing Data Breach",
+        "vote": 0
+    }
+]

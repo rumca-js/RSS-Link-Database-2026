@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-17T14:16:37.010950+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-17T13:32:11+00:00",
+        "description": "Master modern neural networks by recreating the groundbreaking discoveries of Geoffrey Hinton, the visionary whose research redefined computer science and deep learning. Covering his defining papers, this course directly bridges historical breakthroughs to readable PyTorch code. This hands on coding course will give you a unified look at how today's AI landscape was engineered through one pioneer\u2019s vision.\n\nThis course follows the evolution of deep learning, from Boltzmann Machines and Backpropagation to Deep Belief Networks, Dropout, Knowledge Distillation, Capsule Networks, the Forward-Forward Algorithm, and t-SNE.\n\nCourse developed by @programmingoceanacademy \n\nhttps://github.com/MOHAMMEDFAHD/Geoffrey-Hinton-Papers-Replicating-In-Pytorch\n\n\u2764\ufe0f Support for this channel comes from our friends at Scrimba \u2013 the coding platform that's reinvented interactive learning: https://scrimba.com/freecodecamp\n\nChapters\n- 0:00:00 welcoming\n- 0:01:31 Introduction\n- 0:02:39 Objectives\n- 0:04:23 Acknow",
+        "id": 6400432,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=BMYvfVk8Ar0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/BMYvfVk8Ar0/hqdefault.jpg",
+        "title": "Hands-On Evolution of Deep Learning \u2013 Geoffrey Hinton\u2019s AI Legacy",
+        "vote": 0
+    }
+]

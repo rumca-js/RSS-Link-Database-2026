@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-17T13:25:36.996708+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-17T13:03:17+00:00",
+        "description": "Hat &#38; Hammer has launched a Crowd Supply campaign for OpenMote, a programmable universal remote built around an ESP32-S3-WROOM-1 module. The device supports infrared transmission and reception, Bluetooth LE, Wi-Fi, motion sensing, audio, haptic feedback, and Qwiic/STEMMA QT expansion, while also targeting smart-home and game-controller applications. The OpenMote is based on an ESP32-S3-WROOM-1 module with [&#8230;]",
+        "id": 6400030,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/openmote-turns-a-wiimote-style-remote-into-an-esp32-s3-home-assistant-controller",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "OpenMote turns a Wiimote-style remote into an ESP32-S3 Home Assistant controller",
+        "vote": 0
+    }
+]

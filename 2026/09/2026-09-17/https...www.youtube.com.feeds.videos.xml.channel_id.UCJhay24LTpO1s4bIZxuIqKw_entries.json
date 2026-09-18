@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ACCU Conference",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-17T13:42:54.463583+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-17T12:00:15+00:00",
+        "description": "ACCU Membership: https://tinyurl.com/ydnfkcyn\n---\n\nContracts, Safety and Correctness - Lucian Radu Teodorescu - ACCU on Sea 2026\n---\n\nSince 2023, safety has become a central theme in C++. In response to criticism of memory-unsafe languages, the C++ standard committee has intensified its efforts in this area. Over time, the term safety itself has become increasingly overloaded, with different stakeholders often meaning very different things by it. More recently, this ambiguity has led some to avoid the term safety altogether.\n\nContracts are one of the major features proposed for C++26. While they enjoy broad support, there is ongoing debate about their role: are contracts primarily about safety, correctness, or something else entirely, and what expectations should users place on them?\n\nThis talk aims to clarify the relationship between safety and correctness, and to position contracts within that landscape. We will discuss what contracts can and cannot guarantee, how they relate to dif",
+        "id": 6400135,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=vVFFW6hoG1Y",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 421,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJhay24LTpO1s4bIZxuIqKw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/vVFFW6hoG1Y/hqdefault.jpg",
+        "title": "Contracts, Safety and Correctness in C++ - Lucian Radu Teodorescu - ACCU 2026",
+        "vote": 0
+    }
+]

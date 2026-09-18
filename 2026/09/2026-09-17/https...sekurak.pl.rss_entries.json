@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Tomasz Turba",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-17T02:59:34.802863+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-17T01:53:14+00:00",
+        "description": "<p>Broadcom poinformowa\u0142 o za\u0142ataniu dw\u00f3ch powa\u017cnych b\u0142\u0119d\u00f3w w popularnych produktach VMware Workstation oraz VMware Fusion. W okre\u015blonych warunkach ich wykorzystanie mog\u0142o doprowadzi\u0107 do ucieczki z maszyny wirtualnej oraz wykonanie kodu bezpo\u015brednio na ho\u015bcie. TLDR: Podatno\u015bci otrzyma\u0142y identyfikatory CVE-2026-59346 (CVSS 9.3) oraz CVE-2026-59347 (CVSS 8.1). Pierwsza z nich to b\u0142\u0105d typu...</p>\n<p>Artyku\u0142 <a href=\"https://sekurak.pl/vmware-lata-powazne-bledy-w-workstation-i-fusion-mozna-wyskoczyc-z-maszyny-wirtualnej-i-wykonac-kod-na-hoscie/\">VMware \u0142ata powa\u017cne b\u0142\u0119dy w Workstation i Fusion. Mo\u017cna wyskoczy\u0107 z maszyny wirtualnej i wykona\u0107 kod na ho\u015bcie</a> pochodzi z serwisu <a href=\"https://sekurak.pl\">Sekurak</a>.</p>",
+        "id": 6397190,
+        "language": "pl-PL",
+        "link": "https://sekurak.pl/vmware-lata-powazne-bledy-w-workstation-i-fusion-mozna-wyskoczyc-z-maszyny-wirtualnej-i-wykonac-kod-na-hoscie",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 300,
+        "source_url": "https://sekurak.pl/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "VMware \u0142ata powa\u017cne b\u0142\u0119dy w Workstation i Fusion. Mo\u017cna wyskoczy\u0107 z maszyny wirtualnej i wykona\u0107 kod na ho\u015bcie",
+        "vote": 0
+    }
+]

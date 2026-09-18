@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-17T15:06:24.868698+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-17T15:00:00+00:00",
+        "description": "<div id=\"remove_no_follow\">\n\t\t<div class=\"grid grid--cols-10@md grid--cols-8@lg article-column\">\n\t\t\t\t\t  <div class=\"col-12 col-10@md col-6@lg col-start-3@lg\">\n\t\t\t\t\t\t<div class=\"article-column__content\">\n<section class=\"wp-block-bigbite-multi-title\"><div class=\"container\"></div></section>\n\n\n<div id=\"review-body\" class=\"review\"><h4 class=\"review-title\" id=\"at-a-glance\">At a glance</h4><h3 class=\"review-subTitle\" id=\"experts-rating\">Expert's Rating</h3><div class=\"starRating\" style=\"--rating: 3.5\" aria-label=\"Rating of this product is 3.5 out of 5.\" role=\"img\"></div>\n<div><div class=\"review-columns\">\n<div class=\"review-column\"><h3 class=\"review-subTitle\" id=\"pros\">Pros</h3>\n<ul class=\"wp-block-list\">\n<li>Automates a substantial amount of data-broker opt-out work</li>\n\n\n\n<li>Monitors supported sites and can resubmit requests if data reappears </li>\n\n\n\n<li>Provides guided self-service options when automation isn\u2019t possible </li>\n\n\n\n<li>Browser extension expands the number of brokers Aura c",
+        "id": 6400840,
+        "language": "en-US",
+        "link": "https://www.pcworld.com/article/3222946/aura-data-removal-review.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 245,
+        "source_url": "https://www.pcworld.com/index.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://b2c-contenthub.com/wp-content/uploads/2026/08/Aura-data-removal-progress.jpg?quality=50&strip=all&w=1200",
+        "title": "Aura data removal review: It chases data brokers, but needs some minding",
+        "vote": 0
+    }
+]

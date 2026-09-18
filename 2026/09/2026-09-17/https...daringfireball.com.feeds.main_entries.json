@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Gruber",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-17T15:04:22.746124+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-17T14:41:53+00:00",
+        "description": "<p>Joe Rossignol at MacRumors over the weekend:</p>\n\n<blockquote>\n  <p>Apple now says the iPhone 18 Pro has a C2 modem worldwide, while\nthe iPhone 18 Pro Max uses the chip in every country except for\nthe U.S. [...]</p>\n\n<p>Apple has yet to provide an explanation for this modem difference,\nso we can only speculate for now. In 2023, <a href=\"https://investor.qualcomm.com/news-events/press-releases/news-details/2023/Qualcomm-Announces-Agreement-with-Apple-for-Chip-Supply-09-11-2023/default.aspx\">Qualcomm announced</a>\nthat it would supply Apple with smartphone modems through 2026, so\nperhaps Apple is equipping the U.S. version of the iPhone 18 Pro\nMax with a Qualcomm modem in order to honor this agreement in a\nminimum way.</p>\n\n<p>Apple\u2019s C2 modem supports ultra-fast mmWave 5G in the U.S., unlike\nits previous-generation C1 and C1X modems. Qualcomm modems in the\niPhone 12 and newer already supported mmWave 5G in the U.S., so\nApple is playing catch up here. Apple said the C2 delivers\n\u201cmean",
+        "id": 6400830,
+        "language": "",
+        "link": "https://www.macrumors.com/2026/09/12/iphone-18-pro-max-us-model-difference",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 489,
+        "source_url": "https://daringfireball.com/feeds/main",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Why Do U.S. Models of the iPhone 18 Pro Max, and Only U.S. Models of the 18 Pro Max, Use Qualcomm Cellular Modems Instead of Apple\u2019s Own Superior C2 Modem?",
+        "vote": 0
+    }
+]
