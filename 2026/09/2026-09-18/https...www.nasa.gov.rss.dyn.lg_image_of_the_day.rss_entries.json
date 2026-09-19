@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-18T16:43:24.674046+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-18T15:46:00+00:00",
+        "description": "UC Berkeley engineers and managers watch as the COSI (Compton Spectrometer and Imager) detector assembly is slowly raised from a table in this July 8, 2026, image.",
+        "id": 6408906,
+        "language": "en-us",
+        "link": "https://www.nasa.gov/image-detail/cosi-2026july-01",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 485,
+        "source_url": "https://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "COSI Telescope Comes Together",
+        "vote": 0
+    }
+]

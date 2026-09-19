@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Lunduke Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-18T17:37:27.704901+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-18T16:35:26+00:00",
+        "description": "For most modern Kernel releases, over 80% of commits come from people paid to do the work.\n\nMore from The Lunduke Journal:\nhttps://lunduke.com/",
+        "id": 6409230,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Pg4nfioR9xQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 616,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkK9UDm_ZNrq_rIXCz3xCGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/Pg4nfioR9xQ/hqdefault.jpg",
+        "title": "\"Linux is Built by Volunteers\" is a Myth",
+        "vote": 0
+    }
+]

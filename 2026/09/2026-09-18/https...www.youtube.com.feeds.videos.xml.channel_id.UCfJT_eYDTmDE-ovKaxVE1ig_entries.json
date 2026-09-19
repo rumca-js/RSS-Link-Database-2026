@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kevin Stratvert",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-18T08:18:27.535377+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-18T07:00:30+00:00",
+        "description": "In this video, you'll see how to build and deploy a working AI agent using Claude Code and UiPath Coding Agents \u2014 where you describe what you want in plain English, Claude Code writes the agent using UiPath's patterns, and UiPath handles the deployment and orchestration. \u2728 Get started with UiPath for free: https://www.uipath.com/product/free-trials-and-downloads\n\nYou'll learn how to:\n\u2022 Install Claude Code and UiPath's CLI and connect them so Claude knows UiPath's patterns before it writes a single line\n\u2022 Describe your agent's behavior in plain language and let Claude Code build it for you\n\u2022 Watch Claude Code catch and fix its own mistakes in real time \u2014 no manual debugging\n\u2022 Test your agent locally by sending it a support ticket and reading the response\n\u2022 Push your finished agent to UiPath's platform with one command\n\nClaude Code + UiPath Coding Agents is one of the fastest ways to go from an idea to a deployed, governed automation without writing the agent logic yourself. You describ",
+        "id": 6405846,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=TSLQyhYUSLE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 958,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfJT_eYDTmDE-ovKaxVE1ig",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/TSLQyhYUSLE/hqdefault.jpg",
+        "title": "How to Build UiPath Coding Agents with Claude Code",
+        "vote": 0
+    }
+]

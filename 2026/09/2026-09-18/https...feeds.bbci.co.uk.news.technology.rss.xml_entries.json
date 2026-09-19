@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-18T23:25:17.784563+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-18T23:15:10+00:00",
+        "description": "As Australia considers barring the use of smart glasses in government offices, the BBC asks people in Sydney what they think.",
+        "id": 6411245,
+        "language": "en-US",
+        "link": "https://www.bbc.co.uk/news/videos/cm9w4nenzv4no",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 28,
+        "source_url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c6e5/live/6cb55ee0-b32a-11f1-a430-4d16ee157c41.jpg",
+        "title": "Would Australians support a smart glasses ban?",
+        "vote": 0
+    }
+]

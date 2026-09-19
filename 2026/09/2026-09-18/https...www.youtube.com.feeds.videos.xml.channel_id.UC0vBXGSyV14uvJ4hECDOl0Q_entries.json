@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Techquickie",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-19T00:22:15.065531+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-18T23:13:09+00:00",
+        "description": "Thanks to Micro Center for sponsoring this video! Check them out below:\n\nShop Build. Upgrade. Save. Event: https://micro.center/5364b3\nShop Micro Center\u2019s Clearance Event: https://micro.center/636245\nSign Up for a FREE 128 gig Flash Drive at Micro Center\u2019s Austin location: https://micro.center/c4413a\n\nVisit Micro Center News: https://micro.center/0aac38\n\nWhen you talk to AI it can feel like there's a real person talking back to you, but it's actually a computer program known as A Large Language Model. In this video, we break down how these models work at a very high level.\nHuge thanks to Colin Kealty, Senior Machine Learning Engineer at Red Hat for helping with this video - https://huggingface.co/bartowski\n\nWant to go deeper? Utkarsh J. at LTT Labs wrote a truly amazing series on the topic:\n\n- LLM Quantization Part 1: What Even is an LLM? - https://www.lttlabs.com/articles/2026/06/19/llm-quantization-part-1-what-even-is-an-llm\n\n- Part 2: You're Gonna Need a Bigger VRAM - https://www.l",
+        "id": 6411463,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=XQNhCU17ipM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 329,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC0vBXGSyV14uvJ4hECDOl0Q",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/XQNhCU17ipM/hqdefault.jpg",
+        "title": "How Do LLMs Think?",
+        "vote": 0
+    }
+]

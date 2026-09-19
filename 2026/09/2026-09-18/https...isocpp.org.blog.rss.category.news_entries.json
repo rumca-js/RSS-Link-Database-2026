@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mateusz Pusz",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-18T20:37:14.329755+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-18T19:38:59+00:00",
+        "description": "<p>\n\tTwo half-day live online classes on topics experienced C++ engineers most often ask to revisit, plus an open vote that decides the subject of the next full-length online cohort.</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://train-it.eu/online-training\">Live online C++ masterclasses and open cohorts</a></h3>\n\t<p>\n\t\tby Mateusz Pusz</p>\n</blockquote>\n<p>\n\tThe details:</p>\n<blockquote>\n\t<ul>\n\t\t<li>\n\t\t\t<a href=\"https://train-it.eu/online-training#move-semantics-forwarding-references\">Move Semantics and Forwarding References</a>, Sunday 4 October 2026, 15:00 to 19:00 CEST. Value categories, move semantics, forwarding references, reference qualifiers, and the pitfalls around them.</li>\n\t\t<li>\n\t\t\t<a href=\"https://train-it.eu/online-training#name-lookup-overload-resolution-cpos\">Name Lookup, Overload Resolution, and Customization Points</a>, Sunday 6 December 2026, 15:00 to 19:00 CET. ADL, hidden friends, and the rules that decide which overload wins.</li>\n\t\t<li>\n\t\t\tBoth run four hours live f",
+        "id": 6410358,
+        "language": "en",
+        "link": "https://isocpp.org//blog/2026/09/two-half-day-cpp-masterclasses-and-an-open-vote-on-the-next-online-cohort-m",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Two half-day C++ masterclasses, and an open vote on the next online cohort -- Mateusz Pusz",
+        "vote": 0
+    }
+]

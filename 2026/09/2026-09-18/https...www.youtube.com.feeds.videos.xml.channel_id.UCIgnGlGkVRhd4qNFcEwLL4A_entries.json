@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "AI Search",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-18T07:55:53.175652+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-18T03:24:05+00:00",
+        "description": "Deepseek V4.1 Flash explained #ai #llm #ainews #agi #singularity Thanks to our sponsor Luma. Try it today https://lumalabs.ai/aisearch-sep3\n\nDeepseek V4.1 Flash tech report https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash/blob/main/DeepSeek_V41_Tech_Report.pdf\n\nAlso see:\nHow AI models work: https://youtu.be/U2hZFMVNSE0\nDSpark https://youtu.be/J0D7qV3nl7w \nDeepseek V4 explained https://youtu.be/XJUpuOBpT-4 \n\n00:00 Deepseek V4.1 intro\n00:44 The situation\n01:28 Prefill vs decode\n03:20 The problem\n06:28 Causal encoder decoder\n08:58 Global vs local cache\n09:33 Sliding window attention\n11:33 Luma\n13:00 Insane cache compression\n14:28 CSA2\n16:50 Hierarchical sparse indexer\n18:20 Local memory problem\n19:46 SWA bounded replay\n22:30 Single pass mHC\n23:48 Engram\n25:16 DSpark\n26:56 They flattened the curve\n28:15 Frontier performance\n29:33 Summary \n\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSupport: https://ko-fi.com/aisearch\n\nHere's my equipment, ",
+        "id": 6405766,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=MImgH4KMtj8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 806,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIgnGlGkVRhd4qNFcEwLL4A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/MImgH4KMtj8/hqdefault.jpg",
+        "title": "Deepseek just did the impossible",
+        "vote": 0
+    }
+]

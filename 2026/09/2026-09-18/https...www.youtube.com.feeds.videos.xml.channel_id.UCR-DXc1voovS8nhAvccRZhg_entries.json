@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeff Geerling",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-18T14:54:59.087791+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-18T14:00:14+00:00",
+        "description": "I thought I had the best time. Then someone brought over a cesium atomic clock, and I wasn't sure.\n\nSegal's law: \"A man with a watch knows what time it is. A man with two watches is never sure.\"\n\nSome of the things I mentioned in the video:\n\n  - VCF Midwest: https://vcfmw.org\n  - ShadyTel: https://shady.tel\n  - Meinberg GPS Antenna: https://www.meinbergglobal.com/english/products/gps-antenna-converter.htm\n  - Pumping Station One: https://pumpingstationone.org\n  - Tattler Solutions WOPR rackmount display: https://tattlersolutions.com/wopr/\n  - Duchtronix AVR Scope Clock: http://www.dutchtronix.com/ScopeClockH3-1-Enhanced.htm\n  - My TrueTime Pi configuration: https://www.jeffgeerling.com/blog/2026/truetime-xl-gps-time-server-restomod/\n  - MacMesh: https://macmesh.xyzzy.computer\n  - Mr. Macintosh: https://www.youtube.com/c/MrMacintoshBlog\n  - L2J video on the Prototype Apple Network Server 300: https://www.youtube.com/watch?v=tupEO0mrf0c\n  - Quadra 800 MiSTer FPGA core: https://github.co",
+        "id": 6408143,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=oW-Hp8-DAB0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 161,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR-DXc1voovS8nhAvccRZhg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/oW-Hp8-DAB0/hqdefault.jpg",
+        "title": "I found an atomic clock at the world's largest vintage computer show",
+        "vote": 0
+    }
+]

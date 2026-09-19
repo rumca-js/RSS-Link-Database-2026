@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/recon_demon1859",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-18T18:59:50.261557+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-18T17:22:41+00:00",
+        "description": "<table> <tr><td> <a href=\"https://www.reddit.com/r/developer/comments/1wjwg9i/what_i_think_separates_responsible_aiassisted/\"> <img src=\"https://preview.redd.it/fevj4dh1cbqh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=b6cfa17dfa279e0e6c38ea90c7410772fa103600\" alt=\"What I think separates responsible AI-assisted development from \u201cvibe coding\u201d\" title=\"What I think separates responsible AI-assisted development from \u201cvibe coding\u201d\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>The term gets thrown around so broadly that it can turn into a debate about the tool instead of the work.</p> <p>For me, using AI is not the problem. Replacing understanding with AI is.</p> <p>I am comfortable using it to explore options, generate boilerplate, refactor code, or help write tests. But before I ship anything, I still need to understand the system well enough to review the change, test the edge cases, debug a failure, and explain the trade-offs.</p> <p>If I cannot do that, I have not finished ",
+        "id": 6409798,
+        "language": "en",
+        "link": "https://www.reddit.com/r/developer/comments/1wjwg9i/what_i_think_separates_responsible_aiassisted",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 508,
+        "source_url": "https://www.reddit.com/r/developer/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://preview.redd.it/fevj4dh1cbqh1.png?width=640&crop=smart&auto=webp&s=b6cfa17dfa279e0e6c38ea90c7410772fa103600",
+        "title": "What I think separates responsible AI-assisted development from \u201cvibe coding\u201d",
+        "vote": 0
+    }
+]

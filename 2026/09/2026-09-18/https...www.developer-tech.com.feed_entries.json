@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ryan Daws",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-18T16:16:24.725744+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-18T16:14:56+00:00",
+        "description": "<p>Google\u2019s Android Bench 2.0 evaluates frontier AI models on multi-day coding tasks to determine how well agents handle complex engineering. The new benchmark aligns its testing structure with the Harbor framework. Instead of grading simple bug patches, the system introduces long-horizon tasks that require multiple days or an entire week of human engineering labour. Assignments [&#8230;]</p>\n<p>The post <a href=\"https://www.developer-tech.com/news/googles-android-bench-2-0-tests-ai-models-complex-tasks/\">Google\u2019s Android Bench 2.0 tests AI models on complex tasks</a> appeared first on <a href=\"https://www.developer-tech.com\">Developer Tech News</a>.</p>",
+        "id": 6408705,
+        "language": "en-GB",
+        "link": "https://www.developer-tech.com/news/googles-android-bench-2-0-tests-ai-models-complex-tasks",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 92,
+        "source_url": "https://www.developer-tech.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Google\u2019s Android Bench 2.0 tests AI models on complex tasks",
+        "vote": 0
+    }
+]

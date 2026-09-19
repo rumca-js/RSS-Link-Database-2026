@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-18T12:14:20.486758+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-18T12:00:00+00:00",
+        "description": "<div id=\"remove_no_follow\">\n\t\t<div class=\"grid grid--cols-10@md grid--cols-8@lg article-column\">\n\t\t\t\t\t  <div class=\"col-12 col-10@md col-6@lg col-start-3@lg\">\n\t\t\t\t\t\t<div class=\"article-column__content\">\n<section class=\"wp-block-bigbite-multi-title\"><div class=\"container\"></div></section>\n\n\n\n<p class=\"wp-block-paragraph\">One of the best \u2014 and most beloved \u2014 ways to make ChatGPT your own is quietly being put out to pasture.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Custom GPTs, which let you create a customized version of ChatGPT with its own instructions and files, and even its own name, will soon be \u201cretired,\u201d according to a <a href=\"https://help.openai.com/en/articles/20001519-custom-gpt-retirement-and-migration-faq\">recently updated ChatGPT support page</a>.</p>\n\n\n\n<p class=\"wp-block-paragraph\">These customized GPTs come in many shapes and sizes, with some dedicated to scholarly research while others are designed to be expert programmers. Some ChatGPT users (like me) created GPTs that sp",
+        "id": 6407109,
+        "language": "en-US",
+        "link": "https://www.pcworld.com/article/3238025/custom-gpts-in-chatgpt-are-going-away-heres-how-to-save-yours.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 245,
+        "source_url": "https://www.pcworld.com/index.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Custom GPTs in ChatGPT are going away. Here\u2019s how to save yours",
+        "vote": 0
+    }
+]

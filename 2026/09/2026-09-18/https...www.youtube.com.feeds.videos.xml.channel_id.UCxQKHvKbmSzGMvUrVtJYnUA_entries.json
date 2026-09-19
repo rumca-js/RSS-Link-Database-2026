@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Learn Linux TV",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-18T20:29:34.789864+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-18T17:11:52+00:00",
+        "description": "*Check out my Troubleshooting eBook* \u279c https://learnlinux.link/troubleshooting-ebook\n\nISO files have been the standard way to download and install Linux distributions for decades\u2014but is it time for Linux to move on? In this video, I make the case that Linux ISO files should be replaced by IMG disk images, especially now that most people install Linux using bootable USB drives rather than CDs or DVDs.\n\n*\ud83d\udcda Discounts, Courses, Books, and More! (Support Linux Learning)*\n- 10% Off Linux Swag! \u279c https://learnlinux.link/swag\n- Get the \"Linux Pro-Tips\" Newsletter \u279c https://learnlinux.link/linux-tips\n- Grab Jay's *ACTUAL* Dotfiles! \u279c https://learnlinux.link/linux-tips\n- Switching to Linux Book (15% Off!) \u279c https://learnlinux.link/switch-to-linux\n- Linode Starter Credit \u279c https://learnlinux.link/linode\n- eBook Bundle \u279c https://learnlinux.link/ebook-bundle\n- Ansible Course \u279c https://learnlinux.link/ansible\n- Linux Essentials Course \u279c https://learnlinux.link/linux-essentials\n- Paid Assistance \u279c h",
+        "id": 6410309,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=WAoTKRJ6PNY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 997,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxQKHvKbmSzGMvUrVtJYnUA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/WAoTKRJ6PNY/hqdefault.jpg",
+        "title": "ISO Files Need to Go - There\u2019s a Better Way",
+        "vote": 0
+    }
+]
