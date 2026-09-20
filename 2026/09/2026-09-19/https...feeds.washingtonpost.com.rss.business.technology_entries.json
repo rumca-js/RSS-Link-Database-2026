@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Gerrit De Vynck",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-19T00:27:56.455097+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-19T00:12:55+00:00",
+        "description": "The incursions came during tests of its cybersecurity skills \u2014 similar to other incidents disclosed by OpenAI, Anthropic and Meta.",
+        "id": 6411474,
+        "language": "en-US",
+        "link": "https://www.washingtonpost.com/technology/2026/09/18/google-gemini-ai-hacked-into-other-companies-during-internal-testing",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 364,
+        "source_url": "https://feeds.washingtonpost.com/rss/business/technology",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Google\u2019s Gemini AI hacked into other companies, adding to \u2018rogue\u2019 AI incidents",
+        "vote": 0
+    }
+]

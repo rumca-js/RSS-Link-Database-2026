@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Nancy Shute",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-19T13:05:35.706327+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-19T12:00:00+00:00",
+        "description": "Editor in Chief Nancy Shute discusses existential threats to humankind: extreme heat, never-ending drought and a plan to provide Earth with sunlight on demand.",
+        "id": 6413601,
+        "language": "en-US",
+        "link": "https://www.sciencenews.org/article/surviving-summer-ed-note-october-2026",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 295,
+        "source_url": "https://www.sciencenews.org/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Surviving the summer",
+        "vote": 0
+    }
+]

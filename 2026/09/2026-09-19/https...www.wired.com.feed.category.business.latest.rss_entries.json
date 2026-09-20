@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "WIRED Staff",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-19T09:22:53.628014+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-19T09:00:00+00:00",
+        "description": "For one day only, WIRED is bringing the technologies, people, and cultural forces transforming our world off the page and into real life.",
+        "id": 6412834,
+        "language": "en-US",
+        "link": "https://www.wired.com/story/join-the-wired-world-fair-in-miami-on-november-4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 396,
+        "source_url": "https://www.wired.com/feed/category/business/latest/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media.wired.com/photos/6aad7180245943a17ceca34d/master/pass/WWF_2026_META__1080x1350_Phase%202.jpg",
+        "title": "Join the WIRED World Fair in Miami on November 4",
+        "vote": 0
+    }
+]

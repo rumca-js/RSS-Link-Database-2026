@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ACCU Conference",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-19T14:22:23.485669+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-19T12:00:30+00:00",
+        "description": "ACCU Membership: https://tinyurl.com/ydnfkcyn\n---\n\nDemystifying C++ initializer_list - Design, Behavior, and Best Practices - Prithvi Okade & Chandranath Bhattacharyya - ACCU on Sea 2026\n---\n\nstd::initializer_list is a useful tool in modern C++, yet its behavior often surprises even seasoned developers. This session provides a comprehensive exploration of its internal mechanics, from code transformation to the underlying structure of the backing array. We will navigate the complexities of overload resolution, performance issues in STL containers, and the technical reasons behind the copy-only constraint. Attendees will learn to distinguish between uniform initialization and list-initialization while identifying optimal use cases for compile-time data structures. The session also highlights common pitfalls, subtle compilation failures, and safe usage patterns. Finally, we look ahead to C++26 improvements, such as span-based construction and static backing storage. \n\nSlides: https://git",
+        "id": 6413954,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=NuJcFNbrdIg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 421,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJhay24LTpO1s4bIZxuIqKw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/NuJcFNbrdIg/hqdefault.jpg",
+        "title": "Demystifying C++ initializer_list - Design, Behavior, and Best Practices for C++ - ACCU on Sea 2026",
+        "vote": 0
+    }
+]

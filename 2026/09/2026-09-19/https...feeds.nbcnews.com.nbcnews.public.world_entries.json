@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-19T01:51:44.113258+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-19T01:18:22+00:00",
+        "description": "Three students were killed in a school shooting in the southern Philippines, including a 16-year-old suspected gunman who turned the gun on himself, provincial officials said. NBC News' Matt Bodner has the details.",
+        "id": 6411735,
+        "language": "en-US",
+        "link": "https://www.nbcnews.com/video/multiple-dead-including-gunman-in-school-shooting-in-the-philippines-270142021993",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 224,
+        "source_url": "https://feeds.nbcnews.com/nbcnews/public/world",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_09/1789780697967_now_staytuned_school_shooting_philippines_260918_S3_1920x1080-u3vsu6.jpg",
+        "title": "Multiple dead, including gunman, in school shooting in the Philippines",
+        "vote": 0
+    }
+]

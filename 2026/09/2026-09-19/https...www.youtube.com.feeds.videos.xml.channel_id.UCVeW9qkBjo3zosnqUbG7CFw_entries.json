@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Hammond",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-19T16:38:48.371796+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-19T14:01:55+00:00",
+        "description": "I was digging through TeamPCP and following a bunch of OSINT rabbit holes to see how all these different pieces connected.\n\nThe DeadCat X3 handle led to a HackerOne account, a Hugging Face profile, Telegram activity, and other accounts. The same name and profile picture showing up across those places made the connections a lot more interesting.\n\nFull video: https://youtu.be/nj9e2Qfe3Cc?si=cLcEZFbj75Rqa7R1",
+        "id": 6414481,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/kWKEMu-AGN4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 959,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVeW9qkBjo3zosnqUbG7CFw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/kWKEMu-AGN4/hqdefault.jpg",
+        "title": "Tracking TeamPCP",
+        "vote": 0
+    }
+]
