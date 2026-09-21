@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-20T22:43:33.236685+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-20T17:30:00+00:00",
+        "description": "A few years back we saw the merger of the Wayland Global shortcuts portal and now we're seeing the merger of a new Wayland shortcuts protocol, and whilst some desktops have adopted it, others aren't even thinking of touching it.\n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\nWayland Merger: https://gitlab.freedesktop.org/wayland/wayland-protocols/-/merge_requests/525\nOBS Discussion: https://github.com/obsproject/obs-studio/pull/13661\nPortal Discussion: https://github.com/flatpak/xdg-desktop-portal/issues/2142\nLivesplit: https://github.com/LiveSplit/livesplit-core/pull/957\n\n=========Video Platforms==========\n\ud83c\udfa5 React: https://www.youtube.com/@BrodieRobertsonReacts\n\ud83c\udfa5 Podcast: https://techovertea.xyz/youtube\n\ud83c\udfae Gaming: https://brodierobertson.xyz/gaming\n\n==========Social Me",
+        "id": 6420216,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=t1LaLW7wabk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/t1LaLW7wabk/hqdefault.jpg",
+        "title": "Wayland Global Shortcuts Takes Another Big Step",
+        "vote": 0
+    }
+]

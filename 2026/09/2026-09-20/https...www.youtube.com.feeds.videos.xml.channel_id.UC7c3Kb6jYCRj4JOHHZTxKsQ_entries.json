@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "GitHub",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-20T19:58:39.953589+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-20T15:00:33+00:00",
+        "description": "Want to get more consistent results from your AI coding agents? In this GitHub Copilot Day session, Matt Pocock walks through his popular open-source collection of Agent Skills. Learn how skills like \"Grill with Docs\", Dexter Horthy\u2019s \"Show Me\", and \"Code Review\" help align agents before implementation, generate visual pull requests, and catch architecture issues early.\n\n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac WANT TO LEARN MORE? \ud83d\ude80  \u25ac\u25ac\u25ac\u25ac\u25ac\u25ac \n\nMatt Pocock\u2019s \u201cAI Skills for Real Engineers\u201d https://github.com/mattpocock/skills \nGet hands-on with the Copilot app https://gh.io/ghcpdaycopilotapp \nCheck out Copilot app resources  https://gh.io/ghcpdaycopilotappresources \n\n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac  TIMESTAMPS \u231a  \u25ac\u25ac\u25ac\u25ac\u25ac\u25ac \n\n0:00 Intro: the skills repo\n0:48 Grill with Docs: aligning with the agent\n1:32 Real work in the course video manager\n2:16 Grilling issue 1612 live\n3:23 Reaching shared understanding faster\n4:33 The resulting pull request\n5:40 The \"Show Me\" skill for visual PRs\n7:11 Making PRs worth a human's time\n8:01 The Code Review skill in a",
+        "id": 6419651,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=9yPyoxlyc5Q",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 1005,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7c3Kb6jYCRj4JOHHZTxKsQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/9yPyoxlyc5Q/hqdefault.jpg",
+        "title": "25 agent skills to improve your workflow in GitHub Copilot | Matt Pocock | GitHub Copilot Day",
+        "vote": 0
+    }
+]

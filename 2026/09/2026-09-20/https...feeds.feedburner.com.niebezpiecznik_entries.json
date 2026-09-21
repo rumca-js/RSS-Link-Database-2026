@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "redakcja",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-20T20:25:57.098780+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-20T19:14:10+00:00",
+        "description": "<p>GPT-6 Astra odczyta\u0142a dwa niemieckie melduneki radiowe z 1918 roku, kt\u00f3rych przez ponad 100 lat nikomu nie uda\u0142o si\u0119 odszyfrowa\u0107. Media ju\u017c krzycz\u0105 o &#8220;z\u0142amaniu kodu&#8221; przez AI, ale prawda jest taka, \u017ce klucze szyfrowania by\u0142y doskonale znane &#8212; problem z depeszami le\u017ca\u0142 zupe\u0142nie gdzie indziej&#8230; Oba odszyfrowane meldunki znajdowa\u0142y si\u0119 na li\u015bcie &#8220;50 najwa\u017cniejszych nieodczytanych szyfrogram\u00f3w&#8221; prowadzonej przez Klausa Schmeha a na warsztat wzi\u0105\u0142 je programista o nicku <a href=\"https://x.com/deredleritt3r/status/2101308530640752762\" target=\"_blank\">prinz</a><span id=\"more-27361\"></span></p>\n<h3>Pierwszy meldunek (Szyfr ADFGVX)</h3>\n<p>Pierwszy z niemieckich meldunk\u00f3w radiowych odczytanych przez model OpenAI zosta\u0142 nadany 27 listopada 1918 roku i by\u0142 zaszyfrowany metod\u0105 <span class=\"code\">ADFGVX</span>.</p>\n<div class=\"info\">ADFGVX to niemiecki szyfr polowy wprowadzony w czerwcu 1918 roku. Litery i cyfry zamieniano w nim na pary symboli ze zbioru A, D,",
+        "id": 6419718,
+        "language": "pl-PL",
+        "link": "https://niebezpiecznik.pl/post/ai-rozgryzlo-zaszyfrowane-depesze-nad-ktorymi-ludzie-bezskutecznie-pracowali-108-lat",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 239,
+        "source_url": "https://feeds.feedburner.com/niebezpiecznik",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://niebezpiecznik.pl/wp-content/uploads/2026/09/adfgvx-astra-g-150x150.jpg",
+        "title": "AI rozgryz\u0142o zaszyfrowane depesze, nad kt\u00f3rymi ludzie bezskutecznie pracowali 108 lat",
+        "vote": 0
+    }
+]

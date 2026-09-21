@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Linus Tech Tips",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-20T20:35:45.270612+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-20T17:00:04+00:00",
+        "description": "Can a Robot do the same thing Linus can?\n\nStay tuned for more PrimeBot coverage coming soon!",
+        "id": 6419749,
+        "language": "en-US",
+        "link": "https://www.youtube.com/shorts/SuIhqDP2VHw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 194,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXuqSBlHAE6Xw-yeJA0Tunw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/SuIhqDP2VHw/hqdefault.jpg",
+        "title": "Linus vs Robot",
+        "vote": 0
+    }
+]

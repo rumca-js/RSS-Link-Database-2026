@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mateusz Pusz",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-20T21:13:33.265818+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-20T19:41:01+00:00",
+        "description": "<p>\n\tA live, half-day, hands-on workshop on encoding the meaning of firmware values into the type system, so unit mixups, argument swaps, and out-of-range configuration become compile errors rather than field failures.</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://train-it.eu/announcements/building-safer-firmware-packt-2026\">Building Safer Firmware in Modern C++, a live workshop with Packt</a></h3>\n\t<p>\n\t\tby Mateusz Pusz</p>\n</blockquote>\n<p>\n\tThe details:</p>\n<blockquote>\n\t<ul>\n\t\t<li>\n\t\t\tWednesday 30 September 2026, 15:00 to 19:30 CEST (09:00 to 13:30 EDT), live online, hosted by Packt.</li>\n\t\t<li>\n\t\t\tStrong types and physical quantities with <a href=\"https://github.com/mpusz/mp-units\">mp-units</a> turn unit, bounds, and interface mistakes into compile errors. The generated assembly is then read to confirm the safety costs nothing at runtime.</li>\n\t\t<li>\n\t\t\tEverything runs in the browser on Compiler Explorer, so there is nothing to install.</li>\n\t\t<li>\n\t\t\t<a href=\"https://www.eventbrite.",
+        "id": 6419866,
+        "language": "en",
+        "link": "https://isocpp.org//blog/2026/09/hands-on-workshop-on-september-30-building-safer-firmware-in-modern-cpp-mat",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Hands-on workshop on September 30: Building Safer Firmware in Modern C++ -- Mateusz Pusz",
+        "vote": 0
+    }
+]
