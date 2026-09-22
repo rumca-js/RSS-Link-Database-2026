@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Learn Linux TV",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-22T01:01:23.090661+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-21T18:13:30+00:00",
+        "description": "*Grab your expert guide here* \u279c https://learnlinux.link/ditch-windows\n\nWindows updates keep breaking things - remote desktop, USB audio, shared folders, Outlook. If you're tired of wondering what the next update will break, Linux is a real option. My book Switching to Linux walks you through choosing a distro, testing before you commit, installing, finding software, getting hardware working, and living with it day to day.\n\n#Linux #SwitchToLinux #WindowsUpdate",
+        "id": 6427575,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/5KVHLRi67Ls",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 997,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxQKHvKbmSzGMvUrVtJYnUA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/5KVHLRi67Ls/hqdefault.jpg",
+        "title": "Tired of Windows Updates Breaking Things? Switch to Linux!",
+        "vote": 0
+    }
+]

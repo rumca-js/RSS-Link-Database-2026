@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Chris Titus Tech",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-21T19:17:57.207883+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-21T17:45:15+00:00",
+        "description": null,
+        "id": 6425885,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=GIl8Al8fmtk",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 444,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCg6gPGh8HU2U01vaFCAsvmQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/GIl8Al8fmtk/hqdefault.jpg",
+        "title": "\ud83d\udd34 AI Doom, Winutil and New Linux Desktop Environment",
+        "vote": 0
+    }
+]

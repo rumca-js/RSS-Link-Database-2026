@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jake Baldino",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-22T00:23:30.460982+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-21T23:17:07+00:00",
+        "description": "The Resident Evil movie is both awesome and complicated for me. Let's talk about what works so well and what stumbles.",
+        "id": 6427487,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=8V85h6SPsk8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 608,
+        "source_url": "https://www.youtube.com/channel/UC7s6t5KCNwRkb7U_3-E1Tpw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/8V85h6SPsk8/hqdefault.jpg",
+        "title": "is it really a Resident Evil movie?",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ryan Daws",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-21T16:26:30.794048+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-21T16:21:20+00:00",
+        "description": "<p>SpaceXAI has released Grok 4.7, targeting coding and professional knowledge work at half the operating cost of rival systems. The deployment matches the execution speed and API pricing of its direct predecessor, Grok 4.6, billing developers at $2 per million input tokens and $6 per million output tokens. For latency-sensitive production environments, SpaceXAI provides an [&#8230;]</p>\n<p>The post <a href=\"https://www.developer-tech.com/news/spacexai-grok-4-7-coding-reduced-token-cost/\">SpaceXAI Grok 4.7 targets coding at reduced token cost</a> appeared first on <a href=\"https://www.developer-tech.com\">Developer Tech News</a>.</p>",
+        "id": 6424774,
+        "language": "en-GB",
+        "link": "https://www.developer-tech.com/news/spacexai-grok-4-7-coding-reduced-token-cost",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 92,
+        "source_url": "https://www.developer-tech.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "SpaceXAI Grok 4.7 targets coding at reduced token cost",
+        "vote": 0
+    }
+]

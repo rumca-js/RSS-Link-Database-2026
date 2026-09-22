@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-21T14:23:39.633255+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-21T12:12:42+00:00",
+        "description": "Prepare to pass the Claude Certified Developer - Foundations (CCDV-F) exam. This exam is Anthropic's official hands-on certification for engineers who build, integrate, and ship production-grade applications using Claude APIs, agents, and workflows.\n\nCourse page: https://www.exampro.co/ccdv-f\n\nDeveloped by @ExamProChannel \n\n\u2764\ufe0f Support for this channel comes from our friends at Scrimba \u2013 the coding platform that's reinvented interactive learning: https://scrimba.com/freecodecamp\n\nChapters\n00:00:00  Introduction\n00:06:49  Exam Guide Breakdown\n\n010 Agent Architecture\n00:11:29  Agent Architecture\n00:15:15  Workflow Architecture\n00:17:26  Multi Agent Architecture\n01:06:54  Subagents Improving Task Execution\n\n020 Agent Construction with Claude\n01:10:35  Agent SDK\n01:11:47  Agent SDK Follow Along\n01:17:04  What is a Code Harness\n01:18:19  PreToolUse and PostToolUse Hooks\n01:19:17  PreToolUse and PostToolUse Hooks Follow Along\n01:23:28  Claude Managed Agents Follow Along\n\n030 Agent Patterns a",
+        "id": 6423917,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=C_1QKZAcJjk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/C_1QKZAcJjk/hqdefault.jpg",
+        "title": "Claude Certified Developer Foundations (CCDV-F) Certification Course",
+        "vote": 0
+    }
+]

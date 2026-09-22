@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mateusz Pusz",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-21T18:44:05.050727+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-21T17:42:42+00:00",
+        "description": "<p>\n\tThreads, <code>std::future</code>, callbacks, and coroutines each answer part of asynchronous C++, and none of them compose. This is the opening article of a series on <code>std::execution</code>, the C++26 model for asynchronous, composable, cancellable work: what each earlier tool stops short of, what the new model actually is, and where the series goes from here.</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://train-it.eu/blog/making-sense-of-std-execution\">Making sense of std::execution</a></h3>\n\t<p>\n\t\tby Mateusz Pusz</p>\n</blockquote>\n<p>\n\tFrom the article:</p>\n<blockquote>\n\t<p>\n\t\tAt its core a <strong>sender</strong> is a value that <em>describes</em> work without starting it. You compose senders with algorithms into a pipeline, and the pipeline stays lazy until you explicitly run it.</p>\n\t<p>\n\t\tBecause the whole computation is a value up front, the things that were afterthoughts in every model above, where each step runs, what happens on error, and how the whole thing is cancell",
+        "id": 6425720,
+        "language": "en",
+        "link": "https://isocpp.org//blog/2026/09/making-sense-of-stdexecution-mateusz-pusz",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Making sense of std::execution -- Mateusz Pusz",
+        "vote": 0
+    }
+]

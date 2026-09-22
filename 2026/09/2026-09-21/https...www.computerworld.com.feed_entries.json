@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-21T12:12:01.549198+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-21T11:00:00+00:00",
+        "description": "<div id=\"remove_no_follow\">\n\t\t<div class=\"grid grid--cols-10@md grid--cols-8@lg article-column\">\n\t\t\t\t\t  <div class=\"col-12 col-10@md col-6@lg col-start-3@lg\">\n\t\t\t\t\t\t<div class=\"article-column__content\">\n<section class=\"wp-block-bigbite-multi-title\"><div class=\"container\"></div></section>\n\n\n\n<p class=\"wp-block-paragraph\">It\u2019s the end of a very long era: As of October 2026, Microsoft Publisher, in the company\u2019s words, \u201c<a href=\"https://support.microsoft.com/en-us/publisher/microsoft-publisher-will-no-longer-be-supported-after-october-2026\" target=\"_blank\" rel=\"noreferrer noopener\">will reach its end of life</a>.\u201d That makes it 35 years since the desktop publishing tool was launched back in 1991.</p>\n\n\n\n<p class=\"wp-block-paragraph\">What does reaching end of life mean? That depends on what version of Publisher you use. If you get Publisher as part of Microsoft 365, it truly means the end of the road. After October 1, Publisher will no longer be available to those who use it as part of a ",
+        "id": 6423055,
+        "language": "en-US",
+        "link": "https://www.computerworld.com/article/4224008/microsoft-is-pulling-the-plug-on-publisher-what-now.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 78,
+        "source_url": "https://www.computerworld.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Microsoft is pulling the plug on Publisher. What now?",
+        "vote": 0
+    }
+]

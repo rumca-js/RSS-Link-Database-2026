@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeff Geerling",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-21T17:09:06.144101+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-21T16:37:13+00:00",
+        "description": "It's not just because of the RAM pricing situation.\n\nLinks mentioned in this video:\n\n  - Raspberry Pi EEPROM issue from Oct 2025: https://github.com/raspberrypi/rpi-eeprom/issues/761\n  - Raspberry Pi Forum Post: https://forums.raspberrypi.com/viewtopic.php?t=399212\n  - Hacker News discussion: https://news.ycombinator.com/item?id=49786689\n  - Geekworm guide for determining Factory RAM size: https://geekworm.com/blogs/news/prevent-ram-swapped-raspberry-pi-5-how-to-verify-factory-ram-size\n\nAnd special thanks to a viewer for pointing this out via email in late April! I never got a satisfactory answer about this from Raspberry Pi, but they have some official responses on the forum now, so \u00af\\_(\u30c4)_/\u00af\n\nSupport me on Patreon: https://www.patreon.com/geerlingguy\nSponsor me on GitHub: https://github.com/sponsors/geerlingguy\nMerch: https://www.redshirtjeff.com\n2nd Channel: https://www.youtube.com/@GeerlingEngineering\n3rd Channel: https://www.youtube.com/@Level2Jeff",
+        "id": 6425020,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=ltofM26akZQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 161,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR-DXc1voovS8nhAvccRZhg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/ltofM26akZQ/hqdefault.jpg",
+        "title": "Raspberry Pi locks down RAM upgrades in Firmware",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Branch Education",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-21T14:06:05.148599+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-21T12:30:53+00:00",
+        "description": "Expand your knowledge!  Go to http://brilliant.org/BranchEducation/ for a 30-day free trial and expand your knowledge. Use this link to get a 20% discount on their annual premium membership.\n\nTap to pay, or contactless payment, seems simple: you hold your credit card over the terminal, and a second later the screen says approved. But it's a lot more complicated than that!! The card has no battery or wires, and feels like just a solid piece of plastic. So how does it power up, talk to the terminal, and prove it isn't a fraudulent card \u2014 and all in less than a second!\n\nIn this video, we slow that one second way down and explore the physics and engineering behind wireless payments. We'll show you what's inside the payment terminal and your credit card, explain how a 13.56 MHz magnetic field powers the card, show how the two send data back and forth using amplitude and load modulation, and unpack the cryptography that keeps contactless payments secure. Then we branch out into tap to pay i",
+        "id": 6423795,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=N_6k_jd5pnA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 841,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCdp4_l1vPmpN-gDbUwhaRUQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/N_6k_jd5pnA/hqdefault.jpg",
+        "title": "Tap to Pay - 72x More Complicated Than a Simple Tap! \ud83d\udcb3\ud83d\udce1",
+        "vote": 0
+    }
+]

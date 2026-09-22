@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unreal Engine",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-21T16:19:39.515834+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-21T15:29:19+00:00",
+        "description": "Watch this video to discover how UE5 features such as World Partition and the Gameplay Ability System helped TT Games fulfill their vision for an open world Gotham City in \u2018LEGO Batman: Legacy of the Dark Knight\u2019.\n\nLEGO Batman: Legacy of the Dark Knight gives players the chance to experience the essential Batman story in a bold, action-packed adventure with hard-hitting combat, an expansive Gotham City, and the signature LEGO charm that fans know and love.\n\nWe caught up with Jonathan Smith, Vice President, Product at TT Games to learn all about the project and the role UE5 played in helping the team deliver it: https://epic.gm/dev-interviews-lego-batman-lotdk\n\n#LEGOBatman, #LegacyOfTheDarkKnight, #TTGames, #UnrealEngine, #GameDevelopment, #OpenWorld, #WorldPartition, #GameplayAbilitySystem, #Sequencer, #UE5, #Unreal Insights",
+        "id": 6424726,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=I_3Ua-53JFs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 685,
+        "source_url": "https://youtube.com/channel/UCBobmJyzsJ6Ll7UbfhI4iwQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/I_3Ua-53JFs/hqdefault.jpg",
+        "title": "LEGO Batman: Legacy of the Dark Knight | Game Profile | Unreal Engine",
+        "vote": 0
+    }
+]
