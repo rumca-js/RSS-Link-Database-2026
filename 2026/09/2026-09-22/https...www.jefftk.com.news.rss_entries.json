@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-22T14:12:11.473016+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-22T08:00:00+00:00",
+        "description": "<p><span>\n\nIn </span>\n\n<a href=\"https://defensesindepth.bio/it-may-be-possible-to-improvise-a-high-grade-bioshelter/\">It\nMay Be Possible to Improvise A High Grade Bioshelter</a>, Adin\nRichards discusses the possibility of improvising defenses against an\nenvironmental threat such as \n\n<a href=\"https://www.science.org/doi/10.1126/science.ads9158\">mirror\nbacteria</a>.  He gives an exploratory overview of why it might be\npossible to apply materials and equipment people often already have in\ntheir houses to pressurize all or part of a house with filtered air.\nIt would be great if this were possible, but with all the ways for an\nimprovised system to fail I'm pretty skeptical.\n\n\n\n<p>\n\nI decided to try a simpler version, testing how much I could\npositively pressurize a single room with a relatively powerful HEPA\nair purifier (<a href=\"https://www.amazon.com/dp/B0D9D5L15F\">AirFanta\n3Pro</a>.  This is close to a best case, since most people won't have\nsomething as good as an AirFanta.\n\n</p>\n\n<p",
+        "id": 6431144,
+        "language": "en-US",
+        "link": "https://www.jefftk.com/p/initial-diy-cleanroom-experimentation",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 163,
+        "source_url": "https://www.jefftk.com/news.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.jefftk.com/axial-fan-performance-curve.jpg",
+        "title": "Initial DIY Cleanroom Experimentation",
+        "vote": 0
+    }
+]

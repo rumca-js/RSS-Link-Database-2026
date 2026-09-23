@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Two Minute Papers",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-22T10:16:09.228677+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-22T09:32:13+00:00",
+        "description": "\u2764\ufe0f Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n\ud83d\udcdd Jev:\nhttps://typesafe.ai/blog/introducing-system-one-models-and-jev\n\nFull song: https://www.youtube.com/watch?v=4RtUJkjrKMI\n\nPrevious papers, implementations, models:\nhttps://huggingface.co/convaiinnovations/laya\nhttps://arxiv.org/abs/2503.23303\nhttps://huggingface.co/DeepMostInnovations/sales-conversion-model-reinf-learning\nhttps://huggingface.co/datasets/DeepMostInnovations/saas-sales-conversations\nhttps://arxiv.org/abs/2510.01237\nhttps://huggingface.co/blog/setfit\nhttps://proceedings.iclr.cc/paper_files/paper/2025/hash/5503a7c69d48a2f86fc00b3dc09de686-Abstract-Conference.html\n\nSources:\nhttps://x.com/alexisgallagher/status/2100312082491322873?s=46\nhttps://x.com/tamarajtran/status/2100694549362553153?s=46\nhttps://x.com/maubaron/status/2100738237237002706?s=46\nhttps://x.com/elvissun/status/2100951347080421409?s=46\nhttps://x.com/completeskeptic/status/2099925684256899543?s=46\nhttps://x.com/completeske",
+        "id": 6429689,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=qBBRRsH0rQc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 945,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbfYPyITQ-7l4upoX8nvctg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/qBBRRsH0rQc/hqdefault.jpg",
+        "title": "Jev Just Made AI 200x Faster\u2026But There\u2019s A Catch",
+        "vote": 0
+    }
+]

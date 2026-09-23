@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-22T17:14:04.001064+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-22T15:44:00+00:00",
+        "description": "Using NASA\u2019s Chandra X-ray Observatory, scientists have discovered a new class of objects behaving unlike any they have seen before.",
+        "id": 6432554,
+        "language": "en-us",
+        "link": "https://www.nasa.gov/image-detail/m101-lg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 485,
+        "source_url": "https://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "NASA's Chandra Finds Unusual Objects in Pinwheel Galaxy",
+        "vote": 0
+    }
+]

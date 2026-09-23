@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-22T15:22:34.778270+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-22T15:21:09+00:00",
+        "description": "<div id=\"remove_no_follow\">\n\t\t<div class=\"grid grid--cols-10@md grid--cols-8@lg article-column\">\n\t\t\t\t\t  <div class=\"col-12 col-10@md col-6@lg col-start-3@lg\">\n\t\t\t\t\t\t<div class=\"article-column__content\">\n<section class=\"wp-block-bigbite-multi-title\"><div class=\"container\"></div></section>\n\n\n\n<p class=\"wp-block-paragraph\">The Windows taskbar is a pretty nifty thing, offering a wide range of customization options. You can change its position, size, the buttons displayed, the pinned programs, the appearance of the search box, and much more.</p>\n\n\n\n<p class=\"wp-block-paragraph\">However, if multiple people use the computer, they might adjust those settings to suit their personal preferences. This means the administrator will have to manually restore the taskbar to its default state. That said, you can make some of those settings inaccessible.</p>\n\n\n\n<p class=\"wp-block-paragraph\">There are two ways to do this: you can freeze the current settings or prevent users from making changes to the ta",
+        "id": 6431656,
+        "language": "en-US",
+        "link": "https://www.pcworld.com/article/3234907/lock-down-your-windows-11-taskbar-so-no-one-else-can-change-it.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 245,
+        "source_url": "https://www.pcworld.com/index.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://b2c-contenthub.com/wp-content/uploads/2026/07/pcw8-26-Tipps-Sicherheit-neu_RGBeci.jpg?quality=50&strip=all",
+        "title": "Lock down your Windows 11 taskbar so no one else can change it",
+        "vote": 0
+    }
+]

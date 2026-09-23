@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "AI Search",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-22T09:00:02.540465+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-22T03:26:02+00:00",
+        "description": "Qwen Image 2.1 review & tutorial. How to run Qwen Image 2.1 in ComfyUI. Best free open-source AI image generator. Thanks to our sponsor Luma. Try it today https://lumalabs.ai/aisearch-sep4\n\n#ai #aitools #aiart #imagegenerator #nanobanana #agi \n\nWorkflows and models https://huggingface.co/Comfy-Org/Qwen-Image-2.1\nAnime consistency lora https://huggingface.co/WarmBloodAban/Qwen-Image-2.1-LoRAs \nGGUFs https://huggingface.co/Abiray/Qwen-Image-2.1-GGUF\n\nComfyUI tutorial: https://youtu.be/g74Cq9Ip2ik\nKrea2 tutorial: https://x.com/aisearchio/status/2075660074308313598\nIdeogram4 tutorial: https://youtu.be/OA4gchz1Zcs\nFlux Klein tutorial: https://youtu.be/2OrOufa3eoc\n\nFollow my X for more advanced updates on Qwen Image 2.1 https://x.com/aisearchio\n\n00:00 Qwen Image 2.1 intro\n00:26 Features\n01:18 Editing and references\n03:20 How to install Qwen Image 2.1\n07:00 Text to image \n08:30 Image editing\n10:45 Luma\n12:00 Bg removal\n13:21 Loading loras\n15:40 For low vram\n18:10 License\n\nNewsletter: https:/",
+        "id": 6429254,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=BaE6UBfNdQk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 806,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIgnGlGkVRhd4qNFcEwLL4A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/BaE6UBfNdQk/hqdefault.jpg",
+        "title": "Finally! New best local AI image editor is here",
+        "vote": 0
+    }
+]

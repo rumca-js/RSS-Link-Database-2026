@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Hammond",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-22T15:48:37.242199+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-22T14:02:08+00:00",
+        "description": "Someone I work with gave me a heads-up that they had a big TeamPCP story coming.\n\nThe story was that TeamPCP had been deanonymized, and I ended up going down the rabbit hole to recreate the investigation and follow the public clues that connected the different accounts, aliases, and infrastructure.\n\nFull video: https://youtu.be/nj9e2Qfe3Cc?si=cLcEZFbj75Rqa7R1",
+        "id": 6431892,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/X6-TFqvkgCk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 959,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVeW9qkBjo3zosnqUbG7CFw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/X6-TFqvkgCk/hqdefault.jpg",
+        "title": "TeamPCP OSINT Investigation",
+        "vote": 0
+    }
+]

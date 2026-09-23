@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Katie Washabaugh",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-22T14:05:18.945276+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-22T12:00:41+00:00",
+        "description": "To build and deploy sophisticated robotics applications that can perceive, reason and act in dynamic environments, developers need new physical AI models and tools. The ROS open framework is a project from Open Robotics that helps humans build robots. NVIDIA Isaac ROS 5.0 \u2014 a collection of GPU-accelerated packages built on ROS, released today at [&#8230;]",
+        "id": 6431078,
+        "language": "en-US",
+        "link": "https://blogs.nvidia.com/blog/isaac-ros-5-0-agentic-open-source-robotics",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 1019,
+        "source_url": "https://feeds.feedburner.com/nvidiablog",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://blogs.nvidia.com/wp-content/uploads/2026/09/robotics-blog-corp-blog-ROSCon26-1920x1080-1-842x450.jpeg",
+        "title": "NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development",
+        "vote": 0
+    }
+]

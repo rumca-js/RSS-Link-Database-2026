@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Khan Academy",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-22T16:19:39.840078+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-22T14:21:53+00:00",
+        "description": "Electric charge is a scalar quantity and is described as positive or negative. Coulomb\u2019s law describes the electrostatic force between two charged objects as directly proportional to the magnitude of each of the charges and inversely proportional to the square of the distance between the objects. The direction of the electrostatic force depends on the signs of the charges of the interacting objects and is along the line of separation between the objects. Free space has a constant value of electric permittivity that appears in physical relationships.\n\nSections:\n00:00 - What is electric charge?\n01:39 - Positive and negative charge in atoms\n02:30 - The elementary charge\n04:03 - Coulomb\u2019s law\n06:00 - Coulomb\u2019s constant and permittivity\n07:36 - How materials affect electric force\n09:18 - Adding forces from multiple charges\n11:57 - Summary\n\n------------------\n\nKhan Academy is a nonprofit organization with the mission of providing a free, world-class education for anyone, anywhere. Khan Acad",
+        "id": 6432104,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=lU8qZ0UyZUk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 977,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4a-Gbdw7vOaccHmFo40b9g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/lU8qZ0UyZUk/hqdefault.jpg",
+        "title": "Electric charge and electric force | AP Physics | Khan Academy",
+        "vote": 0
+    }
+]
