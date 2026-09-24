@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "iFixit",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-23T18:52:09.134552+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-23T16:00:21+00:00",
+        "description": "Valve's Steam Frame is finally here, and we're tearing it all the way down to see whether Valve brought the repair-friendly design of the Steam Deck to VR.\nInside we find a surprisingly modular headset: a quick-release headstrap, replaceable battery, magnetic lens stacks, expandable microSD storage, a Snapdragon 8 Gen 3, some clever thermal engineering, and a whole lot of infrared hardware for tracking. We also take a closer look at Valve's foveated streaming system and CT scan one of the new Steam Frame controllers to see what's hiding inside.\nNot everything is perfect\u2014the cooling fan is buried deep inside the headset and the battery still relies on adhesive\u2014but compared with many VR headsets we've torn down, Valve has clearly put serviceability near the top of its priority list.\nDisclosure: iFixit partners with Valve to provide parts, tools, and repair guides for Valve hardware, including Steam Frame. Valve had no input on our editorial process and did not review this teardown befor",
+        "id": 6438639,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=vHtnf9LBl9Q",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 996,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHbx9IUW7eCeJsC4sBCTNBA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/vHtnf9LBl9Q/hqdefault.jpg",
+        "title": "Steam Frame Teardown  Valve Did This Right",
+        "vote": 0
+    }
+]

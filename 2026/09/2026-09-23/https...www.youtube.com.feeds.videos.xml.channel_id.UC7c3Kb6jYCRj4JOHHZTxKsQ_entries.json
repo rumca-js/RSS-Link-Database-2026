@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "GitHub",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-23T17:38:23.545546+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-23T15:15:05+00:00",
+        "description": "Development doesn\u2019t happen only in your editor, and it rarely happens alone. Join Meagan to see how Copilot in Teams and Slack lets you work with AI alongside your teammates, right in the conversation. Plus, see how we\u2019re streamlining chat across GitHub.com and the mobile app to bring Copilot to more of your daily development workflow. \n\n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac WANT TO LEARN MORE? \ud83d\ude80  \u25ac\u25ac\u25ac\u25ac\u25ac\u25ac \n\nGet hands-on with the Copilot app https://gh.io/ghcpdaycopilotapp\nCheck out Copilot app resources  https://gh.io/ghcpdaycopilotappresources\nInstall the GitHub Copilot CLI https://gh.io/ghcpdaycopilotcli\n\n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac  TIMESTAMPS \u231a  \u25ac\u25ac\u25ac\u25ac\u25ac\u25ac \n\n0:00 Intro: Copilot across multiple surfaces\n0:25 The fitness booking app\n0:46 Slack code channels and collaborating\n1:34 The Copilot harness powering Slack\n1:56 Continuity across GitHub, mobile, and VS Code\n2:21 Live build: a visual class history\n3:04 Watching the cloud sandbox spin up\n3:28 Session metadata inside Slack\n4:13 Tracking progress and spend on mobile\n5:01 Pre-baked exam",
+        "id": 6437971,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=4xeDfqEsHU4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 1005,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7c3Kb6jYCRj4JOHHZTxKsQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/4xeDfqEsHU4/hqdefault.jpg",
+        "title": "GitHub Copilot everywhere: building code across Slack, Teams, mobile, and VS Code",
+        "vote": 0
+    }
+]

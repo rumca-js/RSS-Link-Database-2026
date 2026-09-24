@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-23T12:25:30.332650+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-23T10:30:04+00:00",
+        "description": "Learn how to supercharge PostgreSQL for time-series data and heavy analytics workloads using the TimescaleDB extension. In this comprehensive course, you will master hypertables, continuous aggregates, and columnar storage by building real-world projects like an AI agent flight recorder and an EV fleet telemetry dashboard.\n\nCreated by @beau \n\n\ud83c\udfd7\ufe0f Tiger Data provided a grant to make this course possible.\n\nGet $1,000 credit on Tiger Cloud to follow along: https://tsdb.co/fcc-learn-tsdb\n\nChapters\n- 0:00:00 Introduction & Database Comparison\n- 0:01:06 Course Overview\n- 0:01:28 Sponsor (Tiger Data & Tigercloud)\n- 0:02:27 What is Time Series Data?\n- 0:04:19 Projects Overview\n- 0:05:24 It's Just PostgreSQL\n- 0:06:54 Example Data Setup\n- 0:10:20 The 20% of SQL You Need\n- 0:19:34 Understanding EXPLAIN & ANALYZE\n- 0:24:59 Pages & Row Storage\n- 0:26:09 MVCC, Dead Rows & Vacuuming\n- 0:29:27 Native Postgres Partitioning vs. TimescaleDB\n- 0:32:42 What is a Hypertable?\n- 0:33:14 Materialized Views & ",
+        "id": 6434001,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=gYTA8nQN030",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/gYTA8nQN030/hqdefault.jpg",
+        "title": "TimescaleDB Course \u2013 PostgreSQL for Time-Series Data",
+        "vote": 0
+    }
+]

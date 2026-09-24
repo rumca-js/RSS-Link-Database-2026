@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "SAMTIME",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-23T18:15:44.456954+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-23T16:30:35+00:00",
+        "description": "Apple\u2019s macOS Golden Gate update is so bad, it looks like Microsoft made it.\n\nARTICLE: https://www.techradar.com/computing/mac-os/never-have-i-experienced-such-a-windows-esque-bug-in-macos-mission-control-is-a-mess-in-macos-27-golden-gate-and-users-are-questioning-apples-testing\n\nGLITCHES\u2026\nNo Space previews: https://www.reddit.com/r/MacOSBeta/comments/1wdtco9/mission_control_completely_broken/\nMission Control buggy: https://www.reddit.com/r/MacOS/comments/1whesx6/mission_control_in_27_golden_gate_is_a_mess/\nMission Control apps dodging the mouse: https://www.reddit.com/r/MacOS/comments/1wlax16/mission_control_expose_is_broken_in_macos_27/\nUpdate boot screen: https://www.reddit.com/r/MacOS/comments/1wgek2q/comment/p9tw67q/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button\nSiri Balls: https://x.com/Leandruhh_main/status/2099738112989524300\nNo right click dock menu: https://www.reddit.com/r/MacOS/comments/1wmwltd/right_clicking_dock_stuff_isnt_workin",
+        "id": 6438294,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=U95posvjDd4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 290,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCd6vEDS3SOhWbXZrxbrf_bw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/U95posvjDd4/hqdefault.jpg",
+        "title": "macOS Golden Gate is a Disaster",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unity",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-23T19:32:50.080371+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-23T16:31:23+00:00",
+        "description": "The official Unity plugin for Claude Code changes how you build in Unity from the terminal.\n\nIn this video, we\u2019ll walk you through how to install the Unity plugin in Claude Code, explore the pipeline architecture, and show it in action with a real Unity project.\n\nWhether you\u2019re building XR experiences, prototyping gameplay, or managing complex scenes, the Unity CLI plugin lets Claude Code read and interact with the Unity Editor directly at runtime, so you spend less time switching contexts, and more time creating.\n\n\ud83d\udd17 Get started: https://on.unity.com/ClaudePlugin\n\n[0:00] Intro\n[0:10] How it works: Unity Editor \u2192 Unity CLI \u2192 Pipeline package\n[0:22] Architecture overview (clients, protocol, pipeline, engine)\n[0:32] Installing the Unity plugin in Claude Code\n[0:46] Demo: Setting up a new Unity project with city assets\n[1:00] Demo: Finding a car prefab from an archived project\n[1:10] Demo: Building a city with skyscrapers\n[1:20] Result: Car driving through the generated city\n[1:30] Demo: ",
+        "id": 6439023,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=NVT8JwUNDSA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 683,
+        "source_url": "https://youtube.com/channel/UCG08EqOAXJk_YXPDsAvReSg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/NVT8JwUNDSA/hqdefault.jpg",
+        "title": "Your guide to the official Unity plugin for Claude Code",
+        "vote": 0
+    }
+]

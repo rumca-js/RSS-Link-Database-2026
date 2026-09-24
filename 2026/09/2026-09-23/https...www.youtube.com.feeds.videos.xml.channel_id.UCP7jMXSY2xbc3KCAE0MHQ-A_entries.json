@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Google DeepMind",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-23T19:28:06.190294+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-23T15:23:38+00:00",
+        "description": "Design entirely new vocal personas from scratch for gaming, immersive audiobooks, or dual-speaker podcasts using natural language prompts - directing every performance line by line with nuanced acting cues, pacing, back channeling, and dialect shifts. \n\nOr, recreate consistent adult vocal profiles from just a 30-second audio sample of your voice or a voice you have the rights to use, backed by built-in consent verification, SynthID watermarking, and C2PA credentials to protect both developers and their vocal talent. \n\nLearn more and start using the our latest Gemini Audio models today: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/\n\n___\n\nSubscribe to our channel https://www.youtube.com/@googledeepmind \nFind us on X https://x.com/GoogleDeepMind\nFollow us on Instagram https://instagram.com/googledeepmind \nAdd us on Linkedin https://www.linkedin.com/company/deepmind/",
+        "id": 6438977,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=FL6mI_Br-mc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 934,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP7jMXSY2xbc3KCAE0MHQ-A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/FL6mI_Br-mc/hqdefault.jpg",
+        "title": "Create your own voices with Gemini 3.8 text-to-speech",
+        "vote": 0
+    }
+]

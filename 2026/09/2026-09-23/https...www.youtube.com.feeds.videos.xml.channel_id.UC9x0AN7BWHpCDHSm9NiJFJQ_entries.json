@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NetworkChuck",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-23T17:40:13.598519+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-23T14:05:28+00:00",
+        "description": "Dip your toe into local AI at Micro Center, the AI destination: https://micro.center/322535\nAustin, Texas: sign up now for a FREE 128GB flash drive, redeemable when the new Austin store opens: https://micro.center/196cca\n\nApple says the new M5 Ultra Mac Studio is up to 4x faster than the M3 Ultra at LLM prompt processing. I own an M3 Ultra Mac Studio, so I raced them head to head on local AI: same model, same prompt, same settings. On a 32,000-token prompt with Qwen3.8 27B, the M5 Ultra started answering in 21.7 seconds. The M3 Ultra took 82.8. That's 3.8x. Then the M5 wrote the answer 1.5x faster (43.3 vs 28.1 tokens per second), which lines up with its jump in memory bandwidth from 819 GB/s to 1.2 TB/s.\n\nThen I threw my real work at it. Whisper transcribed two hours of my audio in about a minute and a half. A local vision model described my footage, a job I pay the Gemini video API for right now. I generated images with FLUX.2 and video with LTX-2.5, ran my Hermes agent on a local m",
+        "id": 6437989,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=CbWySQdAM60",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 565,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9x0AN7BWHpCDHSm9NiJFJQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/CbWySQdAM60/hqdefault.jpg",
+        "title": "i got one....and it's FAST!!!",
+        "vote": 0
+    }
+]

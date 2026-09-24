@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Sourav Rudra",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-23T16:55:24.655828+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-23T15:48:07+00:00",
+        "description": "Its first alpha targets the M4 Mac mini and runs on a Fedora base, with all driver work aimed at the upstream Linux kernel.",
+        "id": 6437497,
+        "language": "en-US",
+        "link": "https://itsfoss.com/news/gravity-linux-launch",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 156,
+        "source_url": "https://news.itsfoss.com/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://itsfoss.com/content/images/2026/09/gravity-linux-banner.png",
+        "title": "Distro With an Expiry Date?Gravity Linux is a New Distro for Apple Silicon",
+        "vote": 0
+    }
+]

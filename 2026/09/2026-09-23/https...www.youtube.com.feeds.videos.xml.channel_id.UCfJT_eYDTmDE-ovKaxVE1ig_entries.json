@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kevin Stratvert",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-23T18:52:26.693403+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-23T18:35:30+00:00",
+        "description": "Learn how to use Zapier Next Gen Zaps step by step. Next Gen Zaps use AI to build powerful automations simply by describing what you want to happen, without needing to code.\n\nIn this tutorial, I\u2019ll show you how to create a Next Gen Zap from scratch, connect your apps, build branching workflows with AI, test and troubleshoot your automation, view the underlying TypeScript code, manage workflow runs and versions, and make changes using natural language.\n\nWe\u2019ll build a real automation using Google Forms, Gmail, Slack, and Google Sheets. You\u2019ll also learn how to connect Zapier to ChatGPT using MCP so you can create and manage Next Gen Zaps directly from ChatGPT.\n\nHost: Kevin Stratvert\nSponsor: Zapier\n\n\ud83d\udcda RESOURCES\n- Try Zapier Next Gen Zaps: https://nextgenzaps.kevinstratvert.com\n\n\u231a TIMESTAMPS\n0:00 - Meet Zapier Next Gen Zaps\n0:37 - Get access to Next Gen Zaps\n1:21 - Create a Next Gen Zap\n1:55 - Connect your apps\n2:53 - Describe your automation\n3:25 - Let AI build the workflow\n4:20 - Explo",
+        "id": 6438654,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=3D_oZSUFhzI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 958,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfJT_eYDTmDE-ovKaxVE1ig",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/3D_oZSUFhzI/hqdefault.jpg",
+        "title": "How to Use Zapier Next Gen Zaps (Step-by-Step Tutorial)",
+        "vote": 0
+    }
+]
