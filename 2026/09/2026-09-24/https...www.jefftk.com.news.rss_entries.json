@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-24T19:26:40.610689+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-24T08:00:00+00:00",
+        "description": "<p><span>\n\n</span>\n\n<i>Cross-posted from my <a href=\"https://data.securebio.org/jefftk-notebook/state-of-pandemic-early-warning\">SecureBio\nNotebook</a>.</i>\n\n\n\n<p>\n\n<i>This is a lightly-edited version of a memo that I presented\nat the Summer 2026 Biosecurity Summit outside of DC.  While others at\nSecureBio often see things similarly, I'm attempting to present my\nview and not a SecureBio \"house view\".</i>\n\n</p>\n\n<h3>The Goal</h3>\n\n\n\n<p>We need to be robust to adversaries who want to cause very large-scale harm\nwith biology.  This includes actors (human or AI) who want to kill all humans,\ncause short-term incapacitation or long-term civilizational collapse, or who\nhave strategies for sparing some while they harm others.  There are multiple\nreasons an actor might have these targets aside from being directly omnicidal,\n  such as reducing response capacity during an AI takeover.</p>\n\n\n\n<p>That there is an attacker itself is a key constraint to any defensive\nsystem: it must be designed for ",
+        "id": 6446371,
+        "language": "en-US",
+        "link": "https://www.jefftk.com/p/state-of-pandemic-early-warning",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 163,
+        "source_url": "https://www.jefftk.com/news.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.jefftk.com/initial-detection-benefit-by-capability.png",
+        "title": "State of Pandemic Early Warning",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-24T13:20:22.330288+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-24T11:00:22+00:00",
+        "description": "Learn more about Serve Quality here \u2192 https://ibm.biz/~nrYtWf9BC\n\nAI is analyzing tennis serves at the US Open. Aaron Baughman explains how APIs give AI agents specialized, real-time data to reason over. Learn how APIs, tools, and LLMs turn complex tennis data into useful answers.\n\n 00:00 \u2013 See How AI Analyzes a US Open Serve\n 01:08 \u2013 Understand Why LLMs Need Real-Time Data\n 02:38 \u2013 Turn Tennis Video & Match Stats Into AI Context\n 04:30 \u2013 Process 1 Billion US Open Data Points\n 06:08 \u2013 Turn Complex Data Into LLM-Ready Insights\n 07:02 \u2013 Connect AI Agents to APIs & Tools\n 07:43 \u2013 Build the AI Agent Tool-Calling Loop\n 09:00 \u2013 Apply the AI Agent + API Pattern Anywhere\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/~SAePe8hrL\n\nAI was used in the creation of the transcript and metadata for this video.\n\n#ai #api #usopen #llm #realtimedata \n---------------------------------------------------------------------------------------------------------\n",
+        "id": 6443663,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=F3hlZSZc6UI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/F3hlZSZc6UI/hqdefault.jpg",
+        "title": "How AI Agents, LLMs & APIs Use Real-Time Data at the US Open",
+        "vote": 0
+    }
+]

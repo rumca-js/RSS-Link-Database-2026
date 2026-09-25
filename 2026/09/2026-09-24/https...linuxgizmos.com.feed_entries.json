@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-24T05:13:26.155147+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-24T04:50:37+00:00",
+        "description": "Orange Pi has published hardware details for the OrangePi O1, a 90 &#215; 70mm SBC based on the Sophgo BM1688 processor. It pairs eight Arm Cortex-A53 cores with a RISC-V C906 coprocessor and a 16-TOPS INT8 TPU, along with up to 16GB of LPDDR4/LPDDR4X memory. The BM1688 integrates eight Arm Cortex-A53 cores operating at up [&#8230;]",
+        "id": 6441615,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/16-tops-ai-sbc-with-sata-3-0-runs-on-octa-core-sophgo-bm1688",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "16-TOPS AI SBC with SATA 3.0 runs on octa-core Sophgo BM1688",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Two Minute Papers",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-24T13:26:05.853211+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-24T08:40:55+00:00",
+        "description": "\u2764\ufe0f Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\nClaude Opus 5.5: https://www.anthropic.com/claude-opus-5-5\n\nWalking creatures video and paper:\nhttps://www.youtube.com/watch?v=kQ2bqz3HPJE\nhttps://www.goatstream.com/research/papers/SA2013/\n\nHoney coiling video and paper:\nhttps://www.youtube.com/watch?v=ZEjUqZU1hNQ\nhttps://cs.uwaterloo.ca/~c2batty/papers/Larionov2017/Larionov2017.pdf\nhttps://dl.acm.org/doi/10.1145/3072959.3073628\nhttps://uwspace.uwaterloo.ca/items/ecb9fe94-1ef5-4ed0-a67e-b3d3c5a7534e\npaper name: Variational Stokes: A Unified Pressure-Viscosity Solver for Accurate Viscous Liquids\n\nSources:\nhttps://x.com/ArtificialAnlys/status/2102438210798514391/photo/1\nhttps://x.com/edwinarbus/status/2102463453176979794?s=46\nhttps://x.com/poolio/status/2102445641205248145?s=46\nhttps://x.com/stefan_3d_ai/status/2102471841046786153?s=46\nhttps://x.com/RyanSael/status/2102591147927654847\nhttps://x.com/higgsfield_ai/status/2102533401110802552?s=20\nhttps://x",
+        "id": 6443684,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=SA9kdAX2Zj0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 945,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbfYPyITQ-7l4upoX8nvctg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/SA9kdAX2Zj0/hqdefault.jpg",
+        "title": "Claude Opus 5.5 AI: An Incredible Leap Forward",
+        "vote": 0
+    }
+]

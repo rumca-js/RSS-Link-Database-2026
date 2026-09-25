@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/Rude_Bag8502",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-25T01:50:21.177620+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-24T18:16:25+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>I\u2019m the coauthor of Torollo, an MIT-licensed system-design learning lab. Torollo turns a topology drawn on a canvas into running Docker containers and bridge networks. Learners configure routes and network policies, then complete exercises against that local environment.</p> <p>The scope matters: Torollo is an educational execution model, not a staging environment. A passing exercise means the learner configured the requested behavior inside the local Docker lab. It does not certify that an equivalent AWS, Kubernetes, or production deployment is correct.</p> <p>The Docker-specific problem I\u2019m working through is per-service network policy.</p> <p>Suppose an exercise asks the learner to allow `web` to reach `db` on TCP/5432 while preventing the load balancer from reaching the same port. I want that decision to affect actual local traffic rather than only changing a diagram.</p> <p>The current implementation works like this:</p> <p>- Each subnet becomes ",
+        "id": 6449962,
+        "language": "en",
+        "link": "https://www.reddit.com/r/docker/comments/1wp98o4/how_far_should_a_dockerbased_learning_lab_go_in",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 580,
+        "source_url": "https://www.reddit.com/r/docker/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "How far should a Docker-based learning lab go in enforcing per-service network policy?",
+        "vote": 0
+    }
+]

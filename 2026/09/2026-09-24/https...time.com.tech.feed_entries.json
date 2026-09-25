@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Philip Wang",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-24T21:12:42.079270+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-24T20:51:12+00:00",
+        "description": "Elon Musk, Sam Altman, Jeff Bezos and Sundar Pichai were set to attend the dinner",
+        "id": 6447879,
+        "language": "en-UK",
+        "link": "https://time.com/article/2026/09/24/Trump-Xi-meeting-White-House-2026-AI-trade-Iran",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 317,
+        "source_url": "https://time.com/tech/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://static.time.com/v3/assets/bltea6093859af6183b/blte533edb0345c177e/6ab559889d758f12aef478a5/GettyImages-2296938271.jpg?branch=production",
+        "title": "Trump and Xi Meet Ahead of State Dinner With Top A.I. Leaders",
+        "vote": 0
+    }
+]

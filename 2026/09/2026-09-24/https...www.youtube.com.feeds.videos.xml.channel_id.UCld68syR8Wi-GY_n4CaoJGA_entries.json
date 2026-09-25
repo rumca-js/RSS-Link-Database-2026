@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-24T20:32:58.146919+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-24T17:30:20+00:00",
+        "description": "Like many large companies and projects Intel had a bug bounty program but that has now been completely deleted in favor of just a pure responsible disclosure system.\n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\nCurl Bug Bounty: https://daniel.haxx.se/blog/2026/01/26/the-end-of-the-curl-bug-bounty/\nDeath By A Thousand Slops: https://daniel.haxx.se/blog/2025/07/14/death-by-a-thousand-slops/\nOld Bug Bounty: https://web.archive.org/web/20241217221132/https://app.intigriti.com/programs/intel/intel/detail\nNew Program: https://app.intigriti.com/programs/intel/intelvulnerabilitydisclosureprogram/detail\nBug Bounty Page: https://www.intel.com/content/www/us/en/security/security-practices/vulnerability-management/bug-bounty-program.html\n\n=========Video Platforms==========\n\ud83c\udfa5 Rea",
+        "id": 6447191,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=EjUCeGmEFHU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/EjUCeGmEFHU/hqdefault.jpg",
+        "title": "Intel Just Deleted There Bug Bounty Program",
+        "vote": 0
+    }
+]

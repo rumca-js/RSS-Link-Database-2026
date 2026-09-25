@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Foundation",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-24T20:51:28.524338+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-24T18:31:54+00:00",
+        "description": "Sponsored by Harness\n\nAI coding tools are helping engineering teams create and ship software at unprecedented speed. But our research from 700 enterprise practitioners and engineering leaders reveals a troubling counterweight: 71% say releases or production issues require developers to work evenings or weekends at least weekly, while more than half report frequent or constant burnout.\n\nThe surprising finding is that developers do not blame AI. The teams experiencing the most burnout are also among its most enthusiastic users. The real problem is the widening mismatch between AI-scale code generation and delivery systems still dependent on manual testing, fragmented tools, human-operated releases, and reactive incident response.\n\nIn this session, attendees will learn:\nWhy after-hours work should be treated as a software-delivery metric\nHow high deployment velocity can conceal weak stability and growing rework\nWhy AI adoption amplifies the strengths and weaknesses of the underlying deli",
+        "id": 6447533,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=ahDFzvg-Nrc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 499,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfX55Sx5hEFjoC3cNs6mCUQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/ahDFzvg-Nrc/hqdefault.jpg",
+        "title": "LF Live Webinar: Fast, Fragile, and Burned Out: The Human Cost of AI-Scale Delivery",
+        "vote": 0
+    }
+]

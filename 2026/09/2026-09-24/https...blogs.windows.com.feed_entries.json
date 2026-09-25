@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": null,
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-25T00:26:10.778211+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-24T14:11:45+00:00",
+        "description": null,
+        "id": 6449476,
+        "language": "en-US",
+        "link": "https://blogs.windows.com/feed",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 83,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": true,
+        "source__id": 1016,
+        "source_url": "https://blogs.windows.com/feed",
+        "status_code": 200,
+        "tags": [],
+        "thumbnail": "https://blogs.windows.com/wp-content/uploads/2022/09/cropped-Windows11IconTransparent512-32x32.png",
+        "title": "Windows Blog",
+        "vote": 0
+    }
+]

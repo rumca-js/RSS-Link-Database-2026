@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Blog Staff",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-24T19:31:04.307810+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-24T17:45:10+00:00",
+        "description": "<p>\n\t<img alt=\"SANDOR_DARGO_ROUND.JPG\" src=\"https://isocpp.org/files/img/SANDOR_DARGO_ROUND.JPG\" style=\"width: 250px; margin: 10px; float: right; height: 255px;\" />C++26 continues the steady expansion of what <code dir=\"ltr\">constexpr</code> can do, removing restrictions that once kept increasingly ordinary C++ features out of constant evaluation. One small but consequential change is P3533R2, which finally brings virtual inheritance into the <code dir=\"ltr\">constexpr</code> world.</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://www.sandordargo.com/blog/2026/07/01/cpp26-constexpr-virtual-inheritance\">C++26: constexpr virtual inheritance</a></h3>\n\t<p>\n\t\tby Sandor Dargo</p>\n</blockquote>\n<p>\n\tFrom the article:</p>\n<blockquote>\n\t<p>\n\t\t<code>constexpr</code> has come a long way since its introduction in C++11. Back then, <code>constexpr</code> functions were extremely restricted and could essentially contain only a single <code>return</code> statement. C++14 relaxed those restrictions, allowing",
+        "id": 6446459,
+        "language": "en",
+        "link": "https://isocpp.org//blog/2026/09/cpp26-constexpr-virtual-inheritance-sandor-dargo",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://isocpp.org/files/img/SANDOR_DARGO_ROUND.JPG",
+        "title": "C++26: constexpr virtual inheritance -- Sandor Dargo",
+        "vote": 0
+    }
+]

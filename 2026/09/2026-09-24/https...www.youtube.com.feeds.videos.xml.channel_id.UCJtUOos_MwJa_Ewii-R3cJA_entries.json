@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Leila Gharani",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-24T21:23:43.660636+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-24T16:47:05+00:00",
+        "description": "Note: Lists in cells was just announced and is currently in the beta channel in the Microsoft Insiders program. It is rolling out gradually. \n\nFor 40 years, an Excel cell has only held one single value\u2014but that changes today. Discover how to use Excel's brand-new Lists feature to store and manipulate multidimensional arrays directly inside a single cell.\n\nIf you have ever struggled with analyzing delimited text in project trackers or financial reports, this update completely transforms your workflow. In this tutorial, you will learn the exact shortcut to convert standard text into dynamic lists (Ctrl+J), how your existing formulas automatically adapt, and how to leverage five brand-new Excel functions designed specifically for these arrays.\n\n500,000+ people have taken our courses so far. If you want to go deeper: \ud83d\udc49 https://link.xelplus.com/yt-d-all-courses\n\nWhat you will learn in this tutorial:\n- The Ctrl + J Shortcut: Instantly toggle standard text or numbers into list arrays.   \n- C",
+        "id": 6448064,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=WPdD5ybnj7w",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 957,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJtUOos_MwJa_Ewii-R3cJA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/WPdD5ybnj7w/hqdefault.jpg",
+        "title": "Everything You Knew About Excel Cells Just Changed",
+        "vote": 0
+    }
+]

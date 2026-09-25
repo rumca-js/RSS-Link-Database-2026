@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-24T16:32:22.057280+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-24T14:37:34+00:00",
+        "description": "The suspect is alleged to have been an accessory to murder at the Stalag 326 camp, where tens of thousands of Soviet PoWs died.",
+        "id": 6445523,
+        "language": "en-gb",
+        "link": "https://www.bbc.co.uk/news/articles/cwzrzjy3pynvo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 523,
+        "source_url": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1b2/live/b86b4a70-b811-11f1-a430-4d16ee157c41.jpg",
+        "title": "105-year-old investigated for crimes at Nazi PoW camp in Germany",
+        "vote": 0
+    }
+]

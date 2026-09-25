@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Gamers Nexus",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-24T01:37:50.283243+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-24T01:07:03+00:00",
+        "description": "SUPPORT OUR WORK https://store.gamersnexus.net/data-dragnet\nMicrosoft has filed for a new patent that describes a credit system to \"rent\" software and games, including rate-limited rentals based on the type of use. In their examples, singleplayer costs more than training mode, but multiplayer costs more credits than both. Users can 'earn' credits by subjecting themselves to more advertisements during loading screens, round win or loss screens, and level loading screens. The patent technology can be applied at the application level, OS level, and device level, making it wide-reaching and affecting more than just Windows machines. In one instance, Microsoft explicitly names Smart TVs. This would be similar, in some ways, to ACR (Automatic Content Recognition) on LG or other Smart TVs, where the patent-pending technology could scan the screen and audio.\n\nThe best way to support our work is through our store: https://store.gamersnexus.net/\n\nLike our content? Please consider becoming our P",
+        "id": 6440877,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Smwo493IAfw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 428,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChIs72whgZI9w6d6FhwGGHA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/Smwo493IAfw/hqdefault.jpg",
+        "title": "Microsoft\u2019s Terrifying New Patent | LG-Style ACR for Games & Software",
+        "vote": 0
+    }
+]

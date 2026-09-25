@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ryan Daws",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-24T20:22:16.183835+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-24T16:09:02+00:00",
+        "description": "<p>Google has launched two Gemini 3.8 Flash TTS voice models, introducing dedicated speech generation systems engineered for direct performance scripting and high-volume audio production. The dual release splits vocal synthesis tasks between creative direction and cost-managed infrastructure. Gemini 3.8 Flash TTS targets interactive entertainment, game development, and long-form narrations where studio teams demand prompt-based vocal [&#8230;]</p>\n<p>The post <a href=\"https://www.artificialintelligence-news.com/news/google-gemini-3-8-flash-tts-voice-models/\">Google launches Gemini 3.8 Flash TTS voice models</a> appeared first on <a href=\"https://www.artificialintelligence-news.com\">AI News</a>.</p>",
+        "id": 6447078,
+        "language": "en-GB",
+        "link": "https://www.artificialintelligence-news.com/news/google-gemini-3-8-flash-tts-voice-models",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 10,
+        "source_url": "https://www.artificialintelligence-news.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/gemini-3.8-flash-tts-text-to-speech-benchmark-gemini-3.8-flash-google-ai.jpg",
+        "title": "Google launches Gemini 3.8 Flash TTS voice models",
+        "vote": 0
+    }
+]

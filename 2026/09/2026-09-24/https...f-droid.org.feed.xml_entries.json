@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "F-Droid",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-24T16:28:39.135916+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-24T00:00:00+00:00",
+        "description": "<p>After more than a year of hard work, we are thrilled to announce the launch of F-Droid\n2.0, a complete redesign of the official F-Droid app and the largest app update\nin 10 years.</p>\n\n<p>For more than a decade, F-Droid has helped people discover and install free and\nopen source Android apps. F-Droid 2.0 builds on that foundation with a modern\ninterface, better app discovery, improved search, and a simpler experience that\nworks well, whether you\u2019re new to F-Droid or have been using it for years.</p>\n\n<p>This isn\u2019t just a visual refresh. The user experience was redesigned to\nintegrate smoothly with current Android patterns, like Material Design, while\nkeeping familiar F-Droid interactions in place. Key components were reworked and\nrewritten using Kotlin Compose, the standard toolkit these days, creating a\nfoundation that will help us deliver improvements more quickly in the years\nahead.</p>\n\n<p>We are excited to begin rolling out F-Droid 2.0 to users over the coming weeks\nafter 14 t",
+        "id": 6445511,
+        "language": "en",
+        "link": "https://f-droid.org/en/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 1021,
+        "source_url": "https://f-droid.org/feed.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "/assets/discover_MxxhXQECMcZ0oV7JjjdIfZWny1NKQkrUMWyOM6Q9lW4=.png",
+        "title": "F-Droid 2.0: A New Chapter for Android Freedom",
+        "vote": 0
+    }
+]

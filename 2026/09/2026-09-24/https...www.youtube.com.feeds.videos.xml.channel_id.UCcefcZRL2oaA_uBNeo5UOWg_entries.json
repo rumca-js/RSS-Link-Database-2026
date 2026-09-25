@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-24T22:54:26.394302+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-24T21:00:29+00:00",
+        "description": "A lot of construction work is still done by hand simply because the machines to automate it don\u2019t exist. That\u2019s become a bottleneck for building things like solar farms, data centers, and other critical infrastructure.\n\nCosmic Robotics is building those machines. Their robots have already installed 11,000 solar panels, and they just signed a major contract with the largest construction company in the country.\n\nThey\u2019re building the construction robots we\u2019ll need on Earth today, and eventually on the Moon and Mars.",
+        "id": 6449000,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/iGY7httJjQA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/iGY7httJjQA/hqdefault.jpg",
+        "title": "Autonomous construction on Earth and beyond",
+        "vote": 0
+    }
+]

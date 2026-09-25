@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ACCU Conference",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-24T13:20:50.520785+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-24T12:46:02+00:00",
+        "description": "ACCU Membership: https://tinyurl.com/ydnfkcyn\n---\n\nThere Is No Optimal - Pareto Trade Offs in C++ \u2014 Compile-Time Search with Real Constraints - Andrew Drakeford - ACCU on Sea 2026\n---\n\nIn performance-critical C++, what does \u201coptimal\u201d mean? It is never a universal quantity. Game engines might need bit-exact determinism. In HPC, a solver may prioritise throughput, latency, or some combination of both. An embedded application might be more constrained by memory than by power consumption. Yet developers are often forced to hand-tune low-level code\u2014or accept generic libraries that can\u2019t reflect their real constraints.\n\nWhat if you could define what \u201cbest\u201d means for your context\u2014and have a compile-time solver choose the best legal implementation for that definition? This talk presents a practical, reusable methodology using only C++20/23. You\u2019ll learn how to:\n\n- Declare what transformations are allowed (e.g., \u201creordering is permitted within a bounded numerical error\u201d),\n- Encode your trade-o",
+        "id": 6443666,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=oVo-nRcm6BM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 421,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJhay24LTpO1s4bIZxuIqKw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/oVo-nRcm6BM/hqdefault.jpg",
+        "title": "There Is No Optimal: Pareto Trade Offs in C++ \u2014 Compile-Time Search with Real Constraints",
+        "vote": 0
+    }
+]
