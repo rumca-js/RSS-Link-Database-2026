@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-25T15:43:04.566364+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-25T10:16:00+00:00",
+        "description": "<p>I've been working on my homelab for years, and I enjoy sharing what I learn through this blog and my YouTube channel.</p>\n<figure class=\"insert-image\"><a href=\"https://www.homelabfest.org\"><img src=\"https://www.jeffgeerling.com/blog/2026/homelabfest-announcement/homelabfest-banner.jpg\"\n\t\t\talt=\"HomelabFest 2027 banner\" width=\"700\" height=\"auto\"></a>\n</figure>\n\n<p>Over the past few years, I realized the homelab community (which isn't really a defined thing\u2014that's okay) hasn't had its own gathering, the way makers, software engineers, embedded developers, and HPC professionals do.</p>\n<p>There are many events that have crossover into the homelab realm, but nothing focused on energy-efficient servers, privacy-respecting self-hosted software, keeping old hardware useful, or cable management and rackmounting on a budget.</p>",
+        "id": 6454541,
+        "language": "en",
+        "link": "https://www.jeffgeerling.com/blog/2026/homelabfest-announcement",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 162,
+        "source_url": "https://www.jeffgeerling.com/blog.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.jeffgeerling.com/blog/2026/homelabfest-announcement/homelabfest-banner.jpg",
+        "title": "I'm starting HomelabFest (in St. Louis, Sep 2027)",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Louis Rossmann",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-25T23:12:38.859708+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-25T22:18:18+00:00",
+        "description": null,
+        "id": 6457764,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=AUbpYkLl8Bs",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 201,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCl2mFZoRqjw_ELax4Yisf6w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/AUbpYkLl8Bs/hqdefault.jpg",
+        "title": "after 14 years, I'm finally legit",
+        "vote": 0
+    }
+]

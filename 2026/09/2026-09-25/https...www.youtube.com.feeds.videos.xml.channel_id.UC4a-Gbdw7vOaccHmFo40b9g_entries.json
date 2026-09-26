@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Khan Academy",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-25T16:39:37.380260+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-25T14:20:02+00:00",
+        "description": "The electric field at a given point is the ratio of the electric force exerted on a test charge at the point to the charge of the test charge. An electric field points away from isolated positive charges and toward isolated negative charges. By superposition, the net electric field at a given location is the vector sum of individual electric fields created by nearby charged objects. The electric field is a vector quantity and can be represented in space using vector field maps.\n\nSections:\n00:00 - What is an electric field?\n01:20 - Electric field strength and direction\n04:22 - Electric field of a point charge\n06:23 - Visualizing electric fields\n08:34 - Combining electric fields\n10:00 - Electric dipoles and charge distributions\n\n------------------\n\nKhan Academy is a nonprofit organization with the mission of providing a free, world-class education for anyone, anywhere. Khan Academy has been translated into dozens of languages, and 15 million people around the globe learn on Khan Academy",
+        "id": 6454980,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=D2Lh7Dlqn1o",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 977,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4a-Gbdw7vOaccHmFo40b9g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/D2Lh7Dlqn1o/hqdefault.jpg",
+        "title": "Electric fields (part 1) | AP Physics | Khan Academy",
+        "vote": 0
+    }
+]

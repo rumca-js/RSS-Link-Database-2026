@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Snazzy Labs",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-25T15:10:46.029001+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-25T14:06:45+00:00",
+        "description": "Run macOS on an iPad. For real. No Remote Desktop!\nTry sponsor Granola, your AI notepad with 100% off your first month! https://www.granola.ai/?via=snazzy-labs\n\n*Buy FANTASTIC merch at Copland Supply* - https://copland.supply\nFollow Snazzy Labs on Twitter - https://twitter.com/snazzylabs  \nFollow me on Bluesky - https://snazzy.fm/UW\nFollow me on Threads - https://snazzy.fm/XV\nFollow me on Mastodon - https://snazzy.fm/NN\nFollow me on Instagram - https://instagram.com/snazzyq\n\nReal macOS running on an iPad Pro\u2014no remote desktop, no emulation\u2014thanks to VirtualMacOniPad, a jailbreak-only app that transplants Apple's Hypervisor and Virtualization framework from macOS into iPadOS to run a hardware-accelerated macOS virtual machine, including the macOS 27 Golden Gate beta, on M-series Apple Silicon. Because Apple pulled the hypervisor from the iPadOS kernel in iPadOS 16.4, only the M1 iPad Pro, M1 iPad Air and M2 iPad Pro on iPadOS 16.3.1 or earlier qualify, which meant $2,074 in new-old-sto",
+        "id": 6454285,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=RRuMpK9taGU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 307,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCO2x-p9gg9TLKneXlibGR7w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/RRuMpK9taGU/hqdefault.jpg",
+        "title": "My iPad Runs Steam Now",
+        "vote": 0
+    }
+]

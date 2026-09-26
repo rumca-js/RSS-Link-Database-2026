@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Learn Linux TV",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-25T15:37:43.480117+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-25T14:00:33+00:00",
+        "description": "Ready to try the Sway window manager? In this hands-on Linux tutorial, you\u2019ll learn how to install Sway, navigate with keyboard shortcuts, use workspaces, manage windows, customize your configuration, and more.\n\nSway brings the power of a tiling window manager to Wayland, and in this beginner-friendly guide, I\u2019ll show you what it\u2019s actually like to use. Stick around for the hands-on lab where we\u2019ll configure Sway ourselves!\n\n*\u2699\ufe0f Grab Jay's actual Dotfiles!*\nFor a small donation, grab a zip file full of configs for Bash, ZSH, Vim, Tmux, i3, Sway (and more)! Curated over a decade, there's something for everyone.\n- Download here \u279c http://learnlinux.link/jay-dotfiles\n\n*\ud83d\udcda Discounts, Courses, Books, and More! (Support Linux Learning)*\n- Switching to Linux Book:\n        Amazon \u279c https://learnlinux.link/stl-amazon\n        Publisher \u279c https://learnlinux.link/stl-leanpub\n- Linux Swag & Gear \u279c https://learnlinux.link/swag\n- Live Training \u279c https://learnlinux.link/live\n- $100 of Free Linode Start",
+        "id": 6454476,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=kDBlD0hokp8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 997,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxQKHvKbmSzGMvUrVtJYnUA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/kDBlD0hokp8/hqdefault.jpg",
+        "title": "Sway on Linux Is Awesome - Here\u2019s How to Get Started",
+        "vote": 0
+    }
+]

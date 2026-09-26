@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-25T20:22:17.626198+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-25T18:36:54+00:00",
+        "description": "Hop Aero is building rockets that can deliver cargo anywhere on Earth in minutes.\n\nThey\u2019re starting with military logistics and other time-sensitive payloads, including temperature-controlled materials with short shelf lives, where getting something there much faster can materially change the outcome.\n\nThey\u2019ve already built and successfully hot-fired a new rocket engine, and signed $1.37B in commercial LOIs.",
+        "id": 6456774,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/j7Ee8hMme3c",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/j7Ee8hMme3c/hqdefault.jpg",
+        "title": "Rocket cargo delivery anywhere on Earth in minutes",
+        "vote": 0
+    }
+]

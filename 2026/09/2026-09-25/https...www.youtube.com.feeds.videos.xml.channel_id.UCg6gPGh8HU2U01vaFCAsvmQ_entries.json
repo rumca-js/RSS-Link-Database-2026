@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Chris Titus Tech",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-25T13:20:26.042923+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-25T11:15:16+00:00",
+        "description": "Three years in the making, this is the Linux desktop I use every day. Built around DWM, Quickshell, and a Fedora base, it brings together tiling windows, matching themes, display profiles, Bluetooth, audio, and system updates with minimal dependencies.\n\nI'll walk through the setup, demonstrate a fresh installation, and show how I configure shortcuts, window rules, and layouts without recompiling DWM. I'll also explain why I moved from Arch to Fedora and why I'm still using X11.\n\nThis is a personal project in beta, with rough edges still to polish. Take what you like, customize it, or build something of your own.\n\nThanks to CodeRabbit for sponsoring this video.\nhttps://link.christitus.com/coderabbit\n\n00:00 My Custom Linux Desktop\n02:34 Displays\n05:08 System Settings Tour\n07:27 Default Apps and Themes\n09:49 Backend Tools and Tradeoffs\n12:21 Permissions and File Management\n14:44 Updates and Installation\n16:52 Why I Chose Fedora\n19:00 Shortcuts and Screenshots\n21:08 Gaming and Recovery Sc",
+        "id": 6453502,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=-8GmPlhzN9I",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 444,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCg6gPGh8HU2U01vaFCAsvmQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/-8GmPlhzN9I/hqdefault.jpg",
+        "title": "The Desktop I Wanted Didn't Exist... So I Built It",
+        "vote": 0
+    }
+]

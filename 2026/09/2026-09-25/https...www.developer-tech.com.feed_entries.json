@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Bazoom",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-25T07:30:24.744519+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-25T07:21:48+00:00",
+        "description": "<p>Technology environments rarely stay as tidy as the diagrams used to document them. A company might add a cloud service for one team, deploy new devices for another or introduce an application without fully updating its records. Over time, the gap between what an organization thinks it owns and what is actually running can become [&#8230;]</p>\n<p>The post <a href=\"https://www.developer-tech.com/news/why-compliance-audits-expose-inventory-blind-spots/\">Why Compliance Audits Expose Inventory Blind Spots</a> appeared first on <a href=\"https://www.developer-tech.com\">Developer Tech News</a>.</p>",
+        "id": 6451340,
+        "language": "en-GB",
+        "link": "https://www.developer-tech.com/news/why-compliance-audits-expose-inventory-blind-spots",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 92,
+        "source_url": "https://www.developer-tech.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Why Compliance Audits Expose Inventory Blind Spots",
+        "vote": 0
+    }
+]
