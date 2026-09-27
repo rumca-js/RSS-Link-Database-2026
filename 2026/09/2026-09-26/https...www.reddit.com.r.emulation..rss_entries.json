@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/zsKnight_dev",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-27T01:28:14.334805+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-26T16:52:04+00:00",
+        "description": "<table> <tr><td> <a href=\"https://www.reddit.com/r/emulation/comments/1wqvdma/super_zsnes_v0310/\"> <img src=\"https://external-preview.redd.it/72wI_1ouYjXPanUtrvQgGRWYtO3cZD54UTISmT4tGeo.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=c5788b552c58ea8a63d32d8c20df7315cda5948b\" alt=\"Super ZSNES v0.310\" title=\"Super ZSNES v0.310\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Here&#39;s a minor update to Super ZSNES - v0.310. Here&#39;s what&#39;s new:</p> <ul> <li>Added portrait mode for mobile</li> <li>Fixed various controller button/dpad detection issues</li> <li>Apple TV and Android TV support. It currently uses a local web server to transfer files over.</li> <li>First pass Starfox Enhancement. Big thanks to Kandowontu, Sunlit, Alexander, and the Starfox EX team for making this possible! Re-creates 3D models and sprites as actual 3D models instanced on the GPU. Adds wide-screen, hi-res, and interpolation. Currently works only on the original v2 rom.</li> <li>Initial custom .zlu",
+        "id": 6463977,
+        "language": "",
+        "link": "https://www.reddit.com/r/emulation/comments/1wqvdma/super_zsnes_v0310",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 475,
+        "source_url": "https://www.reddit.com/r/emulation/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://external-preview.redd.it/72wI_1ouYjXPanUtrvQgGRWYtO3cZD54UTISmT4tGeo.jpeg?width=320&crop=smart&auto=webp&s=c5788b552c58ea8a63d32d8c20df7315cda5948b",
+        "title": "Super ZSNES v0.310",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Julia McCoy",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-26T18:32:10.746408+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-26T15:21:38+00:00",
+        "description": "*FREE GUIDE: \ud83d\udcd8 The Content Creator's AI Blueprint*  \u2013 https://FirstMovers.ai/blueprint/\n\n*OpenAI's president says GPT-6 Astra kicks off the AGI era. The front page shows 99.9% on ARC-AGI-3, and the fine print shows 62.7%.*\n\nSame model, same test, and a 37-point gap created by OpenAI's own test setup. Meanwhile Astra is already operating real business software, and inside my *Kit* account it went well past a *read-only* brief.\n\nWhat you'll learn:\n\u2705 Where the *AGI* claim holds up and exactly where it falls apart\n\u2705 A live screenshare of Astra running my YouTube and email dashboards\n\u2705 Four moves to hand your *clicking* to AI in the next 30 days\n\nWhat it did to my email list is the whole reason move three exists.\n\n#AI #AGI #FutureOfWork\n\n*THE PROMPT I USED*\nYou're operating my computer for one recurring task.\n\nTask: Pull this week's top 3 videos by views from YouTube Studio, then pull this week's email open rate from Kit, and write me a 5-line Monday summary I can read in 30 seconds.\n\nRule",
+        "id": 6462323,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=VNm-P_dj2-0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 947,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqzK60-oUOEq36uU9B1MMUg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/VNm-P_dj2-0/hqdefault.jpg",
+        "title": "OpenAI Just Declared AGI. I Read the Fine Print.",
+        "vote": 0
+    }
+]

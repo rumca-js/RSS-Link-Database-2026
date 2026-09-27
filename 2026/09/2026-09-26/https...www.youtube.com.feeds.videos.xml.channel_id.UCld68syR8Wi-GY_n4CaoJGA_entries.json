@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-26T20:08:53.799664+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-26T17:30:14+00:00",
+        "description": "Recently KDE announced there goals for the future of the project so lets talk about them and what it means for KDE and its users\n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\nKDE Talk: https://www.youtube.com/watch?v=kwv4SQSvx9g\n2024 Goal 1: https://invent.kde.org/teams/goals/we-care-about-your-input https://phabricator.kde.org/T17433\n2024 Goal 2: https://invent.kde.org/teams/goals/contributor-onboarding https://phabricator.kde.org/T17439\n2024 Goal 3: https://invent.kde.org/teams/goals/contributor-onboarding https://phabricator.kde.org/T17439\n2026 Goal 1: https://invent.kde.org/teams/goals/goal-setting/2026/-/work_items/5\nSovereign Tech Fund: https://discuss.kde.org/t/sovereign-tech-fund-invests-over-1-million-in-kde-software-development/46970\n2026 Goal 2: https://inv",
+        "id": 6462785,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=8Z5Fx8Amis4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/8Z5Fx8Amis4/hqdefault.jpg",
+        "title": "KDE's Goals For The Future Of The Project",
+        "vote": 0
+    }
+]

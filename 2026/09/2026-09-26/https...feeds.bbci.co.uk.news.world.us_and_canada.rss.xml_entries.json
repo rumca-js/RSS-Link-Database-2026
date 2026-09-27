@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-26T17:55:19.276882+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-26T17:47:09+00:00",
+        "description": "Tens of millions of people from Maine to Virginia are in the path of the powerful storm.",
+        "id": 6462189,
+        "language": "en-gb",
+        "link": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 526,
+        "source_url": "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02b2/live/68ead9b0-b9ca-11f1-bc1f-3f186ca4140c.jpg",
+        "title": "Nor'easter storm brings coastal flooding, as New York and New Jersey declare emergency",
+        "vote": 0
+    }
+]

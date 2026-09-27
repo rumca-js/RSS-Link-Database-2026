@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Engineezy",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-26T14:33:13.912321+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-26T13:33:34+00:00",
+        "description": "This score system has a fatal flaw - IRL Chrome Dino Part 5\n\u2022\u2022\u2022\nI built this mechanical counter to keep score for my real life Chrome Dino game using five number wheels linked together by Geneva gears. Each time one wheel makes a full rotation, it advances the next wheel by a single digit, so I only need to turn the first wheel to make the whole thing count. It\u2019s really satisfying to watch, but the only way to reset it is to run everything backwards, which takes forever with a high score. So next I need a way to reset all five numbers at once.\n\u2022\u2022\u2022\n#engineering #3dprinting #mechanicaldesign",
+        "id": 6461109,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/ufVki_0QRL8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 858,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSksodwjNeOQ3Oywr1G4Nag",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/ufVki_0QRL8/hqdefault.jpg",
+        "title": "The scoreboard has a fatal flaw - Chrome Dino IRL Part 5",
+        "vote": 0
+    }
+]

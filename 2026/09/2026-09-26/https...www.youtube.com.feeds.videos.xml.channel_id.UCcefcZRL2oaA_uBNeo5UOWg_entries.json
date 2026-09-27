@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-26T15:15:33.658788+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-26T14:00:37+00:00",
+        "description": "One of the biggest surprises in AI over the last few years has been how well coding agents generalize beyond software. In a recent essay, MIT professor Philip Isola argued that we may be entering the era of robot-use agents: general-purpose models that can control different robots, write policies, and learn new physical tasks with little or no robot-specific training.\n\nIn this episode of Decoded, we're joined by the founders of Waddle Labs and RoboCurve, two of the startups whose work helped drive this realization. They're working at the frontier of using general-purpose models to control robots, and their recent demos helped inspire the growing conversation around robot-use agents. \n\nTogether, we dig into the research behind that idea, from code-as-policies and vision-language-action models to the harnesses and evals needed to make these systems work in the real world.\n\nChapters:\n\n00:00 \u2014 Intro + The Rise Of Robot Use Agents\n04:07 \u2014 The Bitter Lesson for Robotics\n07:40 \u2014 From Coding ",
+        "id": 6461311,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Jv5B5CEaPJI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/Jv5B5CEaPJI/hqdefault.jpg",
+        "title": "New LLMs Are Unlocking Robot-Use Agents",
+        "vote": 0
+    }
+]
