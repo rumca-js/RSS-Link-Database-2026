@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-27T17:14:58.173544+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-27T15:52:47+00:00",
+        "description": "<div id=\"remove_no_follow\">\n\t\t<div class=\"grid grid--cols-10@md grid--cols-8@lg article-column\">\n\t\t\t\t\t  <div class=\"col-12 col-10@md col-6@lg col-start-3@lg\">\n\t\t\t\t\t\t<div class=\"article-column__content\">\n<section class=\"wp-block-bigbite-multi-title\"><div class=\"container\"></div></section>\n\n\n\n<p class=\"wp-block-paragraph\">Microsoft on <a href=\"https://devblogs.microsoft.com/dotnet/ag-ui-dotnet-sdk/\">September 25 announced</a> a .NET SDK for AG-UI (Agent-User Interaction). Created in collaboration with <a href=\"https://www.copilotkit.ai/\">CopilotKit</a>, the new SDK allows C# developers to work with the protocol that standardizes how agents communicate with user-facing applications.</p>\n\n\n\n<p class=\"wp-block-paragraph\">The .NET SDK for AG-UI lives in the <a href=\"https://github.com/ag-ui-protocol/ag-ui/tree/main/sdks/dotnet\" target=\"_blank\" rel=\"noreferrer noopener\">AG-UI repository</a> alongside the <a href=\"https://www.infoworld.com/article/2257305/what-is-typescript-strongly-typed-jav",
+        "id": 6467443,
+        "language": "en-US",
+        "link": "https://www.infoworld.com/article/4227233/microsoft-releases-net-sdk-for-ag-ui-agent-user-interaction-protocol.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 468,
+        "source_url": "https://www.infoworld.com/feed/",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Microsoft releases .NET SDK for AG-UI agent-user interaction protocol",
+        "vote": 0
+    }
+]

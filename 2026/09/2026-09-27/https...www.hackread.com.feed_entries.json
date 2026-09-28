@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Owais Sultan",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-27T20:21:09.189254+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-27T19:02:14+00:00",
+        "description": "Comparing five leading security awareness platforms, based on the level of personalization they offer.",
+        "id": 6468453,
+        "language": "en-US",
+        "link": "https://hackread.com/security-awareness-platforms-employee-training",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 139,
+        "source_url": "https://www.hackread.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Best Security Awareness Platforms for Personalized Employee Training",
+        "vote": 0
+    }
+]

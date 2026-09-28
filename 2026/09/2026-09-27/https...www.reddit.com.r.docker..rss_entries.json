@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/BriisaEscobar",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-27T21:29:14.792279+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-27T20:17:34+00:00",
+        "description": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/BriisaEscobar\"> /u/BriisaEscobar </a> <br/> <span><a href=\"/r/postgres/comments/1wruex8/psa_si_spring_boot_no_conecta_a_postgresql_en/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/docker/comments/1wrufvr/psa_si_spring_boot_no_conecta_a_postgresql_en/\">[comments]</a></span>",
+        "id": 6468750,
+        "language": "en",
+        "link": "https://www.reddit.com/r/docker/comments/1wrufvr/psa_si_spring_boot_no_conecta_a_postgresql_en",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 580,
+        "source_url": "https://www.reddit.com/r/docker/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "PSA: Si Spring Boot no conecta a PostgreSQL en Docker y te tira error de TimeZone \u2014 fijate si ten\u00e9s PostgreSQL instalado localmente tambi\u00e9n",
+        "vote": 0
+    }
+]

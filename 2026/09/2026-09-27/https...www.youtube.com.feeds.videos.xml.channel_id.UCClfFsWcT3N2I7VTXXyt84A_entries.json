@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Salem Techsperts",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-27T19:23:02.833467+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-27T17:36:00+00:00",
+        "description": "Don\u2019t update your BIOS in the middle of a storm \ud83d\ude2c",
+        "id": 6468069,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/BslUzSnSzxE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 985,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCClfFsWcT3N2I7VTXXyt84A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/BslUzSnSzxE/hqdefault.jpg",
+        "title": "Flashing HP Omen BIOS during a storm? Bad Idea. #tech #technology #Jackery #SolarGenerator #shorts",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "GitHub",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-27T18:01:51.265228+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-27T15:00:28+00:00",
+        "description": "Build software on Windows using the Linux environments and tools you already rely on. In this video, see how to connect the GitHub Copilot app to Windows Subsystem for Linux (WSL) and run coding agents directly inside Ubuntu. Watch how Copilot handles parallel feature requests using worktrees, previews changes in a built-in browser, and verifies code diffs, all without leaving the app. Download the GitHub Copilot app at https://gh.io/app to get started. \n \n\u2014 RESOURCES\u2014  \n\nAgent automation controls in GitHub Issues: https://github.blog/changelog/2026-07-23-agent-automation-controls-in-github-issues-in-public-preview/ \n \nCreating GitHub Agentic Workflows: https://docs.github.com/en/copilot/how-tos/github-agentic-workflows/creating-github-agentic-workflows \n\n#GitHubCopilot #Linux #WSL \n\n\u2014 CHAPTERS \u2014 \n\n00:00 Linux development on Windows \n00:25 Connect WSL to the GitHub Copilot app \n02:22 Add features with coding agents \n03:35 Preview, test, and review changes\n\nStay up-to-date on all thing",
+        "id": 6467667,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=4VnQGyKtMk0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 1005,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7c3Kb6jYCRj4JOHHZTxKsQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/4VnQGyKtMk0/hqdefault.jpg",
+        "title": "How to use GitHub Copilot with WSL on Windows",
+        "vote": 0
+    }
+]

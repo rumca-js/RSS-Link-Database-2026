@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "David Bombal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-27T14:24:34.827639+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-27T14:00:21+00:00",
+        "description": "Big thank you to proton VPN for sponsoring the video.  To get 70% off your Proton VPN subscription use the following link:  https://protonvpn.com/davidbombal \n\nNote: Hak5 did not pay me to make this video. But, for full transparency: Darren was kind enough to give me some cool Hak5 gadgets. Get your own using my link below.\n\n// Buy Hak5 coolness here (Affiliate Link): //\nBuy Hak5: https://davidbombal.wiki/gethak5\n\nWiFi hacking without opening your laptop? @DarrenKitchen from @hak5 joins me to talk about the WiFi Pineapple Pager and what this little Linux device can actually do. \n\nDarren shares the story behind the Pager, explains its support for 2.4, 5, and 6 GHz WiFi, and walks us through features including wireless reconnaissance, eventtriggered alerts, and community-created payloads. We also discuss how Bash and DuckyScript helpers let users build their own functionality, and how Pager Portal makes it possible to download payloads directly onto the device.\n\nHow does it compare with",
+        "id": 6466569,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=ZIcLD2fh_Vc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 984,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP7WmQ_U4GB3K51Od9QvM0w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/ZIcLD2fh_Vc/hqdefault.jpg",
+        "title": "WiFi Hacking Without a Laptop: Meet the Pineapple Pager",
+        "vote": 0
+    }
+]

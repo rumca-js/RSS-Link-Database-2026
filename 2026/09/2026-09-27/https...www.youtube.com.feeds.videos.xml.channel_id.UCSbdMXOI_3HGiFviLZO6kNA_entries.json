@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ThrillSeeker",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-27T22:40:29.200379+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-27T22:00:09+00:00",
+        "description": "I spent most of last week at Meta Connect, trying out Meta's new VR Glasses. In a lot of ways this device is actually incredible, pushing current hardware manufacturing for VR headsets into a new age.. but incredible form factor comes with some incredible tradeoffs and compromises. \n\nHere are my first impressions!\n\nTo support my content join my Patreon: \nhttps://www.patreon.com/c/Thrillseeker\n\nJoin my Discord Community:\nhttps://www.discord.gg/thrill",
+        "id": 6469097,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=RYIXcxlGNn0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 368,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSbdMXOI_3HGiFviLZO6kNA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/RYIXcxlGNn0/hqdefault.jpg",
+        "title": "Meta VR Glasses: First Impressions",
+        "vote": 0
+    }
+]

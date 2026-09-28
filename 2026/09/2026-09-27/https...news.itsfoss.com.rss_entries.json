@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Sourav Rudra",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-27T05:55:51.605049+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-27T05:01:19+00:00",
+        "description": "You can now certify the machine you already own and check the public catalog to see what else is validated.",
+        "id": 6464673,
+        "language": "en-US",
+        "link": "https://itsfoss.com/news/almalinux-software-certification-launched",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 156,
+        "source_url": "https://news.itsfoss.com/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://itsfoss.com/content/images/2026/09/almalinux-software-certification-banner.png",
+        "title": "AlmaLinux Puts Software Certification in the Hands of Users",
+        "vote": 0
+    }
+]
