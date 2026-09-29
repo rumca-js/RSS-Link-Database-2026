@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-28T12:11:20.469012+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-28T11:27:20+00:00",
+        "description": "President Donald Trump hosted Anthropic CEO Dario Amodei at the White House for a private dinner Sunday night. Amodei has been pushing for an industry-wide slowdown and warning that rapid AI development poses a significant risk, while Trump says he\u2019s not worried about AI going rogue. Their dinner comes ahead of a key White House summit with some of the industry\u2019s other top executives. NBC\u2019s Hallie Jackson reports for TODAY.",
+        "id": 6472590,
+        "language": "en-US",
+        "link": "https://www.today.com/video/trump-meets-with-anthropic-ceo-as-new-alarm-bells-sound-270640709986",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 223,
+        "source_url": "https://feeds.nbcnews.com/nbcnews/public/tech",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_09/1790594834358_tdy_news_7a_jackson_ai_dangers_260928_S3_1920x1080-qv69ac.jpg",
+        "title": "Trump Meets With Anthropic CEO Ahead of Key AI Summit",
+        "vote": 0
+    }
+]

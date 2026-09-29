@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-28T13:23:42.496800+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-28T11:00:25+00:00",
+        "description": "Learn more about Agentic Coding here \u2192 https://ibm.biz/~eVuLdAOOj\n\nWriting code is becoming the easy part. Sam Anthony explains why planning, execution, validation, and verification matter more as AI coding systems become increasingly capable. Learn how prompt-to-production workflows are reshaping modern software engineering.\n\n00:00 - Why Prompt\u2011to\u2011Production Feels So Easy\n00:25 - Planning: The New Core Skill in AI\u2011Driven Engineering\n01:08 - Choosing the Right AI\u2011Driven Approach\n01:31 - Why Implementation Is No Longer the Hard Part\n02:18 - Designing the Solution Before AI Executes\n02:48 - The Hidden Complexity Behind Code Changes\n03:11 - Agentic Coding Systems and Self\u2011Correcting Workflows\n04:33 - The New Bottleneck: Human Verification at AI Scale\n05:07 - Evidence\u2011Driven Development and Trust\n06:16 - How AI Is Reshaping Developer Skills\n06:47 - The Future: Continuous Prompt\u2011to\u2011Production Workflows\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://",
+        "id": 6473116,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=bs1qPy_CWkM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/bs1qPy_CWkM/hqdefault.jpg",
+        "title": "Prompt to Production: The Future of AI Code Workflows",
+        "vote": 0
+    }
+]

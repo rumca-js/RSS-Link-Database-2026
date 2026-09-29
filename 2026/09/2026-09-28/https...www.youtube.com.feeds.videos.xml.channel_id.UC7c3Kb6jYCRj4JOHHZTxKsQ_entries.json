@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "GitHub",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-28T17:42:14.490981+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-28T15:00:01+00:00",
+        "description": "Tired of your code passing locally but failing in continuous integration? The GitHub Copilot app stays involved after you open a pull request, fixing CI failures and addressing reviewer comments automatically. Let the AI shepherd your code all the way to merge instead of just writing it. Discover how agent merge works and explore the full GitHub Copilot app for beginners series on our channel.\n\n#GitHubCopilot #GitHub #GitHubCopilotApp\n\nStay up-to-date on all things GitHub by connecting with us:\n\nYouTube: https://gh.io/subgithub\nBlog: https://github.blog\nX: https://twitter.com/github\nLinkedIn: https://linkedin.com/company/github\nInsider newsletter: https://resources.github.com/newsletter/\nInstagram: https://www.instagram.com/github\nTikTok: https://www.tiktok.com/@github\n\nAbout GitHub\nIt\u2019s where over 180 million developers create, share, and ship the best code possible. It\u2019s a place for anyone, from anywhere, to build anything\u2014it\u2019s where the world builds software. https://github.com",
+        "id": 6475116,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/SAC1vJk6EGw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 1005,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7c3Kb6jYCRj4JOHHZTxKsQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/SAC1vJk6EGw/hqdefault.jpg",
+        "title": "How GitHub Copilot app fixes CI failures automatically",
+        "vote": 0
+    }
+]

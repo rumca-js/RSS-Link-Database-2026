@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Tom Saunders",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-28T12:20:11.666416+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-28T12:12:48+00:00",
+        "description": "UK borrowing costs close to highest level since 2007",
+        "id": 6472646,
+        "language": "en-UK",
+        "link": "https://www.telegraph.co.uk/business/2026/09/28/borrowing-costs-rise-after-jump-in-oil-price",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 81,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 354,
+        "source_url": "https://www.telegraph.co.uk/business/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "UK borrowing costs close to highest level since 2007",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Matt Wolfe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-28T20:16:07.798020+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-28T17:07:47+00:00",
+        "description": "This AI model doesn\u2019t use\u2026 WORDS?\n\nIt\u2019s called Jev, from Typesafe AI, and instead of generating paragraphs or code text, it skips straight to making a decision.\n\nInstead of text, it\u2019s outputs are things like:\u2192 a choice\u2192 a score\u2192 true/false\n\nThat makes it insanely fast and ridiculously cheap. Input costs start at just 4\u00a2 per million tokens, and outputs are free because they\u2019re apparently too cheap to meter.\n\nWould you actually build with something like this?\n\n#ai #ainews #futuretech #aimodel",
+        "id": 6476275,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/hx42whM7NsY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 933,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChpleBmo18P08aKCIgti38g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/hx42whM7NsY/hqdefault.jpg",
+        "title": "Jev - The New AI model that has people talking",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ACCU Conference",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-28T13:27:27.711020+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-28T11:54:14+00:00",
+        "description": "ACCU Membership: https://tinyurl.com/ydnfkcyn\n---\n\nRefactoring Towards Structured Concurrency - Roi Barkan - ACCU on Sea 2026\n---\n\nThe addition of \"Senders and Receivers\" (a.k.a execution) to C++26 is a nudge for C++ practitioners to consider utilizing Structured Concurrency princinples when designing and implementing concurrent systems. Structured Concurrency is a well reasoned methodology, described by various C++ experts in the past, focused on composability, wide applicability, error tollerance and on correct fit with the rest of the language, most notably C++20 coroutines. The challenge that we'll face in this talk is that of taking existing concurrent and systems which were not originally designed with Structured Concurrency in mind, and making the gradual changes towards that design and towards more natural use of senders, receivers and coroutines. Join me in a tour of various techniques and tips for modernizing legacy concurrent systems, as we prepare for adopting the C++26 st",
+        "id": 6473132,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=ttoQfPP_Gkg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 421,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJhay24LTpO1s4bIZxuIqKw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/ttoQfPP_Gkg/hqdefault.jpg",
+        "title": "Refactoring Towards Structured Concurrency - Roi Barkan - ACCU on Sea 2026",
+        "vote": 0
+    }
+]

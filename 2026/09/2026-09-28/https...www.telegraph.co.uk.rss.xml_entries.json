@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Telegraph reporters",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-28T05:46:56.698385+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-28T04:47:56+00:00",
+        "description": "Meanwhile, Madonna wins seven awards and British singer Sienna Spiro named Best New Artist",
+        "id": 6470638,
+        "language": "en-UK",
+        "link": "https://www.telegraph.co.uk/us/news/2026/09/28/mtv-awards-2026-taylor-swift-madonna",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 81,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 357,
+        "source_url": "https://www.telegraph.co.uk/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Taylor Swift becomes most-awarded artist in MTV history",
+        "vote": 0
+    }
+]

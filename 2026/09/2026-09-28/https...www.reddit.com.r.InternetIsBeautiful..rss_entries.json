@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/SinnyJ",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-28T22:45:56.797689+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-28T18:56:13+00:00",
+        "description": "<table> <tr><td> <a href=\"https://www.reddit.com/r/InternetIsBeautiful/comments/1wsndfe/solar_system_sim_built_for_physical_accuracy/\"> <img src=\"https://external-preview.redd.it/3F21O3Abk7ZsWVqmjsnjsHpDpyWoEqVgWrgNhZi9qDI.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a6cfb7338094a10e34aad62db73e2bcad18d5508\" alt=\"Solar system sim, built for physical accuracy.\" title=\"Solar system sim, built for physical accuracy.\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>I made a 3D interactive solar system you can navigate and set to any date between 1000 and 3000. The positions of the planets and moons are computed from VSOP87-type models and checked against JPL Horizons data, accurate to within 30 arcseconds for planets and 30 km for the Moon over 1800-2050, so eclipses, alignments, and moon phases are physically real. It&#39;s still a work in progress, so feedback is wanted. If you try it and something feels off, confusing, or worth adding, I&#39;d be glad to hear it.</p> </div><!-",
+        "id": 6477125,
+        "language": "en",
+        "link": "https://www.reddit.com/r/InternetIsBeautiful/comments/1wsndfe/solar_system_sim_built_for_physical_accuracy",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 539,
+        "source_url": "https://www.reddit.com/r/InternetIsBeautiful/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://external-preview.redd.it/3F21O3Abk7ZsWVqmjsnjsHpDpyWoEqVgWrgNhZi9qDI.jpeg?width=640&crop=smart&auto=webp&s=a6cfb7338094a10e34aad62db73e2bcad18d5508",
+        "title": "Solar system sim, built for physical accuracy.",
+        "vote": 0
+    }
+]

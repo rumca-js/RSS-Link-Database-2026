@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Hammond",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-28T15:13:33.744437+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-28T15:00:46+00:00",
+        "description": "I was digging into a Steam privilege escalation PoC and looking at how it uses IPC with the Steam Client Service.\n\nThe PoC abuses that interaction to get the service to execute its payload with elevated privileges.\n\nFull video: https://youtu.be/Jx6Jvykqhsk?si=vpPWQFN3Rht5nM3I",
+        "id": 6473896,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/mk4VXMgcY6A",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 959,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVeW9qkBjo3zosnqUbG7CFw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/mk4VXMgcY6A/hqdefault.jpg",
+        "title": "Steam IPC Exploit",
+        "vote": 0
+    }
+]
