@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "David Bombal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-29T17:06:57.308820+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-29T16:00:40+00:00",
+        "description": "High latency, jitter, or slow speeds don\u2019t always mean there\u2019s something wrong with your WiFi. The issue could be your actual internet connection.\n\nIn this example, we test an Airbnb network and see how a simple score can help identify where the problem really is, so you know what needs fixing instead of wasting time troubleshooting the wrong thing.\n\nBig thanks to Ookla for sponsoring this video. To get your own Speedtest Pulse please use the following link: https://bit.ly/4iPdnSN\n\n#WiFi #Networking #Internet",
+        "id": 6483832,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/vCTZln8HV84",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 984,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP7WmQ_U4GB3K51Od9QvM0w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/vCTZln8HV84/hqdefault.jpg",
+        "title": "Your WiFi Might NOT Be the Problem",
+        "vote": 0
+    }
+]

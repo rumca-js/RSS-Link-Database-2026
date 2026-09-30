@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Blog Staff",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-29T21:09:04.194615+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-29T19:57:35+00:00",
+        "description": "<p>\n\t<a href=\"https://www.boost.org/releases/1.89.0/\"><img alt=\"space.png\" src=\"https://isocpp.org/files/img/space.png\" style=\"width: 2px; margin: 10px; float: right;\" /><img alt=\"space.png\" src=\"https://isocpp.org/files/img/space.png\" style=\"width: 2px; margin: 10px; float: right;\" /><img alt=\"getboost.png\" src=\"https://isocpp.org/files/img/getboost.png\" style=\"width: 147px; margin: 10px; float: right;\" /></a></p>\n<p>\n\tBoost 1.92.0 is out. Highlights from this release:</p>\n<p>\n\t<strong>GPU / CUDA</strong></p>\n<ul>\n\t<li>\n\t\t<p>\n\t\t\tCharconv: <code>to_chars</code> and <code>from_chars</code> for integers are now usable inside CUDA kernels.</p>\n\t</li>\n\t<li>\n\t\t<p>\n\t\t\tDecimal: <code>decimal32_t</code>, <code>decimal64_t</code>, and <code>decimal128_t</code> are now usable in CUDA kernels.</p>\n\t</li>\n\t<li>\n\t\t<p>\n\t\t\tMath: fixed CUDA compilation where host functions were incorrectly marked as device.</p>\n\t</li>\n</ul>\n<p>\n\t<strong>Networking hardening</strong></p>\n<ul>\n\t<li>\n\t\t<p>\n\t\t\tBeast: str",
+        "id": 6485774,
+        "language": "en",
+        "link": "https://isocpp.org//blog/2026/09/boost-1.92.0-is-out",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://isocpp.org/files/img/space.png",
+        "title": "Boost 1.92.0 is out.",
+        "vote": 0
+    }
+]

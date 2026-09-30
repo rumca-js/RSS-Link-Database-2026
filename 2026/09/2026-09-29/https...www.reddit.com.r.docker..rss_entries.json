@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/Pagaddit",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-30T01:32:24.592107+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-29T16:39:18+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>I have been building <a href=\"https://dockiy.com\">DockIY</a> over the last few years from my own VPS deployment workflows.</p> <p>It started as a simple Traefik + Umami setup and I just now put together enough of the CLI and templates to share with everyone and get some feedback.</p> <p>DockIY is a minimal DIY Docker setup meant for deploying several web apps to a single VPS. It is meant for solo devs and small teams who like to self-host everything. It consists mostly of a set of repos and a CLI tool:</p> <ul> <li>The main server repo is mainly a docker compose, infrastructure-as-code, setup for the reverse proxy, analytics and monitoring.</li> <li>Template repos (React, Nuxt and Vitepress for now) are setup for deployment with DockIY: reverse proxy labels, local Docker builds and deployment scripts.</li> <li>The CLI helps setup the server, initialize from templates and orchestrates builds, deployments and git tags.</li> </ul> <p>The base stack is:</",
+        "id": 6487326,
+        "language": "en",
+        "link": "https://www.reddit.com/r/docker/comments/1wtf2st/building_a_localfirst_diy_web_app_deployment_cli",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 580,
+        "source_url": "https://www.reddit.com/r/docker/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Building a local-first DIY web app deployment CLI and Docker templates",
+        "vote": 0
+    }
+]

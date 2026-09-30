@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-29T13:04:25.153443+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-29T11:00:27+00:00",
+        "description": "Learn more about Cyber Resilience here \u2192 https://ibm.biz/~VtUoOk5oA\n\nRansomware rarely starts with a ransom note. Jeff Crume explains how storage systems detect ransomware early using entropy analysis, machine learning, monitoring, and cyber-resilient design. Learn how organizations can identify attacks faster and reduce data loss before ransomware spreads.\n\n00:00 - Understanding Modern Ransomware Threats\n00:22 - Why Ransomware Is a Data Problem\n01:13 - Essential First Steps: Patching, Training, and Endpoint Protection\n01:55 - How Ransomware Spreads Across Systems\n02:26 - Why Storage Is Your Earliest Line of Defense\n02:30 - The Four Rs of Reliable Backups\n04:14 - Detecting Ransomware Before the Pop Up Appears\n04:55 - Using Entropy, Compression, and Dedup Signals for Early Detection\n07:01 - Spotting Mass Overwrites, Renames, and Partial Encryption\n08:31 - Responding Fast: Isolation, Lockdown, and Recovery Points\n09:11 - Integrating Storage with SIEM and SOAR for Coordinated Defense\n10:",
+        "id": 6481662,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=7jUcTG1eeTM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/7jUcTG1eeTM/hqdefault.jpg",
+        "title": "Ransomware Detection: Why Storage Finds the Attack First",
+        "vote": 0
+    }
+]

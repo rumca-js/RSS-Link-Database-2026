@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-29T23:39:33.655727+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-29T23:16:23+00:00",
+        "description": "President Trump released an agreement signed by top tech leaders on increasing standards for A.I. NBC News\u2019 Gabe Gutierrez reports.",
+        "id": 6486745,
+        "language": "en-US",
+        "link": "https://www.nbcnews.com/nightly-news/video/trump-hosts-tech-leaders-for-meeting-on-a-i-270751301964",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 223,
+        "source_url": "https://feeds.nbcnews.com/nbcnews/public/tech",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_09/1790723778731_nn_ggu_ai_summit_at_white_house_260929_S3_1920x1080-kep5dy.jpg",
+        "title": "Trump hosts tech leaders for meeting on A.I.",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Learn Linux TV",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-29T18:12:43.162207+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-29T15:00:04+00:00",
+        "description": "\ud83d\udcd8 Get my book on Leanpub: https://learnlinux.link/stl-leanpub\n\nWhy did I walk away from a traditional publishing contract and move my books to Leanpub? In this video, I share how my technical writing career started, why I chose to self-publish, and what it's actually like writing on Leanpub, including its excellent GitHub integration that lets you write your book like code. I'll also share lessons I've learned from years of writing about Linux.\n\n*\ud83d\udcda Discounts, Courses, Books, and More! (Support Linux Learning)*\n- Switching to Linux Book:\n        Amazon \u279c https://learnlinux.link/stl-amazon\n        Publisher \u279c https://learnlinux.link/stl-leanpub\n- Linux Swag & Gear \u279c https://learnlinux.link/swag\n- Live Training \u279c https://learnlinux.link/live\n- $100 of Free Linode Starter Credit \u279c https://learnlinux.link/linode\n- \"Linux Pro-Tips\" Newsletter \u279c https://learnlinux.link/linux-tips\n- eBook Bundle \u279c https://learnlinux.link/ebook-bundle\n- Ansible Course \u279c https://learnlinux.link/ansible\n- Paid A",
+        "id": 6484318,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=HQzHcHd3h-s",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 997,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxQKHvKbmSzGMvUrVtJYnUA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/HQzHcHd3h-s/hqdefault.jpg",
+        "title": "Self-Publishing a Tech Book on Leanpub: My Honest Experience",
+        "vote": 0
+    }
+]

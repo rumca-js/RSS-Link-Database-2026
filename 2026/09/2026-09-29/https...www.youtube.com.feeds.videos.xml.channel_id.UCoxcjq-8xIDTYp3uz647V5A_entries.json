@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Numberphile",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-29T20:30:32.618288+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-29T20:05:39+00:00",
+        "description": "Tristan Buckmaster speaks about his role in the controversial Navier-Stokes solution. We are seeking an interview with OpenAI too. More links & important information in full description below \u2193\u2193\u2193\n\nNote: Since the video was finalised and uploaded, we have heard back from OpenAI and we're trying to schedule an interview. If we're successful, it will be uploaded ASAP and linked here.\n\nHere's OpenAI's page about the proof (which also includes statements about Buckmaster's concerns): https://openai.com/index/navier-stokes-solution/\n\nTristan Buckmaster page: https://cims.nyu.edu/~tristanb/\n\nBuckmaster statement following publication of the proof: https://cims.nyu.edu/~tristanb/statement.pdf\n\nA post from Sebastien Bubeck in response to some of the claims: https://archive.ph/T6tlF\n\nNumberphile's initial video about OpenAI cracking Navier-Stokes: https://www.youtube.com/watch?v=3geDF-DAwpg\n\nAnd an earlier Numberphile video about Navier-Stokes: https://www.youtube.com/watch?v=ERBVFcutl3M\n\nNumbe",
+        "id": 6485427,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Mzbtj5nkMXI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 712,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCoxcjq-8xIDTYp3uz647V5A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/Mzbtj5nkMXI/hqdefault.jpg",
+        "title": "The Buckmaster Interview (Navier-Stokes) - Numberphile",
+        "vote": 0
+    }
+]

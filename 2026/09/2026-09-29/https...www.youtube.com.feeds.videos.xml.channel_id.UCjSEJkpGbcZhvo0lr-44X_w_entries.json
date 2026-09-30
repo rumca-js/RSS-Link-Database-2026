@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "TechHut",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-29T20:09:04.287976+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-29T19:20:21+00:00",
+        "description": "LiberNovo\u2019s Fall Prime Sale is coming and your limited free gift is waiting! \ud83c\udf81 Check it out here: https://libernovo.com/pages/libernovo-maxis-dynamic-ergonomic-chair?ref=cqfjzzlc\n\nBook Orbit is a self-hosted app for books and audiobooks that pulls in the pieces you would normally run three or four separate tools for. Collection tracking, a built in e-reader, an audiobook player, metadata management, and request handling that works a lot like Sonarr or Radarr but for books. In this guide we walk the whole UI, then get into how I actually have it running with Docker Compose, a network share off unRAID, and nginx proxy manager. Full write up and every link is down below.\n\nBook Orbit: https://techhut.tv/bookorbit-self-hosted-library\nAudiobookshelf: https://techhut.tv/apps/audiobookshelf\nNginx Proxy Manager + NetBird Guide (good prerequisite): https://github.com/TechHutTV/homelab/tree/main/netbird\nMy Homelab Share Mounting Guide: https://www.youtube.com/watch?v=qmSizZUbCOA\n\nTimestamps\n\n0:0",
+        "id": 6485312,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=lcaE8rXNrd8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 430,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjSEJkpGbcZhvo0lr-44X_w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/lcaE8rXNrd8/hqdefault.jpg",
+        "title": "This Self-Hosted Book App Might Be Too Good",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Digital Foundry",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-29T17:36:44.489068+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-29T15:53:31+00:00",
+        "description": "Video sponsored by Remedy and Nvidia. Armed with the latest iteration of its Northlight Engine, developer Remedy opens the scale of its sequel to a wide open city space. Its ray tracing - and path tracing - features are also expanded over Alan Wake 2's, allowing for a radical overhaul to lighting, shading and reflections. On an Nvidia RTX 5090 it's possible to strike spectacular results - while technologies like DLSS, ray reconstruction and frame gen also help push its visuals to greater heights. \n\nExamine the DF Website: https://digitalfoundry.net\n\nGo here to check out DF merch! https://store.digitalfoundry.net\n\nSubscribe for more Digital Foundry: http://bit.ly/DFSubscribe\n\n00:00 Introduction\n02:44 Northlight Engine Highlights\n05:40 Path Tracing Upgrades\n11:13 Nvidia DLSS, Ray Reconstruction and Frame Generation\n16:13 Concluding Thoughts",
+        "id": 6483994,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Rhcb3TqhCCs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 696,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9PBzalIcEQCsiIkq36PyUA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/Rhcb3TqhCCs/hqdefault.jpg",
+        "title": "CONTROL Resonant - The Ultra Path Tracing Experience on Nvidia RTX 5090 [Sponsored]",
+        "vote": 0
+    }
+]
