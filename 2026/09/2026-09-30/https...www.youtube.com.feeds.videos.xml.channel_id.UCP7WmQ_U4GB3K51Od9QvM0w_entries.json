@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "David Bombal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-30T16:50:48.988595+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-30T16:00:23+00:00",
+        "description": "Microsoft Defender is built into Windows and provides important protection, but does that mean you don\u2019t need anything else?\n\nIn this clip, we discuss how attackers may attempt to bypass security controls, manipulate Defender exclusions, and make a system appear protected even when certain files or locations are no longer being scanned.\n\nModern attacks are also becoming increasingly targeted and sophisticated. Simply avoiding obvious phishing emails isn\u2019t always enough.\n\nThe real question isn\u2019t just whether you have antivirus. It\u2019s whether your security controls are actually working as expected.\n\nThank you to @Threatlocker for sponsoring this video and my trip to Black Hat USA.\n\n#bhusa2026 #CyberSecurity #WindowsDefender",
+        "id": 6492690,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/f98F_IABUdM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 984,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP7WmQ_U4GB3K51Od9QvM0w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/f98F_IABUdM/hqdefault.jpg",
+        "title": "Is Windows Defender Good Enough in 2026?",
+        "vote": 0
+    }
+]

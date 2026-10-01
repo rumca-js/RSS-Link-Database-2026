@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Simon Willison",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-30T22:45:38.069692+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-30T21:54:19+00:00",
+        "description": null,
+        "id": 6495286,
+        "language": "en-us",
+        "link": "https://simonwillison.net/2026/Sep/30/he-built-this-city",
+        "manual_status_code": 0,
+        "page_rating": 28,
+        "page_rating_contents": 88,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 423,
+        "source_url": "https://simonwillison.net/atom/everything",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://static.simonwillison.net/static/2026-09-30/image_crop_4853x3640_w2427_q0.3.jpg",
+        "title": "He Built This City",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Khan Academy",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-30T15:02:32.065976+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-30T12:41:21+00:00",
+        "description": "Flux describes the amount of a given quantity that passes through a given area. For an electric field that is constant across an area, the electric flux through the area is defined as the dot product of the electric field and area vectors. The direction of the area vector is defined as perpendicular to the plane of the surface and outward from a closed surface. The total electric flux passing through a surface is defined by the surface integral of the electric field over the surface. Gauss\u2019s law relates electric flux through a Gaussian surface to the charge enclosed by that surface.\n\nSections:\n00:00 - Understanding electric flux\n02:30 - Flux through tilted surfaces\n04:00 - Area vectors and the dot product\n06:20 - Flux through curved surfaces\n08:08 - Electric flux through a sphere\n10:05 - Gauss's law\n\n------------------\n\nKhan Academy is a nonprofit organization with the mission of providing a free, world-class education for anyone, anywhere. Khan Academy has been translated into dozens",
+        "id": 6491758,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=YtEJrOXUYEs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 977,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4a-Gbdw7vOaccHmFo40b9g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/YtEJrOXUYEs/hqdefault.jpg",
+        "title": "Electric flux and Gauss's law (part 1) | AP Physics | Khan Academy",
+        "vote": 0
+    }
+]

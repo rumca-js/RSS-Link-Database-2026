@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Chris Titus Tech",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-30T11:39:41.038275+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-30T11:15:08+00:00",
+        "description": "You reported the bugs, and I got to work. This month's Windows Utility update focuses on fixes, polish, and improvements driven by your feedback.\n\nWe cover WinUtil and Win One Shot updates, including clipboard and run history fixes, better display scaling, expanded language support, and a reworked Windows 11 Creator. I also share why I scrapped a month of development when it made the tool slower.\n\nWhat should I tackle next? Share your feedback in the comments!\nThanks to General Translation for sponsoring this video.\n\nCheck out General Translation: https://link.christitus.com/generaltranslation\n\n0:00 Your Feedback Delivered\n2:07 Bug Fixes First\n4:07 Windows 11 Creator\n6:13 Translation And Feedback\n8:15 When To Scrap Features\n\n\u25ba\u25ba Digital Downloads \u279c https://www.cttstore.com\n\u25ba\u25ba Patreon \u279c https://www.patreon.com/christitustech\n\u25ba\u25ba Twitch \u279c https://www.twitch.tv/christitustech\n\u25ba\u25ba Website and Guides \u279c https://christitus.com",
+        "id": 6490099,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=K6OEKD8Z1-g",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 444,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCg6gPGh8HU2U01vaFCAsvmQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/K6OEKD8Z1-g/hqdefault.jpg",
+        "title": "You Reported It. I Fixed It.",
+        "vote": 0
+    }
+]

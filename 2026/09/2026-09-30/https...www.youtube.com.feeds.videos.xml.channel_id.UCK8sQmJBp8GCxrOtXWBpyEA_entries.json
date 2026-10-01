@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Google",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-30T16:29:20.362474+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-30T16:07:24+00:00",
+        "description": "Project Suncatcher is Google\u2019s moonshot to launch solar-powered AI into Earth\u2019s orbit. But operating TPU clusters in space creates a massive hurdle. \n\nOn Earth, cooling chips means blowing air over heat sinks. In the vacuum of space, there is no air.\n\nIn this video, Google researchers share the thermal engineering challenge of moving heat, using heat pipes, pumped fluid loops, and thermal vacuum chambers.\n\n00:10 - How do we cool AI chips in space?\n01:05 - How do heat pipes and fluid loops move heat to radiators?\n01:26 - How do thermal vacuum chambers simulate space on Earth?\n\nMore on Project Suncatcher: \nhttps://youtu.be/o1JK79jszqo\nhttps://youtu.be/8NPgswgbTnE\nhttps://youtu.be/KO2bNK9L7WA\n\n#Google #ProjectSuncatcher #AI #Space #Innovation \n\nSubscribe to our Channel: https://www.youtube.com/google\nFind us on X: https://twitter.com/google\nWatch us on TikTok: https://tiktok.com/@google\nFollow us on Instagram: https://www.instagram.com/google\nJoin us on Facebook: https://www.facebook.com",
+        "id": 6492574,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=ktdbUIZKeSE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 777,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCK8sQmJBp8GCxrOtXWBpyEA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/ktdbUIZKeSE/hqdefault.jpg",
+        "title": "Making sure AI chips don\u2019t overheat in space",
+        "vote": 0
+    }
+]

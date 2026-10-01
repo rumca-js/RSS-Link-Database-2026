@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "GitHub",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-09-30T17:03:19.923712+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-09-30T15:00:23+00:00",
+        "description": "Open source maintainers are facing an influx of low-quality contributions across their repositories. In this episode of The GitHub Podcast, Cassidy and GPS sit down with Camilla Moraes, product manager on GitHub's Maintainer Love team, to talk about how her team builds high-impact tools for maintainers. Learn how new features like PR limits help manage spam and how Camilla uses Copilot CLI to organize qualitative maintainer feedback.\n\nLinks mentioned in the episode: \n\nMaintainer community: https://maintainers.github.com\niOpenPod: https://github.com/TheRealSavi/iOpenPod\nBento: https://bento.page\n\n\u2014 CHAPTERS \u2014 \n\n00:00 Welcome Camila: GitHub Product Manager\n01:13 Journey from engineer to PM\n03:31 Tackling the AI spam problem\n05:48 How GitHub finds 'paper cuts'\n06:58 Favorite & controversial Tiny Wins\n09:24 Prioritizing maintainer feedback\n12:04 AI-powered feedback analysis\n17:25 Balancing intuition and data\n24:00 Open source project picks\n29:11 Connect with Camila & GitHub\n\n#GitHubPodcas",
+        "id": 6492745,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=PWjo4VWhmqY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 1005,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7c3Kb6jYCRj4JOHHZTxKsQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/PWjo4VWhmqY/hqdefault.jpg",
+        "title": "How GitHub's Tiny Wins team tackles the AI slop problem | S02E04 | The GitHub Podcast",
+        "vote": 0
+    }
+]
