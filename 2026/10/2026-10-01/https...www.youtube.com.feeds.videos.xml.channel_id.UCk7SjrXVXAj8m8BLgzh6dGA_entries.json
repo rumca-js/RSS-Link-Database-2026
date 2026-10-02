@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Intel",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-01T16:45:42.773258+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-01T16:00:29+00:00",
+        "description": "As part of the Intel Hardware Security Academic Awards, this video features researchers discussing two major honors in computer architecture and hardware security: the Test of Time Award and a Recent Research Award, both presented at the Intel Academic Security Conference held at the Intel Jones Farm campus in Hillsboro, Oregon. The Test of Time Award recognizes professor Onur Mutlu and Konrad Lai for the lasting impact of the foundational Rowhammer research, originally published in 2014, which revealed that repeatedly accessing DRAM memory rows can unintentionally cause bit flips in adjacent memory cells. This discovery reshaped how the industry and research community think about memory reliability, hardware security, and system-level vulnerabilities, and it continues to influence mitigation techniques and standards today. The discussion also highlights Giray Yaglikci, Ph.D., for winning the Recent Research Award given for his work on Chronus, a follow-up research effort that critica",
+        "id": 6501490,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=rso5mvNYFFI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 1006,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCk7SjrXVXAj8m8BLgzh6dGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/rso5mvNYFFI/hqdefault.jpg",
+        "title": "2026 winners of the Intel Hardware Security Academic Awards | Intel",
+        "vote": 0
+    }
+]

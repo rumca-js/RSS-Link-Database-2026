@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Charlie Osborne",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-01T09:28:33.751773+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-01T09:00:00+00:00",
+        "description": null,
+        "id": 6498192,
+        "language": "en-US",
+        "link": "https://www.zdnet.com/innovation/pwc-digital-trust-insights-2027-ai-risk-responsibility",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 406,
+        "source_url": "https://www.zdnet.com/news/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2219096918.jpg",
+        "title": "Who owns AI risk at work? Business and tech leaders can\u2019t agree, PwC survey finds",
+        "vote": 0
+    }
+]

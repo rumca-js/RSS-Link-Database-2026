@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Chris Price",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-01T15:53:29.370819+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-01T15:51:55+00:00",
+        "description": "FTSE 100 tumbles amid bond market sell-off",
+        "id": 6501090,
+        "language": "en-UK",
+        "link": "https://www.telegraph.co.uk/business/2026/10/01/uk-house-prices-mortgage-interest-rates-bonds-ftse-100",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 81,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 357,
+        "source_url": "https://www.telegraph.co.uk/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "FTSE 100 tumbles amid bond market sell-off",
+        "vote": 0
+    }
+]

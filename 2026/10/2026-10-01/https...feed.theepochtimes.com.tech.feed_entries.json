@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Reuters",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-01T03:46:50.882934+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-01T03:41:01+00:00",
+        "description": "The website used by ShinyHunters, the group \u200cthat claimed responsibility for a recent hack of thousands of FBI agents' personal and sensitive data, went offline",
+        "id": 6496785,
+        "language": "en-US",
+        "link": "https://www.theepochtimes.com/tech/shinyhunters-website-goes-offline-after-fbi-deadline-expires-6097164",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 105,
+        "source_url": "https://feed.theepochtimes.com/tech/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.theepochtimes.com/assets/uploads/2026/09/01/id6097166-2026-09-30T215730Z_1_LYNXMPEM8T1XL_RTROPTP_4_USA-CYBER-SHINYHUNTERS-1080x720.jpg",
+        "title": "ShinyHunters Website Goes Offline After FBI Deadline Expires",
+        "vote": 0
+    }
+]

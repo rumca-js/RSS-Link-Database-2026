@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "redakcja",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-01T21:54:58.471924+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-01T19:37:15+00:00",
+        "description": "<p>FELG Dent, firma dostarczaj\u0105ca oprogramowanie do gabinet\u00f3w stomatologicznych, zosta\u0142a zhackowana. Tym razem za atakiem nie stoi Fingerprint (kt\u00f3ry ma na swoim koncie ataki na <a href=\"https://niebezpiecznik.pl/post/co-zrobic-po-wycieku-danych/\" target=\"_blank\">MyDr</a>, Medyc, Enel-Med i <a href=\"https://niebezpiecznik.pl/post/fakturownia-pl-zhackowana/\" target=\"_blank\">Fakturowni\u0119</a>), a grupa, kt\u00f3ra nazywa si\u0119 mianem &#8220;Horus&#8221;.<span id=\"more-27398\"></span></p>\n<p>Atakuj\u0105cy przes\u0142ali do naszej redakcji nast\u0119puj\u0105c\u0105 informacj\u0119:</p>\n<blockquote><p>Jestesmy niezalezni nazywamy sie Horus pokazalismy slabosc kolejnego programu gabinetowego ktory odpowiadal za trzymanie danych polakow (&#8230;) w nasze rece wpadly nastepujace dane z felgdent[.]com:<br />\n<strong>2 400 000 pacjent\u00f3w \u2014 PESEL, imi\u0119 i nazwisko, adres, telefon, gabinet, NIP<br />\n712 000 personelu \u2014 imi\u0119 i nazwisko, rola, gabinet, e-mail, awatar<br />\n1 200 000 recept \u2014 PESEL, dane osobowe, lek, odp\u0142atno\u015b\u0107, lekarz ",
+        "id": 6503784,
+        "language": "pl-PL",
+        "link": "https://niebezpiecznik.pl/post/kolejny-wyciek-danych-tym-razem-2-500-000-pacjentow",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 239,
+        "source_url": "https://feeds.feedburner.com/niebezpiecznik",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://niebezpiecznik.pl/wp-content/uploads/2026/10/felgdent-wyciek-150x150.jpeg",
+        "title": "Kolejny wyciek danych, tym razem 2 500 000 pacjent\u00f3w",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-01T15:25:27.508779+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-01T14:24:44+00:00",
+        "description": "Learn how to build an Instagram-style mobile application from scratch using Expo, Codex, Convex, and Clerk. The video covers the entire end-to-end development cycle, from project planning and AI-assisted UI design to testing development builds on physical devices and preparing mandatory legal pages for App Store release.\n\nCourse from @codesistency \n\n\ud83d\ude80 Our Skool Community: https://dub.sh/codesistency\n\ud83d\udcda Source Code: https://dub.sh/code10\n\n\ud83d\udcda Links:\n\ud83d\udea8 Try Sentry for FREE: https://dub.sh/sentryy\n\ud83d\ude48 Try Expo for FREE: https://dub.sh/expo-yt\n\ud83d\udd10 Try Clerk for FREE: https://go.clerk.com/codesistency\n\n\ud83d\udc47 PROMPTS:\n\ud83c\udf89 Plan Mode Prompt: https://dub.sh/plan-mode\n\ud83d\ude4c Design Prompts: https://dub.sh/design-prompts\n\ud83d\ude48 Legal Pages Prompts: https://dub.sh/legal-prompts\n\nTimestamps:\n- 0:00:00 0 - Project Preview\n- 0:09:59 1 - Planning Our Project\n- 0:38:55 2 - Generating UI Design\n- 0:49:09 3 - Authentication\n- 1:18:21 4 - Setting Up Backend & Running App on Our Phone\n- 1:52:14 5 - Completing Our App\n- 2:06:32 6",
+        "id": 6500797,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=bGALxRWI10A",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/bGALxRWI10A/hqdefault.jpg",
+        "title": "Build and Publish a Mobile App with GPT-6 Astra",
+        "vote": 0
+    }
+]

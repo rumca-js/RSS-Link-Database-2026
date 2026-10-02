@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Google DeepMind",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-01T19:23:59.176125+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-01T16:37:46+00:00",
+        "description": "How do you know if what you're seeing is real? Professor Hannah Fry sits down with Pushmeet Kohli (VP of Science) and Jeremy Ratcliffe (Research Scientist) to break down SynthID, the watermarking technology expanding from text, images, and video straight into biology. Learn how invisible, mathematical watermarks help trace AI provenance, protect against misuse, and safeguard protein sequence design without impacting biological function. \n\nTimecodes: \n00:00 Introduction \n00:34 What is a watermark?\n04:35 SynthID\n15:16 Images and video \n19:28 SynthID Bio\n28:00 Future of resilience \n\nLearn more about SynthID Bio: https://deepmind.google/blog/introducing-synthid-bio/ \n\n___\n\nSubscribe to our channel https://www.youtube.com/@googledeepmind \nFind us on X https://x.com/GoogleDeepMind\nFollow us on Instagram https://instagram.com/googledeepmind \nAdd us on Linkedin https://www.linkedin.com/company/deepmind/",
+        "id": 6502796,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=HIUzrxQxTtw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 934,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP7jMXSY2xbc3KCAE0MHQ-A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/HIUzrxQxTtw/hqdefault.jpg",
+        "title": "From deepfakes to DNA: the science of watermarking AI",
+        "vote": 0
+    }
+]

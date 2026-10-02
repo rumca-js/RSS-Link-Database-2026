@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ACCU Conference",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-01T15:55:20.482390+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-01T13:27:03+00:00",
+        "description": "ACCU Membership: https://tinyurl.com/ydnfkcyn\n---\n\nDesign Patterns - The Most Common Misconceptions (3 of N) - Klaus Iglberger - ACCU on Sea 2026\n---\n\nDesign patterns are everywhere, as they are the key to managing dependencies between software entities. Thus knowledge about these is an essential part of every programmers toolbox. But despite their fundamental importance, there are some common misconceptions about them, in particular about several of the most often used design patterns.\n\nIn this talk, we\u2019ll take a close look at the Decorator and Adapter design patterns. Both are very commonly used \u2014 there are for instance various applications within the C++ standard library \u2014 and both have clearly defined applications and responsibilities. However, since they are structurally similar, they are often confused \u2014 even in the standard library.\n\nIn this talk we\u2019ll shed some light on these two design patterns and their misconceptions. We\u2019ll see several examples of them, also within the C++ ",
+        "id": 6501101,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=bAsJvmtYZOg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 421,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJhay24LTpO1s4bIZxuIqKw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/bAsJvmtYZOg/hqdefault.jpg",
+        "title": "Design Patterns - The Most Common Misconceptions (3 of N) - Klaus Iglberger - ACCU 2026",
+        "vote": 0
+    }
+]

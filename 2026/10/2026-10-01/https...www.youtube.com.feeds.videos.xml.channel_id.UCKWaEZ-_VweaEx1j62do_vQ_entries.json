@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-01T12:28:23.000708+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-01T11:00:23+00:00",
+        "description": "Learn more about New Frontier AI Models here \u2192 https://ibm.biz/~rGiO8LVz1\n\nWhat if an AI model didn't need to generate text? Martin Keen explains Jev, a System 1 AI model that makes fast decisions using calibrated probabilities. Learn how Jev can complement LLMs for routing, classification, and AI guardrails.\n\n 00:00 \u2013 Meet Jev and System 1 AI \n 01:29 \u2013 Compare Jev with LLMs and Reasoning Models \n 02:09 \u2013 See What Jev Is Built to Decide \n 04:04 \u2013 Understand How Jev Returns Probabilities \n 06:52 \u2013 Learn How AI Models Calibrate Confidence \n 09:18 \u2013 Train Jev with Calibrated Decisions \n 10:36 \u2013 Turn Jev Probabilities Into Software Decisions \n 12:24 \u2013 Use Jev for AI Guardrails \n 12:56 \u2013 Combine Jev with LLM Workflows \n 14:03 \u2013 Explore Where System 1 AI Could Go Next\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/~pW19rmUKV\n\nAI was used in the creation of the transcript and metadata for this video.\n\n#aimodel #llm #ai #aidecisionmaking \n-----",
+        "id": 6499267,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=YGgNBcIgI4s",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/YGgNBcIgI4s/hqdefault.jpg",
+        "title": "What Is Jev? The AI Model That Doesn't Generate Text",
+        "vote": 0
+    }
+]

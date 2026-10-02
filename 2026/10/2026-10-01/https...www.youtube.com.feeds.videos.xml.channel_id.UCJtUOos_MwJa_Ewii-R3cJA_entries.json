@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Leila Gharani",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-01T12:23:51.258721+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-01T09:00:04+00:00",
+        "description": "Learn Pivot Table Foundations: http://courses.xelplus.com/p/introduction-pivot-tables?coupon_code=YT_MEMBER\n\nMaster Pivot Tables: https://www.xelplus.com/course/excel-pivot-tables/\n\nWhat is a pivot table, and why is everyone in your office obsessed with them? In this video, we break down why Pivot Tables are the ultimate tool for data summarization and interactive reporting in Excel, even if you\u2019ve never used them before.\n\nMost people struggle with complex Excel formulas like SUMIFS or the new GROUPBY functions. However, a Pivot Table allows you to organize hundreds of rows of raw data into a polished report with just a few clicks\u2014zero formulas required. We use real-world analogies, like your banking app and sales transactions, to show you how to turn \"messy data\" into \"clear answers\" using the drag-and-drop power of modern Excel.\n\n00:00 What is a Pivot Table actually?\n00:42 The Banking App Analogy: How summarization works\n01:28 Why Pivot Tables are more flexible than static reports\n0",
+        "id": 6499218,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=w0W5SKI_FOs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 957,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJtUOos_MwJa_Ewii-R3cJA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/w0W5SKI_FOs/hqdefault.jpg",
+        "title": "What Actually IS a Pivot Table?",
+        "vote": 0
+    }
+]

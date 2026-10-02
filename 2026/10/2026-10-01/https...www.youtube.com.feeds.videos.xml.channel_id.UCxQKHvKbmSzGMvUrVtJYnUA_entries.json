@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Learn Linux TV",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-01T17:34:14.763773+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-01T15:00:28+00:00",
+        "description": "Most cloud disasters come from the same handful of habits, not bad luck. In this video, I cover five cloud \"worst practices\" I see over and over: weak monitoring, runaway spending, sloppy security, no governance, and treating one tool as the answer to everything. If any of these sound familiar, here's how to spot them and fix them before they cost you.\n\nNeed hands-on help with your Linux or cloud infrastructure? Book a one-on-one session: https://learnlinux.tv/request-assistance\n\n*\ud83d\udcda Discounts, Courses, Books, and More! (Support Linux Learning)*\n- Switching to Linux Book:\n        Amazon \u279c https://learnlinux.link/stl-amazon\n        Publisher \u279c https://learnlinux.link/stl-leanpub\n- Linux Swag & Gear \u279c https://learnlinux.link/swag\n- Live Training \u279c https://learnlinux.link/live\n- $100 of Free Linode Starter Credit \u279c https://learnlinux.link/linode\n- \"Linux Pro-Tips\" Newsletter \u279c https://learnlinux.link/linux-tips\n- eBook Bundle \u279c https://learnlinux.link/ebook-bundle\n- Ansible Course \u279c https",
+        "id": 6501966,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=TswkmHQHQfU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 997,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxQKHvKbmSzGMvUrVtJYnUA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/TswkmHQHQfU/hqdefault.jpg",
+        "title": "5 Cloud Mistakes That Are Quietly Draining Your Budget",
+        "vote": 0
+    }
+]

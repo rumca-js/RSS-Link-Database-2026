@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/CapitalRegular4157",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-01T04:58:17.070789+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-01T02:24:09+00:00",
+        "description": "<table> <tr><td> <a href=\"https://www.reddit.com/r/raspberry_pi/comments/1wunr40/the_halo_ce_decomp_running_on_a_raspberry_pi_400/\"> <img src=\"https://preview.redd.it/w4g6bolenrsh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=8381b70027abcf3aefd2fd78899000377f332f68\" alt=\"The Halo CE Decomp running on a raspberry pi 400\" title=\"The Halo CE Decomp running on a raspberry pi 400\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Hi, I won&#39;t be showing off the build since it was really just a quick git pull and telling claude to make changes to the android build and compile, but I did want to show it off. It runs at a pretty solid 30 FPS and runs just as well as it did on the OG xbox... which is actually kind of impressive if you think about it. Yes Im running it on a 32:9 monitor.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/CapitalRegular4157\"> /u/CapitalRegular4157 </a> <br/> <span><a href=\"https://i.redd.it/w4g6bolenrsh1.png\">[link]<",
+        "id": 6497006,
+        "language": "en",
+        "link": "https://www.reddit.com/r/raspberry_pi/comments/1wunr40/the_halo_ce_decomp_running_on_a_raspberry_pi_400",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 470,
+        "source_url": "https://www.reddit.com/r/raspberry_pi/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://preview.redd.it/w4g6bolenrsh1.png?width=640&crop=smart&auto=webp&s=8381b70027abcf3aefd2fd78899000377f332f68",
+        "title": "The Halo CE Decomp running on a raspberry pi 400",
+        "vote": 0
+    }
+]

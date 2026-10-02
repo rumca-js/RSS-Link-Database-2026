@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Foundation",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-01T13:56:15.256119+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-01T13:41:30+00:00",
+        "description": "OpenSearch has grown from 700 million to 2.4 billion downloads and is now positioned as a unified AI data infrastructure layer, and Bianca Lewis, Executive Director of the OpenSearch Software Foundation, explains exactly what is driving that momentum and where the platform is heading.\n\nFull article and transcript: [https://tfir.io/opensearch-ai-data-infrastructure-opensearch-foundation/]\n\nFive years after a license change forced a community to rebuild from scratch, the stakes around open, vendor-neutral data infrastructure have never been higher. Organizations running AI workloads at scale face ballooning costs, compliance pressure, and the real risk of re-architecting everything if a proprietary vendor changes pricing.\n\nBianca Lewis joins Swapnil Bhartiya in this exclusive interview to break down what the OpenSearch Software Foundation's landmark 2026 Open Data Infrastructure Research Report reveals, why 83% of surveyed organizations are running or planning AI workloads, and what the",
+        "id": 6499984,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=t6z6xm4U6EE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 499,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfX55Sx5hEFjoC3cNs6mCUQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/t6z6xm4U6EE/hqdefault.jpg",
+        "title": "OpenSearch Hits 2.4B Downloads: AI Data Infrastructure Explained | Bianca Lewis",
+        "vote": 0
+    }
+]

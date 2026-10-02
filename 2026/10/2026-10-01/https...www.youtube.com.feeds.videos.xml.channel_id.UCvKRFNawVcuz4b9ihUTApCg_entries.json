@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "David Shapiro",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-01T23:23:04.969905+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-01T21:20:56+00:00",
+        "description": "My book about Post-Labor Economics - \"Labor Zero\" is now available on Amazon for pre-order: https://www.amazon.com/dp/B0HGN2N25V",
+        "id": 6504356,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Pafx-wIwALM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 946,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvKRFNawVcuz4b9ihUTApCg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/Pafx-wIwALM/hqdefault.jpg",
+        "title": "OpenAI Dev Day was... meh",
+        "vote": 0
+    }
+]
