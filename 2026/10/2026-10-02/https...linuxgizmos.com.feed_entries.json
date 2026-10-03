@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-02T05:39:12.083513+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-02T04:46:07+00:00",
+        "description": "Pinetek Networks has developed the IOL Core4, a compact IO-Link-compatible master module for embedded systems. It connects up to four industrial sensors or actuators over IEC 61131-9 SDCI and is intended for integration into custom control, monitoring and IIoT hardware. The module uses two Analog Devices MAX14819 dual IO-Link master transceivers. The standard PT-1204 version [&#8230;]",
+        "id": 6505822,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/four-port-io-link-module-for-raspberry-pi-and-embedded-linux-systems",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Four-port IO-Link module for Raspberry Pi and embedded Linux systems",
+        "vote": 0
+    }
+]

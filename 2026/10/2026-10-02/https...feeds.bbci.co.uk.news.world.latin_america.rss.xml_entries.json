@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-02T11:23:13.628614+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-02T10:22:52+00:00",
+        "description": "The United Nations said violent gangs continue to \"adapt and expand\" across the country, further threatening its stability.",
+        "id": 6507489,
+        "language": "en-gb",
+        "link": "https://www.bbc.co.uk/news/articles/cmy0z00wr14xo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 524,
+        "source_url": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c2ac/live/59df2df0-be47-11f1-a73b-295bdc9b9b7f.jpg",
+        "title": "More than 5,000 people killed or injured in Haiti due to gang violence this year, UN says",
+        "vote": 0
+    }
+]

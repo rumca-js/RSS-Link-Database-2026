@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/neathack",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-02T17:17:31.423625+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-02T15:08:43+00:00",
+        "description": "<table> <tr><td> <a href=\"https://www.reddit.com/r/hacking/comments/1wvw95k/chrome_ux_report_dump_august_2026_data_added/\"> <img src=\"https://external-preview.redd.it/_oouCVcV-X-cSPG95UguT_DJv1425bZ7z9_XaZiPuvQ.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=2c253663ca05d11c2cb683051dce2f5098bb1618\" alt=\"Chrome UX Report Dump: August 2026 data added\" title=\"Chrome UX Report Dump: August 2026 data added\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>I maintain <strong>Chrome UX Report Dumps</strong>, a collection of monthly Chrome UX Report website lists grouped by rank and published as compressed downloads. It\u2019s meant to make the data easier to use without exporting it from BigQuery.</p> <p>The latest update adds the August 2026 dataset: 18,294,881 entries across 10 files, totaling 94.7 MiB compressed. The repository now contains 1,064,254,496 entries across 67 monthly datasets, totaling 5.32 GiB compressed. Those are counts across monthly dumps, not a count of unique websites.",
+        "id": 6510072,
+        "language": "en",
+        "link": "https://www.reddit.com/r/hacking/comments/1wvw95k/chrome_ux_report_dump_august_2026_data_added",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 534,
+        "source_url": "https://www.reddit.com/r/hacking/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://external-preview.redd.it/_oouCVcV-X-cSPG95UguT_DJv1425bZ7z9_XaZiPuvQ.png?width=640&crop=smart&auto=webp&s=2c253663ca05d11c2cb683051dce2f5098bb1618",
+        "title": "Chrome UX Report Dump: August 2026 data added",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Vishal Bakhai",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-03T02:29:11.711179+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-02T00:00:00+00:00",
+        "description": "<p>This was the first time F-Droid had an official presence at <a href=\"https://fossunited.org/indiafoss/2026\">IndiaFOSS</a>, and I honestly did not know what to expect.</p>\n\n<p>We actually had quite a lot of people coming by. Most were students, and many had never heard of F-Droid before. That made it a different experience.</p>\n\n<p>A lot of the conversations started with the basics. What is F-Droid? Why would someone use it? How does it work? Can I put my app on it? Are there any subscription charges like apps on Play store?</p>\n\n<p>Some people stayed and talked for a while. Some came back later with friends. Quite a few came up just to say that they were glad F-Droid was there. That last part was probably the nicest surprise.</p>\n\n<p>People were also asking how they could help. We need that. F-Droid needs developers, but we also need testers and people willing to spend time using things, finding problems and reporting them properly.</p>\n\n<p>There was a lot of discussion about AI to",
+        "id": 6513115,
+        "language": "en",
+        "link": "https://f-droid.org/en/2026/10/02/fdroid-first-indiafoss-2026.html",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 1021,
+        "source_url": "https://f-droid.org/feed.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Taking F-Droid to IndiaFOSS",
+        "vote": 0
+    }
+]

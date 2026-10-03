@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Waqas",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-02T13:06:25.887529+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-02T12:04:36+00:00",
+        "description": "A study of 367,000 ships finds global GPS spoofing, including Red Sea activity detected months before the MSC&#8230;",
+        "id": 6508184,
+        "language": "en-US",
+        "link": "https://hackread.com/ship-study-global-gps-spoofing-red-sea-activity",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 139,
+        "source_url": "https://www.hackread.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "367,000-Ship Study Finds Global GPS Spoofing, Red Sea Activity Before Grounding",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Julia McCoy",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-02T16:37:18.590405+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-02T15:00:16+00:00",
+        "description": "\ud83d\udc49 *Try HeyGen* :  https://www.heygen.com/?sid=rewardful&utm_content=creator&utm_medium=influencera&via=FirstMovers\n\n\ud83d\udccb THE 3 VIDEO AGENT PROMPTS (copy, paste, swap in your details)\n\n1\ufe0f\u20e3 Market update:\nMake a 25-second vertical market update for [City, State ZIP] with my avatar on camera. Use these numbers from this week: [paste median price, days on market, active inventory]. Show each number as on-screen text. End with one line on what this means for sellers.\n\n2\ufe0f\u20e3 Listing tour:\nCreate a 15-second vertical listing tour hosted by my avatar, using the attached photos. [Beds] bed, [baths] bath, [sq ft] sq ft in [neighborhood], listed at [price]. Open on the exterior, then kitchen, then backyard. One standout feature per room. Close with the open house: [day and time].\n\n3\ufe0f\u20e3 Agent intro:\nMake a warm 25-second agent intro video with my avatar, using the bio pasted below. Who I am, the neighborhoods I work, how I work with buyers and sellers, one personal detail. Friendly and direct, no hype.",
+        "id": 6509867,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=dmM7ibrui9A",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 947,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqzK60-oUOEq36uU9B1MMUg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/dmM7ibrui9A/hqdefault.jpg",
+        "title": "How Real Estate Agents Use a HeyGen Clone to Never Film Again",
+        "vote": 0
+    }
+]

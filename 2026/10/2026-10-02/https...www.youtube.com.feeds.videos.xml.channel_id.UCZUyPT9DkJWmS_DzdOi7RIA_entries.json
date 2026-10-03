@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Caleb Curry",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-02T20:02:54.454852+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-02T18:32:19+00:00",
+        "description": "Get started with Abacus AI Agent - https://agent.abacus.ai/deb\n\nTimestamps:\n00:00 - Intro\n00:13 - Run from the terminal\n01:41 - Python setup\n02:14 - Parsing arguments\n04:44 - Crafting the research topic from args\n07:12 - Abacus.AI agent\n09:06 - SDK install\n11:06 - Connect our app using an API key\n15:47 - Next steps\n\n\u2699\ufe0f Backend Engineering Mind Map - https://calcur.tech/mindmap\n\ud83d\udcbb System Design Playlist - https://calcur.tech/system-design\n\n\ud83d\udcaf FREE Courses (100+ hours) - https://calcur.tech/free-courses\n\ud83c\udfc6 C++ Mastery Course - https://www.codebreakthrough.com/cpp-mastery\n\ud83d\udc0d Backend Python Course - https://calcur.tech/backend-python\n\ud83e\udd47 Python Mastery Course  - https://calcur.tech/python-mastery\n\n~~~~~~~~~~~~~~~ CONNECT ~~~~~~~~~~~~~~~\n\n\u2709\ufe0f Newsletter - https://calcur.tech/newsletter\n\ud83d\udcf8 Instagram - https://www.instagram.com/CalebCurry\n\ud83d\udc26 Twitter - https://twitter.com/calebCurry\n\ud83d\udd17 LinkedIn - https://www.linkedin.com/in/calebcurry\n\u25b6\ufe0f Subscribe - http://calcur.tech/subscribe\n\ud83d\udc68\ud83c\udffb\u200d\ud83c\udf93 Courses - https://w",
+        "id": 6511291,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=UzD5L6jQMVE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 418,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZUyPT9DkJWmS_DzdOi7RIA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/UzD5L6jQMVE/hqdefault.jpg",
+        "title": "How to Build an Agent in Python with Abacus AI",
+        "vote": 0
+    }
+]

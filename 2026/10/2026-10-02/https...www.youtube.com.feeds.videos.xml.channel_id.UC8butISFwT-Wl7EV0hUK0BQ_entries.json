@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-02T13:41:36.824272+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-02T13:05:36+00:00",
+        "description": "Master modern, expressive software development with Kotlin, taking you from core syntax and type safety to advanced coroutines and multiplatform architecture. Through hands-on projects, you will build robust, production-ready applications for Android, backend systems, and beyond.\n\n74-Hour Kotlin Masterclass: https://www.udemy.com/course/kotlin-masterclass-learn-kotlin-from-zero-to-advanced/?referralCode=EAB498FC62AF9500D30A\n\nCourse from @programmingwithalex.585 \n\nJoin his Discord: https://discord.gg/zyWxwTSN\n\n\u2764\ufe0f Support for this channel comes from our friends at Scrimba \u2013 the coding platform that's reinvented interactive learning: https://scrimba.com/freecodecamp\n\n\u2b50\ufe0f Chapters \u2b50\ufe0f\n- (0:00:00) Introduction\n- (0:00:20) Download and Install InelliJ IDE\n- (0:05:37) What is JVM?\n- (0:12:23) Variables - val vs var\n- (0:23:16) Variables - Type & Inference\n- (0:32:52) Integer Variables - Byte, Short, Int and Long\n- (0:43:23) Float and Double\n- (0:49:14) Char and Boolean\n- (0:59:05) Operators an",
+        "id": 6508424,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=nqK3oJ682mQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/nqK3oJ682mQ/hqdefault.jpg",
+        "title": "Kotlin Course For Beginners \u2013 Full Tutorial",
+        "vote": 0
+    }
+]
