@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Experiment",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-03T10:54:50.848005+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-03T09:20:23+00:00",
+        "description": "Try out Proton Mail, the secure email that protects your privacy: https://proton.me/mail/TheLinuxEXP\n\nGrab a brand new laptop or desktop running Linux: https://www.tuxedocomputers.com/en#\n\n\n\ud83d\udc4f SUPPORT THE CHANNEL:\nGet access to:\n- a Daily Linux News show\n- a weekly patroncast for more thoughts\n- your name in the credits\n\nYouTube: https://www.youtube.com/@thelinuxexp/join\nPatreon: https://www.patreon.com/thelinuxexperiment\n\nOr, you can donate whatever you want:\nhttps://paypal.me/thelinuxexp\nLiberapay: https://liberapay.com/TheLinuxExperiment/\n\n\ud83d\udc55 GET TLE MERCH\nSupport the channel AND get cool new gear: https://the-linux-experiment.creator-spring.com/\n\n#linux #linuxnews #linuxdesktop \n\nTimestamps:\n00:00 Intro\n00:30 Sponsor: Proton Mail\n01:23 Ubuntu 26.10 beta released\n03:58 Ubuntu 24.04 to 26.04 upgrade now possible\n05:14 Toolpak introduced as the Flatpak for dev tools\n08:24 F-Droid launches full rewrite of the app\n10:00 Firefox 157 adds the new Nova theme\n12:33 Igalia working on Firefox ",
+        "id": 6514712,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=QMviQdi5uiw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 349,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5UAwBUum7CPN5buc-_N1Fw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/QMviQdi5uiw/hqdefault.jpg",
+        "title": "Firefox Gets (too) Rounded, Flatpak for CLI & Dev tools, Ubuntu does tiling now - Linux Weekly News",
+        "vote": 0
+    }
+]

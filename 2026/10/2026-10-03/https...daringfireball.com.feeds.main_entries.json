@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Gruber",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-03T18:25:16.062533+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-03T18:21:14+00:00",
+        "description": "<blockquote>\n  <p>In a statement to 9to5Mac, Apple said:</p>\n\n<blockquote>\n  <p>We have identified an issue affecting a small number of iPhone 18\nPro Max users on the AT&amp;T network that may cause a device to lose\nservice and be unable to make calls. We released iOS 27.0.1\nearlier this week and strongly encourage all iPhone 18 Pro Max\nusers to update now, and are also issuing a carrier settings\nupdate today. These updates together are meant to help prevent\nthis issue from occurring.</p>\n</blockquote>\n\n<p>The carrier settings update for the iPhone 18 Pro Max will\ndownload automatically over the next 14 days. However, users can\nmanually trigger the download by going to Settings, choosing\nGeneral, then About.</p>\n\n<p>Apple explains that the software updates will help prevent future\nissues for iPhone 18 Pro Max users on AT&amp;T. The software updates\nwill not restore service on devices that have already lost it.</p>\n\n<p>Apple says that iPhone 18 Pro Max users who have already lost\nservi",
+        "id": 6516826,
+        "language": "",
+        "link": "https://9to5mac.com/2026/10/02/apple-confirms-iphone-18-pro-max-att-cellular-issues-affected-devices-require-hardware-replacement",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 489,
+        "source_url": "https://daringfireball.com/feeds/main",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Apple Confirms iPhone 18 Pro Max AT&T Cellular Issues, Affected Devices Require Hardware Replacement",
+        "vote": 0
+    }
+]

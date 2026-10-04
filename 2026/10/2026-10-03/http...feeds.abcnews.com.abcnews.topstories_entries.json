@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-03T13:05:24.845415+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-03T09:04:03+00:00",
+        "description": "The U.S. Coast Guard was searching for a missing medical transfer plane with six people on board that went missing early Saturday.",
+        "id": 6515264,
+        "language": "en-US",
+        "link": "https://abcnews.com/US/medical-transport-airplane-missing-off-massachusetts-coast-coast/story?id=136969608",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 81,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 9,
+        "source_url": "http://feeds.abcnews.com/abcnews/topstories",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://s.abcnews.com/images/International/coast-guard-logo-gty-jt-260204_1771525657607_hpMain_4x3t_384.jpg",
+        "title": "Medical transport airplane missing off Massachusetts, Coast Guard says",
+        "vote": 0
+    }
+]

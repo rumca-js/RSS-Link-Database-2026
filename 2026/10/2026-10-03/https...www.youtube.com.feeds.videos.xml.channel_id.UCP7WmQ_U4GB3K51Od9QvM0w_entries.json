@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "David Bombal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-03T15:49:55.553896+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-03T14:00:06+00:00",
+        "description": "Finding cloud risks is only half the job. See why cloud security and the SOC need shared context to detect active threats, investigate faster and respond together.\n\nBig thanks to Palo Alto for sponsoring this video. To learn more, go here: https://bit.ly/4xWFd3c and https://bit.ly/4y1Mdw2\n\nTo read the full paper by Software Analyst Cyber Research called Agentic Cloud Security Platforms: The Shift to Runtime Security go here: https://bit.ly/47wq8uw\n\n#Cybersecurity #CloudSecurity #SOC",
+        "id": 6516030,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/4Udz6F922IM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 984,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP7WmQ_U4GB3K51Od9QvM0w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/4Udz6F922IM/hqdefault.jpg",
+        "title": "Your Cloud Security Is Missing Context",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Arrthy Thayaparan",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-03T14:45:58.026669+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-03T10:21:35+00:00",
+        "description": "<img src='https://i.cbc.ca/ais/733e61bd-da6f-4fd6-9e5a-7d6d01ef145b,1784333033131/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1180%2C663%29%3B' alt='Breaking news.' width='620' height='349' title='A file photo of a CBC News breaking news logo.'/><p>The U.S. Coast Guard is searching for a Hamilton-based air ambulance aircraft that has gone missing with six people on board while flying from Bermuda to Boston early Saturday morning.</p>",
+        "id": 6515670,
+        "language": "en",
+        "link": "https://www.cbc.ca/news/canada/hamilton/hamilton-air-ambulance-missing-us-coast-guard-search-9.7368182?cmp=rss",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 49,
+        "source_url": "https://www.cbc.ca/webfeed/rss/rss-canada",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i.cbc.ca/ais/733e61bd-da6f-4fd6-9e5a-7d6d01ef145b,1784333033131/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1180%2C663%29%3B",
+        "title": "U.S. Coast Guard searching for missing Hamilton-based air ambulance with 6 passengers",
+        "vote": 0
+    }
+]

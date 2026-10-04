@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-03T08:40:14.295327+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-03T08:26:06+00:00",
+        "description": "The flydubai plane plunged more than 17,000ft two and a half hours into its journey before passengers and crew overpowered the attacker.",
+        "id": 6514229,
+        "language": "en-gb",
+        "link": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 525,
+        "source_url": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2448/live/1043b780-befe-11f1-bc2e-018d645d8d21.jpg",
+        "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
+        "vote": 0
+    }
+]

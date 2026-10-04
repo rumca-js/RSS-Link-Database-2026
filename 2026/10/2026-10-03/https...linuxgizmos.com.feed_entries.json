@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-03T06:07:19.067165+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-03T05:11:05+00:00",
+        "description": "Featuring the quad-core Allwinner H618, the BPI-CM7 is a compact compute module with onboard LPDDR4 memory, eMMC storage, Wi-Fi 5 and Bluetooth 5.0. The module uses two 100-pin board-to-board connectors and is intended for use with Banana Pi&#8217;s BPI-CM7IO carrier board, which exposes multiple peripheral interfaces. The Allwinner H618 has previously appeared in boards including [&#8230;]",
+        "id": 6513764,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/banana-pi-bpi-cm7-with-allwinner-h618-wi-fi-5-and-armbian-support",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Banana Pi BPI-CM7 with Allwinner H618, Wi-Fi 5 and Armbian support",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "TIME Staff",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-03T13:51:17.259867+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-03T13:00:07+00:00",
+        "description": "From using mail-in ballots to finding your polling place, here\u2019s everything you need to know.",
+        "id": 6515494,
+        "language": "en-UK",
+        "link": "https://time.com/article/2026/09/30/your-questions-about-voting-in-the-2026-midterm-elections-answered",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 317,
+        "source_url": "https://time.com/tech/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://static.time.com/v3/assets/bltea6093859af6183b/bltbcd8a788e45a08c5/6abd24bc1371c0ee46dfec7f/AP16313685844644.jpg?branch=production",
+        "title": "Your Questions About Voting in the 2026 Midterm Elections, Answered",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Lunduke Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-03T15:23:11.926036+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-03T14:35:04+00:00",
+        "description": "\"The goal is for [Rust Clone] to become Ubuntu's default OpenPGP toolchain.\"\n\nLifetime Sub Sale, Plus Your Name on the LCOS About Window:\nhttps://lunduke.substack.com/p/lifetime-sub-sale-plus-your-name\n\nMore from The Lunduke Journal:\nhttps://lunduke.com/",
+        "id": 6515902,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=OGi2GaBUU4c",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 616,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkK9UDm_ZNrq_rIXCz3xCGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/OGi2GaBUU4c/hqdefault.jpg",
+        "title": "Ubuntu Dropping GNU PGP in Favor of Another Rust Clone",
+        "vote": 0
+    }
+]

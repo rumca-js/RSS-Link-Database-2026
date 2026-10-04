@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ACCU Conference",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-03T15:15:54.055365+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-03T12:00:14+00:00",
+        "description": "ACCU Membership: https://tinyurl.com/ydnfkcyn\n---\n\nOne Lib to Rule Them All and in the Darkness bindgen\u2026 - Antonello Palazzi & Kay Hicketts - ACCU on Sea 2026\n---\n\nHave you ever wondered what\u2019s going on underneath the covers of your favourite programming languages? As it turns out, language interop is an excellent (although sometimes painful) way to learn about that.\n\nThe speakers discovered this after creating APIs for their engineering team's Generically Useful Library in a couple of different programming languages. They\u2019ll talk about why they chose bindings for this project vs the alternatives, how objects are managed at each layer and the associated complexities. They\u2019ll also show some very detailed examples of language implementation differences (specifically for our Rust\u2192C++ API) and what that means for bindings.\n\nWhether you\u2019re already in a bind with bindings or you\u2019re tinkering around in a similarly low level problem space, this talk will help guide you on an interesting journ",
+        "id": 6515873,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=9BpVjPKv02s",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 421,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJhay24LTpO1s4bIZxuIqKw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/9BpVjPKv02s/hqdefault.jpg",
+        "title": "One Lib to Rule Them All and in the Darkness bindgen\u2026 - Antonello Palazzi & Kay Hicketts - ACCU 2026",
+        "vote": 0
+    }
+]

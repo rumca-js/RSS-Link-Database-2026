@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-03T17:54:36.368945+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-03T16:30:34+00:00",
+        "description": "If there's one good thing that has come out of this mess of AI getting heavily involved in software development and a massive rise in CVEs it's causing Canonical to push out Ubuntu updates much faster.\n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\nOMG Ubuntu Article: https://www.omgubuntu.co.uk/2026/09/ubuntu-kernel-security-updates-faster\nAnnouncement: https://canonical.com/blog/accelerating-delivery-of-cve-fixes-with-a-new-kernel-release-strategy\nOld Model: https://discourse.ubuntu.com/t/ubuntu-kernel-4-2-sru-cycle-announcement/37478\n\n=========Video Platforms==========\n\ud83c\udfa5 React: https://www.youtube.com/@BrodieRobertsonReacts\n\ud83c\udfa5 Podcast: https://techovertea.xyz/youtube\n\ud83c\udfae Gaming: https://brodierobertson.xyz/gaming\n\n==========Social Media==========\n\ud83c\udfa4 Discord: https://bro",
+        "id": 6516661,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=cUbgvRQyGbU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/cUbgvRQyGbU/hqdefault.jpg",
+        "title": "Ubuntu Is Speeding Up Kernel Releases",
+        "vote": 0
+    }
+]

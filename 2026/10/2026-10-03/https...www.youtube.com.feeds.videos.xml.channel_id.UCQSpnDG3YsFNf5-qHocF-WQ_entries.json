@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ThioJoe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-03T15:45:57.935622+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-03T14:45:21+00:00",
+        "description": "The annual major Windows update just dropped, so what's new?\n\nIt's once again time for the annual major \"feature update\" for Windows that happens once a year. Even though you may have seen some of these features before, that's because Microsoft tends to now release updates throughout the year, but as \"controlled feature rollouts\", so not everyone gets them. But with this enablement package for 26H2, you should basically get all of them. There are also legitimately new changes just in the new update. So in this video I go over all the features worth knowing about in 26H2.\n\nTime Stamps:\n0:00 - Intro\n0:12 - Getting The Update\n0:52 - Point in Time Restore Points\n2:24 - Redesigned Start Menu\n2:50 - Disable Start Menu Sections\n3:06 - Start Menu Size\n3:23 - Hide Name and Picture\n3:36 - Taskbar on the Side\n4:02 - Taskbar Size\n4:09 - File Explorer Proper Size Units\n4:25 - Screen Tint\n5:04 - Magnifier Improvements\n5:24 - External Biometrics Enhanced Security\n6:38 - Other Features Since 25H2\n6:4",
+        "id": 6516013,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=63Pf51WuUbo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 366,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQSpnDG3YsFNf5-qHocF-WQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/63Pf51WuUbo/hqdefault.jpg",
+        "title": "Windows 11 Major Annual Update 2026 - Biggest Changes (26H2)",
+        "vote": 0
+    }
+]

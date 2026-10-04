@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-03T01:50:58.390707+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-03T01:20:43+00:00",
+        "description": "A Bay Area startup is building \"mechanical bison\"\u2014autonomous robots that inject woodchips 60 feet deep to literally raise sinking land. Father-son inventors hope this terraforming tech can save flood-prone cities from rising sea levels.",
+        "id": 6513033,
+        "language": "en-US",
+        "link": "https://www.nbcnews.com/video/new-tech-promises-to-lift-entire-cities-and-roads-above-flood-waters-270954565819",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 223,
+        "source_url": "https://feeds.nbcnews.com/nbcnews/public/tech",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_10/1790990437341_now_staytuned_terrannova_mechanical_bison_261002_S3_1920x1080-0vwjcp.jpg",
+        "title": "New tech promises to lift entire cities and roads above flood waters",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "redakcja",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-03T13:29:58.562819+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-03T11:52:03+00:00",
+        "description": "<p>Kto\u015b w\u0142ama\u0142 si\u0119\u00a0do systemu s\u0142u\u017c\u0105cego do obs\u0142ugi klient\u00f3w Wakacje.pl oraz do kilku skrzynek pocztowych pracownik\u00f3w Wakacje.pl. Atakuj\u0105cy pozyskali dane osobowe klient\u00f3w (W tym dane paszportowe) Wakacje.pl, dlatego sp\u00f3\u0142ka ostrzega, aby uwa\u017ca\u0107\u00a0na fa\u0142szywe &#8220;wiadomo\u015bciami z pro\u015bb\u0105 o p\u0142atno\u015b\u0107&#8221; i sugeruje zastrze\u017cenie paszportu. <span id=\"more-27416\"></span></p>\n<p>Do ataku dosz\u0142o 29 wrze\u015bnia, a w\u015br\u00f3d danych, kt\u00f3re zosta\u0142y pozyskane, znajduj\u0105 si\u0119:</p>\n<ul>\n<li>dane paszportowe,</li>\n<li>numery telefon\u00f3w, </li>\n<li>adresy zamieszkania, </li>\n<li>adresy e-mail, </li>\n<li>imiona i nazwiska, </li>\n<li>daty urodzenia,</li>\n</ul>\n<p>W wiadomo\u015bci do klient\u00f3w Wakacje.pl nie podaj\u0105 ilu os\u00f3b dotyczy incydent. Skierowali\u015bmy do sp\u00f3\u0142ki dodatkowe pytania &#8212; kiedy otrzymamy odpowiedzi, zaktualizujemy ten artyku\u0142. </p>\n<p>I wiemy co my\u015blicie, ale nie &#8212; za tym atakiem nie stoi &#8220;Fingerprint&#8221;, kt\u00f3ry w ostatnich tygodniach w\u0142ama\u0142 si\u0119\u00a0do MyDr, Medoc, Enel-Med i Fakturownia.p",
+        "id": 6515402,
+        "language": "pl-PL",
+        "link": "https://niebezpiecznik.pl/post/wakacje-pl-zhackowane",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 239,
+        "source_url": "https://feeds.feedburner.com/niebezpiecznik",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://niebezpiecznik.pl/wp-content/uploads/2026/10/wakacje-kv-150x150.jpeg",
+        "title": "Wakacje.pl zhackowane &#8211; pozyskano dane paszportowe Polak\u00f3w",
+        "vote": 0
+    }
+]
