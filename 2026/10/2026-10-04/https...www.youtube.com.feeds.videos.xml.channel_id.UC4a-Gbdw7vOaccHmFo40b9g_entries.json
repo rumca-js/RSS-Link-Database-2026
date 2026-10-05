@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Khan Academy",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-04T13:32:47.155995+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-04T12:25:30+00:00",
+        "description": "The electric potential energy of a system of two point charges equals the amount of work required for an external force to bring the point charges to their current positions from infinitely far away. The total electric potential energy of a system can be determined by finding the sum of the electric potential energies of the individual interactions between each pair of charged objects in the system.\n\nSections: \n00:00 - What is electric potential energy?\n02:06 - Choosing infinity as the reference point\n04:00 - Potential energy of like charges\n06:48 - Potential energy of unlike charges\n08:00 - Comparing electric and gravitational potential energy\n09:27 - Potential energy of a system of multiple charges\n\n------------------\n\nKhan Academy is a nonprofit organization with the mission of providing a free, world-class education for anyone, anywhere. Khan Academy has been translated into dozens of languages, and 15 million people around the globe learn on Khan Academy every month. As a 501(c)(",
+        "id": 6520641,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=CNNLv7COpyY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 977,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4a-Gbdw7vOaccHmFo40b9g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/CNNLv7COpyY/hqdefault.jpg",
+        "title": "Electric potential energy | AP Physics | Khan Academy",
+        "vote": 0
+    }
+]

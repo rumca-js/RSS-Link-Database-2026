@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/Independent-Bed-7521",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-04T16:04:10.918657+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-04T05:53:55+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><pre><code>Built a web UI for MiniStack (the free, open-source AWS emulator). **Why this exists:** - MiniStack has no web console - LocalStack went paid ($49-429/month for web UI) - Needed visual management for local AWS development **What it does:** - Full CRUD for S3, DynamoDB, Lambda, SQS, Cognito, SES, SNS, Secrets Manager - AI integration via MCP - Claude can query your local AWS setup directly - 500x performance boost using FalkorDB graph database caching - One command to run: `docker-compose up` **Tech stack:** - React frontend, FastAPI backend - Docker Compose orchestration - Works with any MiniStack instance (or includes MiniStack) - Multi-tenant support (manage multiple isolated environments) **Quick start:** ```bash git clone https://github.com/barroei1981/ministack_console cd ministack_console docker-compose up -d # Access at http://localhost:3000 ``` **Unique features:** - MCP server integration - AI assistants can query your local AWS envir",
+        "id": 6521399,
+        "language": "en",
+        "link": "https://www.reddit.com/r/docker/comments/1wx82l1/free_aws_console_for_ministack_dockercompose_up",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 580,
+        "source_url": "https://www.reddit.com/r/docker/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Free AWS Console for MiniStack - docker-compose up and done",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mayank Parmar",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-04T11:06:57.467383+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-04T06:53:21+00:00",
+        "description": "Anthropic has started asking Claude users to voluntarily share their voice conversations to help train and improve its AI models. [...]",
+        "id": 6520075,
+        "language": "en-US",
+        "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-asks-claude-users-to-share-voice-data-for-ai-model-training",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 40,
+        "source_url": "https://www.bleepingcomputer.com/feed/",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Anthropic asks Claude users to share voice data for AI model training",
+        "vote": 0
+    }
+]

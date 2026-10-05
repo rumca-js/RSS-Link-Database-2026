@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mateusz Chrobok",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-04T17:09:04.745990+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-04T16:00:05+00:00",
+        "description": "\ud83d\udde3\ufe0f\u00a0Pami\u0119tacie jeszcze niedawne zamieszanie\u00a0pomi\u0119dzy OpenAI a Huggingface? Agenty AI jednej z firm autonomicznie zaatakowa\u0142y systemy drugiej. Og\u00f3lnie sroga imba, uznawana wci\u0105\u017c\u00a0za najwi\u0119kszy incydent w \u015bwiecie AI. Przynajmniej do tej pory. Efektem ca\u0142ego zwi\u0105zanego z tym zamieszania mia\u0142 by\u0107\u00a0lepszy nadz\u00f3r nad sztuczn\u0105\u00a0inteligencj\u0105. Ba! OpenAI zapewnia\u0142o, \u017ce wdro\u017cyli ju\u017c odpowiednie ograniczenia, kt\u00f3re w produkcyjnym \u015brodowisku oczywi\u015bcie zadzia\u0142a\u0142aby i a wi\u0119c nic takiego si\u0119 ju\u017c\u00a0nie powt\u00f3rzy, prawda? PRAWDA? No, tak\u2026 A jak wysz\u0142o w praktyce?\n \n\u0179r\u00f3d\u0142a:\n\ud83d\ude0a\u00a0Incydent zwi\u0105zany z Hugging Face i inne skutki niedostosowania modeli dla podmiot\u00f3w zewn\u0119trznych\nhttps://openai.com/pl-PL/hugging-face-incident-and-misalignment/#model-misalignment-2026-09-25\n\n\ud83e\udd16\u00a0The Last AI Built by Humans: Toward Genuine Recursive\nSelf-Improvement\nhttps://arxiv.org/pdf/2609.11873\n\n\ud83d\udc80\u00a0The Last AI Built by Humans: Toward Genuine Recursive Self-Improvement\nhttps://theseus-labs-rsi.github.io/#/research/rsi-survey-2026\n\n\ud83d\udc7d\u00a0An",
+        "id": 6521737,
+        "language": "pl-PL",
+        "link": "https://www.youtube.com/watch?v=F3uvhqiKrcI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 211,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTTZqMWBvLsUYqYwKTdjvkw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/F3uvhqiKrcI/hqdefault.jpg",
+        "title": "Ostatnia sztuczna inteligencja zbudowana przez ludzi?",
+        "vote": 0
+    }
+]

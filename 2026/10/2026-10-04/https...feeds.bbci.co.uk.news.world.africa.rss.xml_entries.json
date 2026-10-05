@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-04T14:26:36.435700+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-04T13:33:05+00:00",
+        "description": "Two residents in Mekelle tell the BBC pro-government forces have taken control of the city.",
+        "id": 6520943,
+        "language": "en-gb",
+        "link": "https://www.bbc.co.uk/news/articles/cqm249v07j4xo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 521,
+        "source_url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/965b/live/ca8ca230-bfeb-11f1-8c3e-3b2eab095459.jpg",
+        "title": "Ethiopian rebel forces withdraw from Tigray regional capital",
+        "vote": 0
+    }
+]

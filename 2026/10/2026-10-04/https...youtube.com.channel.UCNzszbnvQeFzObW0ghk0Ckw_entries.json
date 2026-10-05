@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Dave's Garage",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-04T22:28:07.294645+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-04T21:03:13+00:00",
+        "description": "A Mentec CPU made this PDP-11 about 4\u00d7 faster. That is why it would not boot. Once it did, it went on the internet as pdp1173.com, serving a live UNIX process list and the front end for Gary, a curmudgeonly wizard whose answers come from a pair of modern GPUs.\n\nThe machine is still a PDP-11. The software still sees 2.11BSD. The faster board just ran the firmware\u2019s wait loops before the disk controller was ready.\n\nVisit it: https://pdp1173.com\n\nIn this one:\n\n\u2022 A Mentec processor with 4MB on the board, roughly 4\u00d7 my 11/73 and 8\u00d7 my 11/44 on integer benchmarks\n\u2022 Bus-grant jumpers, a ZuluSCSI that was reading an EFI partition, and a kernel that had to be told to fake floating point\n\u2022 A diagnostic bootstrap pasted into ODT in octal, because the machine would not boot any other way\n\u2022 The MSCP firmware\u2019s polling limits, 40 and 100, raised to 256 in a RAM copy, then abandoned for a controller that answers in time\n\u2022 Why a cached page from a PDP is the only way this site survives a Facebook lin",
+        "id": 6523088,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=EzfHqE9-rbY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 907,
+        "source_url": "https://youtube.com/channel/UCNzszbnvQeFzObW0ghk0Ckw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/EzfHqE9-rbY/hqdefault.jpg",
+        "title": "My Computer is now 4\u00d7 Faster! That\u2019s Why It Won\u2019t Boot...",
+        "vote": 0
+    }
+]

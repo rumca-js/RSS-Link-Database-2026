@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-04T02:21:24.293134+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-04T01:55:08+00:00",
+        "description": "Efinix announced this week the Sapphire RV64, a configurable 64-bit RISC-V soft SoC intended for embedded Linux, edge AI and other applications requiring more memory and processing capability than the company&#8217;s existing 32-bit Sapphire architecture. The processor can be implemented across Efinix Titanium and Topaz FPGAs, as well as Trion devices from the T20 upward. [&#8230;]",
+        "id": 6518525,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/efinix-sapphire-rv64-brings-64-bit-risc-v-and-linux-to-fpgas",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Efinix Sapphire RV64 brings 64-bit RISC-V and Linux to FPGAs",
+        "vote": 0
+    }
+]
