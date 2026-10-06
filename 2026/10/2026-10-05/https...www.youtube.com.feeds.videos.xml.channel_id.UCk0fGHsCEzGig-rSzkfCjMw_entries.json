@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Engineering Mindset",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-05T16:46:22.521585+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-05T15:00:22+00:00",
+        "description": "How do CPUs actually work? Design PCB's with Altium: https://engmind.info/Altium\nHow does a CPU use billions of microscopic transistors to perform calculations and run software? In this video, we work from individual MOSFETs through logic gates, binary arithmetic and full adders to the ALU and CPU core.\nSee how processors fetch and execute instructions, how registers and L1, L2 and L3 cache work, how data moves between the CPU, RAM and storage, and why modern CPUs use multiple cores.\n\nWe also compare CPUs and GPUs, explain why GPUs contain billions of transistors, and show why their parallel architecture is so effective for graphics and AI.\nTopics include transistors, MOSFETs, logic gates, binary, CPU architecture, ALU, registers, cache, RAM, GPUs and AI.\n\n\ud83c\udf81 Design, review, and manage PCBs in one connected environment with Altium Designer.\nGet a 30-day free trial here \u27a1\ufe0f https://engmind.info/Altium\n\n\u2728 With special thanks to these amazing people \u2728 \nR Charlery, A Cabello, P Bramble, C E",
+        "id": 6528655,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=je0BsLY5nZw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 961,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCk0fGHsCEzGig-rSzkfCjMw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/je0BsLY5nZw/hqdefault.jpg",
+        "title": "How a CPU Turns 1s and 0s Into Everything You See",
+        "vote": 0
+    }
+]

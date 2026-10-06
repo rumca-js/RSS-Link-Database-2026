@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Gerrit De Vynck",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-05T22:46:29.879853+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-05T21:50:00+00:00",
+        "description": "A hearing in New York brought together AI executives and former employees who say the industry is moving too fast.",
+        "id": 6531196,
+        "language": "en-US",
+        "link": "https://www.washingtonpost.com/technology/2026/10/05/new-york-city-councillors-press-ai-companies-safety-risks",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 364,
+        "source_url": "https://feeds.washingtonpost.com/rss/business/technology",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Tech workers who resigned tell New York City Council that AI is moving too fast",
+        "vote": 0
+    }
+]

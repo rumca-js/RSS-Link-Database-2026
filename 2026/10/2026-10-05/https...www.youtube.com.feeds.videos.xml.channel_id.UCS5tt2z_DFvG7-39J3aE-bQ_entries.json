@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Life of Boris",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-05T15:13:53.530863+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-05T14:00:00+00:00",
+        "description": "I went back to programming school after 5+ years away from tech. By day three we were on bit sets, I was falling behind, and then I saw what my classmates were really doing: one big AI window, \"do this for me please\", enter.\n\nAI won. We lost. In this video I talk about what studying programming actually looks like in 2026, why nobody tells you that you're expected to use AI, how I went from falling behind to the top of my class, and what tech companies really hire you for (spoiler: it's not the languages on your CV).\n\nNext video: how to actually use AI to learn things that matter.\n\n\u23f1\ufe0f Chapters\n0:00 AI won, we lost\n0:11 Who I am and why I went back to school\n0:44 Java: from variables to bit sets in 3 days\n1:45 What my classmates were actually doing\n2:41 4,000-word walls of text\n3:22 Nobody tells you to use AI\n3:57 I started paying for AI and shot to the top\n4:45 Everyone working in tech uses it\n5:33 Why this school basically requires AI\n7:16 The catch: you still need to understand code",
+        "id": 6527885,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=HvDuaO_PtPs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 810,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCS5tt2z_DFvG7-39J3aE-bQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/HvDuaO_PtPs/hqdefault.jpg",
+        "title": "I Went Back to Coding School. AI Already Won.",
+        "vote": 0
+    }
+]

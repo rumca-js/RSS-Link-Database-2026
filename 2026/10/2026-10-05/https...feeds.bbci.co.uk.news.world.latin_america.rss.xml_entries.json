@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-05T21:58:29.204647+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-05T20:42:19+00:00",
+        "description": "Fl\u00e1vio Bolsonaro's success could be the latest example of a resurgence of right-wing support in Latin America.",
+        "id": 6530855,
+        "language": "en-gb",
+        "link": "https://www.bbc.co.uk/news/articles/cqj6je4jen6po",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 524,
+        "source_url": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/784e/live/4834ba00-c0d8-11f1-bdc6-179ac8d394b5.jpg",
+        "title": "Fl\u00e1vio Bolsonaro rides right-wing wave to win first round of Brazil election",
+        "vote": 0
+    }
+]

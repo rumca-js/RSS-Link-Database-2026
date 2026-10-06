@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/MrBean775",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-05T15:14:11.340509+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-05T08:30:25+00:00",
+        "description": "<table> <tr><td> <a href=\"https://www.reddit.com/r/RISCV/comments/1wy39q1/openc6_v20_hardware_pmp_isolation_unprivileged/\"> <img src=\"https://preview.redd.it/naq1m6e1zlth1.gif?frame=1&amp;width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=21887220185d3dcc13e7479f97e46374ab3a46cc\" alt=\"OpenC6 v2.0: Hardware PMP isolation, unprivileged U-mode execution, and an out-of-band LP-Core supervisor on ESP32-C6 (RV32IMAC)\" title=\"OpenC6 v2.0: Hardware PMP isolation, unprivileged U-mode execution, and an out-of-band LP-Core supervisor on ESP32-C6 (RV32IMAC)\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Over the last four months of solo development, I have been building OpenC6 v2.0 \u2014 an open-source bare-metal BIOS and modular microkernel architecture designed specifically around the RISC-V privileged specification on the ESP32-C6 (RV32IMAC).</p> <p>Rather than running monolithic firmware in a flat Machine Mode (M-Mode) address space, OpenC6 acts as an operating host enforcing t",
+        "id": 6527898,
+        "language": "en",
+        "link": "https://www.reddit.com/r/RISCV/comments/1wy39q1/openc6_v20_hardware_pmp_isolation_unprivileged",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 471,
+        "source_url": "https://www.reddit.com/r/RISCV/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://preview.redd.it/naq1m6e1zlth1.gif?frame=1&width=140&height=140&crop=1:1,smart&auto=webp&s=21887220185d3dcc13e7479f97e46374ab3a46cc",
+        "title": "OpenC6 v2.0: Hardware PMP isolation, unprivileged U-mode execution, and an out-of-band LP-Core supervisor on ESP32-C6 (RV32IMAC)",
+        "vote": 0
+    }
+]

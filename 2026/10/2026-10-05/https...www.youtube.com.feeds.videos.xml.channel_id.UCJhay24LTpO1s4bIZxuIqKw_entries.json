@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ACCU Conference",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-05T14:38:41.365171+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-05T12:05:27+00:00",
+        "description": "ACCU Membership: https://tinyurl.com/ydnfkcyn\n---\n\nReal-time Safety in C & C++ - Guaranteed by the Compiler! - Anders Schau Knatten - ACCU on Sea 2026\n---\n\nClang 20 introduced Function Effect Analysis (FEA), which enables real-time safety guarantees at compile-time. Mark your functions as non-throwing, non-allocating, or non-blocking \u2014 and have the compiler enforce it! For instance, a function marked non-allocating is not allowed to call malloc or new, and can only call other functions if they are also marked non-allocating (or if the compiler can deduce that they won't allocate).\n\nIn this talk, we will demonstrate function effect analysis and explain how it works. We will also see why it can be hard to enable FEA in the presence of third-party libraries, and what can be done about it.\n\nAt Squarehead, we've used FEA almost since its official release to refactor our soft real-time pipeline towards harder real-time. We will present our experience and lessons learned from this process, a",
+        "id": 6527699,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=FeYEO3PhEVY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 421,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJhay24LTpO1s4bIZxuIqKw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/FeYEO3PhEVY/hqdefault.jpg",
+        "title": "Real-time Safety in C & C++ - Guaranteed by the Compiler! - Anders Schau Knatten - ACCU on Sea 2026",
+        "vote": 0
+    }
+]

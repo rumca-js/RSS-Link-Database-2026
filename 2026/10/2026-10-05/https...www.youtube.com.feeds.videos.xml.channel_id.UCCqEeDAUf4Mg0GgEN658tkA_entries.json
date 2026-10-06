@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Chris Stuckmann",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-05T15:32:15.404041+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-05T14:00:20+00:00",
+        "description": "Chris Stuckmann reviews Cursed, starring Christina Ricci, Jesse Eisenberg, Milo Ventimiglia, Joshua Jackson, Shannon Elizabeth, Portia de Rossi, Derek Mears, Judy Greer, Scott Baio, Craig Kilborn. Directed by Wes Craven.",
+        "id": 6528018,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=lCT9TbCk5ic",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 618,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCqEeDAUf4Mg0GgEN658tkA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/lCT9TbCk5ic/hqdefault.jpg",
+        "title": "Cursed - Movie Review + SURPRISE GUEST",
+        "vote": 0
+    }
+]

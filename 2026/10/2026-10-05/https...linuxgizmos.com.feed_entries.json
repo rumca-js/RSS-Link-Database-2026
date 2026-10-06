@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-05T03:49:23.532115+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-05T03:47:10+00:00",
+        "description": "TELOS-AI4000 by TechNexion is a compact edge-AI accelerator module based on NXP&#8217;s Ara240 discrete neural processing unit. The module delivers up to 40 TOPS of AI performance, supports up to 16GB of LPDDR4 memory and is intended for vision, generative AI and other embedded inference workloads. The Ara240 has appeared in several accelerators covered by [&#8230;]",
+        "id": 6524172,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/technexion-telos-ai4000-delivers-40-tops-in-compact-form-factor",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "TechNexion TELOS-AI4000 delivers 40 TOPS in compact form factor",
+        "vote": 0
+    }
+]

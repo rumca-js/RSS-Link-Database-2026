@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Techno Tim",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-05T18:42:31.376740+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-05T17:21:32+00:00",
+        "description": "I wanted my local AI to choose the right model automatically instead of making me pick between speed and capability for every request.\n\nI test NVIDIA Switchyard for local AI model routing with Nemotron 3.5 Lightning on an RTX 3090 and DeepSeek V4 Flash across two GX10s. I cover Stage routing, vLLM, context windows, and some of the problems I ran into while testing it with real coding agents.\n\nIn my best autonomous coding run, almost 88% of the routing decisions went to Nemotron while DeepSeek was still available when Switchyard decided it was needed.\n\nThis is pretty close to what I wanted. Most of the work stays on the fast local model, the more capable model gets pulled in when it makes sense, and I don't have to choose between them before I start.\n\nVideo Notes: https://technotim.com/posts/switchyard-local-ai-routing/\n\nMerch Shop \ud83d\udecd\ufe0f: https://l.technotim.com/shop\nSupport me on Patreon: https://www.patreon.com/technotim\nSponsor me on GitHub: https://github.com/sponsors/timothystewart6\n",
+        "id": 6529694,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=qxfNTcPl70w",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 911,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCOk-gHyjcWZNj3Br4oxwh0A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/qxfNTcPl70w/hqdefault.jpg",
+        "title": "I Made My Local AI Pick Its Own Model",
+        "vote": 0
+    }
+]

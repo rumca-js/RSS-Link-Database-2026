@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "David Gewirtz",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-05T13:38:11.684117+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-05T12:03:03+00:00",
+        "description": null,
+        "id": 6527143,
+        "language": "en-US",
+        "link": "https://www.zdnet.com/innovation/claude-code-vibe-coding-mac-app",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 406,
+        "source_url": "https://www.zdnet.com/news/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.zdnet.com/wp-content/uploads/sites/3/IMG_0057.png",
+        "title": "How I made a paid Mac app in 11 days with Caude \u2013 without writing a single line of code",
+        "vote": 0
+    }
+]

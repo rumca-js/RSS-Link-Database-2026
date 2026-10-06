@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kate Knibbs",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-05T09:48:45.480922+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-05T09:30:00+00:00",
+        "description": "As prediction markets surge in popularity, a new platform called Verifact Markets is pushing the concept even further, letting users trade on \u201cdisputed facts.\u201d",
+        "id": 6525577,
+        "language": "en-US",
+        "link": "https://www.wired.com/story/a-prediction-market-about-the-past-sure-why-not",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 396,
+        "source_url": "https://www.wired.com/feed/category/business/latest/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media.wired.com/photos/6abe92d983ce388ebf1665d3/master/pass/Business_The%20Dumbest%20Prediction%20Market%20Yet%20Is%20Here,%20and%20It%20Lets%20You%20Bet%20on%20Things%20That%20Have%20Already%20Happened_v1.jpg",
+        "title": "A Prediction Market About the Past? Sure, Why Not!",
+        "vote": 0
+    }
+]

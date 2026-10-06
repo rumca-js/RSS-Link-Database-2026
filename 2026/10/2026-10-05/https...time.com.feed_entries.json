@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Dominique Mosbergen",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-05T18:45:38.717302+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-05T18:40:08+00:00",
+        "description": "Flu might be here early this year, clinical surveillance data suggest.",
+        "id": 6529718,
+        "language": "en-UK",
+        "link": "https://time.com/article/2026/10/05/now-is-the-best-time-to-get-your-flu-shot",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 316,
+        "source_url": "https://time.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://static.time.com/v3/assets/bltea6093859af6183b/blt6c856c67ebdfbede/6ac3d6621371c056e1e02c56/GettyImages-1482819933.jpg?branch=production",
+        "title": "Now Is the Best Time to Get Your Flu Shot",
+        "vote": 0
+    }
+]

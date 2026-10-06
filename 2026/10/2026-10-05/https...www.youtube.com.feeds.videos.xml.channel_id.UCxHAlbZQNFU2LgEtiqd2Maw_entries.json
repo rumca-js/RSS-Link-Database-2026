@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "C++ Weekly With Jason Turner",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-05T16:33:46.160124+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-05T15:29:48+00:00",
+        "description": "Summary:\n\nIn this episode Mathieu and Jason are joined by Jon Bauman to discuss safety and interoperability between Rust and C++. We go into what does \u201csafety\u201d really mean (there are several categories of safety) and what can be guaranteed or not, and how to improve safety in C++.\n\nJon is currently looking for sponsorship to continue this important work. You can contact Jon via Joncppcast@shumi.org\n\nCheck out the extensive list of links and notes for this episode.\n\nGuest Bio:\n\nJon Bauman has worked in tech for over two decades across various industries and programming disciplines. After several decades trying out prescriptivism, they prefer descriptivism and not bundling gender metadata with 3rd person pronouns. But  they will not mind at all if you call them \"him\", or even \"her\".\n\nThey are a proud alumnus of the University of Michigan, Etsy, Mozilla and the Rust Foundation. Working at every level of the tech stack from operating systems to web applications, Jon brought their experien",
+        "id": 6528565,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=-gNQiygfpoE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 48,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxHAlbZQNFU2LgEtiqd2Maw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/-gNQiygfpoE/hqdefault.jpg",
+        "title": "Safety and Interoperability with C++ and Rust with Jon Bauman - CppCast 412 / C++ Weekly 553",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Hammond",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-05T19:51:44.576714+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-05T17:19:53+00:00",
+        "description": "PowerShell fires and starts pulling together several different pieces, including a fake Cloudflare page, browser processes with their sandbox disabled, and activity involving timeout.exe.\n\nI follow the different processes the payload kicks off and try to figure out what is happening along the way.\n\nWatch the full video: https://youtu.be/oJHOlNTH7lY?si=8LruOkxZlfvFLII-",
+        "id": 6530065,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/tYrGrzZ-CEs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 959,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVeW9qkBjo3zosnqUbG7CFw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/tYrGrzZ-CEs/hqdefault.jpg",
+        "title": "PowerShell Payload Unpacked",
+        "vote": 0
+    }
+]
