@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Blog Staff",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-06T19:02:32.627901+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-06T18:09:27+00:00",
+        "description": "<p>\n\t<img alt=\"si3ao-825x510.jpg\" src=\"https://isocpp.org/files/img/si3ao-825x510.jpg\" style=\"margin: 10px; float: right; height: 155px; width: 250px;\" />C++26 introduces <code dir=\"ltr\">std::hive</code>, a new container designed to combine stable references and efficient erasure with better memory locality than a linked list. But where does it actually fit performance-wise compared with <code dir=\"ltr\">std::vector</code> and <code dir=\"ltr\">std::list</code>?</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://lemire.me/blog/2026/08/02/how-fast-is-c26s-stdhive/\">How fast is C++26&rsquo;s std::hive?</a></h3>\n\t<p>\n\t\tby Daniel Lemire</p>\n</blockquote>\n<p>\n\tFrom the article:</p>\n<blockquote>\n\t<p>\n\t\tC++26 adds a new container to the standard library: <code>std::hive</code>. It is meant to occupy the ground between <code>std::vector</code> and <code>std::list</code>. Like a vector, it keeps its elements in contiguous blocks of memory, so scanning it does not require you to chase a pointer for every e",
+        "id": 6538443,
+        "language": "en",
+        "link": "https://isocpp.org//blog/2026/10/how-fast-is-cpp26s-stdhive-daniel-lemire",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://isocpp.org/files/img/si3ao-825x510.jpg",
+        "title": "How fast is C++26\u2019s std::hive? -- Daniel Lemire",
+        "vote": 0
+    }
+]

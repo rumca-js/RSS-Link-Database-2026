@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Chris Titus Tech",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-06T11:55:32.632711+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-06T11:15:33+00:00",
+        "description": "What if we built AI like Linux? Downloading a model doesn't tell you what went into making it, and bigger models aren't always better.\n\nI sit down with Greg Kurtzer, founder of CentOS, to discuss what truly open-source AI could look like. Greg shares his work on Open Waldo, his experience training models on his own hardware, and why scaling up actually made one of his models worse.\n\nWe explore smaller local models, transparent training data, privacy, copyright, and the security risks of AI agents. We also discuss how the Linux and open-source communities can help make AI more accessible.\nCentOS was my first Linux distribution, so this conversation meant a lot to me. It also left me wanting to build my own model.\nWhat would you train a local AI model to do?\n\nSponsored by Blacksmith https://link.christitus.com/blacksmith\n\nChapters:\n\n00:00 Meet Greg Kurtzer\n01:08 Blacksmith Sponsor\n02:31 Open Weights Versus Open Source\n05:23 Why Open Source Matters\n06:51 Enterprise Trust\n07:54 Smaller Sp",
+        "id": 6534865,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=XUMdjWNWFYg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 444,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCg6gPGh8HU2U01vaFCAsvmQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/XUMdjWNWFYg/hqdefault.jpg",
+        "title": "What If We Built AI Like Linux?",
+        "vote": 0
+    }
+]

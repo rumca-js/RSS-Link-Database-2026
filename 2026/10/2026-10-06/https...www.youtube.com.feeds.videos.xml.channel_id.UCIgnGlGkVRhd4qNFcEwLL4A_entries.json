@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "AI Search",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-06T08:06:53.310284+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-06T03:36:24+00:00",
+        "description": "How AI is used to mod games. Pass through mod, rebuilding in rust, porting mechanics. Claude Opus 5.5 game mod. Thanks to our sponsor Runway. https://runwayml.com/aisearch-oct \nUse code MKTG50 for 50% off any paid plan for the 1st month\n\n#ai #aitools #gaming #ainews #singularity \n\nResources\nhttps://github.com/rehan-remade/universal-modder\nhttps://github.com/morluto/rea\nhttps://github.com/trevaintdead/ai-game-modding-guides\nhttps://github.com/bethington/ghidra-mcp \nhttps://github.com/HexRaysSA/ida-mcp \nhttps://github.com/icsharpcode/ilspy \nhttps://github.com/SamboyCoding/Cpp2IL \nhttps://github.com/boykopovar/AnyPS5\nhttps://github.com/yuriolive/PortPS5\n\n0:00 Intro\n0:55 Reverse engineering binaries\n3:34 Pass through mod\n5:40 Reverse engineering\n6:25 Runway\n7:49 Rebuilding in Rust\n9:06 Platform compatibility\n10:00 Porting mechanics\n11:50 Examples and how to prompt\n12:31 Cracking software\n13:08 Inflection point\n\n\nSee my X for more AI updates: https://x.com/aisearchio\n\nNewsletter: https://a",
+        "id": 6533376,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=h5zkzon0gM4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 806,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIgnGlGkVRhd4qNFcEwLL4A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/h5zkzon0gM4/hqdefault.jpg",
+        "title": "The AI unlock has begun",
+        "vote": 0
+    }
+]

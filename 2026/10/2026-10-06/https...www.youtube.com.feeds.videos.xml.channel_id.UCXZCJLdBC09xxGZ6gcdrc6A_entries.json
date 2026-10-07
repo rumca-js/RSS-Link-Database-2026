@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "OpenAI",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-06T07:09:57.890804+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-06T00:36:28+00:00",
+        "description": "This furniture shop is popular. So popular that it's tough to keep track of all of the inbound requests. ChatGPT can fix that. Victor Nunez Rodriguez visited Philadelphia Table Company in Philly to help him build a tool to stay on top of it all.\n\nDo you have something you wish existed? Drop your idea below or send us a DM and we'll come build it with you next.",
+        "id": 6533050,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/q0_JXcrx3jk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 935,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXZCJLdBC09xxGZ6gcdrc6A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/q0_JXcrx3jk/hqdefault.jpg",
+        "title": "Building a custom website to stay on top of business with ChatGPT",
+        "vote": 0
+    }
+]

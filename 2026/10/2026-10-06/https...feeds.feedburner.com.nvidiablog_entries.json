@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kanika Atri",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-06T14:42:16.725277+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-06T13:00:19+00:00",
+        "description": "Telecom operators are increasingly building their AI strategies on open models \u2014 and the reasons go beyond mere cost.\u00a0 Open models give telcos the ability to trust, control and customize AI across their most critical workloads \u2014 from autonomous networks to customer care.\u00a0 NVIDIA\u2019s latest State of AI in Telecommunications report reflects this shift, with [&#8230;]",
+        "id": 6536174,
+        "language": "en-US",
+        "link": "https://blogs.nvidia.com/blog/telecom-operators-open-models",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 1019,
+        "source_url": "https://feeds.feedburner.com/nvidiablog",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://blogs.nvidia.com/wp-content/uploads/2026/10/image1-842x450.png",
+        "title": "Why Telecom Operators Are Building Their AI Strategy on Open Models",
+        "vote": 0
+    }
+]

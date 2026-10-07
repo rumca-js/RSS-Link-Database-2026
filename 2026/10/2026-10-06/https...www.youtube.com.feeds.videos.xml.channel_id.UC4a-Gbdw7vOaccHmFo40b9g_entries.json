@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Khan Academy",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-06T13:02:07.927672+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-06T12:28:59+00:00",
+        "description": "Electric potential describes the electric potential energy per unit charge at a point in space. The electric potential due to multiple point charges can be determined by the principle of scalar superposition of the electric potential due to each of the point charges. The electric potential difference between two points is the change in electric potential energy per unit charge when a test charge is moved between the two points.\n\nSections:\n00:00 - What is electric potential?\n02:56 - Understanding volts and energy per unit charge\n06:31 - Electric potential difference\n08:31 - Potential from multiple charges\n09:18 - Summary\n\n------------------\n\nKhan Academy is a nonprofit organization with the mission of providing a free, world-class education for anyone, anywhere. Khan Academy has been translated into dozens of languages, and 15 million people around the globe learn on Khan Academy every month. As a 501(c)(3) nonprofit organization, we would love your help! \n\nDonate here: https://www.kha",
+        "id": 6535375,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Fj_G5tN84Eg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 977,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4a-Gbdw7vOaccHmFo40b9g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/Fj_G5tN84Eg/hqdefault.jpg",
+        "title": "Electric potential | AP Physics | Khan Academy",
+        "vote": 0
+    }
+]

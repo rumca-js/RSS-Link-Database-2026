@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-06T09:59:34.241966+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-06T07:50:34+00:00",
+        "description": "Benin are about to have their own moment in the limelight as they visit Argentina for Lionel Messi's final game.",
+        "id": 6534037,
+        "language": "en-gb",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cqly0lx461m8o",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 524,
+        "source_url": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a11e/live/1b0e6fd0-c0c4-11f1-885f-4f9e8c6dce17.jpg",
+        "title": "The small African nation ready for Messi's big night",
+        "vote": 0
+    }
+]

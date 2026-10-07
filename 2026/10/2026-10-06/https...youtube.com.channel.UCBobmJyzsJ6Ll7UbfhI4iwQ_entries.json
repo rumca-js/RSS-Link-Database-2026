@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unreal Engine",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-06T14:57:45.176672+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-06T14:00:29+00:00",
+        "description": "Subdivision surfaces are a key technology in traditional animation and visual effects. They enable artists to create lower-density models that are dynamically smoothed at render time, making modeling, shading, and UV workflows significantly more efficient. Until recently, subdivision surfaces have not been available in real-time environments. With the release of the Ozone Subdivs plugin for Unreal Engine, this capability is now possible. \n\nIn this session recorded at Unreal Fest Chicago 2026, Ozone Story Tech explores the differences between traditional modeling workflows and subdivision surface approaches for building characters in Unreal Engine. The goal is to share hard-won production techniques that help unlock the full potential of the Ozone Subdivs plugin\u2014both in visual quality and runtime performance.\n\nFind out about using Unreal Engine for animation here: unrealengine.com/uses/animation\n\n#Animation, #3DModelling, #OzoneStoryTech, #SubdivisionSurfaces, #UnrealEngine, #UnrealFes",
+        "id": 6536361,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=-VWQSh_b36Y",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 685,
+        "source_url": "https://youtube.com/channel/UCBobmJyzsJ6Ll7UbfhI4iwQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/-VWQSh_b36Y/hqdefault.jpg",
+        "title": "Ozone Subdivision Surfaces: Character Modeling Best Practices | Unreal Fest Chicago 2026",
+        "vote": 0
+    }
+]

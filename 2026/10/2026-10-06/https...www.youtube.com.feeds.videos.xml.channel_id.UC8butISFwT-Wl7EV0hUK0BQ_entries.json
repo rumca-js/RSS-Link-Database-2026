@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-06T18:14:13.736230+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-06T16:55:56+00:00",
+        "description": "Learn how to design, build, and train an advanced multimodal language model from scratch using modern techniques like mixture-of-experts, sparse attention, and reinforcement learning. This hands-on guide walks you through the entire lifecycle from tokenization and pre-training to post-training optimization and evaluation.\n\nVideo from @vukrosic \n\nGitHub: https://github.com/vukrosic/glm-5.3-flash-from-scratch\nBecome AI researcher in 90 days: https://www.skool.com/become-ai-researcher-2669/about\nSlides: https://github.com/vukrosic/glm-5.3-flash-from-scratch/blob/main/slides/slides.html\nBlog: https://z.ai/blog/glm-5.3-flash\n\n\u2764\ufe0f Support for this channel comes from our friends at Scrimba \u2013 the coding platform that's reinvented interactive learning: https://scrimba.com/freecodecamp\n\n\u2b50\ufe0f Chapters \u2b50\ufe0f\n- 00:00 Introduction & What We're Building\n- 01:02 The Modern AI Researcher Role & Asking Research Questions\n- 04:50 Tokenization & Byte-Level Vocabulary (Why Small Vocab Matters)\n- 07:01 Embedding",
+        "id": 6537965,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=-gfgQfw2g_E",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/-gfgQfw2g_E/hqdefault.jpg",
+        "title": "Build & Train a GLM-5.3-Flash Model From Scratch with Python",
+        "vote": 0
+    }
+]

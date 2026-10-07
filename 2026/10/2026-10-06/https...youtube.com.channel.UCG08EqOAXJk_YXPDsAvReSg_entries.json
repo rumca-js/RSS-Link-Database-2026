@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unity",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-06T16:00:51.182230+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-06T15:30:07+00:00",
+        "description": "Until now, working with dictionaries in Unity usually meant relying on serialization callbacks, custom wrappers, or third-party extensions.\n\nWith Unity 6.6, built-in serialization support has landed, including a dedicated two-column view in the Inspector window for editing keys and values.\n\n#GameDev #UnityTips #Unity3D #UnityLearn",
+        "id": 6536919,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/rsSVfF4XCA0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 683,
+        "source_url": "https://youtube.com/channel/UCG08EqOAXJk_YXPDsAvReSg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/rsSVfF4XCA0/hqdefault.jpg",
+        "title": "Serialized dictionaries.",
+        "vote": 0
+    }
+]

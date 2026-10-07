@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Scott Manley",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-06T17:54:26.548176+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-06T16:14:56+00:00",
+        "description": "Last month I spent a few hours talking with scientists at Science Systems and Applications Inc. about their work, both their internal projects within SSAI and their support for NASA projects and the broader Moon to Mars Architecture. \n\nWe talk about exploring the moon using spacecraft that were designed to study the earth. Evidence for water on the moon and proposals to study the flows of water around the surface. Space weather hazards. Asteroid impacts and impacting asteroids and why Mars needs a weather forecast if we're really going to explore it.\n\nInterviewees:\nOreste Reale - Chief Corporate Scientist\nRyan Ihnacik\nNick Gorkavyi\nGuiallme Gronoff\nGal Sarid\n\n\nSponsored by SSAI\nhttps://www.ssaihq.com/scientific-research\n\n0:00 Intro\n0:24 Chief Corporate Scientist Oreste Reale\n5:11 Ryan Ihnacik: Moon To Mars\n14:30 Nick Gorkavyi: DSCOVR Lunar Minerals \n19:28 Guillaume Gronoff: Lunar Water Cycle\n22:48 Nick Gorkavyi: Rivers on the Moon?\n27:36 Nick Gorkavyi: Cheylabinsk\n30:27 Gal Sarid: DAR",
+        "id": 6537814,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=dmVn2DmlmgU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 829,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxzC4EngIsMrPmbm6Nxvb-A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/dmVn2DmlmgU/hqdefault.jpg",
+        "title": "Ancient Rivers On The Moon & Other Scientists Stories That Blew My Mind",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-06T13:29:31.857271+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-06T11:00:06+00:00",
+        "description": "Learn more about AI Models here \u2192 https://ibm.biz/~GnXROtDog\n\nThe biggest AI models can't fit on one GPU. Grace Ableidinger explains how distributed AI inference scales LLMs across GPUs using data, pipeline, tensor, and expert parallelism. Learn how KV cache, throughput, and prefill/decode bottlenecks shape production AI serving.\n\n00:00 \u2013 See Why AI Models Need Distributed Inference\n01:50 \u2013 Scale LLM Traffic with Data Parallelism\n02:45 \u2013 Split AI Models with Pipeline Parallelism\n03:45 \u2013 Divide LLM Layers with Tensor Parallelism\n04:32 \u2013 Scale Mixture-of-Experts Across GPUs\n05:44 \u2013 Separate LLM Prefill and Decode Workloads\n07:51 \u2013 Combine GPU Parallelism for Production AI\n08:29 \u2013 Orchestrate Distributed LLM Inference\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/~86jhlfVag\n\nAI was used in the creation of the transcript and metadata for this video.\n\n#llm #aimodels #gpu #machinelearning \n\n---------------------------------------------------",
+        "id": 6535596,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=qZBibWYcKH4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/qZBibWYcKH4/hqdefault.jpg",
+        "title": "How AI Models Scale Beyond a Single GPU Across LLM Workloads",
+        "vote": 0
+    }
+]
