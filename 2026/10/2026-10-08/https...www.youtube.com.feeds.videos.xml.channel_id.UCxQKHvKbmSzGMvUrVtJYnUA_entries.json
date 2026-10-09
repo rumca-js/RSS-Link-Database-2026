@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Learn Linux TV",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-08T18:40:42.823306+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-08T15:00:33+00:00",
+        "description": "Spinning up your own Linux server in the cloud takes about ten minutes and a few dollars a month. In this beginners guide I\u2019ll walk you through creating a VPS on DigitalOcean from scratch - no prior server experience needed.\n\nWe\u2019ll start by generating an SSH key so your server is locked down from the very first boot, then create a Droplet, add a startup script that configures the machine for you automatically, and walk through the settings worth turning on. Finally we\u2019ll SSH in and talk about what to do with it.\n\n*\ud83d\udcda Discounts, Courses, Books, and More! (Support Linux Learning)*\n- Switching to Linux Book:\n        Amazon \u279c https://learnlinux.link/stl-amazon\n        Publisher \u279c https://learnlinux.link/stl-leanpub\n- Linux Swag & Gear \u279c https://learnlinux.link/swag\n- Live Training \u279c https://learnlinux.link/live\n- $100 of Free Linode Starter Credit \u279c https://learnlinux.link/linode\n- \"Linux Pro-Tips\" Newsletter \u279c https://learnlinux.link/linux-tips\n- eBook Bundle \u279c https://learnlinux.link/ebo",
+        "id": 6555883,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=YIeKWy09E9Q",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 997,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxQKHvKbmSzGMvUrVtJYnUA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/YIeKWy09E9Q/hqdefault.jpg",
+        "title": "Your First Linux Server: Easy DigitalOcean Droplet Setup Tutorial",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Digital Foundry",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-07T15:27:50.109614+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-07T14:03:48+00:00",
+        "description": "Content sponsored by Secret Mode. In a massive Digital Foundry deep dive, we go behind the scenes at Fuse Games to discuss the vision and ambition behind STAR WARS: Galactic Racer. The development team discuss the origins of the studio, the journey from pitch to production, why they chose Unreal Engine 5 and how they got the most out of the Epic engine across in delivering a signature experience that runs at a locked 60 frames per second on consoles.\n\n00:00 \u2013 Introduction: Reviving Arcade Racing\n02:18 \u2013 Studio Origins & The Core Vision\n06:26 \u2013 Consequence & Run-Based Campaign Structure\n09:17 \u2013 Unreal Engine 5 & Fast Prototyping\n13:07 \u2013 Performance Target: 60 FPS or Nothing\n15:45 \u2013 Lighting & Optimisation: Hardware Lumen vs Lightmass\n19:01 \u2013 Physics, Profiling & In-House Tools (Trace Analyser & Conductor)\n21:11 \u2013 Blueprints to C++ & Image Quality (TSR)\n24:01 \u2013 Track Design: Handcrafted Racetracks vs. Open Worlds\n26:07 \u2013 Vehicle Physics, Handling & Repulsor Height-Matching\n28:02 \u2013 Desig",
+        "id": 6545388,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=EIPgivtETng",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 696,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9PBzalIcEQCsiIkq36PyUA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/EIPgivtETng/hqdefault.jpg",
+        "title": "Inside STAR WARS: Galactic Racer: The Tech Behind The Big Arcade Racing Revival [Sponsored]",
+        "vote": 0
+    }
+]

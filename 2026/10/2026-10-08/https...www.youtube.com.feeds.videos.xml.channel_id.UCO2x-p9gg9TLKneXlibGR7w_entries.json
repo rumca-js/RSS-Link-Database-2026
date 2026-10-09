@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Snazzy Labs",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-08T19:17:56.534390+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-08T17:49:58+00:00",
+        "description": "Siri AI is great, but not without its quirks. Let me show you how best to use it.\n*Check out the Fitnexa SomniPods 3 and save with code SNAZZYLABS:* https://go.fitnexa.com/Bg1oVM\n\n*Buy FANTASTIC merch at Copland Supply* - https://copland.supply\nFollow Snazzy Labs on Twitter - https://twitter.com/snazzylabs  \nFollow me on Bluesky - https://snazzy.fm/UW\nFollow me on Threads - https://snazzy.fm/XV\nFollow me on Mastodon - https://snazzy.fm/NN\nFollow me on Instagram - https://instagram.com/snazzyq\n\nThe new Siri AI beta in iOS 27 runs on Apple Intelligence, and after a full summer of testing, here's how it works under the hood: AFM 3 Core, the 20-billion-parameter AFM 3 Core Advanced on A19 Pro iPhones, the Agentic Planner, and Private Cloud Compute with Cloud Pro running on NVIDIA GPUs inside Google data centers. Apple trained its models in-house but refined them with distilled Google Gemini outputs, which is why Siri hallucinates, makes lousy tool calls, and once invented 12 million views",
+        "id": 6556164,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=sD5qgPb2PR0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 307,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCO2x-p9gg9TLKneXlibGR7w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/sD5qgPb2PR0/hqdefault.jpg",
+        "title": "You're Doing The New Siri Wrong",
+        "vote": 0
+    }
+]

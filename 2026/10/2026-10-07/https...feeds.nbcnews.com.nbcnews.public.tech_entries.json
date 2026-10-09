@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jared Perlo",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-07T10:42:55.618890+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-07T10:30:00+00:00",
+        "description": "Members of Meta\u2019s Oversight Board have some advice for AI companies looking to launch their own independent safety committees.",
+        "id": 6543186,
+        "language": "en-US",
+        "link": "https://www.nbcnews.com/tech/social-media/metas-oversight-board-warning-ai-companies-building-safety-watchdogs-rcna601588",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 223,
+        "source_url": "https://feeds.nbcnews.com/nbcnews/public/tech",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-10/261005-meta-vl-255p-39acd8.jpg",
+        "title": "Meta\u2019s Oversight Board has a warning for AI companies building their own watchdogs",
+        "vote": 0
+    }
+]

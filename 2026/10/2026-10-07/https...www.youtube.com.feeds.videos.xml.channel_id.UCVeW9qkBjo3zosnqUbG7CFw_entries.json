@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Hammond",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-07T15:36:07.847738+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-07T12:36:36+00:00",
+        "description": "Join us for Just Hacking Training's 2nd birthday livestream on Friday, October 9 at 1:00 PM ET (10:00 AM PT). Come hang out, celebrate two years of focused technical training, and join the party.",
+        "id": 6545440,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=1sB95-QhQGU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 959,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVeW9qkBjo3zosnqUbG7CFw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/1sB95-QhQGU/hqdefault.jpg",
+        "title": "Just Hacking Training Turns 2!",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Foundation",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-08T15:31:32.499301+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-08T14:05:17+00:00",
+        "description": "John Mertic, Director of Program Management at the Linux Foundation, explains how the Open Mainframe Project just opened real IBM Z and z/OS infrastructure to any open source project for development, testing, and education, ending years of hardware access gaps for the community.\n\nFull article and transcript: https://tfir.io/mainframe-infrastructure-open-source-linux-foundation/\n\nMost open source contributors targeting mainframe have never touched real hardware. Emulators and documentation can only go so far, and production mainframe systems behave differently in ways that matter when you are writing or porting code that will run on them.\n\nIn this exclusive interview with Swapnil Bhartiya at TFiR, John Mertic, Director of Program Management at the Linux Foundation and a key figure in the Open Mainframe Project, walks through what the new infrastructure program provides, who can access it, how to apply, and what IBM, Broadcom, and other contributors have built to make it work at scale.\n",
+        "id": 6554275,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=aS7BgwRDZZg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 499,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfX55Sx5hEFjoC3cNs6mCUQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/aS7BgwRDZZg/hqdefault.jpg",
+        "title": "Open Mainframe Infrastructure Now Open to All Open Source Projects | John Mertic, Linux Foundation",
+        "vote": 0
+    }
+]

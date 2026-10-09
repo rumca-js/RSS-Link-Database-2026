@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unreal Engine",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-08T17:09:26.065864+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-08T15:59:32+00:00",
+        "description": "Unreal Model Context Protocol (MCP) provides an official, Epic-supported way to connect your favorite agentic LLM tools directly to Unreal Engine.\nBuilt on the open MCP standard, it enables agents to take action in your projects using the capabilities exposed by each editor\u2014so you can use compatible agentic coding tools or build your own integrations, skills, and workflows around how you create.\n\nDocs:  https://dev.epicgames.com/documentation/unreal-engine/unreal-mcp-in-unreal-editor?lang=en-US \n\nLearn how to connect MCP in UE: \nhttps://www.youtube.com/watch?v=k0tgmrBuIJc&t=2s\n\nLearn how to connect MCP in UEFN: https://www.youtube.com/watch?v=acGWIJ1hIlM&t=1s\nExplore PCG and MCP workflows with the UE City Sample:\nhttps://www.fab.com/listings/4898e707-7855-404b-af0e-a505ee690e68?lang=en\n\n#unreal engine #UE #UE 5.8 #UEMCP #UnrealMCP #MCP",
+        "id": 6555187,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=FON_noub0C0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 685,
+        "source_url": "https://youtube.com/channel/UCBobmJyzsJ6Ll7UbfhI4iwQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/FON_noub0C0/hqdefault.jpg",
+        "title": "A First Look at Unreal MCP in Unreal Engine 5.8",
+        "vote": 0
+    }
+]

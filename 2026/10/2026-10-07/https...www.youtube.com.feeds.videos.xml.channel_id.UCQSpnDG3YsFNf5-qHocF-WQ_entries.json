@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ThioJoe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-07T15:12:50.206528+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-07T14:45:08+00:00",
+        "description": "EVERY program must add this feature NOW.\n\nFeature Request thread: https://issues.chromium.org/issues/570465258\n\nI was doing some searching for certain terms within a PDF recently and encountered an annoyance that I have countless times before. You want to search for something, you know what you're looking for, but there's a ton of matches for the word. To find what you need, you need to click a million times on the \"Next\" button, even when you can see that none of the results on the current page are what you want. But what if there was a better way. A way to simply skip all the results visible so you can go right to parts you haven't seen, and more quickly scan large web pages or documents for what you're looking for.\n\nTime Stamps:\n0:00 - Intro\n0:14 - The Problem\n1:22 - The Solution\n1:59 - It is Possible\n2:16 - A Similar Feature\n2:49 - Will They Actually Add It\n\n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\n\u2022 My Desktop Wallpapers \u21e8 https://thiojoe.art\n\u21e8 http://Instagram.com/ThioJoe\n\u21e8 http://Twitter.com",
+        "id": 6545294,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=pAe5hTqyQDQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 366,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQSpnDG3YsFNf5-qHocF-WQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/pAe5hTqyQDQ/hqdefault.jpg",
+        "title": "Google Chrome MUST Add This Feature",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Andr\u00e9 Staltz",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-08T15:59:20.463146+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-08T15:59:11.132336+00:00",
+        "description": "<p>I wrote a blog post four years ago called <a href=\"https://staltz.com/time-till-open-source-alternative.html\">Time Till Open Source Alternative</a> (TTOSA). The thesis there was that it is becoming quicker and quicker to see an open source alternative to established products. Back then, AI was not on my radar, as it wasn't for everyone else in the industry, but I knew the downward TTOSA trend was going to persist.</p>\n<p>My assumption would have been that it would take a few weeks, or a few days, to make an open source alternative to a proprietary product, but the new numbers say it has gone to zero. As the latest example, it took zero days for Grok Bot to get an open source alternative called <a href=\"https://github.com/milind-soni/OpenMausBot\">OpenMausBot</a>. (See the original definition of TTOSA if you're curious.)</p>\n<p>This time it was a lot quicker to update the dataset of proprietary software releases and open source software releases. I just used Claude Opus 5.5 to scrape",
+        "id": 6554467,
+        "language": "en-US",
+        "link": "https://staltz.com/time-till-open-source-alternative-is-zero.html",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 19,
+        "source_url": "https://staltz.com/feed.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://staltz.com/img/ttosa-chart-2026.png",
+        "title": "Time Till Open Source Alternative is now zero",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "LGR",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-07T13:40:10.047257+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-07T13:02:30+00:00",
+        "description": "Retrospective on the only Sierra On-Line graphics card: the Screamin' 3D! That alone makes it a notable oddity, but it's also a Rendition Verite V1000, somewhat arguably the first PC GPU! Depends on definitions of course, but it's for sure the first to use a programmable core specifically to render 3D graphics and lighten CPU load. Yeah this thing can provide some awesome results for 1996, and naturally it came with a slew of shortcomings and general mid-90s quirkiness. Let's unbox this one and take a look!\n\n\u25cf LGR things elsewhere:\nPatreon https://www.patreon.com/LazyGameReviews\nBsky https://bsky.app/profile/lgr-yt.bsky.social\n\n\u25cf Pertinent links:\nCharles's YouTube channel https://www.youtube.com/@beyerch\nRReady Wrapper https://www.nirvtek.com/rready.php\nVCFMW vlog https://www.youtube.com/watch?v=w-XF5j6x0hs\nSocket 7 build https://www.youtube.com/watch?v=9yT9KPQqBtE\n\n\u25cf Background music is from Epidemic Sound:\nhttps://www.epidemicsound.com/\n\n00:00 Screamin' 3D exists!\n00:42 the first (?",
+        "id": 6544510,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=o0wDkCp3Eu4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 801,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLx053rWZxCiYWsBETgdKrQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/o0wDkCp3Eu4/hqdefault.jpg",
+        "title": "Sierra Screamin' 3D Graphics Accelerator from 1996",
+        "vote": 0
+    }
+]

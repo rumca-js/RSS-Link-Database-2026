@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-08T10:24:21.380780+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-08T10:07:58+00:00",
+        "description": "Casualties have been reported on the vessel, identified by a maritime intelligence firm as the oil and chemical tanker, Acers.",
+        "id": 6551998,
+        "language": "en-gb",
+        "link": "https://www.bbc.co.uk/news/articles/cqlydk7796wdo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 525,
+        "source_url": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f398/live/8524e1d0-c2fc-11f1-b8c6-6d610e41a5d9.jpg",
+        "title": "Tanker hit by multiple projectiles in Gulf off Qatar, maritime agency says",
+        "vote": 0
+    }
+]

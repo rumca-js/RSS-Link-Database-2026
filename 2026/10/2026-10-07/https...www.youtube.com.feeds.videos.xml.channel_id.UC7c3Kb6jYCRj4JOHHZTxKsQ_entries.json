@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "GitHub",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-07T21:16:09.510756+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-07T18:10:17+00:00",
+        "description": "GitHub Copilot is extending intelligent model orchestration from the cloud down to your local machine. Copilot can automatically discover installed local models from providers like Ollama and Microsoft Foundry Local without manual setup. And soon intelligent routing will offload workflows like simple tasks, codebase explanations, and background automations to an on-device model for zero AI credits. Watch to learn how local model routing works online and completely offline.\n\nLearn more about how we are bringing local models and sandboxed tools to GitHub Copilot to help you maintain both choice and control over your workflows \u2b07\ufe0f\ngh.io/localdevelopment \n\n\u2014 CHAPTERS \u2014\n\n00:00 Bringing local model routing to GitHub Copilot \n00:32 Automatic discovery of Ollama and local models \n01:08 Auto-routing simple tasks to free local compute \n01:39 Running long-running automations for zero AI credits \n01:56 Working offline and protecting sensitive data \n02:09 Availability and what is coming next \n\n#Git",
+        "id": 6548245,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=QIHnmqYU614",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 1005,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7c3Kb6jYCRj4JOHHZTxKsQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/QIHnmqYU614/hqdefault.jpg",
+        "title": "Intelligent local model routing is coming to GitHub Copilot",
+        "vote": 0
+    }
+]

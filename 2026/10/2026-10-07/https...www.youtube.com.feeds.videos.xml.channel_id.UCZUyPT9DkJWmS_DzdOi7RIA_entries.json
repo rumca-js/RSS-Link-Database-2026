@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Caleb Curry",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-07T14:14:57.728651+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-07T13:54:47+00:00",
+        "description": "Get started with the Logitech MX Keypad: https://logi.link/4b74b2\n\nTimestamps:\n00:00 - Intro\n01:09 - Catalog your thoughts\n05:20 - Building\n05:59 - How I run multiple agents\n09:03 - Shortcuts in VS Code\n10:12 - Make it more difficult to get code out to production\n13:27 - Create a process for building software\n14:29 - Think of software as a flow of information\n16:42 - Summary\n\n\u2699\ufe0f Backend Engineering Mind Map - https://calcur.tech/mindmap\n\ud83d\udcbb System Design Playlist - https://calcur.tech/system-design\n\nTimestamps:\n\n\ud83d\udcaf FREE Courses (100+ hours) - https://calcur.tech/free-courses\n\ud83c\udfc6 C++ Mastery Course - https://www.codebreakthrough.com/cpp-mastery\n\ud83d\udc0d Backend Python Course - https://calcur.tech/backend-python\n\ud83e\udd47 Python Mastery Course  - https://calcur.tech/python-mastery\n\n~~~~~~~~~~~~~~~ CONNECT ~~~~~~~~~~~~~~~\n\n\u2709\ufe0f Newsletter - https://calcur.tech/newsletter\n\ud83d\udcf8 Instagram - https://www.instagram.com/CalebCurry\n\ud83d\udc26 Twitter - https://twitter.com/calebCurry\n\ud83d\udd17 LinkedIn - https://www.linkedin.com/in/caleb",
+        "id": 6544790,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=wmvUYwkagns",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 418,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZUyPT9DkJWmS_DzdOi7RIA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/wmvUYwkagns/hqdefault.jpg",
+        "title": "My Daily Software Engineering Workflow (ft. Logitech MX Keypad)",
+        "vote": 0
+    }
+]

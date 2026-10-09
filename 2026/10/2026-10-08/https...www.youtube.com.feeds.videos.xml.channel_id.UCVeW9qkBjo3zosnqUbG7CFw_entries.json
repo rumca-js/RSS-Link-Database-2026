@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Hammond",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-08T22:11:17.227094+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-08T19:01:38+00:00",
+        "description": "This payload is getting a little more interesting as the different stages start connecting together.\n\nI follow the PowerShell activity through AppData, the Base64 payload that turns out to be a ZIP file, and the different URLs being used to pull down additional content.\n\nWatch the full video: https://youtu.be/oJHOlNTH7lY?si=8LruOkxZlfvFLII-",
+        "id": 6557410,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/xc-D_1n1zSw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 959,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVeW9qkBjo3zosnqUbG7CFw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/xc-D_1n1zSw/hqdefault.jpg",
+        "title": "Following The Payload",
+        "vote": 0
+    }
+]

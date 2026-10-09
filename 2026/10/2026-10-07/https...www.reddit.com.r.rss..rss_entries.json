@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/Manifesto-Engine",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-07T11:17:17.051551+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-07T06:30:40+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>hey <a href=\"/r/rss\">r/rss</a> :D</p> <p>i&#39;ve been building this thing called Reading Desk for a while now and figured this is the place that&#39;d actually get it.</p> <p>it started because i wanted feeds from sites that don&#39;t have one. so now you just click one headline on a page and it figures out the rest and makes a feed out of it. works on sites you have to log into too.</p> <p>it also does normal rss/atom (obviously lol), youtube channels, and reddit subs and searches with the galleries and videos playing right in the reader. you can mute words, and if 3 sources post the same story you only see it once. there&#39;s a daily briefing of what your sources covered, all made on your pc with no AI service or anything. folders fold away and there&#39;s a &quot;hide read&quot; button since someone asked for it. and kind of a random one: free classic books from Project Gutenberg, a chapter a day, like a feed. turned out way better than i expecte",
+        "id": 6543470,
+        "language": "en",
+        "link": "https://www.reddit.com/r/rss/comments/1wzpe0j/made_a_little_windows_rss_reader_that_can_turn",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 482,
+        "source_url": "https://www.reddit.com/r/rss/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "made a little windows rss reader that can turn basically any website into a feed (and send it to your phone over wifi) Reading Desk!",
+        "vote": 0
+    }
+]

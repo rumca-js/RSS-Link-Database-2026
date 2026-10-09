@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kevin Stratvert",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-07T08:39:36.667230+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-07T07:00:00+00:00",
+        "description": "Learn how to edit videos with ChatGPT Codex using AI. In this step-by-step tutorial, I\u2019ll take 16 completely unedited video clips and see if Codex can turn them into a polished, finished video.\n\nYou\u2019ll see how to set up a video editing project in Codex, install the Hyperframes plugin, give Codex access to your raw footage, and use a simple prompt to have AI analyze, cut, sequence, and edit the clips. We\u2019ll also add captions, text overlays, music, and an AI-generated opening graphic, then refine the finished video using voice.\n\nBy the end, you\u2019ll see just how much of the video editing process ChatGPT Codex can handle on its own.\n\nHost: Kevin Stratvert\nSponsored By: @OpenAI \n\n\ud83d\udcda RESOURCES\n- Download ChatGPT Desktop App: https://www.chatgpt.com/download\n- Download the practice video files and follow along: https://1drv.ms/u/c/b09f9559f6a16b6c/IQCpe547AHbjRLsBVcuuTX2bAaPkuiQ04vEbxZnAFFXT_a8?e=XMlwmc\n\n\u231a TIMESTAMPS\n0:00 - Edit videos with ChatGPT Codex\n0:55 - Set up Codex\n1:37 - Install Hype",
+        "id": 6542518,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=cR0TaYikrz8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 958,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfJT_eYDTmDE-ovKaxVE1ig",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/cR0TaYikrz8/hqdefault.jpg",
+        "title": "How to Edit Videos with ChatGPT Codex",
+        "vote": 0
+    }
+]

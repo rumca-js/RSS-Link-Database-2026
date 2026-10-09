@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-08T11:42:47.861736+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-08T11:00:27+00:00",
+        "description": "Learn how to use TanStack router to implement frontend navigation, enterprise-level authentication, and type-safe state management in 2026. Whether you're comparing it to React Router DOM or Next.js, you'll learn why TanStack is becoming the industry standard for complex web apps.\n\nSource Code: https://github.com/tapascript/tanstack-router-crash-course\n\nCourse from @tapasadhikary \n\n\u2b50 Chapters \u2b50\n0:00:00 - Master TanStack Router: Project Overview \n0:03:10 - Course Agenda & Key Learning Outcomes \n0:05:48 - Why You Need a Modern Router in 2026 \n0:08:10 - TanStack Router \n0:10:49 - Setup, Installation & Initial Configuration \n0:15:22 - Understanding the Route Tree Architecture \n0:20:26 - How to Configure the Root Route \n0:21:14 - Implementing Layouts with the Outlet  \n0:25:32 - Building Static Layout Components \n0:26:58 - Defining Static Routes & Navigation \n0:29:41 - Declarative Navigation with the Link Tag \n0:33:12 - Programmatic Routing with useNavigate() Hook \n0:38:33 - Optimizing Perf",
+        "id": 6552526,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=P-UIf7V7gV0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/P-UIf7V7gV0/hqdefault.jpg",
+        "title": "TanStack Router Course \u2013 Loaders, Auth & Type-Safe Routes",
+        "vote": 0
+    }
+]

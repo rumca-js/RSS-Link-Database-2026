@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "GitHub",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-09T00:27:03.231132+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-08T21:19:39+00:00",
+        "description": "Agent sessions shouldn't be locked into a single code editor or terminal window. Patrick Nikoletich explains how GitHub's shared agent runtime, Copilot SDK, and Agent Host Protocol let developers move active sessions seamlessly across multiple devices. Watch a live demonstration of hosting an agent on a home Linux machine, connecting via Copilot CLI, and syncing real-time updates across multiple clients.\n\n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac WANT TO LEARN MORE? \ud83d\ude80  \u25ac\u25ac\u25ac\u25ac\u25ac\u25ac \n\nLearn more about HydraFusion https://gh.io/ghcpdayhydrafusion\nGet hands-on with the Copilot app https://gh.io/ghcpdaycopilotapp\nCheck out Copilot app resources  https://gh.io/ghcpdaycopilotappresources\nInstall the GitHub Copilot CLI https://gh.io/ghcpdaycopilotcli\nCheck out GitHub Copilot Dev Days!  https://gh.io/join-dev-days\n\n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac  TIMESTAMPS \u231a  \u25ac\u25ac\u25ac\u25ac\u25ac\u25ac \n\n0:00 Intro: the Copilot SDK and runtime\n0:50 A highly portable runtime\n1:33 Introducing the Agent Host Protocol\n1:55 Meeting users wherever they are\n2:40 Demo setup: a home Tailscale network",
+        "id": 6558191,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=KT6p0MNXoCE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 1005,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7c3Kb6jYCRj4JOHHZTxKsQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/KT6p0MNXoCE/hqdefault.jpg",
+        "title": "How to run GitHub Copilot agent sessions across any device | GitHub Copilot Day",
+        "vote": 0
+    }
+]

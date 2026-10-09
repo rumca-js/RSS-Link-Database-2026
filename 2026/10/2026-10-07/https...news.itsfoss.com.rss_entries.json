@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Sourav Rudra",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-07T11:56:36.318290+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-07T10:46:45+00:00",
+        "description": "Submitting product vulnerability reports is no longer possible. You can thank AI for that.",
+        "id": 6543772,
+        "language": "en-US",
+        "link": "https://itsfoss.com/news/google-oss-vrp-product-reports-closed",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 156,
+        "source_url": "https://news.itsfoss.com/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://itsfoss.com/content/images/2026/10/google-oss-vrp-pause-banner.png",
+        "title": "Google Has Shut Down Part of its Open Source Bounty Program",
+        "vote": 0
+    }
+]

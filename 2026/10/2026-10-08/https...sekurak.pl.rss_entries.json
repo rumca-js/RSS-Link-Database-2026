@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "sekurak",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-08T08:30:55.346716+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-08T07:28:29+00:00",
+        "description": "<p>W skr\u00f3cie: mo\u017cna bez uwierzytelnienia czyta\u0107 pliki z serwera (z webroot). W pewnych konfiguracjach mo\u017ce to doprowadzi\u0107 do nieautoryzowanego dost\u0119pu na admina. W pewnym uproszczeniu mo\u017cna odczytywa\u0107 pliki odwo\u0142uj\u0105c si\u0119 z przegl\u0105darki do \u015bcie\u017cki ..::..::..::/plik_do_pobrania.txt (dwie kropki + dwa dwukropki wychodz\u0105 w tym przypadku do katalogu wy\u017cej (!)) Poni\u017cej wersje...</p>\n<p>Artyku\u0142 <a href=\"https://sekurak.pl/krytyczna-podatnosc-w-jira-confluence-innych-produktach-atlassian/\">Krytyczna podatno\u015b\u0107 w Jira / Confluence / innych produktach Atlassian</a> pochodzi z serwisu <a href=\"https://sekurak.pl\">Sekurak</a>.</p>",
+        "id": 6551357,
+        "language": "pl-PL",
+        "link": "https://sekurak.pl/krytyczna-podatnosc-w-jira-confluence-innych-produktach-atlassian",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 300,
+        "source_url": "https://sekurak.pl/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Krytyczna podatno\u015b\u0107 w Jira / Confluence / innych produktach Atlassian",
+        "vote": 0
+    }
+]

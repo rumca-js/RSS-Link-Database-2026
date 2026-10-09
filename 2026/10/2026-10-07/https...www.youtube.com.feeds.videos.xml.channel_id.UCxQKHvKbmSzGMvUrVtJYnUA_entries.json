@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Learn Linux TV",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-07T15:29:32.166447+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-07T15:00:07+00:00",
+        "description": "Ansible lets you configure a server once, write it down, and never do it by hand again. In this tutorial we\u2019ll build your first playbook from scratch - then run it with ansible-pull, which I think is the better way to use Ansible for most setups.\n\nWe\u2019ll create a git repository to hold the playbook, write it step by step, break the settings out into a variables file, then SSH into a Linode server, install Ansible, and let the machine pull its own configuration and apply it. No control node, no inventory file to babysit.\n\nBy the end you\u2019ll have a working, version-controlled setup that any new server can configure itself from in one command.\n\n\u2699\ufe0f My full-length Ansible Course is here \u279c https://learnlinux.link/ansible\n\n\ud83d\udcc4 The code used in this video is here \u279c https://learnlinux.link/ansible-pull-repo\n\n*\ud83d\udcda Discounts, Courses, Books, and More! (Support Linux Learning)*\n- Switching to Linux Book:\n        Amazon \u279c https://learnlinux.link/stl-amazon\n        Publisher \u279c https://learnlinux.link/stl",
+        "id": 6545398,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=CMB5GCexb84",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 997,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxQKHvKbmSzGMvUrVtJYnUA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/CMB5GCexb84/hqdefault.jpg",
+        "title": "Ansible for Complete Beginners: Creating Your First Playbook",
+        "vote": 0
+    }
+]

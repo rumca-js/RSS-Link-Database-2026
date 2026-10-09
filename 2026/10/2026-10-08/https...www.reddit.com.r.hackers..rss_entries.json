@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/Pristine-Tangelo-100",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-08T01:11:12.561255+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-08T00:43:03+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://github.com/rianhanft/Rians_Evil_Portals_For_Marauder\">https://github.com/rianhanft/Rians_Evil_Portals_For_Marauder</a></p> <p>I&#39;ve been working on a more advanced generation of captive portals \u2014 all single .html files under 20 KB \u2014 that go well beyond the basic login screen. These let the target navigate a fully functional menu with working tabs, interactive sheets, and two additional sign-in paths beyond the standard email/password flow (victim can pick between logging in to Google or Apple as other options), both built with CSS-only overlays so they work within the esp32-c5\u2019s constraints. Took a fair amount of iteration to get everything behaving correctly on the Marauder mini V3 and V8, but they should also be solid on any microcontroller running the marauder firmware or any firmware capable of launching captive portals.</p> <p>My repo now has 400+ portals (not all are built around an advanced framework), each branded and built",
+        "id": 6549616,
+        "language": "en",
+        "link": "https://www.reddit.com/r/hackers/comments/1x0d9hd/advanced_evil_portal_project_compatible_with",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 536,
+        "source_url": "https://www.reddit.com/r/hackers/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Advanced evil portal project compatible with marauder/esp32-c5",
+        "vote": 0
+    }
+]

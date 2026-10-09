@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kevin Stratvert",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-08T08:24:01.990651+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-08T07:00:27+00:00",
+        "description": "Learn how to use OpenAI Codex step by step. In this beginner-friendly tutorial, I\u2019ll show you how to use Codex to turn an idea into a working project, even if you don\u2019t know how to code.\n\nWe\u2019ll build a complete Cookie Shop Tycoon game from scratch using the Codex desktop experience. You\u2019ll learn how to create projects, make changes with natural language, preview and test your work, use Git to track changes, run multiple AI agents in parallel, create reusable Skills, connect GitHub, and hand off tasks to Codex Cloud.\n\nBy the end, you\u2019ll understand the complete Codex workflow and how you can use it to build apps, automate tasks, work on websites, and bring your own software ideas to life with AI.\n\nHost: Kevin Stratvert\n\n\ud83d\udcda RESOURCES\n- Download ChatGPT Desktop App: https://www.chatgpt.com/download\n- Git and GitHub Tutorial for Beginners: https://youtu.be/tRZGeaHPoaw\n\n\u231a TIMESTAMPS\n00:00 - Learn OpenAI Codex\n00:47 - Get started with Codex\n01:26 - Create your first project\n02:22 - Build a pr",
+        "id": 6551335,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=7XzjQa8z0uc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 958,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfJT_eYDTmDE-ovKaxVE1ig",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/7XzjQa8z0uc/hqdefault.jpg",
+        "title": "How to Use OpenAI Codex (Step-by-Step Tutorial)",
+        "vote": 0
+    }
+]

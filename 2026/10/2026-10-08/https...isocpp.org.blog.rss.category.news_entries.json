@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Blog Staff",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-08T18:27:23.978110+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-08T18:12:59+00:00",
+        "description": "{blog_body}",
+        "id": 6555799,
+        "language": "en",
+        "link": "https://isocpp.org//blog/2026/10/understanding-stdcounting-semaphore-and-stdbinary-semaphore-from-cpp20-bart",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Understanding std::counting_semaphore and std::binary_semaphore from C++20 -- Bartlomiej Filipek",
+        "vote": 0
+    }
+]

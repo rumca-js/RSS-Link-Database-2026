@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-08T19:48:04.792329+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-08T18:53:00+00:00",
+        "description": "The SpaceX Crew Dragon Freedom spacecraft is seen as it lands with NASA astronauts Jessica Meir and Jack Hathaway, ESA (European Space Agency) astronaut Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev aboard in the Pacific Ocean off the coast of Los Angeles, Calif., Thursday, Oct. 8, 2026.",
+        "id": 6556360,
+        "language": "en-us",
+        "link": "https://www.nasa.gov/image-detail/nasas-spacex-crew-12-splashdown-2",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 485,
+        "source_url": "https://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Crew-12 Returns to Earth",
+        "vote": 0
+    }
+]

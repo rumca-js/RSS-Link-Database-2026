@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/pacedevv",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-07T12:15:23.850060+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-07T02:51:16+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>Hi <a href=\"/r/RISCV\">r/RISCV</a>,</p> <p>I want to share a project I&#39;ve been working on for the last few weeks: PACE (Pre-computing Antecipatory Core Engine), an RV64 in-order core built around a different idea \u2014 instead of predicting, it pre-computes.</p> <p>Everything below was developed and tested on an Android phone via Termux + Ubuntu proot. No PC, no FPGA. Just Verilator and a lot of patience.</p> <h2>The idea</h2> <p>Instead of predicting values (branch prediction, value prediction), PACE pre-computes them. Dedicated scouts run ahead of the main pipeline and generate values, addresses, and branch directions ahead of time. Real execution happens in AO-Cores, which keep running even if the scouts stall.</p> <p>The scout side: - PCU (Pre-computing Unit): pre-computes integer and FP arithmetic - M-Core (Memory Core): issues LOADs/STOREs, manages MSHR and runahead, uses PCU to compute addresses - B-Core (Branch Core): resolves branches based on",
+        "id": 6543899,
+        "language": "en",
+        "link": "https://www.reddit.com/r/RISCV/comments/1wzlmn4/show_pace_inorder_rv64_core_targeting_rv64gc_with",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 471,
+        "source_url": "https://www.reddit.com/r/RISCV/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "[Show] PACE \u2014 in-order RV64 core targeting RV64GC, with scout-based pre-computation",
+        "vote": 0
+    }
+]

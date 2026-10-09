@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Gerardo Delgado",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-07T23:35:08.192693+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-07T18:45:28+00:00",
+        "description": "At a Microsoft event in San Francisco on Wednesday, Jensen Huang and Satya Nadella outlined how NVIDIA and Microsoft are co-engineering hardware and software for AI agents to run on Windows PCs. NVIDIA was founded because of Windows, Huang said. Now AI agents are coming to Windows. \u201cIf you look at the entire journey of [&#8230;]",
+        "id": 6549124,
+        "language": "en-US",
+        "link": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 1019,
+        "source_url": "https://feeds.feedburner.com/nvidiablog",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://blogs.nvidia.com/wp-content/uploads/2026/10/nvidia-rtx-spark-microsoft-event-3840x2160-1-842x450.png",
+        "title": "NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents",
+        "vote": 0
+    }
+]
