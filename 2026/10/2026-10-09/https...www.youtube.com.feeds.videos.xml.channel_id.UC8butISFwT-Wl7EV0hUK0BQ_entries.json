@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-09T17:22:59.248475+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-09T17:00:19+00:00",
+        "description": "Master n8n and build production-ready automation systems, covering everything from core fundamentals and API orchestration to AI agents and multi-agent pipelines. You will also learn critical real-world operational skills, including persistent memory, human-in-the-loop approvals, robust error handling, and automated performance monitoring.\n\n\u270f\ufe0f Course from @automationsbyrahul \n\n\u2764\ufe0f Support for this channel comes from our friends at Scrimba \u2013 the coding platform that's reinvented interactive learning: https://scrimba.com/freecodecamp\n\nChapters\n- 00:00 Introduction to n8n & Course Overview\n- 01:45 Getting Started: Canvas, Hosting & Setup\n- 04:44 Workflow 1: Form-to-AI Email Automation Pipeline\n- 07:44 Workflow 2: Building an AI Sales CRM Chatbot\n- 10:21 Deep Dive: The HTTP Request Node & API Scraping\n- 13:06 Document Processing: Extracting Data from Shipping Documents\n- 15:46 AI Agents vs. LLMs: Web Search & Email Agent\n- 18:38 Using Google Sheets as a Knowledge Base Database\n- 22:01 Shor",
+        "id": 6563688,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=YY-egxTQirA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/YY-egxTQirA/hqdefault.jpg",
+        "title": "n8n Full Course \u2013 Architect Scalable AI Automations from Scratch",
+        "vote": 0
+    }
+]

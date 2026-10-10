@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Doug Sharpe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-09T19:21:37.246544+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-09T17:39:52+00:00",
+        "description": "A Canadian politician in a non-French speaking part of Canada has started speaking French while debating to troll his non-french speaking political opponents",
+        "id": 6564635,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/mAjZB3Muft0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 811,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCAYmlecATSG0wc5IxsFJSbQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/mAjZB3Muft0/hqdefault.jpg",
+        "title": "How Canadian Politicians Are Weaponizing French #funfact",
+        "vote": 0
+    }
+]

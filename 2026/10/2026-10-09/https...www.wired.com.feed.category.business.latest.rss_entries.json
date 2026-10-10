@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Steven Levy",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-09T15:14:33.824848+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-09T15:00:00+00:00",
+        "description": "Apple\u2019s original music player got many things right. Chief among them: It didn\u2019t connect to the internet.",
+        "id": 6562585,
+        "language": "en-US",
+        "link": "https://www.wired.com/story/im-still-convinced-the-ipod-was-the-perfect-gadget",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 396,
+        "source_url": "https://www.wired.com/feed/category/business/latest/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media.wired.com/photos/6abdb2233241c89b6aaeb7ab/master/pass/Backchannel-iPod-Anniversary-Business-678384.jpg",
+        "title": "I\u2019m Still Convinced the iPod Was the Perfect Gadget",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeff Geerling",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-09T20:47:37.725109+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-09T20:00:36+00:00",
+        "description": "The Radxa Dragon Q8B is more than twice as fast, has twice the I/O, and is only a little bit larger than the Raspberry Pi 5. But it costs a smidge more, and can be hard to find.\n\nLinks to things I mentioned in this video:\n\n  - My SBC Reviews website: https://sbc-reviews.jeffgeerling.com\n  - Radxa Dragon Q8B benchmark data: https://github.com/geerlingguy/sbc-reviews/issues/108\n  - I bought my 8GB model from ARACE: https://arace.tech/products/radxa-dragon-q8b\n\nNone of those are affiliate links, and I purchased all the hardware used in this review :)\n\nSupport me on Patreon: https://www.patreon.com/geerlingguy\nSponsor me on GitHub: https://github.com/sponsors/geerlingguy\nMerch: https://www.redshirtjeff.com\n2nd Channel: https://www.youtube.com/@GeerlingEngineering\n3rd Channel: https://www.youtube.com/@Level2Jeff\n\nContents:\n\n00:00 - 2x everything except the price\n01:11 - Picking an OS shouldn't be this hard\n02:38 - First boot and usage\n04:14 - Benchmarks and performance\n06:37 - Hardware not",
+        "id": 6565214,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=KUUuxkICOLw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 161,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR-DXc1voovS8nhAvccRZhg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/KUUuxkICOLw/hqdefault.jpg",
+        "title": "Qualcomm made a Pi 5 killer. Good luck getting one.",
+        "vote": 0
+    }
+]

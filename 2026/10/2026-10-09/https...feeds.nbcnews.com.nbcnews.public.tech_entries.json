@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-09T23:58:24.218841+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-09T22:51:57+00:00",
+        "description": "Proprietary technology now in use by a growing number of major acts, recently took the stage at the famous Hollywood Bowl as part of the venue\u2019s major sound upgrade. As NBC News\u2019 Steve Patterson reports, audiences love it.",
+        "id": 6566325,
+        "language": "en-US",
+        "link": "https://www.nbcnews.com/now/video/sharper-vocals-cleaner-sound-machine-learning-is-cutting-out-noise-at-the-hollywood-bowl-271367749788",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 223,
+        "source_url": "https://feeds.nbcnews.com/nbcnews/public/tech",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_10/now_staytuned_spa_hollywood_bowl_261009-spybv2.jpg",
+        "title": "Sharper vocals, cleaner sound \u2014 machine learning is cutting out \u2019noise\u2019 at the Hollywood Bowl",
+        "vote": 0
+    }
+]

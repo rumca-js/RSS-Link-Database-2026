@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NASA",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-09T16:36:35.728182+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-09T14:36:38+00:00",
+        "description": "Tune in as a new shipment of science and supplies lifts off to the International Space Station.\n\nNASA and SpaceX are targeting 6:33 a.m. EDT (1033 UTC), Tuesday, Oct. 13, for the next cargo launch of SpaceX's Dragon spacecraft to the space station. Dragon will lift off from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida and is scheduled to dock autonomously at around 11:00 a.m. EDT (1500 UTC) on Thursday, Oct. 15, to the space-facing port of the station\u2019s Harmony module.\n\nLearn more about the mission and the launch timeline: https://go.nasa.gov/3WhHUPG",
+        "id": 6563290,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=f8FE2R7esZ0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 1010,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLA_DiR1FfKNvjuUpBHmylQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/f8FE2R7esZ0/hqdefault.jpg",
+        "title": "NASA's SpaceX 35th Commercial Resupply Services Launch",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Blog Staff",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-09T20:15:31.912033+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-09T19:49:35+00:00",
+        "description": "<p>\n\t<img alt=\"SANDOR_DARGO_ROUND.JPG\" src=\"https://isocpp.org/files/img/SANDOR_DARGO_ROUND.JPG\" style=\"width: 200px; margin: 10px; float: right; height: 204px;\" />C++26 continues the language&rsquo;s push toward safer, more predictable code by reducing situations that can lead to undefined behaviour. This article looks at several key changes that turn dangerous runtime surprises into diagnosable errors or well-defined behaviour.</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://www.sandordargo.com/blog/2026/07/29/cpp26-reduces-undefined-behaviour\">C++26: Reducing undefined behaviour</a></h3>\n\t<p>\n\t\tby Sandor Dargo</p>\n</blockquote>\n<p>\n\tFrom the article:</p>\n<blockquote>\n\t<p>\n\t\tNowadays, safety is in the focus of C++. Whether it&rsquo;s at committee meetings, conference talks, or hallway discussions, the topic keeps coming up. C++26 made some big steps forward in this area, and one recurring theme is the reduction of cases leading to undefined behaviour.</p>\n\t<p>\n\t\tWith the words of one of t",
+        "id": 6565101,
+        "language": "en",
+        "link": "https://isocpp.org//blog/2026/10/cpp26-reducing-undefined-behaviour-sandor-dargo",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://isocpp.org/files/img/SANDOR_DARGO_ROUND.JPG",
+        "title": "C++26: Reducing undefined behaviour -- Sandor Dargo",
+        "vote": 0
+    }
+]

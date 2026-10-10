@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "GitHub",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-09T17:21:27.496997+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-09T15:59:49+00:00",
+        "description": "Hackathons are much more than continuous coding and zero sleep; they are invention marathons where developers, students, and beginners build real projects. In this short documentary, participants and organizers share how hackathons foster lifelong friendships, teach failure-driven learning, and lower the bar to building software. Watch to see how trial, error, free pizza, and tools like GitHub Copilot help turn raw ideas into working applications.\n\n#Hackathon #GitHub #GitHubCopilot\n\nStay up-to-date on all things GitHub by connecting with us:\n\nYouTube: https://gh.io/subgithub\nBlog: https://github.blog\nX: https://twitter.com/github\nLinkedIn: https://linkedin.com/company/github\nInsider newsletter: https://resources.github.com/newsletter/\nInstagram: https://www.instagram.com/github\nTikTok: https://www.tiktok.com/@github\n\nAbout GitHub\nIt\u2019s where over 180 million developers create, share, and ship the best code possible. It\u2019s a place for anyone, from anywhere, to build anything\u2014it\u2019s where t",
+        "id": 6563667,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=ICi1LPxx0ck",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 1005,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7c3Kb6jYCRj4JOHHZTxKsQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/ICi1LPxx0ck/hqdefault.jpg",
+        "title": "What really happens at a 48-hour hackathon",
+        "vote": 0
+    }
+]

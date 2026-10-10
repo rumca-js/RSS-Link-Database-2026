@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-09T14:41:27.811593+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-09T14:28:00+00:00",
+        "description": "This NASA/ESA/CSA James Webb Space Telescope Picture of the Month features galaxies in incredible detail that have been warped and multiplied like they\u2019ve stepped into a house of mirrors.",
+        "id": 6562395,
+        "language": "en-us",
+        "link": "https://www.nasa.gov/image-detail/galaxies-in-a-cosmic-house-of-mirrors",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 485,
+        "source_url": "https://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Cosmic House of Mirrors",
+        "vote": 0
+    }
+]

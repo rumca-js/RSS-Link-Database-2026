@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-09T03:50:18.900663+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-09T03:11:38+00:00",
+        "description": "OnLogic&#8217;s newest industrial edge gateway, the Helix 320, features a fanless design powered by Intel N-Series Twin Lake processors. The compact system includes four 2.5GbE ports, two configurable serial ports, M.2 expansion, and support for up to three displays. OnLogic offers the Helix 320 with two Intel N-Series &#8220;Twin Lake&#8221; processors: N250 &#8211; 4-core/4-thread architecture, [&#8230;]",
+        "id": 6558971,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/intel-twin-lake-based-helix-320-industrial-gateway-with-quad-2-5gbe",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Intel Twin Lake-Based Helix 320 Industrial Gateway with Quad 2.5GbE",
+        "vote": 0
+    }
+]

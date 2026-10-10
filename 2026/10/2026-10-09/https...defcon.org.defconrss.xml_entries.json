@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-10T00:27:18.250463+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-09T09:45:03+00:00",
+        "description": "<p><img src=\"https://defcon.org/images/defcon-main/post-images/cft-27.webp\" alt=\"DEF CON Training 2027 call for training\"/> </p>\n\n    <p>\ud83d\udce2 DEF CON Training is now accepting course submissions for 2027!<br><br>\n        \n    Whether you're an experienced instructor or bringing a new course to the community, we're looking for high-quality, hands-on training that helps security professionals build real-world skills. <br><br>\n    Submit your training material today for the opportunity to teach alongside the DEF CON community in locations around the world including Las Vegas, the Middle East, and Singapore! <br><br>\n    For more details, see the application. The deadline to apply is November 13, 2026.<br><br>\n        \n    <a href=\"https://forms.cloud.microsoft/r/z2f4igJPuu\">Apply here today \ud83d\udd17</a> <br><br>\n        \n    Already submitted your course for Singapore March 2027? As long as you selected your other sessions of interest at the end of the application form, you don't need to reapply! ",
+        "id": 6566407,
+        "language": "en",
+        "link": "https://forms.cloud.microsoft/r/z2f4igJPuu",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 82,
+        "source_url": "https://defcon.org/defconrss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://defcon.org/images/defcon-main/post-images/cft-27.webp",
+        "title": "DEF CON Training 2027 Call for Trainers is Open!",
+        "vote": 0
+    }
+]

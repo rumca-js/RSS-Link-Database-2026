@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/WillingnessQuick5074",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-09T09:28:12.733959+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-09T08:43:29+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>I work for Opensolr, and we just released 1.0 of the Opensolr Chat Bot Client: an open source (MIT) chatbot you put on your own website, that answers your visitors from your own content.</p> <p>How it works: you install it with Composer (<code>composer require opensolr/chat-bot-client</code>), mount it on one path of your site (say <code>/opensolr-chat</code>) and add one script tag to your pages. Visitors only ever talk to your site. Your server holds the Opensolr credentials and sends each question to the Opensolr API, where the model searches your Opensolr Index by itself (by meaning, or by exact product names and codes), looks up what it must not guess (dates, local times, exchange rates, VAT, distances, places) and streams the answer back word by word, with links to your pages, products with their prices, and PDFs at the exact page.</p> <p>What you get on your side:</p> <ul> <li>An admin on your own site: account and index, instructions, the look",
+        "id": 6560269,
+        "language": "en",
+        "link": "https://www.reddit.com/r/searchengines/comments/1x1g4yi/open_source_chatbot_for_your_website_that_answers",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 463,
+        "source_url": "https://www.reddit.com/r/searchengines/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Open source chatbot for your website that answers from your own content (PHP, MIT, 1.0)",
+        "vote": 0
+    }
+]
