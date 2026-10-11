@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-10T09:38:50.961867+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-10T07:57:00+00:00",
+        "description": "The leaders of India's \"Cockroach\" movement have been detained by police, along with scores of protesters, in a major crackdown to stop a mass demonstration.",
+        "id": 6568058,
+        "language": "en-US",
+        "link": "https://news.sky.com/story/indias-cockroach-movement-founder-detained-along-with-scores-of-protesters-13597121",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 305,
+        "source_url": "https://feeds.skynews.com/feeds/rss/world.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://e3.365dm.com/26/10/1920x1080/skynews-india-demonstation_7372655.jpg?20261010081526",
+        "title": "Founder of India's 'Cockroach' movement among scores detained ahead of mass protest",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Hammond",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-10T18:13:26.874573+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-10T16:43:28+00:00",
+        "description": "What can you learn by reading an exploit's source code? Let's dig into the Broken Pipe Steam local privilege escalation vulnerability and see what the code tells us.\n\nWatch the full video:\nhttps://youtu.be/oJHOlNTH7lY?si=8LruOkxZlfvFLII-",
+        "id": 6570343,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/haogc1pnaqU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 959,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVeW9qkBjo3zosnqUbG7CFw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/haogc1pnaqU/hqdefault.jpg",
+        "title": "Inside Steam Exploits",
+        "vote": 0
+    }
+]

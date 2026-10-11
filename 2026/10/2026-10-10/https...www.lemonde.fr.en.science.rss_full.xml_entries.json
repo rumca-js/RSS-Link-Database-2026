@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-10T08:56:26.169570+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-10T08:56:16.001437+00:00",
+        "description": "Adenot returned to Earth on Thursday after 235 days on the International Space Station, the longest uninterrupted orbital stay by a European astronaut.",
+        "id": 6567940,
+        "language": "en-US",
+        "link": "https://www.lemonde.fr/en/science/article/2026/10/10/french-astronaut-sophie-adenot-went-through-all-human-emotions-during-eight-month-mission_6758449_10.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 190,
+        "source_url": "https://www.lemonde.fr/en/science/rss_full.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.lemde.fr/2026/10/10/650/0/7810/3905/644/322/60/0/cfa0d74_ftp-1-nvei836uyu1l-5313709-01-06.jpg",
+        "title": "French astronaut Sophie Adenot went through 'all human emotions' during eight-month mission",
+        "vote": 0
+    }
+]

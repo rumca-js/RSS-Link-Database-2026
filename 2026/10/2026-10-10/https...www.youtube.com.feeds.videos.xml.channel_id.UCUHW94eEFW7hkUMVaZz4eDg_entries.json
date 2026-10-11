@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "minutephysics",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-10T19:51:47.952083+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-10T19:00:33+00:00",
+        "description": "Full Video: https://www.youtube.com/watch?v=zDAE9A_1NA4\n\nWhat if you try to sandwich a cube between two portals?\nDoes the cube disappear?\nDo the portals bounce or stop?\nOr something else?\nImagine instead that you extend a piston through the blue portal.\nEventually it comes back and hits itself from behind.\nThe piston can't keep extending into the portal because there is no \"inside\" of the portal - \"inside\" the blue portal is \"outside\" the orange portal, and vice versa.\nAt this point one of three things could happen.\nIf the piston is weak it should crumple, the same as if it were pushing against a solid wall.\nIf the piston is rigid and the portals are super heavy, then the piston will just stop expanding (since it can't lengthen any more without the portals moving farther apart).\nBut the orange portal is clearly \"pushing\" the piston out of it to the right, so Newton's \"equal and opposite\" law of motion means the piston is pushing the orange portal to the left - \"kind of like what happe",
+        "id": 6570817,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/31kyER-8dak",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 857,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCUHW94eEFW7hkUMVaZz4eDg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/31kyER-8dak/hqdefault.jpg",
+        "title": "What if you try to sandwich a cube between two portals?",
+        "vote": 0
+    }
+]

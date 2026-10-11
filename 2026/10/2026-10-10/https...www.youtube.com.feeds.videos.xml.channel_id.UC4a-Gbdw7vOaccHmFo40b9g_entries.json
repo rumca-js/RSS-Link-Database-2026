@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Khan Academy",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-10T15:11:24.708529+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-10T11:51:22+00:00",
+        "description": "Electric potential describes the electric potential energy per unit charge at a point in space. Expressions for the electric potential of charge distributions can be found using integration and the principle of superposition.\n\nSections:\n00:00 - Potential due to discrete charges\n00:40 - Continuous charge distributions\n01:47 - Comparing potential and field integrals\n03:16 - Potential at the center of a charged ring\n05:31 - Setting up the integral for a charged rod\n\n------------------\n\nKhan Academy is a nonprofit organization with the mission of providing a free, world-class education for anyone, anywhere. Khan Academy has been translated into dozens of languages, and 15 million people around the globe learn on Khan Academy every month. As a 501(c)(3) nonprofit organization, we would love your help! \n\nDonate here: https://www.khanacademy.org/donate?utm_source=youtube&utm_medium=desc  \n\nVolunteer here: https://www.khanacademy.org/contribute?utm_source=youtube&utm_medium=desc",
+        "id": 6569492,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=3pPsVNNEm08",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 977,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4a-Gbdw7vOaccHmFo40b9g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/3pPsVNNEm08/hqdefault.jpg",
+        "title": "Electric potential of charge distributions | AP Physics | Khan Academy",
+        "vote": 0
+    }
+]

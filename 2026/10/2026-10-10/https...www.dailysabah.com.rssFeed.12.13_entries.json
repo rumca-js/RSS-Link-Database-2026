@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-10T09:45:27.572678+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-10T09:45:17.304667+00:00",
+        "description": "Israeli forces shot and wounded Anadolu Agency (AA) Palestinian photojournalist Issam Rimawi with a rubber-coated bullet Saturday as he covered the olive harvest and confrontations...",
+        "id": 6568084,
+        "language": "en-US",
+        "link": "https://www.dailysabah.com/world/mid-east/israeli-forces-shoot-aa-photojournalist-during-west-bank-harvest",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 81,
+        "source_url": "https://www.dailysabah.com/rssFeed/12/13",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://idsb.tmgrup.com.tr/ly/uploads/images/2026/10/10/464953.jpg",
+        "title": "Israeli forces shoot AA photojournalist during West Bank harvest",
+        "vote": 0
+    }
+]

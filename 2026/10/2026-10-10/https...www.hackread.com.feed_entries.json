@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Waqas",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-10T11:35:26.504768+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-10T11:05:30+00:00",
+        "description": "FBI arrests Cypfer co-founder Edward Dubrovsky, now associated with CyberSteward, in the ShinyHunters investigation into the FBI jobs&#8230;",
+        "id": 6568506,
+        "language": "en-US",
+        "link": "https://hackread.com/fbi-arrests-ransomware-negotiation-founder-shinyhunters",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 139,
+        "source_url": "https://www.hackread.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "FBI Arrests Ransomware Negotiation Firm Co-Founder in ShinyHunters Probe",
+        "vote": 0
+    }
+]

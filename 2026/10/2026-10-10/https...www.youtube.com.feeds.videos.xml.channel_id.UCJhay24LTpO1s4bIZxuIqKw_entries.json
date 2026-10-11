@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ACCU Conference",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-10T13:05:07.386800+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-10T12:00:36+00:00",
+        "description": "ACCU Membership: https://tinyurl.com/ydnfkcyn\n---\n\nOur Journey Toward a Fully Backward-Compatible, UB-Safe, ISO C++ - John Lakos - ACCU 2026\n---\n\nToday's world runs on C++. That's because, in domains requiring scale, performance, low latency, and fine-grained control over concurrency, C++ is second to none! Yet in recent years, a growing concern has emerged: C++ programs are often considered unsafe \u2014 not because of programmer negligence, but because the language itself provides insufficient mechanisms to prevent or reliably detect undefined behavior (UB).\n\nFor those financially and technically invested in C++, its current lack of language safety raises a fundamental question: How can we evolve ISO C++ to be UB-safe without necessarily sacrificing runtime performance, and without breaking backward compatibility with existing, valid C++ code?\n\nIn this talk, we begin by motivating an overall approach to UB-safety that starts from a simple but uncompromising premise: each individual poten",
+        "id": 6568899,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=whFzmXXhG5g",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 421,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJhay24LTpO1s4bIZxuIqKw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/whFzmXXhG5g/hqdefault.jpg",
+        "title": "Our Journey Toward a Fully Backward-Compatible, UB-Safe, ISO C++ - John Lakos - ACCU 2026",
+        "vote": 0
+    }
+]

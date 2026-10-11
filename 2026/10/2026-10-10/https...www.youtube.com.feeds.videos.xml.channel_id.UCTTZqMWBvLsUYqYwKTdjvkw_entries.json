@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mateusz Chrobok",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-10T10:29:06.503025+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-10T09:28:02+00:00",
+        "description": "Fragment odcinka \"Czy passkeys nadal s\u0105 bezpieczne?\" \n\nhttps://youtu.be/n5uayUA9Jws?si=b1dvvHhM3muWulJ7 #shorts",
+        "id": 6568254,
+        "language": "pl-PL",
+        "link": "https://www.youtube.com/shorts/-AHwadABdJI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 211,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTTZqMWBvLsUYqYwKTdjvkw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/-AHwadABdJI/hqdefault.jpg",
+        "title": "\ud83d\udd11 Korzystaj z Passkeys!",
+        "vote": 0
+    }
+]

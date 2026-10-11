@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "FRONTLINE PBS | Official",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-10T15:27:11.686004+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-10T14:00:08+00:00",
+        "description": "Mark Zuckerberg was fascinated by hacker culture when he was at Harvard, a philosophy that translated to Facebook's \"move fast and break things\" mentality. Our 2018 documentary \"The Facebook Dilemma\" investigated Facebook's evolution from a dorm room to a global empire, and its impact on the world.",
+        "id": 6569547,
+        "language": "en-US",
+        "link": "https://www.youtube.com/shorts/2Sh_FMIsYyI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 109,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC3ScyryU9Oy9Wse3a8OAmYQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/2Sh_FMIsYyI/hqdefault.jpg",
+        "title": "Zuckerberg's \"Move Fast and Break Things\" Mentality",
+        "vote": 0
+    }
+]

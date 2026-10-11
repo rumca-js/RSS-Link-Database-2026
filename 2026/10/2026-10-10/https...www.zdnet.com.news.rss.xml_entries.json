@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Maria Diaz",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-10T08:55:29.350274+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-10T08:15:00+00:00",
+        "description": null,
+        "id": 6567937,
+        "language": "en-US",
+        "link": "https://www.zdnet.com/uncategorized/ring-smart-lock-manual-power-dial",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 406,
+        "source_url": "https://www.zdnet.com/news/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.zdnet.com/wp-content/uploads/sites/3/1_e91a38.jpg",
+        "title": "Ring\u2019s new smart lock has a manual fallback that can\u2019t lock you out \u2013 how it works",
+        "vote": 0
+    }
+]

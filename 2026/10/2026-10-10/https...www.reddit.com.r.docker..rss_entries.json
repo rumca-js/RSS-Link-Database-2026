@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/Baladain",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-10T21:47:22.845368+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-10T21:12:46+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>I just noticed that my docker container hasn&#39;t updated in months. Did some research and realized I was running from cache. Tried adding pull_policy: always to my compose file, but got this error: docker: Error response from daemon: pull access denied for plex, repository does not exist or may require &#39;docker login&#39;</p> <p>manually ran: docker pull linuxserver/plex:latest This worked.</p> <p>How do I update the compose to auto-pull latest?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Baladain\"> /u/Baladain </a> <br/> <span><a href=\"https://www.reddit.com/r/docker/comments/1x2q8xu/container_not_updating/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/docker/comments/1x2q8xu/container_not_updating/\">[comments]</a></span>",
+        "id": 6571210,
+        "language": "en",
+        "link": "https://www.reddit.com/r/docker/comments/1x2q8xu/container_not_updating",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 580,
+        "source_url": "https://www.reddit.com/r/docker/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Container not updating?",
+        "vote": 0
+    }
+]

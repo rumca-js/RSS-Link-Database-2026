@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Experiment",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-10T09:25:45.365918+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-10T07:28:15+00:00",
+        "description": "Check out Internxt and get 85% off the fist month of your annual plan: https://internxt.com/thelinuxexp \n\nGrab a brand new laptop or desktop running Linux: https://www.tuxedocomputers.com/en#\n\n\ud83d\udc4f SUPPORT THE CHANNEL:\nGet access to:\n- a Daily Linux News show\n- a weekly patroncast for more thoughts\n- your name in the credits\n\nYouTube: https://www.youtube.com/@thelinuxexp/join\nPatreon: https://www.patreon.com/thelinuxexperiment\n\nOr, you can donate whatever you want:\nhttps://paypal.me/thelinuxexp\nLiberapay: https://liberapay.com/TheLinuxExperiment/\n\n\ud83d\udc55 GET TLE MERCH\nSupport the channel AND get cool new gear: https://the-linux-experiment.creator-spring.com/\n\nTimestamps:\n00:00 Intro\n00:38 Sponsor: Internxt\n02:12 Entire Adobe Suite supported with custom Wine now\n03:53 Open source clean room implementations of the entire Adobe Suite\n07:35 Flathub now accepts apps that used AI, with disclosure\n10:18 Cosmic will reject LLM generated submissions\n11:35 Steam Frame now has 200 verified games\n13:03 M",
+        "id": 6568008,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=eAeT63x338Y",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 349,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5UAwBUum7CPN5buc-_N1Fw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/eAeT63x338Y/hqdefault.jpg",
+        "title": "Adobe suite on Linux (twice), Flathub says yes to AI - Linux Weekly News",
+        "vote": 0
+    }
+]

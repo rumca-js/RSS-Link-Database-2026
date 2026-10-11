@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-11T00:05:32.846047+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-10T23:31:35+00:00",
+        "description": "Film-maker Sue Kim talks about having unprecedented access to K-Pop idol Lisa Manobal at her most candid.",
+        "id": 6571668,
+        "language": "en-gb",
+        "link": "https://www.bbc.co.uk/news/articles/cjzxl56q30k7o",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 522,
+        "source_url": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ce5/live/85c0dd40-c308-11f1-8f04-85217d686658.jpg",
+        "title": "Inside the room: What it was like to be with Blackpink's Lisa as race scandal erupted",
+        "vote": 0
+    }
+]

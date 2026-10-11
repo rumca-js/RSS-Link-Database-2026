@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Engineezy",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-10T16:44:06.426348+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-10T13:01:14+00:00",
+        "description": "The eye uses three motors: one moves it side to side, one moves it up and down, and the third opens and closes the eyelid through a set of connected links. I made an app to control the movements manually, but the goal is for it to follow people on its own using a camera to track their position and tell the eye where to look.\n\u2022\u2022\u2022\nThe bigger plan is to put fifteen of these across my lawn and have them all watch the same person at the same time. One eye is kind of cute. An entire lawn staring back at you might feel a little different.\n\u2022\u2022\u2022\n#engineering #mechanicalengineering #mechanisms #halloween #animatronics",
+        "id": 6569924,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/XsAlWRgLStI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 858,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSksodwjNeOQ3Oywr1G4Nag",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/XsAlWRgLStI/hqdefault.jpg",
+        "title": "Creepy Halloween Eyeball",
+        "vote": 0
+    }
+]

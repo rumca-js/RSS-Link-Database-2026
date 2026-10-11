@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Digital Foundry",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-10T16:17:03.985857+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-10T15:40:45+00:00",
+        "description": "Thanks to Alienware for sponsoring our PC performance reviews. To learn more about the Alienware AREA-51 Gaming Desktop, check out: http://aw.gg/digitalfoundry\n\nNote on texture quality/VRAM: The on-screen VRAM figures are from RTX 5090 testing at 4K DLAA with RT disabled. The recommendation of High textures for 8GB GPUs is based on separate RTX 4060 testing, also with RT disabled, where VRAM usage remained below 7GB. \n\nHaving already delivered the Complete Edition, CD Projekt RED still has plans for The Witcher 3, hence the arrival of the controversial Remastered release - and while it has some key improvements, there are still some issues. In our PC performance review, we present the top-line changes to the game then compare the hotfix 5.00C version to the latest patch 5.01 before we dive head-first into those all-important optimised settings.\n\nExamine the DF Website: https://digitalfoundry.net\n\nGo here to check out DF merch! https://store.digitalfoundry.net\n\nSubscribe for more Digit",
+        "id": 6569778,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=MIwkw4K7xGI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 696,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9PBzalIcEQCsiIkq36PyUA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/MIwkw4K7xGI/hqdefault.jpg",
+        "title": "The Witcher 3 Remastered: PC Performance Review + Optimised Settings",
+        "vote": 0
+    }
+]

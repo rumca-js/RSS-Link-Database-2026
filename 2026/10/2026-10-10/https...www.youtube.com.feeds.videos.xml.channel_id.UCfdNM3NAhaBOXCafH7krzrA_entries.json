@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Infographics Show",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-10T16:44:44.367747+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-10T14:11:05+00:00",
+        "description": "Meta wanted AI to replace engineers. Instead, the experiment exposed how difficult it is to automate software development at scale.\n\nThis video explores Meta\u2019s push toward autonomous AI agents, smaller engineering teams, and a future where machines handle more of the company\u2019s coding workload. The promise was simple. Generate more code, move faster, and reduce labor costs. But more code didn\u2019t necessarily mean more progress.\nAs AI-generated changes multiplied, engineers were left reviewing increasingly complex systems, fixing bugs, and trying to understand code produced faster than humans could realistically audit it. Internal metrics showed a huge increase in code changes without a comparable increase in features reaching users. At the same time, Meta was committing enormous amounts of money to data centers, chips, power, and AI infrastructure, creating even more pressure to prove that automation could deliver real productivity gains. The result became a warning for the rest of corpo",
+        "id": 6569926,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=bD8ta7nsA8A",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 999,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfdNM3NAhaBOXCafH7krzrA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/bD8ta7nsA8A/hqdefault.jpg",
+        "title": "Why Meta's Plan to Replace Engineers with AI Finally Failed",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "GitHub",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-10T17:02:16.930232+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-10T15:00:22+00:00",
+        "description": "Join Wes Bos, Burke Holland, and Pierce Boggan for two hours of live coding with GitHub Copilot. Watch as the team takes a 3D foldable phone simulator from scratch to running functional web apps in real time. Learn how to manage parallel AI agents test features using built-in browser tools, and navigate multi-model options in the GitHub Copilot app. \n\n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac WANT TO LEARN MORE? \ud83d\ude80  \u25ac\u25ac\u25ac\u25ac\u25ac\u25ac \n\nLearn more about HydraFusion https://gh.io/ghcpdayhydrafusion\nGet hands-on with the Copilot app https://gh.io/ghcpdaycopilotapp\nCheck out Copilot app resources  https://gh.io/ghcpdaycopilotappresources\nInstall the GitHub Copilot CLI https://gh.io/ghcpdaycopilotcli\nCheck out GitHub Copilot Dev Days!  https://gh.io/join-dev-days\n\n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac  TIMESTAMPS \u231a  \u25ac\u25ac\u25ac\u25ac\u25ac\u25ac \n\n0:00 Welcome \u2014 two hours to build something\n0:50 Introducing Wes Bos\n1:36 The iPhone Duo 3D model backstory\n2:52 The plan: exploded view + HTML in Canvas\n3:16 First prompt: a knolling grid layout\n4:28 What HTML in Canvas unlocks\n5:42 Wes's HTML ",
+        "id": 6570021,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=ql_-cPc_ZYQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 1005,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7c3Kb6jYCRj4JOHHZTxKsQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/ql_-cPc_ZYQ/hqdefault.jpg",
+        "title": "Live Coding with Wes Bos, Burke Holland, Pierce Boggan & Friends | GitHub Copilot Day",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "FilmCow",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-10T22:37:24.525299+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-10T21:40:14+00:00",
+        "description": "A series of lamp rankings, in preparation for making a lamp movie:\nhttps://www.kickstarter.com/projects/1556971210/lamp-the-feature-film",
+        "id": 6571381,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=gtHOy0UeoHo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 769,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCV3iHQsE2h3CH-LehgPRkMg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/gtHOy0UeoHo/hqdefault.jpg",
+        "title": "Ranking Every Lamp (Part 1 of 280,000)",
+        "vote": 0
+    }
+]
