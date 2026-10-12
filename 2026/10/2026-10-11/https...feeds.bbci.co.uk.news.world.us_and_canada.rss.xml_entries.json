@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-11T21:45:19.007952+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-11T20:55:02+00:00",
+        "description": "The US president made the announcement in a social media post, which was an apparent surprise to Ukraine and Russia is yet to comment.",
+        "id": 6576437,
+        "language": "en-gb",
+        "link": "https://www.bbc.co.uk/news/videos/cwvgde9vrdd9o",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 526,
+        "source_url": "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a6d5/live/bfca61a0-c5b5-11f1-ad08-b9eb6b599088.jpg",
+        "title": "Watch: What's behind Trump's energy ceasefire claim?",
+        "vote": 0
+    }
+]

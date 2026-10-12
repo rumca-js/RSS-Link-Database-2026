@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-11T07:32:49.162813+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-11T03:14:33+00:00",
+        "description": "ABC News' Will Ganss is in Washington, D.C., ahead of the first ever Banana Bowl championship game, which will be full of performances, baseball action and Banana Ball magic.",
+        "id": 6572816,
+        "language": "en-US",
+        "link": "https://abcnews.com/video/137159153",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 81,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 9,
+        "source_url": "http://feeds.abcnews.com/abcnews/topstories",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://s.abcnews.com/images/GMA/261010_gma_ganss_preview1_hpMain_4x3_384.jpg",
+        "title": "WATCH:  What to expect at the 1st-ever Banana Bowl championship game",
+        "vote": 0
+    }
+]

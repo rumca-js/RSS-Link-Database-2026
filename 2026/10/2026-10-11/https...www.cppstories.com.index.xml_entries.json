@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-11T11:11:07.963751+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-11T00:00:00+00:00",
+        "description": "<p>In the article about <a href=\"https://www.cppstories.com/2026/hardening-experiments/\">Standard Library hardening</a>, we looked at checks for invalid Standard Library container access and other broken preconditions. I mentioned that those requirements are expressed in terms of &ldquo;contracts&rdquo;. But what about our code?</p>\n<p>In this post, we\u2019ll explore contracts from C++26. We\u2019ll start with a simple <code>cassert</code>, move the requirement into the function itself, and see how to check results. We\u2019ll also look at declarations and definitions, compiler options, and a few details that can surprise you.</p>\n<h2 id=\"starting-with-an-assertion\">\nStarting with an Assertion \n  \n<a class=\"hash-link\" href=\"#starting-with-an-assertion\" aria-hidden=\"true\">\n<svg class=\"fill-current o-60 hover-accent-color-light\" height=\"24\" viewBox=\"0 0 24 24\" width=\"22\" xmlns=\"http://www.w3.org/2000/svg\" aria-hidden=\"true\"><path d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M3.9 12c0-1.71 1.39-3.1 3",
+        "id": 6573567,
+        "language": "en-us",
+        "link": "https://www.cppstories.com/2026/cpp26_contracts",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 47,
+        "source_url": "https://www.cppstories.com/index.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "C++26 Contracts: Introduction to Preconditions and Postconditions",
+        "vote": 0
+    }
+]

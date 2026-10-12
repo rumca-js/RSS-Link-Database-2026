@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-11T12:37:46.985053+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-11T11:00:03+00:00",
+        "description": "Learn more about Responsible AI here \u2192 https://ibm.biz/~EYYcOfiMK\n\nHuman review doesn't automatically mean AI governance. Phaedra Boinodiris explains why human-in-the-loop AI requires transparency, explainability, observability, and accountability. Learn what makes human oversight meaningful in high-stakes AI decisions.\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/~XFpMhwoTU\n\nAI was used in the creation of the transcript and metadata for this video.\n\n#humanintheloop #agenticai #aigovernance #responsibleai \n\n---------------------------------------------------------------------------------------------------------\nFind us on YouTube:\n\ud83d\udd35 IBM Technology: https://www.youtube.com/@IBMTechnology\n\ud83d\udd35 IBM: https://www.youtube.com/@IBM \n\ud83d\udd35 IBM Developer: https://youtube.com/@IBMDeveloperAdvocates",
+        "id": 6573913,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=zRMAvMSSSII",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/zRMAvMSSSII/hqdefault.jpg",
+        "title": "Human in the Loop Is Not a Governance Strategy for Agentic AI",
+        "vote": 0
+    }
+]

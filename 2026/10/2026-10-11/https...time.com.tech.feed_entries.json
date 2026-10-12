@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Sadiya S. Khan",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-11T10:28:49.660820+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-11T10:00:04+00:00",
+        "description": "To transform the health of the American population, healthy food should be something we can prescribe, writes Dr. Sadiya Khan.",
+        "id": 6573399,
+        "language": "en-UK",
+        "link": "https://time.com/article/2026/10/11/the-benefits-of-prescribing-food-as-medicine",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 317,
+        "source_url": "https://time.com/tech/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://static.time.com/v3/assets/bltea6093859af6183b/bltd33c5871b566426d/6abaa7de44523f75a7b93db2/food-as-medicine.jpg?branch=production",
+        "title": "The Benefits of Prescribing Food as Medicine",
+        "vote": 0
+    }
+]

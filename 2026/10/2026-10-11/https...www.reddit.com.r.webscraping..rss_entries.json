@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/Coding-Doctor-Omar",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-12T01:01:32.303431+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-11T11:51:15+00:00",
+        "description": "<table> <tr><td> <a href=\"https://www.reddit.com/r/webscraping/comments/1x369e0/opensource_reddit_scraper_for_posts_and_comments/\"> <img src=\"https://external-preview.redd.it/RZkiggxc0x8bSc2xxpdlARTGKez9Hch32wGP-wlz9nY.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=77aa6cc55dacaa24a98597df1e930b797a401831\" alt=\"Open-source Reddit scraper for posts and comments\" title=\"Open-source Reddit scraper for posts and comments\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>I built an open-source Reddit scraper for Python. It&#39;s called Reddrix (Reddit + Matrix). It is a powerful, async-first Reddit scraper for posts and comments with detailed metrics. No login is required. Scrape subreddits, profiles, and specific posts, or search Reddit site-wide by keywords or domains. Collect rich, structured data including authors, scores, timestamps, flairs, comment threads, and more (30+ fields). This scraper uses Reddit&#39;s current shreddit search engine in the keyword search mode. Results ob",
+        "id": 6577196,
+        "language": "en",
+        "link": "https://www.reddit.com/r/webscraping/comments/1x369e0/opensource_reddit_scraper_for_posts_and_comments",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 467,
+        "source_url": "https://www.reddit.com/r/webscraping/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://external-preview.redd.it/RZkiggxc0x8bSc2xxpdlARTGKez9Hch32wGP-wlz9nY.png?width=640&crop=smart&auto=webp&s=77aa6cc55dacaa24a98597df1e930b797a401831",
+        "title": "Open-source Reddit scraper for posts and comments",
+        "vote": 0
+    }
+]

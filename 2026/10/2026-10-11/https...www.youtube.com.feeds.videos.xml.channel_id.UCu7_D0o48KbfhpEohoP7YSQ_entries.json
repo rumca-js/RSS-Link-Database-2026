@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Andreas Spiess",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-11T11:42:55.357574+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-11T11:11:21+00:00",
+        "description": "Too often, AI coding is still open-loop: prompt, code, hope. You do the flashing, find the bugs, and explain what went wrong. Again and again.\nWhat if the AI could do that part, too?\nIn this video, I\u2019ll show you that it is possible and how to do it. It lets an AI agent develop complete ESP32 applications from a specification. The AI writes the firmware, builds it, flashes it to real hardware, runs tests, observes the results, fixes failures, and repeats until the tests pass. With mind-boggling speed!\nAnd you don\u2019t need a professional lab. You can build this for your hobby projects.\n\nMy second channel: https://www.youtube.com/HB9BLAWireless\n\nLinks:\nThin Ethernet cable (good for lab): https://s.click.aliexpress.com/e/_c3qG0nHn\nUSB/RJ45 Adapter Pi Zero: https://s.click.aliexpress.com/e/_c4p2e5k5\nPi Zero 2W heat sink: https://s.click.aliexpress.com/e/_c3apg3hX\nPi 3B (Cheaper than Zero 2W on Amazon): https://link.amazon/B0c8q3hcr\nRTL-SDR Dongle: https://de.aliexpress.com/item/32939551915.h",
+        "id": 6573693,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=HmNyyT2poF8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 17,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCu7_D0o48KbfhpEohoP7YSQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/HmNyyT2poF8/hqdefault.jpg",
+        "title": "This AI Doesn't Just Write Code \u2014 It Tests Real Hardware!",
+        "vote": 0
+    }
+]
