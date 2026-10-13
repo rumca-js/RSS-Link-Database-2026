@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Will Knight",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-12T17:56:05.424441+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-12T17:00:27+00:00",
+        "description": "Meta\u2019s biggest model rivals the world\u2019s best\u2014and includes new features to keep agents from going off the rails.",
+        "id": 6582655,
+        "language": "en-US",
+        "link": "https://www.wired.com/story/muse-wonder-puts-meta-back-at-the-ai-frontier",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 396,
+        "source_url": "https://www.wired.com/feed/category/business/latest/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media.wired.com/photos/6accff96fccc4c5244b94f14/master/pass/Muse-Wonder-Puts-Meta-Back-at-the-AI-Frontier-Business-2296209266.jpg",
+        "title": "Muse Wonder Puts Meta Back at the AI Frontier",
+        "vote": 0
+    }
+]

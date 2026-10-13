@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-12T14:40:36.315224+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-12T13:33:38+00:00",
+        "description": "Hollywood is putting the spotlight on Silicon Valley\u2019s tech titans on the silver screen. NBC's Chloe Melas reports.",
+        "id": 6581131,
+        "language": "en-US",
+        "link": "https://www.nbcnews.com/nightly-news/video/hollywood-puts-the-spotlight-on-silicon-valley-s-tech-titans-271437893545",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 223,
+        "source_url": "https://feeds.nbcnews.com/nbcnews/public/tech",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_10/1791812010561_wnn_cme_hollywood_tech_industry_261011_S3_1920x1080-1g70zy.jpg",
+        "title": "Hollywood puts the spotlight on Silicon Valley\u2019s tech titans",
+        "vote": 0
+    }
+]

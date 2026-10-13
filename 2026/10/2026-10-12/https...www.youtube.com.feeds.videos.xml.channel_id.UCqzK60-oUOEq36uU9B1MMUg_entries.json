@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Julia McCoy",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-12T16:30:43.887892+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-12T15:00:24+00:00",
+        "description": null,
+        "id": 6582072,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/0Dfe9pLlcjY",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 947,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqzK60-oUOEq36uU9B1MMUg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/0Dfe9pLlcjY/hqdefault.jpg",
+        "title": "GPT 5.6 Sol is a BEAST (Full Codex Walkthrough)",
+        "vote": 0
+    }
+]

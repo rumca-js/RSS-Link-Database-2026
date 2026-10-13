@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "OpenAI",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-12T16:15:29.424669+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-12T16:00:08+00:00",
+        "description": "Code review is the new bottleneck. Codex brings pull requests, review feedback, and private conversations about your code into one place.\n\nSee how to find reviews across repositories, understand changes and risks, apply your team\u2019s review guidelines, and draft comments without switching tools.\n\nGitHub code review is generally available, with GitLab support in preview.",
+        "id": 6581910,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=IZXv6a78NDw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 935,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXZCJLdBC09xxGZ6gcdrc6A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/IZXv6a78NDw/hqdefault.jpg",
+        "title": "Review Code with Codex Before You Merge",
+        "vote": 0
+    }
+]

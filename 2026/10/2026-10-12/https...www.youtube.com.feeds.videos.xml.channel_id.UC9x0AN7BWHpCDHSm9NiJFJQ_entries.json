@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NetworkChuck",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-12T15:49:46.556534+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-12T14:19:35+00:00",
+        "description": "Easily monitor your devices for free with Checkmk: https://checkmk.io/networkchuck\n\nI set up Checkmk, a free and open source monitoring server, and pointed it at everything in my home lab. Linux servers, my MikroTik and UniFi gear, Docker containers, Proxmox VMs, my website, my Windows gaming PC, Plex, Home Assistant and every one of my Hermes AI agents. It started finding problems while I was still recording: my Ceph SSD pool was 97% full, my 10 gig NIC was running at 5 gig, and Terry's switch port had been up for a year and 108 days. Then I broke one of my AI agents on purpose, Checkmk sent the alert to my AI IT department, and Ron fixed it on his own.\n\n\nIn this video you'll learn how to install Checkmk Community on Ubuntu in under five minutes, how the Checkmk agent and auto discovery work, how to scan your network with SNMP, how to monitor Docker containers with piggyback data and Proxmox VMs through the API, how to add plugins from the Checkmk Exchange and build your own checks w",
+        "id": 6581716,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Bjifz55TTPI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 565,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9x0AN7BWHpCDHSm9NiJFJQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/Bjifz55TTPI/hqdefault.jpg",
+        "title": "You can monitor EVERYTHING in your homelab with this",
+        "vote": 0
+    }
+]

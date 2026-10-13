@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-12T12:13:10.239887+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-12T11:00:38+00:00",
+        "description": "Learn more about AI Agents here \u2192 https://ibm.biz/~qNwedZihN\n\nAI coding is changing how software gets built. Cedric Clyburn breaks down five essential concepts for working effectively with AI agents, including spec-driven development, context engineering, loop engineering, and AI security. Learn how developers can move from implementation to orchestration as AI becomes part of every software workflow.\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/~UiJBNbzQ8\n\n#aiagents #aicoding #aidevelopment #softwareengineering \n\n---------------------------------------------------------------------------------------------------------\nFind us on YouTube:\n\ud83d\udd35 IBM Technology: https://www.youtube.com/@IBMTechnology\n\ud83d\udd35 IBM: https://www.youtube.com/@IBM \n\ud83d\udd35 IBM Developer: https://youtube.com/@IBMDeveloperAdvocates",
+        "id": 6580049,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=hTAWHgQI4xg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/hTAWHgQI4xg/hqdefault.jpg",
+        "title": "5 Concepts to Know for Coding with AI Agents",
+        "vote": 0
+    }
+]

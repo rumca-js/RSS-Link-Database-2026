@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Khan Academy",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-12T14:13:29.869338+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-12T12:36:16+00:00",
+        "description": "At a given location in an electrostatic field, the electric field component in a particular direction equals the negative derivative of electric potential with respect to position in that direction. The change in electric potential between two points equals the negative integral of the dot product of the electric field and the displacement along a path connecting them. This change is independent of the path chosen.\n\nSections:\n00:00 - Finding electric field from potential\n00:45 - From average field to field at a point\n02:07 - Field components in two and three dimensions\n03:31 - Finding potential difference from field\n06:14 - Worked example with uniform electric field\n\n------------------\n\nKhan Academy is a nonprofit organization with the mission of providing a free, world-class education for anyone, anywhere. Khan Academy has been translated into dozens of languages, and 15 million people around the globe learn on Khan Academy every month. As a 501(c)(3) nonprofit organization, we would",
+        "id": 6580948,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=1lBFWPbEX5I",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 977,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4a-Gbdw7vOaccHmFo40b9g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/1lBFWPbEX5I/hqdefault.jpg",
+        "title": "Connecting electric potential and field using calculus | AP Physics | Khan Academy",
+        "vote": 0
+    }
+]

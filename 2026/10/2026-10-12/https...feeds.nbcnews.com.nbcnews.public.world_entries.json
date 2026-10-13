@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-12T20:04:34.706143+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-12T19:06:08+00:00",
+        "description": "More than 300 amateur bakers from 33 countries gathered in Treviso, Italy, for the Tiramisu World Cup \u2014 and a baker from Brazil took home the top prize. NBC News' Claudio Lavanga reports.",
+        "id": 6583528,
+        "language": "en-US",
+        "link": "https://www.nbcnews.com/now/video/tiramisu-world-cup-2026-33-countries-compete-in-treviso-italy-271453253649",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 224,
+        "source_url": "https://feeds.nbcnews.com/nbcnews/public/world",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_10/1791831963003_now_daily_a_tiramisu_world_cup_italy_lavanga_261012_S3_1920x1080-9oai5z.jpg",
+        "title": "Amateur pastry chefs from 33 countries compete for a chance to make the world's best tiramisu",
+        "vote": 0
+    }
+]

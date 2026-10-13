@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NVIDIA Writers",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-12T17:37:14.652812+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-12T15:00:25+00:00",
+        "description": "As AI factories grow from megawatts to gigawatts, building them takes more than advanced computing. Open standards are helping the industry scale AI infrastructure faster, more efficiently and more reliably. At the Open Compute Project (OCP) Global Summit, taking place in the San Jose McEnery Convention Center, NVIDIA announced new partnerships and contributions aimed at [&#8230;]",
+        "id": 6582495,
+        "language": "en-US",
+        "link": "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 1019,
+        "source_url": "https://feeds.feedburner.com/nvidiablog",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://blogs.nvidia.com/wp-content/uploads/2026/10/gpu-architecture-rolling-blog-kv-ocp-blog-1920x1080-5820310-842x450.jpg",
+        "title": "OCP Global Summit: Amid Ecosystem Adoption, NVIDIA Opens Vera Rubin Architecture to Help Scale AI Factories Worldwide",
+        "vote": 0
+    }
+]

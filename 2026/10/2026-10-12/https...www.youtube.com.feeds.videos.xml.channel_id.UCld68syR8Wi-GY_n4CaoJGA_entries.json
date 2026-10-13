@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-12T18:11:23.810996+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-12T16:30:40+00:00",
+        "description": "For a long time there has been a problem on Linux where knowing which terminal to open for a terminal app isn't entirely clear but there's a new freedesktop protocol being worked on to clean that up.\n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\nTerminal Intent: https://specifications.freedesktop.org/terminal-intent/latest/\nIntent Apps: https://specifications.freedesktop.org/intent-apps/latest/\nAlternatives Docs: https://linux.die.net/man/8/alternatives\n\n=========Video Platforms==========\n\ud83c\udfa5 React: https://www.youtube.com/@BrodieRobertsonReacts\n\ud83c\udfa5 Podcast: https://techovertea.xyz/youtube\n\ud83c\udfae Gaming: https://brodierobertson.xyz/gaming\n\n==========Social Media==========\n\ud83c\udfa4 Discord: https://brodierobertson.xyz/discord\n\ud83d\udc26 Twitter: https://brodierobertson.xyz/twitter\n\ud83c\udf10 Mastodon: ",
+        "id": 6582759,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=kUxDwtlnO_Y",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/kUxDwtlnO_Y/hqdefault.jpg",
+        "title": "A New Approach To An Ancient Linux Terminal Problem",
+        "vote": 0
+    }
+]

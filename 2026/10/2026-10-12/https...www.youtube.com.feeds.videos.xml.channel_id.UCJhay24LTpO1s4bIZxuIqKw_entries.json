@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ACCU Conference",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-12T12:16:59.878841+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-12T12:00:40+00:00",
+        "description": "ACCU Membership: https://tinyurl.com/ydnfkcyn\n---\n\nDependency Injection and Dependency Inversion - C++ Perspective - Vladimir Vishnevskii - ACCU 2026\n---\n\nDependency Injection (DI) is a well-established design principle, yet in C++ it is often perceived as tightly coupled with runtime polymorphism and complex abstractions. This talk revisits dependency injection from first principles, focusing on what DI and Dependency Inversion really mean in the context of C++ and why they remain relevant across all project sizes. Rather than approaching DI as a standalone pattern, the presentation shows how dependency injection is supported by core C++ language facilities and modern design practices. It will examine how modern C++ features influence the way dependencies are expressed, wired, and constrained without defaulting to heavyweight frameworks or mandatory runtime polymorphism. The session also covers how different dependency injection approaches translate into generated code and what impac",
+        "id": 6580088,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=hzD9k4BZCE4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 421,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJhay24LTpO1s4bIZxuIqKw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/hzD9k4BZCE4/hqdefault.jpg",
+        "title": "Dependency Injection and Dependency Inversion - C++ Perspective - Vladimir Vishnevskii - ACCU 2026",
+        "vote": 0
+    }
+]

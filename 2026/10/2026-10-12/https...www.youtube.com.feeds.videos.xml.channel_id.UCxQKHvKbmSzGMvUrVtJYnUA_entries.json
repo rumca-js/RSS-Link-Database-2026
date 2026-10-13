@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Learn Linux TV",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-12T20:42:58.110338+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-12T18:00:38+00:00",
+        "description": "GNOME 51 is here! In this video, I walk through what\u2019s new in the latest release of the GNOME desktop. We\u2019ll cover what GNOME OS is, the biggest new features, improvements to GNOME Software and the file previewer, and the removal of support for legacy NVIDIA proprietary drivers. At the end, I\u2019ll share my overall thoughts on whether GNOME 51 is worth the upgrade.\n\n*\ud83d\udcda Discounts, Courses, Books, and More! (Support Linux Learning)*\n- Switching to Linux Book:\n        Amazon \u279c https://learnlinux.link/stl-amazon\n        Publisher \u279c https://learnlinux.link/stl-leanpub\n- Linux Swag & Gear \u279c https://learnlinux.link/swag\n- Live Training \u279c https://learnlinux.link/live\n- $100 of Free Linode Starter Credit \u279c https://learnlinux.link/linode\n- \"Linux Pro-Tips\" Newsletter \u279c https://learnlinux.link/linux-tips\n- eBook Bundle \u279c https://learnlinux.link/ebook-bundle\n- Ansible Course \u279c https://learnlinux.link/ansible\n- Paid Assistance \u279c https://www.learnlinux.tv/request-assistance\n\n*\ud83d\udd50 Time Codes*\n00:00 - Int",
+        "id": 6583705,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=BNgt8QJD5qY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 997,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxQKHvKbmSzGMvUrVtJYnUA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/BNgt8QJD5qY/hqdefault.jpg",
+        "title": "GNOME 51 Review: New Features, Changes & More",
+        "vote": 0
+    }
+]
