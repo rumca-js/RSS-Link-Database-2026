@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Craft Computing",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-13T20:26:15.181655+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-13T18:36:53+00:00",
+        "description": "Grab yourself a Pint Glass at https://craftcomputing.store\n\nFollow me on Bluesky @CraftComputing.bsky.social\n\nSupport me on Patreon and get access to my exclusive Discord server. Chat with myself and the other hosts on Talking Heads all week long.\n\nhttps://www.patreon.com/CraftComputing",
+        "id": 6592013,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=h8BSzwW8M1o",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 909,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCp3yVOm6A55nx65STpm3tXQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/h8BSzwW8M1o/hqdefault.jpg",
+        "title": "Where's The New Office You Promised?",
+        "vote": 0
+    }
+]

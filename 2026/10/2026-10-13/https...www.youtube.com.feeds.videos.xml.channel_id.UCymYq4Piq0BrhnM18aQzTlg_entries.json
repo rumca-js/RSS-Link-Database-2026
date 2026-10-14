@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Lon.TV",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-13T23:07:14.503989+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-13T22:45:10+00:00",
+        "description": "Go to https://surfshark.com/lontv or use code LONTV at checkout to get 4 extra months of Surfshark VPN! - Over the weekend I had a local AI model poke around with the ADTH NextGen TV box to see what security holes there might be. And it found a lot of them.. See more ATSC 3: https://www.youtube.com/playlist?list=PLCZHp4d1HnItSSUpA-DskfKKKrQ_LQYwP and subscribe! http://lon.tv/s\n\nVIDEO INDEX:\n00:00 - Intro\n01:02 - Unauthenticated Image Injection\n01:40 - Sponsor: Surfshark VPN - http://surfshark.com/lontv\n02:48 - Unauthenticated Video Injection\n03:19 - Device Control API Server with no authentication\n04:14 - Open Web Server on Port 3000\n04:51 - Crashing the tuner app with a remote python script\n07:14 - Zapperbox Fares Better\n07:28 - Conclusion\n\nVisit my Blog! https://blog.lon.tv\n\nSubscribe to my email lists! \nWeekly Breakdown of Posted Videos:  - https://lon.tv/email\nDaily Email From My Blog Posts! https://lon.tv/digest\n\nSee my second channel for supplementary content : http://lon.tv/ext",
+        "id": 6593086,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=HDhjnT_pYYI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 199,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCymYq4Piq0BrhnM18aQzTlg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/HDhjnT_pYYI/hqdefault.jpg",
+        "title": "This ATSC 3.0 Tuner Has Sloppy Security..",
+        "vote": 0
+    }
+]

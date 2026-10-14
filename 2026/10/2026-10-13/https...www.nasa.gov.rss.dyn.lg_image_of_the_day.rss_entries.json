@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-13T19:02:09.661880+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-13T17:52:00+00:00",
+        "description": "Three NASA-supported small spacecraft, shown along with many commercial payloads, before being encapsulated in a SpaceX Falcon 9. The rocket launched the payloads into low-Earth orbit at 11:32 a.m. PDT Thursday, Oct. 1, 2026, as part of the company\u2019s Transporter-18 mission from Space Launch Complex 4 East at Vandenberg Space Force Base in California.",
+        "id": 6591446,
+        "language": "en-us",
+        "link": "https://www.nasa.gov/image-detail/afs-8-101-1315",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 485,
+        "source_url": "https://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Transporter-18 SmallSats Encapsulation",
+        "vote": 0
+    }
+]

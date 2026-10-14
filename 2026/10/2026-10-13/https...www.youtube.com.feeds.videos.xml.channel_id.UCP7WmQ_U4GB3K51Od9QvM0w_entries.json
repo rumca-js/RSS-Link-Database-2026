@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "David Bombal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-13T19:08:07.596722+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-13T18:00:26+00:00",
+        "description": "Give an AI agent access to your files, commands and network. What actually stops it from doing something you never intended?\n\nNVIDIA's Open Agent Safety Platform combines OpenShell, an open-source runtime that restricts what an AI agent can access, with an optional hardware-based watchdog called Sentry running on BlueField-4.\n\nNVIDIA says Sentry can quarantine agents that try to cross their boundaries in milliseconds.\n\nBut there's an important catch: an agent can still cause damage while staying completely inside the permissions you gave it.\n\nAI agent security isn't just about stopping an escape. It's about deciding what the agent should have been allowed to do in the first place.\n\nThank you to NVIDIA for sponsoring this video and my trip to GTC Berlin!\n\n#AI #Cybersecurity #NVIDIAGTC",
+        "id": 6591520,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/fpih7UHM_T0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 984,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP7WmQ_U4GB3K51Od9QvM0w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/fpih7UHM_T0/hqdefault.jpg",
+        "title": "NVIDIA Wants to Stop Rogue AI Agents",
+        "vote": 0
+    }
+]

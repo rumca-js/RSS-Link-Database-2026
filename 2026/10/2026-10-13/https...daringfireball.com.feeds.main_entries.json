@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Gruber",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-13T15:48:40.801163+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-13T14:52:24+00:00",
+        "description": "<p>Apple Newsroom:</p>\n\n<blockquote>\n  <p>Apple today introduced <a href=\"https://www.apple.com/apple-homeview/\">Apple HomeView</a>, designed to be central to\nthe home and personal to everyone in it. With a stunning 7-inch\nLiquid Retina display, HomeView brings entertainment, connection,\nand smart home management together in one place, from playing\nmusic and making FaceTime calls to home monitoring and hands-free\nautomations with voice control\u2009\u2014\u2009all designed with privacy and\nsecurity at the core. HomeView recognizes users by their faces,\nadapting so they can access their personal content in Messages,\nFaceTime, Calendar, Reminders, and Find My. HomeView features Siri\nAI, an entirely new version of Siri that\u2019s profoundly more capable\nand conversational, with broad world knowledge that powers richer\nmusic discovery and onscreen awareness. When paired with an Apple\nIntelligence-enabled device, it can also draw on a user\u2019s personal\ncontext, such as their Calendar, Messages, and relevant\nin",
+        "id": 6589754,
+        "language": "",
+        "link": "https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 489,
+        "source_url": "https://daringfireball.com/feeds/main",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Apple HomeView",
+        "vote": 0
+    }
+]

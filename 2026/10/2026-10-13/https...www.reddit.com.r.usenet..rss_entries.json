@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/Keeeeeef",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-13T23:26:23.251981+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-13T22:57:07+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;m new to this space and would like to get some of the better indexers for my setup. I want to implement some sort of automation tool that checks either the signup pages or posts on <a href=\"/r/UsenetInvites\">r/UsenetInvites</a>. I don&#39;t know of any way of doing this that doesn&#39;t end with my IP getting blacklisted after a day.</p> <p>Is this a thing already? Is it allowed? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Keeeeeef\"> /u/Keeeeeef </a> <br/> <span><a href=\"https://www.reddit.com/r/usenet/comments/1x5bcv0/indexer_registration_notification_tool/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/usenet/comments/1x5bcv0/indexer_registration_notification_tool/\">[comments]</a></span>",
+        "id": 6593144,
+        "language": "en",
+        "link": "https://www.reddit.com/r/usenet/comments/1x5bcv0/indexer_registration_notification_tool",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 550,
+        "source_url": "https://www.reddit.com/r/usenet/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Indexer Registration Notification Tool?",
+        "vote": 0
+    }
+]

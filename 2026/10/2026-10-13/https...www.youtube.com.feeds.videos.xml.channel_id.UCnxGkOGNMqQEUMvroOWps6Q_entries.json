@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "JRE Clips",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-13T18:31:34.703176+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-13T17:00:39+00:00",
+        "description": "Taken from JRE #2564 w/Chuck Lorre\nYouTube: https://youtu.be/HMe3rYJi-DE\nJRE on Spotify: https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk",
+        "id": 6591131,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=Ij7W3N9M8ds",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 157,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnxGkOGNMqQEUMvroOWps6Q",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/Ij7W3N9M8ds/hqdefault.jpg",
+        "title": "Chuck Lorre on Creating the Big Bang Theory, the Dismissal of Sitcoms, and Working with Roseanne",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-13T15:25:56.907901+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-13T15:08:21+00:00",
+        "description": "Learn software system design and pass interviews. This course provides a practical five-step framework for structuring your thinking and tackling vague requirements under pressure. Additionally, the course walks through real-world examples, designing systems similar to Spotify, Booking.com, WhatsApp from scratch.\n\nCourse from @hayk.simonyan \n\nBecome a senior software engineer with a job guarantee: https://hayksimonyan.com/?utm_source=youtube&utm_medium=video&utm_campaign=177-system-design-interview-guide&utm_content=august-2026\n\nTimestamps:\n- 0:00:00 Why System Design Matters\n\nSection 1: System Design Framework\n- 0:02:16 Interview Formats Overview\n- 0:09:14 The 5 Step Framework\n18:24 Tradeoffs and Extensions\n\nSection 2: System #1\n- 0:23:55 Requirements and Capacity Planning\n- 0:29:24 Architecture and Data Flows\n- 0:35:23 API Design\n- 0:40:04 Storage and Schema Design\n- 0:44:37 Scaling to Millions\n\nSection 3: System #2\n- 0:50:52 Non-Functional Targets\n- 0:58:22 Capacity Math and Archit",
+        "id": 6589591,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=soTfFFIQQ8U",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/soTfFFIQQ8U/hqdefault.jpg",
+        "title": "Design Software Systems Like a Senior Engineer \u2013 Complete Course",
+        "vote": 0
+    }
+]
