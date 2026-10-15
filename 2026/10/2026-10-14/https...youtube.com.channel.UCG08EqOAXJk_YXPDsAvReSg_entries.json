@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unity",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-14T13:40:51.042483+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-14T12:52:17+00:00",
+        "description": "Discover content directories, a new tool introduced in Unity 6.6 designed to improve the experience of organizing and packaging game content, especially for complex projects.\n\nIn this video, learn what content directories are, how they improve the asset packing process, how to get started using them, and when you might still want to use AssetBundles instead.\n\n\ud83d\udd17 Content directories reference: https://on.unity.com/ContentDirectories_Docs\n\ud83d\udd17 Build Analysis window reference: https://on.unity.com/BuildAnalysisWindow_Docs\n\ud83d\udd17 Addressables package documentation: https://on.unity.com/AddressablesPackage_Docs\n\n[00:00] Introduction\n[00:38] Understanding asset packing\n[02:59] What are content directories?\n[04:29] Getting started: root assets and building\n[06:03] On-demand loading: the Loadable class\n[07:58] Content directories and Addressables\n[08:34] Limitations and summary\n[09:12] Outro\n\n_______________\n\nStay connected with us: \nGames Twitter/X: https://x.com/unitygames\nInstagram: https://www.ins",
+        "id": 6596681,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=RRiDA2e76lA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 683,
+        "source_url": "https://youtube.com/channel/UCG08EqOAXJk_YXPDsAvReSg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/RRiDA2e76lA/hqdefault.jpg",
+        "title": "Introduction to content directories",
+        "vote": 0
+    }
+]

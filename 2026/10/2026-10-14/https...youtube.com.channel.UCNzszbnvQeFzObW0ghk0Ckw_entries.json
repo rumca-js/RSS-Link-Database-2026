@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Dave's Garage",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-14T08:10:40.501776+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-14T00:18:30+00:00",
+        "description": "I used AI to reverse engineer real binaries, understand how they work, and then clone their functionality into brand-new applications. In this video I show the full process \u2014 what the AI can actually figure out, where it falls short, and how far you can push the technique of turning an existing binary into something new.\n\nThis is the practical side of AI-assisted reverse engineering, not theory.\n\nWhat you\u2019ll see:\n\nHow AI helps tear apart and understand binaries\nExtracting logic, behavior, and structure\nCloning that functionality into a clean new application\nReal examples of what works and what still needs a human engineer\nThe limits, risks, and surprising capabilities of current tools\n\nIf you\u2019ve ever wondered how far AI can go in reverse-engineering and recreating software from binaries, this is the deep dive.\n\nFor a free download of Task Manager TMOG, visit: https://tmog.org",
+        "id": 6594925,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=KC31K-CUC5Y",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 907,
+        "source_url": "https://youtube.com/channel/UCNzszbnvQeFzObW0ghk0Ckw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/KC31K-CUC5Y/hqdefault.jpg",
+        "title": "I Tested AI Cloning\u2026 and It\u2019s Way Worse Than You Think!",
+        "vote": 0
+    }
+]

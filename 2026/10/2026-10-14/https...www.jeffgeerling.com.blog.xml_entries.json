@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-14T13:41:31.577419+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-14T08:00:00+00:00",
+        "description": "<figure class=\"insert-image\"><img src=\"https://www.jeffgeerling.com/blog/2026/formlabs-form-studio-1-resin-printer/formlabs-form-studio-1-hero.jpeg\"\n\t\t\talt=\"Formlabs Form Studio 1\" width=\"700\" height=\"auto\">\n</figure>\n\n<p>Formlabs sent me a [Form Studio 1](<a href=\"https://formlabs.com/3d-printers/form-studio-1/?utm_source=youtube&amp;utm_medium=refe\">https://formlabs.com/3d-printers/form-studio-1/?utm_source=youtube&amp;utm_medium=refe</a>\nrral&amp;utm_campaign=jeffgeerling-fs1-2026-07-26-global) resin 3D printer to test after years of back-and-forth about their Form 4 printer.</p>\n<p>Like the Form 4, it's an SLA (stereolithography) printer, but unlike the Form 4 (which starts at $2,600), it's affordable for a hobbyist. It's not <em>cheap</em>, coming in at $699 (or $749 with a flex build platform, which I highly recommend), but it is affordable.</p>",
+        "id": 6596684,
+        "language": "en",
+        "link": "https://www.jeffgeerling.com/blog/2026/formlabs-form-studio-1-resin-printer",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 162,
+        "source_url": "https://www.jeffgeerling.com/blog.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.jeffgeerling.com/blog/2026/formlabs-form-studio-1-resin-printer/formlabs-form-studio-1-hero.jpeg",
+        "title": "Formlabs dropped the Raspberry Pi on the way to a $699 SLA printer",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ETA PRIME",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-14T14:51:46.873457+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-14T14:14:25+00:00",
+        "description": "I built a super tiny, Android-powered miniature Steam Machine that emulates and plays real PC Steam games locally\u2014no cloud gaming or streaming required! Using a custom 3D-printed shell, a USB-C to HDMI hub, a thermoelectric Peltier cooler, and the RedMagic 11 Pro S powered by the Snapdragon 8 Elite Gen 5, we are putting DroidDeck to the test to see if an ARM-based Android phone can match Steam Deck performance.\n\nGet droid deck Here: https://github.com/Droid-Deck/DroidDeck\n\nBuy The Red Magic 11 Pro Here: https://tidd.ly/3Q52ccw\n\nFollow Me On Twitter: https://twitter.com/theetaprime\nFollow Me On Instagram: https://www.instagram.com/etaprime/\n\nDISCLAIMER: This video and description contains affiliate links, which means that if you click on one of the product links, I\u2019ll receive a small commission at no extra cost to you!\n\n00:00 - Tiny Android-Powered SteamOS Machine Overview   00:28 - The Build: 3D-Printed Case, Peltier Cooler & RedMagic 11 Pro S   02:03 - RedMagic Console Mode & Interna",
+        "id": 6597266,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=g8TwMsssHoI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 100,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_0CVCfC_3iuHqmyClu59Uw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/g8TwMsssHoI/hqdefault.jpg",
+        "title": "I Built a Tiny Android Powered Steam Machine\u2026 And It Actually Works!",
+        "vote": 0
+    }
+]

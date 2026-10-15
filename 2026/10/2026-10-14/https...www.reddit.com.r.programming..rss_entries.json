@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/lokinpendawa",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-14T08:16:18.322987+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-14T00:07:57+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>An HTTPS-secured Web Application Firewall in SWI-Prolog. It runs on a free-tier Google Cloud instance with only 1 GB of RAM (roughly 450 MB available after OS overhead). The entire stack operates comfortably within this limit using Prolog&#39;s lightweight threads.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/lokinpendawa\"> /u/lokinpendawa </a> <br/> <span><a href=\"https://prologwaf.site/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/programming/comments/1x5cwtc/a_declarative_waf_built_in_prolog_try_to_hack_it/\">[comments]</a></span>",
+        "id": 6594950,
+        "language": "",
+        "link": "https://www.reddit.com/r/programming/comments/1x5cwtc/a_declarative_waf_built_in_prolog_try_to_hack_it",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 477,
+        "source_url": "https://www.reddit.com/r/programming/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "A declarative WAF built in Prolog. Try to hack it As A Research",
+        "vote": 0
+    }
+]

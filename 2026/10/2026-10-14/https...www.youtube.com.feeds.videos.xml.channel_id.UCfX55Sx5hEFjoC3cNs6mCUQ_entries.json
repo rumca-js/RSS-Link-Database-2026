@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Foundation",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-14T16:04:07.178453+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-14T14:25:14+00:00",
+        "description": "Kubernetes v1.37 enables HPA scale to zero by default in beta, eliminating idle GPU pods and removing the need for external monitors that burn resources with no demand. Dipesh Rawat, Kubernetes v1.37 Release Lead at CNCF, explains the real cost impact for AI and batch workloads.\n\nFull article and transcript: https://tfir.io/kubernetes-hpa-scale-to-zero-gpu-cost-cncf/\n\nIdle GPU pods waste budget. In clusters running AI training or batch queue workloads, keeping even a single watcher pod alive around the clock adds up, and when GPU capacity is constrained, every idle resource is money left on the table.\n\nIn this exclusive interview with Swapnil Bhartiya at TFiR, Dipesh Rawat, Kubernetes v1.37 Release Lead at CNCF, breaks down three features in this release that directly affect cost, reliability, and long-running AI job continuity.\n\nKey Topics Covered:\n- HPA scale to zero graduating to beta: how event-driven and queue-depth metrics replace always-on watcher pods for GPU and batch workloa",
+        "id": 6597765,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=ibdQNIFyauE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 499,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfX55Sx5hEFjoC3cNs6mCUQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/ibdQNIFyauE/hqdefault.jpg",
+        "title": "Kubernetes HPA Scale to Zero Cuts GPU Idle Cost in Beta | Dipesh Rawat, CNCF",
+        "vote": 0
+    }
+]

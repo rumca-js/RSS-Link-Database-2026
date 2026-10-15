@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Techlore",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-14T17:59:48.772699+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-14T16:00:06+00:00",
+        "description": "Henry chats with Jos Poortvliet, co-founder of Nextcloud, on how to contribute to open source, where AI helps, and where it hurts.\n\n\ud83d\udd17 SOURCES & LINKS\n\u2022 Contribute to Nextcloud: https://nextcloud.com/contribute/\n\u2022 Nextcloud on GitHub: https://github.com/nextcloud\n- Nextcloud hosting providers: https://nextcloud.com/providers/\n\u2022 Nextcloud: https://nextcloud.com/\n\n\ud83d\udd0e RELATED VIDEOS\nhttps://youtu.be/Saemvh2XIpg\nhttps://youtu.be/Q7RZ2J3Dqro\n\n\ud83d\udce8 Stay ahead of the news without doom-scrolling. Surveillance Report covers what matters in privacy, security, and digital rights. Weekly, free: https://techlore.tech/#/portal/signup\n\n\ud83d\udd10 MORE FROM TECHLORE\n\u2022 Test your privacy & security gaps: https://quiz.techlore.tech/\n\u2022 Close the gaps with the right tools: https://tools.techlore.tech/\n\u2022 Compare dozens of VPNs side by side: https://vpn.techlore.tech/\n\u2022 Learn everything from the ground up: https://techlore.tech/go-incognito-course/\n\u2022 Support Techlore, Join our Signal Group: https://techlore.tech/support/",
+        "id": 6598650,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=NK8ZkNPstI4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 327,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/NK8ZkNPstI4/hqdefault.jpg",
+        "title": "How to Contribute to Open Source Without Writing Code (Nextcloud Interview)",
+        "vote": 0
+    }
+]

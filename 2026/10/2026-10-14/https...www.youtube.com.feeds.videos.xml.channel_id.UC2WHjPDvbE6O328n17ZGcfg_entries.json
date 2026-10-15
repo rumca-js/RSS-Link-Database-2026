@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ForrestKnight",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-14T15:31:24.715671+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-14T13:45:07+00:00",
+        "description": "It's time to move off Java 8.\n\nCheck out WorkOS, it's really good: https://jetty.to/workos\n\nThis video was more difficult to make than I initially thought. I knew there were going to be a lot of different variables to address when it came to Java development, but putting them all on paper really put it in perspective just how many there are.\n\nI mean, I'm talking about end-of-life dates yet there are so many different JDK distributions (Oracle, Red Hat, Corretto, Temurin, etc.) - I can't just list every single date. Then you've got different licensing terms, and free vs paid security updates, different levels of support, and then frameworks, libraries, dependencies, etc... all with their own compat reqs and support lifecycles.\n\nI tried my best to really strip out listing every single edge case while giving some core examples that really represent the point I'm trying to make. It's in no way exhaustive (i've said this so many times that if I ever name this show or start a podcast, that ",
+        "id": 6597548,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=4ubVtKwaoI8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 118,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2WHjPDvbE6O328n17ZGcfg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/4ubVtKwaoI8/hqdefault.jpg",
+        "title": "Seriously, it's time to move off Java 8.",
+        "vote": 0
+    }
+]

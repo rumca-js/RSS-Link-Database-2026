@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Blog Staff",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-14T19:59:24.561233+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-14T19:36:13+00:00",
+        "description": "<p>\n\t<img alt=\"logo.png\" src=\"https://isocpp.org/files/img/logo.png\" style=\"width: 225px; margin: 10px; float: right;\" />Composing safe functions may not be safe. Lucian Radu Teodorescu explores how C++26 contracts help uncover problems.</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://accu.org/journals/overload/34/194/teodorescu/\">On Contracts and Safety</a></h3>\n\t<p>\n\t\tby Lucian Radu Teodorescu</p>\n</blockquote>\n<p>\n\tFrom the article:</p>\n<blockquote>\n\t<p>\n\t\tIf two operations are safe, is their composition safe too? At first glance, the answer ought to be yes. But a small expression such as <code>f(g(10))</code> can appear to contradict that intuition: both functions may be safe under their own contracts, while the nested call still violates memory safety. The missing piece is the caller. Safety does not compose merely because expressions are nested; it composes when obligations and guarantees line up at each boundary.</p>\n\t<p>\n\t\tBuilding on the previous article [<a href=\"https://accu.org/",
+        "id": 6599518,
+        "language": "en",
+        "link": "https://isocpp.org//blog/2026/10/on-contracts-and-safety-lucian-radu-teodorescu",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://isocpp.org/files/img/logo.png",
+        "title": "On Contracts and Safety -- Lucian Radu Teodorescu",
+        "vote": 0
+    }
+]

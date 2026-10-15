@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "cstewart",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-14T17:40:18.609402+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-14T17:00:05+00:00",
+        "description": "<p>Windows on Arm has been ready for Python development for some time. With <a href=\"https://www.python.org/downloads/\">Python 3.15</a>, the broader ecosystem has matured significantly, with more package maintainers publishing native Arm64 wheels, allow</p>\n<p>The post <a href=\"https://blogs.windows.com/windowsdeveloper/2026/10/14/python-3-15-delivers-native-by-default-experience-on-windows-arm/\">Python 3.15 delivers a native-by-default experience on Windows on Arm</a> appeared first on <a href=\"https://blogs.windows.com\">Windows Blog</a>.</p>",
+        "id": 6598538,
+        "language": "en-US",
+        "link": "https://blogs.windows.com/windowsdeveloper/2026/10/14/python-3-15-delivers-native-by-default-experience-on-windows-arm",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 1016,
+        "source_url": "https://blogs.windows.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://blogs.windows.com/wp-content/uploads/sites/3/2026/09/A-native-Python-experience-1024x460.png",
+        "title": "Python 3.15 delivers a native-by-default experience on Windows on Arm",
+        "vote": 0
+    }
+]

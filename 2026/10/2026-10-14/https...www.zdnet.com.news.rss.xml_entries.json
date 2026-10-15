@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Lance Whitney",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-14T15:38:13.307755+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-14T13:59:59+00:00",
+        "description": null,
+        "id": 6597559,
+        "language": "en-US",
+        "link": "https://www.zdnet.com/tech/windows-october-update-patches-file-explorer-bluetooth",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 406,
+        "source_url": "https://www.zdnet.com/news/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.zdnet.com/wp-content/uploads/sites/3/Windows-11-October-2026-Patch-Tuesday-update.jpg",
+        "title": "Windows update patches a whopping 1,400 security bugs \u2013 \u00a0including 2 zero days",
+        "vote": 0
+    }
+]

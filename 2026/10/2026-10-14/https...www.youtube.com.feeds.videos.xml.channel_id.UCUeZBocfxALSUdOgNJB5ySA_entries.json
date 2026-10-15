@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Dr Ben Miles",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-14T15:20:48.652949+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-14T15:00:01+00:00",
+        "description": "Feed your neurons something better with \"The Book\" from Hungry Minds https://mdsh.io/6ges0rcoe4 and use promo code BENMILES10 for 10% off.\n\nThe Nobel Prize in Physiology or Medicine 2026 was awarded jointly to Karl Deisseroth, Peter Hegemann and Georg Nagel \"for their discoveries concerning light-gated ion channels and optogenetics\".\n\nWhat on earth does that mean?\n\nKey articles I spoke about\n\nHarz & Hegemann (1991), Rhodopsin-regulated calcium currents in Chlamydomonas, Nature: https://www.nature.com/articles/351489a0\n\nNagel et al. (2003), Channelrhodopsin-2, a directly light-gated cation-selective membrane channel, PNAS: https://doi.org/10.1073/pnas.1936192100\n\nBoyden et al. (2005), Millisecond-timescale, genetically targeted optical control of neural activity, Nature Neuroscience: https://www.nature.com/articles/nn1525\n\nAdamantidis et al. (2007), hypocretin neurons and waking from sleep, Nature: https://www.nature.com/articles/nature06310\n\nTsai et al. (2009), phasic firing in dopami",
+        "id": 6597439,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=GjdydbyPkSI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 861,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCUeZBocfxALSUdOgNJB5ySA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/GjdydbyPkSI/hqdefault.jpg",
+        "title": "How Scientists Learned To Control The Brain with Light - Nobel Prize in Medicine 2026",
+        "vote": 0
+    }
+]

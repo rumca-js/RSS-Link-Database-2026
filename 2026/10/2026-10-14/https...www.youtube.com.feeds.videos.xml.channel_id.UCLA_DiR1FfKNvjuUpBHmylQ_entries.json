@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NASA",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-14T17:01:14.153042+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-14T15:05:17+00:00",
+        "description": "When a newly discovered asteroid posed a potential risk to Earth, a global planetary defense system was put to the test like never before. \n\nPlanetary Defenders: This Is Not an Exercise tells the story of how NASA, its international partners, the astronomy community, and scientists around the world raced to observe and track the asteroid, understand its orbit into the future, calculate its impact probabilities, and eventually retire it from the risk list.\n\nLearn more about NASA\u2019s efforts to find, track and monitor near-Earth asteroids: https://science.nasa.gov/planetary-defense/\nWatch the debut episode of \"Planetary Defenders\": https://www.youtube.com/watch?v=jOb2DQWvDvc",
+        "id": 6598221,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=5b3n-u_0QAI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 1010,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLA_DiR1FfKNvjuUpBHmylQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/5b3n-u_0QAI/hqdefault.jpg",
+        "title": "Planetary Defenders: This Is Not an Exercise",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Rob Braxman Tech",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-14T18:11:16.732193+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-14T16:00:32+00:00",
+        "description": "Part 1 - WHAT'S WRONG WITH LINUX SERIES \nWhy is it a nightmare installing Linux when Windows is already running? The surprising detail is not something on the Hard Drive but it's in the Firmware. And it's a mandate by Microsoft. This Firmware plugin means that we are screwed. Microsoft makes it very difficult to override Windows with anything else.\n\nLearn the full details and why Linux can never be a full Citizen. It's a non-resident on a PC. Just visiting.\n\n\nMy new Tech Deep Dive Channel - Please Subscribe!\nhttps://www.youtube.com/@RobBraxmanDeepTechDive\n\n\"Your Mind Is the Product\" Kindle Store\nhttps://amzn.to/3U1pgdX\n\n----------------------------------\nBraX3 Privacy Phone and Brax Open_Slate Android/Linux Tablet is on https://braxtech.net\n-----------------------------------\nBrax Virtual Phone, De-Googled Phones, BytzVPN, BraxMail, BraxRouters are available on https://store.brax.me\n-----------------------------------\nBraxSIM Unlisted (No KYC e-SIM) is on https://braxsim.brax.me\n-----",
+        "id": 6598775,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=et2V5lJIvZ8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 466,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYVU6rModlGxvJbszCclGGw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/et2V5lJIvZ8/hqdefault.jpg",
+        "title": "Why Is Linux So Difficult to Install? Because of Microsoft.",
+        "vote": 0
+    }
+]

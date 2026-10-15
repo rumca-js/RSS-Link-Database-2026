@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "GitHub",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-14T17:40:28.814327+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-14T15:00:01+00:00",
+        "description": "In episode 5 of season 2 of The GitHub Podcast, Cassidy and Andrea welcome Sameen Karim, Senior Product Manager at GitHub, to discuss native stacked pull requests. Sameen shares how GitHub rebuilt legacy merge box systems, handled \"ghost merges\" across linked PR chains, and closed code owner security loopholes. Learn how engineering teams use stacks to break large features into smaller, reviewable PRs, and explore the open source gh-stack CLI.\n\nLinks mentioned in this episode: \n\nGitHub Universe: https://githubuniverse.com/?utm_source=YouTube&utm_medium=Social&utm_campaign=podcastgh_uni_26\nSarah Drasner's code drawings: https://sarah.dev/projects/ \nAGENTS.md: https://github.com/agentsmd/agents.md \ngh-stack CLI: https://github.com/github/gh-stack\n\n\u2014 CHAPTERS \u2014  \n\n00:00 Welcome to The GitHub Podcast\n01:16 Sameen's path to GitHub\n02:13 What are stacked pull requests?\n06:41 The long road to stacked PRs\n13:10 Core architectural decisions\n17:31 Benefits of native stacked PRs\n23:41 Adopting s",
+        "id": 6598539,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=sbHoDdAalMI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 1005,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7c3Kb6jYCRj4JOHHZTxKsQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/sbHoDdAalMI/hqdefault.jpg",
+        "title": "How stacked PRs work behind the scenes at GitHub | S02E05 | The GitHub Podcast",
+        "vote": 0
+    }
+]

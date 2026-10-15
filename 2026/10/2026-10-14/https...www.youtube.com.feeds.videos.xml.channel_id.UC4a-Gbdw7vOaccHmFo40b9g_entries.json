@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Khan Academy",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-14T16:06:26.016491+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-14T12:43:11+00:00",
+        "description": "When a charged particle moves between two locations with different electric potentials, the resulting change in the electric potential energy of the particle-field system can be found by multiplying the charge by the electric potential difference between the locations. Assuming no resistive forces, the movement of a charged particle between two points with different electric potentials results in a change in kinetic energy of the particle consistent with the conservation of energy. An electron volt (eV) is a unit of energy equal to the kinetic energy gained by an electron or proton when it accelerates through a potential difference of one volt under the electric force alone.\n\n00:00 - Electric potential energy from potential difference\n03:19 - Energy conservation: from potential energy to speed\n05:23 - Negative charges and the sign of \u0394U\n06:29 - The electron volt\n09:14 - Worked example: finding the final speed\n11:22 - Conceptual example: moving a charge into a charged sphere\n\n---------",
+        "id": 6597781,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=cPxnWRp4oPo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 977,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4a-Gbdw7vOaccHmFo40b9g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/cPxnWRp4oPo/hqdefault.jpg",
+        "title": "Conservation of electric energy | AP Physics | Khan Academy",
+        "vote": 0
+    }
+]
