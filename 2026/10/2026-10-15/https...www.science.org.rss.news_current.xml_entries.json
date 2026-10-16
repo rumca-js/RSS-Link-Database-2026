@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Lizzie Wade",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-15T19:22:24.469014+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-15T02:00:00+00:00",
+        "description": "The South American empire lasted longer, and met more resistance, than scholars thought",
+        "id": 6606722,
+        "language": "en-US",
+        "link": "https://www.science.org/content/article/bonanza-new-dates-rewrites-history-inca",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 187,
+        "source_url": "https://www.science.org/rss/news_current.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Bonanza of new dates rewrites the history of the Inca",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "David Bombal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-15T16:42:29.925367+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-15T16:00:09+00:00",
+        "description": "What turns a language model into an AI agent? Jensen Huang shares why OpenClaw caught his attention and explains how NVIDIA approaches agent security with OpenShell, zero trust, minimum privileges and continuous monitoring.\n\nThank you to NVIDIA for sponsoring this video and my trip to GTC Berlin!\n\n#JensenHuang #NVIDIAGTC #AgenticAI",
+        "id": 6605638,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/YjEN-hLuajM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 984,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP7WmQ_U4GB3K51Od9QvM0w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/YjEN-hLuajM/hqdefault.jpg",
+        "title": "Jensen Huang Explains the Next Step for AI",
+        "vote": 0
+    }
+]

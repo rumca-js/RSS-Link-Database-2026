@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Fireship",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-15T19:53:07.103322+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-15T17:35:15+00:00",
+        "description": "Every JetBrains account now comes with a free coding model called Junie Lite. Try it: https://jb.gg/JunieLite\n\nCloudflare just acquired Deno and the creator of Node.js is finally admitting that reimplementing it was a mistake. Let's dive in.\n\nWant more Fireship?\n\n\ud83d\uddde\ufe0f Newsletter: https://bytes.dev\n\ud83e\udde0 Courses: https://fireship.dev",
+        "id": 6606945,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=l3L_lETiSzc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 584,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/l3L_lETiSzc/hqdefault.jpg",
+        "title": "The runtime wars are over... and Node won",
+        "vote": 0
+    }
+]

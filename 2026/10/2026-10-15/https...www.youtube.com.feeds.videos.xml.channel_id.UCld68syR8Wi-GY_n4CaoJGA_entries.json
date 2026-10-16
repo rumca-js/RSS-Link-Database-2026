@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-15T19:04:35.499241+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-15T16:30:27+00:00",
+        "description": "Out of nowhere it seems like MacOS has just vanished from the Unix registry so lets take this as an opportunity to talk about why it was even on the list in the first place. \n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\nUnix Registry: https://www.opengroup.org//openbrand/register/\nOSNews Article: https://www.osnews.com/story/141633/apples-macos-unix-certification-is-a-lie/\n\n=========Video Platforms==========\n\ud83c\udfa5 React: https://www.youtube.com/@BrodieRobertsonReacts\n\ud83c\udfa5 Podcast: https://techovertea.xyz/youtube\n\ud83c\udfae Gaming: https://brodierobertson.xyz/gaming\n\n==========Social Media==========\n\ud83c\udfa4 Discord: https://brodierobertson.xyz/discord\n\ud83d\udc26 Twitter: https://brodierobertson.xyz/twitter\n\ud83c\udf10 Mastodon: https://brodierobertson.xyz/mastodon\n\ud83d\udda5\ufe0f GitHub: https://brodierobertson.xyz/githu",
+        "id": 6606588,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=Gn1n4CuKccI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/Gn1n4CuKccI/hqdefault.jpg",
+        "title": "MacOS Vanished From The Unix Registry",
+        "vote": 0
+    }
+]

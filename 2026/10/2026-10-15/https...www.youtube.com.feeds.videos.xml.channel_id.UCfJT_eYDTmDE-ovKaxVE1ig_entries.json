@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kevin Stratvert",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-15T10:36:21.549624+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-15T07:00:09+00:00",
+        "description": "If you've ever opened an invoice and manually retyped the vendor, the date, and the total into some other system, you know exactly how tedious that gets. In this video, in partnership with UiPath, you\u2019ll see how to build an orchestration that does that reading (and the typing) for you, using UiPath Maestro Flow. \u2b50Check out how Maestro Flow can save you time: https://www.uipath.com/product/maestro/flow\n\nFlow is a canvas inside UiPath where you connect a few steps, called nodes, to build an orchestration \u2014 no code required. In this example you\u2019ll see a Flow built start to finish, where a document comes in, an agent reads it and pulls out the details that matter, a person checks the result before anything's final, and the clean data gets saved to a spreadsheet. \n\nAnd it doesn't have to be an invoice \u2014 the same approach works for a receipt, a form, pretty much any document with a few consistent fields.\n\nHost: Garrick Chow\nSponsor: UiPath\n#UiPath #NoCode #MaestroFlow # Flow #automation \n\n\u231a",
+        "id": 6603056,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=8nds44yMR0g",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 958,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfJT_eYDTmDE-ovKaxVE1ig",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/8nds44yMR0g/hqdefault.jpg",
+        "title": "UiPath Maestro Flow: A No-Code AI Orchestration Tool",
+        "vote": 0
+    }
+]

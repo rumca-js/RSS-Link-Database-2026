@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-15T16:39:48.248289+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-15T15:44:08+00:00",
+        "description": "Yemen's information minister says the prime minister and other ministers were unhurt when ballistic missiles hit al-Maashiq Palace.",
+        "id": 6605621,
+        "language": "en-gb",
+        "link": "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 525,
+        "source_url": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e3c/live/c8a01320-c8ac-11f1-9c75-6ff1271de385.jpg",
+        "title": "Houthi missile attack on Yemeni presidential palace kills two, minister says",
+        "vote": 0
+    }
+]

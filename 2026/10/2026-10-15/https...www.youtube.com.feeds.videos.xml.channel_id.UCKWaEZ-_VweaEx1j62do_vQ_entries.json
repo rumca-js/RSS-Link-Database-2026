@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-15T12:34:56.716800+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-15T11:00:06+00:00",
+        "description": "Learn more about Context Engineering here \u2192 https://ibm.biz/~5YM1VAeG0\n\nMore context should make AI agents better. It often does the opposite. Martin Keen explains context rot, the four major context failure modes, and how context engineering improves long-running AI agents. Learn why better agents often require less context, not more.\n\n00:00 Bigger Context Windows, Better AI Agents? Not So Fast\n00:45 Context Rot: Why AI Models Become Less Reliable Over Time\n01:05 What Is Context Engineering and Why Does It Matter?\n01:50 Inside an AI Agent\u2019s Context Window: What\u2019s Taking Up Space?\n04:35 Context Poisoning: When Bad Information Becomes \u2018Truth\u2019\n05:20 Context Distraction: How Long Histories Derail Agent Performance\n06:03 Context Confusion: Why Too Many Tools Hurt AI Accuracy\n06:55 Context Clash: When Conflicting Information Breaks Reasoning\n07:32 4 Context Engineering Fixes: Validate, Compact, Curate & Prune\n09:50 The Key Lesson: Why AI Agents Often Perform Better with Less Context\n\nAI ne",
+        "id": 6603777,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=BwXremQ-i6I",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/BwXremQ-i6I/hqdefault.jpg",
+        "title": "Context Engineering for AI Agents: 4 Failure Modes to Avoid",
+        "vote": 0
+    }
+]

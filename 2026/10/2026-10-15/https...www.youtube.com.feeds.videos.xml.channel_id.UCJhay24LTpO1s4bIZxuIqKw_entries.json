@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ACCU Conference",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-15T16:31:44.171488+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-15T14:54:58+00:00",
+        "description": "ACCU Membership: https://tinyurl.com/ydnfkcyn\n---\n\nAI Writes All Your Code Now - How Will You Ever Debug It? - Greg Law & Mark Williamson - ACCU 2026\n---\n\nKernighan said: everyone knows debugging is twice as hard as writing the code in the first place, so how will you ever debug it? With AI, it's now much worse than that. Today's AIs are much better at writing code than debugging it, and they still generate higher bug density than skilled humans.\n\nWe present our research into the state of the art of how good different LLMs are at debugging large, complex C++ code-bases, and we then show several tools and techniques to make it better.\n\nSlides: https://github.com/Digital-Medium/ACCU-On-Sea-Slides-2026\n---\n\nGreg Law\n\nGreg is co-founder and CEO at Undo.io. He is a coder at heart, but likes to bridge the gap between the business and software worlds.\n\nGreg's background is in systems software development (operating systems, networking and tooling), and he has held development and management ",
+        "id": 6605517,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=-hTG9Jp_2PU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 421,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJhay24LTpO1s4bIZxuIqKw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/-hTG9Jp_2PU/hqdefault.jpg",
+        "title": "AI Writes All Your Code Now - How Will You Ever Debug It? - Greg Law & Mark Williamson - ACCU 2026",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Hammond",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-15T18:33:10.767808+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-15T15:02:12+00:00",
+        "description": "This ClickFix technique stages the next payload through the browser cache, leaving a batch script on the file system before the user runs a command through the Windows Run dialog.\n\nI take a closer look at how the payload is retrieved and examine the website's network traffic, including requests that contain the browser's user agent.\n\nWatch the full video: https://youtu.be/oJHOlNTH7lY?si=8LruOkxZlfvFLII-",
+        "id": 6606443,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/Q-HKFlqPRAk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 959,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVeW9qkBjo3zosnqUbG7CFw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/Q-HKFlqPRAk/hqdefault.jpg",
+        "title": "Browser Cache Payloads",
+        "vote": 0
+    }
+]

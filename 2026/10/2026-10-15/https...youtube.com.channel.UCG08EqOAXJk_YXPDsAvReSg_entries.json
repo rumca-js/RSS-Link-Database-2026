@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unity",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-15T13:18:22.615850+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-15T13:00:21+00:00",
+        "description": "Learn how to use content directories alongside the Addressables package in Unity 6.6.\n\nIn this video, we demonstrate how to seamlessly migrate existing Addressables projects from AssetBundles to content directories using Addressables 4.0.\n\nYou\u2019ll learn how content directories handle asset packaging and root assets under the hood, as well as scenarios where you might want to skip Addressables entirely and use content directories directly.\n\n\n\ud83d\udd17 Addressables package documentation: https://on.unity.com/AddressablesPackage_Docs\n\ud83d\udd17 Specific migration page in the Addressables docs: https://on.unity.com/AddressablesMigration_Docs\n\ud83d\udd17 Content directories reference: https://on.unity.com/ContentDirectories_Docs\n\n[00:00] Introduction\n[01:13] How to migrate Addressables to content directories\n[03:07] Understanding content layout: AssetBundles vs content directories\n[05:12] How migration affects Addressable groups and root assets\n[06:34] Why you might want to go without Addressables\n[07:07] Outro\n\n____",
+        "id": 6604064,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=EjrUUHlrEkY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 683,
+        "source_url": "https://youtube.com/channel/UCG08EqOAXJk_YXPDsAvReSg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/EjrUUHlrEkY/hqdefault.jpg",
+        "title": "Content directories using Addressables",
+        "vote": 0
+    }
+]
