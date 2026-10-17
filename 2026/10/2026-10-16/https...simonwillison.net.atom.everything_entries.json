@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Simon Willison",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-16T23:49:39.132509+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-16T22:06:37+00:00",
+        "description": null,
+        "id": 6612435,
+        "language": "en-us",
+        "link": "https://simonwillison.net/2026/Oct/16/code-review",
+        "manual_status_code": 0,
+        "page_rating": 28,
+        "page_rating_contents": 87,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 423,
+        "source_url": "https://simonwillison.net/atom/everything",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Quoting Addy Osmani, Morgan Westlee Lunt, and Qing Wang",
+        "vote": 0
+    }
+]

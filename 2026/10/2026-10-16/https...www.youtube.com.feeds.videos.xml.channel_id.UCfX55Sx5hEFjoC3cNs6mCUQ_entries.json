@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Foundation",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-16T19:09:29.315925+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-16T14:26:14+00:00",
+        "description": "OpenSearch reached 2.4 billion downloads and 400+ contributing companies after moving to a vendor-neutral home under the Linux Foundation, as Bianca Lewis, Executive Director of the OpenSearch Software Foundation, explains at OpenSearchCon North America 2026.\n\nFull article and transcript: https://tfir.io/vendor-neutral-governance-open-source-trust-opensearch/\n\nOpenSearch began as a fork driven by a licensing dispute, and rebuilding community trust after a perceived betrayal of open source values is one of the hardest problems any project faces. The path from a credibility deficit to broad enterprise adoption is rarely straightforward.\n\nIn this exclusive interview with Swapnil Bhartiya, Bianca Lewis, Executive Director of the OpenSearch Software Foundation, breaks down how donating the project to the Linux Foundation two years ago restored vendor neutrality, accelerated contributor diversity by 31% in a single year, and pushed awareness among enterprises from 68% to nearly 90%.\n\nKey To",
+        "id": 6611465,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=WER020fbIsk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 499,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfX55Sx5hEFjoC3cNs6mCUQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/WER020fbIsk/hqdefault.jpg",
+        "title": "Vendor Neutral Governance Tripled OpenSearch Contributors | Bianca Lewis",
+        "vote": 0
+    }
+]

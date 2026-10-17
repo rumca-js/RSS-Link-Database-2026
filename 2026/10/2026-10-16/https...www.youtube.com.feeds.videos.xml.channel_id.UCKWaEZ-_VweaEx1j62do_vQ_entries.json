@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-16T12:59:47.382407+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-16T10:00:34+00:00",
+        "description": "Visit Mixture of Experts podcast page to get more AI content  \u2192 https://ibm.biz/~ryIAcW59Q\n\nThis week on Mixture of Experts, host David Zax is joined by Kaoutar El Maghraoui, Nick Gallagher, and Volkmar Uhlig. First, Microsoft, OpenAI, Perplexity, and Cloudflare follow TypeSafe\u2019s Jev in building decision models, a new category of AI built to make fast, scored judgments. The panel debates whether these models are truly new or a more efficient application of existing technology, and whether better-calibrated confidence scores can help address the overconfidence problem in LLMs. Next, a new study finds that teams of AI agents can cost two to five times more than a single agent without consistently delivering better results. \n\nThe panel discusses when multiple agents are worth the added cost and complexity. Finally, Anthropic updates its usage policy to prohibit \u201csustained and needless abusive or cruel behavior\u201d toward its models, raising a bigger question: Is this about protecting AI, sh",
+        "id": 6610628,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=0FBdWvkgNQE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/0FBdWvkgNQE/hqdefault.jpg",
+        "title": "Decision models take off & Anthropic bans cruelty to Claude",
+        "vote": 0
+    }
+]

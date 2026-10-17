@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "GitHub",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-16T04:34:46.059951+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-16T00:52:40+00:00",
+        "description": "This week on Open Source Friday, we\u2019re joined by Manfred Riem and Nicole Haugen to celebrate the 1.0.0 release of Spec Kit! We'll dig into the new features and capabilities of Spec Kit like programmable workflows, reusable bundles, a growing community, and so much more. We'll also touch on what goes into making a 1.0 release for an open source project.\n\nIf you\u2019re curious about open source, developer tooling, and how ideas turn into practical projects, this stream is for you.\n\nCatch up on the introduction to Spec Kit on a previous Open Source Friday: https://www.youtube.com/watch?v=2IArMAhkJcE",
+        "id": 6609050,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=8hHCpNVLhmI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 1005,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7c3Kb6jYCRj4JOHHZTxKsQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/8hHCpNVLhmI/hqdefault.jpg",
+        "title": "Open Source Friday: Spec Kit part 2",
+        "vote": 0
+    }
+]

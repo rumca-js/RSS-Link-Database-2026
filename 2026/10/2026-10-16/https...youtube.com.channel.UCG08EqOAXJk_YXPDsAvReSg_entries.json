@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unity",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-16T15:05:38.882506+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-16T13:00:39+00:00",
+        "description": "Discover the Build Analysis window, a new tool introduced in Unity 6.6 designed to inspect and analyze the results of player and content builds.\n\nIn this video, learn what the Build Analysis window is, how to view build properties and steps, how to utilize build report files and logs, and how to inspect assets and dependencies included in your builds.\n\n\ud83d\udd17 Build Analysis window reference: https://on.unity.com/BuildAnalysisWindow_Docs\n\ud83d\udd17 Content directories reference: https://on.unity.com/ContentDirectories_Docs\n\n[00:00] Introduction\n[00:42] Inspecting a Player build\n[01:31] Build reports and the Trace Event Profile\n[02:30] The Assets tab\n[02:45] Inspecting Content builds\n[03:27] Future roadmap\n[03:58] Outro\n\n_______________\n\nStay connected with us: \nGames Twitter/X: https://x.com/unitygames\nInstagram: https://www.instagram.com/unitytechnologies/\nDiscord: https://discord.com/invite/unity\nDiscussions: https://discussions.unity.com/\nLinkedIn: https://www.linkedin.com/company/unity/\nFacebook",
+        "id": 6610820,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=-YaIsq35fio",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 683,
+        "source_url": "https://youtube.com/channel/UCG08EqOAXJk_YXPDsAvReSg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/-YaIsq35fio/hqdefault.jpg",
+        "title": "The Unity Build Analysis window",
+        "vote": 0
+    }
+]

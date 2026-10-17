@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Techno Tim",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-16T20:34:03.703328+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-16T17:07:49+00:00",
+        "description": "Did you know Linux can cache NFS files on a local SSD? I somehow missed this feature, so I decided to try it out.\n\nIn this video, I'll show you how to set up FS-Cache, CacheFiles, and cachefilesd on Ubuntu, how caching and eviction work, and how much faster repeated reads can be.\n\nIn my testing, reading 155 GiB of files over NFS while filling the local cache took 565 seconds even over 10 gig. Reading those same files again from the SSD cache took just 93 seconds, about 6x faster! I cleared the RAM cache between tests to make sure the improvement came from the local SSD.\n\nVideo Notes & Tutorial: https://technotim.com/posts/cache-nfs-files-locally-with-linux-fs-cache-and-cachefiles/\n\nMerch Shop \ud83d\udecd\ufe0f: https://l.technotim.com/shop\nSupport me on Patreon: https://www.patreon.com/technotim\nSponsor me on GitHub: https://github.com/sponsors/timothystewart6\nSubscribe on Twitch: https://www.twitch.tv/technotim\nBecome a YouTube member: https://www.youtube.com/channel/UCOk-gHyjcWZNj3Br4oxwh0A/join\nG",
+        "id": 6611791,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=KVNAp7MAApc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 911,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCOk-gHyjcWZNj3Br4oxwh0A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/KVNAp7MAApc/hqdefault.jpg",
+        "title": "I Didn't Know Linux Could Cache NFS Files Locally",
+        "vote": 0
+    }
+]

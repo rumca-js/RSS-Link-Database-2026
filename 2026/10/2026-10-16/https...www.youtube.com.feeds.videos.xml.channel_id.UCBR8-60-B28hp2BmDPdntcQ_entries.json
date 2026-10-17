@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "YouTube",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-16T07:24:21.833660+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-16T00:30:27+00:00",
+        "description": "stream the 2026 show this sunday, live on YouTube",
+        "id": 6609640,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/8Pae6Wy1abE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 794,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCBR8-60-B28hp2BmDPdntcQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/8Pae6Wy1abE/hqdefault.jpg",
+        "title": "because the Victoria Secret Fashion Show IS that serious",
+        "vote": 0
+    }
+]

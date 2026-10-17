@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "3Blue1Brown",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-16T17:30:40.529384+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-16T16:15:20+00:00",
+        "description": "Sharing a few thoughts on the future of math\nThese videos are funded directly by viewers: https://3b1b.co/support\nAn equally valuable form of support is to simply share the videos.\nHome page: https://www.3blue1brown.com\n\nIf you want a finger on the pulse of how mathematicians are feeling right now, take a look at this post on Proofs and Prompt: \nhttps://proofsandprompts.com/2026/10/08/100-reactions-to-100-solutions/\n\nTimestamps\n0:00 - Math student angst\n3:10 - How does math work?\n11:24 - A proof machine\n25:12 - A conjecture machine\n26:59 - A theory machine\n31:31 - If AI is better at everything\n34:58 - The best time to enter math\n\nSecret Endscreen Vlog: https://youtu.be/9j7IZFKP96o\n\n------------------\n\nThese animations are largely made using a custom Python library, manim.  See the FAQ comments here:\nhttps://3b1b.co/faq#manim\n\nMusic by Vincent Rubinetti.\nhttps://vincerubinetti.bandcamp.com/album/the-music-of-3blue1brown\nhttps://open.spotify.com/album/1dVyjwS8FBqXhRunaG5W5u\n\n-----------",
+        "id": 6611180,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 884,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYO_jab_esuFRV4b17AJtAw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/LKrwhjOI8Nc/hqdefault.jpg",
+        "title": "There's never been a better time to go into math",
+        "vote": 0
+    }
+]

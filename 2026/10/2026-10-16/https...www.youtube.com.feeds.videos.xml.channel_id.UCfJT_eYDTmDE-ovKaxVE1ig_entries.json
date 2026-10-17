@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kevin Stratvert",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-16T22:00:32.226235+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-16T12:00:35+00:00",
+        "description": "Can the Surface Laptop Ultra run AI without an internet connection\u2014even generate videos on battery? I test offline document chat in LM Studio, image generation in ComfyUI, and image-to-video generation with LTX 2.3. Then I compare the same video generation job plugged in and on battery, and explain who this laptop makes sense for.\n\nHost: Kevin Stratvert\nDisclosure: Microsoft provided this laptop for me to review, and I get to keep it.\n\n\ud83d\udcda RESOURCES\n- Surface Laptop Ultra: https://www.microsoft.com/en-us/surface/devices/surface-laptop-ultra\n- LM Studio: https://lmstudio.ai/\n- ComfyUI: https://comfyui.kevinstratvert.com\n\n\u231a TIMESTAMPS\n0:00 - Introduction\n0:38 - Why run AI locally?\n1:32 - Chat with a document offline\n3:33 - Generate an image with ComfyUI\n4:28 - Turn an image into a video\n5:38 - Battery performance test\n6:38 - Who is the Surface Laptop Ultra for?\n7:38 - Price and final thoughts\n\n\ud83d\udcfa RELATED VIDEOS\n- My ComfyUI tutorial: https://youtu.be/hl7kwMwkLJU\n\n\ud83d\udce9 NEWSLETTER\n- Get the lat",
+        "id": 6612104,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=ExOodQdeBo4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 958,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfJT_eYDTmDE-ovKaxVE1ig",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/ExOodQdeBo4/hqdefault.jpg",
+        "title": "Surface Laptop Ultra: Who Is This Actually For?",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Christopher Hall",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-16T15:08:48.051145+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-16T11:00:00+00:00",
+        "description": "Our tech expert outlines the risks \u2013 and the strategies to combat them",
+        "id": 6610824,
+        "language": "en-UK",
+        "link": "https://www.telegraph.co.uk/recommended/home/secure-smart-home-devices",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 81,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 357,
+        "source_url": "https://www.telegraph.co.uk/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Are my smart home devices always watching me? How to stay safe (and private) in a connected house",
+        "vote": 0
+    }
+]
