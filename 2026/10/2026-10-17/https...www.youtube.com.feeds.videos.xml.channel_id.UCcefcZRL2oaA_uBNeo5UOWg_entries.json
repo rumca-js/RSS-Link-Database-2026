@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-17T23:37:51.923041+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-17T14:00:30+00:00",
+        "description": "This week\u2019s Paper Club is all about AI safety - not the headlines, the science. AI safety has been a research field for decades, with its own conferences, methods, and a track record in systems like aircraft collision avoidance, where the standard is one catastrophic failure per billion flight hours.\n\nIn this episode we'll hear from Clark Barrett and Mykel Kochenderfer, Stanford professors and co-directors of the Stanford Center for AI Safety.\u00a0 Together with Francois they'll discuss what actually happened in the OpenAI\u2013Hugging Face incident versus what got reported, how automated reasoning can mathematically prove that code cannot be hacked, how the stress-testing methods built to validate aircraft are now being turned on language models, and why we might need an NTSB for AI.\n\nJoin us for the next Paper Club on October 21st, where we'll talk Inference: https://events.ycombinator.com/yc-paperclub-oct21\n\nChapters:\n00:00 - Science fiction vs. science fact\n04:32 - Engineering problem, or ",
+        "id": 6616117,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=X7oI4Umt3DU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/X7oI4Umt3DU/hqdefault.jpg",
+        "title": "AI Safety Fact vs. Fiction | YC Paper Club",
+        "vote": 0
+    }
+]

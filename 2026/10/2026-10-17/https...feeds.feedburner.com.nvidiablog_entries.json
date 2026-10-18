@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Shreevar Rastogi",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-18T02:05:38.957140+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-17T21:00:13+00:00",
+        "description": "NVIDIA RTX Spark laptops are now available, bringing NVIDIA Blackwell RTX graphics, up to 128GB of unified memory and the full NVIDIA AI platform to slim, premium Windows PCs.\u00a0 Starting at $2,399, laptops from ASUS, Dell, HP, Lenovo, Microsoft and MSI bring powerful local AI, content creation and gaming capabilities to a portable device, with [&#8230;]",
+        "id": 6616504,
+        "language": "en-US",
+        "link": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 1019,
+        "source_url": "https://feeds.feedburner.com/nvidiablog",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://blogs.nvidia.com/wp-content/uploads/2026/10/nvidia-rtx-spark-berlin-oct26-event-tech-blog-1280x680-1-842x450.jpg",
+        "title": "RTX Spark Ignites Global Celebration as New Windows PCs Arrive",
+        "vote": 0
+    }
+]

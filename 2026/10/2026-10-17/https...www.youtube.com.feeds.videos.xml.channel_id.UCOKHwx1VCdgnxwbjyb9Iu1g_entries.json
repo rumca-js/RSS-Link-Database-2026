@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Blender Guru",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-17T10:10:20.400660+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-17T01:55:40+00:00",
+        "description": "Full tutorial on how to model, texture, light and animate a private jet in Blender.\n\n==\ud83d\udd17Links and Resources==\nOfficial post with Unstuck Yourself Guide: https://www.blenderguru.com/posts/2026/10/14/how-to-make-a-private-jet\nBlender Guru Discord: https://blenderguru.com/discord\nDownload the finished .blend and HDRIs: https://www.poliigon.com/jet (paid)\nDownload PureRef: https://pureref.com/download.php\nDownload my PureRef Reference Board: https://drive.google.com/file/d/1iZp2V9X9U2EUdv1i7qYtFRabIMj8Qxa7/view?usp=sharing\nDownload the Blueprints: https://drive.google.com/file/d/1j1LRbgfFlt5FyKQYk19jG8p93GMJAeB5/view?usp=sharing\nDownload my Plane Texture: https://drive.google.com/file/d/1OIe0YbuU3KA6kj8H9xc1btfBQQP-HFc8/view?usp=sharing\nDownload my Rivet Generator.blend: https://drive.google.com/file/d/1UDE3d2-jylTL_UxkaZCh507Efj52nHtu/view?usp=sharing\nChris Plush\u2019s Car Modeling Course: https://gumroad.com/a/350356435/cgzfo\nThe 3D Space Mouse: https://amzn.to/4ee3VVO\nTripo - 500 free cred",
+        "id": 6613891,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=4wxmKLDhsnQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 500,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCOKHwx1VCdgnxwbjyb9Iu1g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/4wxmKLDhsnQ/hqdefault.jpg",
+        "title": "How to make a private jet in Blender",
+        "vote": 0
+    }
+]

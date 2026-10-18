@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Meeting C++",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-17T19:01:23.601126+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-17T10:00:45+00:00",
+        "description": "<p>\n\tPart four in the new C++ content series, visiting the heap. <a href=\"https://meetingcpp.com/2026\">Meeting C++ 2026</a> is only 6 weeks away!</p>\n<blockquote>\n\t<h2>\n\t\t<a href=\"https://meetingcpp.com/blog/items/A-quick-Cpp-standard-container-overview.html\">A quick C++ standard container overview</a></h2>\n\t<p>\n\t\tby Jens Weller</p>\n</blockquote>\n<p>\n\tFrom the article:</p>\n<blockquote>\n\t<p>\n\t\tThe last entry looked at heap allocations, but one important part about heap allocations was missing: hidden allocations. Often you don&#39;t allocate directly, but a used class does. The C++ containers and string classes are the perfect example of this. Allocations for containers in the standard are done via allocators, which usually means heap allocations. These can be categorized as node based, chunk based and continuous memory containers...</p>\n</blockquote>",
+        "id": 6615473,
+        "language": "en",
+        "link": "https://isocpp.org//blog/2026/10/a-quick-cpp-standard-container-overview",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "A quick C++ standard container overview",
+        "vote": 0
+    }
+]

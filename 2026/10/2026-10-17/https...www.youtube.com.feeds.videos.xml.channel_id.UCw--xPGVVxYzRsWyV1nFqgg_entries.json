@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Daniel Greene",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-17T20:09:27.713373+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-17T16:00:30+00:00",
+        "description": "This is a bit different for the channel, but I wanted to take a look at an author beef I had never heard of before looking into famous author feuds. The legendary Gore Vidal, and his friend enemy Norman Miller",
+        "id": 6615606,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=Z_bVHkh_k30",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 90,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCw--xPGVVxYzRsWyV1nFqgg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/Z_bVHkh_k30/hqdefault.jpg",
+        "title": "Norman Mailer Was A Violent Creep",
+        "vote": 0
+    }
+]

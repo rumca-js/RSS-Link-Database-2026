@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ACCU Conference",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-17T20:38:14.259408+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-17T12:38:34+00:00",
+        "description": "ACCU Membership: https://tinyurl.com/ydnfkcyn\n---\n\nThe Not-So-Hidden Corners of C++ ABI Stability - Luis Caro Campos - ACCU 2026\n---\n\nThe ISO C++ Committee has traditionally aimed for ABI stability in C++, which was recently reaffirmed as an explicit design principle after years of arguments both for and against.\n\nPast ABI incompatibilities remain in the collective memory of C++ developers, such as the C++11 libstdc++ update and the frequent Visual C++ ABI breaks prior to the release of Visual Studio 2015. This past experience shows us how sensitive the ecosystem is to ABI updates\u2014in ways that affect not only C++ developers but other ecosystems as well, most notably Python.\n\nThis talk provides an overview of past ABI breaks while challenging the assumption that a future, explicit ABI break would be equally problematic.\n\nOn the one hand, it may be argued that we haven\u2019t had a significant disruption for about a decade, since both the C++ standard and compiler vendors have been very care",
+        "id": 6615704,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=3nd4RIH5okA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 421,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJhay24LTpO1s4bIZxuIqKw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/3nd4RIH5okA/hqdefault.jpg",
+        "title": "The Not-So-Hidden Corners of C++ ABI Stability - Luis Caro Campos - ACCU 2026",
+        "vote": 0
+    }
+]
