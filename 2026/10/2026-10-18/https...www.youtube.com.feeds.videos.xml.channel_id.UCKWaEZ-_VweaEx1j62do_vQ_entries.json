@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-18T16:34:03.969860+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-18T11:00:00+00:00",
+        "description": "Learn more about the Memory Wall here \u2192 https://ibm.biz/~NjOWdJHJy\n\nMore GPU compute doesn't always mean faster AI models.\n Kaoutar El Maghraoui explains the memory wall, arithmetic intensity, and why LLM inference can become memory-bound or compute-bound.\n Learn how memory bandwidth, batching, and the roofline model impact AI performance.\n\n00:00 Why Faster Chips Don\u2019t Always Make AI Workloads Faster\n00:32 The Memory Wall: The Hidden Bottleneck in Modern Computing\n01:00 Compute Growth vs Memory Bandwidth Explained\n02:39 Arithmetic Intensity: The Metric That Predicts Performance\n03:48 Understanding the Roofline Model for AI Optimization\n05:27 Compute-Bound vs Memory-Bound Workloads Explained\n08:25 LLM Decode vs Prefill: Why Performance Varies\n09:48 How Batching Improves AI Inference Efficiency\n10:35 Why Leading LLM Serving Systems Rely on Continuous Batching\n11:22 Practical Steps to Diagnose and Optimize AI Performance\n\nAI news moves fast. Sign up for a monthly newsletter for AI update",
+        "id": 6618832,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=4b6KpFN7Rio",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/4b6KpFN7Rio/hqdefault.jpg",
+        "title": "The AI Memory Wall: Why LLMs & AI Accelerators Hit a Bottleneck",
+        "vote": 0
+    }
+]

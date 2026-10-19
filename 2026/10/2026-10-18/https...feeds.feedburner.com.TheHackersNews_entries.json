@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-18T09:22:53.457416+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-18T09:22:30.129066+00:00",
+        "description": "ConnectWise on Saturday said it has disabled seven ConnectWise application identities as it continues its investigation into an incident in which unknown threat actors obtained unauthorized access to the application identities and compromised Microsoft 365 tenants.\n\nThe disabled identities are listed below -\n\n\n  ConnectWise Cloud Backup - 506e08f9-6e9a-4da4-942b-a099a03644ae\n  ConnectWise",
+        "id": 6617533,
+        "language": "en-US",
+        "link": "https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 343,
+        "source_url": "https://feeds.feedburner.com/TheHackersNews",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants",
+        "vote": 0
+    }
+]

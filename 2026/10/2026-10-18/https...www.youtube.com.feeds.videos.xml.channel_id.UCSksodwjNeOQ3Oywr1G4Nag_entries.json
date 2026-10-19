@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Engineezy",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-18T16:37:49.312852+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-18T12:35:31+00:00",
+        "description": "Is it a straight line or a circle?\n\u2022\u2022\u2022\nEven though the dots trace a straight line, the whole thing is caused by interesting rotational geometry. Underneath the panel there's a 30-tooth gear rolling around inside a 60-tooth ring gear, exactly twice its size. When a gear rolls inside a ring twice its size, every point on its pitch circle travels in a perfectly straight line, so there's a magnet at each of those points dragging a dot back and forth on top of a solid panel. The circle you see is really just that hidden gear, traced out by eight dots. It's called a Tusi couple.\n\u2022\u2022\u2022\n#engineering #mechanicalengineering #mechanisms #gears #kineticart",
+        "id": 6618864,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/Zt7QwZzxNrQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 858,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSksodwjNeOQ3Oywr1G4Nag",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/Zt7QwZzxNrQ/hqdefault.jpg",
+        "title": "Interesting Mechanical Illusion",
+        "vote": 0
+    }
+]
