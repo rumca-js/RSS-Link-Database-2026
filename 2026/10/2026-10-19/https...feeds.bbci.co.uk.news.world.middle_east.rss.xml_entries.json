@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-19T10:44:18.096923+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-19T10:34:18+00:00",
+        "description": "It comes after masked settlers attacked Palestinians and European officials visiting the West Bank during olive harvesting season.",
+        "id": 6622647,
+        "language": "en-gb",
+        "link": "https://www.bbc.co.uk/news/articles/cqn7323p0dxyo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 525,
+        "source_url": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1dc7/live/fa421aa0-cba3-11f1-9a39-31b474234113.jpg",
+        "title": "Israeli police arrest 10 over settler attacks on journalist and diplomats in West Bank",
+        "vote": 0
+    }
+]

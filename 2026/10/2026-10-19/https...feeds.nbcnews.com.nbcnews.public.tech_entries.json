@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Rob Wile",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-19T15:02:38.132634+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-19T14:39:38+00:00",
+        "description": "Elon Musk and officials at AI giant Anthropic are pledging to give coveted shares in their companies to the general public as concerns about AI\u2019s economic and societal impact continue to pile up.",
+        "id": 6624369,
+        "language": "en-US",
+        "link": "https://www.nbcnews.com/tech/tech-news/elon-musk-anthropic-make-promises-give-public-piece-ai-pie-rcna604313",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 223,
+        "source_url": "https://feeds.nbcnews.com/nbcnews/public/tech",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-10/261019-elon-musk-mn-0845-6be1a3.jpg",
+        "title": "Elon Musk and Anthropic make promises to give the public a piece of the AI pie",
+        "vote": 0
+    }
+]

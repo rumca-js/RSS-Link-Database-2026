@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mateusz Chrobok",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-19T07:18:39.557835+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-19T04:27:34+00:00",
+        "description": "Fragment odcinka \"Czy passkeys nadal s\u0105 bezpieczne?\" \n\nhttps://www.youtube.com/watch?v=n5uayUA9Jws #shorts",
+        "id": 6621813,
+        "language": "pl-PL",
+        "link": "https://www.youtube.com/shorts/Esm8wD7YzG4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 211,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTTZqMWBvLsUYqYwKTdjvkw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/Esm8wD7YzG4/hqdefault.jpg",
+        "title": "\ud83d\udd11 Jak dzia\u0142a uwierzytelnianie?",
+        "vote": 0
+    }
+]

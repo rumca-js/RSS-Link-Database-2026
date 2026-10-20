@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Artie Beaty",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-19T18:13:16.582372+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-19T16:59:56+00:00",
+        "description": null,
+        "id": 6625740,
+        "language": "en-US",
+        "link": "https://www.zdnet.com/tech/how-to-find-flock-cameras-nearby-mapquest-surveillance-layer",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 406,
+        "source_url": "https://www.zdnet.com/news/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.zdnet.com/wp-content/uploads/sites/3/IMG_20261019_113609.jpg",
+        "title": "How to find Flock cameras near you with MapQuest\u2019s new \u2018surveillance layer\u2019",
+        "vote": 0
+    }
+]

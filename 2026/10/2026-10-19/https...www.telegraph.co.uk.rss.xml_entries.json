@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Anne Gulland",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-19T15:44:12.119712+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-19T15:10:38+00:00",
+        "description": "Climate change is responsible for pushing the disease further northwards, researchers says",
+        "id": 6624729,
+        "language": "en-UK",
+        "link": "https://www.telegraph.co.uk/global-health/science-and-disease/europe-records-highest-ever-number-of-west-nile-virus-cases",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 81,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 357,
+        "source_url": "https://www.telegraph.co.uk/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Europe records highest ever number of West Nile Virus cases",
+        "vote": 0
+    }
+]

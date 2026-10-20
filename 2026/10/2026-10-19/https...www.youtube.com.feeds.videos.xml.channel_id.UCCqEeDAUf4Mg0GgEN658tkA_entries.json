@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Chris Stuckmann",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-19T15:53:13.413052+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-19T14:00:25+00:00",
+        "description": "Chris Stuckmann reviews Spirited Away, starring Rumi Hiiragi, Miyu Irino, Mari Natsuki, Takashi Nait\u00f4, Yasuko Sawaguchi. Directed by Hayao Miyazaki.",
+        "id": 6624775,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=RiXFGYK4Sxw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 618,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCqEeDAUf4Mg0GgEN658tkA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/RiXFGYK4Sxw/hqdefault.jpg",
+        "title": "Spirited Away (25th Anniversary) - Movie Review",
+        "vote": 0
+    }
+]

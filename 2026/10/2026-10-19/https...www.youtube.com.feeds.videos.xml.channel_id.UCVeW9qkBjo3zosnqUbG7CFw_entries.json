@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Hammond",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-19T18:41:07.776013+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-19T16:57:30+00:00",
+        "description": "AI agents are changing how people approach security research, and the implications go beyond just writing code.\n\nI've been seeing that shift firsthand. The way we find vulnerabilities, investigate systems, and work through security problems is changing fast.\n\nFull video: https://youtu.be/xHDc6-7bjyw?si=UHNB1-VcTJH5XaxV",
+        "id": 6625883,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/Y5qGcF-BNLM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 959,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVeW9qkBjo3zosnqUbG7CFw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/Y5qGcF-BNLM/hqdefault.jpg",
+        "title": "AI Changes Security Research",
+        "vote": 0
+    }
+]

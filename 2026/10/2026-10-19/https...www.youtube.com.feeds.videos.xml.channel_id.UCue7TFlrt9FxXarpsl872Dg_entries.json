@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unreal Sensei",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-19T17:41:59.868764+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-19T16:42:33+00:00",
+        "description": "Unreal Engine 5 2026 tutorial for beginners! In this free tutorial we will go over everything you need to know to get started in Unreal Engine 5.8. Specifically we will focus on connecting AI to Unreal so you can start building video games today with no programming experience. You will learn how to navigate the 3D viewport, create materials and worlds, sculpt landscapes, paint foliage, program in Unreal using Blueprints, connect AI through the MCP, AI generate C++ game code, and end with creating a photorealistic world in real time. \n\nCheck out the Unreal Masterclass for exclusive lessons:\nhttps://www.unrealmasterclass.com\n\nDownloadable Assets to Follow the Tutorial:\nhttps://www.unrealsenseiacademy.com/pl/2148851340\n\nFollow on Twitter!\nhttps://x.com/unrealsensei\n\nChapters:\n0:00 - Intro\n2:05 - Create a Project\n5:06 - User Interface\n12:24 - Movement\n14:48 - Viewport Settings\n19:23 - Moving and Creating Objects\n29:54 - Post Process and Camera Exposure\n35:58 - Lighting with Lumen!\n50:36 -",
+        "id": 6625552,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=e83pKSlfGR0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 542,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCue7TFlrt9FxXarpsl872Dg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/e83pKSlfGR0/hqdefault.jpg",
+        "title": "Unreal Engine 5 Beginner Tutorial 2026 - UE5 Starter Course",
+        "vote": 0
+    }
+]

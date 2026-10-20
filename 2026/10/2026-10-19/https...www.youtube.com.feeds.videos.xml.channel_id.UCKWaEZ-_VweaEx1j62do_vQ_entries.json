@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-19T13:02:45.260725+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-19T11:00:06+00:00",
+        "description": "Learn more about Loop Engineering here \u2192 https://ibm.biz/~LqlzZo42O\n\nAI agents need more than one perfectly written prompt. Martin Keen explains loop engineering and how AI agents act, observe, adjust, and repeat toward measurable goals. Learn how context, tools, subagents, and human oversight make agentic loops work.\n\n 00:00 \u2013 Understand Loop Engineering vs Prompt Engineering\n 01:18 \u2013 Build an AI Agent Loop Around a Goal\n 02:30 \u2013 Define Goals AI Agents Can Actually Verify\n 03:29 \u2013 Engineer Triggers, Schedules & Hooks\n 04:18 \u2013 Manage Agent Context, Skills & Persistent State\n 05:37 \u2013 Give AI Agents Tools with MCP & APIs\n 06:10 \u2013 Use Subagents to Check AI Agent Work\n 07:11 \u2013 Keep Humans Inside Agentic Loops\n 07:49 \u2013 Avoid Comprehension & Intent Debt\n 10:05 \u2013 Define the Human Role in Loop Engineering\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/~FCnbZpRqy\n\nAI was used in the creation of the transcript and metadata for this video.\n\n#loope",
+        "id": 6623491,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=DQBqh6gcx7U",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/DQBqh6gcx7U/hqdefault.jpg",
+        "title": "What Is Loop Engineering? Building Better AI Agents",
+        "vote": 0
+    }
+]
