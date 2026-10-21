@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Learn Linux TV",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-20T21:06:41.163195+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-20T18:45:33+00:00",
+        "description": "Check out my \"dnf install coffee\" shirt! \u279c https://merch.learnlinux.tv/products/dnf-install-coffee-t-shirt\n\nWhat\u2019s next for AlmaLinux OS? In this video, I sit down with benny, Chair of the Board of Directors for the AlmaLinux OS Foundation, to talk about where the project is today and where it\u2019s headed.\n\nWe cover a lot of ground: how AlmaLinux handled three back-to-back Linux kernel CVEs, the role Special Interest Groups (SIGs) play in the project, a new way for vendors to certify their hardware, open-source NVIDIA drivers, the AlmaLinux GNOME image, and how the \u201cCreative Installer\u201d fits into my own content creation workflow. We also get into how AlmaLinux leadership elections work, the story behind the slogan \u201cNo Drama, Just Linux,\u201d how AI is affecting the project, and what the future looks like for 32-bit builds.\n\n*\ud83d\udcda Discounts, Courses, Books, and More! (Support Linux Learning)*\n- Save 30% (or more) on Linux Foundation certs! \u279c https://www.awin1.com/cread.php?awinmid=85919&awinaffid",
+        "id": 6634124,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=hk0Lgf_sazw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 997,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxQKHvKbmSzGMvUrVtJYnUA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/hk0Lgf_sazw/hqdefault.jpg",
+        "title": "Everything New with AlmaLinux OS: A Talk with benny",
+        "vote": 0
+    }
+]

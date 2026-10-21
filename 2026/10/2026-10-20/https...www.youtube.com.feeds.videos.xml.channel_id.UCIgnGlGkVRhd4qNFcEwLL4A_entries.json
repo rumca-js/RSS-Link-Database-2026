@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "AI Search",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-20T09:02:11.842475+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-20T03:24:08+00:00",
+        "description": "MOSS Image review & tutorial. How to use MOSS Image in ComfyUI. How to edit images with MOSS. Thanks to our sponsor Higgsfield. Try it today https://higgsfield.ai/s/theaisearch-rxYPHC\n\n#ai #aiart #imagegenerator #aitools #ainews #agi\n\nhttps://huggingface.co/Comfy-Org/MOSS-Image\nhttps://huggingface.co/lodestones/MOSS-Image-SFT-8-steps-dmd/blob/main/lora.safetensors\nhttps://huggingface.co/lodestones/Kromoss\nhttps://github.com/ostris/ai-toolkit\n\nAlso see\nComfyUI tutorial: https://youtu.be/g74Cq9Ip2ik\nKrea2 tutorial: https://x.com/aisearchio/status/2075660074308313598\nIdeogram4 tutorial: https://youtu.be/OA4gchz1Zcs\n\n00:00 MOSS Image intro\n00:37 Specs and demos\n02:14 MOSS Image vs Krea 2\n03:01 How to use MOSS in ComfyUI\n08:33 How to use layout control\n11:03 Higgsfield\n12:30 How to add loras\n15:20 Better checkpoints\n16:05 How to make it faster\n17:50 How to edit images\n20:28 How to train loras\n\n\nSee my X for more AI updates: https://x.com/aisearchio\n\nNewsletter: https://aisearch.substack.co",
+        "id": 6629378,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=cUeZMUGCxrw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 806,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIgnGlGkVRhd4qNFcEwLL4A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/cUeZMUGCxrw/hqdefault.jpg",
+        "title": "New top local AI image generator is here!",
+        "vote": 0
+    }
+]

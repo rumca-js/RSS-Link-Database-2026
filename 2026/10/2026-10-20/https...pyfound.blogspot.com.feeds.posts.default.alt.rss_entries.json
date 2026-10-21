@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-20T16:29:47.254566+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-20T16:29:17+00:00",
+        "description": "<p>In February 2026, the Python Software Foundation (PSF) made the PSF, Python, and Jython wikis read-only due to excessive automated traffic and security concerns on outdated infrastructure. This sudden change was disruptive to the many community members who rely on and contribute to these wikis. We are pleased to share that we have stood up new wikis through GitHub Pages that address the automated traffic and security concerns. The new wikis will have a more modern front-end, as well as a permissions-based content management system (CMS) for community members to make updates.</p>\n\n<p>Find the new wikis here:</p>\n<ul>\n  <li><a href=\"https://psf.github.io/wiki/psf/index.html\">PSF Wiki</a></li>\n  <li><a href=\"https://psf.github.io/wiki/index.html\">Python Wiki</a></li>\n  <li><a href=\"https://psf.github.io/wiki/jython/index.html\">Jython Wiki</a></li>\n</ul>\n\n<h2>More details and context</h2>\n\n<h3>Excessive automated traffic</h3>\n<p>With the old wiki structure, we received a large volume o",
+        "id": 6632265,
+        "language": "en",
+        "link": "https://pyfound.blogspot.com/2026/10/wikis-relaunched.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 267,
+        "source_url": "https://pyfound.blogspot.com/feeds/posts/default?alt=rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Wikis: Relaunched!",
+        "vote": 0
+    }
+]

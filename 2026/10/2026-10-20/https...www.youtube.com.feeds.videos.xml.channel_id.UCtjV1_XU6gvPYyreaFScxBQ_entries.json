@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Huawei",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-20T08:54:52.269535+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-20T08:47:25+00:00",
+        "description": "\ud83e\udd1d A shared language = direct communication. \ud83c\udfac See how thousands of #AI computing resources can work together. #Huawei #UnifiedBus #ProgrammersDay",
+        "id": 6629333,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=JY9Gjqa-CaE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 875,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtjV1_XU6gvPYyreaFScxBQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/JY9Gjqa-CaE/hqdefault.jpg",
+        "title": "How Can AI Computing Resources Speak the Same Language?",
+        "vote": 0
+    }
+]

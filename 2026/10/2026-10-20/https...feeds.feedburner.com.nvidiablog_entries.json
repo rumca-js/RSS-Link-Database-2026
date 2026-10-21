@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Tobias Halloran",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-20T07:58:51.961644+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-20T05:00:00+00:00",
+        "description": "The Barcelona Supercomputing Center (BSC)\u2019s AI Factory Accelerator Programme, now in full operation following a pilot initiative, gives startups access to sovereign compute, technical support and training to support innovation across industries.\u00a0 Many of these companies are also members of the NVIDIA Inception program for cutting-edge startups \u2014 and as of today, access to some [&#8230;]",
+        "id": 6629134,
+        "language": "en-US",
+        "link": "https://blogs.nvidia.com/blog/spain-startups-barcelona-supercomputing-center",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 1019,
+        "source_url": "https://feeds.feedburner.com/nvidiablog",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://blogs.nvidia.com/wp-content/uploads/2026/10/spain-startups-bsc-1920x1080-1-842x450.jpg",
+        "title": "Spain-Based Startups Advance Regional Innovation With Barcelona Supercomputing Center",
+        "vote": 0
+    }
+]

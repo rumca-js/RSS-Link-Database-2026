@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Leila Gharani",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-20T11:05:31.676110+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-20T09:00:18+00:00",
+        "description": "Microsoft blocked BypassNRO. Here is the official way to switch to a local account.\n\ud83c\udf93 FREE COURSE: Master Windows 11 Essentials for Work: https://www.xelplus.com/course/windows-essentials-for-work/?utm_source=yt-video&utm_medium=vid-description&utm_campaign=windows-essentials&utm_content=local-account\n\n\ud83d\udce5 Quick Reference: Download the free Windows 11 Keyboard Shortcuts PDF \ud83d\udc49 https://www.xelplus.com/windows-11-keyboard-shortcuts-pdf-download/?utm_source=yt-video&utm_medium=vid-description&utm_campaign=download-windows-shortcuts&utm_content=local-account#download\n\nYou don't need a Microsoft account to use Windows 11. On an existing PC, go to Settings \u2192 Accounts \u2192 Your info and select \"Sign in with a local account instead\". This is Microsoft's own documented option, and you can switch back any time. Before you switch, back up your BitLocker recovery key. It's saved in your Microsoft account, and if Windows ever asks for it, your PC won't start without it.\n\nOn a new PC, the old Command Pro",
+        "id": 6629964,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=T2MH5z2ZjNU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 957,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJtUOos_MwJa_Ewii-R3cJA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/T2MH5z2ZjNU/hqdefault.jpg",
+        "title": "Microsoft Blocked the Local Account Trick (Do THIS Instead)",
+        "vote": 0
+    }
+]

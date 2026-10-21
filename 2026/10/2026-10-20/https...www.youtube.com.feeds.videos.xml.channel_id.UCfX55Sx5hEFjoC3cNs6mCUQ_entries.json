@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Foundation",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-20T19:42:44.997571+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-20T17:06:48+00:00",
+        "description": "Sponsored by YugabyteDB\n\nEvery agent session starts cold. Compaction drops the early decisions, a system crash loses your spot, and the next run (or the next agent) has to re-derive what was happening.\n\nThis webinar will share what teams are converging on for agents that outlive their context window. Keeping state outside the window, handing off before it fills up, and verifying when resuming the work the next day. We will show how a coding agent hits its limit mid-task and hands off to a second agent on another coding harness, which picks up the previous task without needing to reopen settled decisions or retry rejected fixes.\n\nWe will discuss agentic context handoff through an agent skill as well as through a deterministic harness hook.\n\nYou will also see how both flows can break, so you can leave the session able to identify a successful and accurate way to resume work with your LLM.\n\nQuestions this webinar answers:\nWhat context does a long-running agent need to keep between sessio",
+        "id": 6633655,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=GVlHfknD1po",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 499,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfX55Sx5hEFjoC3cNs6mCUQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/GVlHfknD1po/hqdefault.jpg",
+        "title": "LF Live Webinar: How Context Works for Long-Running Agents: From Cold Start to Resume",
+        "vote": 0
+    }
+]

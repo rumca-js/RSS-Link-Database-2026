@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Chris Titus Tech",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-20T13:59:30.349323+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-20T11:15:06+00:00",
+        "description": "Everyone's calling PhotoCraft a Photoshop clone or dismissing it as AI slop. After putting it to work, I think they're missing what makes it different.\n\nIn this video, I connect an AI agent to PhotoCraft and use prompts to edit a layered image, change backgrounds, and work with masks and effects. You'll see what works, what needs manual cleanup, and why this workflow has me switching photo editors.\n\nI also investigate the project's development, revisit a bug I reported, and test whether the latest release actually fixes it.\n\nCovered in this video:\n- AI-assisted editing with live previews in PhotoCraft\n- Working with layers, masks, backgrounds, and shadows\n- Where automation helps and where manual editing still matters\n- Development activity, community contributions, and bug fixes\n- Why I think PhotoCraft deserves more than a quick Photoshop comparison\n\nSponsored by Firecrawl. Check out its free plan:\nhttps://link.christitus.com/firecrawl\n\nWould you switch from Photoshop to PhotoCraft?",
+        "id": 6631136,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=g1qNCcxFWRo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 444,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCg6gPGh8HU2U01vaFCAsvmQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/g1qNCcxFWRo/hqdefault.jpg",
+        "title": "Everyone Missed What PhotoCraft Can Actually Do",
+        "vote": 0
+    }
+]

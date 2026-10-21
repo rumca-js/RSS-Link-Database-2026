@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Web Dev Simplified",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-21T00:43:52.973978+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-20T22:00:20+00:00",
+        "description": "Permissions are at the core of nearly every project, but most people don\u2019t spend more than a few minutes thinking about them which results in difficult to use and error prone code. In this video I will be covering all the permission systems you need to be aware of and showing you how to choose the perfect system for your application.\n\n\n\ud83d\udcda Materials/References:\n\nPermissions Workshop: https://master.dev/courses/permission-systems/?utm_source=webdevsimplified&utm_medium=youtube&utm_campaign=permission-systems&code=webdevsimplified\nHow To Build Permissions From Scratch: https://youtu.be/gL3BJ8_5Jz8\n\n\n\ud83c\udf0e Find Me Here:\n\nMy Blog: https://blog.webdevsimplified.com\nMy Courses: https://courses.webdevsimplified.com\nPatreon: https://www.patreon.com/WebDevSimplified\nTwitter: https://twitter.com/DevSimplified\nDiscord: https://discord.gg/7StTjnR\nGitHub: https://github.com/WebDevSimplified\nCodePen: https://codepen.io/WebDevSimplified\n\n\n\u23f1\ufe0f Timestamps:\n\n00:00 - Introduction\n01:01 - What We Will Cover\n02:",
+        "id": 6635215,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=FbXPaIcpvww",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 994,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFbNIlppjAuEX4znoulh0Cw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/FbXPaIcpvww/hqdefault.jpg",
+        "title": "How To Design The Perfect Auth System In The Age of AI",
+        "vote": 0
+    }
+]

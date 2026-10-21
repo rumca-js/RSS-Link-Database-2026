@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Sourav Rudra",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-20T08:46:07.722119+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-20T08:13:49+00:00",
+        "description": "Scope is for teams that maintain SDKs, docs, or MCP servers and want to see where coding agents get stuck.",
+        "id": 6629292,
+        "language": "en-US",
+        "link": "https://itsfoss.com/news/microsoft-scope-self-hosted-agent-testing",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 156,
+        "source_url": "https://news.itsfoss.com/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://itsfoss.com/content/images/2026/10/scope-launch-banner.png",
+        "title": "Microsoft\u2019s AI Coding Agent Testing Tool Has Been Open-Sourced",
+        "vote": 0
+    }
+]

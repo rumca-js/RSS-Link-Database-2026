@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mario Trujillo",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-20T22:17:56.029728+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-20T21:46:42+00:00",
+        "description": "<div class=\"field field--name-body field--type-text-with-summary field--label-hidden\"><div class=\"field__items\"><div class=\"field__item even\"><p>In a victory for data privacy, <a href=\"https://www.eff.org/document/afge-v-opm-opinion-and-order-0\">a federal court in New York definitively ruled</a> that the Office of Personnel Management (OPM) violated the law when it disclosed millions of federal employee records to DOGE agents. In a summary judgment ruling issued on October 20, 2026, the court found that OPM violated two provisions of the Privacy Act\u2014one restricting disclosure of personal records between agencies and another requiring agencies to protect the security and confidentiality of records.</p>\n<p>Since the case was filed, many DOGE agents have left the government and OPM has rescinded their database access. However, OPM should still clean up the cybersecurity mess it created. The court will decide the remedy at a later date.</p>\n<p>\"By virtue of the Court\u2019s summary judgment ru",
+        "id": 6634432,
+        "language": "en",
+        "link": "https://www.eff.org/deeplinks/2026/10/victory-court-rules-opms-disclosure-personal-records-doge-unlawful",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 101,
+        "source_url": "https://www.eff.org/rss/updates.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Victory! Court Rules OPM Data Disclosure to DOGE Is Unlawful",
+        "vote": 0
+    }
+]

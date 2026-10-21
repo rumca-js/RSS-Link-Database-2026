@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-20T19:05:12.263687+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-20T16:00:19+00:00",
+        "description": "Learn more about New Frontier AI Models here \u2192 https://ibm.biz/~QV9RAqelj\n\nA confident AI decision isn't necessarily a trustworthy one. Jeff Crume examines Jev through a cybersecurity lens, from attack surfaces and poisoned inputs to observability and verification. Learn why AI decisions need evidence, auditability, and human oversight.\n\n 00:00 \u2013 Question Whether AI Confidence Can Be Trusted\n 00:26 \u2013 Understand the Problem with Jev\n 01:47 \u2013 Compare Jev Decisions with LLM Outputs\n 02:48 \u2013 Separate AI Confidence from Evidence\n 03:37 \u2013 See How Jev Changes the AI Attack Surface\n 05:54 \u2013 Build Observability Around AI Decisions\n 07:00 \u2013 Break AI Decisions Into Verifiable Steps\n 08:30 \u2013 Understand Why AI Predictions Are Hard to Verify\n 10:38 \u2013 Secure Jev with Independent Controls\n 11:29 \u2013 Verify AI Decisions Before You Trust Them\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/~hldgvLLwI\n\nAI was used in the creation of the transcript and metada",
+        "id": 6633375,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=_yO_Q7qo0HQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/_yO_Q7qo0HQ/hqdefault.jpg",
+        "title": "The Problem with Jev: Can You Trust AI Decisions?",
+        "vote": 0
+    }
+]
