@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "FilmCow",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-21T22:43:42.412758+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-21T22:04:12+00:00",
+        "description": "Welcome to lampapalooza. This is different than lampathon.\nhttps://www.kickstarter.com/projects/1556971210/lamp-the-feature-film",
+        "id": 6642128,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=o7JZNuzPAqY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 769,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCV3iHQsE2h3CH-LehgPRkMg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/o7JZNuzPAqY/hqdefault.jpg",
+        "title": "lampapalooza (DIFFERENT THAN LAMPATHON): Rewatching Some FilmCow \"Classics\"",
+        "vote": 0
+    }
+]

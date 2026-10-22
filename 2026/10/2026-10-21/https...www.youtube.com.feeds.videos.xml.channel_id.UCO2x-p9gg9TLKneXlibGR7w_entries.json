@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Snazzy Labs",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-21T23:42:09.915858+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-21T21:53:29+00:00",
+        "description": "The Vision Pro can play PCVR and Meta Quest games NATIVELY\u2014but does it matter?\n\n*Buy FANTASTIC merch at Copland Supply* - https://copland.supply\nFollow Snazzy Labs on Twitter - https://twitter.com/snazzylabs  \nFollow me on Bluesky - https://snazzy.fm/UW\nFollow me on Threads - https://snazzy.fm/XV\nFollow me on Mastodon - https://snazzy.fm/NN\nFollow me on Instagram - https://instagram.com/snazzyq\n\nHalf-Life: Alyx runs natively on Apple Vision Pro with no PC, no streaming and no Steam Link. It works through Glovebox, a new tool built on Max Thomas\u2019s open-source Klepton project. Glovebox converts Valve\u2019s ARM64 Steam Frame port from Linux ELF into Mach-O frameworks, signs it in Xcode and sideloads it with a paid Apple Developer account. Under the hood it\u2019s a stack of clever hacks: x18 register rewrites, JIT-less LuaJIT and V8, the Increased Memory Limit and Extended Virtual Addressing entitlements, and glibc and OpenVR/SteamVR shims mapped to ARKit, GameController and Compositor Services. ",
+        "id": 6642459,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=Kuc-HaAySQw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 307,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCO2x-p9gg9TLKneXlibGR7w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/Kuc-HaAySQw/hqdefault.jpg",
+        "title": "Apple Should Be Embarrassed",
+        "vote": 0
+    }
+]

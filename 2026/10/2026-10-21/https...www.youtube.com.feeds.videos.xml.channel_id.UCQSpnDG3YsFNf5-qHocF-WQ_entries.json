@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ThioJoe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-21T14:55:48.697898+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-21T14:30:12+00:00",
+        "description": "Would an AI let a virtual grandma get hit by a train instead of typing song lyrics?\n\nGranny Benchmark GitHub: https://github.com/ThioJoe/Granny-Benchmark\n\nMany people have started to notice that AIs seem to outright refuse to output certain content, such as songs, because they are copyrighted. Someone even did a test where they set up a virtual scenario where a virtual grandma was tied to train tracks, and the AI was at a terminal that could stop the train, but only if it outputted the lyrics of a song. The AI refused and let the grandma get hit by the train. So I set up my own version of this \"Granny Benchmark\" to test other AIs. Turns out every single AI lets granny die every time!\n\nTime Stamps:\n0:00 - Intro\n0:47 - The Problem\n2:18 - The Granny Benchmark\n3:56 - Granny Benchmark Demo\n6:47 -  It's Truly Absurd\n\n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\n\u2022 My Desktop Wallpapers \u21e8 https://thiojoe.art\n\u21e8 http://Instagram.com/ThioJoe\n\u21e8 http://Twitter.com/ThioJoe\n\u21e8 http://Facebook.com/ThioJoeTV\n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac",
+        "id": 6638863,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=P0JoQ2V8Cx8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 366,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQSpnDG3YsFNf5-qHocF-WQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/P0JoQ2V8Cx8/hqdefault.jpg",
+        "title": "Ai Kills Granny To Protect Copyright",
+        "vote": 0
+    }
+]

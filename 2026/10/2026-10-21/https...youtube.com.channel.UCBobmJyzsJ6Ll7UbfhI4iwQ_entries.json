@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unreal Engine",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-21T16:21:44.636698+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-21T16:00:23+00:00",
+        "description": "Unreal Engine 5.8's new Iris replication system provided crucial communication between client and server for Gears of War: E-Day's multiplayer, both competitive and cooperative\ud83c\udf10\n\nThe Coalition were able to take advantage of Iris to help with network updates as well as bandwidth management between servers and players. Check out our piece on the game and how Iris other UE features factored into development: https://epic.gm/dev-interviews-gears-e-day",
+        "id": 6639556,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/nv1qf7Av7po",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 685,
+        "source_url": "https://youtube.com/channel/UCBobmJyzsJ6Ll7UbfhI4iwQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/nv1qf7Av7po/hqdefault.jpg",
+        "title": "UE 5.8's Iris system provided crucial communication between client & server for Gears of War: E-Day",
+        "vote": 0
+    }
+]

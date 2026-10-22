@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-21T11:36:26.542519+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-21T10:30:36+00:00",
+        "description": "Learn how to build a complete Wikipedia search engine entirely within PostgreSQL using BM25 keyword matching, vector embeddings, and reciprocal rank fusion. This step-by-step course covers setting up `pg_textsearch` and `pgvector-scale`, analyzing query plans, tuning hybrid weights, and serving results through a FastAPI backend. By keeping your data, keyword indexes, and vectors inside a single database, you eliminate complex synchronization pipelines and unlock fast, transactional search.\n\nCode: https://github.com/beaucarnes/wikisearch\n\nTry Tiger Data Cloud: https://tsdb.co/fcc-postgres-search\n\nChapters\n- 00:00 Introduction & Project Overview\n- 04:06 Matching vs. Ranking & PostgreSQL Text Search\n- 07:20 Understanding BM25 (IDF, Term Frequency, & Document Length)\n- 11:39 Setting Up Tiger Data Cloud & PostgreSQL\n- 14:06 Environment Setup & Enabling Database Extensions\n- 15:43 Loading Wikipedia Dataset & Schema Setup\n- 20:30 Native PostgreSQL Full-Text Search Baseline\n- 24:38 Analyzing ",
+        "id": 6637533,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=kT7nXO32L-Q",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/kT7nXO32L-Q/hqdefault.jpg",
+        "title": "PostgreSQL Hybrid Search Course \u2013 Keyword (BM25) + Vector Retrieval",
+        "vote": 0
+    }
+]

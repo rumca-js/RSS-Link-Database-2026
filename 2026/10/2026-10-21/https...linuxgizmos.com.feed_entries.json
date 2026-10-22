@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-21T04:02:33.551047+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-21T03:01:05+00:00",
+        "description": "ADLINK&#8217;s I-Pi OSM IMX95 is an industrial development kit based on NXP&#8217;s six-core i.MX95 processor with an integrated 2 TOPS NPU. It pairs a solder-down OSM 1.2 module with a 4-inch carrier board, offering dual Gigabit Ethernet, display connectivity, and expansion options for edge AI applications. The I-Pi OSM IMX95 integrates ADLINK&#8217;s OSM-IMX95 computer-on-module with [&#8230;]",
+        "id": 6635747,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/solder-down-com-brings-i-mx95-to-linux-dev-kit-2",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Solder-down COM brings i.MX95 to Linux dev kit",
+        "vote": 0
+    }
+]

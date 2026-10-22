@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Karl Guttag",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-21T21:02:48.466444+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-21T20:04:48+00:00",
+        "description": "Last month I attended and participated in MicroLED and AR/VR Connect in Eindhoven. This conference reminds me of the early days of SPIE's AR/VR/MR conference in that it is drawing some excellent speakers and companies while still offering some excellent opportunities to meet and network with people. \n\nAs a sign of the times, it seems many MicroLED companies are now putting an emphasis on optical interconnects and Co-Packaged Optics (CPO) for use in AI data centers. \nThe one very bright spot is that there seems to be a very big market for audio to visual translation being reported.",
+        "id": 6641573,
+        "language": "en-US",
+        "link": "https://kguttag.com/2026/10/21/microled-ar-vr-connect-and-co-packaged-optics-cpo",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 487,
+        "source_url": "https://www.kguttag.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i0.wp.com/kguttag.com/wp-content/uploads/2026/10/2026-09-Panel-Session-copy.jpg?resize=800%2C571&ssl=1",
+        "title": "MicroLED + AR/VR Connect and Co-Packaged Optics (CPO)",
+        "vote": 0
+    }
+]

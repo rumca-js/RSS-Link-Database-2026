@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-21T15:29:07.620568+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-21T10:10:00+00:00",
+        "description": "<p>This morning, two critical PHP Security Advisories were published:</p>\n<ul>\n<li><a href=\"https://github.com/php/php-src/security/advisories/GHSA-w8hw-w9fx-j79w\">RCE via OOM corruption</a> (9.2/10)</li>\n<li><a href=\"https://github.com/php/php-src/security/advisories/GHSA-6wmf-4rv5-p3rp\">RCE via stale global state</a> (9.2/10)</li>\n</ul>\n<p>If you're running PHP for any service, you need to upgrade immediately to 8.2.35, 8.3.36, 8.4.27, or 8.5.12. And if you use Remi's repos on RedHat-derivative Linux distros, you <a href=\"https://x.com/ThePHPF/status/2112828424486056183\">need to switch to official repos temporarily</a> as Remi's on vacation and can't update his community repo. (Reminds me of <a href=\"https://xkcd.com/2347/\">xkcd 2347</a>).</p>\n<p>I'm glad I finished <a href=\"https://www.jeffgeerling.com/blog/2026/migrated-to-hugo/\">migrating this website from a PHP-based CMS to Hugo</a> earlier this year\u2014having a static website and a minimal commenting system saves on hosting costs ",
+        "id": 6639084,
+        "language": "en",
+        "link": "https://www.jeffgeerling.com/blog/2026/php-vulnerability-php2shell",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 162,
+        "source_url": "https://www.jeffgeerling.com/blog.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Upgrade your PHP installs immediately to protect against php2shell",
+        "vote": 0
+    }
+]

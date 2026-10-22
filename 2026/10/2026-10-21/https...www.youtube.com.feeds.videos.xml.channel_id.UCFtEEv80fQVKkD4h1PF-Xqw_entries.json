@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Microsoft",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-21T20:16:23.941254+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-21T20:00:00+00:00",
+        "description": "Yorkshire Ambulance Service, part of England's National Health Service (NHS) is using Microsoft Copilot to bring together data from multiple systems, helping teams understand patterns and identify opportunities across patient pathways. In Rotherham, the proportion of ambulance journeys ending at an emergency department fell from the mid-60% range to 56%.",
+        "id": 6641367,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=sAYti12cStU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 793,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFtEEv80fQVKkD4h1PF-Xqw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/sAYti12cStU/hqdefault.jpg",
+        "title": "How NHS ambulance teams are using Microsoft Copilot to rethink patient pathways",
+        "vote": 0
+    }
+]

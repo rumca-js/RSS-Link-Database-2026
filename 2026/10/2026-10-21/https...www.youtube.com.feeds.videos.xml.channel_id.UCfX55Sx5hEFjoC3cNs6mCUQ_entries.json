@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Foundation",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-21T14:46:55.109438+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-21T14:26:26+00:00",
+        "description": "John Mertic of the Linux Foundation explains what the Open Mainframe Project is, why it exists, and how 11 years of open source collaboration is keeping mainframe central to enterprise computing. Full article and transcript: https://tfir.io/open-source-mainframe-what-omp-does-linux-foundation/\n\nMainframe still runs the backbone of global enterprise infrastructure, yet it has long operated as a silo cut off from modern open source toolchains. Without a neutral collaboration space, mainframe-specific innovation risks stalling while the rest of enterprise tech accelerates.\n\nIn this exclusive interview with Swapnil Bhartiya, John Mertic, Director of Program Management at the Linux Foundation, walks through the Open Mainframe Project: its origins in 2015 around Linux on mainframe, its expansion into z/OS and COBOL, and the tools and projects helping mainframe integrate with the broader enterprise computing ecosystem.\n\nKey Topics Covered:\n- How the Open Mainframe Project started with Linux ",
+        "id": 6638758,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=4eswWOL7a-s",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 499,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfX55Sx5hEFjoC3cNs6mCUQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/4eswWOL7a-s/hqdefault.jpg",
+        "title": "Open Mainframe Project: 11 Years of Open Source on z/OS | John Mertic, Linux Foundation",
+        "vote": 0
+    }
+]
