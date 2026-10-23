@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-22T12:31:45.464479+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-22T11:00:04+00:00",
+        "description": "Learn more about LLM Inference here \u2192 https://ibm.biz/~CCvvB5TvB\n\nEvery LLM response starts with much more than a prompt. Grace Ableidinger explains LLM inference, from tokenization and GPU batching to KV cache, prefill, and decode. Learn how AI models turn static weights into real-time responses.\n\n 00:00 \u2013 Understand What LLM Inference Actually Does\n 01:15 \u2013 See How LLM Inference Engines Serve AI Models\n 01:43 \u2013 Follow an LLM Request from API to Model\n 02:15 \u2013 Turn Prompts Into Tokens with Tokenization\n 02:59 \u2013 Route LLM Requests to GPU Hardware\n 03:30 \u2013 Increase LLM Throughput with Continuous Batching\n 04:23 \u2013 Understand LLM Prefill and KV Cache\n 05:24 \u2013 See How Decode Generates Tokens\n 06:18 \u2013 Measure LLM Latency with TTFT and ITL\n 06:59 \u2013 Connect the Full LLM Inference Pipeline\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/~LqLIqIARH\n\nAI was used in the creation of the transcript and metadata for this video.\n\n#llm #aimodels #aiinfe",
+        "id": 6645384,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=615-yWyS1n0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/615-yWyS1n0/hqdefault.jpg",
+        "title": "What Is LLM Inference? How AI Models Generate Responses",
+        "vote": 0
+    }
+]

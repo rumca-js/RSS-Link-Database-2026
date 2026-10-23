@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-22T15:15:57.349688+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-22T15:00:16+00:00",
+        "description": "Magic Patterns (YC W23) is one of the fastest-growing design tools in AI, helping product teams turn ideas into interactive, code-backed prototypes in minutes. Alex Danilowicz and his co-founder, both front-end engineers, built Magic Patterns to solve a problem they had themselves: finding a better way to turn ideas into something visual. They were among the first teams building prompt-to-design tools back in 2023.\n\nIn this episode of Design Review, Alex joins YC\u2019s Aaron Epstein to demo Magic Patterns and its new MagicOS canvas, where teams can bring together prompts, images, PRDs, and other context to explore ideas visually. Then they review a handful of startup websites to break down what makes a site feel \u201cvibe coded,\u201d where founders go wrong, and how to make AI-generated design feel more intentional.\n\nChapters:\n00:00 - What Magic Patterns is\n03:01 - Nine months of pivots\n05:59 - Using the MCP from Cursor\n08:21 - The end stage is compressed now\n11:23 - Demo: postcards for every mee",
+        "id": 6646550,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=2tZT2-pS_pI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/2tZT2-pS_pI/hqdefault.jpg",
+        "title": "Magic Patterns CEO Reviews Startup Websites",
+        "vote": 0
+    }
+]

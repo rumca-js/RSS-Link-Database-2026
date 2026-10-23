@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Gruber",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-22T19:57:00.599301+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-22T19:10:10+00:00",
+        "description": "<p>Apple Newsroom:</p>\n\n<blockquote>\n  <p>New editorial collections for iPhone Duo apps and games will go\nlive on the App Store this Friday, with additional app updates\nrolling out throughout the year. Apps optimized for iPhone Duo are\neasy to identify with a Made for iPhone Duo badge on product pages\nacross the storefront.</p>\n</blockquote>\n\n<p>This story highlights dozens of apps that have been optimized. This sort of transition happens every time Apple introduces a major screen change. It happened with the iPhone X in 2017, it happened when the iPhone 6 added a Plus size, it happened when the iPhone 5 changed the aspect ratio from 3:2 to 16:9, and, most memorably of all, it happened when the iPhone 4 went retina. Every time this happens it sucks to some varying degree of suckiness to use apps that haven\u2019t been optimized. And soon enough, all updates still under active development get updated.</p>\n\n<p>Developers know that iPhone users <em>care</em> how apps look and work. iPhone use",
+        "id": 6648538,
+        "language": "",
+        "link": "https://www.apple.com/newsroom/2026/10/developers-bring-incredible-new-app-experiences-to-iphone-duo",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 489,
+        "source_url": "https://daringfireball.com/feeds/main",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Apple Highlights 50+ iPhone Apps That Have Already Been Optimized for the Duo",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Lunduke Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-22T16:51:52.693128+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-22T14:37:12+00:00",
+        "description": "Apple's UNIX certification expired in August. And they didn't renew it.\n\nLifetime Sub Sale, Plus Your Name on the LCOS About Window:\nhttps://lunduke.substack.com/p/lifetime-sub-sale-plus-your-name\n\nMore from The Lunduke Journal:\nhttps://lunduke.com/",
+        "id": 6647323,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=MHaZIFbcodQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 616,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkK9UDm_ZNrq_rIXCz3xCGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/MHaZIFbcodQ/hqdefault.jpg",
+        "title": "macOS is No Longer UNIX",
+        "vote": 0
+    }
+]

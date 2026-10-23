@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Be Smart",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-22T18:52:50.242658+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-22T15:25:30+00:00",
+        "description": "Take the PBS Digital Studios Annual Survey: https://to.pbs.org/2026SurveyBeSmart \n\u2193\u2193\u2193 More info and sources below \u2193\u2193\u2193\n\nIf you ask what is the environmental impact of AI, you\u2019ll get two answers. One says it\u2019s minimal and worth it. The other says it\u2019s an environmental catastrophe. So what's the truth? We went looking for the real answers, and found something much stranger than we expected. Whatever you think about AI, somebody is already paying for it. Who, and how much? That's what we are here to find out.\n\nSources/References: https://sites.google.com/view/data-centers-impacts/home\n\n00:00 Intro - Do you love or hate AI?\n02:20 The scale of the problem\n03:35 The long history of being worried about computers and energy use\n04:57 Koomey's law and the efficiency of computing\n06:38 How much electricity does AI really use?\n09:12 Future of AI and the Jevons Paradox\n11:06 How data actually centers get electricity\n13:00 Build your own power plant?\n18:05 The 3 ways we measure carbon emissions\n22:",
+        "id": 6648123,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=YgoiujmwLKI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 33,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCH4BNI0-FOK2dMXoFtViWHw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/YgoiujmwLKI/hqdefault.jpg",
+        "title": "The Real Cost of AI Will Shock You",
+        "vote": 0
+    }
+]

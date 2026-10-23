@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Learn Linux TV",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-22T17:53:15.095287+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-22T15:00:39+00:00",
+        "description": "The Linux community is awesome, but Linux has its quirks and annoyances too. In this video, I rant a little about five Linux pet peeves, from tutorials that auto-confirm commands with \u201c-y\u201d and messy source installations, to elitism and the myth that Linux requires the terminal. Think of it as constructive criticism from someone who wants to see Linux succeed.\n\nWhat are your Linux pet peeves? Let me know in the comments!\n\n\ud83d\udcd6 Switching to Linux (book): https://learnlinux.link/ditch-windows\n\n*\ud83d\udcda Discounts, Courses, Books, and More! (Support Linux Learning)*\n- Switching to Linux Book:\n    Amazon \u279c https://www.amazon.com/Switching-Linux-Practical-Guide-Windows/dp/B0HKQG14JF\n    Publisher \u279c https://leanpub.com/switch-to-linux\n- Save 30% (or more) on Linux Foundation certs! \u279c https://learnlinux.link/get-certified\n- Linux Swag & Gear \u279c https://learnlinux.link/swag\n- Live Training \u279c https://learnlinux.link/live\n- $100 of Free Linode Starter Credit \u279c https://learnlinux.link/linode\n- \"Linux Pro-Ti",
+        "id": 6647692,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=LK-QhBT92hg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 997,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxQKHvKbmSzGMvUrVtJYnUA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/LK-QhBT92hg/hqdefault.jpg",
+        "title": "Top 5 Linux Community Habits That Really Annoy Me",
+        "vote": 0
+    }
+]

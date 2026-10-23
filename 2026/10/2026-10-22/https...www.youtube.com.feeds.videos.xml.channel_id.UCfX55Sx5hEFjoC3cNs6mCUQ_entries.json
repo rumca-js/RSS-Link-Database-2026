@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Foundation",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-22T15:13:14.500701+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-22T14:12:43+00:00",
+        "description": "Dipesh Rawat, Kubernetes v1.37 Release Lead at CNCF, explains how watch cache resiliency, HPA scale to zero, and checkpoint/restore together signal Kubernetes shifting from generic scheduler to workload-aware platform built for AI. Full article and transcript: https://tfir.io/kubernetes-ready-ai-workloads-cncf/ \n\nAI is no longer just another workload on Kubernetes. It demands specialized hardware, long-running jobs, and a control plane that stays up under pressure.\n\nIn this exclusive interview with Swapnil Bhartiya, Dipesh Rawat, Kubernetes v1.37 Release Lead at CNCF, breaks down what the latest feature set reveals about the project's direction and what \"workload-aware\" actually means in practice.\n\nKey Topics Covered:\n- Why watch cache resiliency, HPA scale to zero, and checkpoint/restore are connected by a single design intent\n- What \"workload-aware scheduling\" means and how it changes the role of Kubernetes\n- How Dynamic Resource Allocation (DRA) lets teams request and manage specia",
+        "id": 6646513,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=0lySyylY6QQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 499,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfX55Sx5hEFjoC3cNs6mCUQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/0lySyylY6QQ/hqdefault.jpg",
+        "title": "Kubernetes Is Becoming Workload-Aware for AI | Dipesh Rawat, CNCF",
+        "vote": 0
+    }
+]

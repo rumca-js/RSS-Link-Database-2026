@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Hammond",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-22T18:00:52.359964+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-22T15:20:40+00:00",
+        "description": "AI is changing the way security work gets done, and there\u2019s a cost side to that conversation that\u2019s easy to overlook. I\u2019ve been thinking about what that means for attackers and defenders alike.\n\nFull video: https://youtu.be/xHDc6-7bjyw?si=UHNB1-VcTJH5XaxV",
+        "id": 6647764,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/Tma7LCSNRso",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 959,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVeW9qkBjo3zosnqUbG7CFw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/Tma7LCSNRso/hqdefault.jpg",
+        "title": "The Economics of AI",
+        "vote": 0
+    }
+]

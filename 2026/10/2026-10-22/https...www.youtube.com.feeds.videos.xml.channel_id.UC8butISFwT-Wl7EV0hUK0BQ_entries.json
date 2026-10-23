@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-22T12:42:37.411881+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-22T12:08:35+00:00",
+        "description": "Learn how to secure the Model Context Protocol (MCP), the standard that connects AI agents to tools and data. This course walks through how MCP works, the \"lethal trifecta\" of agent risk, and every item on the OWASP MCP Top 10, each with a real-world incident and the fixes that stop it.\n\nCourse created by Dan Barahona, founder of AI Security University.\n\nGet your free certificate: take the final quiz at https://aisec.university/fcc-mcp\nYou'll get a certificate of completion, a badge for your LinkedIn profile, and 2 CPE credits.\n\nMore free AI security courses, weekly live events and a community of practitioners: https://aisec.university\n\n\u2b50\ufe0f Chapters \u2b50\ufe0f\n- 0:00:00 Introduction\n- 0:01:02 Welcome\n- 0:02:30 MCP Breach: Patient Zero\n- 0:07:34 Before & After MCP\n- 0:11:21 Application Architecture Eras\n- 0:14:27 Anatomy of MCP\n- 0:22:34 The Lethal Trifecta\n- 0:31:31 Intro to the Top 10\n- 0:33:51 MCP01: Token Mismanagement & Secret Exposure\n- 0:43:20 MCP02: Privilege Escalation via Scope Creep\n",
+        "id": 6645461,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=gYXLRMycVMk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/gYXLRMycVMk/hqdefault.jpg",
+        "title": "MCP Security Fundamentals Course",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-22T03:14:02.957095+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-22T03:04:11+00:00",
+        "description": "Synergy Logic has launched the SLM-RP4, a UL-listed industrial edge controller based on the Raspberry Pi 4 platform. The DIN rail-mounted system integrates OpenPLC support and accommodates up to eight stackable I/O modules, providing a maximum of 128 I/O points for industrial automation, data acquisition, and IIoT applications. The SLM-RP4 uses Broadcom&#8217;s BCM2711 processor, featuring [&#8230;]",
+        "id": 6643151,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/linux-based-industrial-pi-controller-supports-stackable-i-o-modules",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Linux-based industrial Pi controller supports stackable I/O modules",
+        "vote": 0
+    }
+]

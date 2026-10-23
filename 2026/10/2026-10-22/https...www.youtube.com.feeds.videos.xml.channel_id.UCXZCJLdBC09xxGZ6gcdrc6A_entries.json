@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "OpenAI",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-22T20:41:15.677749+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-22T18:00:13+00:00",
+        "description": "Following a 1,000-person pilot, Uber is bringing ChatGPT Work to more than 30,000 employees worldwide in its first company-wide deployment of an agentic platform for knowledge work.\n\nUber CTO Praveen Neppalli Naga and OpenAI co-founder and President Greg Brockman discuss expanding AI beyond engineering and helping teams rethink entire workflows.\n\nRead more about Uber\u2019s rollout of ChatGPT Work: https://openai.com/index/uber-chatgpt-work-rollout/",
+        "id": 6648902,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=l16Gw7oVLNQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 935,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXZCJLdBC09xxGZ6gcdrc6A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/l16Gw7oVLNQ/hqdefault.jpg",
+        "title": "Uber rolls out ChatGPT Work to 30,000+ employees",
+        "vote": 0
+    }
+]

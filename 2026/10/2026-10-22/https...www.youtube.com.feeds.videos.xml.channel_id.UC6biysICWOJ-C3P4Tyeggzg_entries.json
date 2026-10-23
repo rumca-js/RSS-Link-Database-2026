@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Low Level",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-22T19:13:02.807141+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-22T17:23:12+00:00",
+        "description": "Check out the full write up here: https://calif.io/php2shell/\nAnd shout out to LCFR_hax for the work on this: https://x.com/lcfr_hax/\n\n\ud83c\udfeb MY COURSES\nSign-up for my FREE 3-Day C Course: https://lowlevel.academy\n\n\ud83c\udf99\ufe0fPODCAST\nGet in depth breakdowns of latest cyber news: https://www.lowdownpod.com/\n\n\ud83d\udd25SOCIALS \nCheck out my other stuff: https://lowlevel.tv",
+        "id": 6648278,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=QRABrn606LE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 736,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6biysICWOJ-C3P4Tyeggzg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/QRABrn606LE/hqdefault.jpg",
+        "title": "php",
+        "vote": 0
+    }
+]
