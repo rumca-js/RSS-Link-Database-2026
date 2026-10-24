@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "GitHub",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-23T19:00:49.962002+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-23T17:27:15+00:00",
+        "description": "Go from a GitHub issue prompt to a deployed, production-ready AI agent without switching between browser tabs or cloud portals. In this hands-on walkthrough, learn how to use the Microsoft Foundry Skill and Foundry Canvas inside the GitHub Copilot app to build a grounded backer concierge for Tailspin Toys. Watch as Copilot provisions Azure resources, selects and deploys a model, tests against hallucinations, and sets up a credential-safe proxy. Complete the self-paced workshop here: https://github-samples.github.io/copilot-workshops/real-world-development/app/8-foundry-canvas/\n\n\u2014 CHAPTERS \u2014  \n\n0:00 Introduction \n0:58 Prepare the data \n1:39 Create Azure resources \n2:04 Select and deploy a model \n5:08 Build the hosted agent \n5:51 Deploy the agent to Foundry \n7:45 Build a secure functions proxy \n8:11 Add the website chat widget \n8:28 Test the backer concierge agent \n\n#GitHubCopilot #AIAgent #GitHub \n\nStay up-to-date on all things GitHub by connecting with us:\n\nYouTube: https://gh.io/subg",
+        "id": 6655134,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=AT3EltQ4gTM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 1005,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7c3Kb6jYCRj4JOHHZTxKsQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/AT3EltQ4gTM/hqdefault.jpg",
+        "title": "How to build and ship an AI agent in the GitHub Copilot app",
+        "vote": 0
+    }
+]

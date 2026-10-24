@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Abhishek Prakash",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-23T13:23:08.180001+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-23T13:04:57+00:00",
+        "description": "The small SBC brings a 6 TOPS NPU, Wi-Fi 6, a Pi-compatible 40-pin header, and up to 32GB RAM, starting at $153.",
+        "id": 6652852,
+        "language": "en-US",
+        "link": "https://itsfoss.com/news/armsom-sige7s",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 156,
+        "source_url": "https://news.itsfoss.com/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://itsfoss.com/content/images/2026/10/armsom-sige7s-1-.webp",
+        "title": "ArmSoM Sige7s Puts the RK3588S on a Raspberry Pi-Sized Board, and There's a Compute Module Too",
+        "vote": 0
+    }
+]

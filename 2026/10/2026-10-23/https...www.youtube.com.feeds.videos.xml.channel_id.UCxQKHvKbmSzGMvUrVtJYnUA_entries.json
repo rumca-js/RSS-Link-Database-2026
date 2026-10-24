@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Learn Linux TV",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-23T16:19:58.273280+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-23T14:00:30+00:00",
+        "description": "Ubuntu 26.10 is here, and in this video I\u2019ll walk you through the entire installation process from start to finish. We\u2019ll go over what you\u2019ll need before you begin, take Ubuntu 26.10 for a test drive in live mode, step through the installer, and then log in to the finished install to check things out.\n\nGet your own \"Dark Side of the Terminal\" T-Shirt here \u279c https://learnlinux.link/dark-side-shirt\n\n*\ud83d\udcda Discounts, Courses, Books, and More! (Support Linux Learning)*\n- Save 30% (or more) on Linux Foundation certs! \u279c https://learnlinux.link/get-certified\n- Switching to Linux Book:\n    Amazon \u279c https://learnlinux.link/stl-amazon\n    Publisher \u279c https://learnlinux.link/stl-leanpub\n- Save 30% (or more) on Linux Foundation certs! f https://learnlinux.link/get-certified\n- Linux Swag & Gear \u279c https://learnlinux.link/swag\n- Live Training \u279c https://learnlinux.link/live\n- $100 of Free Linode Starter Credit \u279c https://learnlinux.link/linode\n- \"Linux Pro-Tips\" Newsletter \u279c https://learnlinux.link/linux",
+        "id": 6653983,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=IRXKvD267VA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 997,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxQKHvKbmSzGMvUrVtJYnUA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/IRXKvD267VA/hqdefault.jpg",
+        "title": "Ubuntu 26.10 Is Here! Here\u2019s How to Install It",
+        "vote": 0
+    }
+]

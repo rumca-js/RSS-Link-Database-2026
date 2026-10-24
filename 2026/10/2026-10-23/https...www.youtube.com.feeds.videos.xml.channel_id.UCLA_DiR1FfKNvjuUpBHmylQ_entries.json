@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NASA",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-23T22:00:49.513670+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-23T20:16:18+00:00",
+        "description": "Tune in as agency leaders provide an update on NASA's plans to return American astronauts to the surface of the Moon by 2028. \n\nParticipants include:\n- NASA Administrator Jared Isaacman\n- NASA Associate Administrator Amit Kshatriya\n- Jeremy Parsons, NASA\u2019s Artemis program manager\n\nAs part of a Golden Age of innovation and exploration, NASA will send Artemis astronauts on increasingly difficult missions near the lunar South Pole to explore more of the Moon than ever before. In addition to providing economic benefits and advancing scientific discovery through its Moon missions, NASA will establish an enduring human presence on the lunar surface and build on the agency\u2019s foundation for the first crewed mission to Mars.\n\nMore about the Artemis program: https://www.nasa.gov/humans-in-space/artemis/",
+        "id": 6655954,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=pAKqJxuxDgk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 1010,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLA_DiR1FfKNvjuUpBHmylQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/pAKqJxuxDgk/hqdefault.jpg",
+        "title": "Artemis Acceleration (Oct. 23, 2026)",
+        "vote": 0
+    }
+]

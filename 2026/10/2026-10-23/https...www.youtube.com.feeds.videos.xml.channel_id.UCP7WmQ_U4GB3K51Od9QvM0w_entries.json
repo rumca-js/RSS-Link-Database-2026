@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "David Bombal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-23T14:52:24.742145+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-23T14:00:20+00:00",
+        "description": "Big thanks to ThreatLocker for sponsoring my trip to Black Hat USA 2026 and also for sponsoring this video.  To start your free trial with ThreatLocker please use the following link:  https://www.threatlocker.com/davidbombal \n\nYour phone can be tricked into connecting to a fake cell tower. These devices are commonly known as Stingrays, cell-site simulators or IMSI catchers. They can be used to\nidentify and locate phones in an area, and some attacks can interfere with the security of your cellular connection.\n\nAt Black Hat and DEF CON, I spoke to Cooper Quintin, Senior Staff Technologist at the Electronic Frontier Foundation (EFF), about Rayhunter. \n\nRayhunter is an open-source project from the EFF designed to detect suspicious cellular activity using inexpensive mobile hotspot hardware. \n\nIn this interview, Cooper explains how Stingrays and IMSI catchers work, why your phone can connect to a fake cell tower, what an IMSI is, how cellular downgrade attacks work, what a null cipher is, ",
+        "id": 6653459,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=KU2UONdNl1Y",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 984,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP7WmQ_U4GB3K51Od9QvM0w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/KU2UONdNl1Y/hqdefault.jpg",
+        "title": "Your Phone Can Connect to a Fake Cell Tower",
+        "vote": 0
+    }
+]

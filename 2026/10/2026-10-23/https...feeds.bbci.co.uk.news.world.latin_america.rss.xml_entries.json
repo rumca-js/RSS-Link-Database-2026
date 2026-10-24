@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-23T22:21:21.287122+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-23T20:59:39+00:00",
+        "description": "Javier Milei had denied acting fraudulently when a cryptocurrency nosedived after he deleted a social media post about it.",
+        "id": 6656075,
+        "language": "en-gb",
+        "link": "https://www.bbc.co.uk/news/articles/c64g1eplpvddo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 524,
+        "source_url": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8738/live/24bdf9e0-cf1c-11f1-9796-954775b3a434.jpg",
+        "title": "Argentina drops investigation into President Milei over crypto fraud",
+        "vote": 0
+    }
+]

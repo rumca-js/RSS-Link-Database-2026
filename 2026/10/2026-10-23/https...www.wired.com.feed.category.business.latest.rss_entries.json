@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Lauren Goode",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-23T15:08:13.530148+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-23T15:00:00+00:00",
+        "description": "Meta got hit this week with its biggest fine yet, the latest in a mounting pile of court-ordered payments.",
+        "id": 6653592,
+        "language": "en-US",
+        "link": "https://www.wired.com/story/how-many-billions-would-it-take-to-hold-meta-accountable",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 396,
+        "source_url": "https://www.wired.com/feed/category/business/latest/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media.wired.com/photos/6ada8957133035a6bb08c0f2/master/pass/Business_How%20Many%20Billions%20Would%20It%20Take%20to%20Hold%20Meta%20Accountable_v1.jpg",
+        "title": "How Many Billions Would It Take to Hold Meta Accountable?",
+        "vote": 0
+    }
+]

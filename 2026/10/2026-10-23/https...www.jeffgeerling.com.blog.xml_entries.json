@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-23T13:58:42.770533+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-23T09:00:00+00:00",
+        "description": "<p>Since learning about the effects of high CO2 concentration on attention and cognitive performance\u2014especially at levels much higher than 2000ppm\u2014I've started monitoring CO2 and other air quality indicators in my house, at my studio, and even on the road.</p>\n<figure class=\"insert-image\"><img src=\"https://www.jeffgeerling.com/blog/2026/ubiquiti-vape-detector-teardown/up-air-quality-ubiquiti-vape-detector.jpg\"\n\t\t\talt=\"Ubiquiti Vape Detector and Air Quality Monitor\" width=\"700\" height=\"auto\">\n</figure>\n\n<p>I have a few other air quality monitors I'll be covering in the future, but today I wanted to focus on one I only heard about in the comments on a <a href=\"https://www.youtube.com/watch?v=t5yAZb5Blbs\">recent video tearing down a cheap no-name 'Air Quality Detector' from Amazon</a>.</p>",
+        "id": 6653140,
+        "language": "en",
+        "link": "https://www.jeffgeerling.com/blog/2026/ubiquiti-vape-detector-teardown",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 162,
+        "source_url": "https://www.jeffgeerling.com/blog.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.jeffgeerling.com/blog/2026/ubiquiti-vape-detector-teardown/up-air-quality-ubiquiti-vape-detector.jpg",
+        "title": "Ubiquiti's $99 Vape Detector is actually pretty good",
+        "vote": 0
+    }
+]

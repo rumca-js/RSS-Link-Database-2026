@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-23T09:29:52.117191+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-23T09:25:36+00:00",
+        "description": "The attack comes at a time of heightened tensions in the West Bank and four days before Israel's general election.",
+        "id": 6651540,
+        "language": "en-gb",
+        "link": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 525,
+        "source_url": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6fb8/live/d119aec0-cec0-11f1-ae9c-0303957c36f8.jpg",
+        "title": "Five Israelis wounded and two suspected Palestinian attackers killed in West Bank shooting",
+        "vote": 0
+    }
+]

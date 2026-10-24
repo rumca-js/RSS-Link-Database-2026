@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Foundation",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-23T15:50:06.994708+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-23T15:39:10+00:00",
+        "description": "OpenSearch production adoption nearly doubled in one year, and Bianca Lewis, Executive Director of the OpenSearch Software Foundation, breaks down exactly what is driving that growth.\n\nFull article and transcript: https://tfir.io/opensearch-adoption-surging-2026-opensearch-foundation/\n\nAI workloads are multiplying fast, and fragmented data infrastructure is becoming a serious liability. Running separate tools for search, observability, APM, and business intelligence creates data tax, security risk, and cost spirals that teams cannot sustain at scale.\n\nIn this exclusive interview with Swapnil Bhartiya, Bianca Lewis of the OpenSearch Software Foundation explains how positioning OpenSearch as a unified AI data infrastructure layer directly triggered the surge in contributions and production deployments \u2014 backed by findings from the 2026 Linux Foundation Open Data Infrastructure Report.\n\nKey Topics Covered:\n- Why AI workload adoption (83% of surveyed organizations) is the primary growth d",
+        "id": 6653844,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=3rzVNgutoIo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 499,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfX55Sx5hEFjoC3cNs6mCUQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/3rzVNgutoIo/hqdefault.jpg",
+        "title": "OpenSearch Adoption Doubled in One Year \u2014 Here's What Drove It | Bianca Lewis",
+        "vote": 0
+    }
+]

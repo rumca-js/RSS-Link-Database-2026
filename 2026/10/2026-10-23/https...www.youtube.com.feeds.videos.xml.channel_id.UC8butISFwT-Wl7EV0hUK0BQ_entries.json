@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-23T15:30:36.016507+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-23T14:10:25+00:00",
+        "description": "Learn how to use Google's Gemini 4 Argon model through practical JavaScript examples. This course walks through key development topics including API key setup, sending basic API requests, adjusting model thinking levels, managing multi-turn chat history with interaction IDs, and leveraging background mode to asynchronously generate a complete breakout game. The video wraps up with an interview featuring Google DeepMind engineer Jack Wotherspoon, who shares insights on the model's reasoning capabilities, 3D multimodal demos, and creative writing strengths.\n\nCourse created by @beau & @aniakubow.\n\n\u2b50\ufe0f Contents \u2b50\ufe0f\n\u2013 00:00 Introduction and Overview\n\u2013 00:59 What is Gemini 4 Argon?\n\u2013 02:01 Setup API key, billing, and project\n\u2013 03:05 Your first request\n\u2013 04:15 Thinking levels low versus high\n\u2013 05:43 Conversations with previous interaction ID\n\u2013 06:26 Background mode. Argon builds a game\n\u2013 07:45 Interview with Google DeepMind Engineer Jack Wotherspoon\n\u2013 10:06 Conclusion and wrap-up",
+        "id": 6653752,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=JGly6PSK5iw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/JGly6PSK5iw/hqdefault.jpg",
+        "title": "Gemini 4 Argon API Crash Course",
+        "vote": 0
+    }
+]

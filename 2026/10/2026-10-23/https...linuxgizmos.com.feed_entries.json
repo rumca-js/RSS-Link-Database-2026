@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-23T04:05:57.864779+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-23T02:58:43+00:00",
+        "description": "LattePanda has announced the Sigma 2, an x86 single-board computer based on Intel&#8217;s Core Ultra X7 358H Panther Lake processor. The compact system combines up to 180 TOPS of AI performance with 64GB of LPDDR5X memory, dual 10GbE networking, and multiple expansion interfaces for local AI inference, robotics, and embedded computing applications. According to the [&#8230;]",
+        "id": 6650447,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/panther-lake-linux-ready-sbc-delivers-180-tops-ai-and-64gb-ram",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Panther Lake Linux-ready SBC delivers 180 TOPS AI and 64GB RAM",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kevin Stratvert",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-23T08:36:14.198664+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-23T07:00:06+00:00",
+        "description": "Learn how to use Hermes AI Agent on Windows, from installation and local AI setup to browser tasks, memory, reusable skills, and scheduled automation. Follow along as I use Hermes to manage YouTube comments.\n\nHost: Kevin Stratvert\n\n\ud83d\udcda RESOURCES\n- Hermes: https://hermes-agent.nousresearch.com/desktop\n- Prompts used in this video: https://docs.google.com/document/d/1X5oTG9DTucymvyneero_KmjCRGZ7nEGiBZoMLmXdSQk/edit?usp=drivesdk\n\n\u231a TIMESTAMPS\n0:00 - Introduction\n0:35 - Install Hermes on Windows\n1:06 - Set up a local AI model\n2:07 - Create a folder and file\n3:17 - Connect your browser\n4:22 - Review YouTube comments\n5:05 - Publish an approved reply\n5:33 - Save preferences with memory\n6:19 - Test memory in a new session\n6:43 - Create a reusable skill\n7:57 - Use your skill\n8:28 - Schedule automated jobs\n9:31 - Connect messaging apps\n\n\ud83d\udce9 NEWSLETTER\n- Get the latest high-quality tutorial and tips and tricks videos emailed to your inbox each week: https://newsletter.kevinstratvert.com\n\n\ud83d\udd3d CONNECT W",
+        "id": 6651348,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=wETSpF4ef6E",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 958,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfJT_eYDTmDE-ovKaxVE1ig",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/wETSpF4ef6E/hqdefault.jpg",
+        "title": "How to Use Hermes AI Agent",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Blog Staff",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-24T00:47:49.439765+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-23T21:15:39+00:00",
+        "description": "<p>\n\tNews about one of the four major C++ compiler front-ends:</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://cppalliance.org/newsmedia/news/edg-is-now-open-source-heres-what-comes-next/\">EDG is now open source. Here&rsquo;s what comes next</a></h3>\n\t<p>\n\t\tby Harry Bott</p>\n</blockquote>\n<p>\n\tFrom the announcement:</p>\n<blockquote>\n\t<p>\n\t\tThe code is available under the Apache 2.0 license with LLVM exceptions. This permissive license allows commercial use, including incorporating EDG into proprietary products, subject to terms. For companies building C++ tools, this provides an ideal option for a front end that adapts to your needs. ...</p>\n\t<p data-block-key=\"1dc28\">\n\t\tWe&#39;re excited about ways the community can make it even better. EDG has experimental support for reflection for C++26, which lets programs inspect information about types and declarations at compile time. ...</p>\n\t<p data-block-key=\"bm3bu\">\n\t\tJohn Spicer and the EDG team led the transition. EDG&rsquo;s experienced engin",
+        "id": 6656599,
+        "language": "en",
+        "link": "https://isocpp.org//blog/2026/10/edg-is-now-open-source.-heres-what-comes-next-harry-bott",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "EDG is now open source. Here\u2019s what comes next -- Harry Bott",
+        "vote": 0
+    }
+]
