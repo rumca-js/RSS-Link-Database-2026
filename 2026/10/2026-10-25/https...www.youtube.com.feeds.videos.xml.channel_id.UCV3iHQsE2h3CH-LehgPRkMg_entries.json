@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "FilmCow",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-25T19:43:34.083236+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-25T19:25:00+00:00",
+        "description": "Writing letters to various companies who make lamps, because lamps give us light.\nhttps://www.kickstarter.com/projects/1556971210/lamp-the-feature-film",
+        "id": 6663067,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=ypROJaJ4sE0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 769,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCV3iHQsE2h3CH-LehgPRkMg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/ypROJaJ4sE0/hqdefault.jpg",
+        "title": "Writing Letters to Lamp Companies",
+        "vote": 0
+    }
+]

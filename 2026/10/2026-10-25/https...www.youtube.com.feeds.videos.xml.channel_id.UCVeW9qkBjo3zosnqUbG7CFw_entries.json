@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Hammond",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-25T19:19:37.743308+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-25T16:01:34+00:00",
+        "description": "There's a lot of noise around AI and cybersecurity, and it's not always easy to separate the hype from what's actually changing. I've been thinking about where the real shift is happening, and what that means for the people on both sides of the equation.\n\nFull video: https://youtu.be/xHDc6-7bjyw?si=UHNB1-VcTJH5XaxV",
+        "id": 6662964,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/oMQbgEj6lgU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 959,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVeW9qkBjo3zosnqUbG7CFw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/oMQbgEj6lgU/hqdefault.jpg",
+        "title": "The AI Threat Landscape",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-25T14:03:47.884250+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-25T11:00:21+00:00",
+        "description": "Learn more about model collapse here \u2192 https://ibm.biz/~bs0HZQOH7\n\nYour AI model runs, but the output is wrong. Antoni Viros i Martin explains how hidden synchronization and graph breaks can quietly slow AI training and reduce compiler optimizations. Learn a practical debugging mindset for improving AI model performance in PyTorch and compiled workloads.\n\n00:00 - The Hidden Cost of Reading a Single Tensor Value\n00:13 - How Torch.compile Optimizes Your Model\n00:35 - Why Accelerators Work Ahead of Python\n00:48 - The .item() Problem: Python Scalar Reads\n01:12 - How Graph Breaks Fragment Optimized Regions\n01:56 - Synchronization: When Python Forces the Chip to Wait\n02:55 - The Real Performance Penalty: Empty Accelerator Queues\n03:03 - How to Avoid These Slowdowns in Compiled Models\n\nContinue your education in the course Compilation for Dataflow on Coursera here \u2192 https://ibm.biz/~yeC2veTHU\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/~6cd",
+        "id": 6661844,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=UgEA5ictENM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/UgEA5ictENM/hqdefault.jpg",
+        "title": "The One-Line Slowdown: Why AI Models Get Slower",
+        "vote": 0
+    }
+]

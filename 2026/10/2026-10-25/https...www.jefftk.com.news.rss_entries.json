@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-26T02:07:19.482238+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-25T08:00:00+00:00",
+        "description": "<p><span>\n\nNow that LLMs have made many kinds of coding a matter of saying what\nyou're looking for, many more programs make sense.  This weekend it\nwas audio mixing software, customized for my use case (live sound for\ncontra dancing) and hardware (a specific obsolete audio interface).\n\n</span>\n\n<p>\n\nIn 2011 PreSonus <a href=\"https://www.prosoundweb.com/presonus-unveils-new-audiobox-vsl-series-interfaces/\">released</a>\nthe 1818VSL, an 8-channel audio interface, with low-latency mixing\nsoftware.  I <a href=\"https://www.jefftk.com/p/audio-interface-laptop-mixer\">wrote</a>:\n\n</p>\n\n<p>\n\n</p>\n\n<blockquote>\n\nAll I really need is a box with some amplifying inputs that send\ntracks from the mic to the laptop and some outputs that let me send\nmixes back out again. Then any sort of complex eq, compression, or\nother effects can happen in software on the laptop. So I got one: it's\na Presonus AudioBox VSL1818, with eight usable inputs and eight usable\noutputs.\n\n</blockquote>\n\n\n\n<p>\n\nAt the time I di",
+        "id": 6664093,
+        "language": "en-US",
+        "link": "https://www.jefftk.com/p/making-a-custom-mixer-interface-for-the-1818vsl",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 163,
+        "source_url": "https://www.jefftk.com/news.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.jefftk.com/in-out-patched-1818vsl.jpg",
+        "title": "Making a Custom Mixer Interface for the 1818VSL",
+        "vote": 0
+    }
+]
