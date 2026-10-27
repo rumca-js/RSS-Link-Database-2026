@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-26T19:20:26.418730+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-26T11:39:16+00:00",
+        "description": "The firebrand left-winger, who has at times been at odds with Trump, has won his fourth term as Brazil's president.",
+        "id": 6668668,
+        "language": "en-gb",
+        "link": "https://www.bbc.co.uk/news/articles/c35yn2ye1x85o",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 524,
+        "source_url": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d11d/live/1448e000-d15d-11f1-9f24-99bf1cc18b1d.jpg",
+        "title": "Who is Lula? From ex-worker and prisoner to Brazil's president again",
+        "vote": 0
+    }
+]

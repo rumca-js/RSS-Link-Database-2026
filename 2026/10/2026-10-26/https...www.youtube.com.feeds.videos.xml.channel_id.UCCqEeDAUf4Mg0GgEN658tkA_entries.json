@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Chris Stuckmann",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-26T15:50:36.139647+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-26T14:00:31+00:00",
+        "description": "Chris Stuckmann reviews Psycho II, starring Anthony Perkins, Meg Tilly, Vera Miles, Robert Loggia, Dennis Franz. Directed by Richard Franklin.",
+        "id": 6667231,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=ruyX98eMAwI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 618,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCqEeDAUf4Mg0GgEN658tkA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/ruyX98eMAwI/hqdefault.jpg",
+        "title": "Psycho II - Movie Review",
+        "vote": 0
+    }
+]

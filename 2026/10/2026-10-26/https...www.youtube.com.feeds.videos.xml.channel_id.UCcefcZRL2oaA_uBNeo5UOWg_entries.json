@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-26T16:47:28.743741+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-26T14:00:10+00:00",
+        "description": "In this episode of Design Review, Marvin Schwaibold, who leads the product design studio at Shopify, joins YC's Aaron Epstein to walk through his design process. He shows the admin redesign and Sidekick work his team recently shipped, a weekend project where he rebuilt real grass as a shader, and a carousel that took 91 attempts to get right. Then they review five viewer-submitted websites with a focus on motion and interactivity. \n\nApply to Y Combinator: https://www.ycombinator.com/apply\nWork at a startup: https://www.ycombinator.com/jobs\n\nHere is the link for the Grass Shader Github Repo if you want to try it out: https://github.com/MarvinSchwaibold/grass-shader \n\nChapters:\n00:00 - How the design process has changed\n03:25 - Inside Shopify's product design studio\n05:58 - Molly, the Brooklyn studio\n08:58 - The Collins bookshelf\n11:51 - Toby's mandate: the future needs to be designed\n13:24 - How the studio works inside Shopify\n15:32 - Sidekick suggestions and the new admin\n18:27 - Desi",
+        "id": 6667661,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=eojywvxqoLc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/eojywvxqoLc/hqdefault.jpg",
+        "title": "The New Full-Stack Designer",
+        "vote": 0
+    }
+]

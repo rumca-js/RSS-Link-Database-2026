@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Blog Staff",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-26T20:20:03.414074+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-26T20:01:38+00:00",
+        "description": "<p>\n\t<img alt=\"logo.png\" src=\"https://isocpp.org/files/img/logo.png\" style=\"width: 225px; margin: 10px; float: right;\" />The compiler generates special member functions as shown in Hinnant&rsquo;s Table. Lieven de Cock shows how reflection can be used to verify them.</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://accu.org/journals/overload/34/194/decock/\">C++ Reflection: Verifying Compiler-generated Functions</a></h3>\n\t<p>\n\t\tby Lieven de Cock</p>\n</blockquote>\n<p>\n\tFrom the article:</p>\n<blockquote>\n\t<p>\n\t\tThe compiler generates special member functions, according to specific rules. These have been described, and have been summarized in a nice table, known as <em>Howard Hinnants&rsquo; table </em>[<a href=\"https://accu.org/journals/overload/34/194/decock/#_idTextAnchor002\">Hinnant20</a>].</p>\n\t<p>\n\t\tUsing reflection, we can verify whether this is indeed correct (which it is), refresh our knowledge of the table, and see some reflection mechanisms at work.</p>\n\t<p>\n\t\tWe will use several toy ",
+        "id": 6668929,
+        "language": "en",
+        "link": "https://isocpp.org//blog/2026/10/cpp-reflection-verifying-compiler-generated-functions-lieven-de-cock",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://isocpp.org/files/img/logo.png",
+        "title": "C++ Reflection: Verifying Compiler-generated Functions -- Lieven de Cock",
+        "vote": 0
+    }
+]

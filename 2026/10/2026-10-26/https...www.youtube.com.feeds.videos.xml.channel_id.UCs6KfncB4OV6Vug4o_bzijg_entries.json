@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Techlore",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-26T22:02:36.054229+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-26T21:35:58+00:00",
+        "description": "F-Droid 2.0 is the biggest update to the FOSS Android app store in a decade. I walk through the redesign, the new search + filters, install prompts that finally come *before* the download (thanks, EU DMA!), automatic updates, Tor VPN, signer info, adding third-party repos, and more!\n\nThank you to Cake Wallet for sponsoring this video! Cake Wallet is a free, open-source, wallet where you own your keys, not a bank or third party. Plus Cake Pay so you can spend crypto on everyday things in the real world. Download it for free now: https://cakewallet.com/install\n\n\ud83d\udd17 SOURCES & LINKS\n\u2022 F-Droid 2.0 Blog: https://f-droid.org/en/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html\n\u2022 Plexus: https://f-droid.org/en/packages/tech.techlore.plexus/\n\n\ud83d\udd0e RELATED VIDEOS\nhttps://youtu.be/ZnYSwX45ODA\nhttps://youtu.be/yj5QL1-jJLg\n\n\ud83d\udce8 Stay ahead of the news without doom-scrolling. Surveillance Report covers what matters in privacy, security, and digital rights. Weekly, free: https://techlore.tech/#/",
+        "id": 6669566,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=9NSPqEXp4Ss",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 327,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/9NSPqEXp4Ss/hqdefault.jpg",
+        "title": "The Biggest F-Droid Update in 10 Years",
+        "vote": 0
+    }
+]

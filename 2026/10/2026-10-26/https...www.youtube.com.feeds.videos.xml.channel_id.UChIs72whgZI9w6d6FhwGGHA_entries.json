@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Gamers Nexus",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-26T20:27:11.483032+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-26T18:12:02+00:00",
+        "description": "SPONSOR: Contribute to FULU Foundation's Consumer Rights Wiki https://geni.us/lAWAZ or join their Zulip server to take action! https://geni.us/jeEBB Find their bounties here: https://geni.us/Iyzy2n\nIt's time to apply all the DIY PC spirit and desire for knowledge toward device ownership, decentralizing, and taking control back from companies. This guide is our first attempt at building DIY routers. We tried several big names, like OPNsense, OpenWrt, DD-WRT, pfSense, IPFire, RouterOS, and Tomato in our efforts to detach from ISPs and big brands that have proven untrustworthy with their routers, especially as privacy policies have expanded to claw deeper into your packet history than even necessary to provide internet functionality. This is part of our new series of self-ownership of devices like routers, NASes, VPNs, self-hosted media, and more. This is part of our Data Dragnet fundraising campaign! Thank you to our viewers for making this possible! https://store.gamersnexus.net/data-d",
+        "id": 6668999,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=sJidlu3pPb4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 428,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChIs72whgZI9w6d6FhwGGHA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/sJidlu3pPb4/hqdefault.jpg",
+        "title": "Your Router Spies On You. It's Time to Build Your Own | DIY Router Guide",
+        "vote": 0
+    }
+]

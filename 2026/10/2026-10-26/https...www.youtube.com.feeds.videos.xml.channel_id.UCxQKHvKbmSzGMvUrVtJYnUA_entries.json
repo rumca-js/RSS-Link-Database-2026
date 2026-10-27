@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Learn Linux TV",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-26T18:44:11.618482+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-26T15:00:00+00:00",
+        "description": "\ud83d\udcda *Switching from Windows to Linux? Check out my book!* https://learnlinux.link/ditch-windows\n\n\ud83c\udf93 *Save 30% or More on Linux Foundation Training & Certifications!* https://learnlinux.link/get-certified\n\nNeed more storage for your Linode instance? In this tutorial, I\u2019ll show you how to create, attach, and mount block storage volumes on Linode, giving your Linux cloud server additional storage without having to rebuild your instance.\n\nWe\u2019ll explore two different ways to create block storage volumes using Akamai Cloud Manager, walk through the process of mounting additional storage in Linux, and more!\n\n*Things I mentioned in this video*\n- 30% discount on Linux Foundation Certs \u279c https://learnlinux.link/get-certified\n- Troubleshooting strategies ebook \u279c https://learnlinux.link/troubleshooting-ebook\n- $100 of Free Linode Starter Credit \u279c https://learnlinux.link/linode\n\n*\ud83d\udcda Discounts, Courses, Books, and More! (Support Linux Learning)*\n- Switching to Linux Book:\n        Amazon \u279c https://www.a",
+        "id": 6668412,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=YlG2LXcSD60",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 997,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxQKHvKbmSzGMvUrVtJYnUA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/YlG2LXcSD60/hqdefault.jpg",
+        "title": "How to Add More Storage to Your Linode (Step-by-Step)",
+        "vote": 0
+    }
+]

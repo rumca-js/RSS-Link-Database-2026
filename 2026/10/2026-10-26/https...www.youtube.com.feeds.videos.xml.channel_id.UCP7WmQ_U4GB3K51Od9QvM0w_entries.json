@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "David Bombal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-26T17:10:21.542691+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-26T16:00:38+00:00",
+        "description": "Can you train AI on a laptop instead of relying on massive data centers?\n\nDavid Bombal joins Nancy Agarwal for a fascinating NVIDIA RTX Spark demonstration showing how AI agents can help train robots using reinforcement learning.\n\nWatch as two simulated Microduck robots learn to play soccer. The AI agent analyzes the results, adjusts reward functions and repeats the training process to help the robots develop new behaviors.\n\nThis goes beyond running an AI chatbot locally. We're seeing how AI agents can help automate robotics development and make experimenting with AI more accessible.\n\nThank you to \u200b\u2060@NVIDIA for sponsoring my trip to GTC Berlin!\n\n#ai #robotics #nvidia",
+        "id": 6667812,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/ZDd-cTSLFIA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 984,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP7WmQ_U4GB3K51Od9QvM0w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/ZDd-cTSLFIA/hqdefault.jpg",
+        "title": "Can You Train AI on a Laptop?",
+        "vote": 0
+    }
+]

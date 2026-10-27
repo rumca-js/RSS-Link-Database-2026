@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "sekurak",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-26T07:13:59.161425+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-26T06:35:38+00:00",
+        "description": "<p>Pobierasz z Internetu zaszyfrowany kontener VeraCrypt. Windows, zgodnie ze swoimi zasadami, oznacza plik strumieniem Zone.Identifier &#8211; Mark of the Web, czyli elektroniczn\u0105 zawieszk\u0105 m\u00f3wi\u0105c\u0105: \u201eprzyby\u0142o z sieci\u201d. Podajesz has\u0142o, kontener montuje si\u0119 jako zwyk\u0142y wolumen NTFS i w\u0142a\u015bnie wtedy dzieje si\u0119 co\u015b, co na pierwszy rzut oka wygl\u0105da na drobiazg,...</p>\n<p>Artyku\u0142 <a href=\"https://sekurak.pl/pralnia-zaufania-veracrypt-mark-of-the-web-i-luka-architektoniczna-windows/\">Pralnia zaufania: VeraCrypt, Mark of the Web, i luka architektoniczna Windows</a> pochodzi z serwisu <a href=\"https://sekurak.pl\">Sekurak</a>.</p>",
+        "id": 6664766,
+        "language": "pl-PL",
+        "link": "https://sekurak.pl/pralnia-zaufania-veracrypt-mark-of-the-web-i-luka-architektoniczna-windows",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 300,
+        "source_url": "https://sekurak.pl/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Pralnia zaufania: VeraCrypt, Mark of the Web, i luka architektoniczna Windows",
+        "vote": 0
+    }
+]

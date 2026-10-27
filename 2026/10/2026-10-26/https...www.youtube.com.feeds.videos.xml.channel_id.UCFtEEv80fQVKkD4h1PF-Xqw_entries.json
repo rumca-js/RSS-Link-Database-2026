@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Microsoft",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-26T19:31:12.564803+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-26T16:00:39+00:00",
+        "description": "Brian Eayrs runs football analysis for the Seattle Seahawks. He works with Copilot in Excel to turn real-time data into insights, helping coaches make more informed decisions on gamedays. Brian uses Copilot to find the insights. The coaches make the call.",
+        "id": 6668708,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/aCNvcXxTSlE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 793,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFtEEv80fQVKkD4h1PF-Xqw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/aCNvcXxTSlE/hqdefault.jpg",
+        "title": "\u200b@Seahawks \ud83e\udd1d Copilot in Excel",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-26T11:19:38.739080+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-26T11:00:26+00:00",
+        "description": "Learn more about Agentic Engineering here \u2192 https://ibm.biz/~Tlo2yQJqq\n\nAI engineering is becoming more than writing code. Cedric Clyburn breaks down five essential concepts behind agentic engineering, including prompt engineering, context engineering, AI agents, and software factories. Learn the ideas shaping the future of AI-assisted software development.\n\n00:00 - AI\u2011Written Code and the Rise of Agentic Engineering\n00:37 - Five Core Concepts Every AI Builder Should Know\n00:56 - Prompt Engineering: Communicating Clearly With Models\n01:42 - Why Domain Expertise Matters More Than Model Size\n02:29 - Few\u2011Shot Prompts and Chain\u2011of\u2011Thought for Smaller Models\n03:22 - Context Engineering: Managing the Model\u2019s Entire Input Window\n04:45 - Sub\u2011Agents, Summaries, and Efficient Context Management\n05:41 - Harness Engineering: Execution, Verification, and Sandboxing\n06:34 - Loop Engineering: Autonomous Agent Action and Triggers\n08:48 - Graph Engineering: Parallel Agents Working Toward One Goal\n09:3",
+        "id": 6665718,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=SIZsFGvtClM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/SIZsFGvtClM/hqdefault.jpg",
+        "title": "Agentic Engineering: 5 Terms Every AI Developer Should Know",
+        "vote": 0
+    }
+]

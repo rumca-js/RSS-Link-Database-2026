@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ACCU Conference",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-26T16:28:49.064880+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-26T14:22:38+00:00",
+        "description": "ACCU Membership: https://tinyurl.com/ydnfkcyn\n---\n\nCreating Composable Callables in Contemporary C++ - Using Senders / Receivers as a Frame Graph - Bj\u00f6rn Fahller - ACCU 2026\n---\n\nC++ took a huge step in the direction of composability when Ranges were introduced in C++20. C++23 improved it, and C++26 looks to improve it even more.\n\nHowever, function objects, sometimes referred to as Niebloids, after Eric Niebler who pioneered their use in the Ranges library, are still few and rarely composable. With function objects we can send functions, and even complete overload sets, as arguments to other functions, return them, and combine them.\n\nI will show you compositions I want, how to write them and with gradual scope creep end up with a very powerful set of utilities that are easy to use and require surprisingly little code when using recent additions to the C++ language.\n\nSlides: https://github.com/Digital-Medium/ACCU-On-Sea-Slides-2026\n---\n\nBj\u00f6rn Fahller\n\nBj\u00f6rn is a senior software develop",
+        "id": 6667529,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=A4mMO5xeQDA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 421,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJhay24LTpO1s4bIZxuIqKw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/A4mMO5xeQDA/hqdefault.jpg",
+        "title": "Creating Composable Callables in C++ - Using Senders / Receivers as a Frame Graph - Bj\u00f6rn Fahller",
+        "vote": 0
+    }
+]
