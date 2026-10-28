@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-27T18:51:50.300573+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-27T18:02:00+00:00",
+        "description": "The large sunshade of NASA\u2019s Near-Earth Object Surveyor mission is inspected by a technician at BAE Systems Space &amp; Mission Systems in Boulder, Colorado, in late July.",
+        "id": 6675268,
+        "language": "en-us",
+        "link": "https://www.nasa.gov/image-detail/1-pia26715-bae-sunshade-inspection-2",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 485,
+        "source_url": "https://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "NASA's Neo Surveyor Sunshade",
+        "vote": 0
+    }
+]

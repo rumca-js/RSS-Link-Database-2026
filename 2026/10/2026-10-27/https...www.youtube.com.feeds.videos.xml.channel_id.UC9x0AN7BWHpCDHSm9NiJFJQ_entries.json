@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NetworkChuck",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-27T18:03:57.532817+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-27T16:37:54+00:00",
+        "description": "Start using Twingate RIGHT NOW: secure remote access with no open ports (free for home labs): https://ntck.co/twingate_jev\nGive a person, a device, or your AI agents access to only the exact things you choose.\n\nJev from TypeSafe can't call tools, can't search the web, and can't even talk. But everyone is freaking out about it, and everyone is copying it. In this video I break down what Jev is, what a decision model (a system one model) actually is, how it's different from ChatGPT and Claude, and whether you should be using it. I put it head to head with ChatGPT on spam comments, use it to route models, order Domino's, and even run my teleprompter while I record this video.\n\nvideo stuff: https://github.com/theNetworkChuck/jev-guide\n\n*Sponsored by Twingate\n\nTIMESTAMPS:\n0:00 What is Jev?\n0:51 Jev can't talk (playground demo)\n2:00 Sponsor: Twingate\n4:09 Jev vs ChatGPT speed\n5:21 100 comments test\n5:40 Why Jev is different\n8:51 Jev vs classifiers\n11:16 How do we use it?\n12:09 Model router ",
+        "id": 6674927,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Ck7wB7pdebQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 565,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9x0AN7BWHpCDHSm9NiJFJQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/Ck7wB7pdebQ/hqdefault.jpg",
+        "title": "you NEED to learn decision models RIGHT NOW!!",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-27T14:35:31.931298+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-27T11:00:06+00:00",
+        "description": "Learn more about Open Source Security here \u2192 https://ibm.biz/~PzvauipSt\n\nAI is finding open-source vulnerabilities faster than ever before. Jeff Crume explains why discovery is only the start, as teams still need to remediate, test, validate, and deploy fixes safely. Learn what securing open source looks like when AI accelerates both sides of the race.\n\n 00:00 \u2013 Understand the Open Source Security Risk\n 01:02 \u2013 See How AI Accelerates Vulnerability Discovery\n 01:42 \u2013 Race Attackers from Discovery to Remediation\n 02:09 \u2013 Understand Why Fixing Vulnerabilities Is Hard\n 04:02 \u2013 Scale Open Source Vulnerability Remediation\n 04:42 \u2013 Move Security Fixes Upstream\n 05:28 \u2013 Coordinate Open Source Security at Scale\n 06:48 \u2013 Follow the Vulnerability Remediation Workflow\n 08:18 \u2013 Coordinate Discovery, Remediation & Disclosure\n 09:17 \u2013 Shift the AI Security Race from Finding to Fixing\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/~qMvWMJjqe\n\nAI was us",
+        "id": 6673460,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=5WlmyncEcNM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/5WlmyncEcNM/hqdefault.jpg",
+        "title": "Open Source Security in the Age of AI",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-27T17:04:22.145710+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-27T11:37:00+00:00",
+        "description": "<p>Since this will be the <em>only</em> source of this process on the Internet<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup>, I figured I'd document a quick fan swap I did on a piece of test/reference equipment I'm running in my <a href=\"https://www.youtube.com/watch?v=3BBxCn4mY5Y\">Atomic Clock Tower</a>.</p>\n<figure class=\"insert-image\"><img src=\"https://www.jeffgeerling.com/blog/2026/noctua-fan-swap-calnex-rb-gps-frequency-reference/calnex-rb-gps-frequency-reference-open.jpeg\"\n\t\t\talt=\"Calnex Rb/GPS Frequency Reference open on workbench\" width=\"700\" height=\"auto\">\n</figure>\n\n<p>I took my Torx T10 screwdriver and popped off the top cover. The screws required some force to loosen, as they were all secured with Loctite.</p>\n<p>The inside is simple and serviceable. There's a <a href=\"https://www.rebes.net/folder/Spectratime/iSync_GRClok-1500_Spec.pdf\">SpectraTime GRClok-1500</a>, with an integrated timing-grade GPS module, and a stabilized 10 MHz ou",
+        "id": 6674464,
+        "language": "en",
+        "link": "https://www.jeffgeerling.com/blog/2026/noctua-fan-swap-calnex-rb-gps-frequency-reference",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 162,
+        "source_url": "https://www.jeffgeerling.com/blog.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.jeffgeerling.com/blog/2026/noctua-fan-swap-calnex-rb-gps-frequency-reference/calnex-rb-gps-frequency-reference-open.jpeg",
+        "title": "Noctua Fan Swap on a Calnex Rb/GPS Frequency Reference",
+        "vote": 0
+    }
+]

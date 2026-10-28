@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Anthony Costa",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-27T18:24:17.045109+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-27T15:00:20+00:00",
+        "description": "There are 57 million people worldwide living with dementia today. For the researchers working to help them, the obstacle isn\u2019t a lack of effort \u2014 it\u2019s too much data, too few experts to synthesize it and a pace of discovery that can\u2019t keep up with the disease.\u00a0 The Consortium for Biomedical Research and AI in [&#8230;]",
+        "id": 6675042,
+        "language": "en-US",
+        "link": "https://blogs.nvidia.com/blog/open-source-ai-tools-cbrain-dementia",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 1019,
+        "source_url": "https://feeds.feedburner.com/nvidiablog",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://blogs.nvidia.com/wp-content/uploads/2026/10/cbrain-nvidia-1-842x450.png",
+        "title": "How AI Is Changing the Pace of Discovery for Millions Living With Dementia",
+        "vote": 0
+    }
+]

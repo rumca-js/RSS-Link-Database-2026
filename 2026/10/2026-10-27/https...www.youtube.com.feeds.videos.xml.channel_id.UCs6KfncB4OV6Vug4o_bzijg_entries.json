@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Techlore",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-27T19:16:49.837564+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-27T18:04:07+00:00",
+        "description": "Mullvad is shutting down its free public DNS on November 2nd, and if you set it up yourself, you need to switch before then. Mullvad VPN is not impacted, but here\u2019s who\u2019s affected and what to use instead. I'll discuss Quad9 if you just want private DNS, or Control D\u2019s free resolvers if you want filtering. I\u2019ll also share why I ended up on NextDNS to keep things free with Tailscale.\n\n\ud83d\udd17 SOURCES & LINKS\n\u2022 Mullvad Announcement: https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead\n\u2022 Quad9: https://quad9.net/\n\u2022 CONTROL D Free DNS: https://controld.com/free-dns\n\u2022 NextDNS Kickback: https://nextdns.io/?from=5v4be7mt\n\u2022 NextDNS: https://nextdns.io/\n\n\ud83d\udd0e RELATED VIDEOS\nhttps://youtu.be/lEi71ukb5AQ\nhttps://youtu.be/WUG57ynLb8I\n\n\ud83d\udce8 Stay ahead of the news without doom-scrolling. Surveillance Report covers what matters in privacy, security, and digital rights. Weekly, free: https://techlore.tech/#/portal/signup\n\n\ud83d\udd10 MORE FROM TECHLORE\n\u2022 Test your privacy ",
+        "id": 6675455,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=IKh2TZCCDm4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 327,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/IKh2TZCCDm4/hqdefault.jpg",
+        "title": "Mullvad DNS Shuts Down November 2nd: What to Do",
+        "vote": 0
+    }
+]

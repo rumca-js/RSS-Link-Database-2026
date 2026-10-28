@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kevin Stratvert",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-27T09:00:20.700620+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-27T07:00:25+00:00",
+        "description": "This Grok Bot tutorial for beginners shows you how to build your first AI team, with bots that watch your inbox, keep your books, and answer support tickets on their own.\n\ud83d\udcb5 Get 50% off QuickBooks Online \u279c https://quickbooks.kevinstratvert.com/\n\nFirst, you'll see what Grok Bot costs, including the 7-day free trial and the cheapest paid plans, and where everything lives in the app.\n\nNext, you'll build your first bot, which connects to Gmail right from the chat and starts watching your inbox for new catering orders on its own.\n\nThen you'll teach it how you like things done, so it remembers your writing rules every time it drafts an email.\n\nAlong the way, you'll learn how to use Grok Bot the way you'd work with a team, messaging the same bot for the same job and hiring a new bot for a new one.\n\nAfter that, you'll see how every bot gets its own computer in the cloud, and you'll teach a bookkeeping bot to categorize transactions in QuickBooks Online just by showing it once.\n\nNext, you'll se",
+        "id": 6671669,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=G6AwOYT-Gbw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 958,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfJT_eYDTmDE-ovKaxVE1ig",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/G6AwOYT-Gbw/hqdefault.jpg",
+        "title": "Grok Bot Tutorial for Beginners",
+        "vote": 0
+    }
+]

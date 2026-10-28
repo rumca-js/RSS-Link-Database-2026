@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-27T15:01:24.696774+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-27T13:05:25+00:00",
+        "description": "Learn how to build high-speed decision-making pipelines for language models using Jev in PyTorch. This comprehensive course covers both encoder and decoder architectures, custom causal attention masking, and KV-cache reuse to bypass slow autoregressive generation. You will also explore fine-tuning techniques, teacher-student distillation, and reinforcement learning methods like GRPO to optimize decision latency and accuracy.\n\nCode: https://github.com/vivekkalyanarangan30/how-jev-works\n\n\u270f\ufe0f Course developed by Vivek Kalyanarangan.\n\ud83d\udcd8 Author, Quantization and Fast Inference (Manning)\nhttps://hubs.la/Q04ff8F40\n\n\u2b50\ufe0f Chapters \u2b50\ufe0f\n\u2013 0:00:00 Introduction & Course Overview\n\u2013 0:01:12 What is Jev & LLM Prefill vs. Decode\n\u2013 0:03:26 Jev Interfaces: Choice, Score, and Boolean\n\u2013 0:05:30 Prerequisites & Hardware Requirements\n\u2013 0:07:10 The 3-Phase Roadmap\n\u2013 0:08:00 Baseline: Vanilla LLM Token-by-Token Decoding\n\u2013 0:13:00 Stepping Through KV Cache & Autoregressive Loops\n\u2013 0:21:24 Encoder-Only Architecture ",
+        "id": 6673612,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=aZglGvBPQGs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/aZglGvBPQGs/hqdefault.jpg",
+        "title": "Jev Course \u2013 Prefill-Only Inference & Decision Models from Scratch",
+        "vote": 0
+    }
+]
