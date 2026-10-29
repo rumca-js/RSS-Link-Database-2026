@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unreal Engine",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-28T16:02:42.577240+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-28T15:45:38+00:00",
+        "description": "Discover how MegaLights in Unreal Engine 5.8 can transform the way you light your environments with thousands of dynamic, shadow-casting lights while maintaining performance.\n\nNow Production Ready in Unreal Engine 5.8, MegaLights enables more flexible lighting workflows, helping you create richly illuminated environments with realistic shadows and greater creative freedom.\n\nIn this Epic Games Office Hours webinar, you'll learn what MegaLights is, why you should use it, and how to get started.\n\nFollow us on Linkedin for more upcoming webinars: https://www.linkedin.com/showcase/unreal-engine-for-design-visualization\n\nDocs:  https://dev.epicgames.com/documentation/unreal-engine/megalights-in-unreal-engine\n\n#UnrealEngine #UE58 #MegaLights #RealTimeRendering #GameDevelopment",
+        "id": 6680857,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=LPKz7gH-T0U",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 685,
+        "source_url": "https://youtube.com/channel/UCBobmJyzsJ6Ll7UbfhI4iwQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/LPKz7gH-T0U/hqdefault.jpg",
+        "title": "Getting Started with Megalights in Unreal Engine 5.8 I Epic Games Education Webinar",
+        "vote": 0
+    }
+]

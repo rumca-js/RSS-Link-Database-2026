@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-28T17:13:26.809056+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-28T16:45:00+00:00",
+        "description": "Throughout this hands-on ethical hacking crash course, you will learn the core Linux fundamentals and essential command-line tools needed to navigate and audit target systems effectively. From network scanning and web enumeration with tools like Nmap, Dirsearch, and Burp Suite, to exploiting vulnerabilities and writing your own automation scripts, you will gain practical, real-world skills. Everything is demonstrated safely and legally inside a local CTF lab environment, so let\u2019s dive right in and get started!\n\nCourse from @declanmidd \n\nSkool Community \u2b07\ufe0f\nhttps://www.skool.com/dex-security-academy-9256/about\n\n\u2764\ufe0f Support for this channel comes from our friends at Scrimba \u2013 the coding platform that's reinvented interactive learning: https://scrimba.com/freecodecamp\n\n\u2b50\ufe0f Chapters \u2b50\ufe0f\n- 0:00:00 Course Overview & Introduction to Parrot OS\n- 0:01:22 Linux Terminal Basics & Navigation (`ls`, `cd`, `mkdir`, `rm`)\n- 0:03:20 Updating the Operating System (`apt update` & `apt upgrade`)\n- 0:06:06 F",
+        "id": 6681448,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=cqfl38Ip1ho",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/cqfl38Ip1ho/hqdefault.jpg",
+        "title": "Ethical Hacking with Parrot OS \u2013 From Linux Basics to Exploitation",
+        "vote": 0
+    }
+]

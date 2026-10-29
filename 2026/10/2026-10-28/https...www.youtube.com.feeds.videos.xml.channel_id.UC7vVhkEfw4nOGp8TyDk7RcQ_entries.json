@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Boston Dynamics",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-28T17:43:25.350744+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-28T17:23:07+00:00",
+        "description": "This gripper sucks\u2014literally. Stretch's vacuum gripper uses individually actuated cups to handle a range of boxes with ease. See what makes the cut, so you can avoid your own frightful freight mismatches this Halloween!",
+        "id": 6681629,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/5bvjSRy76GM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 451,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7vVhkEfw4nOGp8TyDk7RcQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/5bvjSRy76GM/hqdefault.jpg",
+        "title": "The gripper sucks #bostondynamics  #robot",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Techno Tim",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-28T17:41:09.306618+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-28T15:41:21+00:00",
+        "description": "Over the last four months, I've been turning a collection of older GPUs and spare hardware into one local AI platform. Instead of buying more powerful GPUs to run bigger models, I wanted to see how much I could do with what I already had.\n\nI'm running multiple AI models across an RTX 3090, RTX 3060, RTX 2000 Ada, and even Intel's integrated GPU and NPU. Each has its own job, from coding and knowledge retrieval to vision, voice, and intelligent model routing.\n\nIn this video, I'll walk through the hardware, software, and models I'm using, along with demos showing how everything works together.\n\nJust a quick note, this video isn't sponsored. The paid promotion label is there because Sliger sent me the case a few years ago, and Noctua sent me the fans and PSU last year. Neither company even knew I was making this video or had any input into it. I wasn't paid to make it.\n\nSome of these are Amazon affiliate links, which means I may earn a small commission at no extra cost to you.\n\nHARDWARE ",
+        "id": 6681612,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=ukv-LIOI6_E",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 911,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCOk-gHyjcWZNj3Br4oxwh0A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/ukv-LIOI6_E/hqdefault.jpg",
+        "title": "I Built a Local AI Server Without Buying New GPUs",
+        "vote": 0
+    }
+]

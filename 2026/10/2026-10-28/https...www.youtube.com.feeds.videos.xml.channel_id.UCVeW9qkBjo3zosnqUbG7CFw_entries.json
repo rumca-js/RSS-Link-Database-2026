@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Hammond",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-28T19:41:30.527907+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-28T18:12:09+00:00",
+        "description": "What if you could explore malware research inside Minecraft? I've been using AI to build a mod that gamifies cybersecurity research, and for this experiment, I switched from Codex to Claude to see what would happen.\n\nWatch the full video: https://youtu.be/bhbYRKI46VM?si=QzRc3VjCBwaXy7tr",
+        "id": 6682577,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/VjesGKMKqxo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 959,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVeW9qkBjo3zosnqUbG7CFw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/VjesGKMKqxo/hqdefault.jpg",
+        "title": "AI Meets Minecraft",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unreal Sensei",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-28T21:20:37.059579+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-28T19:30:57+00:00",
+        "description": "How to create games with AI in Unreal Engine 5! In this tutorial you will learn how to connect Unreal to your AI of choice (Claude, ChatGPT or others), generate C++ code, what are AI's strengths and weaknesses and when to use it. By the end of this tutorial you will be able to create games with zero code or programming experience. AI generated code is recommended by Epic Games as the main way we create games in Unreal Engine 5.8.\n\nCheckout the Unreal Masterclass:\nhttps://www.unrealmasterclass.com\n\nLink to Assets:\nhttps://unrealsensei.com/AIStarterAssets\n\nFollow on Twitter:\nhttps://x.com/unrealsensei\n\nChapters:\n0:00 - Intro\n6:07 - MCP\n21:17 - C++ Set Up\n33:10 - AI Memory and Effort\n44:11 - Control with Properties\n1:01:08 - Blueprint Relationship\n1:14:06 - Unreal Masterclass\n1:19:11 - AI Generated Art\n1:30:30 - Blob!\n1:38:18 - Game Logic\n2:03:21 - Level Design\n2:09:49 - User Interface\n2:15:02 - Final Game",
+        "id": 6683105,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=R_HFCPd5eAw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 542,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCue7TFlrt9FxXarpsl872Dg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/R_HFCPd5eAw/hqdefault.jpg",
+        "title": "How to Make Games in Unreal Engine 5 with AI",
+        "vote": 0
+    }
+]

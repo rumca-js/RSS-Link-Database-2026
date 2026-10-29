@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Learn Linux TV",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-28T15:40:52.641694+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-28T15:00:25+00:00",
+        "description": "\ud83d\udcda *Check out my new \"Switching to Linux book\", 40% Off Until 11/15!* https://learnlinux.link/ditch-windows\n\n\ud83c\udf93 *Save 30% or More on Linux Foundation Training & Certifications!* https://learnlinux.link/get-certified\n\nTired of running flatpak update by hand? In this tutorial, you\u2019ll learn how to create a systemd service and timer that keeps your Flatpak apps updated automatically in the background. We\u2019ll write the unit files, enable the timer, check that it\u2019s working, and look at the logs. This works on any distro that uses systemd. It\u2019s also a practical introduction to systemd timers, which you can use to schedule just about any task on Linux.\n\nTo access the code I used in this video, check out the blog post - https://learnlinux.link/flatpak-update\n\n*\ud83d\ude80 Level Up Your Linux Skills & Support Learn Linux TV!*\n  - *Official Learn Linux TV Merch* - https://merch.learnlinux.tv\n  - *Grab my troubleshooting strategies ebook* - https://learnlinux.link/troubleshooting-ebook\n  - *Explore my hands-o",
+        "id": 6680709,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Vd4S59KP35I",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 997,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxQKHvKbmSzGMvUrVtJYnUA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/Vd4S59KP35I/hqdefault.jpg",
+        "title": "How to Keep Flatpaks Updated with a systemd Service",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Hank Green",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-28T19:26:51.145891+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-28T17:49:09+00:00",
+        "description": "I'm start to see some cracks in the bizarre exterior here...I think people are waking up to what a con man this guy is...\n\n\n***Datasets used in the analysis:\n\nGlobal and country measles cases\nWHO Immunization Data Portal - https://immunizationdata.who.int/\n\nUS cases\nCDC cases by state https://www.cdc.gov/measles/data-research/index.html\n2026 cases by age and vaccination status: https://www.contagionlive.com/view/measles-update-october-9-2026\n\nVaccination and exemptions\nCoverage for every country- WHO Immunization Data Portal - https://immunizationdata.who.int/\nUS kindergarten MMR coverage and exemptions https://data.cdc.gov/Vaccinations/Vaccination-Coverage-and-Exemptions-among-Kinderga/ijqb-a7ye\nOn-time first MMR doses https://www.truveta.com/blog/research/delayed-or-absent-first-dose-of-measles-mumps-and-rubella-vaccination/\n\nPopulation and wealth\nCountry population, 2023 https://ourworldindata.org/grapher/population\nGDP per person https://ourworldindata.org/grapher/gdp-per-capita-w",
+        "id": 6682448,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=peXe_nSJh0A",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 507,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCOT2iLov0V7Re7ku_3UBtcQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/peXe_nSJh0A/hqdefault.jpg",
+        "title": "What the Hell is Going On with RFK Jr.",
+        "vote": 0
+    }
+]

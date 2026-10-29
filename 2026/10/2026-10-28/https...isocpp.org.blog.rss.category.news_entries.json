@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Blog Staff",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-28T20:39:10.082338+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-28T20:02:51+00:00",
+        "description": "<p>\n\t<img alt=\"SANDOR_DARGO_ROUND.JPG\" src=\"https://isocpp.org/files/img/SANDOR_DARGO_ROUND.JPG\" style=\"width: 200px; margin: 10px; float: right; height: 204px;\" />C++26 introduces <code dir=\"ltr\">std::indirect</code>, a new vocabulary type that brings value semantics to dynamically allocated objects. It offers deep copying, const propagation, and value-based comparisons without the boilerplate commonly required when using <code dir=\"ltr\">std::unique_ptr</code>.</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://www.sandordargo.com/blog/2026/08/12/cpp26-indirect\">C++26: std::indirect</a></h3>\n\t<p>\n\t\tby Sandor Dargo</p>\n</blockquote>\n<p>\n\tFrom the article:</p>\n<blockquote>\n\t<p>\n\t\tC++26 adds two new vocabulary types in <code>&lt;memory&gt;</code>, introduced by <a href=\"https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2025/p3019r14.pdf\">P3019R14</a> (Coe, Peacock, Parent). From the abstract:</p>\n\t<blockquote>\n\t\t<p>\n\t\t\t<em>The class template <code>indirect</code> confers value-like semantics o",
+        "id": 6682926,
+        "language": "en",
+        "link": "https://isocpp.org//blog/2026/10/cpp26-stdindirect-sandor-dargo",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://isocpp.org/files/img/SANDOR_DARGO_ROUND.JPG",
+        "title": "C++26: std::indirect -- Sandor Dargo",
+        "vote": 0
+    }
+]

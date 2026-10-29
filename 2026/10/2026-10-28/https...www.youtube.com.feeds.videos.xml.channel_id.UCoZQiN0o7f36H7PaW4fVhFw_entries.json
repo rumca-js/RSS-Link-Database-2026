@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Retro Game Corps",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-28T15:54:11.103917+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-28T14:00:29+00:00",
+        "description": "Recent updates to the HakuX Xbox emulator have made some incredible advancements, to the point that original Xbox emulation feels almost like a solved problem. Here is how to set it up yourself.\n\nHakuX GitHub page: https://github.com/rfandango/hakuX\nRecommended drivers (v27.0.0-R1): https://github.com/StevenMXZ/Adreno-Tools-Drivers/releases/tag/v27.0.0-R1\nXISO Packer web tool: https://xiso.antangelo.com/\n\nCheck out my weekly newsletter: http://news.retrogamecorps.com/\n\nWays to support this channel:\nRGC merch: https://store.retrogamecorps.com\nYT channel membership: https://www.youtube.com/channel/UCoZQiN0o7f36H7PaW4fVhFw/join\nPatreon: https://www.patreon.com/retrogamecorps\nKo-Fi: https://ko-fi.com/retrogamecorps\n\nTimestamps:\n00:00 introduction\n02:17 installation and setup\n04:31 app configuration\n08:02 SD865 and Mali testing\n09:25 SD8 Gen 2 testing\n14:10 wireless LAN gameplay\n15:04 summary and conclusion\n\nFind me on Discord! https://discord.gg/retrohandhelds\n\nTheme song written by Jim G",
+        "id": 6680791,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=dArXBa1r388",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 823,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCoZQiN0o7f36H7PaW4fVhFw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/dArXBa1r388/hqdefault.jpg",
+        "title": "OG Xbox Emulation on Android is REALLY Good Now",
+        "vote": 0
+    }
+]

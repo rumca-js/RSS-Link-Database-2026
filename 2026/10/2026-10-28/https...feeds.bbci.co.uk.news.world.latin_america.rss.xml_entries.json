@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-28T22:42:19.860314+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-28T19:15:27+00:00",
+        "description": "The BBC's Ione Wells looks at whether the defeated right-wing presidential candidate travelled to the US to avoid an ongoing criminal investigation.",
+        "id": 6683547,
+        "language": "en-gb",
+        "link": "https://www.bbc.co.uk/news/videos/cjx23vnv63yeo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 524,
+        "source_url": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67a3/live/f72309e0-d302-11f1-b441-2b33b063138f.jpg",
+        "title": "Watch: Has Fl\u00e1vio Bolsonaro fled Brazil to evade justice?",
+        "vote": 0
+    }
+]

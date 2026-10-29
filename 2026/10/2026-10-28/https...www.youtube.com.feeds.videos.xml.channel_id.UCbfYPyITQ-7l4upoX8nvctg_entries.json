@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Two Minute Papers",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-28T18:17:24.565475+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-28T17:32:40+00:00",
+        "description": "\u2764\ufe0f Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n\ud83d\udcdd DeepSeek v4.1 Flash 1017 is available here:\nhttps://api-docs.deepseek.com/news/news261017/\n\nSources:\nhttps://x.com/marcthecreatorr/status/2111427716142571554/video/1\nhttps://x.com/olezhavich/status/2112897791022264814/video/1\nhttps://x.com/notjazii/status/2111432925313179689/video/1\nhttps://x.com/izag82161/status/2113126108787089811/video/1\nhttps://x.com/notjazii/status/2111414086349336841/photo/1\nhttps://x.com/EnvolDev/status/2112304943076184535/video/1\nhttps://x.com/loktar00/status/2111468860935127532/video/1\nhttps://x.com/ItsmeAjayKV/status/2114036230354788581/video/1\nhttps://x.com/SPAC89/status/2111413922989224089/video/1\nhttps://x.com/marcthecreatorr/status/2114074078340649183/video/1\n\n\ud83d\ude4f We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, B Shang, Carlos Galarza, Christian Ahlin, Eric Tyson, Juan Benet, Lukas Biewald, Michael Tedder, Owen Ska",
+        "id": 6681953,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=pryCaGv8wuo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 945,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbfYPyITQ-7l4upoX8nvctg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/pryCaGv8wuo/hqdefault.jpg",
+        "title": "Deepseek's New AI Has A Secret",
+        "vote": 0
+    }
+]
