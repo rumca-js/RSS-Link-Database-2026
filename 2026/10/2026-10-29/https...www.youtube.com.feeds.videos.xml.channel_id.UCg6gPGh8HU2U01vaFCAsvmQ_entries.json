@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Chris Titus Tech",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-29T13:22:05.139828+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-29T11:15:36+00:00",
+        "description": "I was using AI skills wrong. You don't need a skill for something AI already does well. You need one for the things it keeps getting wrong, or the behaviors you want to change.\n\nIn this video, I introduce titstack, my collection of AI skills, and walk through how I use them to make AI work the way I want. From more natural YouTube thumbnails to repeatable book publishing workflows and Linux desktop troubleshooting, the goal is to spend less time repeating the same corrections.\n\nWe cover:\n- When you actually need an AI skill\n- Keeping AI thumbnails natural and preserving real people\n- Using Photocraft for editable, layered images\n- Standardizing mdBook and Amazon KDP publishing workflows\n- Giving AI context about your Linux environment\n- Adapting skills for Claude, Codex, and local models\n- Why downloading every skill isn't the answer\n\nUse these examples as a starting point, then tailor them to your own workflow.\n\nSponsored by Firecrawl:\nhttps://link.christitus.com/firecrawl\n\nLinux Des",
+        "id": 6686904,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=TpYBwkhy9JY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 444,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCg6gPGh8HU2U01vaFCAsvmQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/TpYBwkhy9JY/hqdefault.jpg",
+        "title": "You're Using AI Skills Wrong (I Was Too)",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ACCU Conference",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-29T15:36:35.401172+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-29T13:27:29+00:00",
+        "description": "ACCU Membership: https://tinyurl.com/ydnfkcyn\n---\n\nIncrementally Migrating C++ to a Memory Safe Language with Swift - Tim Condon - ACCU 2026\n---\n\nThere has been a desire in recent years to migrate to memory safe languages to counter common errors that can have a big impact. This talk looks at Swift and how it's being adopted in a number of critical applications and stacks, like kernels, operating systems and web browsers. We'll look at some of its features, its focus on safety that removes several classes of errors, such as data races and null pointer exceptions. We will see how its first-class interoperability with C++ means you can migrate incrementally without having to do a major rewrite in one go. Finally we'll look at the latest features that allow you to rewrite memory-safe code, even when crossing language boundaries. \n\nSlides: https://github.com/Digital-Medium/ACCU-On-Sea-Slides-2026\n---\n\nTim Condon\n\nTim is a Swift developer from Manchester, UK and one half of the Vapor Core ",
+        "id": 6687843,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=LMQ21X6_2FQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 421,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJhay24LTpO1s4bIZxuIqKw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/LMQ21X6_2FQ/hqdefault.jpg",
+        "title": "Incrementally Migrating C++ to a Memory Safe Language with Swift - Tim Condon - ACCU 2026",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "David Ingram",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-29T23:21:29.860396+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-29T22:46:29+00:00",
+        "description": "Cryptocurrency exchange Binance is investigating a potential hack after a series of very large transfers on the platform caught the attention of traders.",
+        "id": 6690651,
+        "language": "en-US",
+        "link": "https://www.nbcnews.com/business/markets/binance-hack-tether-circle-stablecoins-rcna606445",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 223,
+        "source_url": "https://feeds.nbcnews.com/nbcnews/public/tech",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-10/261029-binance-vsb-1816-fb8d39.jpg",
+        "title": "Fears of Binance hack prompt Tether, Circle to freeze over $1.5 billion in funds",
+        "vote": 0
+    }
+]

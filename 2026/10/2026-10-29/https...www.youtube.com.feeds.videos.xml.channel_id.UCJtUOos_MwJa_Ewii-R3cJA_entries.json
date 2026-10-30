@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Leila Gharani",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-29T11:42:40.232177+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-29T10:00:29+00:00",
+        "description": "Inherited a huge Excel file? Here are 8 practical ways to audit the workbook. \n\ud83d\udce5 Download the practice file: https://www.xelplus.com/audit-excel-workbook/?utm_source=yt-video&utm_medium=vid-description&utm_campaign=download-audit-workbook&utm_content=audit-excel-workbook#download\n\nStart with Workbook Statistics and the Navigation pane to understand how the file is organized. Use Focus Cell and Freeze Panes to navigate large sheets without getting lost.\n\nThen follow calculations across sheets with Trace Precedents and Trace Dependents. Use the Watch Window to see how KPIs change when you adjust an input, and Go To Special to find hard-coded numbers and inconsistent formulas hiding in a column.\n\nYou'll also see why spilled formulas are less vulnerable to accidental changes, and how Copilot can help explain a workbook you didn't build.\n\n\ud83c\udf93 500,000+ enrolled in our courses. Learn the Excel features you use every day with Excel Essentials \ud83d\udc49 https://www.xelplus.com/course/learn-excel-essenti",
+        "id": 6686313,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=6hQY3Sx-BDM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 957,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJtUOos_MwJa_Ewii-R3cJA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/6hQY3Sx-BDM/hqdefault.jpg",
+        "title": "Inherited a Huge Excel File? Start With These 8 Tools",
+        "vote": 0
+    }
+]

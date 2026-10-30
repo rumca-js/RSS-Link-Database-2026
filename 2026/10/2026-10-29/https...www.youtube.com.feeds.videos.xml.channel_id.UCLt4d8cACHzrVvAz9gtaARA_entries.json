@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Neuralink",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-29T19:23:39.987194+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-29T18:53:19+00:00",
+        "description": "Our engineers recently spent 72 hours with a participant in our speech restoration study at his home for a hackathon. The goal was simple: rapidly prototype as many features as possible to improve the experience of using Neuralink to communicate with thought, and test every one of them with the end user.\n\nNeuralink devices are investigational and have not been approved by the FDA or other regulatory authorities. This video features voluntary clinical trial participants sharing their personal experiences, which may not reflect all participants or future outcomes.",
+        "id": 6689410,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=emi5O7LeiyU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 874,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLt4d8cACHzrVvAz9gtaARA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/emi5O7LeiyU/hqdefault.jpg",
+        "title": "An Engineering Sprint For Speech Restoration | Neuralink",
+        "vote": 0
+    }
+]

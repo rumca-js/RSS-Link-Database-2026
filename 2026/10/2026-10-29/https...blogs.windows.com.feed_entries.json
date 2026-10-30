@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Microsoft Edge Team",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-29T17:21:25.646041+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-29T15:56:55+00:00",
+        "description": "<p>We're excited to announce that Edge is the first browser to support accelerated app launches on Windows, delivering a faster and more consistent browser launch experience.</p>\n<p>With accelerated app launch, most Windows users will see a <strong>15% launch</p>\n<p>The post <a href=\"https://blogs.windows.com/msedgedev/2026/10/29/edge-is-faster-on-windows-with-accelerated-app-launches/\">Edge is faster on Windows with Accelerated App Launches</a> appeared first on <a href=\"https://blogs.windows.com\">Windows Blog</a>.</p>",
+        "id": 6688569,
+        "language": "en-US",
+        "link": "https://blogs.windows.com/msedgedev/2026/10/29/edge-is-faster-on-windows-with-accelerated-app-launches",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 1016,
+        "source_url": "https://blogs.windows.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://winblogs.thesourcemediaassets.com/sites/33/2026/10/Download-the-extra-process-diagram.png",
+        "title": "Edge is faster on Windows with Accelerated App Launches",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-29T04:31:30.476989+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-29T03:43:23+00:00",
+        "description": "Australian company Rapid Analysis has launched a new Kickstarter campaign for its Xerxes Home Lab platform, featuring updated carrier boards for Raspberry Pi Compute Modules and NVIDIA Jetson systems. The lineup includes the Xerxes Pi 2026, Xerxes Nano, and an RK3566-based compute module, targeting home servers, embedded systems, and local AI applications. The campaign follows [&#8230;]",
+        "id": 6684641,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/xerxes-home-lab-adds-jetson-support-nvme-and-poe",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Xerxes Home Lab adds Jetson support, NVMe, and PoE",
+        "vote": 0
+    }
+]

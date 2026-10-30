@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "James Bruton",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-29T17:06:10.715760+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-29T15:50:34+00:00",
+        "description": "Ad: Get your own Makera Canvera Air Desktop CNC Machine today: https://global.makera.com/en-gb/products/carvera-air\n\ud83d\udc49 Makera Official INS: https://www.instagram.com/makera_inc/\n\ud83d\udc49 Join in Makera Facebook Group - Carvera Air: https://www.facebook.com/groups/carveraair\n\ud83d\udc49 Makera Official YouTube: https://www.youtube.com/@Makera\n#Makera #BestDesktopCNC #CarveraAir #CNCMachine\n\nIn this video I\u2019m going to train AI to learn how to make BattleBot Combat Robots fight autonomously and then build them in real life.\nYes they\u2019re made out of vacuum cleaners \u2013 called Henry and Harry \u2013 because they already have faces which makes them the ideal platform for embodied AI.\nI'm using Pygame, Gymnasium, Stable_Baselines3 and Pytorch to train the model.\nThe first thing we need to do though, is train an artificial neural network to learn how to make BattleBots fight each other autonomously.\nGymnasium doesn\u2019t have any graphical environment, so we\u2019re going to use the game I already wrote for that.\nGymnasium its",
+        "id": 6688454,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=94AMYAVnpsk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 852,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCUbDcUPed50Y_7KmfCXKohA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/94AMYAVnpsk/hqdefault.jpg",
+        "title": "Reinforcement Learning BattleBots",
+        "vote": 0
+    }
+]

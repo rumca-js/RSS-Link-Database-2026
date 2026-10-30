@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-29T11:49:50.848427+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-29T11:00:03+00:00",
+        "description": "Learn more about Quantization here \u2192 https://ibm.biz/~NdqpU881V\n\nHuge AI models come with huge memory requirements.Grace Ableidinger explains how quantization compresses LLMs using lower-precision formats like INT8 and INT4. Learn how model size, GPU memory, speed, and accuracy trade off during AI inference.\n\n 00:00 \u2013 Understand What Quantization Does\n 00:23 \u2013 See Why LLMs Need Quantization\n 00:51 \u2013 Connect AI Parameters to Memory Requirements\n 01:31 \u2013 Calculate the Memory Cost of a 70B LLM\n 02:13 \u2013 See How Quantization Reduces Precision\n 02:53 \u2013 Follow Quantization Layer by Layer\n 04:21 \u2013 Compare FP16, FP8, INT8 & INT4\n 05:34 \u2013 Balance Memory Savings with Model Accuracy\n 06:33 \u2013 Compare PTQ vs Quantization-Aware Training\n 07:17 \u2013 Choose the Right Quantization Tradeoff\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/~SLKUNTFaQ\n\nAI was used in the creation of the transcript and metadata for this video.\n\n#llm #aimodels #aiinference #machin",
+        "id": 6686342,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=mmns33BsBcY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/mmns33BsBcY/hqdefault.jpg",
+        "title": "What Is Quantization? How AI Models Get Smaller & Faster",
+        "vote": 0
+    }
+]

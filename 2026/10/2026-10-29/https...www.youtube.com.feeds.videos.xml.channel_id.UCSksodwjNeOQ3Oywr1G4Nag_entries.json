@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Engineezy",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-29T23:34:44.732740+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-29T20:07:28+00:00",
+        "description": "I turned my lawn into a Halloween monster\u2026\n\u2022\u2022\u2022\nThe eyes all use a single camera to track people walking past, but because they\u2019re spread across the lawn, each one needs to point in a different direction to watch the same person. So I used Codex to build an app where I can set each eye\u2019s position relative to the camera. The app tracks the person, calculates the motor angles for each eye, and sends those angles through a wireless gateway to the individual eye controllers.\n\u2022\u2022\u2022\nA lot of you asked what happens when two people walk by at the same time, so I used Codex to add a rule that splits Fooky\u2019s attention: five eyes following each person. The moving eyelids and color-changing LEDs give Fooky some personality too. Usually it\u2019s just curious. But when a tiny monster walks by, Fooky gets spooky.\n\u2022\u2022\u2022\n@OpenAI  #ChatGPT_Partner #engineering #robotics #halloween #animatronics",
+        "id": 6690713,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/Ucewx0Hkfdw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 858,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSksodwjNeOQ3Oywr1G4Nag",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/Ucewx0Hkfdw/hqdefault.jpg",
+        "title": "I turned my lawn into a monster",
+        "vote": 0
+    }
+]

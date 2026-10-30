@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-29T09:05:05.891770+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-29T09:00:00+00:00",
+        "description": "<div id=\"remove_no_follow\">\n\t\t<div class=\"grid grid--cols-10@md grid--cols-8@lg article-column \">\n\t\t\t\t\t  <div class=\"col-12 col-10@md col-6@lg col-start-3@lg\">\n\t\t\t\t\t\t<div class=\"article-column__content\">\n<section class=\"wp-block-bigbite-multi-title\"><div class=\"container\"></div></section>\n\n\n\n<p class=\"wp-block-paragraph\">If you\u2019ve experimented with <a href=\"https://www.infoworld.com/article/2255250/what-is-rust-safe-fast-and-easy-software-development.html\" data-type=\"link\" data-id=\"https://www.infoworld.com/article/2255250/what-is-rust-safe-fast-and-easy-software-development.html\">Rust</a>, you already know how simple it is to get a basic toolchain in place, with the simple <a href=\"https://rustup.rs/\" data-type=\"link\" data-id=\"https://rustup.rs/\">rustup</a> command-line tool. The same tool works on Windows, macOS, and Linux, building a consistent environment that\u2019s ready for you to pick up your favorite coding editor and start work.</p>\n\n\n\n<p class=\"wp-block-paragraph\">It\u2019s a simple ",
+        "id": 6685548,
+        "language": "en-US",
+        "link": "https://www.infoworld.com/article/4241187/simplifying-net-toolchain-installs-with-dotnetup.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 468,
+        "source_url": "https://www.infoworld.com/feed/",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Simplifying .NET toolchain installs with dotnetup",
+        "vote": 0
+    }
+]

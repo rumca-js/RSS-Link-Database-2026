@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Tesla",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-29T07:32:08.092249+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-29T00:46:06+00:00",
+        "description": "Trick or treaters beware \ud83d\udc7b\n\nEnable Trick or Treat in Halloween Mode and your Tesla will play spooky sounds & lights when visitors approach. Rolling out now in an over-the-air software update\n\nTo enable:  Toybox \u2192 Halloween Mode \u2192 Trick or Treat",
+        "id": 6685201,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=P1s0L_RQ5MU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 805,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5WjFrtBdufl6CZojX3D8dQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/P1s0L_RQ5MU/hqdefault.jpg",
+        "title": "Trick or Treat | Tesla Halloween Mode",
+        "vote": 0
+    }
+]

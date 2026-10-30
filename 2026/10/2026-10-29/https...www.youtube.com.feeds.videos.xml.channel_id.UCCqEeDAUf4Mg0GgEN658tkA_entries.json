@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Chris Stuckmann",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-29T14:44:38.387455+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-29T14:00:12+00:00",
+        "description": "Chris Stuckmann reviews Dark Night of the Scarecrow, starring Charles Durning, Robert F. Lyons, Claude Earl Jones, Lane Smith, Tonya Crowe, Larry Drake, Jocelyn Brando, Tom Taylor. Directed by Frank De Felitta.",
+        "id": 6687411,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=44pyO-cgIE4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 618,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCqEeDAUf4Mg0GgEN658tkA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/44pyO-cgIE4/hqdefault.jpg",
+        "title": "Dark Night of the Scarecrow - Movie Review",
+        "vote": 0
+    }
+]

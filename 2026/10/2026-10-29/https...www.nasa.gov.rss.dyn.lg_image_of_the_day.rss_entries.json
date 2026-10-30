@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-29T15:57:36.341345+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-29T15:02:00+00:00",
+        "description": "A sinuous spiral galaxy (center) appears in the same field of view as a vivid gravitational lens (right corner) in this Hubble image.",
+        "id": 6687910,
+        "language": "en-us",
+        "link": "https://www.nasa.gov/image-detail/55606049603-e8822462fe-o",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 485,
+        "source_url": "https://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "NASA's Hubble Marks Way for Roman Space Telescope",
+        "vote": 0
+    }
+]

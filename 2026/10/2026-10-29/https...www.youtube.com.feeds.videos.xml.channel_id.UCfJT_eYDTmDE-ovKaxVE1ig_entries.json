@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kevin Stratvert",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-29T09:51:51.446130+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-29T07:00:37+00:00",
+        "description": "Learn how to create an interactive Excel dashboard with Microsoft Copilot. In this step-by-step tutorial, we build a sales dashboard from sample data, explore interactive filters, verify key metrics, customize the design, and see the dashboard automatically update when a new order is added.\n\nHost: Kevin Stratvert\n\n\ud83d\udcda RESOURCES\n- Sample Excel workbook: https://1drv.ms/x/c/b09f9559f6a16b6c/IQBfflBBTT40QogwtC2-DZyCAdXLGSFSJjE1NbP4yFntwPc?e=eAR7Mu\n\nPrompt 1: Create the dashboard\nCreate a professional, interactive sales dashboard using the data in this workbook. Include key sales metrics, charts showing sales trends and performance, and interactive filters so I can explore the data. Put everything on a new worksheet.\n\nPrompt 2: Customize the theme\nRedesign the dashboard with a modern dark theme using navy blue backgrounds, gold accents, and high-contrast white text. Keep the existing layout, charts, metrics, and interactive filters fully functional. Make sure all labels and charts remain ea",
+        "id": 6685745,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=YgcEesCDIkw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 958,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfJT_eYDTmDE-ovKaxVE1ig",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/YgcEesCDIkw/hqdefault.jpg",
+        "title": "How to Create an Excel Dashboard with Copilot",
+        "vote": 0
+    }
+]
