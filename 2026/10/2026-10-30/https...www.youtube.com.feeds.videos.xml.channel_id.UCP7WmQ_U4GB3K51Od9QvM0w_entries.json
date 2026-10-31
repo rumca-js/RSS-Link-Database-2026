@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "David Bombal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-30T16:13:43.732023+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-30T15:00:20+00:00",
+        "description": "What happens when NVIDIA's AI drives a Mercedes-Benz CLA through Berlin traffic? David Bombal rides along to see how Alpamayo and the Halos safety stack work together. \n\nAt GTC Berlin, I ride in a Mercedes-Benz CLA running a development version of NVIDIA's Alpamayo driving software. We encounter cyclists, pedestrians, narrow roads, unusual junctions, parked cars and unpredictable drivers while the car handles much of the driving under human supervision. \n\nWe look at what is actually happening behind the scenes: an end-to-end AI model proposes a driving path, a separate classical safety stack checks the environment and rules, and a trajectory arbiter decides when to allow the plan or fall back. The car uses on-board NVIDIA DRIVE Orin computing, cameras, radar and ultrasonic sensors.\n\nWe also discuss training with US and European driving data, simulation with NVIDIA Cosmos, the difference between this development vehicle and NVIDIA's downloadable Alpamayo research models, and what it ta",
+        "id": 6694975,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=BzjtyyIOipA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 984,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP7WmQ_U4GB3K51Od9QvM0w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/BzjtyyIOipA/hqdefault.jpg",
+        "title": "This Is How NVIDIA's AI Mercedes Drives in Real Traffic",
+        "vote": 0
+    }
+]

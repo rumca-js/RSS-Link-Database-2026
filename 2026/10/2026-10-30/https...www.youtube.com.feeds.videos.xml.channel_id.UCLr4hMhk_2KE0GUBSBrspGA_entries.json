@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kuba Klawiter",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-30T14:00:28.230272+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-30T13:42:05+00:00",
+        "description": null,
+        "id": 6694017,
+        "language": "pl-PL",
+        "link": "https://www.youtube.com/watch?v=ci9MQ1oUyS8",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 179,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLr4hMhk_2KE0GUBSBrspGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/ci9MQ1oUyS8/hqdefault.jpg",
+        "title": "Rozebrali\u015bmy iPhone\u2019a Duo. Dlaczego pad\u0142 po 75 tysi\u0105cach z\u0142o\u017ce\u0144?",
+        "vote": 0
+    }
+]

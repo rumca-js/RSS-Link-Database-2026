@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-30T01:40:59.115737+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-30T00:30:29+00:00",
+        "description": "The Nano Pro Gen15 is a compact Linux mini PC powered by Intel&#8217;s Core Ultra X7 358H processor with integrated Arc B390 graphics. Developed by TUXEDO Computers, the system supports up to 128GB of DDR5 memory, dual NVMe SSDs, four 4K displays, and dual 2.5GbE connectivity. It can be used for software development, local AI [&#8230;]",
+        "id": 6691157,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/tiny-linux-box-packs-panther-lake-arc-graphics-and-dual-2-5gbe",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Tiny Linux box packs Panther Lake, Arc graphics and dual 2.5GbE",
+        "vote": 0
+    }
+]

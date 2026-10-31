@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Blog Staff",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-30T20:24:23.914473+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-30T20:05:55+00:00",
+        "description": "<p>\n\t<img alt=\"filipek-hardenng.png\" src=\"https://isocpp.org/files/img/filipek-hardenng.png\" style=\"width: 341px; margin: 10px; float: right;\" />C++26 introduces Standard Library hardening to help catch common programming errors that previously could result in undefined behaviour. This article explores how hardening works, what library operations it covers, and how today&rsquo;s major compilers are implementing it.</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://www.cppstories.com/2026/hardening-experiments/\">C++26: Standard Library Hardening Experiments</a></h3>\n\t<p>\n\t\tby Bartlomiej Filipek</p>\n</blockquote>\n<p>\n\tFrom the article:</p>\n<blockquote>\n\t<p>\n\t\t<em>&ldquo;Hardening&rdquo;</em> seems to be a very popular term in the C++ World in 2026. In this article we&rsquo;ll explore what this word means and see some core examples. Can a hardened library make C++ fully safe? Let&rsquo;s find out.</p>\n\t<p id=\"the-core-idea\">\n\t\t<strong>The Core Idea</strong></p>\n\t<p>\n\t\tWhen you learned about <cod",
+        "id": 6696471,
+        "language": "en",
+        "link": "https://isocpp.org//blog/2026/10/cpp26-standard-library-hardening-experiments-bartlomiej-filipek",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://isocpp.org/files/img/filipek-hardenng.png",
+        "title": "C++26: Standard Library Hardening Experiments -- Bartlomiej Filipek",
+        "vote": 0
+    }
+]

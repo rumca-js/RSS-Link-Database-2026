@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Chris Porter",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-30T21:01:32.646290+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-30T15:00:10+00:00",
+        "description": "While science fiction lore tells us that humans will meet extraterrestrial life in the form of little green men, the detail that should raise hairs this Halloween is this: the search for extraterrestrial intelligence took a major leap forward with AI, and it increasingly focuses on AI agents built by humans listening for AI agents [&#8230;]",
+        "id": 6696719,
+        "language": "en-US",
+        "link": "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 1019,
+        "source_url": "https://feeds.feedburner.com/nvidiablog",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://blogs.nvidia.com/wp-content/uploads/2026/10/IMG_1607-ATA-2023-CREDIT-Joe-Marfia-842x450.jpg",
+        "title": "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals",
+        "vote": 0
+    }
+]

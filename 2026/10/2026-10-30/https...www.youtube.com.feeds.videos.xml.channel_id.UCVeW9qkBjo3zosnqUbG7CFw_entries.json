@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Hammond",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-30T17:27:15.436123+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-30T14:06:44+00:00",
+        "description": "A familiar browser prompt can be a pretty convincing disguise. ClickFix attacks use fake verification pages to manipulate people into running malicious commands themselves.\n\nThe interesting part is how an ordinary-looking interaction can turn into code execution on a local machine.\n\nFull video: https://youtu.be/oJHOlNTH7lY?si=Oo1Cqr1PdgP4GhBc",
+        "id": 6695436,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/f92LfA0AR2E",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 959,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVeW9qkBjo3zosnqUbG7CFw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/f92LfA0AR2E/hqdefault.jpg",
+        "title": "The ClickFix Deception",
+        "vote": 0
+    }
+]

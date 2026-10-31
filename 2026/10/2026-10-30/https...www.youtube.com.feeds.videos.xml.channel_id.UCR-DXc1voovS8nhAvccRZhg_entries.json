@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeff Geerling",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-30T16:03:37.374728+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-30T14:00:09+00:00",
+        "description": "Every second counts. And that'll be true for UTC from now until... at least centuries into the future! Assuming the Earth doesn't slow its roll *too* much.\n\nCGPM Resolution 5: https://www.bipm.org/en/cgpm-2026/resolution-5\n\nBIPM's Livestream discussing all this in more detail: https://www.youtube.com/watch?v=TptRsUua2WE\n\nSupport me on Patreon: https://www.patreon.com/geerlingguy\nSponsor me on GitHub: https://github.com/sponsors/geerlingguy\nMerch: https://www.redshirtjeff.com\n2nd Channel: https://www.youtube.com/@GeerlingEngineering\n3rd Channel: https://www.youtube.com/@Level2Jeff\n\nContents:\n\n00:00 - No More Leap Seconds\n01:07 - Gone by 2027\n01:49 - Off-by-one and other fun time problems\n03:32 - Time-smearing was never fun\n04:25 - Time code gets simpler\n05:15 - More interesting problems",
+        "id": 6694890,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=vFMU2m-TZ3s",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 161,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR-DXc1voovS8nhAvccRZhg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/vFMU2m-TZ3s/hqdefault.jpg",
+        "title": "REJOICE! NO MORE LEAP SECONDS!",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-30T07:22:38.128260+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-30T06:02:23+00:00",
+        "description": "End of subsidies and rising prices drive discontent, testing support for Ahmed al-Sharaa's government.",
+        "id": 6692024,
+        "language": "en-gb",
+        "link": "https://www.bbc.co.uk/news/articles/cmn4egvez1yzo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 525,
+        "source_url": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/acad/live/bd8904b0-d20c-11f1-b3b6-c1e79e957e40.jpg",
+        "title": "Syrians struggle with soaring prices as crisis challenges post-Assad recovery",
+        "vote": 0
+    }
+]
