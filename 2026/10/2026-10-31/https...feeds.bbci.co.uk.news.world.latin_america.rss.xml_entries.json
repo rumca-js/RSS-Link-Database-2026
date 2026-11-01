@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-31T23:48:08.813522+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-31T22:56:15+00:00",
+        "description": "King Charles III will deliver a speech to the Commonwealth Heads of Government Meeting on Tuesday as he concludes his nine-day Caribbean tour.",
+        "id": 6701396,
+        "language": "en-gb",
+        "link": "https://www.bbc.co.uk/news/articles/cq398y0zj9rpo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 524,
+        "source_url": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a11/live/9a9071c0-d57a-11f1-be5a-4bb1a466c469.jpg",
+        "title": "King to address slavery during Commonwealth speech in Antigua on final leg of Caribbean tour",
+        "vote": 0
+    }
+]

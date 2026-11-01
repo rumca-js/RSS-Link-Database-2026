@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ETA PRIME",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-31T14:47:28.132947+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-31T14:27:44+00:00",
+        "description": "Official SteamOS is finally up and running on Apple Silicon Macs! In this video, we test out SteamMac (FX Steam Launcher), a brand-new open-source GitHub project that runs Valve's official ARM64 SteamOS build from the Steam Frame inside a lightweight virtual machine on macOS. There is no cloud gaming or streaming involved\u2014this uses FEX, Proton, and Apple's KosmicKrisp Metal 4 / MoltenVK translation layers to run x86 Windows PC games locally on a Mac with full SteamOS Game Mode, MetalHUD, and controller support.\n\nDownload Steam Here: https://github.com/fxgl/steamac\n\nBuy a Mac Mini Here: https://bestbuycreators.7tiv.net/3kW1Zk\n\nBuy a Macbook Pro Here: https://bestbuycreators.7tiv.net/dygdV7\n\nFollow Me On Twitter: https://twitter.com/theetaprime\nFollow Me On Instagram: https://www.instagram.com/etaprime/\n\nVip-URCDKey 25% Black Friday Sale code for software: ETA \nWindows 11 Pro Key($27):https://biitt.ly/RUZiX\nOffice 2024 Pro Key($22): https://biitt.ly/o8WvY\nWindows 11 Home Key($25):https:",
+        "id": 6699723,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=LiNrI18ak48",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 100,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_0CVCfC_3iuHqmyClu59Uw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/LiNrI18ak48/hqdefault.jpg",
+        "title": "I Installed SteamOS on My Mac (And It Actually Works!)",
+        "vote": 0
+    }
+]

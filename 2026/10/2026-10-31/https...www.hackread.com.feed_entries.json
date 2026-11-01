@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Deeba Ahmed",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-31T14:22:09.420929+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-31T14:05:27+00:00",
+        "description": "Polymarket confirms $2.7 million stolen through the compromised third-party script and pledges $3.9 million in refunds, including compensation for pause losses.",
+        "id": 6699662,
+        "language": "en-US",
+        "link": "https://hackread.com/polymarket-users-lose-2-7m-third-party-script-hack",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 139,
+        "source_url": "https://www.hackread.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Polymarket Users Lose $2.7 Million in Third-Party Script Hack",
+        "vote": 0
+    }
+]

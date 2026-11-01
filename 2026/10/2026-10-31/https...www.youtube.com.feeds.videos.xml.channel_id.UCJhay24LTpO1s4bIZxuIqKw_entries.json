@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ACCU Conference",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-31T21:30:55.776007+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-31T20:57:06+00:00",
+        "description": "ACCU Membership: https://tinyurl.com/ydnfkcyn\n---\n\nCallMeMaybe - Building Modern Runtime Reflection via C++26 - Laurie Kirk - ACCU 2026\n---\n\nUpcoming native static reflection in C++26 opens the door to new dynamic reflection capabilities. Prior to built-in class introspection, runtime reflection libraries required manual, annotated class metadata. What if we built off new static reflection capabilities to create a runtime registry that is both automated and type-safe?\n\nC++ has avoided the massive overhead seen in languages with fully-native runtime reflection. In most native implementations, such as Java, every class must store runtime metadata regardless of whether it will actually be reflected. In this talk, I will discuss how to harness compile-time std::meta functions to create a runtime reflection registry only for classes requiring reflection. This newly available technique eliminates the brittle, manual macro registration used by RTTR or the external requirements of the Qt moc ",
+        "id": 6701043,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=cA0F3wRtZIU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 421,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJhay24LTpO1s4bIZxuIqKw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/cA0F3wRtZIU/hqdefault.jpg",
+        "title": "CallMeMaybe - Building Modern Runtime Reflection via C++26 - Laurie Kirk - ACCU 2026",
+        "vote": 0
+    }
+]

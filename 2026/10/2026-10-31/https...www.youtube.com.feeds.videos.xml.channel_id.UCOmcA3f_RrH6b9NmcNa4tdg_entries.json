@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CNET",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-10-31T13:47:23.288384+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-10-31T12:00:26+00:00",
+        "description": "Google's Gemini multimodal AI is available for MacOS and Windows. CNET's Stephen Beacham demonstrates how to download and install it on a Mac, and walks you through every button and feature in the app. \n\nRead more about the Gemini App for MacOS on CNET.com\nMacOS Now Has a Native Gemini AI App https://zdcs.link/a0MZb5\n\nGemini for MacOS Gets New Voice and \u2018Screen Awareness\u2019 Features https://zdcs.link/Qr5l0P\n\nTimecode Chapters:\n0:00 Introduction to Google's Gemini App for macOS\n0:23 How to Download and Install Gemini for Mac\n1:03 Testing the \"Speak to Window\" and FN Key Dictation Features\n2:08 Testing Gemini's Reasoning Feature to Summarize Highlighted Text\n2:41 Overview of the Gemini App Interface for macOS\n3:07 Choosing Flash Models and Managing Chat Preferences\n4:22 Using the Camera, Attachments, and Exploring Multimodal AI\n5:13 Sharing App Windows with Gemini for Real-Time Assistance\n6:05 Using the Lasso Tool for Screen Analysis\n6:33 Exploring Deep Research, Image/Video Generation, a",
+        "id": 6699553,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=wM51ROuEhKI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 796,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCOmcA3f_RrH6b9NmcNa4tdg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/wM51ROuEhKI/hqdefault.jpg",
+        "title": "How to Download and Use Google Gemini for MacOS",
+        "vote": 0
+    }
+]
