@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Panos Mourdoukoutas",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-01T01:54:54.247843+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-01T01:00:55+00:00",
+        "description": "Intel plunged more than 28 percent on Friday, its worst single-day decline in decades.",
+        "id": 6701659,
+        "language": "en-US",
+        "link": "https://www.theepochtimes.com/business/wall-street-review-small-caps-beat-tech-again-amid-ai-cost-concerns-6111607",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 105,
+        "source_url": "https://feed.theepochtimes.com/tech/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.theepochtimes.com/assets/uploads/2026/10/31/id6111626-GettyImages-2300478316-1080x720.jpg",
+        "title": "Wall Street Review: Small Caps Beat Tech Again Amid AI Cost Concerns",
+        "vote": 0
+    }
+]

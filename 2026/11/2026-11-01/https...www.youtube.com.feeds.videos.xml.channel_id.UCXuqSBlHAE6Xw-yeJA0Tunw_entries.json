@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Linus Tech Tips",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-01T17:05:17.565089+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-01T16:45:10+00:00",
+        "description": "Thanks to Meter for sponsoring this video! Go to https://meter.com/ltt to book a demo now!\n\nCheck out https://www.youtube.com/@RingConnOfficial using our link! Gen 2 is 15% off for Halloween, October 30-31: https://bit.ly/4inH1fU\n\nSee our RingConn Gen2 Unboxing: https://www.youtube.com/watch?v=HAQNn6y8Lz0\n\nDespite Sony and Nintendo's war on PC, Console exclusives are finally coming to Battle Stations near you - thanks to major advancements in... AI-assisted decompilation, PS5 and PS4 emulation, and binary relinking... once locked-away games are running natively on PC hardware. We explore how these breakthroughs work, test performance, and discuss what this means for the future of gaming. \n\nDiscuss on the forum: https://linustechtips.com/topic/1644133-gta-6-on-pc-may-be-sooner-than-we-thought/\n\nLinks to the Ports we used (USE AT YOUR OWN RISK)\nFork of Kyty PS5 used for Astro Bot - https://github.com/Jetsku/KytyPS5\nFork of Kyty PS5 used for Demon Souls - https://github.com/chenxiao07/Ky",
+        "id": 6703839,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=g9IOdTisQyM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 194,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXuqSBlHAE6Xw-yeJA0Tunw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/g9IOdTisQyM/hqdefault.jpg",
+        "title": "GTA 6 on PC May be Coming Sooner than We Thought",
+        "vote": 0
+    }
+]

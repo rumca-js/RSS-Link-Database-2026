@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-01T13:54:25.422437+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-01T12:00:15+00:00",
+        "description": "Learn more about Faster AI Models here \u2192 https://ibm.biz/~9RJjTpaDF\n\nOne line can change how your AI model runs. Avery Blanchard explains how torch.compile, Dynamo, AOT Autograd, and Inductor optimize PyTorch models. Learn how graph breaks, recompilation, and kernel fusion affect AI performance.\n\n 00:00 \u2013 See What torch.compile Does to PyTorch Models\n 00:20 \u2013 Understand the Three torch.compile Stages\n 01:09 \u2013 See How PyTorch Starts Lazy Compilation\n 01:44 \u2013 Capture AI Model Operations with Dynamo\n 02:42 \u2013 Prepare PyTorch Graphs with AOT Autograd\n 03:32 \u2013 Generate Optimized Code with Inductor\n 04:35 \u2013 Understand Graph Breaks in torch.compile\n 05:21 \u2013 Avoid Recompilation & Benchmark Correctly\n 05:53 \u2013 Connect Dynamo, AOT Autograd & Inductor\n 06:10 \u2013 Diagnose Why torch.compile Isn't Faster\n\nContinue your education in the course Compilation for Dataflow on Coursera here \u2192 ibm.biz/~E46ZY0koj\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/~j9",
+        "id": 6703077,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=QUZ4KEDxhCM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/QUZ4KEDxhCM/hqdefault.jpg",
+        "title": "What Is torch.compile? Dynamo, PyTorch & Faster AI Models Explained",
+        "vote": 0
+    }
+]

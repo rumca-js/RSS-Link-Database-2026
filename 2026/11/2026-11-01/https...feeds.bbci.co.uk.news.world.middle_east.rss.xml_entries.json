@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-01T17:34:34.364806+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-01T17:06:32+00:00",
+        "description": "Five officers from the Hamas-run police have been killed in Khan Younis and three people, including a child, killed in Gaza City, officials say.",
+        "id": 6703903,
+        "language": "en-gb",
+        "link": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 525,
+        "source_url": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c922/live/4fe4c8d0-d5fa-11f1-a701-fddedf244c16.jpg",
+        "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
+        "vote": 0
+    }
+]

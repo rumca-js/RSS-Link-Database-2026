@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ThioJoe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-01T16:12:36.429968+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-01T14:45:17+00:00",
+        "description": "What are the actual differences between Windows 11 Home and Pro?\n\nCommand to unlock ultimate performance power plan:\npowercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61\n\nWindows Sandbox Tools: https://github.com/ThioJoe/Windows-Sandbox-Tools\n\nTime Stamps:\n0:00 - Intro\n0:11 - Group Policy Editor\n0:39 - More Policy Options\n1:11 - Management Consoles\n1:44 - Windows Sandbox\n3:11 - Hyper-V\n4:18 - BitLocker\n4:41 - Remote Desktop\n5:22 - Hardware Restrictions\n5:54 - Easier Local Account Setup\n6:13 - Kiosk Mode\n6:36 - Per-Folder / File Encryption\n7:57 - Windows Pro For Workstations\n8:47 - Persistent Memory\n9:19 - SMB Direct\n9:40 - Ultimate Performance Mode\n\n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\n\u2022 My Desktop Wallpapers \u21e8 https://thiojoe.art\n\u21e8 http://Instagram.com/ThioJoe\n\u21e8 http://Twitter.com/ThioJoe\n\u21e8 http://Facebook.com/ThioJoeTV\n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac",
+        "id": 6703574,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=RFZKPeWG7cs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 366,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQSpnDG3YsFNf5-qHocF-WQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/RFZKPeWG7cs/hqdefault.jpg",
+        "title": "Windows 11 Pro vs Home Edition - The Biggest Differences",
+        "vote": 0
+    }
+]

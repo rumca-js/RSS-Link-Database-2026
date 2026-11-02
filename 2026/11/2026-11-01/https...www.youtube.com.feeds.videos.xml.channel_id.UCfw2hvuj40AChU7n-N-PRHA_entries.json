@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Apple Explained",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-02T01:23:55.286824+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-01T23:58:10+00:00",
+        "description": "Apple recently released their first foldable phone called iPhone Duo. In this video I unboxing it for the first time and give my initial impressions of the design, software features, and hardware capabilities.",
+        "id": 6705295,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=SIRpJ9EiNnY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 714,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfw2hvuj40AChU7n-N-PRHA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/SIRpJ9EiNnY/hqdefault.jpg",
+        "title": "Night Sky iPhone Duo: Unboxing & First Impressions",
+        "vote": 0
+    }
+]

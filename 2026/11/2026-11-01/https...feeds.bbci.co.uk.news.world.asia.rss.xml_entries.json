@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-01T00:52:58.079209+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-01T00:12:07+00:00",
+        "description": "It comes amid growing protests over a voter roll revision exercise feared to leave 130 million voters off rolls.",
+        "id": 6701571,
+        "language": "en-gb",
+        "link": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 522,
+        "source_url": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e057/live/87e1b610-d44e-11f1-8780-edcbf4859104.jpg",
+        "title": "India's opposition set to hold mega rally seeking election chief's resignation",
+        "vote": 0
+    }
+]
