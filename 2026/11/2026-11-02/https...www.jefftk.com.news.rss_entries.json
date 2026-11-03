@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-03T03:44:00.809563+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-02T08:00:00+00:00",
+        "description": "<p><span>\n\nIn an ideal world the incentives on phone manufacturers would be to\noptimize useful lifetime, but instead people buy phones based on their\nas-new performance.  Which means phones charge to 100% even though\nthat's bad for the battery.\n\n</span>\n\n<p>\n\nEvery time I get a new phone it feels <a href=\"https://www.jefftk.com/p/rationing-spells-and-battery\">a bit\nlike magic</a>: I no longer need to think at all about battery life.\nThis lasts for a few years, and then at some point my phone doesn't\nalways make it through the day.  Some amount of this is normal, but\nsome of it is just bad battery management: new phones should come set\nnot to charge past 80%.\n\n</p>\n\n<p>\n\nCharging a lithium-ion battery to 100% wears it out much faster than\nstopping at 80%, and when a phone is new 80% of the battery is usually\nplenty.  With past phones I've just grumped about it, but Pixels now\nhave a setting: battery and charging &gt; charging optimization &gt;\nlimit to 80%:\n\n</p>\n\n<p>\n\n<a highlight hre",
+        "id": 6712010,
+        "language": "en-US",
+        "link": "https://www.jefftk.com/p/limiting-charging-to-80",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 163,
+        "source_url": "https://www.jefftk.com/news.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.jefftk.com/android-charging-limit.png",
+        "title": "Limiting Charging to 80%",
+        "vote": 0
+    }
+]

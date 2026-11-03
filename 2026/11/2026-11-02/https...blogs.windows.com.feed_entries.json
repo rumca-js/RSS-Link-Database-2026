@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Microsoft Edge Team",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-02T22:21:23.215137+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-02T22:05:53+00:00",
+        "description": "<p>Website notifications were designed to help us stay informed. They can alert you to a new message, remind you of an upcoming event, or share an important update from a service you trust.</p>\n<p>But scammers are turning this useful browser feature into a pe</p>\n<p>The post <a href=\"https://blogs.windows.com/msedgedev/2026/11/02/client-side-threat-detection-how-scareware-blocker-uncovered-malicious-notification-abuse/\">Client-side threat detection: how Scareware blocker uncovered malicious notification abuse</a> appeared first on <a href=\"https://blogs.windows.com\">Windows Blog</a>.</p>",
+        "id": 6710818,
+        "language": "en-US",
+        "link": "https://blogs.windows.com/msedgedev/2026/11/02/client-side-threat-detection-how-scareware-blocker-uncovered-malicious-notification-abuse",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 1016,
+        "source_url": "https://blogs.windows.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://winblogs.thesourcemediaassets.com/sites/33/2026/11/Picture1.png",
+        "title": "Client-side threat detection: how Scareware blocker uncovered malicious notification abuse",
+        "vote": 0
+    }
+]

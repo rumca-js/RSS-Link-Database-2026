@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Bringus Studios",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-02T17:13:34.299762+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-02T16:28:06+00:00",
+        "description": "What a waste of money #bringus",
+        "id": 6708929,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/rNepK1oA13E",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 925,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCWFNUk2LHUQdRzQcJLYZmcg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/rNepK1oA13E/hqdefault.jpg",
+        "title": "What a waste of money #bringus",
+        "vote": 0
+    }
+]

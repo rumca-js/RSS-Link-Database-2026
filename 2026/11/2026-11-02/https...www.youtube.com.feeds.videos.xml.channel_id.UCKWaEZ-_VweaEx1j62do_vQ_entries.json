@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-02T15:47:02.195801+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-02T12:00:35+00:00",
+        "description": "Learn more about Agentic Coding here \u2192 https://ibm.biz/~YeRLqinv2\n\nA good prompt isn't enough for good AI code. Legare Kerrison explains how context helps AI coding agents understand your repository, dependencies, tests, and intent. Learn how to give agents the right context without overwhelming them.\n\n 00:00 \u2013 Give AI Coding Agents Better Context\n 00:37 \u2013 See Why One Prompt Isn't Enough\n 01:23 \u2013 Give Agents the Right Code & Repository Structure\n 02:17 \u2013 Ground AI Coding with Dependency Versions\n 02:43 \u2013 Use Tests as an Agent Feedback Loop\n 03:00 \u2013 Add Documentation & Developer Intent\n 03:42 \u2013 Let AI Agents Ask for Missing Context\n 04:02 \u2013 Interview, Explore & Plan Before Coding\n 04:58 \u2013 Avoid Overloading the AI Context Window\n 05:45 \u2013 Keep Agentic Coding Context Focused\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/~G97V5h6dy\n\nAI was used in the creation of the transcript and metadata for this video.\n\n#aicodingagent #agenticcoding #ai",
+        "id": 6708327,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=EkdIZXDnRK8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/EkdIZXDnRK8/hqdefault.jpg",
+        "title": "Context-Aware Coding: Give AI Agents the Right Context",
+        "vote": 0
+    }
+]

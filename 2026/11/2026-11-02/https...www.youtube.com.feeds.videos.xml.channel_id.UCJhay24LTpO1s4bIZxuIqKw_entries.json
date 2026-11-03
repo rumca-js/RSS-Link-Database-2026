@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ACCU Conference",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-02T15:49:59.255479+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-02T13:00:28+00:00",
+        "description": "ACCU Membership: https://tinyurl.com/ydnfkcyn\n---\n\nImplementing C++ Standard Library - Design and Optimisations in Libc++ - Hui Xie - ACCU 2026\n---\n\nThis presentation covers various practical examples in the designs and optimisations in libc++, a standard library implementation. It presents various examples of using compact type, reusing tail padding bytes, reusing unused bits in existing bytes. It also presents some optimisations in algorithms and containers. \n\nSlides: https://github.com/Digital-Medium/ACCU-On-Sea-Slides-2026\n---\n\nHui Xie\n\nHui is a software developer at a hedge fund Qube Reseach & Technologies. He is an active contributor and code reviewer of libc++, a Standard Library implementation as part of LLVM project and shipped with clang. He regularly goes to WG21 SG9 (Ranges study group) meetings and sometimes write C++ proposals. He is also a member of BSI, the UK national body of WG21.\nVideo Sponsored By JetBrains, Bloomberg Engineering & HRT\n---\n\nThe ACCU Conference is t",
+        "id": 6708337,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=9efvPYY7CuY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 421,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJhay24LTpO1s4bIZxuIqKw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/9efvPYY7CuY/hqdefault.jpg",
+        "title": "Implementing C++ Standard Library - Design and Optimisations in Libc++ - Hui Xie - ACCU 2026",
+        "vote": 0
+    }
+]

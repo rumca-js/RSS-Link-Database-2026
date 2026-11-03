@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Dave's Garage",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-02T22:07:36.601720+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-02T21:56:21+00:00",
+        "description": "RAM is expensive, so I used AI to design the schematic, PCB, Routing, and FPGA logic for a QBUS memory card for the PDP-11, then used it to debug the final boards once I had them produced!  This is the story!",
+        "id": 6710735,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=RG9O43-ueCU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 907,
+        "source_url": "https://youtube.com/channel/UCNzszbnvQeFzObW0ghk0Ckw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/RG9O43-ueCU/hqdefault.jpg",
+        "title": "I Made My Own RAM - But Will It Boot?",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "C++ Weekly With Jason Turner",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-02T17:12:06.077559+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-02T16:29:50+00:00",
+        "description": "In this episode Mathieu and Jason are joined by Ryan Keane to discuss his Duck library which allows polymorphism-like behaviour through reflection, along with his journey of learning C++ through exploration of C++26\u2019s reflection mechanisms.\n\nGuest Bio:\n\nRyan Keane is a second-year computer science student at Rensselaer Polytechnic Institute and the creator of duck, a C++ reflection library for non-intrusive interfaces. After writing a blog post about the library's internals, he was invited to speak at CppCon and is now collaborating on P4148: Structural Subtyping for C++.\n\nLinks:\n\nhttps://cppcon2026.sched.com/speaker/keaner1\nhttps://github.com/RyanJK5/rjk-duck\nhttps://wg21.link/p4148",
+        "id": 6708918,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=d--qkwcF5vM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 48,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxHAlbZQNFU2LgEtiqd2Maw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/d--qkwcF5vM/hqdefault.jpg",
+        "title": "Learning C++ With C++26's Reflection with Ryan Keane - CppCast 414 / C++ Weekly 557",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-02T16:54:28.178055+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-02T16:29:13+00:00",
+        "description": "Blacksmith (YC W24) is building a faster cloud for continuous integration (CI), helping developers test and ship code as AI coding tools generate more of it.\n\nAs software production accelerates, testing and validation are becoming the new bottleneck. That shift has helped Blacksmith grow 20x over the last year, and the company recently raised a $66 million Series C at a $1 billion valuation.\n\nThe founders started as outsiders to DevOps and built their first infrastructure using the same high-performance CPUs found in gaming PCs, renting servers originally designed for Minecraft and Call of Duty. Today, they run a much larger fleet with a team of just 30 people, helping companies cut CI waits from minutes to seconds. \n\nIn this first episode of Built to a Billion, they share how they found the idea, won their first 200 customers, and why faster testing will become even more important as agents write more of the world\u2019s code.\n\nhttps://blacksmith.sh\n\nChapters:\n00:00 \u2014 Making CI Faster Wit",
+        "id": 6708742,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=NVzgt2AEvDg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/NVzgt2AEvDg/hqdefault.jpg",
+        "title": "Infrastructure for the AI Coding Era",
+        "vote": 0
+    }
+]

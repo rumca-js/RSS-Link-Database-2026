@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "David Bombal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-02T15:58:52.713863+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-02T15:00:03+00:00",
+        "description": "Can AI tell you how to hack itself? Researchers kept questioning Microsoft Copilot until it revealed a clue that helped them uncover CoSnitch (CVE-2026-24301).\n\nA specially crafted link could automatically run an attacker\u2019s prompt inside a signed-in Copilot Personal session. Researchers demonstrated data theft from connected services and memory poisoning that could influence future answers.\n\nMicrosoft patched the issue on August 18, 2026. Varonis reported no evidence of exploitation in the wild at disclosure.\n\nSource: https://www.varonis.com/blog/cosnitch\n\n#AI #MicrosoftCopilot #Cybersecurity #Shorts",
+        "id": 6708376,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/38QbRUqTzrQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 984,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP7WmQ_U4GB3K51Od9QvM0w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/38QbRUqTzrQ/hqdefault.jpg",
+        "title": "Copilot Told Researchers How to Hack It",
+        "vote": 0
+    }
+]

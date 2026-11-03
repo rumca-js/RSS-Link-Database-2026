@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Licaon_Kter",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-02T15:08:10.332064+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-02T00:00:00+00:00",
+        "description": "<h3 id=\"this-week-in-f-droid\">This Week in F-Droid</h3>\n\n<h3 id=\"twif-curated-on-monday-02-nov-2026-week-45\">TWIF curated on Monday, 02 Nov 2026, Week 45</h3>\n\n<h4 id=\"community-news\">Community News</h4>\n\n<p><strong><a href=\"https://f-droid.org/packages/com.byarchitect.dejavu\">Dejavu</a></strong>, <em>Your tabs, right where you left them. Workspaces, containers and split view</em>, is a browser built on top of the Firefox components with a different design. Have a try and maybe you\u2019ll feel the d\u00e9j\u00e0 vu!</p>\n\n<p><a href=\"https://gitlab.com/linsui\">@linsui</a> notes some big updates:</p>\n\n<p><strong><a href=\"https://f-droid.org/packages/com.unicornsonlsd.finamp\">Finamp</a></strong> published 1.0 after 4 years of development with <a href=\"https://github.com/finamp-app/finamp/releases/tag/1.0.1\">lots of new feathers</a>. But this version on F-Droid is broken, so just skip it for now, we will keep you posted!</p>\n\n<p><strong><a href=\"https://f-droid.org/packages/org.purplei2p.i2pd\">i2pd</a>",
+        "id": 6708133,
+        "language": "en",
+        "link": "https://f-droid.org/en/2026/11/02/twif.html",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 1021,
+        "source_url": "https://f-droid.org/feed.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Weekly deja-vus",
+        "vote": 0
+    }
+]
