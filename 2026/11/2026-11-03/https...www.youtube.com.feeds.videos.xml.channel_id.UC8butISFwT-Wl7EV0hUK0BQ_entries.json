@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-03T20:33:27.715291+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-03T12:52:54+00:00",
+        "description": "Learn how vector databases work, from the math behind vectors to building semantic search with ChromaDB. This beginner course covers vectors, cosine similarity, Euclidean distance, tokenization, and embedding models, then walks through a live demo of generating embeddings with Google's Gemini embedding model. You will also explore the internal architecture of a vector database, including storage, indexing, and the IVF and HNSW index types. By the end, you will store embeddings in ChromaDB and run semantic searches that find matches by meaning instead of by keyword.\n\nCourse from @codeEdx \n\nCourse resources: https://codeedx.gumroad.com/l/vector-databases-course-resources\n\n\u2764\ufe0f Support for this channel comes from our friends at Scrimba \u2013 the coding platform that's reinvented interactive learning: https://scrimba.com/freecodecamp\n\n\u2b50\ufe0f Chapters \u2b50\ufe0f\n- 0:00:00 Introduction & Course Overview\n- 0:03:42 What Is a Vector Database?\n- 0:22:40 What Are Vectors?\n- 0:33:37 Cosine Similarity\n- 0:40:37 Euc",
+        "id": 6716304,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=lR931Iz8Z6U",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/lR931Iz8Z6U/hqdefault.jpg",
+        "title": "Vector Databases Full Course for Beginners \u2013 Embeddings, Similarity Search & ChromaDB",
+        "vote": 0
+    }
+]

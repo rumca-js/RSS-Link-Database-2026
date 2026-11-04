@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-03T12:31:15.394048+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-03T12:09:20+00:00",
+        "description": "The US secretary of state also discusses laying the groundwork for 'free, fair, and credible elections'.",
+        "id": 6713934,
+        "language": "en-gb",
+        "link": "https://www.bbc.co.uk/news/articles/cxg5jln586pno",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 524,
+        "source_url": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/951d/live/fb246e50-d76a-11f1-a956-ff083523ef77.jpg",
+        "title": "US urges Venezuela to release remaining political prisoners",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-03T19:02:20.233372+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-03T12:00:36+00:00",
+        "description": "Learn more about Digital Sovereignty here \u2192 https://ibm.biz/~Wxx0y9d9w\n\nSensitive data makes AI powerful, but also risky. Jeff Crume explains five essential capabilities for using sensitive data safely across AI systems, agents, tools, and RAG pipelines. Learn how visibility, classification, governance, access controls, and evidence help secure AI-driven workflows.\n\n00:00 - Why AI Requires Machine\u2011Speed Data Controls\n00:18 - The Sensitive Data Conundrum: Useful but Risky\n01:02 - Five Foundational Controls for Safe AI Adoption\n01:13 - Visibility: You Can\u2019t Protect What You Can\u2019t See\n02:16 - Automated Classification and Sensitivity Tagging\n03:59 - Data Residency, Sovereignty, and Localization Explained\n05:46 - Jurisdictional Complexity in Cloud Environments\n07:12 - Access Control and the Four As of IAM\n08:53 - Audit Trails and Continuous Evidence for Regulators\n10:27 - Trustworthy AI Requires Trustworthy Data\n11:06 - Turning Sensitive Data Into a Strategic AI Advantage\n\nAI news moves fa",
+        "id": 6714692,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=jnP9AgtX0qo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/jnP9AgtX0qo/hqdefault.jpg",
+        "title": "Can Your AI Use Sensitive Data Safely? 5 Capabilities You Need",
+        "vote": 0
+    }
+]

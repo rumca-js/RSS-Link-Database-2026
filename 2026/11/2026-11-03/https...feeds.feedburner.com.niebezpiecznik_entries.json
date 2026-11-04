@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "redakcja",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-03T11:01:19.002204+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-03T09:30:46+00:00",
+        "description": "<p>Rusza narodowy program <a href=\"https://hack.cert.pl\" target=\"_blank\">bug bounty</a>. Aktualna pula nagr\u00f3d to 1 milion z\u0142otych, a wysoko\u015b\u0107 nagrody za pojedyncze zg\u0142oszenie o najwy\u017cszym stopniu krytyczno\u015bci mo\u017ce wynie\u015b\u0107 nawet 20 tys. z\u0142. Warunek: trzeba mie\u0107 18 lat, polsk\u0105 rezydencj\u0119 podatkow\u0105 i PESEL oraz zalogowa\u0107 si\u0119 na platform\u0119\u00a0przez login.gov.pl. System uruchomi\u0142\u00a0i prowadzi zesp\u00f3\u0142\u00a0CERT Polska.<span id=\"more-27475\"></span></p>\n<p>Ide\u0105 programu Bug Bounty jest aktywizacja spo\u0142eczno\u015bci odpowiedzialnych badaczy bezpiecze\u0144stwa. Platforma startuje z 5 &#8220;celami&#8221;: </p>\n<ul>\n<li>serwis www.gov.pl,</li>\n<li>Gmina W\u0142adys\u0142awowo, </li>\n<li>komunikator mSzyfr, </li>\n<li>serwisy CERT Polska </li>\n<li>wybrane serwisy NASK</li>\n</ul>\n<p>Niekoniecznie za ka\u017cdy b\u0142\u0105d b\u0119dzie mo\u017cna otrzyma\u0107 nagrod\u0119. W zale\u017cno\u015bci od programu, mog\u0105\u00a0by\u0107 r\u00f3\u017cne zasady, restrykcje i wy\u0142\u0105czenia. Np. w przypadku serwis\u00f3w CERT punktowanych jest 20 konkretnych kategorii podatno\u015bci, a pu\u0142apy nagr\u00f3d (scoring wg CVSS",
+        "id": 6713504,
+        "language": "pl-PL",
+        "link": "https://niebezpiecznik.pl/post/zhakuj-rzadowe-systemy-to-ci-zaplaca",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 239,
+        "source_url": "https://feeds.feedburner.com/niebezpiecznik",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://niebezpiecznik.pl/wp-content/uploads/2026/11/bug-bounty-nbzp-kv-150x150.jpg",
+        "title": "Zhakuj te rz\u0105dowe systemy, to jeszcze Ci za to zap\u0142ac\u0105",
+        "vote": 0
+    }
+]

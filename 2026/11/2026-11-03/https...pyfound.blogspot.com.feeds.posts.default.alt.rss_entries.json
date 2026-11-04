@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-03T19:00:24.304235+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-03T13:29:30+00:00",
+        "description": "<p>We\u2019re excited to announce that <a href=\"https://github.com/brettcs\">Brett Smith</a> is joining the Python Software Foundation as a Security Developer.</p><p>Brett will be working closely with Seth Larson, Security Developer in Residence, and Mike Fiedler, PyPI Safety and Security Engineer, on the PSF\u2019s security team to address the increasingly demanding scale of security response for the Python ecosystem. We\u2019re grateful to Anthropic for <a href=\"https://pyfound.blogspot.com/2025/12/anthropic-invests-in-python.html\">their generous support</a>, which has made the critical new Security Developer role possible.</p><p></p><table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto;\"><tbody><tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikflEgF1pDPTBMUVGnVuSTV9NRsT9iEuvKDbcpWF0fwkDv96y5X2j-zZYYYlxdBYyrR-IAPgls6aVx0L9UHPWA39qvOs4qDCcAYXDvuQ4NAoSTNmqsfORzA4FZmFVAGVHZ",
+        "id": 6714678,
+        "language": "en",
+        "link": "https://pyfound.blogspot.com/2026/10/announcing-new-security-developer-2026.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 267,
+        "source_url": "https://pyfound.blogspot.com/feeds/posts/default?alt=rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikflEgF1pDPTBMUVGnVuSTV9NRsT9iEuvKDbcpWF0fwkDv96y5X2j-zZYYYlxdBYyrR-IAPgls6aVx0L9UHPWA39qvOs4qDCcAYXDvuQ4NAoSTNmqsfORzA4FZmFVAGVHZm_hEFIHctDEcmGPh3AD2y2vdtFU6rNwtT6KheEPW_GNcgem6eQ/s320/IMG_brett.jpg",
+        "title": "Announcing new Security Developer at the PSF",
+        "vote": 0
+    }
+]
