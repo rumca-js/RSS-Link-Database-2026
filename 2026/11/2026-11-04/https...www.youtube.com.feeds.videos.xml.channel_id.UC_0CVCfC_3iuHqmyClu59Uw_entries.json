@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ETA PRIME",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-04T17:15:33.189587+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-04T15:00:16+00:00",
+        "description": "We finally have hardware-accelerated Intel XeSS running on the XMX engines AND XeSS Frame Generation working inside of SteamOS! Previously on Linux and SteamOS, Intel Arc handhelds were stuck running XeSS in fallback DP4a mode on the standard GPU cores with no access to XeSS Frame Gen. \n\nIn this video, we test out a new patched driver and the ClawDeck Decky plugin on the MSI Claw 8 EX powered by the Intel Arc G3 Extreme and Arc B390 iGPU. By unlocking the dedicated XMX AI engines for upscaling, Xe Low Latency, and 2X/3X XeSS Frame Generation, we're seeing massive FPS gains and smoother frame pacing at 30W TDP across Cyberpunk 2077, Forza Horizon 6, The Witcher 3, Hogwarts Legacy, and Marvel's Spider-Man 2!\n\nGitHub Projects Mentioned:\nXMX XESS LINUX GITHUB - https://github.com/HHHHanasak1/xess-xmx-linux\n\nCLAWDECK GITHUB - https://github.com/IHulkSmashI/ClawDeck\n\nFollow Me On Twitter: https://twitter.com/theetaprime\nFollow Me On Instagram: https://www.instagram.com/etaprime/\n\nVip-URCDKe",
+        "id": 6722240,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=YZfx6VWSB1s",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 100,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_0CVCfC_3iuHqmyClu59Uw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/YZfx6VWSB1s/hqdefault.jpg",
+        "title": "XeSS XMX On SteamOS! HUGE Performance Gains For Intel Arc Handhelds!",
+        "vote": 0
+    }
+]

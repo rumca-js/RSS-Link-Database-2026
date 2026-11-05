@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Bill Pan",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-04T01:33:17.820219+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-04T00:50:51+00:00",
+        "description": "Dan Driscoll will advise the AI company on national security and working with U.S. allies.",
+        "id": 6718018,
+        "language": "en-US",
+        "link": "https://www.theepochtimes.com/tech/openai-hires-former-army-secretary-as-adviser-6115291",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 105,
+        "source_url": "https://feed.theepochtimes.com/tech/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.theepochtimes.com/assets/uploads/2025/11/26/id5950090-UKRAINE-CRISIS-ZELENSKYY-USA-1080x720.jpg",
+        "title": "OpenAI Hires Former Army Secretary as Adviser",
+        "vote": 0
+    }
+]

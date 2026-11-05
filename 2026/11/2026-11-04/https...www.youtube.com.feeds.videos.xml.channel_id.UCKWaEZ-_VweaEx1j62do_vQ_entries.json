@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-04T11:19:02.313895+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-04T10:00:20+00:00",
+        "description": "Visit Security Intelligence podcast page to get more AI content  \u2192 https://ibm.biz/~vrweMGEy6\n\nClick to claim your free Knicks championship ring, and you might end up in security training.\n\nFirst, MSG sends staff an offer to pick their own championship ring, and everyone who clicks lands in mandatory security training. Timely lures catch real behavior, but the panel debates whether a test this real makes employees wary of the emails they actually need.\n\nThen, Arctic Wolf traces more than 400 incidents of attackers flooding inboxes with sign-up emails, then posing as IT support in Teams chats. As one panelist points out, real IT already has access to your machine, so it should never need you to open a remote session.\n\nFinally, CISA confirms attackers are exploiting two critical PHP flaws, and 263,000 end-of-life instances in the US alone will never get a patch. Do you know which versions you\u2019re running?\n\nAll that and more on Security Intelligence. \n\n0:00 \u2013 Intro\n1:04 \u2013 MSG's championsh",
+        "id": 6719634,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=c5n94VqXZAw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/c5n94VqXZAw/hqdefault.jpg",
+        "title": "Did the Knicks\u2019 phishing test go too far? Plus, hackers pose as IT in Teams",
+        "vote": 0
+    }
+]

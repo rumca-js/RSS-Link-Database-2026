@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Foundation",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-04T20:28:21.022323+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-04T18:49:35+00:00",
+        "description": "John Mertic, Director of Program Management at the Linux Foundation, explains how the Open Mainframe Project has finally solved the 11-year-old problem of making s390x mainframe infrastructure accessible to any open source project, covering both z/Linux and z/OS environments.\n\nFull article and transcript: https://tfir.io/mainframe-ci-access-open-source-linux-foundation/\n\nFor over a decade, open source maintainers targeting mainframe have had no reliable way to test their code. Mainframe hardware is expensive, specialty, and often air-gapped, meaning developers were left guessing or relying on a handful of specialists at IBM, Broadcom, or Rocket Software to do porting work on their behalf.\n\nThe Open Mainframe Project, launched in 2015, has now opened a formal infrastructure program built on contributions from Broadcom, Converged Technologies, IBM, and other members. In this clip from TFiR, John Mertic walks through how the program works, who can apply, and what a standard offering look",
+        "id": 6723621,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=A6HdH66dFOM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 499,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfX55Sx5hEFjoC3cNs6mCUQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/A6HdH66dFOM/hqdefault.jpg",
+        "title": "Free Mainframe Test Infrastructure Is Now Open to Any Open Source Project | John Mertic",
+        "vote": 0
+    }
+]

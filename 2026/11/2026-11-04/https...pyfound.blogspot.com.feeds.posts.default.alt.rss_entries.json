@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-04T14:50:50.233623+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-04T13:59:48+00:00",
+        "description": "<p>\n  The Python Software Foundation (PSF) is excited to announce our newest staff\n  member and Infrastructure Engineer,\n  <a href=\"https://github.com/jmcshannon\">Joshua Mcshannon</a>, reporting to\n  Director of Engineering Jacob Coffee. Joshua brings over 16 years of technical\n  expertise from various backgrounds including bootstrapped startups and big\n  tech. Most recently he built an AI-integrated learning platform for\n  cybersecurity students and taught secure web application development along\n  with DevOps/platform engineering.\n</p>\n\n<div style=\"padding: 1em 0px; text-align: center;\">\n  <a href=\"https://lh3.googleusercontent.com/-dlftuaxO6vA/auj6HezTZ1I/AAAAAAAAA2g/z7Omo6TJqSsmhWqL3Y7pruSitgM24TpnQCK4BGAsYHQ/s1999/image1.jpg\">\n    <img alt=\"Joshua at an outdoor fall festival with a stroller\" height=\"200\" src=\"https://lh3.googleusercontent.com/-dlftuaxO6vA/auj6HezTZ1I/AAAAAAAAA2g/z7Omo6TJqSsmhWqL3Y7pruSitgM24TpnQCK4BGAsYHQ/s200/image1.jpg\" style=\"height: auto; max-width: 100%;\" />",
+        "id": 6721268,
+        "language": "en",
+        "link": "https://pyfound.blogspot.com/2026/11/joshua-mcshannon-joins-psf-as.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 267,
+        "source_url": "https://pyfound.blogspot.com/feeds/posts/default?alt=rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://lh3.googleusercontent.com/-dlftuaxO6vA/auj6HezTZ1I/AAAAAAAAA2g/z7Omo6TJqSsmhWqL3Y7pruSitgM24TpnQCK4BGAsYHQ/s200/image1.jpg",
+        "title": "Joshua Mcshannon Joins the PSF as Infrastructure Engineer",
+        "vote": 0
+    }
+]
