@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Leila Gharani",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-05T16:55:27.598579+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-05T15:50:29+00:00",
+        "description": "More info about the Copilot at Work course: https://www.xelplus.com/course/copilot/",
+        "id": 6728934,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/TeIHEGkxlKI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 957,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJtUOos_MwJa_Ewii-R3cJA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/TeIHEGkxlKI/hqdefault.jpg",
+        "title": "Behind the Scenes: Building the Copilot Course  #excel #copilot",
+        "vote": 0
+    }
+]

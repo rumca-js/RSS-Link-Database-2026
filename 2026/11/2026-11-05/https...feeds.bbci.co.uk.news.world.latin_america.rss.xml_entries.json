@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-05T17:47:30.488470+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-05T17:40:40+00:00",
+        "description": "The move follows a bank collapse and after the lower house of congress voted in favour of pursuing an impeachment trial against him.",
+        "id": 6729345,
+        "language": "en-gb",
+        "link": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 524,
+        "source_url": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/12e6/live/3ccd15c0-d93a-11f1-95ea-8df9a040b6bf.jpg",
+        "title": "Paraguay President Santiago Pe\u00f1a resigns after bank collapse",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Paul's Hardware",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-05T22:32:48.923611+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-05T22:04:54+00:00",
+        "description": "That\u2019s a big GPU\nreferences -\nhttps://videocardz.com/newz/worlds-biggest-pcie-graphics-card-discovered-prototype-amd-radeon-rx-470-board-with-four-gpus-has-been-pictured \nhttps://x.com/GOKForFree/status/2117551629918785974 \nSpaceballs - https://www.youtube.com/watch?v=rAvGyRXjc6U \nhttps://www.techpowerup.com/354444/massive-four-gpu-rx-470-card-surfaces-probably-built-for-crypto-miners \nhttps://wccftech.com/amds-biggest-pcie-graphics-card-surfaces-online-with-four-rx-470-gpus-and-32-gb-gddr5-memory/ \nhttps://en.wikipedia.org/wiki/Radeon_400_series \nASUS Mars III Prototype - https://x.com/GOKForFree/status/2090942180533981288",
+        "id": 6731152,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/6oaDLAK86xg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 927,
+        "source_url": "https://www.youtube.com/channel/UCvWWf-LYjaujE50iYai8WgQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/6oaDLAK86xg/hqdefault.jpg",
+        "title": "That's a big GPU",
+        "vote": 0
+    }
+]

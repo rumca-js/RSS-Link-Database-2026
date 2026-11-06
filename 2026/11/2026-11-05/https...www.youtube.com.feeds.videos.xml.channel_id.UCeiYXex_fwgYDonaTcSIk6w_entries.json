@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "MinuteEarth",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-05T21:08:25.785889+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-05T18:56:53+00:00",
+        "description": "50x50: Science Across America is a national series uncovering exceptional science in all 50 states. It is a production of the Independent Media Initiative in collaboration with HHMI Tangled Bank Studios, Alfred P. Sloan Foundation, and the Winn Family Foundation. See all the states at https://5050science.com \n\nIn 1656, Christiaan Huygens invented a pendulum clock that, based on the period of its pendulum swings, could measure time down to the second. Today, we have clocks that measure a second out to 19 decimal places. What\u2019s the point of subdividing time into such infinitesimally tiny fractions?\n\nLEARN MORE\n**************\nTo learn more about this topic, start your googling with these keywords: \n- Pendulum clock: is a clock that uses a swinging weight known as a pendulum as its timekeeping element\n- Atomic clock: is a clock that measures time by monitoring the resonant frequency of atoms.\n- Cesium clock: is an atomic clock that measures time using a precise natural frequency of cesium",
+        "id": 6730702,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=744fHerowJ4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 838,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCeiYXex_fwgYDonaTcSIk6w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/744fHerowJ4/hqdefault.jpg",
+        "title": "Why Do We Even Need A Clock This Accurate?",
+        "vote": 0
+    }
+]

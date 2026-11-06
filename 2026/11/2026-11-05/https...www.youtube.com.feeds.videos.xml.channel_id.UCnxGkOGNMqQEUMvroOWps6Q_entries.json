@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "JRE Clips",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-05T19:36:45.379111+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-05T18:00:37+00:00",
+        "description": "Taken from JRE #2577 w/Gregory Forth\nYouTube: https://youtu.be/_k9l-Qx3YvY\nJRE on Spotify: https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk",
+        "id": 6730188,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=Q7mJw9ZUxfY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 157,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnxGkOGNMqQEUMvroOWps6Q",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/Q7mJw9ZUxfY/hqdefault.jpg",
+        "title": "Homo floresiensis: The Hobbit People of Flores and Reports of Modern Sightings",
+        "vote": 0
+    }
+]

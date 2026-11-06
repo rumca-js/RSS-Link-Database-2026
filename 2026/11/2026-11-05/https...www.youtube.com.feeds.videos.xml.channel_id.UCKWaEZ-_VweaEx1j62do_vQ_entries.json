@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-05T13:06:54.815095+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-05T12:00:09+00:00",
+        "description": "Learn more about Vector Databases here \u2192 https://ibm.biz/~aHY62ka9p\n\nDo AI applications still need vector databases? Martin Keen explores RAG, AI agents, embeddings, semantic search, and context windows to explain when vector databases matter and when simpler retrieval approaches work just as well. Learn how to choose the right retrieval architecture for your workload.\n\n00:00 - Are Vector Databases Still Needed in the Age of AI Agents?\n00:29 - What Vector Databases Actually Do: Embeddings & Semantic Search\n01:15 - The Retrieval Pyramid: Choosing the Right Search Strategy\n01:49 - 3 Reasons You Might Not Need a Vector Database\n02:01 - Agentic Search vs Vector Search: Can Keyword Search Win?\n03:08 - Do Long Context Windows Make Retrieval Obsolete?\n03:33 - The Hidden Costs of Embeddings and Vector Indexes\n05:27 - When Vector Search Outperforms Keyword Search\n07:22 - Vector Index vs Vector Database: What's the Difference?\n08:18 - How to Decide the Right Retrieval Approach for Your AI Syste",
+        "id": 6727420,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=rXFV1ivDe6c",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/rXFV1ivDe6c/hqdefault.jpg",
+        "title": "Are Vector Databases Still Needed? RAG, AI Agents & Search",
+        "vote": 0
+    }
+]

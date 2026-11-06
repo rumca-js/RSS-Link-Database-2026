@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Doug Sharpe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-05T17:07:45.290478+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-05T17:00:23+00:00",
+        "description": "Path\u00e9 theatres wants to hypnotize people to make them forget movies",
+        "id": 6729037,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/vUxybxqu1vk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 811,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCAYmlecATSG0wc5IxsFJSbQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/vUxybxqu1vk/hqdefault.jpg",
+        "title": "Hypnotherapy To Forget Movies #funfact",
+        "vote": 0
+    }
+]

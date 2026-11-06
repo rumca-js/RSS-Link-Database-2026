@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mateusz Pusz",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-05T01:22:20.996170+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-05T00:57:58+00:00",
+        "description": "<p>\n\tThe third installment in Mateusz Pusz&#39;s series on C++ rules experienced developers quietly get wrong, this one works through when casting a byte buffer to a struct is undefined behavior and when it is not, using C++20 implicit-lifetime types and implicit object creation, and the C++23 <code>std::start_lifetime_as</code> for the remaining case.</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://train-it.eu/blog/your-buffer-is-not-a-struct-yet/\">Your buffer is not a struct yet</a></h3>\n\t<p>\n\t\tby Mateusz Pusz</p>\n</blockquote>\n<p>\n\tPublished so far:</p>\n<ul>\n\t<li>\n\t\t<a href=\"https://train-it.eu/blog/cpp-fundamentals-your-seniors-think-they-know\">The C++ fundamentals your seniors think they know</a></li>\n\t<li>\n\t\t<a href=\"https://train-it.eu/blog/std-launder-stale-provenance\">Your pointer still remembers the old object</a></li>\n</ul>\n<p>\n\tFrom the article:</p>\n<blockquote>\n\t<p>\n\t\tWhether casting a buffer to a struct is undefined behavior depends on two things: whether the type is implicit-",
+        "id": 6725017,
+        "language": "en",
+        "link": "https://isocpp.org//blog/2026/11/your-buffer-is-not-a-struct-yet-mateusz-pusz",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Your buffer is not a struct yet -- Mateusz Pusz",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "HTX Studio",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-05T14:50:39.080870+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-05T14:24:52+00:00",
+        "description": "Corrections:\n10:10 The actual parameter counts of gpt-oss-120b, Qwen3.8-Flash-Next, and Gemma 4 31B are approximately 117B, 125B, and 31B, respectively, and after 4-bit quantization they take up about 60G, 80G, and 15G of memory.",
+        "id": 6728025,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=qMepRe7YbeM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 873,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCwffSP9kO8pMZVr1Ugqvbzw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/qMepRe7YbeM/hqdefault.jpg",
+        "title": "What's the Point? Touchscreen MacBook Pro & iPad mini 8 Review",
+        "vote": 0
+    }
+]

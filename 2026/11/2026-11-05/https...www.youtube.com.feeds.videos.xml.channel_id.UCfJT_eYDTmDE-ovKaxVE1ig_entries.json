@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kevin Stratvert",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-05T22:40:02.576123+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-05T19:32:49+00:00",
+        "description": "Learn how to install and use Ollama on Windows to run AI models locally for free. In this beginner tutorial, we'll set up Ollama without an account, choose a local model, chat with AI, ask follow-up questions, and analyze a PDF on your computer. Then we'll connect Ollama to OpenCode and build a website with AI that creates files directly on your PC. Once you've downloaded a local model, you can use it offline. Cloud models are optional and work differently; this tutorial focuses on local AI.\n\nHost: Kevin Stratvert\n\n\ud83d\udcda RESOURCES\n- Ollama: https://ollama.com/\n- Download Ollama for Windows: https://ollama.com/download/windows\n- OpenCode: https://opencode.ai/\n- Download OpenCode: https://opencode.ai/download\n\n\u231a TIMESTAMPS\n0:00 - Introduction\n0:28 - Download and install Ollama on Windows\n1:49 - Choose a local AI model\n2:41 - Run your first prompt and ask follow-up questions\n3:24 - Chat history and new conversations\n3:44 - Analyze a PDF locally\n4:33 - Install OpenCode and connect Ollama\n5:21",
+        "id": 6731196,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=btMoPRHz8eM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 958,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfJT_eYDTmDE-ovKaxVE1ig",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/btMoPRHz8eM/hqdefault.jpg",
+        "title": "How to Use Ollama (Free Local AI)",
+        "vote": 0
+    }
+]
