@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-06T15:40:52.191197+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-06T15:00:26+00:00",
+        "description": "https://cppcon.org/\n---\n\nProfiles for Simplicity and Guarantees - Bjarne Stroustrup - CppCon 2026\n\nThe C++ community is growing fast. C++ is being used in critical applications. C++ can be used in ways that ensures correctness, simplicity, performance, and maintainability. How can we ensure that it is used is such desirable ways? How can we teach new and old C++ developers to do so?\n\nThe general strategy is called \u201csubset of superset\u201d and is based on the idea that by extending (\u201csupersetting\u201d) by adding libraries, we can simplify static analysis to where we can remove undesirable uses (\u201csubsetting\u201d) without damaging expressiveness or efficiency. Where run-time checks are necessary, such as to catch out-of-range accesses in hardened libraries, static analysis can be used to minimize the number of checks.\n\nThe strategy is supported by the \u201cProfiles\u201d framework, that allows us to require or suppress specific sets of guarantees, called profiles.\n\nAs examples, I show how to eliminate uninit",
+        "id": 6734867,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=41USGJaGsAo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/41USGJaGsAo/hqdefault.jpg",
+        "title": "Profiles for Simplicity and Guarantees - Bjarne Stroustrup - CppCon 2026",
+        "vote": 0
+    }
+]

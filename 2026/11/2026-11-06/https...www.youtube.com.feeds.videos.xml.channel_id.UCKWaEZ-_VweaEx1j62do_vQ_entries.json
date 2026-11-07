@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-06T12:13:45.318152+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-06T09:30:07+00:00",
+        "description": "Visit Mixture of Experts podcast page to get more AI content  \u2192 https://ibm.biz/~Rz77ywquX\n\nHow close are we to AI that can improve itself?\n\nThis week on Mixture of Experts, guest host Aili McConnon is joined by Chris Hay, Sascha Brodsky and Kiyu Gabriel tackle that question and more from the latest AI headlines.\n\nFirst, MIT researchers demonstrate a technique that uses AI to modify another model's weights. The panel considers how close this brings us to recursive self-improvement and whether reward hacking poses a more immediate risk.\n\nNext, Mistral releases a trillion-parameter open-weight model while NVIDIA expands its open model offerings. With open models approaching frontier-level capabilities, will developers still need to rely on proprietary AI?\n\nFinally, Google DeepMind introduces Genie 4, its new world model. The panel debates how much these models actually understand about physics and what happens when a convincing simulation gets the real world wrong.\n\nAll that and more on",
+        "id": 6733392,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=x_5JijpzprU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/x_5JijpzprU/hqdefault.jpg",
+        "title": "AI fixes AI in MIT study, Mistral's open model & Google Genie 4",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ACCU Conference",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-06T12:14:20.765888+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-06T10:11:07+00:00",
+        "description": "ACCU Membership: https://tinyurl.com/ydnfkcyn\n---\n\nHow Invariant are Invariants? - David Olsen - ACCU 2026\n---\n\nClass invariants are a vital tool when writing robust code. Classes are easier to use and easier to maintain if you know that some conditions are always true. But C++ makes it impossible to maintain invariants in all cases. We will look at a simple class with a seemingly simple invariant. Then we'll discover why that class is impossible to implement correctly and explore techniques for dealing with the situation. You will come away with new insights on class invariants and guidelines for writing and using classes in robust code. \n\nSlides: https://github.com/Digital-Medium/ACCU-On-Sea-Slides-2026\n---\n\nDavid Olsen\n\nDavid Olsen has three decades of software development experience in a variety of programming languages and development environments. For the last decade he has been the lead engineer for the NVIDIA HPC C++ compiler, focusing on running standard parallel algorithms o",
+        "id": 6733415,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=TLk4mm4u02A",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 421,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJhay24LTpO1s4bIZxuIqKw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/TLk4mm4u02A/hqdefault.jpg",
+        "title": "How Invariant are Invariants? - David Olsen - ACCU 2026",
+        "vote": 0
+    }
+]

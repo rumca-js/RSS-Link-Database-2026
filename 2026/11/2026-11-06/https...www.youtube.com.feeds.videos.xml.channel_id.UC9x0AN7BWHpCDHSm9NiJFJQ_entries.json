@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NetworkChuck",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-06T18:53:18.834712+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-06T17:10:45+00:00",
+        "description": "Could AI be your next networking assistant? Check out how HPE Networking uses AI to identify issues and optimize performance: https://ntck.co/aiops\n\n\nHerdr is tmux, but built for AI. I use it every single day, and it pulled me back to the terminal right when I was about to go full GUI. In this video you'll learn how to install Herdr on Mac, Linux and Windows, how panes, tabs and workspaces fit together, how to get notified when an agent finishes, gets blocked or has a question, how to connect remote Herdr sessions over SSH, and how to let your AI agents control Herdr and talk to each other. My Claude Code launched Codex, Gemini and Grok, and they all talked back.\n\n\nJoin the NetworkChuck Academy!: https://ntck.co/NCAcademy\n\n\nRESOURCES / LINKS:\n\ud83c\udf10 Herdr: https://herdr.dev\n\ud83d\udcbb Herdr on GitHub: https://github.com/herdrdev/herdr\n\ud83d\udcfa you need to learn tmux RIGHT NOW!!: https://www.youtube.com/watch?v=nTqu6w2wc68\n\ud83d\udee0\ufe0f Claude Code: https://claude.com/claude-code\n\ud83c\udf99\ufe0f Wispr Flow (how I talk to my agent",
+        "id": 6736196,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=9_FzA-J9S2E",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 565,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9x0AN7BWHpCDHSm9NiJFJQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/9_FzA-J9S2E/hqdefault.jpg",
+        "title": "you need to use Herdr RIGHT NOW!!",
+        "vote": 0
+    }
+]

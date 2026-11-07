@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Infographics Show",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-06T12:17:50.832305+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-06T02:11:31+00:00",
+        "description": "Windows may be making open-source software look worse than it really is.\n\nIn 2026, VLC users reported launch delays of up to 33 seconds on Windows. The app itself hadn\u2019t suddenly become slower. Microsoft Defender was reportedly interfering with critical startup files. And VLC wasn\u2019t alone.\nOther independent apps have also run into problems caused by Windows security layers, default-app behavior, and system updates. There\u2019s no proof Microsoft intentionally targeted VLC, but Microsoft controls the operating system, antivirus, browser, app store, and competing software. So when Windows breaks something, independent developers often take the blame while Microsoft\u2019s own apps remain the easiest alternative.\n\nThat imbalance may matter more than intent.\n\n00:38 - Why VLC Suddenly Became Painfully Slow on Windows\n01:53 - How Microsoft Defender Started Breaking VLC\n03:48 - What Windows Is Doing Behind the Scenes\n05:12 - Why Open-Source Apps Keep Taking the Blame\n07:11 - The Linux Test That Point",
+        "id": 6733473,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Awf9D7vIgvE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 999,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfdNM3NAhaBOXCafH7krzrA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/Awf9D7vIgvE/hqdefault.jpg",
+        "title": "VLC Took 33 Seconds To Load, So Developers Investigated Windows.",
+        "vote": 0
+    }
+]

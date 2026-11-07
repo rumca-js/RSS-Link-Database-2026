@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-06T16:03:05.364589+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-06T15:22:02+00:00",
+        "description": "Build a complete top-down action roguelite in Godot 4, from an empty project to a game a stranger can open and play. About 10 hours, 8 chapters, 31 lessons. Most lessons stop for a Your Turn, where you build the next piece yourself before you see mine.\n\n\u27a1\ufe0f Try the demo (no account, ~2 min): https://codingquests.io/roguelike?utm_source=freecodecamp&utm_medium=video&utm_campaign=fcc_2d_roguelike&utm_content=description\n\nWhat you need\n- Godot 4.7.2, the standard version (not .NET). Anything from 4.6 on works: https://godotengine.org/download/archive/4.7.2-stable/\n- The Assets folder (art and sound, used from lesson 0.1). It comes with the starting project: https://github.com/CodingQuests/2D-Roguelike-Tutorial-youtube/archive/refs/heads/lesson-0.1.zip\n- The project at the end of every lesson: https://github.com/CodingQuests/2D-Roguelike-Tutorial-youtube\n  Each lesson is a branch. Pick the lesson before the one you're starting, then Code - Download ZIP.\n- The finished game, to play first: ",
+        "id": 6735045,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=eHHxRJulX74",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/eHHxRJulX74/hqdefault.jpg",
+        "title": "Godot 4 Roguelike Course \u2013 Build a Complete Top-Down Action Game",
+        "vote": 0
+    }
+]

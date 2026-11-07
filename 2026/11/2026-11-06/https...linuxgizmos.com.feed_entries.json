@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-06T12:21:02.208974+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-06T04:47:26+00:00",
+        "description": "LILYGO has expanded its T-Dongle lineup with the T-Dongle S3 Plus, an ESP32-S3 development board housed in a transparent USB flash-drive enclosure. The device combines a 0.96-inch color display, 16MB flash, 8MB PSRAM, and microSD storage with additional features including a microphone, infrared functionality, and an optional hardware security chip. For context, LILYGO introduced the [&#8230;]",
+        "id": 6733513,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/esp32-s3-usb-dongle-adds-microphone-ir-and-hardware-security",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "ESP32-S3 USB dongle adds microphone, IR and hardware security",
+        "vote": 0
+    }
+]

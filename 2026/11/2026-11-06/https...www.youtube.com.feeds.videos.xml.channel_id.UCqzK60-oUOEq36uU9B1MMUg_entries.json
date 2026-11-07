@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Julia McCoy",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-06T16:28:38.159443+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-06T15:00:21+00:00",
+        "description": "\ud83d\udc49*Try Abacus AI* \u2014 https://chatllm.abacus.ai/fmj\n\n*Anthropic's red team ran one AI model across 15 cheap Android TV boxes, and says self-replicating AI could reach your smart devices within months.*\n\nWhen the agent kept notes between attempts, its success rate jumped from *45% to 84%*. The Frontier Red Team paper says models under 30B parameters could have the skill by December.\n\nWhat you'll learn:\n\u2705 What the *5 models* actually did, and where the experiment broke\n\u2705 3 *home network* fixes I'd make this week\n\u2705 Why your fridge is a softer target than any data center\n\nThe line that unsettled me most has nothing to do with the *fridge*.\n\n#AI #Cybersecurity #SmartHome\n\nABOUT\n\nJulia McCoy, founder of First Movers, was the first to build a clone of herself on YouTube that fully replaced her face and voice. Today, every clone First Movers builds for clients runs on the same 6 layer clone system that powers Dr. McCoy. 300,000+ subscribers \u00b7 750+ videos Julia never filmed \u00b7 2M+ impressions a mo",
+        "id": 6735234,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=XYKcwOe2gtI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 947,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqzK60-oUOEq36uU9B1MMUg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/XYKcwOe2gtI/hqdefault.jpg",
+        "title": "Anthropic Says AI Will Start Copying Itself Into Your Fridge",
+        "vote": 0
+    }
+]
