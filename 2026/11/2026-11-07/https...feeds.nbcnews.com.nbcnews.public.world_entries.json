@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Shayna Jacobs",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-07T16:51:27.758910+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-07T15:58:06+00:00",
+        "description": "Authorities in Poland are investigating a shooting that left five people dead and at least a dozen injured in the Main Market Square in Krakow, a cultural center of the historic city, according to officials.",
+        "id": 6740102,
+        "language": "en-US",
+        "link": "https://www.nbcnews.com/world/europe/poland-krakow-shooting-rcna608001",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 224,
+        "source_url": "https://feeds.nbcnews.com/nbcnews/public/world",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-11/261107-main-market-square-of-Krakow-ch-1034-beb3c4.jpg",
+        "title": "Five people killed, multiple injured in Poland market shooting",
+        "vote": 0
+    }
+]

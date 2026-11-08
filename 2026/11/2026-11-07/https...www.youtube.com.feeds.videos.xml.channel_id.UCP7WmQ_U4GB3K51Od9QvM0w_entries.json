@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "David Bombal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-07T18:20:27.087286+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-07T16:00:29+00:00",
+        "description": "Why does this factory robot run its AI on board? I asked Jarad Cannon, CTO of Humanoid, what happens when a whole fleet of robots needs to make decisions at once.\n\nJarad walks me through the Alpha prototype. One AI model helps the robot decide what to do. A second turns that plan into movement. Training happens mostly in the cloud, but each robot runs the models on board using NVIDIA Jetson AGX Orin. That way, a fleet can work on the same factory floor without sending every decision to the cloud.\n\nThank you to NVIDIA for sponsoring this video and my trip to NVIDIA GTC in Berlin.\n\n#Robotics #EdgeAI #NVIDIA",
+        "id": 6740413,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/3do6Tbmda7c",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 984,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP7WmQ_U4GB3K51Od9QvM0w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/3do6Tbmda7c/hqdefault.jpg",
+        "title": "Why This Robot Runs Its AI on Board",
+        "vote": 0
+    }
+]

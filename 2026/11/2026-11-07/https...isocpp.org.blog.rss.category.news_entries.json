@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Daniel G Vergel",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-07T01:57:14.385172+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-07T00:58:32+00:00",
+        "description": "<p>\n\tThis article presents the design of a simple password validator that can be configured at compile time by composing independent validation policies.</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://dgvergel.github.io/2026/09/08/composable-password-validation/\">Compile-Time Policy Composition for Password Validation</a></h3>\n</blockquote>\n<blockquote>\n\t<p>\n\t\tby Daniel G&oacute;mez Vergel</p>\n</blockquote>\n<p>\n\tFrom the article:</p>\n<blockquote>\n\t<p>\n\t\tA traditional object-oriented solution could rely on dynamic polymorphism and the Decorator pattern to select and combine validation policies at runtime. In this article, we take a different approach: policy composition is performed entirely at compile time, making the validator configuration part of the type itself.</p>\n\t<p>\n\t\tThe example serves as a vehicle for exploring useful C++ techniques, including policy-based design, concepts, and other modern language features such as <code>template for</code> expansions.</p>\n</blockquote>",
+        "id": 6738105,
+        "language": "en",
+        "link": "https://isocpp.org//blog/2026/11/compile-time-policy-composition-for-password-validation-daniel-gomez-vergel",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Compile-Time Policy Composition for Password Validation -- Daniel G\u00f3mez Vergel",
+        "vote": 0
+    }
+]

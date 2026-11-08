@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-07T13:19:39.952629+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-07T01:19:49+00:00",
+        "description": "For some tourists, the contrast between Somalia's reputation and what they experience on the ground can be striking.",
+        "id": 6739379,
+        "language": "en-gb",
+        "link": "https://www.bbc.co.uk/news/articles/cq0k0lg48705o",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 521,
+        "source_url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0273/live/640a38d0-da01-11f1-84c1-dbcae60402d7.jpg",
+        "title": "The young Somali woman changing how the world sees Mogadishu",
+        "vote": 0
+    }
+]

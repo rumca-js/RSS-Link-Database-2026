@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Eduard Kovacs",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-07T12:34:54.931606+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-07T10:16:23+00:00",
+        "description": "<p>CVE-2026-19868 can let attackers holding credentials for a different login method get past SAML checks, including SAML-enforced MFA.</p>\n<p>The post <a href=\"https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/\">SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+        "id": 6738678,
+        "language": "en-US",
+        "link": "https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 299,
+        "source_url": "https://www.securityweek.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins",
+        "vote": 0
+    }
+]

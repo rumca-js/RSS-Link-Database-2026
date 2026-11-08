@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-07T13:15:23.484167+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-07T08:15:55+00:00",
+        "description": "There has been months of public outcry in Houston after an Immigration and Customs Enforcement (ICE) officer fatally shot a man who was driving to work.",
+        "id": 6739305,
+        "language": "en-gb",
+        "link": "https://www.bbc.co.uk/news/articles/c8dx33d22zkro",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 526,
+        "source_url": "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4095/live/09b20f70-da4c-11f1-ad69-611c5b2ed04a.jpg",
+        "title": "Texas mayor instructs police to limit co-operation with ICE",
+        "vote": 0
+    }
+]

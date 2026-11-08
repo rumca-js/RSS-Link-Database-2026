@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-07T15:45:53.615926+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-07T15:00:14+00:00",
+        "description": "Replit was building toward the AI coding era years before it had a name. In 2024, the company shipped an agent that could take a request in plain English, work through errors, provision its own infrastructure, and keep going until the software actually worked. The model companies even reached out to ask how Replit had pulled it off.\n\nCo-founder and CEO Amjad Masad had been thinking about making programming radically more accessible since 2008, and Replit\u2019s original pitch deck predicted AI-generated code before the Transformer paper was published. Today, that same technology is moving into banks, manufacturers, and other large companies, where Amjad says teams are replacing software projects once scoped at $10 million with $250,000 of Replit.\n\nOn How to Build the Future, Paul Graham sits down with Amjad to talk about why Replit was so well positioned when coding agents arrived, what comes after vibe coding, and his bigger vision for the \u201cself-driving company,\u201d where AI agents increasin",
+        "id": 6739888,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Q78dJ0vkWe8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/Q78dJ0vkWe8/hqdefault.jpg",
+        "title": "How Amjad Masad Saw Vibe Coding A Decade Early",
+        "vote": 0
+    }
+]

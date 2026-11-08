@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-07T15:11:50.871772+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-07T15:00:06+00:00",
+        "description": "Why C++ will never be simple\n\nEver wondered why learning C++ can feel like such a monumental challenge? In this video, we explore the complexities of the C++ language and why it will likely never be simple. Whether you are looking to learn C++ for the first time or you are a seasoned professional diving into advanced software engineering, understanding the history and design philosophy of this powerful tool is essential.\n\nWe examine the evolution of the C++ language, from its core fundamentals to the massive ecosystem provided by libraries like Boost. If you are interested in C++ software development, we break down why the language maintains such a high barrier to entry compared to other modern alternatives. We also touch upon key concepts discussed at major industry events like CppCon, providing insight into why C++ best practices are so critical for writing stable, efficient C++ code.\n\nThis video serves as a deep dive for anyone pursuing a career in C++ programming. We discuss the n",
+        "id": 6739809,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/7sAGdjEDD60",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/7sAGdjEDD60/hqdefault.jpg",
+        "title": "Why C++ will never be simple #cpp #coding #tech",
+        "vote": 0
+    }
+]
