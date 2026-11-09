@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-08T19:35:14.792587+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-08T15:00:39+00:00",
+        "description": "This week\u2019s Paper Club is all about AI for biology. The cost of sequencing has collapsed, which means biology now generates more data than anyone can mine, and the models are finally catching up. We cover how falling sequencing costs are turning cancer care into a per-patient data problem, what it takes to model a cell rather than a molecule, what a language model trained on DNA actually learns, and why in-context learning showed up in a genome model that nobody trained for it.\n\nChapters:\n00:00 - Is the Turing test solved? A live experiment\n03:22 - Why now is the best time for AI Bio\n08:26 - Alfredo Gonzalez: cancer as a data problem\n29:50 - Yusuf Roohani: virtual cells and autonomous research\n51:47 - Garyk Brixi: what a model learns from DNA\n1:09:57 - Divya Nori: few-shot prompting for biological design\n\nApply to Y Combinator: https://www.ycombinator.com/apply\nWork at a startup: https://www.ycombinator.com/jobs",
+        "id": 6741834,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=-XL2gClQ2gg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/-XL2gClQ2gg/hqdefault.jpg",
+        "title": "Is AI Now Good Enough To Cure Cancer? | YC Paper Club",
+        "vote": 0
+    }
+]

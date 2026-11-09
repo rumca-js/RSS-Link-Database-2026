@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-08T19:45:23.861987+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-08T04:03:12+00:00",
+        "description": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
+        "id": 6742076,
+        "language": "en-gb",
+        "link": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 525,
+        "source_url": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2670/live/bfaac760-dacc-11f1-bda8-29fb69dbc026.jpg",
+        "title": "Houthis say at least 33 killed in Saudi air strike",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-08T21:06:01.293397+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-08T12:00:25+00:00",
+        "description": "Learn more about KV Cache here \u2192 https://ibm.biz/~6LPSw4Y8N\n\nThe same AI model can run differently across chips. Kaoutar El Maghraoui explains how GPUs, TPUs, and AI accelerators store and move KV cache during LLM inference. Learn why memory architecture and data movement can shape AI performance.\n\n 00:00 \u2013 Understand Why LLMs Need a KV Cache\n 00:46 \u2013 See How KV Cache Reuses Keys and Values\n 01:39 \u2013 Balance KV Cache Capacity and Fast Memory\n 02:41 \u2013 Follow KV Cache Through GPU Memory\n 04:41 \u2013 Compare TPU Memory and Compiler Orchestration\n 06:44 \u2013 Explore Dataflow Accelerator Memory\n 08:34 \u2013 Compare How AI Accelerators Move KV Cache\n 09:05 \u2013 Connect KV Cache Movement to LLM Performance\n\nContinue your education in the course Memory Systems in Dataflow Architectures on Coursera here \u2192 https://ibm.biz/~I7KAjOCAb\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/~modQneKWV\n\nAI was used in the creation of the transcript and metadata for this vid",
+        "id": 6743149,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=H_GJapsoLyU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/H_GJapsoLyU/hqdefault.jpg",
+        "title": "Why AI Models Run Faster on Some Chips: The KV Cache Effect",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "David Bombal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-08T20:58:13.181364+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-08T15:00:14+00:00",
+        "description": "Big thanks to Proton VPN for sponsoring this video.  To get a 75% discount on Proton VPN this Black Friday month, please use the following link: https://protonvpn.com/davidbombal\n\n// Buy Hak5 coolness //\nBuy Hak5 stuff here: https://davidbombal.wiki/gethak5\n\nWhy does the USB Rubber Ducky look like a normal flash drive but behave like a keyboard? Darren Kitchen, founder of @hak5, tells David Bombal how a tool for fixing printers became a famous hacking device.\n\n@DarrenKitchen shares the story behind the USB Rubber Ducky, from hiding early circuit boards inside actual rubber ducks to building DuckyScript and developing a security tool used for automation, awareness training, and authorized red teaming.\n\nWe explore why computers accept input from USB keyboards, how keystroke injection works, and why an apparently harmless device can issue commands much faster than a person. Darren also explains Keystroke Reflection, a technique that uses keyboard indicator signals such as Caps Lock, Num ",
+        "id": 6743087,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=o_19eye8L9o",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 984,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP7WmQ_U4GB3K51Od9QvM0w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/o_19eye8L9o/hqdefault.jpg",
+        "title": "He Invented the USB Rubber Ducky to Fix Printers!",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Bill Toulas",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-08T19:51:45.071920+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-08T10:43:08+00:00",
+        "description": "Japanese manufacturer\u00a0Iris Ohyama, the operator of the Iris Plaza shopping platform,\u00a0disclosed that personal information belonging to about 7.7 million people may have been exposed after unauthorized access to a third-party cloud service the company used. [...]",
+        "id": 6742270,
+        "language": "en-US",
+        "link": "https://www.bleepingcomputer.com/news/security/iris-ohyama-data-cloud-breach-exposes-info-of-77-million-customers",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 40,
+        "source_url": "https://www.bleepingcomputer.com/feed/",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Iris Ohyama data cloud breach exposes info of 7.7 million customers",
+        "vote": 0
+    }
+]
