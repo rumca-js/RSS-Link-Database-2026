@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-09T10:20:27.009858+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-09T09:52:17+00:00",
+        "description": "Three children are among those killed in the incident that came a day after heavy rain reportedly flooded tens of thousands of tents across Gaza.",
+        "id": 6745349,
+        "language": "en-gb",
+        "link": "https://www.bbc.co.uk/news/articles/cqd090ee8px5o",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 525,
+        "source_url": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84c7/live/fc845070-dc20-11f1-a701-fddedf244c16.jpg",
+        "title": "Five killed in Gaza after sand embankment collapses onto tents, first responders say",
+        "vote": 0
+    }
+]

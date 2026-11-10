@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-09T14:32:02.776342+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-09T12:00:33+00:00",
+        "description": "Learn more about Spec-Driven Development here \u2192 https://ibm.biz/~zVL5K4NRM\n\nAI coding is making software specifications relevant again. Cedric Clyburn compares Spec-Driven Development with Waterfall and explains how evolving specs give AI agents better context. Learn why clearer specs can mean fewer prompts, faster iterations, and better code\n\n 00:00 \u2013 See Why AI Coding Needs Better Specs\n 00:43 \u2013 Define Spec-Driven Development\n 01:06 \u2013 Understand the Waterfall Development Model\n 01:38 \u2013 See Why Waterfall Specs Go Stale\n 02:47 \u2013 Ask If Spec-Driven Development Is Just Waterfall\n 03:09 \u2013 Build with an Iterative Spec-Driven Loop\n 03:39 \u2013 Refine an AI Coding Spec as You Build\n 04:18 \u2013 Keep Specifications Version-Controlled with Code\n 05:05 \u2013 Give AI Agents Better Context & Less Ambiguity\n 06:36 \u2013 Add Security, Compliance & Governance to Specs\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/~lsxtAZPcw\n\nAI was used in the creation of the trans",
+        "id": 6746577,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=GpZ5T51jE4U",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/GpZ5T51jE4U/hqdefault.jpg",
+        "title": "Spec-Driven Development vs. Waterfall: What's Different for AI Coding?",
+        "vote": 0
+    }
+]

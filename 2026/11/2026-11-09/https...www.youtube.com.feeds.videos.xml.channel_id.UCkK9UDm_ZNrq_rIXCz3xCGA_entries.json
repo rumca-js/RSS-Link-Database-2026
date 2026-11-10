@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Lunduke Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-09T20:29:53.327284+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-09T18:42:27+00:00",
+        "description": "Even more bizarre: Asahi accuses \"bad faith actors\" of \"exploiting\" the open source code... by \"lifting\" it (read: stealing).\n\nThe Lunduke Journal & LCOS:\nhttps://lunduke.com/",
+        "id": 6748745,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=y6TuRhUlJeQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 616,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkK9UDm_ZNrq_rIXCz3xCGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/y6TuRhUlJeQ/hqdefault.jpg",
+        "title": "Asahi Linux Drops MIT License for GPL to Spite Omarchy",
+        "vote": 0
+    }
+]

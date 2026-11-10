@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Boston Dynamics",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-09T15:20:44.196107+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-09T15:00:35+00:00",
+        "description": "Robots in the real world experience challenges and conditions we can\u2019t always anticipate or recreate in the lab, so we have to get creative to push the limits. Adding wheels to Atlas was a testbed to see how a learned whole-body controller can work with real actuators, running at the edge of their performance envelopes.\u00a0\n\nLearn more about how we test our systems to ensure reliability: https://bostondynamics.com/blog/atlas-on-a-roll/\nJoin our team: https://bostondynamics.com/careers/",
+        "id": 6746799,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=NL65Awuv8gU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 451,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7vVhkEfw4nOGp8TyDk7RcQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/NL65Awuv8gU/hqdefault.jpg",
+        "title": "Atlas on a Roll | Classical Motor Controls and Whole-Body RL | Boston Dynamics",
+        "vote": 0
+    }
+]

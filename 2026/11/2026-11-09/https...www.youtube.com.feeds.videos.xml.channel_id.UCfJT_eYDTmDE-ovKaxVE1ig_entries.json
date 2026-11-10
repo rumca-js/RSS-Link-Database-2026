@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kevin Stratvert",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-09T08:56:33.258533+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-09T08:00:25+00:00",
+        "description": "What can Grok AI do? Watch the full tutorial to learn how to generate images and videos, build apps, explore conversations on X, and write better prompts to get the results you want.\n\n\ud83c\udfacWatch the full tutorial: https://youtu.be/lGSQV0lIGus\nSponsored by Zapier \n#Grok #GrokAI #AITools",
+        "id": 6745115,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/frXyEsq-qao",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 958,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfJT_eYDTmDE-ovKaxVE1ig",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/frXyEsq-qao/hqdefault.jpg",
+        "title": "You\u2019ve Tried ChatGPT. But Have You Tried Grok?",
+        "vote": 0
+    }
+]

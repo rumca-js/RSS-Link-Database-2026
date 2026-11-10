@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-09T04:59:57.600688+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-09T04:37:42+00:00",
+        "description": "Morse Micro&#8217;s &#8220;HaLowLink 2&#8221; gateway runs OpenWrt on a MediaTek MT7621 processor with an MM8108 Wi-Fi HaLow radio supporting ranges of up to 1km and PHY data rates of up to 43.3Mbps. Originally announced in September 2025, the gateway is now available through distributors including Seeed Studio, Mouser Electronics, and DigiKey. The gateway&#8217;s main wireless [&#8230;]",
+        "id": 6744440,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/long-range-wi-fi-halow-gateway-offers-openwrt-and-dual-gbe",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Long-range Wi-Fi HaLow gateway offers OpenWrt and dual GbE",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Foundation",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-09T15:07:37.767819+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-09T14:45:41+00:00",
+        "description": "John Mertic of the Linux Foundation explains what it takes to keep mainframe a first-class citizen in enterprise computing as AI, observability, and open source converge on the platform. Full article and transcript: https://tfir.io/mainframe-ai-open-source-linux-foundation/\n\nMainframe environments face a growing gap: the broader open source ecosystem is moving fast on AI, agentic tooling, and observability, while mainframe teams struggle to port, sustain, and distribute packages at the same pace.\n\nIn this exclusive interview with Swapnil Bhartiya, John Mertic, Director of Program Management at the Linux Foundation and a key figure in the Open Mainframe Project, outlines where the community is directing its energy and what the next wave of collaboration looks like.\n\nKey Topics Covered:\n- Keeping mainframe a first-class citizen in enterprise computing\n- Observability as a priority workstream for the mainframe community\n- Building a cohesive strategy for porting and sustaining open sourc",
+        "id": 6746717,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Uwjex9MWm0U",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 499,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfX55Sx5hEFjoC3cNs6mCUQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/Uwjex9MWm0U/hqdefault.jpg",
+        "title": "Mainframe's Next Chapter: AI, Observability, and Open Source | John Mertic, Linux Foundation",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ACCU Conference",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-09T14:12:44.432048+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-09T13:00:24+00:00",
+        "description": "ACCU Membership: https://tinyurl.com/ydnfkcyn\n---\n\nC++26 Uncovered - Everything You Need to Know About the New Standard - Inbal Levi - ACCU 2026\n---\n\nC++26 is here, bringing one of the most feature-rich standards in the history of the language. This talk will uncover everything you need to know about the new standard from within\u2014spanning core language improvements, powerful compile-time capabilities, safer programming models, and major library additions. We\u2019ll explore features such as compile-time reflection, design-by-contract, saturating arithmetic, SIMD enhancements, BLAS-style linear algebra, async execution frameworks, and new debugging tools. Along the way, we\u2019ll examine not just what these features are, but why they were added, how they fit into the evolving design of modern C++, and the real-world problems they solve. Whether you write performance-critical code, maintain large systems, or simply want to stay at the forefront of the language, you'll leave with a picture of the ",
+        "id": 6746464,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=1r5Hl1EoaYo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 421,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJhay24LTpO1s4bIZxuIqKw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/1r5Hl1EoaYo/hqdefault.jpg",
+        "title": "C++26 Uncovered - Everything You Need to Know About the New Standard - Inbal Levi - ACCU 2026",
+        "vote": 0
+    }
+]

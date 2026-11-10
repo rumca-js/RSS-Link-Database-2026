@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ForrestKnight",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-09T14:50:57.614994+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-09T14:45:21+00:00",
+        "description": "It's not the size of the model that counts, it's how you use it.\n\nTry out Grok Bot: https://jetty.to/grokbot\n\nSo as developers, we\u2019ve been promised a lot. For about two years now we\u2019ve been hearing some version of the same thing. With AI, you\u2019re gonna actually become a 10x developer. You are gonna get so much more work done than ever before.\n\nNow, I gotta be honest. On my personal projects, oh I feel this. I\u2019m seeing gains that blow way past 10x. But my side projects aren\u2019t exactly representative of the industry. And even within the industry, everyone seems to be getting different results.\n\nI have dev friends in just about every part of it, from the big AI labs, to the Silicon Valley startup that just raised $50M, to enterprise like banks and defense. And what I\u2019ve noticed is just how different their experience with AI is. Some of \u2019em are seeing only 2x gains, if that. Then you take a look at  some others and they ship 2,000 PRs in a real production codebase in a single month.\n\nSo I w",
+        "id": 6746649,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=qCheZDyFX2U",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 118,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2WHjPDvbE6O328n17ZGcfg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/qCheZDyFX2U/hqdefault.jpg",
+        "title": "I Looked Into How Devs Are Actually Using AI",
+        "vote": 0
+    }
+]

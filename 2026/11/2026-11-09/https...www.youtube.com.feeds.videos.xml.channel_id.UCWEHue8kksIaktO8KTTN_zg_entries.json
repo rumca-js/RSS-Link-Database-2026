@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CodingEntrepreneurs",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-09T17:58:30.252179+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-09T16:32:20+00:00",
+        "description": "\u2b50\ufe0f Branch Postgres for every AI agent with Xata: https://xata.io\n\u2b50\ufe0f Get Managed Postgres + real-time analytics with ClickHouse: https://clickhouse.com/cloud/postgres\n\nAgents have been guessing what happens in production for far too long. Or we hand them the production database, and it goes catastrophically wrong.\n\nThe fix: give every agent an isolated branch of production with the sensitive data masked. If it drops the orders table or runs a migration that breaks, production is untouched.\n\nIn this video, I build the whole stack from scratch with Python and Django: production on ClickHouse Managed Postgres, page view analytics you fully own in ClickHouse, and an anonymized mirror of production in Xata. Then we branch it, migrate one branch, delete rows on another, and watch production and every other branch stay exactly the same.\n\nLoading 200 fixture rows crawls. A full branch takes seconds, and idle branches scale to zero. By the end, one prompt tells your AI agent to create a git wor",
+        "id": 6747888,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=U08rCMcblzk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 74,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCWEHue8kksIaktO8KTTN_zg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/U08rCMcblzk/hqdefault.jpg",
+        "title": "So... Everyone and Their Agent Gets a Postgres Branch? (Even Your Worktrees)",
+        "vote": 0
+    }
+]

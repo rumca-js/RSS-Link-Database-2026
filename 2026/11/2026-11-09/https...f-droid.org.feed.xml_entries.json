@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "linsui",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-09T17:38:54.125302+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-09T00:00:00+00:00",
+        "description": "<h3 id=\"this-week-in-f-droid\">This Week in F-Droid</h3>\n\n<h3 id=\"twif-curated-on-monday-09-nov-2026-week-46\">TWIF curated on Monday, 09 Nov 2026, Week 46</h3>\n\n<h4 id=\"community-news\">Community News</h4>\n\n<p><a href=\"https://gitlab.com/licaon-kter\">@Licaon_Kter</a> shares a video:</p>\n\n<p>At next app devCon 2026 our own board member Juhani Lehtim\u00e4ki made a <a href=\"https://www.youtube.com/watch?v=dqf4rslG64Q\">talk</a> on introducing F-Droid. In this talk you\u2019ll learn how F-Droid, the app store, works. How to submit your apps and how to maintain them. What are anti-features, how is your app approved and updated. How do reproducible builds help ensure security. And how to run your own app repo.</p>\n\n<p><strong><a href=\"https://f-droid.org/packages/be.suivicompteurs.app\">Suivi compteurs</a></strong> was updated to <code class=\"language-plaintext highlighter-rouge\">1.6.2</code> to a reproducible build. If you\u2019ve installed it last week, you might need to uninstall and reinstall this new ve",
+        "id": 6747741,
+        "language": "en",
+        "link": "https://f-droid.org/en/2026/11/09/twif.html",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 1021,
+        "source_url": "https://f-droid.org/feed.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Hitting 5K, again",
+        "vote": 0
+    }
+]

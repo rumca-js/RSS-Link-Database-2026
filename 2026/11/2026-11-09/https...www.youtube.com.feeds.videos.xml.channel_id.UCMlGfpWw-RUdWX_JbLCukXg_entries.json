@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-09T16:32:23.540037+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-09T15:00:38+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nC++ in the Age of AI: How Visual Studio Is Evolving - Augustin Popa & David Li - CppCon 2026\n---\n\nFor almost 30 years, Visual Studio has been a core part of the C++ developer's toolkit on Windows. This year, we're building on that foundation with investments across three themes: making the IDE faster and more responsive for large codebases, advancing compiler conformance and runtime performance, and integrating AI-powered workflows that help you debug, refactor, and optimize more effectively. Beyond the IDE, we'll show you how AI-powered command-line tools can become a natural part of your development process. This session combines demos and practical guidance so you can get the most out of these tools right away. Come with curiosity, leave with new techniques you can apply immediately. \n---\n\nSlides: https://github.com/CppCon/CppCon2026/blob/main/Presentations/\n\nWork at Hudson River Trading (HRT): https://tinyurl.com/safxfctf\n---\n\nDavid Li\n\nDavid Li is the Gam",
+        "id": 6747258,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=PM2tymEL2aQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/PM2tymEL2aQ/hqdefault.jpg",
+        "title": "C++ in the Age of AI: How Visual Studio Is Evolving - Augustin Popa & David Li - CppCon 2026",
+        "vote": 0
+    }
+]

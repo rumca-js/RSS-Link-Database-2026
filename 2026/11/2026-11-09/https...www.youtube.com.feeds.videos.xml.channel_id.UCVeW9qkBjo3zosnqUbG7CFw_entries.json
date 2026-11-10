@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Hammond",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-09T15:59:45.568114+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-09T14:37:32+00:00",
+        "description": "A compromised website is using ClickFix to deliver a malicious payload through the browser cache. I dig into the Windows batch script and investigate why it's looking for a file with a very specific size.\n\nWatch the full breakdown: https://youtu.be/oJHOlNTH7lY?si=uM0nMUExqyx-gino",
+        "id": 6747088,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/yydGYEnRKzg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 959,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVeW9qkBjo3zosnqUbG7CFw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/yydGYEnRKzg/hqdefault.jpg",
+        "title": "ClickFix Cache Trick",
+        "vote": 0
+    }
+]

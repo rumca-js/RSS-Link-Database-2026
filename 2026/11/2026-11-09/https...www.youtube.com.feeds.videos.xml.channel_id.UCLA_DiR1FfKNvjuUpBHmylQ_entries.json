@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NASA",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-09T20:52:08.668744+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-09T17:08:54+00:00",
+        "description": "Relive the best moments from MAX POWER, NASA's first-ever tech expo and air show at and around Kennedy Space Center in Florida.\n\nThousands gathered over several days in early November for NASA's first exhibition of America's superiority in space, aeronautics, and technology. The family-friendly event honored the nation's 250th anniversary and capped off the agency's Inspiration Tour.\n\nHighlights from the first-ever MAX POWER included flyovers, a skydive by NASA Administrator Jared Isaacman, and a visit from President Donald J. Trump. NASA also unveiled a new X-plane, opened recruitment for astronaut candidates, and launched a student Moon Base challenge, while sharing the agency\u2019s latest lunar exploration plans.\n\nLearn more:\nhttps://www.nasa.gov/maxpower/\nhttps://www.nasa.gov/general/max-power-nasas-inaugural-aerospace-expo-ignites-americas-future/",
+        "id": 6748923,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=eXrd5sNdacA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 1010,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLA_DiR1FfKNvjuUpBHmylQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/eXrd5sNdacA/hqdefault.jpg",
+        "title": "MAX POWER: Highlights from NASA\u2019s First-Ever Tech Expo and Air Show",
+        "vote": 0
+    }
+]
