@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-10T14:48:53.851874+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-10T12:00:24+00:00",
+        "description": "Learn more about Knowledge Distillation here \u2192 https://ibm.biz/~9OAE6ZHmW\n\nSmall AI models can learn from much larger ones. Aadam Mulla explains model distillation, where student models learn from a teacher\u2019s soft labels and dark knowledge. Learn how distillation balances AI capability, speed, cost, and deployment.\n\n 00:00 \u2013 Understand What Model Distillation Does\n 00:36 \u2013 See Why Smaller AI Models Matter\n 01:15 \u2013 Connect Model Parameters to Memory and Speed\n 02:24 \u2013 Meet the Teacher and Student AI Models\n 02:50 \u2013 See How LLMs Predict the Next Token\n 04:59 \u2013 Train the Teacher Model with Hard Labels\n 07:26 \u2013 Train the Student with Soft Labels\n 09:12 \u2013 Understand Why Soft Labels Teach More\n 10:04 \u2013 Explore Dark Knowledge in Model Distillation\n 12:09 \u2013 Balance AI Capability with Model Efficiency\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/~xkl5jbfCz\n\nAI was used in the creation of the transcript and metadata for this video.\n\n#aimodels #",
+        "id": 6753295,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=4uvq8Cz3A7Y",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/4uvq8Cz3A7Y/hqdefault.jpg",
+        "title": "What Is Model Distillation? How Smaller AI Models Learn",
+        "vote": 0
+    }
+]

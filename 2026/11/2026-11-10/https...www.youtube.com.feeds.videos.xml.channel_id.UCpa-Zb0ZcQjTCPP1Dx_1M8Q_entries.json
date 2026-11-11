@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "LegalEagle",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-10T15:03:33.564487+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-10T14:00:28+00:00",
+        "description": "AI-faked evidence has already put a woman in jail, and a California court has thrown out an entire lawsuit over it. \u2696\ufe0f\n\nIn Florida, a woman was arrested for battery after calling the police during an argument with her boyfriend. While out on bond, she was re-arrested over a text message screenshot that had been faked with AI. It reportedly took her attorney eight months to prove her innocence before she was acquitted.\n\nIn California, the Superior Court in Alameda dismissed a case with prejudice on September 9, 2025, citing well-based suspicions that the plaintiffs had submitted AI-doctored exhibits in support of their own motion for summary judgment - an attempt to win the case outright without a trial.\n\nThe suspected fakes included deepfake video testimony, a Ring camera photo with a man stitched in, edited chat screenshots, and metadata with GPS coordinates and mailing addresses stuffed into a music genre field.\n\nHow should courts verify evidence when AI can fabricate it?\n\n#Deepfake",
+        "id": 6753394,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/al2hIRPLCMI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 563,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCpa-Zb0ZcQjTCPP1Dx_1M8Q",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/al2hIRPLCMI/hqdefault.jpg",
+        "title": "AI-faked evidence put a woman in jail and got a lawsuit dismissed",
+        "vote": 0
+    }
+]

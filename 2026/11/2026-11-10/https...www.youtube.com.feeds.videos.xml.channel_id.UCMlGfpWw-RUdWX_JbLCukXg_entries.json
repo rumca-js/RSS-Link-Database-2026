@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-10T15:46:18.088195+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-10T15:00:07+00:00",
+        "description": "Are you looking to stay ahead in the world of modern C++? In this video, we dive deep into the latest C++23 features arriving in the MSVC v14.52 update. Whether you are a seasoned software engineering professional or just starting your journey in programming, understanding these updates is essential for writing cleaner, more efficient code.\n\nWe explore how these new language capabilities impact software development and backend systems, providing you with the practical knowledge needed to leverage the latest standard in your projects. Join us as we break down the most impactful changes, offering clear tech tutorials that make complex computer science concepts accessible for every level of coding expertise. If you want to keep your development environment up to date and master the latest tools in the programming language ecosystem, this guide to cpp23 is for you. Watch now to get ready for the future of C++ development.",
+        "id": 6753784,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/95OwtgKOPlI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/95OwtgKOPlI/hqdefault.jpg",
+        "title": "C++23 in MSVC: Get Ready for New Features (v14.52 Update)",
+        "vote": 0
+    }
+]

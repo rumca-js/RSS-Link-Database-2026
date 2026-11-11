@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ETA PRIME",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-10T15:33:15.761580+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-10T15:00:07+00:00",
+        "description": "Intel Arc GPUs have been holding back a massive secret on SteamOS and Linux! Until now, the dedicated XMX AI cores inside cards like the 10GB Intel Arc B570 have been sitting completely unused on Linux, forcing games to fall back on slower DP4a upscaling and locking out XeSS Frame Generation entirely. \n\nThanks to a brand-new open-source GitHub project called xess-xmx-linux, we can finally install a modified Mesa driver that unlocks hardware-accelerated XeSS, XMX AI cores, and XeSS Frame Generation (plus Multi-Frame Gen!) directly inside SteamOS and Bazzite. Today, we're walking through how to install this modified driver step-by-step and benchmarking the Intel Arc B570 at 1440p across 5 massive AAA games to see just how big of an FPS boost you actually get!\n\nBuy INTEL ARC B570: https://link.amazon/B06xZgJUy\n\nGitHub Projects Mentioned:\nXMX XESS LINUX GITHUB - https://github.com/HHHHanasak1/xess-xmx-linux\n\nFollow Me On Twitter: https://twitter.com/theetaprime\nFollow Me On Instagram: htt",
+        "id": 6753678,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=jeLJu7VDfOc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 100,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_0CVCfC_3iuHqmyClu59Uw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/jeLJu7VDfOc/hqdefault.jpg",
+        "title": "Intel Arc's Secret Weapon Was Turned OFF On SteamOS\u2026 Until Now! (+29% FPS)",
+        "vote": 0
+    }
+]

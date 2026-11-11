@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Dr Ben Miles",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-10T17:35:24.813536+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-10T16:03:46+00:00",
+        "description": "Copenhagen Atomics are building what they believe will be the world\u2019s first commercial thorium reactor. A few months back I flew out to Denmark and sat down with their CEO Thomas Jam Pedersen and CTO Aslak Stubsgaard, who walked me through the labs and explained how they\u2019re planning to move thorium from the drawing board to the grid.\n\nThanks so much to the whole team at Copenhagen Atomics for making me so welcome, check them out here: https://copenhagenatomics.com/\n\nAlso, apologies for some of the shaky camera work. A Steadicam is currently number one on the Dr Ben Miles team wish list!\n\nSources\nSalt purity and 316L stainless steel corrosion (University of Liverpool and Copenhagen Atomics, Journal of Nuclear Materials): https://www.sciencedirect.com/science/article/pii/S0022311525007913\nStatus of Materials Development for Molten Salt Reactors, H. E. McCoy (ORNL/TM-5920, 1978): https://media.githubusercontent.com/media/openmsr/msr-archive/master/docs/ORNL-TM-5920.pdf\nMaterials Developm",
+        "id": 6754629,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=f-0Vs3D2a9g",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 861,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCUeZBocfxALSUdOgNJB5ySA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/f-0Vs3D2a9g/hqdefault.jpg",
+        "title": "This Nuclear Reactor Runs on Thorium and Could Be Cheaper Than Coal?",
+        "vote": 0
+    }
+]

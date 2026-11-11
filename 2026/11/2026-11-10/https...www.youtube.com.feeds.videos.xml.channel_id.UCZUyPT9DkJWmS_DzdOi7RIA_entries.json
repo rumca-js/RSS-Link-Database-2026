@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Caleb Curry",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-10T09:47:40.276901+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-10T03:58:36+00:00",
+        "description": "3 AI skills that changed how I build with agents: organization, specialized skills, and self-audit.",
+        "id": 6751703,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/ib0OzMRRwG4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 418,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZUyPT9DkJWmS_DzdOi7RIA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/ib0OzMRRwG4/hqdefault.jpg",
+        "title": "AI Skills Are Just Text Files (Here's Why They Work)",
+        "vote": 0
+    }
+]

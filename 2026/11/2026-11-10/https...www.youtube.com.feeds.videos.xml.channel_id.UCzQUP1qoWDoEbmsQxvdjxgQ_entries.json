@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "PowerfulJRE",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-10T19:02:29.068948+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-10T18:00:28+00:00",
+        "description": "Gary Sinise is an Academy Award-nominated actor, musician, director, author, and philanthropist. His new book, \"Graceful Warrior,\" is available now.\n\nhttps://www.nelsonbooks.com/books/graceful-warrior/\nhttps://www.youtube.com/@GarySiniseFoundation\nhttps://www.garysinisefoundation.org\nhttps://www.garysinise.com",
+        "id": 6755250,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=9i5VBuUtTbg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 262,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCzQUP1qoWDoEbmsQxvdjxgQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/9i5VBuUtTbg/hqdefault.jpg",
+        "title": "Joe Rogan Experience #2579 - Gary Sinise",
+        "vote": 0
+    }
+]

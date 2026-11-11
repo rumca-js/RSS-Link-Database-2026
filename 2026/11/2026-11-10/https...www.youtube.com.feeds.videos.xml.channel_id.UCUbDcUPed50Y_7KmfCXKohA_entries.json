@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "James Bruton",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-10T15:41:13.087285+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-10T13:55:17+00:00",
+        "description": "Ad: this video is sponsored by Arduino and it's an ad for the new Arduino Ventuno Q. I built an auto-driving ball-wheeled omni-directional car using the Venunto Q running ROS2 and the Nav2 navigation stack. It uses two RPLIDAR S3 LIDARS to map and navigate. Be sure to visit https://www.arduino.cc/product-ventuno-q to find out everything there is to know about the new Ventuno Q!\n\nYou can support me on Patreon, join my Discord, or buy my Merchandise:\n***************************\nDiscord: https://discord.com/invite/fc6MedG7eW\nPatreon: https://www.patreon.com/xrobots\nMerch Store: https://james-bruton.teemill.com/collection/all-products/\n***************************\n\nOther socials:\n***************************\nInstagram: https://www.instagram.com/xrobotsuk\nFacebook: https://www.facebook.com/xrobotsuk/\n***************************\n\nAffiliate links - I will get some money of you use them to sign up or buy something:\n***************************\nMusic for your YouTube videos: http://share.epidemic",
+        "id": 6753743,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Tu8ajyDQeFk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 852,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCUbDcUPed50Y_7KmfCXKohA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/Tu8ajyDQeFk/hqdefault.jpg",
+        "title": "Auto-Driving Ball-Wheeled Omni-Directional Car",
+        "vote": 0
+    }
+]

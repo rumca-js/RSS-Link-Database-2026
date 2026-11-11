@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Leila Gharani",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-10T17:55:01.634530+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-10T15:54:28+00:00",
+        "description": "Excel's new interactive canvas builds Excel dashboards with filters, sliders and a play button. \n\ud83d\udc49 Copilot course insider pre-sale: https://www.xelplus.com/course/copilot/?utm_source=yt-video&utm_medium=vid-description&utm_campaign=copilot&utm_content=copilot-interactive-canvas\n\n\nWith Excel's new interactive canvas skill powered by Copilot in Excel, I describe the report I want, and Copilot builds it on its own sheet, connected to my Excel data. First, a travel expense report with KPI cards, charts, filters and commentary that updates. Then I make it interactive: click a bar to cross-filter, add a slider for a minimum amount, and click a number to drill into the details. Change the data and the report updates. No refresh needed.\n\nThen I combine four sheets into a project status report for the steering committee, with a Gantt chart, RAG status, risk matrix and budget versus actual. A play button replays how the project unfolded. And to finish, a race chart of my top 10 customers.\n\nCopi",
+        "id": 6754697,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=N-Fj9h6Detw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 957,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJtUOos_MwJa_Ewii-R3cJA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/N-Fj9h6Detw/hqdefault.jpg",
+        "title": "3 Excel Dashboards You Won't Believe Are Possible",
+        "vote": 0
+    }
+]

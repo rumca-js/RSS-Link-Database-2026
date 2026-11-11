@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kevin Stratvert",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-10T08:57:53.751932+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-10T08:00:02+00:00",
+        "description": "Learn how to use Claude Code for free with Ollama and a local AI model running on your own computer. In this step-by-step Windows tutorial, we'll install both tools, adjust Ollama's context length, connect Claude Code to Gemma 4 12B, and build a playable Breakout game. Then we'll improve the game with a follow-up prompt and learn how to return to the project later.\n\nThis setup uses a local model in the Claude Code tool, with no AI subscription or per-token API charges for local inference. It does not give you free access to Anthropic's Opus or Sonnet models. Speed and results depend on your hardware and the model you choose.\n\nHost: Kevin Stratvert\n\n\ud83d\udcda RESOURCES\n- Download Ollama: https://ollama.com/download/windows\n- Claude Code: https://claude.com/product/claude-code\n- Ollama + Claude Code setup: https://docs.ollama.com/integrations/claude-code\n- Gemma 4 12B: https://ollama.com/library/gemma4:12b\n- Qwen 3.5 4B: https://ollama.com/library/qwen3.5:4b\n\nCommands used in the video (PowerSh",
+        "id": 6751537,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=NkkAwdm2k7s",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 958,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfJT_eYDTmDE-ovKaxVE1ig",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/NkkAwdm2k7s/hqdefault.jpg",
+        "title": "How to Use Claude Code for FREE with Ollama",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "MIT OpenCourseWare",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-10T16:42:12.898708+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-10T15:15:07+00:00",
+        "description": "Which way is she facing? Is the dress black & blue, or white & gold? Prof. Josh McDermott explores our fascination with optical illusions and explains how the brain uses visual signals to make inferences about the world around us.",
+        "id": 6754143,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=QgF3Ejhfh_k",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 437,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCEBb1b_L6zDS3xTUrIALZOw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/QgF3Ejhfh_k/hqdefault.jpg",
+        "title": "Optical Illusions!",
+        "vote": 0
+    }
+]

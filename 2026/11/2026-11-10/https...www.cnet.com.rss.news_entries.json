@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Antuan Goodwin",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-10T01:36:13.077953+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-10T01:00:33+00:00",
+        "description": null,
+        "id": 6750272,
+        "language": "en",
+        "link": "https://www.cnet.com/home/electric-vehicles/ford-ev-battery-health-study-5-years-later",
+        "manual_status_code": 0,
+        "page_rating": 28,
+        "page_rating_contents": 88,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 58,
+        "source_url": "https://www.cnet.com/rss/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.cnet.com/wp-content/uploads/sites/2/8f7eb139-ead6-4f6a-bb5e-d2637caa886c.jpg",
+        "title": "Ford Just Proved Its EV Battery Health Barely Degrades After 5 Years",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "iFixit",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-10T22:54:05.666116+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-10T21:25:44+00:00",
+        "description": "Apple brought touch to the MacBook Pro\u2014and brought the glowing Apple back. We opened it up to see what changed, and what happens when it needs a repair.\n\nIn this teardown of the 14-inch MacBook Pro with ProLED XDR, we examine its tandem OLED display under a microscope, test touch and Touch ID after a logic board swap, and go inside the lid to uncover the logo\u2019s dedicated lighting assembly.\n\nWe also investigate battery removal, modular ports that still require logic board removal, fan access, soldered storage and RAM, and the display\u2019s difficult disassembly.\n\nThe result: 5/10 for repairability. There\u2019s progress here\u2014but some familiar repair compromises remain.\n\n\nChapters\n00:00 A touchscreen MacBook Pro\u2014and a repair question\n00:55 Testing touch and examining tandem OLED\n01:59 The glowing Apple returns\n02:28 Opening the MacBook Pro and removing the battery\n03:23 MagSafe, USB-C, and the port repair catch\n04:06 Logic board removal, tools, and soldered storage\n05:10 Testing touch and Touch ",
+        "id": 6756607,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=xJ_wUtbxUyY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 996,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHbx9IUW7eCeJsC4sBCTNBA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/xJ_wUtbxUyY/hqdefault.jpg",
+        "title": "Inside Apple\u2019s Most Interesting MacBook Display",
+        "vote": 0
+    }
+]

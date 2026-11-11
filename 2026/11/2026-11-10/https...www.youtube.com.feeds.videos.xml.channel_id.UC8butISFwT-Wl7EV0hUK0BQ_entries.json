@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-10T12:21:58.111424+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-10T12:00:39+00:00",
+        "description": "Learn agentic coding with AI coding agents such as Codex: prompting, plan mode, skills, testing, Git, secrets, permissions and MCP in one hands-on course.\n\n\u270f\ufe0f Study this course interactively on Scrimba: \nhttps://scrimba.com/learn-agentic-coding-c0g68l84pg?via=scrimbafcc\n\nCode is available on the Scrimba course page for each lesson.\n\nAgentic coding is how many developers now build software: AI coding agents that read your codebase, edit multiple files, run commands and tests, and work through larger tasks with you.\n \nIn this hands-on course, Tom Chant, Head of Education at Scrimba, shows you how to ensure reliable results from a coding agent by giving it the right context, planning work, and controlling permissions, while verifying every change. \n\nYou'll work through realistic tasks covering prompting, AGENTS.md, skills, testing, Git, secrets, config.toml and the Model Context Protocol (MCP). This course suits experienced developers adding AI to their workflow and non-coders who wish t",
+        "id": 6752475,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=ajfQWhGQGLE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/ajfQWhGQGLE/hqdefault.jpg",
+        "title": "Codex & AI Coding Agents - Learn Agentic Coding",
+        "vote": 0
+    }
+]

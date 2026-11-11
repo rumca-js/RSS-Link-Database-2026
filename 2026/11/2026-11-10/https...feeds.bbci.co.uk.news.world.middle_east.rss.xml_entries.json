@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-10T15:37:48.118135+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-10T15:21:18+00:00",
+        "description": "The group, formed by Trump, issues rare criticism of Israel, while also blaming Hamas for the suffering of civilians in Gaza.",
+        "id": 6753706,
+        "language": "en-gb",
+        "link": "https://www.bbc.co.uk/news/articles/cw4g1g4ll5m1o",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 525,
+        "source_url": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd6f/live/934efd20-dcfd-11f1-933b-ff2499ee76f6.jpg",
+        "title": "Board of Peace says Israel's aid response after Gaza floods 'insufficent'",
+        "vote": 0
+    }
+]
