@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kevin Stratvert",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-11T09:10:31.003292+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-11T08:00:30+00:00",
+        "description": "Learn how to use Google AI Studio's Voice Generator to create realistic AI voices, customize voice styles, and generate conversations between multiple speakers in this beginner-friendly tutorial.\n\nGoogle AI Studio makes it easy to transform a simple text prompt into natural-sounding audio, for free. You can create professional voiceovers, voicemail greetings, podcast conversations, training videos, and much more!\n\nIn this tutorial, you'll learn how to:\n - Access Google AI Studio's AI voice generator.\n - Convert text into realistic AI-generated speech.\n - Choose different AI voices and customize their delivery.\n - Use voice style instructions to control tone, personality, pacing, and emotion.\n - Create different versions of the same voice, from professional to energetic.\n - Generate conversations between two AI speakers.\n - Download your finished audio.\n\nWhether you're creating YouTube voiceovers, podcast introductions, business greetings, or audio for your next project, Google AI Stud",
+        "id": 6758549,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=shpOEg__ICo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 958,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfJT_eYDTmDE-ovKaxVE1ig",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/shpOEg__ICo/hqdefault.jpg",
+        "title": "Google AI Studio Voice Generator \u2013 Text to Speech Tutorial",
+        "vote": 0
+    }
+]

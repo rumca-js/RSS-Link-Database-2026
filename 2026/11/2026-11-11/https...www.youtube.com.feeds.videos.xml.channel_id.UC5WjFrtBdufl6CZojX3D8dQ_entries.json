@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Tesla",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-11T08:17:58.576396+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-11T03:45:49+00:00",
+        "description": "Tesla's Controller-Hardware-In-the-Loop (CHIL) is key to bringing Megapack sites online faster\n \nCHIL allows us to simulate the entire site in real time before it\u2019s connected to the grid. We can see how the site will respond to faults, frequency changes or if a tree were to fall on a power line. \n\nCHIL validated 444 grid-forming Megapacks at Melbourne Renewable Energy Hub before grid connection, delivering 600 MW / 1.6 GWh of storage months ahead of schedule\".\n\nhttps://www.tesla.com/megapack",
+        "id": 6758386,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=3Pdpo0Ps4kI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 805,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5WjFrtBdufl6CZojX3D8dQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/3Pdpo0Ps4kI/hqdefault.jpg",
+        "title": "Bringing Megapack Online Faster",
+        "vote": 0
+    }
+]

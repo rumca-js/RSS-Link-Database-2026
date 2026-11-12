@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Hudson Hongo",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-11T19:55:06.044379+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-11T18:32:37+00:00",
+        "description": "<div class=\"field field--name-body field--type-text-with-summary field--label-hidden\"><div class=\"field__items\"><div class=\"field__item even\"><p>When we need medical care, we expect decisions about our treatment to be made by our doctors, not a tech company's algorithm. But in January, the federal government launched a program that uses AI to <span>evaluate Medicare beneficiaries' requests for certain procedures.</span></p>\n<p>EFF sued for records on WISeR, seeking badly needed transparency about Medicare's AI experiment.\u00a0In <a href=\"https://www.eff.org/effector/38/20\">our latest EFFector newsletter</a>, we're talking about what happens when the government <a href=\"https://www.eff.org/deeplinks/2026/10/new-records-obtained-eff-expose-more-problems-medicares-ai-experiment?utm_source=effector\">outsources treatment approval to private AI companies</a>\u2014without sufficient transparency, testing, or legal limits.</p>\n<p class=\"take-action\"><a href=\"https://www.eff.org/effector/\">JOIN OUR NEW",
+        "id": 6761733,
+        "language": "en",
+        "link": "https://www.eff.org/deeplinks/2026/11/medicares-ai-experiment-effector-3820",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 101,
+        "source_url": "https://www.eff.org/rss/updates.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.eff.org/sites/all/modules/custom/mytube/play.png",
+        "title": "\ud83e\udd15 Medicare's AI Experiment | EFFector 38.20",
+        "vote": 0
+    }
+]

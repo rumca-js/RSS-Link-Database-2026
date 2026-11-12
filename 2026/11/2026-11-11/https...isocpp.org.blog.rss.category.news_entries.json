@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "F\u00e9lix-Olivier Dumas",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-11T02:04:09.995704+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-11T00:59:48+00:00",
+        "description": "<p>\n\tIn this article, I explore the Subobject Polymorphic Overlay Pattern (SPO), an experimental architectural idiom that inverts the classic contract model of static polymorphism. Instead of the implementation inheriting from an interface, the interface becomes a clean, selective view over an independent implementation. The result is zero-overhead compile-time polymorphism that avoids some of the usual drawbacks of traditional CRTP and std::variant based approaches, while still remaining explicit about its trade-offs and experimental nature.</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://medium.com/@felixolivierdumas/subobject-polymorphic-overlay-pattern-spo-an-architectural-idiom-for-static-polymorphism-af24a5847f95\">Subobject Polymorphic Overlay Pattern (SPO): An Architectural Idiom for Static Polymorphism</a></h3>\n</blockquote>\n<blockquote>\n\t<p>\n\t\tby F&eacute;lix-Olivier Dumas</p>\n</blockquote>\n<p>\n\tFrom the article:</p>\n<blockquote>\n\t<p>\n\t\tNowadays, C++ is one of the most influential ",
+        "id": 6757394,
+        "language": "en",
+        "link": "https://isocpp.org//blog/2026/11/subobject-polymorphic-overlay-pattern-felix-olivier-dumas",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Subobject Polymorphic Overlay Pattern -- F\u00e9lix-Olivier Dumas",
+        "vote": 0
+    }
+]

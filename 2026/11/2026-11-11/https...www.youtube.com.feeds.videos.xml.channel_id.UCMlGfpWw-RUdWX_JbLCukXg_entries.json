@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-11T19:23:29.240967+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-11T15:00:06+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nC++26: A Curated Tour of What's New - Marc Gregoire - CppCon 2026\n---\n\nThe next evolution of C++ has officially arrived, bringing a massive wave of enhancements to both the core language and the Standard Library. But with hundreds of committee proposals officially baked into the standard, where do you start? Continuing the tradition from previous releases, this fast-paced session delivers a comprehensive look at the new and updated features that define C++26. \n \nWe won\u2019t get bogged down in the minutiae of every single ISO proposal\u2014covering everything in detail is impossible in just one hour. Instead, you'll get a high-level, curated overview of the most impactful changes, from the major game-changers down to the small quality-of-life gems. If you want to get up to speed with the new standard and see how it will shape your codebase, this session is for you. \n \nThe session will touch on the following core language and Standard Library topics. \n \nC++26 core langu",
+        "id": 6761604,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=ak1zrDo2y-U",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/ak1zrDo2y-U/hqdefault.jpg",
+        "title": "C++26 Features: The Most Important New Updates",
+        "vote": 0
+    }
+]

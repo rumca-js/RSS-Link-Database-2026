@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Craft Computing",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-11T09:14:38.764888+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-11T01:41:58+00:00",
+        "description": "Grab yourself a Coffee Tumbler at https://craftcomputing.store\n\nFollow me on Bluesky @CraftComputing.bsky.social\n\nSupport me on Patreon and get access to my exclusive Discord server. Chat with myself and the other hosts on Talking Heads all week long.\n\nhttps://www.patreon.com/CraftComputing\n\nAMD's Zen 6 CPUs are now shipping, and I've got all the details. From the new Zen 6 and Zen 6c cores, new instruction paths, core counts, and what all this might mean for a Zen 6 Consumer Launch in 2027.\n\nCheck out my interview with Adam over on The Full Nerd, where we speculate a bit more about Ryzen 6: https://www.youtube.com/watch?v=E3RtB3GC4jc\n\nChips and Cheese full breakdown of the new architecture: https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast\n\nThanks again to AMD for having me out for this deep dive. This video is not sponsored, and all opinions are 100% my own.",
+        "id": 6758567,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=vdxqhLPYC28",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 909,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCp3yVOm6A55nx65STpm3tXQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/vdxqhLPYC28/hqdefault.jpg",
+        "title": "AMD Epyc Venice, Zen 6 + Zen 6c Explained",
+        "vote": 0
+    }
+]

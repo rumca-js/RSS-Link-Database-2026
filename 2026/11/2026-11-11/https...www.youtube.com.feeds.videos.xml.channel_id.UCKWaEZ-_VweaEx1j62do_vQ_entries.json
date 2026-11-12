@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-11T11:22:06.460216+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-11T09:30:16+00:00",
+        "description": "Visit Security Intelligence podcast page to get more AI content  \u2192 https://ibm.biz/~93M8GNpAP\n\nHackers spent months planning a $6 billion cryptocurrency heist. How did they get past security controls, and what can defenders learn from the attack?\n\nThis week on Security Intelligence, Seth Glasgow, Dimple Ahluwalia and Suja Viswesan join host Patrick Austin to unpack three major cybersecurity stories.\n\nFirst, the Binance heist reveals how attackers exploited employees and internal systems to steal billions in cryptocurrency. The panel examines the sophisticated tactics behind the attack and what security teams can learn.\n\nNext, Meta is using AI to catch software bugs before they reach production. As AI takes on more of the testing process, how much human oversight is enough?\n\nFinally, IBM introduces Quantum Safe to help organizations prepare for post-quantum cryptography. With attackers potentially harvesting encrypted data today to decrypt later, the panel discusses the challenges of i",
+        "id": 6759073,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=NuL5VFS8Prs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/NuL5VFS8Prs/hqdefault.jpg",
+        "title": "The $6B Binance heist, Meta\u2019s AI bug tests and looming quantum deadlines",
+        "vote": 0
+    }
+]

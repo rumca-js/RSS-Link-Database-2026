@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Google DeepMind",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-11T21:13:27.845016+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-11T18:00:31+00:00",
+        "description": "98% of human DNA doesn't build proteins\u2014it controls how our cells work, and holds vital clues to why diseases happen and why 90% of new drugs fail in clinical trials. Understanding the genome at the molecular level is the key to deciphering the blueprint of human life.\n\nIn this episode, Professor Hannah Fry speaks with Google DeepMind's \u017diga Avsec and Adam Gayoso about AlphaGenome, the AlphaGenome Atlas, and AlphaGenome 2\u2014exploring how AI reads non-coding DNA down to single-cell resolution to pinpoint disease-causing mutations and help researchers solve medical mysteries.\n\nTimecodes:\n00:00 Introduction to AlphaGenome\n04:01 Genotype, Phenotype & DNA\n08:30 Transformers to AlphaGenome\n12:11 Mapping the Genome \n17:45 Rare disease cases\n21:10 AlphaGenome 2\n30:06 Future vision \n38:45 Hannah's thoughts\n\nRead more about AlphaGenome 2: https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/\n\n___\n\nSubscribe to our channel https://www.youtube.com/@",
+        "id": 6762159,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=uND6iY2qp_c",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 934,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP7jMXSY2xbc3KCAE0MHQ-A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/uND6iY2qp_c/hqdefault.jpg",
+        "title": "AlphaGenome 2: Teaching AI to read the entire human genome",
+        "vote": 0
+    }
+]

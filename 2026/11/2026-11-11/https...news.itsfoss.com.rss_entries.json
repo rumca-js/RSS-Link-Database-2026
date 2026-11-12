@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Sourav Rudra",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-11T14:48:05.236228+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-11T13:08:00+00:00",
+        "description": "Mike Lothian got Vino working on three generations of DisplayLink docks, but Synaptics told him to take it down.",
+        "id": 6759951,
+        "language": "en-US",
+        "link": "https://itsfoss.com/news/synaptics-vino-fiasco",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 156,
+        "source_url": "https://news.itsfoss.com/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://itsfoss.com/content/images/2026/11/synaptics-vino-legal-notice-banner.png",
+        "title": "The AI-Assisted Linux Driver for DisplayLink Gets Legal Notice",
+        "vote": 0
+    }
+]
