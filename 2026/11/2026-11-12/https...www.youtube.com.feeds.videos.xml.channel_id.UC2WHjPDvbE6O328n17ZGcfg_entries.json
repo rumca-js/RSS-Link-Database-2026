@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ForrestKnight",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-12T19:03:00.743518+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-12T18:00:13+00:00",
+        "description": "So I was wrong about AI rewrites in Rust...\n\nCheck out WorkOS, it's really good: https://jetty.to/workos\n\nGitHub published the most documented Rust rewrite I've ever seen. It is a 65 minute read that has so much good information - it is super well done. It's about how one of their engineers had AI agents port the Copilot runtime from TypeScript to Rust, and he logged everything. From every prompt he used to every compiler error, command the agents ran, every tool call, every token and every dollar, unsafe block, every known regression and bug they shipped, grouped by why it happened. And before and after benchmarks on everything you'd want to know. Absolutely insane. Hope you enjoy!\n\nSources:\nMigrating the GitHub Copilot runtime to Rust, using Copilot (GitHub Blog, Sep 16 2026): https://github.blog/ai-and-ml/migrating-the-github-copilot-runtime-to-rust-using-copilot/\nRewriting Bun in Rust (Bun, Jul 8 2026): https://bun.com/blog/bun-in-rust\n\nA portion of this video is sponsored by Work",
+        "id": 6768149,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=ZsF_zibQwP8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 118,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2WHjPDvbE6O328n17ZGcfg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/ZsF_zibQwP8/hqdefault.jpg",
+        "title": "I Was Wrong About Rust...",
+        "vote": 0
+    }
+]

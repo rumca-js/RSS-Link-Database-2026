@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-12T15:16:12.868887+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-12T14:14:24+00:00",
+        "description": "Compulab has detailed its IOT-GATE-IMX8PV2, a fanless industrial IoT gateway powered by NXP&#8217;s i.MX8M Plus processor. The small-form-factor system combines dual Gigabit Ethernet, optional Wi-Fi 6 and LTE connectivity, and isolated industrial I/O in a 105 &#215; 80 &#215; 30mm aluminum enclosure. The gateway uses a quad-core Arm Cortex-A53 processor running at up to 1.8GHz, [&#8230;]",
+        "id": 6766519,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/miniature-industrial-iot-gateway-with-dual-gigabit-ethernet-and-optional-wi-fi-6-lte",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Miniature industrial IoT gateway with dual Gigabit Ethernet and optional Wi-Fi 6, LTE",
+        "vote": 0
+    }
+]

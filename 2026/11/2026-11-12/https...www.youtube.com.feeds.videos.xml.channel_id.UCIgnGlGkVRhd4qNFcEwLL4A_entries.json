@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "AI Search",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-12T08:34:48.784226+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-12T03:31:52+00:00",
+        "description": "Minimax H3 Image review & tutorial. How to use Minimax image in ComfyUI. Thanks to our sponsor Higgsfield. Try it today https://higgsfield.ai/s/theaisearch-gZKvHd\n\n#ai #aitools #aiart #imagegenerator #agi #ainews \n\nTry Minimax online: https://hailuoai.video/\nModels to download: https://huggingface.co/Comfy-Org/MiniMax-H3-Image/tree/main\nT2i workflow https://github.com/Comfy-Org/workflow_templates/blob/main/templates/image_minimax_h3_image_t2i.json\nEdit workflow https://github.com/Comfy-Org/workflow_templates/blob/main/templates/image_minimax_h3_image_edit.json\nGGUFs https://huggingface.co/Abiray/MiniMax-H3-Image-GGUF/tree/main\n\nAlso see\nComfyUI tutorial: https://youtu.be/g74Cq9Ip2ik\nMOSS image tutorial: https://youtu.be/cUeZMUGCxrw \nKrea2 tutorial: https://x.com/aisearchio/status/2075660074308313598\nIdeogram4 tutorial: https://youtu.be/OA4gchz1Zcs\nFlux Klein tutorial: https://youtu.be/2OrOufa3eoc\n\n0:00 Minimax H3 Image intro\n0:36 Minimax image specs\n1:40 Minimax vs Qwen Image\n3:33 Min",
+        "id": 6764592,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Er0740eVIEw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 806,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIgnGlGkVRhd4qNFcEwLL4A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/Er0740eVIEw/hqdefault.jpg",
+        "title": "New top local AI image editor is here!",
+        "vote": 0
+    }
+]

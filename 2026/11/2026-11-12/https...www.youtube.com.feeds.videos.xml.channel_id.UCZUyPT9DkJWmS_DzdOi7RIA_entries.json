@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Caleb Curry",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-12T15:59:40.014032+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-12T15:09:50+00:00",
+        "description": "JavaScript, jQuery, TypeScript, Angular, React, Vue, Next.js, Redux... now multiply that by a hundred. with AI, knowledge has a 30 minute lifespan, and the closer you are to the bleeding edge, the more you pay for it. it's like early startup investing: very few bets turn into something big.",
+        "id": 6766921,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/qTSkbhvCC70",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 418,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZUyPT9DkJWmS_DzdOi7RIA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/qTSkbhvCC70/hqdefault.jpg",
+        "title": "knowledge has a 30 minute lifespan now",
+        "vote": 0
+    }
+]

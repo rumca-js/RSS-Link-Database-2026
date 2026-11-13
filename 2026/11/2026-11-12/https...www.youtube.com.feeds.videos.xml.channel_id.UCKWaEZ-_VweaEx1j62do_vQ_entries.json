@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-12T15:42:21.507805+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-12T12:00:39+00:00",
+        "description": "Learn more about Why Observability Is Essential for AI Agents here \u2192 https://ibm.biz/~MBafoTJOL\n\nYour AI agent knows the system, but what about now? Matt Aiken explains how RAG and observability give AI agents documented knowledge plus live metrics, logs, and traces. Learn how better operational context helps teams investigate issues with evidence.\n\n 00:00 \u2013 See What AI Agents Still Don't Know\n 00:37 \u2013 Give AI Agents Two Types of Context\n 00:46 \u2013 Ground AI Agents with RAG\n 01:47 \u2013 Add Live Context with Observability\n 03:06 \u2013 Investigate a Hybrid Transaction with AI\n 04:12 \u2013 Add Logs, Metrics & Traces to the Investigation\n 05:23 \u2013 Connect RAG Knowledge to Live Evidence\n 06:22 \u2013 Turn AI Context into Evidence, Impact & Next Steps\n 07:35 \u2013 Keep Human Operators in Control\n 08:09 \u2013 Combine RAG + Observability for Better AI Agents\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/~9KyFFw5rY\n\nAI was used in the creation of the transcript and metad",
+        "id": 6766788,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=hvnPWgfmvyI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/hvnPWgfmvyI/hqdefault.jpg",
+        "title": "Why AI Agents Need RAG + Observability",
+        "vote": 0
+    }
+]

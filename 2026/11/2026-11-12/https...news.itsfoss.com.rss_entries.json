@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Sourav Rudra",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-12T13:07:54.419149+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-12T12:15:54+00:00",
+        "description": "ANS lets AI agents prove who they are, much like a domain name and its certificate do for a website.",
+        "id": 6765748,
+        "language": "en-US",
+        "link": "https://itsfoss.com/news/ans-joins-linux-foundation",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 156,
+        "source_url": "https://news.itsfoss.com/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://itsfoss.com/content/images/2026/11/agent-name-service-lf-banner.png",
+        "title": "Agent Name Service is Now Part of The Linux Foundation",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ACCU Conference",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-12T15:10:22.316533+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-12T13:00:04+00:00",
+        "description": "ACCU Membership: https://tinyurl.com/ydnfkcyn\n---\n\nC++ Templates  - Two-Phase Lookup - Amir Kirsh - ACCU 2026\n---\n\nNearly 30 years after the rules were set in C++98, even advanced developers still trip over templates' internal name lookup. Why does calling a base function sometimes fail inside templates? And how does adding Base\uff1cT\uff1e::, or even this-\uff1e, suddenly fix it?\n\nThe answer is two-phase name lookup: non-dependent names are resolved at definition time, while dependent names are resolved at instantiation time.\n\nIn this talk, we will walk through the complete timeline of name resolution in templates: non-dependent lookup at parse time, argument deduction at point of use, and dependent lookup during instantiation. You will see concrete examples of what can go wrong if you don't pay attention to the rules, and the simple way of doing things right. This talk will help you avoid pitfalls and obscure bugs and gain better control over your templates instead of relying on \"trial and error\"",
+        "id": 6766489,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=rQgj9agTqok",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 421,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJhay24LTpO1s4bIZxuIqKw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/rQgj9agTqok/hqdefault.jpg",
+        "title": "C++ Templates  - Two-Phase Lookup - Amir Kirsh - ACCU 2026",
+        "vote": 0
+    }
+]

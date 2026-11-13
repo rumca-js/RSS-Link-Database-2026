@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mateusz Pusz",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-12T20:22:52.604735+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-12T19:01:55+00:00",
+        "description": "<p>\n\tThe fourth part of a series on C++ fundamentals covers where <code>reinterpret_cast</code> is actually well-defined. It walks through reading an object&rsquo;s bytes, aliasing through a signed/unsigned pair, moving between a struct and its first member, and round-tripping a pointer through <code>std::uintptr_t</code>.</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://train-it.eu/blog/type-punning-done-right\">Type punning done right</a></h3>\n\t<p>\n\t\tby Mateusz Pusz</p>\n</blockquote>\n<p>\n\tFrom the article:</p>\n<blockquote>\n\t<p>\n\t\tYou may always access the object representation of any object through a pointer to <code>char</code>, <code>unsigned char</code>, or <code>std::byte</code>. The object representation is the sequence of <code>sizeof(T)</code> bytes that make up the object, and reading it as bytes is exactly what serialization, hashing, and hex dumps do.</p>\n</blockquote>\n<p>\n\tPublished so far:</p>\n<ul>\n\t<li>\n\t\t<a href=\"https://train-it.eu/blog/cpp-fundamentals-your-seniors-think-the",
+        "id": 6768691,
+        "language": "en",
+        "link": "https://isocpp.org//blog/2026/11/type-punning-done-right-mateusz-pusz",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Type punning done right -- Mateusz Pusz",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Learn Linux TV",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-12T17:25:58.750600+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-12T16:17:59+00:00",
+        "description": "\ud83d\udecd\ufe0f *Black Friday Linux Swag Sale Until November 30th!* Grab some Linux-themed gear at the lowest prices ever! \ud83d\udc49 https://learnlinux.link/black-friday\n\n\ud83d\udea8 *40% OFF Linux Foundation Courses & Certifications - Ends Nov 20!* Don't miss this limited-time opportunity to level up your Linux career and save big! \ud83c\udf93 *Use code 40KUBE26* \ud83d\udc49 https://learnlinux.link/get-certified\n\nWant to try Linux but still need Windows for a few things? In this video, I\u2019ll show you how to set up a dual boot with Windows 11 and Ubuntu 26.10, so you can pick which one to run every time you power on your PC. We\u2019ll go over what you\u2019ll need, make a bootable USB drive, try out Ubuntu 26.10 before installing it, and then set up the dual boot. At the end, we\u2019ll make sure both operating systems start up the way they should.\n\n*\ud83c\udf93 Latest Courses & Books*\n  - *Ditch Microslop - Switch To Linux With My Latest Book* - https://learnlinux.link/ditch-windows\n  - *Grab My Linux Troubleshooting Strategies e-book* - https://learnlinux.l",
+        "id": 6767529,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=LRQynrUONV4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 997,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxQKHvKbmSzGMvUrVtJYnUA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/LRQynrUONV4/hqdefault.jpg",
+        "title": "How to Dual Boot Windows 11 and Ubuntu 26.10 (Step-by-Step)",
+        "vote": 0
+    }
+]

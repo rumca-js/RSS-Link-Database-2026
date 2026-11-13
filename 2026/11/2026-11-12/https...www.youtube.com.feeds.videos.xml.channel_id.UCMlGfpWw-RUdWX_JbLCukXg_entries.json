@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-12T16:12:00.182010+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-12T15:00:13+00:00",
+        "description": "https://cppcon.org/\n---\n\nEverything new in C++26 \n\nWhat\u2019s coming in C++26? In this video, we dive into the latest features, improvements, and proposals currently shaping the future of the C++ programming language. From language enhancements to standard library updates, discover what you need to know to stay ahead in C++.\n\nWhether you are a professional software engineer or a student learning C++, understanding the evolution of the language is essential for writing modern, efficient, and safe code. We break down the most significant changes expected in the C++26 standard.\n\nTopics covered:\n- Overview of the C++26 standardization process\n- Key language features and syntax updates\n- Standard library enhancements\n- Performance improvements and future-proofing your code\n\nStay up to date with the latest C++ developments by subscribing for more programming content and deep dives into the C++ ecosystem.\n---\n\nWork at Hudson River Trading (HRT): https://tinyurl.com/safxfctf\n---\n\nCppCon is the an",
+        "id": 6766954,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/gGCyV64D-3A",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/gGCyV64D-3A/hqdefault.jpg",
+        "title": "Everything new in C++26 #cpp #cplusplus #programming",
+        "vote": 0
+    }
+]

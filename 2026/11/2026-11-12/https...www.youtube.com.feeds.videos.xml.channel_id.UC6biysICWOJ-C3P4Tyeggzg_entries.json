@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Low Level",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-12T16:40:00.802513+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-12T14:08:52+00:00",
+        "description": "Find bugs in your pull requests BEFORE you ship them with CodeRabbit @ https://go.lowlevel.tv/coderabbit\n\n\ud83d\udd25NEWSLETTER + MORE\nCheck out my other stuff: https://lowlevel.tv\n\n\ud83c\udf99\ufe0fPODCAST\nGet in depth breakdowns of latest cyber news: https://www.youtube.com/channel/UCzEaIT_yUdxixGEc8mINGmg/",
+        "id": 6767117,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Z3xvjzlDWd8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 736,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6biysICWOJ-C3P4Tyeggzg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/Z3xvjzlDWd8/hqdefault.jpg",
+        "title": "they found 1000 vulnerabilities in the linux kernel..",
+        "vote": 0
+    }
+]
