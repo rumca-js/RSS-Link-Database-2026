@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Hammond",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-13T20:59:33.666957+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-13T17:03:31+00:00",
+        "description": "I spotted traffic to multifilehost.com while analyzing a ClickFix sample in ANY.RUN. Looking closer, the malware was uploading information from the machine in chunks and staging it for later access.\n\nWatch the full breakdown: https://youtu.be/oJHOlNTH7lY?si=uM0nMUExqyx-gino",
+        "id": 6775295,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/-mhIHhRz2Ew",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 959,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVeW9qkBjo3zosnqUbG7CFw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/-mhIHhRz2Ew/hqdefault.jpg",
+        "title": "ClickFix Data Staging",
+        "vote": 0
+    }
+]

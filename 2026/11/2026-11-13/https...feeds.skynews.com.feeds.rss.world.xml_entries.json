@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-13T21:31:48.059758+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-13T18:04:00+00:00",
+        "description": "British representatives will be part of a team representing Europe in Ukraine peace talks.",
+        "id": 6775430,
+        "language": "en-US",
+        "link": "https://news.sky.com/story/eu-leaders-choose-team-for-ukraine-peace-talks-after-months-of-wavering-13612008",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 305,
+        "source_url": "https://feeds.skynews.com/feeds/rss/world.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://e3.365dm.com/26/11/1920x1080/skynews-ukraine-russia_7405617.jpg?20261113082724",
+        "title": "EU leaders choose team for Ukraine peace talks after months of wavering",
+        "vote": 0
+    }
+]
