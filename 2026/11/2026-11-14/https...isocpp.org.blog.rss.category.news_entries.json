@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Blog Staff",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-14T21:57:52.803518+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-14T21:48:28+00:00",
+        "description": "<p>\n\t<img alt=\"mstripreport-cpp26.png\" src=\"https://isocpp.org/files/img/mstripreport-cpp26.png\" style=\"width: 400px; margin: 10px; float: right;\" />CppCon 2026 is a wrap! Microsoft returned to Aurora, Colorado, for a week of talks, technical discussions, and conversations with developers from across the C++ community.</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://devblogs.microsoft.com/cppblog/microsoft-cppcon-2026-trip-report/\">Microsoft CppCon 2026 Trip Report</a></h3>\n\t<p>\n\t\tby Michael Price</p>\n</blockquote>\n<p>\n\tFrom the article:</p>\n<blockquote>\n\t<p>\n\t\tAt our booth, we met people building games, financial systems, developer tools, embedded software, scientific tools, and other applications. Some were working with the latest language features, and others were maintaining and modernizing systems that have been in production for decades. Many talked to us about debugging, performance, build systems, or modern C++, and a growing number were experimenting with ways AI can help them acco",
+        "id": 6779881,
+        "language": "en",
+        "link": "https://isocpp.org//blog/2026/11/microsoft-cppcon-2026-trip-report-michael-price",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://isocpp.org/files/img/mstripreport-cpp26.png",
+        "title": "Microsoft CppCon 2026 Trip Report -- Michael Price",
+        "vote": 0
+    }
+]

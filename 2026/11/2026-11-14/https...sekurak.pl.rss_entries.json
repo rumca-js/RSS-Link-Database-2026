@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "sekurak",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-14T10:42:56.801880+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-14T10:34:16+00:00",
+        "description": "<p>Jak czytamy: Analiza wykorzystanych w atakach instancji pokazuje, \u017ce atakuj\u0105cy najch\u0119tniej u\u017cywaj\u0105 chi\u0144skich modeli (g\u0142\u00f3wnie DeepSeek Flash). Wynika to z ich balansu mo\u017cliwo\u015bci, niskich koszt\u00f3w oraz braku zauwa\u017calnych zabezpiecze\u0144 w sytuacji, gdy si\u0119 odpowiednio zbuduje prompt. Do ARTEX mo\u017cna podpina\u0107 zewn\u0119trzne modele LLM (OpenAI, Anthropic, DeepSeek). Sam framework koordynuje dzia\u0142ania...</p>\n<p>Artyku\u0142 <a href=\"https://sekurak.pl/fbi-wydalo-ostrzezenie-o-aktywnym-uzyciu-autonomicznego-opensourceowego-systemu-ai-do-hackowania-artex/\">FBI wyda\u0142o ostrze\u017cenie o aktywnym u\u017cyciu autonomicznego, opensource&#8217;owego systemu AI do hackowania. ARTEX</a> pochodzi z serwisu <a href=\"https://sekurak.pl\">Sekurak</a>.</p>",
+        "id": 6777740,
+        "language": "pl-PL",
+        "link": "https://sekurak.pl/fbi-wydalo-ostrzezenie-o-aktywnym-uzyciu-autonomicznego-opensourceowego-systemu-ai-do-hackowania-artex",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 300,
+        "source_url": "https://sekurak.pl/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "FBI wyda\u0142o ostrze\u017cenie o aktywnym u\u017cyciu autonomicznego, opensource\u2019owego systemu AI do hackowania. ARTEX",
+        "vote": 0
+    }
+]

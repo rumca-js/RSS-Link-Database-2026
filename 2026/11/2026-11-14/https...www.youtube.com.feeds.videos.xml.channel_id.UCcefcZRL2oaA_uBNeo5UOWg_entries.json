@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-14T15:18:28.508300+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-14T15:00:21+00:00",
+        "description": "Lauren Tan and Roman Ugarte join this episode of the Lightcone to go in deep on how they built and deployed Grok Bot. They explain how automated tests and codebase guardrails help agents check their own work, why bots should earn broader access over time, and why faster and cheaper execution makes direction and clear goal setting even more important.\n\nApply to Y Combinator: https://www.ycombinator.com/apply\nWork at a startup: https://www.ycombinator.com/jobs\n\nTry Grok Bot here: https://bit.ly/4tj7bpv\n\nChapters:\n\n00:00 \u2014 Intro\n03:36 \u2014 Giving Bots Real Jobs\n06:49 \u2014 One Bot or a Team of Specialists\n10:39 \u2014 Sharing Bots Across the Company\n14:46 \u2014 Identity and Permissions for AI Coworkers\n18:37 \u2014 Bot-to-Bot Collaboration and Trust\n22:35 \u2014 The Workflow Behind 4,000 PRs a Month\n26:00 \u2014 Teaching Agents to Write Code You Trust\n29:01 \u2014 Building a Personal Software Factory\n33:44 \u2014 The Future of AI Coworkers\n36:47 \u2014 Rethinking the AI-Native Company\n40:13 \u2014 Teaching Agents to Check Their Own Work\n",
+        "id": 6778597,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=JpJUHOe8bDo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/JpJUHOe8bDo/hqdefault.jpg",
+        "title": "Grok Bot: What Changes When You Can Build AI Teammates",
+        "vote": 0
+    }
+]

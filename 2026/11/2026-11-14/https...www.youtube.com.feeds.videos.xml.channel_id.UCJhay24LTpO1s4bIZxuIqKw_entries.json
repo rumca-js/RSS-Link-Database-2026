@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ACCU Conference",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-14T16:15:07.431750+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-14T13:00:28+00:00",
+        "description": "ACCU Membership: https://tinyurl.com/ydnfkcyn\n---\n\nFearless Concurrency in C++ - Tristan Brindle - ACCU 2026\n---\n\n\u201cFearless concurrency\u201d \u2014 the absence of data races, statically guaranteed by the compiler \u2014 is one of the major selling points of the Rust programming language.\n\nWhat if we could get those same guarantees in C++ as well?\n\nIn this talk we\u2019ll dive into how Rust uses the Send and Sync traits, in combination with its borrow checker and specialised library types, to prevent shared mutable state across threads. We\u2019ll look at how we can adapt these techniques for C++, and present an approach which uses cutting-edge C++26 facilities to provide equivalent guarantees to Rust, helping to make your concurrent coding as fearless as possible.\n\nSlides: https://github.com/Digital-Medium/ACCU-On-Sea-Slides-2026\n---\n\nTristan Brindle\n\nTristan Brindle is a C++ consultant and trainer based in London. With over 15 years C++ experience, he started his career working in high-performance computing",
+        "id": 6778724,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=-FP6tLlCxWE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 421,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJhay24LTpO1s4bIZxuIqKw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/-FP6tLlCxWE/hqdefault.jpg",
+        "title": "Fearless Concurrency in C++ - Tristan Brindle - ACCU 2026",
+        "vote": 0
+    }
+]

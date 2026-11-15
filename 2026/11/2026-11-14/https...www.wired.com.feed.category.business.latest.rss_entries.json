@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeff Wise",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-14T11:19:04.275309+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-14T11:00:00+00:00",
+        "description": "Normally, aviation is slow to embrace new technology\u2014but AI has come for the skies.",
+        "id": 6777900,
+        "language": "en-US",
+        "link": "https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 396,
+        "source_url": "https://www.wired.com/feed/category/business/latest/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media.wired.com/photos/6af209f8ab17b1a731ed42b4/master/pass/ai_aviation.gif",
+        "title": "No Pilots. Few Air Traffic Controllers. What Could Go Wrong?",
+        "vote": 0
+    }
+]

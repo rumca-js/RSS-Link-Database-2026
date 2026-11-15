@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-14T16:55:16.862720+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-14T10:30:00+00:00",
+        "description": "<p>Between <a href=\"https://en.wikipedia.org/wiki/2026_Microsoft_outage\">Microsoft's two-day outage</a> and the <a href=\"https://en.wikipedia.org/wiki/2026_FAA_ground_stop\">FAA ground stop yesterday</a>, there's plenty of ink spilled about who's responsible, why these things happened, etc.</p>\n<p>But it made me think back to some of the infrastructure and ops teams I've worked on, and similar (though much smaller scale) outages we encountered.</p>\n<p>Having an ops mindset is fundamentally different from a development or project management mindset. And it took me over a decade of software development to understand why.</p>",
+        "id": 6778932,
+        "language": "en",
+        "link": "https://www.jeffgeerling.com/blog/2026/ops-needs-friction",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 162,
+        "source_url": "https://www.jeffgeerling.com/blog.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Ops needs friction",
+        "vote": 0
+    }
+]

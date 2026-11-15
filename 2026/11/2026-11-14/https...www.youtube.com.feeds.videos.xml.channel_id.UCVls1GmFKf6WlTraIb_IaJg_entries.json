@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "DistroTube",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-14T14:14:07.461953+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-14T13:01:22+00:00",
+        "description": "Olares recently sent their Olares One to try out.  The Olares One is a compact, high-performance personal AI cloud device. It is designed to run heavy AI workloads, local LLMs, and image/video generation pipelines locally without sending data to external cloud servers.  Oh, and it runs an open source Linux-based (Ubuntu-based) operating system!\n\n0:00 Intro\n1:25 Hardware specs\n4:28 Connectivity and ports\n5:46 Setup\n7:56 Navigating to the Olares desktop\n10:32 The Market app\n11:00 Installing Ollama and Qwen \n16:21 Installing Open WebUI \n19:56 Installing ComfyUI \n26:01 Installing Hermes Agent\n30:34 Updating the Olares OS to get new apps available\n31:48 Installing Router\n34:20 Installing Lares\n36:27 Other Apps in the Market\n37:29 Final thoughts \n\nPURCHASE THE OLARES ONE:\nUse this link and receive a $300 discount.  If you purchase during their Black Friday promotion, there will be an additional $300 discount which stacks with the link offer.\nhttps://shop.olares.com/products/olares-one-exclu",
+        "id": 6778342,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=UavO4hnER0o",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 95,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVls1GmFKf6WlTraIb_IaJg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/UavO4hnER0o/hqdefault.jpg",
+        "title": "The Olares One Makes Local A.I. Easier To Setup And Use",
+        "vote": 0
+    }
+]

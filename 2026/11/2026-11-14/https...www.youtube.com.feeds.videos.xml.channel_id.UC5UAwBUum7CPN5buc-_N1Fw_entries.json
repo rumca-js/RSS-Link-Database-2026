@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Experiment",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-14T09:33:35.672479+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-14T08:49:18+00:00",
+        "description": "Grab a brand new laptop or desktop running Linux: https://www.tuxedocomputers.com/en#\n\n\ud83d\udc4f SUPPORT THE CHANNEL:\nGet access to:\n- a Daily Linux News show\n- a weekly patroncast for more thoughts\n- your name in the credits\n\nYouTube: https://www.youtube.com/@thelinuxexp/join\nPatreon: https://www.patreon.com/thelinuxexperiment\n\nOr, you can donate whatever you want:\nhttps://paypal.me/thelinuxexp\nLiberapay: https://liberapay.com/TheLinuxExperiment/\n\n\ud83d\udc55 GET TLE MERCH\nSupport the channel AND get cool new gear: https://the-linux-experiment.creator-spring.com/\n\nTimestamps:\n00:00 Intro\n01:12 Darling project says they'll use AI to bring mac apps to Linux\n04:20 Proton posts article about their security and AI use\n06:56 Steam updates brings 64bit and better remote play\n08:49 Valve adds framerate data as public info for Deck users\n11:21 MATE gets its Wayland compositor\n12:55 Long time Linux maintainer steps back due to AI generated patches\n14:13 Asahi to switch licenses, and progress report\n16:02 Nexus ",
+        "id": 6777578,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=T1LvBjXYcFY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 349,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5UAwBUum7CPN5buc-_N1Fw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/T1LvBjXYcFY/hqdefault.jpg",
+        "title": "Proton's official statement on AI use, MATE goes Wayland - Linux & Open Source News",
+        "vote": 0
+    }
+]

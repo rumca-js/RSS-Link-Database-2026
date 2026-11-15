@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-14T17:00:25.751276+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-14T15:00:10+00:00",
+        "description": "Ever wondered how to optimize a chess engine? In this video, I break down the exact techniques I used to make my chess move generation 20x faster. \n\nIf you are interested in game development, performance optimization, or low-level programming, this deep dive into bitboards and engine architecture is for you. We explore the bottlenecks in move generation, the specific algorithms used to improve speed, and how to write more efficient C++ code for high-performance applications.\n\nTopics covered in this video:\n- Understanding chess move generation bottlenecks\n- Optimizing code for chess engines\n- Performance profiling and benchmarking\n- Coding techniques for speed\n\nWhether you are building your own engine or just love coding and software engineering, you will find plenty of tips and tricks here to level up your programming skills.\n\nDon't forget to like, comment, and subscribe for more content on programming, game engines, and computer science!\n\n---\n\nWork at Hudson River Trading (HRT): http",
+        "id": 6778947,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/A38GVPFJSjM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/A38GVPFJSjM/hqdefault.jpg",
+        "title": "How I made chess move generation 20x faster #programming #chessengine #coding",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-14T13:27:46.827760+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-14T13:27:39.706686+00:00",
+        "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a high-severity security flaw impacting UnrealIRCd, an open-source Internet Relay Chat (IRC) server, to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation.\n\nThe vulnerability, tracked as CVE-2026-114713 (CVSS score: 8.6), is a case of improper neutralization of delimiters",
+        "id": 6778235,
+        "language": "en-US",
+        "link": "https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 343,
+        "source_url": "https://feeds.feedburner.com/TheHackersNews",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection",
+        "vote": 0
+    }
+]
