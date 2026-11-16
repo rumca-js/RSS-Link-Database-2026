@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "emzdanowicz",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-15T08:11:47.874538+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-15T06:35:17+00:00",
+        "description": "Naprawd\u0119 interesuj\u0105cy FPS, tylko uwaga na bugi.",
+        "id": 6781009,
+        "language": "pl",
+        "link": "https://www.youtube.com/watch?v=c-tGS6X7oY0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 408,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCDGVMGoT8ql8JQLJt715jA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/c-tGS6X7oY0/hqdefault.jpg",
+        "title": "Derelikt \u0142\u0105czy retro, sci-fi i LOVECRAFTA",
+        "vote": 0
+    }
+]

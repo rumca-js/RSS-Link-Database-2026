@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Dave Maass",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-15T15:41:12.372997+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-15T13:00:00+00:00",
+        "description": "'Exploit' is an action thriller inspired by the battle raging right now between the tech oligarchy and the independent press.",
+        "id": 6782263,
+        "language": "en",
+        "link": "https://www.404media.co/this-comic-kills-technofascists",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 5,
+        "source_url": "https://www.404media.co/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/2026/11/Exploit-1---Cover-A.jpg",
+        "title": "This Comic Kills Technofascists",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Blog Staff",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-15T22:57:09.834914+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-15T22:36:05+00:00",
+        "description": "<p data-pm-slice=\"1 1 []\">\n\t<img alt=\"SANDOR_DARGO_ROUND.JPG\" src=\"https://isocpp.org/files/img/SANDOR_DARGO_ROUND.JPG\" style=\"width: 200px; margin: 10px; float: right; height: 204px;\" />C++26 introduces <code dir=\"ltr\">std::constant_wrapper</code> and its shorthand <code dir=\"ltr\">std::cw</code>, offering a more convenient way to preserve compile-time values across function boundaries. From simplifying template arguments to supporting compile-time arithmetic and function calls, this new utility makes constant expressions easier to work with and compose.</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://www.sandordargo.com/blog/2026/11/04/cpp26-constant-wrapper\">C++26: std::constant_wrapper</a></h3>\n\t<p>\n\t\tby Sandor Dargo</p>\n</blockquote>\n<p>\n\tFrom the article:</p>\n<blockquote>\n\t<p>\n\t\tThere&rsquo;s a fundamental gap in C++ that trips up everyone who reaches for it: you can&rsquo;t pass a <code>constexpr</code> value through a function boundary and have it remain <code>constexpr</code> on the",
+        "id": 6783714,
+        "language": "en",
+        "link": "https://isocpp.org//blog/2026/11/cpp26-stdconstant-wrapper-sandor-dargo",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://isocpp.org/files/img/SANDOR_DARGO_ROUND.JPG",
+        "title": "C++26: std::constant_wrapper -- Sandor Dargo",
+        "vote": 0
+    }
+]

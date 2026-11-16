@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Lunduke Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-15T21:08:29.817999+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-15T19:41:21+00:00",
+        "description": "\"The Document Foundation received over 1,000 donations in a single day, setting a new record.\"\n\n(The Date in the video says Nov 13th, but this was actually recorded on Nov 15th.)\n\nThe Lunduke Journal & LCOS:\nhttps://lunduke.com/",
+        "id": 6783392,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=hpkoKsKylsA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 616,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkK9UDm_ZNrq_rIXCz3xCGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/hpkoKsKylsA/hqdefault.jpg",
+        "title": "LibreOffice Has Biggest Donation Day Ever Thanks to the Microsoft Outage",
+        "vote": 0
+    }
+]
