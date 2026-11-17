@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Luna",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-16T17:09:52.968563+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-16T08:35:55+00:00",
+        "description": "Android XR now supports the OpenXR Spatial Container extensions to enable multi-engine apps, though notably limited to Full Space mode.",
+        "id": 6787845,
+        "language": "en",
+        "link": "https://www.uploadvr.com/android-xr-gets-spatial-container-support-to-enable-multi-engine-apps",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 375,
+        "source_url": "https://www.uploadvr.com/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/11/ThumbNBA-1.png",
+        "title": "Android XR Gets Spatial Container Support To Enable Multi-Engine Apps",
+        "vote": 0
+    }
+]

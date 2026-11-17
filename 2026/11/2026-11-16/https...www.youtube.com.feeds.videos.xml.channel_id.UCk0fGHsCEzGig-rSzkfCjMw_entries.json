@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Engineering Mindset",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-16T22:28:33.670770+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-16T16:00:02+00:00",
+        "description": "Why 120V? Try Brilliant \ud83d\udc49  http://brilliant.org/TheEngineeringMindset Plus our viewers get 20% off an annual Premium subscription.\n\nWhy does America use 120V instead of 230V? And how can two 120V electrical outlets produce either 0V or 240V when measured between them?\nIn this video, we explain how the US 120V/240V split-phase electrical system works, from the power station and distribution transformers to the electrical panel and outlets inside your home. You'll discover how a centre-tapped transformer produces both 120V and 240V, why two live outlets can measure 0 volts between them, and how circuit breakers connect to different hot legs to supply 240V to larger appliances.\nWe'll also examine AC sine waves, phase relationships and RMS voltage to understand why measuring between the two hot legs gives us 240V, even though each provides just 120V relative to neutral.\nFinally, we'll explore the surprising history of America's electrical system, from early 110V DC lighting and Thomas Edi",
+        "id": 6789744,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=a_hFhbUrecU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 961,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCk0fGHsCEzGig-rSzkfCjMw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/a_hFhbUrecU/hqdefault.jpg",
+        "title": "Can Two 120V Outlets Really Make 240V? Lets find out!",
+        "vote": 0
+    }
+]

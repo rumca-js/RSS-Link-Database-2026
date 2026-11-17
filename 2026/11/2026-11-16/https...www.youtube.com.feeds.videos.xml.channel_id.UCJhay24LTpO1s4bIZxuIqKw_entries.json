@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ACCU Conference",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-16T15:48:48.479467+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-16T13:35:58+00:00",
+        "description": "ACCU Membership: https://tinyurl.com/ydnfkcyn\n---\n\nConstraining Templates Before and After C++20 - The What, the How, and the Why - Johannes Kalmbach - ACCU 2026\n---\n\nThe simplest template declaration template \uff1ctypename T\uff1e class C {...}; is often misleading. Most templates, both classes and functions, do not accept arbitrary types but impose additional constraints on their template arguments. When these constraints are absent from the template declaration, the compiler leaks implementation details through often-unreadable error messages when template instantiation fails because of invalid template arguments. This talk provides a comprehensive overview of constraint techniques available in C++17 and earlier (particularly SFINAE-based approaches like std::enable_if and std::void_t) as well as concepts and requires clauses that have revolutionized template constraints since C++20. We will also explore how to effectively use macros to bridge both approaches with a unified syntax, gaining ",
+        "id": 6787220,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=2XvLjFQFx9M",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 421,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJhay24LTpO1s4bIZxuIqKw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/2XvLjFQFx9M/hqdefault.jpg",
+        "title": "Constraining Templates Before and After C++20 - The What, the How, and the Why - Johannes Kalmbach",
+        "vote": 0
+    }
+]

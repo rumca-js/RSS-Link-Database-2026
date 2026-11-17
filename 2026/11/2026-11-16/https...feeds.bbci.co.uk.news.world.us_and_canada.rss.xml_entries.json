@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-16T22:06:28.715774+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-16T21:12:13+00:00",
+        "description": "The pontiff was struck in the face by what is thought to be prayer beads while travelling aboard the popemobile to deliver a farewell Mass.",
+        "id": 6789631,
+        "language": "en-gb",
+        "link": "https://www.bbc.co.uk/news/videos/ckpdwn23j5j8o",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 526,
+        "source_url": "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0861/live/f40b1380-e200-11f1-ba8d-01314a590f72.jpg",
+        "title": "Pope Leo hit by flying rosary while waving to crowds in Peru",
+        "vote": 0
+    }
+]

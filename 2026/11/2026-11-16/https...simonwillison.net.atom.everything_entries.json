@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Simon Willison",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-17T02:34:01.759778+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-16T23:57:26+00:00",
+        "description": null,
+        "id": 6790777,
+        "language": "en-us",
+        "link": "https://simonwillison.net/2026/Nov/16/llm",
+        "manual_status_code": 0,
+        "page_rating": 28,
+        "page_rating_contents": 87,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 423,
+        "source_url": "https://simonwillison.net/atom/everything",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "llm 0.37.3",
+        "vote": 0
+    }
+]

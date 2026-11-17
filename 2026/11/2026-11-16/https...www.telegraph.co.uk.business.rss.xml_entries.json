@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Chris Price",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-16T18:13:43.956939+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-16T17:54:34+00:00",
+        "description": "Wall Street slides as Nvidia casts shadow over tech stocks",
+        "id": 6788254,
+        "language": "en-UK",
+        "link": "https://www.telegraph.co.uk/business/2026/11/16/nvidia-stocks-asia-us-anthropic-tech-trump-ftse-100-markets1",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 81,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 354,
+        "source_url": "https://www.telegraph.co.uk/business/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Wall Street slides as Nvidia casts shadow over tech stocks",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Critical Drinker",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-16T17:46:07.822543+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-16T17:00:07+00:00",
+        "description": "Its the incredible true story of how an unknown actor that nobody would hire, somehow found himself writing and starring in one of the biggest breakthrough hits of all time. I Play Rocky follows aspiring actor Sylvester Stallone, as he goes from sleeping on the streets of New York, to collecting a Best Picture Oscar.",
+        "id": 6788104,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=GfR0Dja36Cg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 334,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSJPFQdZwrOutnmSFYtbstA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/GfR0Dja36Cg/hqdefault.jpg",
+        "title": "The Drinker Recommends... I Play Rocky",
+        "vote": 0
+    }
+]

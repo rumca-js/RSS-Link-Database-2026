@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Foundation",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-16T07:44:25.171460+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-16T05:00:22+00:00",
+        "description": "OpenSearch's latest release delivers 4x faster vector ingestion and doubled radial search throughput, as Bianca Lewis of the OpenSearch Software Foundation explains to Swapnil Bhartiya.\n\nFull article and transcript: [ARTICLE_URL]\n\nAI platforms built before this generation of generative AI are now being stress-tested at scales they were never designed for. Vector ingestion speed, hybrid search throughput, and real-time log analysis have become the deciding factors for teams running production AI workloads.\n\nIn this exclusive interview with Swapnil Bhartiya, Bianca Lewis, Executive Director of the OpenSearch Software Foundation, breaks down the concrete performance improvements in the latest OpenSearch release and why iterative infrastructure upgrades matter more than benchmark theater.\n\nKey Topics Covered:\n- 4.16x faster vector ingestion using base64 encoding and architectural improvements\n- Radial search throughput more than doubled compared to the previous version\n- Model Context Pro",
+        "id": 6784969,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=W0vv8Dp_hlQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 499,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfX55Sx5hEFjoC3cNs6mCUQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/W0vv8Dp_hlQ/hqdefault.jpg",
+        "title": "OpenSearch Ingests Vectors 4x Faster in the Latest Release | Bianca Lewis",
+        "vote": 0
+    }
+]

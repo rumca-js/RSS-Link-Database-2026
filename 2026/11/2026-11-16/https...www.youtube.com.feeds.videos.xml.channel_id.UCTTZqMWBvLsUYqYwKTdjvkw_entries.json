@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mateusz Chrobok",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-16T09:21:13.540255+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-16T05:46:51+00:00",
+        "description": "Katastrofa bezpiecze\u0144stwa! \nFragment odcinka https://www.youtube.com/watch?v=HgwMZhuAaOI",
+        "id": 6785258,
+        "language": "pl-PL",
+        "link": "https://www.youtube.com/shorts/F4c99B4yTdM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 211,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTTZqMWBvLsUYqYwKTdjvkw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/F4c99B4yTdM/hqdefault.jpg",
+        "title": "Katastrofa bezpiecze\u0144stwa!",
+        "vote": 0
+    }
+]

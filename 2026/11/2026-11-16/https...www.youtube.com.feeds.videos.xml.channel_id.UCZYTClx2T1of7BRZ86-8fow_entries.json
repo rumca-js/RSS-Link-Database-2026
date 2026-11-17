@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "SciShow",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-16T20:22:57.230221+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-16T18:00:35+00:00",
+        "description": "You might have heard of the Elo rating if you\u2019re into chess. Or women\u2019s football. Or competitive Pok\u00e9mon. Or even\u2026 fabric inspection. So how can a rating system for chess be so universal? And, /mathematically/, what does it mean when your Elo is\u2026 ee-/low/? Let\u2019s get into it.\n\nHosted by: Johnny Dickson (he/him)\n----------\nSupport us for $8/month on Patreon and keep SciShow going!\nhttps://www.patreon.com/scishow\nOr support us directly: https://complexly.com/support\nJoin our SciShow email list to get the latest news and highlights: \nhttps://mailchi.mp/scishow/email\n----------\nHuge thanks go to the following Patreon supporters for helping us keep SciShow free for everyone forever: ., Adam Brainard, Alex Hackman, Bethany Matthews, Blood Doctor Kelly, Cye Stoner, Anita, Anne Herrington, Friso, Jeremy Mattern, Garrett Galloway, Chris Curry, Chris Mackey, Chris Peters, David Johnston, Eric Jensen, J.V. Rosenbalm, Jaap Westera, Jacob Puthoff, Jason A Saslow, Jon Coffman, Joseph Ruf, Jp Lynch, ",
+        "id": 6789085,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=1ejtdt78rCo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 294,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZYTClx2T1of7BRZ86-8fow",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/1ejtdt78rCo/hqdefault.jpg",
+        "title": "The Chess Rating System That Predicts Everything",
+        "vote": 0
+    }
+]

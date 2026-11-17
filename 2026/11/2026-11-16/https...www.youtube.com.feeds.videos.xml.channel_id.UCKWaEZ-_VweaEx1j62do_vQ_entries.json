@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-16T16:29:30.951856+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-16T14:45:14+00:00",
+        "description": "Learn more about Supply Chain Security here \u2192 https://ibm.biz/~k518Rj9sC\n\nYour code is only part of what reaches production. Cedric Clyburn explains how dependencies, CI/CD pipelines, open source, and AI-generated code expand the software supply chain. Learn how SBOMs, automated checks, independent review, and provenance reduce risk.\n\n 00:00 \u2013 See What Really Enters Your Application\n 01:00 \u2013 Define the Modern Software Supply Chain\n 02:02 \u2013 Understand Dependency Risk with Log4j\n 03:03 \u2013 Protect Package Registries from Ecosystem Poisoning\n 04:00 \u2013 See How Build Pipelines Become Attack Vectors\n 04:47 \u2013 Treat AI Coding Agents as Software Suppliers\n 06:01 \u2013 Shift Software Supply Chain Security Left\n 06:31 \u2013 Build an SBOM for Every Application\n 07:04 \u2013 Automate Security Checks and Verify AI Code\n 08:08 \u2013 Prove Software Provenance Before Production\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/~rqEKFmJiG\n\nAI was used in the creation of the tr",
+        "id": 6787588,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=iv32wI3MBpw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/iv32wI3MBpw/hqdefault.jpg",
+        "title": "Software Supply Chain Security: What AI Coding Changes",
+        "vote": 0
+    }
+]

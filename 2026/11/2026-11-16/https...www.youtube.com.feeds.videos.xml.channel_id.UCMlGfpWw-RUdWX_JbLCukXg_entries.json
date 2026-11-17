@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-16T15:55:24.617169+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-16T15:00:32+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nReal-Time Control, Simulation, and Visualization in C++23 With CUDA and Unreal Engine - Kevin Gomez\n---\n\nWhat does it take to build a real-time embedded control system in modern C++, simulate its environment, command it from a browser, and watch it fly in 3D \u2014 all from the same open source ecosystem? This talk follows that pipeline end-to-end: from a C++23 real-time framework that schedules deterministic control loops across POSIX hosts and bare-metal microcontrollers, to GPU-accelerated simulation with CUDA, to web-based operations and telemetry, to live 3D visualization in Unreal Engine. \n \nAttendees will see how a unified runtime architecture can span embedded control, simulation, diagnostics, operations, and visualization without fragmenting into separate software stacks. The talk explores deterministic scheduling, zero-allocation real-time design, cross-platform deployment, and integrating CUDA compute kernels directly into scheduled control loops without",
+        "id": 6787291,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=CUQbzKDPp_I",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/CUQbzKDPp_I/hqdefault.jpg",
+        "title": "Real-Time Control, Simulation, and Visualization in C++23 With CUDA and Unreal Engine - Kevin Gomez",
+        "vote": 0
+    }
+]

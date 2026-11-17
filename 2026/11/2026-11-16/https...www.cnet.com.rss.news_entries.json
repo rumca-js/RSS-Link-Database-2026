@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Macy Meyer",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-16T22:29:34.859642+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-16T22:15:16+00:00",
+        "description": null,
+        "id": 6789755,
+        "language": "en",
+        "link": "https://www.cnet.com/tech/services-and-software/a-new-study-finds-hyperscale-data-centers-emit-as-much-carbon-as-denmark",
+        "manual_status_code": 0,
+        "page_rating": 28,
+        "page_rating_contents": 88,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 58,
+        "source_url": "https://www.cnet.com/rss/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.cnet.com/wp-content/uploads/sites/2/GettyImages-1279322255.jpg",
+        "title": "A New Study Finds Hyperscale Data Centers Emit as Much Carbon as Denmark",
+        "vote": 0
+    }
+]

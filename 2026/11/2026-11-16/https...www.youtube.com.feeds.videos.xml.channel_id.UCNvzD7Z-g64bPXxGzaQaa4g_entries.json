@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "gameranx",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-16T22:24:56.838636+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-16T21:18:24+00:00",
+        "description": "Bodycam's newest update finally brings the zombie mode into the full game. How is it? Let's talk.",
+        "id": 6789734,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=qa3vZLNrmU0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 128,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNvzD7Z-g64bPXxGzaQaa4g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/qa3vZLNrmU0/hqdefault.jpg",
+        "title": "Bodycam Zombie Game is INSANE",
+        "vote": 0
+    }
+]

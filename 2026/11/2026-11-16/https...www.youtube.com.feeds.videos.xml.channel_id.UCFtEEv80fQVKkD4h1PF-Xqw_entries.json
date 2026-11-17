@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Microsoft",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-16T20:48:58.923598+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-16T19:27:54+00:00",
+        "description": "Hear from the Microsoft team behind Majorana 2, Microsoft\u2019s next-generation topological quantum processor, featuring a new material stack and qubits that are 1,000 times more reliable than those in the previous quantum processor.\n\nLearn more: https://quantum.microsoft.com/en-us/insights/blogs/majorana-2-scalable-quantum-processor\n\nChapters:\n0:00 From the abacus to quantum\n0:46 Majorana 2: a new material stack\n1:28 What 1000x more stability means\n2:47 More than qubits: the full quantum stack\n3:40 How quantum and AI work together\n5:11 Questions only quantum can answer\n6:17 The road to 2029\n7:06 Why we build it",
+        "id": 6789204,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=ytfzbmLCTas",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 793,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFtEEv80fQVKkD4h1PF-Xqw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/ytfzbmLCTas/hqdefault.jpg",
+        "title": "Majorana 2 Explained: The road to 1000x improvement",
+        "vote": 0
+    }
+]

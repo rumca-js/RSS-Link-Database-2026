@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Blog Staff",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-16T22:01:26.511638+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-16T21:49:47+00:00",
+        "description": "<p>\n\t<img alt=\"simdjson5-cover-825x510.jpg\" src=\"https://isocpp.org/files/img/simdjson5-cover-825x510.jpg\" style=\"width: 400px; margin: 10px; float: right;\" />Static reflection is no longer guarded and is an officially supported feature. When your compiler has reflection enabled (e.g., g++ -std=c++26 -freflection with GCC 16), simdjson detects it by itself and the reflection-based functions become available.</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://lemire.me/blog/2026/09/28/simdjson-5-0-is-out/\">simdjson 5.0 with full C++26 reflection support</a></h3>\n\t<p>\n\t\tby Daniel Lemire</p>\n</blockquote>\n<p>\n\tFrom the article:</p>\n<blockquote>\n\t<p>\n\t\tThe simdjson library is a C++ library to parse and generate JSON. It is used in Node.js, ClickHouse, Meta Velox, StarRocks, Apache Doris, the Ladybird browser and many other systems. We released version 4.0 a year ago, in September 2025. Its headline feature was C++26 static reflection: you could turn a C++ structure into JSON, and back, without wri",
+        "id": 6789600,
+        "language": "en",
+        "link": "https://isocpp.org//blog/2026/11/simdjson-5.0-with-full-cpp26-reflection-support-daniel-lemire",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://isocpp.org/files/img/simdjson5-cover-825x510.jpg",
+        "title": "simdjson 5.0 with full C++26 reflection support -- Daniel Lemire",
+        "vote": 0
+    }
+]
