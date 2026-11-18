@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Foundation",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-17T19:24:51.210083+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-17T18:39:49+00:00",
+        "description": "Kristen Accardi (Linux Kernel Engineering Manager, Intel) and Shuah Khan will talk about Kristen\u2019s experience as a kernel developer and maintainer, taking questions from the attendees. Kristen will share what works and what doesn\u2019t for her and strategies, interpersonal and technical skills and mindset that help her stay engaged for a longer term.",
+        "id": 6795493,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=_UYwgdUPQMw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 499,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfX55Sx5hEFjoC3cNs6mCUQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/_UYwgdUPQMw/hqdefault.jpg",
+        "title": "LF Live Maintainer Session: My Life as a Linux Kernel Developer and Maintainer with Kristen Accardi",
+        "vote": 0
+    }
+]

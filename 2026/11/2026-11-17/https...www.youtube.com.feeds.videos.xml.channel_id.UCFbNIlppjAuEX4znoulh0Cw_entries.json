@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Web Dev Simplified",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-17T21:23:14.027509+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-17T17:00:31+00:00",
+        "description": "AI Simplified Course: https://webdevsimplified.com/ai-simplified-waitlist.html\n\nGoogle\u2019s new Modern Web Guidelines is a completely free library/skill that forces AI to write high quality, performant, modern web code. In this video I will show you how to use this tool with AI, how to set it up, and how you can even use this tool without any AI at all.\n\n\n\ud83d\udcda Materials/References:\n\nModern Web Guidelines: https://developer.chrome.com/docs/modern-web-guidance\nAI Simplified Course: https://webdevsimplified.com/ai-simplified-waitlist.html\n\n\n\ud83c\udf0e Find Me Here:\n\nMy Blog: https://blog.webdevsimplified.com\nMy Courses: https://courses.webdevsimplified.com\nPatreon: https://www.patreon.com/WebDevSimplified\nTwitter: https://twitter.com/DevSimplified\nDiscord: https://discord.gg/7StTjnR\nGitHub: https://github.com/WebDevSimplified\nCodePen: https://codepen.io/WebDevSimplified\n\n\n\u23f1\ufe0f Timestamps:\n\n00:00 - Introduction\n00:46 - Setup\n02:28 - Using With AI\n04:04 - What AI Gets Wrong\n05:50 - How Moder Web Guidelines",
+        "id": 6796228,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=ty277pJL9ec",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 994,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFbNIlppjAuEX4znoulh0Cw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/ty277pJL9ec/hqdefault.jpg",
+        "title": "Google Just Fixed AI Slop - At Least For Web Devs",
+        "vote": 0
+    }
+]

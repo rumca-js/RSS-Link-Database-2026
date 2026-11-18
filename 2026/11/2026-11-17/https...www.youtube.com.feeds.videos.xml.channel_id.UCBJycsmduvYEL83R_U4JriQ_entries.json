@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Marques Brownlee",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-17T21:33:14.457369+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-17T18:39:57+00:00",
+        "description": "Can you trust MKBHD videos? Part 2.\n\nPart 1: https://youtu.be/5nLWTVTwOhY\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+        "id": 6796297,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=KTDJiVpSDTI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 210,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCBJycsmduvYEL83R_U4JriQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/KTDJiVpSDTI/hqdefault.jpg",
+        "title": "Can You Trust MKBHD?",
+        "vote": 0
+    }
+]

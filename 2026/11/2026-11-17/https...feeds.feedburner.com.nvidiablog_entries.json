@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brian Caulfield",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-17T19:59:37.697368+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-17T14:00:10+00:00",
+        "description": "NVIDIA\u2019s Ian Buck kicked off the company\u2019s week at SC26 in Chicago on Monday with new tools for AI agents, software that can plan experiments, run code and check results on researchers\u2019 own systems. In NVIDIA\u2019s special address, Buck announced Nemotron for Science, the Rubin HPC GPU and an expanded Vera CPU platform for high-performance [&#8230;]",
+        "id": 6795737,
+        "language": "en-US",
+        "link": "https://blogs.nvidia.com/blog/ian-buck-sc26",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 1019,
+        "source_url": "https://feeds.feedburner.com/nvidiablog",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://blogs.nvidia.com/wp-content/uploads/2026/11/Buck-Talk-SC26-842x450.jpeg",
+        "title": "Ian Buck Kicks Off NVIDIA\u2019s Week at SC26 as Science Enters the Age of Agents",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Dave's Garage",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-17T02:03:33.811607+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-17T01:20:28+00:00",
+        "description": "Here's how I taught a quarter of a million cars to drive at once on the new Dell Pro Max with GB300, NVIDIA's BIGGEST GPU!",
+        "id": 6790684,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=h6D0mHbPpHs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 907,
+        "source_url": "https://youtube.com/channel/UCNzszbnvQeFzObW0ghk0Ckw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/h6D0mHbPpHs/hqdefault.jpg",
+        "title": "I Taught 262,144 Cars to Drive on One Computer - Here's How I Did It.",
+        "vote": 0
+    }
+]

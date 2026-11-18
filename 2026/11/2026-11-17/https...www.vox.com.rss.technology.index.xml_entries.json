@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Cameron Peters",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-18T00:00:27.077824+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-17T18:05:00+00:00",
+        "description": "<figure>\n\n<img alt=\"A laptop displaying a bright red alert symbol on a yellow background.\" data-caption=\"\" data-portal-copyright=\"Getty Images\" data-has-syndication-rights=\"1\" src=\"https://platform.vox.com/wp-content/uploads/sites/2/2026/11/Vox_GettyImages-2149989186.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100\" />\n\t<figcaption>\n\t\t</figcaption>\n</figure>\n<p class=\"wp-block-paragraph\">Have you tried to take a flight in the last week? What about check your <a href=\"https://www.theverge.com/tech/1035364/microsoft-outlook-outage-notepad\">email</a>, your <a href=\"https://www.cbsnews.com/news/banks-online-service-outages-jpmorgan-chase-bank-of-america-wells-fargo/\">bank balance</a>, your <a href=\"https://www.nytimes.com/2026/11/17/technology/apple-down-outage-issues.html\">Apple account</a>? (Or, for a select few of us, your <a href=\"https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down\">top-secret internal spy agency network</a>?",
+        "id": 6797059,
+        "language": "",
+        "link": "https://www.vox.com/podcasts/511088/outages-microsoft-banks-apple-nsa-ai-vulnerability",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 484,
+        "source_url": "https://www.vox.com/rss/technology/index.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://platform.vox.com/wp-content/uploads/sites/2/2026/11/Vox_GettyImages-2149989186.jpg?quality=90&strip=all&crop=0,0,100,100",
+        "title": "When do we start worrying about all these outages?",
+        "vote": 0
+    }
+]

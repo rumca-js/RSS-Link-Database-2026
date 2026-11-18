@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Leila Gharani",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-17T10:27:12.052346+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-17T10:00:13+00:00",
+        "description": "Connect Power Query to OneDrive and SharePoint files so refresh works for everyone.\n\ud83d\udc49 Black Friday is coming up. Our best offer of the year goes to newsletter subscribers first. Sign up here so you don\u2019t miss it: https://link.xelplus.com/yt-d-newsletter\n\n\ud83c\udf93 Master Excel Power Query (500,000+ enrolled in our courses): https://www.xelplus.com/course/excel-power-query/?utm_source=yt-video&utm_medium=vid-description&utm_campaign=power-query&utm_content=power-query-onedrive-links\n\nWhen you connect through File Explorer, Power Query saves the path on your computer. Your colleague's path is different, so their refresh fails. I show you how to connect with the web link instead, for Excel files and text files, and how to switch queries you already built.\n\n\u2705 Good to know\nUse Copy Path, not Copy Local Path. Then delete ?web=1 at the end of the link.\nThis works for OneDrive for work or school and SharePoint. Personal OneDrive links work differently.\nIn the SharePoint Details pane, press End to jum",
+        "id": 6792133,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=3zXIWK8c57E",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 957,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJtUOos_MwJa_Ewii-R3cJA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/3zXIWK8c57E/hqdefault.jpg",
+        "title": "Stop Connecting Power Query to OneDrive Files Like This",
+        "vote": 0
+    }
+]

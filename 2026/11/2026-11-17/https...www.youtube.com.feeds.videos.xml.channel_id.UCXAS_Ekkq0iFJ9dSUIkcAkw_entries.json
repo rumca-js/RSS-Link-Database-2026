@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Efficient Engineer",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-17T16:28:48.452734+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-17T15:00:29+00:00",
+        "description": "Check out Nebula to watch my video on the FIU bridge collapse and Mustard's Unsealed series - https://nebula.tv/mustard/unsealed?ref=the-efficient-engineer\n---\nOn August 14th 2018, a 200 meter long section of the Ponte Morandi in Genoa, Italy suddenly collapsed, killing 43 people. It was one of the worst bridge failures in modern European history. The Ponte Morandi was a cable-stayed bridge with a very unusual design - each tower held up the deck with just four stays, and each stay was encased in concrete. So, to understand what went wrong, we need look at how concrete works, and what its weaknesses are.\n---\nAttribution\nMap & Terrain Data\n\u2022 Terrain: \"DTM \u2013 Modello Digitale del Terreno - Liguria ed. 2023\" \u00a9 Regione Liguria (https://geoportal.regione.liguria.it) - Licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/), modified.\n\u2022 Aerial Imagery: \"Ortofoto AGEA [2022]\" \u00a9 AGEA - Agenzia per le Erogazioni in Agricoltura (https://geoportale.agea.gov.it) - Licensed under CC",
+        "id": 6794237,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Z9GIvi_uPZw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 808,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXAS_Ekkq0iFJ9dSUIkcAkw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/Z9GIvi_uPZw/hqdefault.jpg",
+        "title": "The Problem with Concrete",
+        "vote": 0
+    }
+]

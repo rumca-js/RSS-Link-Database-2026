@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "iFixit",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-17T21:26:06.924909+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-17T20:36:38+00:00",
+        "description": "Apple\u2019s Homeview looks like a familiar mix of iPad and HomePod. Inside, stubborn adhesive and fragile connectors turn this teardown into a fight.\n\nWe start with a CT scan, then work through the display, A18 logic board, speakers, and base to see what stands between a broken Homeview and a successful repair. Along the way: speaker connectors that come apart during disconnection, a heat spreader bonded to the chassis, and a speaker that breaks during removal.\n\nThere are a few bright spots, including a modular USB-C port. We also open the wall-mounted version to find out why its board and speakers differ from the freestanding model.\n\nAfter the repair progress we\u2019ve seen in iPads and HomePods, how did Homeview end up here?\n\nWhich design choice would you change first to make Homeview easier to repair?\n\nChapters\n0:00 Apple Homeview: A Step Back for Repair?\n0:51 CT Scan: What\u2019s Inside?\n1:29 Opening the Glued Display\n2:12 Speaker Connectors That Won\u2019t Let Go\n3:13 The Logic Board Removal Probl",
+        "id": 6796242,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=rr7m9nBqDdo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 996,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHbx9IUW7eCeJsC4sBCTNBA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/rr7m9nBqDdo/hqdefault.jpg",
+        "title": "We Took Apart Apple\u2019s Homeview. It Got Ugly.",
+        "vote": 0
+    }
+]

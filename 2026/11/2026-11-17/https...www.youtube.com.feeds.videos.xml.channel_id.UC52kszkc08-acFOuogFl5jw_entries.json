@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Tibees",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-17T23:48:03.517332+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-17T22:57:57+00:00",
+        "description": "My bookshop: https://tibees.com/",
+        "id": 6797000,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=z56-EC_Zrv0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 843,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC52kszkc08-acFOuogFl5jw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/z56-EC_Zrv0/hqdefault.jpg",
+        "title": "Reading my books so you don't have to",
+        "vote": 0
+    }
+]

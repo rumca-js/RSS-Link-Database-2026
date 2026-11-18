@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Samsung",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-17T01:03:11.089877+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-17T00:00:54+00:00",
+        "description": "#SmartThings #CareInsight #FamilyCare\n\nThis is the official video guide on how to use SmartThings Family Care.\ud83d\udc71\u200d\u2640\ufe0f\u200d\ud83d\udc71\u200d\u2642\ufe0f\n\nNotice changes before they become bigger concerns. \ud83c\udfe0\n\nCare Insight is a SmartThings Family Care feature that keeps an eye on your parent's home environment and daily routine. If their device usage changes compared to the previous week, it sends you a message asking you to take a closer look. It also alerts you when the temperature or humidity falls outside the optimal range.\n\nLet's get started with the SmartThings app on your smartphone \ud83d\ude0a\n\nTry now: https://www.smartthings.com/applink?action=service&service_code=FAMILY_CARE&clear_task=false",
+        "id": 6790482,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=8NrwrRqHxxw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 785,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCWwgaK7x0_FR1goeSRazfsQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/8NrwrRqHxxw/hqdefault.jpg",
+        "title": "SmartThings Family Care - Care Insight | Samsung",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-17T15:31:29.379445+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-17T15:00:05+00:00",
+        "description": "Discover how to bridge the gap between high-performance computing and immersive graphics in this deep dive into real-time control, simulation, and visualization using C++23, CUDA, and Unreal Engine. \n\nIn this tutorial, we explore the cutting-edge integration of NVIDIA CUDA for parallel processing and Unreal Engine for real-time rendering. Learn how to leverage modern C++23 features to build a robust pipeline that handles complex simulations while maintaining low-latency visualization. \n\nKey topics covered in this video:\n- Setting up a high-performance compute pipeline with C++23.\n- Bridging CUDA kernels with Unreal Engine\u2019s rendering architecture.\n- Optimizing real-time data transfer between the GPU and the game engine.\n- Implementing low-latency visualization for complex physics and control systems.\n- Best practices for modern C++ development in a graphics-heavy environment.\n\nWhether you are a graphics engineer, a robotics developer, or a simulation enthusiast, this walkthrough provi",
+        "id": 6793899,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/x5B121nZRRw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/x5B121nZRRw/hqdefault.jpg",
+        "title": "How I built a simulation with C++23 and Unreal #tutorial #coding",
+        "vote": 0
+    }
+]

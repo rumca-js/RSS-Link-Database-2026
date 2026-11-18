@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Learn Linux TV",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-17T17:06:14.877254+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-17T17:00:05+00:00",
+        "description": "\ud83d\udc27 *Grab my \"New To Linux\" Bundle for expert guidance on ditching Windows or macOS* \ud83d\udc49 https://learnlinux.link/new2linux\n\n\ud83d\udea8 *40% OFF Linux Foundation Courses & Certifications - Ends Nov 20!* \ud83c\udf93 Use code 40KUBE26 \ud83d\udc49 https://learnlinux.link/get-certified\n\nFedora 45 is here, and in this video I\u2019ll walk you through installing it from start to finish. We\u2019ll create a bootable USB, test your hardware in the live environment so you don\u2019t run into surprises later, run through the installer, take a look at the first boot experience, and then install updates so your new system is ready to go. If you\u2019ve been thinking about giving Fedora a try, this is a great time to jump in!\n\n*\ud83c\udf93 Latest Courses & Books*\n  - *Ditch Microslop - Switch To Linux With My Latest Book* - https://learnlinux.link/ditch-windows\n  - *Grab My Linux Troubleshooting Strategies e-book* - https://learnlinux.link/troubleshooting-ebook\n  - *Learn Ansible With My Professional Course* - https://linux.video/ansible\n  - *Master Linux With",
+        "id": 6794570,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=h1f9ZOx51vo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 997,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxQKHvKbmSzGMvUrVtJYnUA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/h1f9ZOx51vo/hqdefault.jpg",
+        "title": "Switch to Fedora 45: Full Install Walkthrough for Beginners",
+        "vote": 0
+    }
+]
