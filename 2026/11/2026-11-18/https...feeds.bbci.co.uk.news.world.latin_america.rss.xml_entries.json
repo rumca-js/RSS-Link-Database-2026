@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-18T11:52:48.068487+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-18T07:34:53+00:00",
+        "description": "Former three-weight world champion Jorge Linares remains in the custody of US immigration authorities in Texas and is facing deportation.",
+        "id": 6799605,
+        "language": "en-gb",
+        "link": "https://www.bbc.co.uk/sport/boxing/articles/cknv4q197dymo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 524,
+        "source_url": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c8d/live/ae4ea630-e31e-11f1-baab-4b3b35d174b7.jpg",
+        "title": "Venezuelan ex-world boxing champion Linares in ICE detention",
+        "vote": 0
+    }
+]

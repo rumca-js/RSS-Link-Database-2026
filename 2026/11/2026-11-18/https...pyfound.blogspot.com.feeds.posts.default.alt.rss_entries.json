@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-18T18:40:45.088385+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-18T17:46:23+00:00",
+        "description": "<h3 style=\"text-align: left;\"><span style=\"font-size: 11pt; white-space: pre-wrap;\">Authors: Mike Fiedler, Seth Larson</span></h3><span id=\"docs-internal-guid-ef9de01e-7fff-03f1-aef6-ce4e4d25aad1\"><p style=\"line-height: 1.38; margin-bottom: 12pt; margin-top: 12pt; text-align: left;\"><span face=\"Arial, sans-serif\" style=\"font-size: 11pt; font-variant: normal; vertical-align: baseline; white-space: pre-wrap;\">On December 2, 2026, GitHub will</span><a href=\"https://github.blog/changelog/2026-11-02-pull_request_target-blocked-by-default-december-2/\" style=\"text-decoration: none;\"><span face=\"Arial, sans-serif\" style=\"color: black; font-size: 11pt; font-variant: normal; vertical-align: baseline; white-space: pre-wrap;\"> </span><span face=\"Arial, sans-serif\" style=\"color: #1155cc; font-size: 11pt; font-variant: normal; text-decoration-skip-ink: none; text-decoration: underline; vertical-align: baseline; white-space: pre-wrap;\">start blocking the </span><span style=\"font-family: &quot;Roboto",
+        "id": 6802265,
+        "language": "en",
+        "link": "https://pyfound.blogspot.com/2026/11/de-fanging-dangerous-triggers-in-github.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 267,
+        "source_url": "https://pyfound.blogspot.com/feeds/posts/default?alt=rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "De-fanging dangerous triggers in GitHub Actions across an organization",
+        "vote": 0
+    }
+]

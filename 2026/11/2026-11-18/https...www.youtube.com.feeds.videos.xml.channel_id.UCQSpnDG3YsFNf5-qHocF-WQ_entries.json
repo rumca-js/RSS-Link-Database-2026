@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ThioJoe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-18T19:16:08.165405+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-18T14:45:07+00:00",
+        "description": "What the heck are passkeys anyway?\n\nThe fingerprint reader I have: https://link.amazon/B07deUFhi\n\nMost people see passkeys as that thing websites try to push on everyone to use instead of passwords. But they almost never explain what they are or why you should care. The fact of the matter is passkeys ARE very convenient, and there's no reason not to use them. In fact, they can make it WAY easier to log into sites basically instantly, depending on your setup. \n\nOn your phone or a laptop with a fingerprint sensor or FaceID, login is indeed instant. On desktop, if you registered a passkey on your phone, you normally need to scan a QR code, but I also show how you can make passkeys just as quick to log in using a USB fingerprint sensor. I also go over a bit more technicals on how passkeys work, why they're more secure, and common misconceptions and questions about them.\n\nTime Stamps:\n0:00 - Intro\n0:27 - Actually Simple  Explanation\n2:13 - Clearing It Up On Windows\n3:16 - The Fastest Deskt",
+        "id": 6802513,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=obYoyflHOYg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 366,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQSpnDG3YsFNf5-qHocF-WQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/obYoyflHOYg/hqdefault.jpg",
+        "title": "Passkeys are good, actually",
+        "vote": 0
+    }
+]

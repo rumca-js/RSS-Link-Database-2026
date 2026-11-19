@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-18T13:01:44.684941+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-18T12:37:46+00:00",
+        "description": "Learn data structures and algorithms in Python in this beginner's course. This course covers arrays, linked lists, stacks, queues, hash tables, trees, heaps, and graphs, plus recursion, searching, sorting, and interview prep. Each topic is explained with custom animations and visualizations alongside Python code examples. By the end, you will understand how the most important data structures work inside and know when to use each one.\n\n\u270f\ufe0f Course created by Javid Bodurov.\nVertex Class: https://vertexclass.com\n\n\u2764\ufe0f Support for this channel comes from our friends at Scrimba \u2013 the coding platform that's reinvented interactive learning: https://scrimba.com/freecodecamp\n\n\u2b50\ufe0f Chapters \u2b50\ufe0f\n- 0:00:00 Introduction\n- 0:02:55 Big O Part 1: How to Measure a Program\n- 0:05:32 Big O Part 2: The Dangerous Shapes and the Rules\n- 0:10:37 Arrays Part 1: How Data Lives in Memory\n- 0:13:34 Arrays Part 2: Adding, Removing, and Searching\n- 0:19:20 Linked Lists Part 1: The Node and the Pointer\n- 0:22:05 Linked L",
+        "id": 6800044,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=ybe6EGe_wjo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/ybe6EGe_wjo/hqdefault.jpg",
+        "title": "Learn Data Structures and Algorithms in Python with Visualizations",
+        "vote": 0
+    }
+]

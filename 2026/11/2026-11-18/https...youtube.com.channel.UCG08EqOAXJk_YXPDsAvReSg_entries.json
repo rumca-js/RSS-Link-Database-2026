@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unity",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-18T15:06:36.735472+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-18T13:54:19+00:00",
+        "description": "Explore Atrio, a new sample scene built by Unity Studio Productions showcasing Surface Cache GI, our new dynamic global illumination system in the Universal Render Pipeline (URP).\n\nEverything is dynamically lit and captured in real time. Surface Cache GI computes indirect diffuse lighting on the fly with full support for dynamic geometry, animated characters, and changing times of day\u2014all with zero lightmaps and no baking steps required. Paired with Screen Space Reflections, fast Ground Truth Ambient Occlusion (GTAO), AgX tonemapping, and modern upscaler support, URP delivers high-end visual fidelity at 60 FPS across both consoles and mobile.\n\nFocus on your creative vision without compromising runtime performance or device reach. Download the Atrio sample scene today on the Unity Asset Store to explore the setup firsthand.\n\n\ud83d\udd17 Available now: https://on.unity.com/4znLLZw\n\n[0:00] - Introduction\n[0:47] - GTAO - Ambient Occlusion \n[1:07] - Full resolution, 60 fps\n[1:48] - Iteration speed i",
+        "id": 6800844,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=QfXsGwrBgVg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 683,
+        "source_url": "https://youtube.com/channel/UCG08EqOAXJk_YXPDsAvReSg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/QfXsGwrBgVg/hqdefault.jpg",
+        "title": "Explore SCGI in Atrio | 3D stylized Unity sample",
+        "vote": 0
+    }
+]

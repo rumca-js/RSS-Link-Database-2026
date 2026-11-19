@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unreal Engine",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-18T18:59:22.561849+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-18T16:52:06+00:00",
+        "description": "Join us for a deep dive into full-body animation with the new MetaHuman Animator Markerless Motion Capture plugin, which turns ordinary video from a phone or webcam into animation for your MetaHuman characters. Michael Black from Epic\u2019s research team will explain how the technology works as Ben Kidd walks through using it on a real project, from capture to final shot. We\u2019ll be joined by filmmaker Martin Bell who shows what an independent creator can do with it.",
+        "id": 6802408,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=zd7DCFBLCcc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 685,
+        "source_url": "https://youtube.com/channel/UCBobmJyzsJ6Ll7UbfhI4iwQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/zd7DCFBLCcc/hqdefault.jpg",
+        "title": "MetaHuman Animator Markerless Motion Capture Deep Dive | Inside Unreal",
+        "vote": 0
+    }
+]

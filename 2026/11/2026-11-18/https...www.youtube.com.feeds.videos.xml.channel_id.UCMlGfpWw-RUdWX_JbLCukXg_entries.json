@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-18T15:15:25.217095+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-18T15:00:03+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nBack to Basics: Move Semantics - Ruslan Arutyunyan - CppCon 2026\n---\n\nMove semantics and perfect forwarding, introduced in C++11, are quite impactful features that still remain a source of confusion even for some experienced developers. This talk builds understanding from the ground up: what problem move semantics solves, how rvalue references enable it, and why the rules work the way they do. \n \n We start with the cost of unnecessary copies and how move constructors and move assignment operators let us transfer resources instead of duplicating them. We then look at how std::move doesn't actually move anything \u2014 and what it really does. From there we tackle the forwarding problem: why writing a single function that preserves the value category of its arguments is necessary, how forwarding references (also known as \"universal reference\" in the past) solve it, and what std::forward does under the hood. \n \n Along the way we cover the practical details that trip p",
+        "id": 6800873,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=3D4SY5vRZYk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/3D4SY5vRZYk/hqdefault.jpg",
+        "title": "Back to Basics: Move Semantics - Ruslan Arutyunyan - CppCon 2026",
+        "vote": 0
+    }
+]

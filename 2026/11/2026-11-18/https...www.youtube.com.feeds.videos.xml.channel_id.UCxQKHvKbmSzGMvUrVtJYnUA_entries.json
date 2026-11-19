@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Learn Linux TV",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-18T23:57:27.224546+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-18T20:28:10+00:00",
+        "description": "\ud83d\udcd8 Linux Troubleshooting Strategies ebook: https://learnlinux.link/sysadmin-ebook\n\nUbuntu runs GNOME, but not stock GNOME. Canonical adds its own dock, theme and other tweaks. In this video, I\u2019ll show you how to install a vanilla GNOME session on Ubuntu so you can log in to GNOME the way the upstream developers intended. After that, we\u2019ll go over a few more ways to debloat Ubuntu and make it your own.\n\n*\ud83c\udf93 Latest Courses & Books*\n  - *Ditch Microslop - Switch To Linux With My Latest Book* - https://learnlinux.link/ditch-windows\n  - *Grab My Linux Troubleshooting Strategies e-book* - https://learnlinux.link/troubleshooting-ebook\n  - *Learn Ansible With My Professional Course* - https://linux.video/ansible\n  - *Master Linux With My Other Courses* - https://learnlinux.link/courses\n\n*\ud83d\ude80 If This Video Helped You Out, Consider Supporting Me*\n  - *Buy Jay a Coffee* - https://learnlinux.link/donate\n  - *Download Jay's Custom Pi Distro with Sway Preinstalled* - https://learnlinux.link/pi-sway\n  -",
+        "id": 6804143,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=-9X-4_y8yzs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 997,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxQKHvKbmSzGMvUrVtJYnUA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/-9X-4_y8yzs/hqdefault.jpg",
+        "title": "How To Make Ubuntu Look Like Stock GNOME (De-Bloat Ubuntu)",
+        "vote": 0
+    }
+]

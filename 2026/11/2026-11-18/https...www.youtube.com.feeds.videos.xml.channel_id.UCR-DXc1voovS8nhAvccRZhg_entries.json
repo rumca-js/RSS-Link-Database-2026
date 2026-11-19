@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeff Geerling",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-18T15:24:18.101820+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-18T15:00:15+00:00",
+        "description": "Good times are meant to be shared, so I put mine in the NTP Pool.\n\nFor a good time:\n\n  - From time to time: https://time.jeffgeerling.com\n  - ALL the time: https://www.ntppool.org/en/use.html\n\nAnd if you want to set up your own Time Pi like I have, I put all the source and documentation here:\nhttps://github.com/geerlingguy/time-pi\n\nHomelabFest: https://www.homelabfest.org\n\nAlso check out my blog post with more details on the setup:\nhttps://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/\n\nSupport me on Patreon: https://www.patreon.com/geerlingguy\nSponsor me on GitHub: https://github.com/sponsors/geerlingguy\nMerch: https://www.redshirtjeff.com\n2nd Channel: https://www.youtube.com/@GeerlingEngineering\n3rd Channel: https://www.youtube.com/@Level2Jeff\n\nContents:\n\n00:00 - Rubidium in the Clock Tower\n00:53 - Having a good time (by myself)\n01:05 - GPS on my Time Pi\n02:14 - Public time for NIST\n03:59 - Joining the NTP pool\n04:45 - Sharing a good time, safely\n05:52 - Monitoring time and p",
+        "id": 6800904,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=fWXB5u4lXk0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 161,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR-DXc1voovS8nhAvccRZhg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/fWXB5u4lXk0/hqdefault.jpg",
+        "title": "I'm giving the whole Internet a good time",
+        "vote": 0
+    }
+]

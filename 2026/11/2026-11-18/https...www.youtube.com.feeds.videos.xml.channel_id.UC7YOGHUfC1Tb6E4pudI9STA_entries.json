@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mental Outlaw",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-18T04:02:44.973880+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-18T02:35:24+00:00",
+        "description": "In this video I show you how to use ntdevlabs tiny11builder to create a debloated windows 11 iso image.  Win11 ships with a lot of garbage (Copilot, ads, spyware and more) that are not necessary to run Windows 11 applications.  If you want a smaller windows 11 installation for running games or other windows 11 apps that don't run well under wine then I recommend using tiny11builder to create a minimalist windows image for running that software you need.\n\nTry tiny11 yourself\nhttps://github.com/ntdevlabs/tiny11builder\n\nMy merch is available at\nhttps://based.win/\n\nSubscribe to me on Odysee.com\nhttps://odysee.com/@AlphaNerd:8\n\n\u20bf\ud83d\udcb0\ud83d\udcb5\ud83d\udcb2Help Support the Channel by Donating Crypto\ud83d\udcb2\ud83d\udcb5\ud83d\udcb0\u20bf\n\nMonero\n45F2bNHVcRzXVBsvZ5giyvKGAgm6LFhMsjUUVPTEtdgJJ5SNyxzSNUmFSBR5qCCWLpjiUjYMkmZoX9b3cChNjvxR7kvh436\n\nBitcoin\nbc1qdc32p8035ztyvtm8t97gdcyhc26jg6cte9qc8n\n\nEthereum\n0xeA4DA3F9BAb091Eb86921CA6E41712438f4E5079\n\nLitecoin\nMBfrxLJMuw26hbVi2MjCVDFkkExz8rYvUF",
+        "id": 6797930,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=1-GlnimDG3I",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 214,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7YOGHUfC1Tb6E4pudI9STA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/1-GlnimDG3I/hqdefault.jpg",
+        "title": "Using tiny11builder to Debloat Windows 11",
+        "vote": 0
+    }
+]

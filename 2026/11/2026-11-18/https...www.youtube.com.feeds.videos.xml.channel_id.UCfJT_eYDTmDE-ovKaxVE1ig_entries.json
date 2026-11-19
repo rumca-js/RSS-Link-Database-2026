@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kevin Stratvert",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-18T08:08:05.645753+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-18T08:00:37+00:00",
+        "description": "Learn how to connect Claude to Blender and create 3D models and animations using everyday language. In this step-by-step tutorial, we'll install the Blender connector and MCP add-on, build a colorful 3D cookie shop, add objects, change the lighting and textures, animate the camera and a rotating cookie, and render the result as a 1080p MP4 video.\n\nHost: Kevin Stratvert\n\n\ud83d\udcda RESOURCES\n- Download Blender: https://www.blender.org/download/\n- Download Claude Desktop: https://claude.com/download\n- Official Blender MCP Server and add-on: https://www.blender.org/lab/mcp-server/\n\n\u231a TIMESTAMPS\n0:00 - Introduction\n0:18 - Get Blender and Claude Desktop\n0:39 - Install the Blender connector in Claude\n1:01 - Install the Blender MCP add-on\n2:03 - Create a 3D cookie shop with Claude\n3:07 - Add tables, chairs, and flowers\n3:38 - Change lighting, textures, and the sign\n4:06 - Animate the camera and cookie\n4:47 - Render and export an MP4 video\n5:16 - Finished animation and next steps\n\n\ud83d\udcfa RELATED VIDEOS\n- B",
+        "id": 6798672,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=hnpNRoKdneo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 958,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfJT_eYDTmDE-ovKaxVE1ig",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/hnpNRoKdneo/hqdefault.jpg",
+        "title": "How to Connect Claude to Blender",
+        "vote": 0
+    }
+]

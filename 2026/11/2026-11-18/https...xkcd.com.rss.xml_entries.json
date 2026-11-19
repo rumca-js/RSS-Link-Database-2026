@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-18T16:44:23.786521+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-18T05:00:00+00:00",
+        "description": "<img src=\"https://imgs.xkcd.com/comics/voyager_crash.png\" title=\"[Several months later] Actaully, it looks like what it hit a few months ago was just the START of the crystal sphere zone. New data confirms Voyager 1 has now struck the ACTUAL crystal sphere.\" alt=\"[Several months later] Actaully, it looks like what it hit a few months ago was just the START of the crystal sphere zone. New data confirms Voyager 1 has now struck the ACTUAL crystal sphere.\" />",
+        "id": 6801424,
+        "language": "en",
+        "link": "https://xkcd.com/3326",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 573,
+        "source_url": "https://xkcd.com/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://imgs.xkcd.com/comics/voyager_crash.png",
+        "title": "Voyager Crash",
+        "vote": 0
+    }
+]
