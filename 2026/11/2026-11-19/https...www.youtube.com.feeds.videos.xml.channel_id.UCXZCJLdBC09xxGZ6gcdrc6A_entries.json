@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "OpenAI",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-19T13:30:17.313643+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-19T11:38:57+00:00",
+        "description": "David Lee, Director of Innovation & Growth at Holiday Extras, calls his dot, Brian, on his morning commute. They talk through the meetings ahead, and Brian can have a report ready by the time David gets to his desk. His colleague Liam Thompson, VP of AI Innovation, calls his dot Beast. The day after Holiday Extras launched a new app feature, Beast checked how it was performing and brought Liam the numbers before he\u2019d even asked. \n\nGet to know David, Liam and their dots in the Holiday Extras story:  https://openai.com/business/customer-stories/holiday-extras-dots/",
+        "id": 6807344,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=ikNf7eW8CHk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 935,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXZCJLdBC09xxGZ6gcdrc6A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/ikNf7eW8CHk/hqdefault.jpg",
+        "title": "Meet Brian and Beast, the dots at work at Holiday Extras",
+        "vote": 0
+    }
+]

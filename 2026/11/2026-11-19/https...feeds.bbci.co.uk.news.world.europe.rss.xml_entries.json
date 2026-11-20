@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-19T08:12:50.583362+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-19T06:52:54+00:00",
+        "description": "US President Donald Trump has met Russian President Vladimir Putin on the sidelines of the Asia-Pacific Economic Co-operation (Apec) summit in the southern Chinese city of Shenzhen.",
+        "id": 6805738,
+        "language": "en-gb",
+        "link": "https://www.bbc.co.uk/news/videos/cm4gn31yn0x9o",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 523,
+        "source_url": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2aa8/live/2a469140-e3f0-11f1-99a1-253766e7ad8b.jpg",
+        "title": "Trump says he and Putin have a 'great relationship' at meeting",
+        "vote": 0
+    }
+]

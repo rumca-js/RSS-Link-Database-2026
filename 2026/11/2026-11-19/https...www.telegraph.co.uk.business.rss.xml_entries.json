@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Chris Price",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-19T21:57:53.335410+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-19T21:34:56+00:00",
+        "description": "Anthropic achieves $2tn valuation as shares soar",
+        "id": 6810496,
+        "language": "en-UK",
+        "link": "https://www.telegraph.co.uk/business/2026/11/19/anthropic-ipo-listing-nasdaq-ai-claude-ftse-100-markets",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 81,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 354,
+        "source_url": "https://www.telegraph.co.uk/business/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Anthropic achieves $2tn valuation as shares soar",
+        "vote": 0
+    }
+]

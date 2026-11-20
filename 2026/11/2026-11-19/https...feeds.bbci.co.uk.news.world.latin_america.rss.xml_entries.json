@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-19T14:03:14.437788+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-19T13:31:23+00:00",
+        "description": "The US Secretary of Defence says Venezuela has 'gone from our most aggressive regional threat to a compliant security partner'.",
+        "id": 6807549,
+        "language": "en-gb",
+        "link": "https://www.bbc.co.uk/news/articles/cmwy8pyqlq5vo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 524,
+        "source_url": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18e1/live/23556d10-e400-11f1-877f-2bb5452e5ffc.jpg",
+        "title": "Venezuela signs military deal with US less than a year after Maduro's removal",
+        "vote": 0
+    }
+]

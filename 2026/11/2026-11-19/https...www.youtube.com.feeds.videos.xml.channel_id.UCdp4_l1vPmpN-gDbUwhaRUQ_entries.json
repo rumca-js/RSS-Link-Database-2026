@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Branch Education",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-19T19:55:15.721122+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-19T19:20:19+00:00",
+        "description": "You\u2019ve probably heard that computers run on binary, 1s and 0s. But inside a computer, there aren\u2019t any actual 1s and 0s moving around, so what does binary physically mean?\n\nWhen we zoom into a CPU, we find billions of transistors connected by a maze of tiny metal wires. Running between them are power and ground rails. The power rail sits at roughly 0.7 to 1.3 volts and represents a 1. The ground rail sits at 0 volts and represents a 0. As transistors switch on and off, each logic gate\u2019s output connects to either the power rail or the ground rail. That\u2019s how voltage becomes the 1s and 0s behind everything your computer does.\n\nWant to see how it all fits together? Watch the full video on how computers work: https://youtu.be/_Pqfjer8-O4\n\nSubscribe for more 3D-animated explainers on how technology works.\n\n#binary #computers #cpu #transistors #engineering #shorts #brancheducation",
+        "id": 6809868,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/ETHe--0iTic",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 841,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCdp4_l1vPmpN-gDbUwhaRUQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/ETHe--0iTic/hqdefault.jpg",
+        "title": "What exactly IS Binary?",
+        "vote": 0
+    }
+]

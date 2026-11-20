@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-19T13:18:14.263370+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-19T12:00:08+00:00",
+        "description": "Learn more about Loop Engineering here \u2192 https://ibm.biz/~o7OvraY9S\n\nNot every AI agent should have the same autonomy. Martin Keen explains four AI agent loops: interactive, delegated, scheduled, and event-driven. Learn how goals, triggers, stopping conditions, and human review shape each agentic workflow.\n\n 00:00 \u2013 Understand How AI Agent Loops Work\n 00:19 \u2013 Follow the Goal, Act, Observe & Adjust Cycle\n 01:12 \u2013 Decide Who Controls the AI Agent Loop\n 01:31 \u2013 Use Interactive Loops for Human-Led Tasks\n 03:30 \u2013 Delegate Stopping Conditions to AI\n 05:17 \u2013 Schedule Recurring AI Agent Workflows\n 06:40 \u2013 Trigger AI Agent Loops with Events\n 07:15 \u2013 Review AI Work with a Second Agent\n 08:01 \u2013 Escalate Agent Exceptions to Humans\n 08:32 \u2013 Compare the 4 Types of AI Agent Loops\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/~Urdqp6qQ4\n\nAI was used in the creation of the transcript and metadata for this video.\n\n#aiagents #agenticai #aiautomation #hum",
+        "id": 6807254,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=4LINhsEZEDI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/4LINhsEZEDI/hqdefault.jpg",
+        "title": "4 Types of AI Agent Loops: From Human-Led to Autonomous",
+        "vote": 0
+    }
+]

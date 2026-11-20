@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-19T15:22:59.637670+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-19T15:00:34+00:00",
+        "description": "Should governments intervene to substantially slow the progress of frontier AI? In the inaugural YC debate, Jacob Coxon, an ex-Anthropic and OpenAI researcher, faces off against Robin Hanson, an economist at GMU, about AI takeoff and what government regulation should (or shouldn\u2019t) do about it.\n\nChapters:\n00:00 - YC Debate Topic: Should We Slow Down AI?\n02:42 - Jacob's case: Superintelligence by 2028\n07:02 - Models already behaving in ways we don't understand\n09:18 - Robin's case: the danger of abstraction\n11:22 - Why new technologies take decades to diffuse\n13:12 - Liability instead of regulation\n14:50 - Why regulating AI is different from regulating drugs\n16:00 - Jacob's rebuttal: general intelligence is one number\n17:36 - Why normal liability won't cover extinction risk\n19:52 - Robin's rebuttal: regulating this means regulating all compute\n21:44 - AI as our descendants\n23:38 - Diminishing returns\n24:40 - Direct exchange: is it just the rate of change?\n26:48 - How long until most co",
+        "id": 6807993,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=lwfewYL7X0o",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/lwfewYL7X0o/hqdefault.jpg",
+        "title": "YC Debates: Should We Slow Down AI?",
+        "vote": 0
+    }
+]

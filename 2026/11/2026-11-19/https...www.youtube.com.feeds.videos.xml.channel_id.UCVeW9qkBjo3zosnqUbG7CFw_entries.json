@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Hammond",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-19T19:13:46.711208+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-19T16:50:42+00:00",
+        "description": "What happens when you bring a malware research environment into Minecraft? I'm exploring how to connect the game to real analysis infrastructure, including MWDB, and turn an unconventional interface into something genuinely useful.\n\nWatch the full video: https://youtu.be/xGpIgLJ9ZIM?si=QfVBu1PH3FGhuBzc",
+        "id": 6809591,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/eoE8WQALJrc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 959,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVeW9qkBjo3zosnqUbG7CFw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/eoE8WQALJrc/hqdefault.jpg",
+        "title": "Minecraft Malware Lab",
+        "vote": 0
+    }
+]

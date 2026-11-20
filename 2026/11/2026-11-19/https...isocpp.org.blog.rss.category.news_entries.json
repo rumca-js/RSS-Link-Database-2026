@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Blog Staff",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-19T22:03:47.598780+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-19T21:45:38+00:00",
+        "description": "<p data-pm-slice=\"1 1 []\">\n\t<img alt=\"RaymondChen_5in-150x150.jpg\" src=\"https://isocpp.org/files/img/RaymondChen_5in-150x150.jpg\" style=\"width: 150px; margin: 10px; float: right;\" />How can you ensure a derived C++ class implements a required method without relying on comments or runtime assertions? This article explores a simpler approach&mdash;leaving the method unimplemented in the base class&mdash;and demonstrates how C++/WRL, C++/WinRT, and plain C++ catch missing implementations at compile time.</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://devblogs.microsoft.com/oldnewthing/20260827-00/?p=112651/\">On forcing all derived classes to implement a specific non-virtual method, part 1</a></h3>\n\t<p>\n\t\tby Raymond Chen</p>\n</blockquote>\n<p>\n\tFrom the article:</p>\n<blockquote>\n\t<p>\n\t\tYou may have a base class that implements only partial functionality and relies on the derived class to do the rest. How do you make sure that the derived class does the rest?</p>\n\t<p>\n\t\tFor concreteness, let&rsq",
+        "id": 6810533,
+        "language": "en",
+        "link": "https://isocpp.org//blog/2026/11/on-forcing-all-derived-classes-to-implement-a-specific-non-virtual-method-p",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://isocpp.org/files/img/RaymondChen_5in-150x150.jpg",
+        "title": "On forcing all derived classes to implement a specific non-virtual method, part 1 -- Raymond Chen",
+        "vote": 0
+    }
+]

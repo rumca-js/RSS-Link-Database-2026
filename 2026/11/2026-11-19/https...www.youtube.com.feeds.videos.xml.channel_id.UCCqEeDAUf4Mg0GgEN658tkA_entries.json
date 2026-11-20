@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Chris Stuckmann",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-19T19:56:47.336244+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-19T18:00:20+00:00",
+        "description": "Chris Stuckmann reviews The Further Mis-Adventures of Cliff Booth, starring Brad Pitt, Elizabeth Debicki, Scott Caan, Carla Gugino, Yahya Abdul-Mateen II, Peter Weller, Timothy Olyphant. Directed by David Fincher.",
+        "id": 6809879,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Hz6byObooEE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 618,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCqEeDAUf4Mg0GgEN658tkA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/Hz6byObooEE/hqdefault.jpg",
+        "title": "The Further Mis-Adventures of Cliff Booth - Movie Review",
+        "vote": 0
+    }
+]

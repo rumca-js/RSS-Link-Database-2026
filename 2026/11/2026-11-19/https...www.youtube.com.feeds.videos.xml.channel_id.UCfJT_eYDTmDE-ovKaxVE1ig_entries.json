@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kevin Stratvert",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-19T22:57:14.842290+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-19T20:37:27+00:00",
+        "description": "Learn how to build an app with Microsoft Copilot without writing a single line of code. For this video, I used Microsoft Copilot Code in Frontier. In this step-by-step Copilot Code tutorial, we'll turn an Excel spreadsheet into an interactive order management app for the Kevin Cookie Company. You'll learn how to create a sales dashboard, filter customer orders, add and edit orders, and publish and share your app with colleagues.\r\n\r\nHost: Kevin Stratvert\r\nSponsored by: Microsoft\r\n\r\n\ud83d\udcda RESOURCES\r\n- Sample Excel spreadsheet: https://1drv.ms/x/c/b09f9559f6a16b6c/IQC5y90Es0rNR7HofEmalGEKAYjrL5QoIp3RFFKPzUbnw98?e=2eVQh6\r\n- Learn more about Microsoft Copilot: https://aka.ms/Kevin_NewCopilotYT\r\n\r\nCopilot Code availability depends on your organization's access and settings. Some capabilities are still rolling out.\r\n\r\nPROMPT 1 \u2014 BUILD THE APP\r\nCreate a modern order management app for Kevin Cookie Company using the attached Excel spreadsheet as the starting data. Include a dashboard showing total",
+        "id": 6810874,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=meVsuyn6XJg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 958,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfJT_eYDTmDE-ovKaxVE1ig",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/meVsuyn6XJg/hqdefault.jpg",
+        "title": "How to Build an App with Microsoft Copilot (No Coding!)",
+        "vote": 0
+    }
+]

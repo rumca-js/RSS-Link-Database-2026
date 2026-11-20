@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Starchy Grant",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-20T00:35:49.196355+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-19T23:30:50+00:00",
+        "description": "<div class=\"field field--name-body field--type-text-with-summary field--label-hidden\"><div class=\"field__items\"><div class=\"field__item even\"><p>It's been a tough couple of weeks for anyone trying to <a href=\"https://www.cnn.com/2026/11/12/tech/microsoft-outage-cripples-office-workers-nationwide\">use email</a>, <a href=\"https://www.aerotime.aero/articles/faa-nationwide-ground-stop-atc-communications-november-2026\">fly</a>, <a href=\"https://gizmodo.com/chase-bank-of-america-and-wells-fargo-are-experiencing-app-outages-2000840582\">spend money</a>, <a href=\"https://www.inc.com/moses-jeanfrancois/apple-outage-hit-stores-icloud-app-store-just-revealed-cause/91438286\">use an Apple device</a>*, or do <a href=\"https://www.theguardian.com/us-news/2026/nov/17/nsa-national-security-classified-communications-network-down\">signals intelligence</a>. Technical service outages are nothing new, but why do so many big ones seem to be happening all at once? Are hackers, AI, and international conflicts t",
+        "id": 6811286,
+        "language": "en",
+        "link": "https://www.eff.org/deeplinks/2026/11/outage-chaos-who-turned-all-computer",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 101,
+        "source_url": "https://www.eff.org/rss/updates.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Outage Chaos: Who Turned Off All The Computer?",
+        "vote": 0
+    }
+]

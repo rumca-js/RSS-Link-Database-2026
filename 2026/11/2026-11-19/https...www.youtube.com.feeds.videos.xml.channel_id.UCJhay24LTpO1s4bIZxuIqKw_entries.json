@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ACCU Conference",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-19T17:22:19.612394+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-19T15:37:42+00:00",
+        "description": "ACCU Membership: https://tinyurl.com/ydnfkcyn\n---\n\nHow to Properly Implement Code Quality Gates in your Development Process - Paul Jansen - ACCU 2026\n---\n\nUsing Quality Gates in your development process is a great way to encourage software quality improvements. However, bad quality gates cause a lot of frustration in organizations, so you should carefully consider how you implement them.\n\nWe have implemented quality gates for thousands of industrial software projects (mostly C and C++), and during this talk we share our insights and best practises. We will answer questions like:\n\n- Which quality metrics should you gate?\n- Where in the process should you put your gates?\n- Should gates be absolute (no violations allowed) or relative (no violations compared to the previous analysis)?\n\nSlides: https://github.com/Digital-Medium/ACCU-On-Sea-Slides-2026\n---\n\nPaul Jansen\n\nPaul Jansen (1967) graduated from the University of Amsterdam in computing science and philosophy (both cum laude). At Phi",
+        "id": 6808848,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=udHksfcEaoQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 421,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJhay24LTpO1s4bIZxuIqKw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/udHksfcEaoQ/hqdefault.jpg",
+        "title": "How to Properly Implement Code Quality Gates in your Development Process - Paul Jansen - ACCU 2026",
+        "vote": 0
+    }
+]

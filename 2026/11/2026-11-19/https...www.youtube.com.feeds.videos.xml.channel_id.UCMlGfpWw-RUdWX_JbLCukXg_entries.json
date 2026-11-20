@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-19T17:22:58.222689+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-19T15:00:19+00:00",
+        "description": "C++11 was a massive turning point for modern software development. In this video, we explore why C++11 changed everything about how we write code, moving the language from its C-based roots into a powerful, modern era.\n\nWe\u2019ll break down the game-changing features that revolutionized C++ programming, including:\n\n- Auto type deduction for cleaner, more readable code.\n- Smart pointers that eliminated manual memory management headaches.\n- Move semantics that drastically improved performance.\n- Lambda expressions for functional programming patterns.\n- Range-based for loops and much more.\n\nWhether you are a seasoned C++ developer or just getting started, understanding the impact of C++11 is essential for writing efficient and maintainable modern C++. \n\nIf you enjoyed this deep dive into C++ history and features, make sure to like the video and subscribe for more programming tutorials, language deep dives, and C++ tips.\n\n---\n\nWork at Hudson River Trading (HRT): https://tinyurl.com/safxfctf\n-",
+        "id": 6808851,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/SiMo5mSjDdU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/SiMo5mSjDdU/hqdefault.jpg",
+        "title": "Why C++11 changed everything about your code #cpp #cplusplus #programming",
+        "vote": 0
+    }
+]
