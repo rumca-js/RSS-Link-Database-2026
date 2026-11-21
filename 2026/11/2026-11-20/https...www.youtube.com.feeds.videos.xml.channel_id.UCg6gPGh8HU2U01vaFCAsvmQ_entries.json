@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Chris Titus Tech",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-20T13:16:47.293634+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-20T12:15:38+00:00",
+        "description": "Install Windows 11 with less bloat and more control. I walk through downloading the official ISO, customizing it with WinUtil, creating a bootable USB, and setting up a local account. Then we tackle updates, drivers, and the tweaks I use for a clean desktop.\n\n00:00 Before You Install\n03:09 Customize Your Windows ISO\n06:31 Create Your Install USB\n09:55 Installing Windows 11\n12:14 Updates and Drivers\n16:36 Debloat and Final Tweaks\n\n\u25ba\u25ba Digital Downloads \u279c https://www.cttstore.com\n\u25ba\u25ba Patreon \u279c https://www.patreon.com/christitustech\n\u25ba\u25ba Twitch \u279c https://www.twitch.tv/christitustech\n\u25ba\u25ba Website and Guides \u279c https://christitus.com",
+        "id": 6814004,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=9Nj9uAucgns",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 444,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCg6gPGh8HU2U01vaFCAsvmQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/9Nj9uAucgns/hqdefault.jpg",
+        "title": "My Definitive Windows 11 Install Guide",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Radhika Rajkumar",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-20T17:37:14.114989+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-20T17:03:37+00:00",
+        "description": null,
+        "id": 6815589,
+        "language": "en-US",
+        "link": "https://www.zdnet.com/innovation/signal-restricts-screenshots-over-ai-agent-concerns",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 406,
+        "source_url": "https://www.zdnet.com/news/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.zdnet.com/wp-content/uploads/sites/3/protecting-your-privacy-1.png",
+        "title": "Signal to restrict screenshots over AI agent concerns \u2013 again",
+        "vote": 0
+    }
+]

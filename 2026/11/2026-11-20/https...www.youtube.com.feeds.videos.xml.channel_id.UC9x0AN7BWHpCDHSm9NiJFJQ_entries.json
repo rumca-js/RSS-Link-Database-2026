@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NetworkChuck",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-20T18:50:34.485914+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-20T17:25:28+00:00",
+        "description": "\ud83d\udd12 Get $200 off your ticket to Zero Trust World 2027, ThreatLocker's learning event, with code ZTWNETWORKCHUCK27: https://ntck.co/ztw\n\n\ud83d\udee1\ufe0f Get 71% off Coveron with code chuckcoveron: https://ntck.co/coveron\n\n\ud83c\udfa5 Check any video before it fools you. Run suspicious clips through Bitdefender RealCheck to see if it's a deepfake meant to scam you: https://bitdefend.me/RealCheckNC\n\nI can code anything with AI now, but I can feel the limits, so I sat down with Matt Pocock (the skills guy, and the creator of Total TypeScript) and had him show me how he actually builds software with agents. AI is great at tactical programming and terrible at strategic programming, and Matt says that strategic part is your job. He ran his Grill with Docs skill live on his own video editor, told me why he keeps Opus 5.5 on medium effort, and walked me through his whole loop: grill, spec, tickets, sub agents in worktrees, code review, retro. In this video you'll learn how to get aligned with an agent before it writes",
+        "id": 6816135,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=mU8WKII1gpk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 565,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9x0AN7BWHpCDHSm9NiJFJQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/mU8WKII1gpk/hqdefault.jpg",
+        "title": "How to Actually Code with AI (ft. Matt Pocock)",
+        "vote": 0
+    }
+]

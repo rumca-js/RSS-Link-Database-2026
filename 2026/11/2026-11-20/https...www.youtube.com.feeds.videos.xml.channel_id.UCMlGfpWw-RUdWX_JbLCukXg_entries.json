@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-20T17:10:29.250615+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-20T15:07:19+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nSame Bits Without Losing MIPS: Reproducible Numerics at Full Hardware Speed - Andrew Drakeford\n---\n\nFloating point has a reputation for betrayal. Change the thread count, vector width, compiler flags, reduction tree, or target architecture, and the low bits can move. Parallel algorithms make this worse: the standard often specifies the operation, but not the numerical expression whose result must be reproduced. This talk asks a provocative question: what if reproducible numerics did not have to be slow? \n \n We will show reproducible, deterministic implementations of reduce and scan that exhibit better error behavior on hostile floating-point workloads and can match or beat conventional standard-library implementations on realistic workloads. The trick is not to freeze the execution schedule. It is to specify the expression being computed, then let the implementation use SIMD, threading, blocking, tiling, and platform-specific strategies to compute that express",
+        "id": 6815426,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=-5yzXMyyV98",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/-5yzXMyyV98/hqdefault.jpg",
+        "title": "Same Bits Without Losing MIPS: Reproducible Numerics at Full Hardware Speed - Andrew Drakeford",
+        "vote": 0
+    }
+]

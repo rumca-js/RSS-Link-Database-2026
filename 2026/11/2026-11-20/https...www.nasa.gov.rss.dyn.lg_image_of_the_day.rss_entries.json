@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-20T16:36:26.780888+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-20T15:54:00+00:00",
+        "description": "This collage shows 49 drill holes captured by NASA\u2019s Curiosity Mars rover as of November 2026.",
+        "id": 6815149,
+        "language": "en-us",
+        "link": "https://www.nasa.gov/image-detail/pia26804",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 485,
+        "source_url": "https://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "NASA's Curiosity Mars Rover Collects Samples",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Eve Andersson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-20T17:47:16.648323+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-20T17:00:00+00:00",
+        "description": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Watch_Duty_Hero_Higher_Res.max-600x600.format-webp.webp\">Watch Duty uses Gemini to turn noisy fire radio into text, spotting wildfire dispatches in under 30 seconds so alerts go out faster.",
+        "id": 6815638,
+        "language": "en-us",
+        "link": "https://blog.google/company-news/outreach-and-initiatives/google-org/watch-duty-gemini-tool",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 1018,
+        "source_url": "https://blog.google/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Watch_Duty_Hero_Higher_Res.max-600x600.format-webp.webp",
+        "title": "How Watch Duty is using Gemini to get wildfire alerts out faster",
+        "vote": 0
+    }
+]

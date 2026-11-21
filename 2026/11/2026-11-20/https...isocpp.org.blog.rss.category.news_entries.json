@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Blog Staff",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-20T23:05:23.128706+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-20T21:45:56+00:00",
+        "description": "<p>\n\t<img alt=\"RaymondChen_5in-150x150.jpg\" src=\"https://isocpp.org/files/img/RaymondChen_5in-150x150.jpg\" style=\"width: 150px; margin: 10px; float: right;\" /></p>\n<p data-pm-slice=\"1 1 []\">\n\tBuilding on the previous article, Raymond Chen explores how deleted functions can produce clearer compiler errors when derived classes fail to implement required non-virtual methods. He also examines C++26&rsquo;s new custom diagnostic messages for deleted functions, their compiler support, and why this technique works in C++/WinRT but not C++/WRL.</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://devblogs.microsoft.com/oldnewthing/20260828-00/?p=112654/\">On forcing all derived classes to implement a specific non-virtual method, part 2</a></h3>\n\t<p>\n\t\tby Raymond Chen</p>\n</blockquote>\n<p>\n\tFrom the article:</p>\n<blockquote>\n\t<p>\n\t\tLast time, we observed that <a href=\"https://devblogs.microsoft.com/oldnewthing/20260827-00/?p=112651\" title=\"On forcing all derived classes to implement a specific non-virtual",
+        "id": 6817453,
+        "language": "en",
+        "link": "https://isocpp.org//blog/2026/11/on-forcing-all-derived-classes-to-implement-a-specific-non-virtual-met",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://isocpp.org/files/img/RaymondChen_5in-150x150.jpg",
+        "title": "On forcing all derived classes to implement a specific non-virtual method, part 2 -- Raymond Chen",
+        "vote": 0
+    }
+]

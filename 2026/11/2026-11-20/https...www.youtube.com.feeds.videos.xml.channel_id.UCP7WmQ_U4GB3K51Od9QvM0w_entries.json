@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "David Bombal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-20T16:55:48.615790+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-20T15:00:39+00:00",
+        "description": "What happens when you give 128 AI agents the Linux kernel and ask them to find bugs? This team of security researchers say that they found more than 1,000 issues after changing how the agents worked and which patterns they looked for.\n\n#linux #cybersecurity #ai",
+        "id": 6815330,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/bnbqaqRzd54",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 984,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP7WmQ_U4GB3K51Od9QvM0w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/bnbqaqRzd54/hqdefault.jpg",
+        "title": "How Codex Found 1,000+ Linux Kernel Bugs",
+        "vote": 0
+    }
+]
