@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Hammond",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-21T18:49:07.987806+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-21T15:01:31+00:00",
+        "description": "This Minecraft security research mod is getting more interesting. We're now exploring real open directories on the internet and viewing file contents inside the game. But that raises a bigger question: how do we sandbox the interaction and keep the environment secure?\n\nWatch the full video: https://youtu.be/ncYAPgzjD90?si=9rYPiv5yLWTer-AT",
+        "id": 6820686,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/Oj-vfKqtoik",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 959,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVeW9qkBjo3zosnqUbG7CFw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/Oj-vfKqtoik/hqdefault.jpg",
+        "title": "Minecraft Security Sandbox",
+        "vote": 0
+    }
+]

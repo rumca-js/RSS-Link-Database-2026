@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Digital Foundry",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-21T18:34:30.079741+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-21T15:22:33+00:00",
+        "description": "Many thanks to Alienware for sponsoring our PC content. To learn more about Alienware\u2019s 39-inch 5K OLED Gaming Monitor, check it out here: https://aw.gg/AW3926QW\n\nWhy is it that games only support vendor-supplied upscalers? What if a third party comes along with something worth inclusion? Just one of the questions posed by the arrival of Apex Neural Rendering frame generation, tested here in beta form. Super resolution and ray reconstruction tech is currently in development, so... is it a contender?\n\nExamine the DF Website: https://digitalfoundry.net\n\nGo here to check out DF merch! https://store.digitalfoundry.net\n\nSubscribe for more Digital Foundry: http://bit.ly/DFSubscribe\n\n00:00 - Introduction & Apex Neural Rendering Overview\n02:13 - Sponsor: Alienware AW3926QW Ultrawide Monitor\n03:45 - Test Setup & Performance: Marvel\u2019s Spider-Man Remastered (2x FG)\n05:33 - Performance: Cyberpunk 2077 (3x MFG)\n06:14 - Performance: Crimson Desert (4x MFG)\n06:49 - Apex's New Frame-Accurate Comparis",
+        "id": 6820629,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=fIm5v-WK054",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 696,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9PBzalIcEQCsiIkq36PyUA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/fIm5v-WK054/hqdefault.jpg",
+        "title": "Apex Neural Rendering vs DLSS Frame Generation - Image Quality, Performance + More",
+        "vote": 0
+    }
+]

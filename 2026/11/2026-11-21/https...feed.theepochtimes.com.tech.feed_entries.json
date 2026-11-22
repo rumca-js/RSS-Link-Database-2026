@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Panos Mourdoukoutas",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-21T13:28:15.996669+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-21T13:00:12+00:00",
+        "description": "Wall Street\u2019s fear gauge surged 85.96 percent to 35.89, reflecting a sharp deterioration in investor sentiment.",
+        "id": 6819669,
+        "language": "en-US",
+        "link": "https://www.theepochtimes.com/business/wall-street-review-ai-fears-trigger-worst-weekly-tech-sell-off-in-more-than-6-years-6127740",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 105,
+        "source_url": "https://feed.theepochtimes.com/tech/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.theepochtimes.com/assets/uploads/2026/11/21/id6127757-GettyImages-2306070273-1080x720.jpg",
+        "title": "Wall Street Review: AI Fears Trigger Worst Weekly Tech Sell-Off in More Than 6 Years",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ACCU Conference",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-21T16:28:17.255828+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-21T16:10:25+00:00",
+        "description": "ACCU Membership: https://tinyurl.com/ydnfkcyn\n---\n\nThe Performance Mindset - Mathieu Ropert - ACCU 2026\n---\n\nSoftware performance doesn't happen on accident, nor can it be an afterthought. Through my career I have found that with the right combination of factors most non-trivial codebases can achieve significant performance improvements.\n\nI will illustrate this idea through the story of a 2x performance patch I made for a game as a side project by explaining not just what was done, but more importantly how and why it was possible to achieve in the first place.\n\nWhile we will show some code and explain how it was made faster, this talk will put a strong emphasis on a wider spectrum such as profiling, learning, planning, curiosity and personal motivation.\n\nSlides: https://github.com/Digital-Medium/ACCU-On-Sea-Slides-2026\n---\n\nMathieu Ropert\n\nFrench C++ consultant and trainer with a passion for game development and performance. Past speaker at CppCon, Meeting C++, ACCU and code::dive. Us",
+        "id": 6820261,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=vW-xgQM0iwk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 421,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJhay24LTpO1s4bIZxuIqKw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/vW-xgQM0iwk/hqdefault.jpg",
+        "title": "The Performance Mindset - Mathieu Ropert - ACCU 2026",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NetworkChuck",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-21T18:09:45.440379+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-21T15:00:16+00:00",
+        "description": "Try ChatGPT + Codex: www.chatgpt.com/download/\nI built my own streaming service that runs entirely in the terminal, built by Codex running GPT-6 Astra. Go watch something: ssh terminal.movie \ud83c\udf7f\n@ChatGPT @OpenAI #ChatGPT_Partner #ad",
+        "id": 6820586,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/oHLQj750M9U",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 565,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9x0AN7BWHpCDHSm9NiJFJQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/oHLQj750M9U/hqdefault.jpg",
+        "title": "I Built a Streaming Service Inside the Terminal",
+        "vote": 0
+    }
+]

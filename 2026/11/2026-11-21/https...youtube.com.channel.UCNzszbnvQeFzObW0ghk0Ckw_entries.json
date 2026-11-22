@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Dave's Garage",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-21T21:27:53.913496+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-21T20:49:22+00:00",
+        "description": "My LED sign took down two PDP-11s.  Not with a power surge. Not with a bad cable. With a single bit in a MAC address.\n\nEverything looked fine. The sign was playing. The fast switches had bandwidth to spare. The PDP-11s were perfectly responsive at their own consoles. But the moment I tried to use them over the network, 90% of the packets vanished. Telnet sessions became unusable. Both machines \u2014 one Unibus, one QBus \u2014 started dropping traffic at the same time.\n\nAfter swapping cables, ports, adapters, and even entire OS installs, I finally noticed the switch was shoving nearly 10 Mbps of multicast frames at machines that only have 10 Mbps half-duplex links. Upstream the traffic was 22 Mbps. Downstream on the PDP ports it was maxing the pipe. The switch had logged tens of millions of transmit drops.\n\nThe culprit turned out to be the Colorlight receiver card driving my LED banner. It speaks raw Ethernet (no IP) to a fixed MAC address whose low bit marks it as multicast. The switch floode",
+        "id": 6821184,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=o1rMPRp7HpM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 907,
+        "source_url": "https://youtube.com/channel/UCNzszbnvQeFzObW0ghk0Ckw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/o1rMPRp7HpM/hqdefault.jpg",
+        "title": "My LED Sign Took Down Two PDP-11s \u2014 The One-Bit Culprit",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-21T19:55:42.512859+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-21T18:57:57+00:00",
+        "description": "Nabu Casa has introduced the Home Assistant Connect AUX-2, a compact ESP32-S3-based device that combines audio streaming, serial control, Bluetooth connectivity, and USB expansion. Designed to work with an existing Home Assistant system, it connects audio equipment and smart home devices through Ethernet, Wi-Fi, and Power over Ethernet. The Connect AUX-2 is powered by Espressif&#8217;s [&#8230;]",
+        "id": 6820929,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/home-assistant-connect-aux-2-is-a-smart-home-hub-with-poe-and-audio-streaming",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Home Assistant Connect AUX-2 brings PoE and audio streaming to smart homes",
+        "vote": 0
+    }
+]

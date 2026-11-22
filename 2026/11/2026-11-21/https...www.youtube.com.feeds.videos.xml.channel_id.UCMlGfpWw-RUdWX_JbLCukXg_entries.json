@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-21T16:35:23.904179+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-21T15:00:32+00:00",
+        "description": "https://cppcon.org/\n---\n\nIs Your AI Model Lying to You? The Reproducibility Problem\n\nAre you getting the same results from your AI models every time you run them? In this video, we dive deep into the \"Reproducibility Problem\" in Artificial Intelligence. \n\nWe explore why AI models often \"lie\" or provide inconsistent outputs, the technical reasons behind non-deterministic behavior, and why reproducibility is the biggest hurdle in modern machine learning. Whether you are a data scientist, an AI enthusiast, or just curious about how these models actually work, understanding the challenge of consistent AI output is critical.\n\nTopics covered in this video:\n- Why AI models struggle with reproducibility.\n- The impact of randomness and stochastic processes in LLMs.\n- How environmental factors and library updates change your results.\n- Best practices for version control and environment management in AI.\n- Why \"black box\" models are harder to trust than you think.\n\nIf you enjoyed this breakdown ",
+        "id": 6820273,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/LxH_NtoewN0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/LxH_NtoewN0/hqdefault.jpg",
+        "title": "Is Your AI Model Lying to You? The Reproducibility Problem",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ted Scheinman",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-21T11:11:35.057254+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-21T11:00:07+00:00",
+        "description": "Electricity doesn\u2019t merely destroy; it can also create, writes Ted Scheinman",
+        "id": 6819231,
+        "language": "en-UK",
+        "link": "https://time.com/article/2026/11/21/ect-is-a-controversial-treatment-of-last-resort-i-wish-i-d-gotten-it-sooner",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 317,
+        "source_url": "https://time.com/tech/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://static.time.com/v3/assets/bltea6093859af6183b/bltc25c9201d49a3b88/6afe0f1af70f127c4da14f2b/ect.jpg?branch=production",
+        "title": "ECT Is a Controversial Treatment of Last Resort. I Wish I\u2019d Gotten It Sooner",
+        "vote": 0
+    }
+]
