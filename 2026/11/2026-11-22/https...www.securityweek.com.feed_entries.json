@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Associated Press",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-22T01:53:17.516692+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-22T00:53:02+00:00",
+        "description": "<p>The FBI is investigating an apparent hack of a national law enforcement database that it maintains.</p>\n<p>The post <a href=\"https://www.securityweek.com/fbi-investigating-apparent-hack-of-its-key-national-criminal-justice-database-ap-source-says/\">FBI Investigating Apparent Hack of Its Key National Criminal Justice Database, AP Source Says</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+        "id": 6821840,
+        "language": "en-US",
+        "link": "https://www.securityweek.com/fbi-investigating-apparent-hack-of-its-key-national-criminal-justice-database-ap-source-says",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 299,
+        "source_url": "https://www.securityweek.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "FBI Investigating Apparent Hack of Its Key National Criminal Justice Database, AP Source Says",
+        "vote": 0
+    }
+]

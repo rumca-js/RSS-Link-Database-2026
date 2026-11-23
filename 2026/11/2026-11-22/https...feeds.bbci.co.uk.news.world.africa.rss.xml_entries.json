@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-22T00:32:13.258576+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-22T00:10:37+00:00",
+        "description": "Fewer young people have registered to vote in next year's election than in 2023 - are young people losing faith in democracy?",
+        "id": 6821669,
+        "language": "en-gb",
+        "link": "https://www.bbc.co.uk/news/articles/ck4g174n020eo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 521,
+        "source_url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/abb2/live/99a82d30-e4e7-11f1-99a1-253766e7ad8b.jpg",
+        "title": "Nigerian youth have shown their power in the past - why aren't they shaping this election?",
+        "vote": 0
+    }
+]

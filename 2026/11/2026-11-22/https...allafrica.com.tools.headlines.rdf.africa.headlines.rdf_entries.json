@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-22T08:15:29.555676+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-22T06:53:07+00:00",
+        "description": "[AWLN] Africa has lost a giant. A woman whose courage, conviction and lifelong dedication to women's rights inspired generations.",
+        "id": 6822467,
+        "language": "en",
+        "link": "https://allafrica.com/stories/202611220002.html",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 15,
+        "source_url": "https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Africa: Statement By The African Women Leaders Network (AWLN) On The Passing Of H.E. Dr. Phumzile Mlambo-Ngcuka",
+        "vote": 0
+    }
+]

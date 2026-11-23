@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-22T16:41:16.625518+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-22T15:50:28+00:00",
+        "description": "The Army says \"swift action\" is necessary to protect its personnel and nearby communities around its ammunition plant in Iowa.",
+        "id": 6823786,
+        "language": "en-gb",
+        "link": "https://www.bbc.co.uk/news/articles/cvglrx764gdxo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 526,
+        "source_url": "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c129/live/651f5c40-e68c-11f1-936e-1fd1d31671db.jpg",
+        "title": "US Army to detonate tonnes of unstable explosives in Iowa despite court order",
+        "vote": 0
+    }
+]

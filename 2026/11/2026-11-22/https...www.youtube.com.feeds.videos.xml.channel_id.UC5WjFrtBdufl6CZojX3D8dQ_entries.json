@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Tesla",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-22T01:08:58.159468+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-22T00:17:39+00:00",
+        "description": "FSD V15 now starting to roll out \u2013 upgrading every part of the end-to-end driving network \n\nSafety:\n25x better handling of safety critical cases\n\nTesla Reality View:\nNew real-time generative driving visualization that continuously streams a view from an arbitrary virtual camera situated above your vehicle, enabling you to see and control what FSD is planning to do.\n\nSelect between fullscreen visualizations, maps or a split view - or choose quiet mode for a calming cabin experience.\n\nUpcoming navigation turns display directly in the driving visualization.\n\nTurn signals are quieter and fade out after a few clicks.\n\nNavigation:\nNavigation for start & end of the trip now learns end-to-end from fleet route preferences. Later v15 releases will expand this to the entire route.\n\nImproved Detection:\nYou also should notice better detection of signs, animals, debris, potholes and standing water, plus more natural speed handling in school zones and inclement weather.\n\nLastly, FSD can now slow for",
+        "id": 6821767,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=eNBqkc7V1nU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 805,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5WjFrtBdufl6CZojX3D8dQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/eNBqkc7V1nU/hqdefault.jpg",
+        "title": "Introducing Tesla Self-Driving V15",
+        "vote": 0
+    }
+]

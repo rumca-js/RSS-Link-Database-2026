@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-22T19:23:23.884506+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-22T18:57:24+00:00",
+        "description": "The COP31 climate summit in Turkey has formally come to an end after countries failed to agree a deal.",
+        "id": 6824376,
+        "language": "en-gb",
+        "link": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 523,
+        "source_url": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d3e/live/8a730770-e6a6-11f1-af06-85d9f9869f1b.jpg",
+        "title": "What's next after no deal at COP31 climate talks?",
+        "vote": 0
+    }
+]

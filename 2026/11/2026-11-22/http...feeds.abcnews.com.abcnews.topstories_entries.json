@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-23T02:53:39.967290+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-22T21:29:11+00:00",
+        "description": "The Army said it plans to detonate nearly 10,000 pounds of degraded lead azide at a military facility in Middletown, Iowa.",
+        "id": 6825573,
+        "language": "en-US",
+        "link": "https://abcnews.com/US/army-moves-detonation-10000-pounds-lead-azide-wedneday/story?id=138330909",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 81,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 9,
+        "source_url": "http://feeds.abcnews.com/abcnews/topstories",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://s.abcnews.com/images/Politics/iowa-plant-sign-gty-jt-261120_1795197818263_hpMain_4x3t_384.jpg",
+        "title": "Army moves detonation of 10,000 pounds of lead azide to Wednesday",
+        "vote": 0
+    }
+]

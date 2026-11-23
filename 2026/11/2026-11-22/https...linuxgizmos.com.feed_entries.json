@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-22T15:28:18.427243+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-22T14:54:01+00:00",
+        "description": "The DshanPi-A1 CM5 is a compact compute module developed by 100ASK and Vanxoak, featuring Rockchip&#8217;s RK3576J octa-core processor and a 6 TOPS neural processing unit. Measuring 55 &#215; 40mm, the module supports dual Gigabit Ethernet, multimedia processing, and industrial interfaces for embedded Linux applications. The module follows the original DshanPi-A1 single-board computer, which LinuxGizmos covered [&#8230;]",
+        "id": 6823566,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/rk3576-compute-module-has-6-tops-npu-and-dual-gbe-carrier-board",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "RK3576 compute module has 6 TOPS NPU and dual GbE carrier board",
+        "vote": 0
+    }
+]

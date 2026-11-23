@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-22T12:14:39.120289+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-22T12:00:34+00:00",
+        "description": "Learn more about AI Accelerators here \u2192 https://ibm.biz/~ioJcnGCZ4\n\nThe same math can behave very differently across AI hardware. Swagath Venkataramani compares CPUs, GPUs, and AI accelerators through scheduling, parallelism, and data movement. Learn why control flow, dataflow, latency, and throughput shape performance.\n\n 00:00 \u2013 Compare How AI Hardware Decides What Runs Next\n 00:23 \u2013 Understand CPUs, GPUs & AI Accelerators\n 01:13 \u2013 Compare CPU Latency with GPU Throughput\n 02:44 \u2013 See How CPU Control Flow Works\n 04:21 \u2013 Understand GPU Parallelism & Warp Scheduling\n 06:47 \u2013 Follow Data Through the Memory Hierarchy\n 07:29 \u2013 Explore Dataflow AI Accelerators\n 08:27 \u2013 Schedule Compute and Data Movement Explicitly\n 09:17 \u2013 Understand Systolic Arrays for AI\n 10:20 \u2013 Match AI Hardware to the Workload\n\nContinue your education in the course Dataflow Execution Models on Coursera here \u2192 https://ibm.biz/~wcnFvkLlm\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 http",
+        "id": 6822986,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=IYVqarjWO2g",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/IYVqarjWO2g/hqdefault.jpg",
+        "title": "AI Accelerators vs. CPUs: Why They Think Differently",
+        "vote": 0
+    }
+]
