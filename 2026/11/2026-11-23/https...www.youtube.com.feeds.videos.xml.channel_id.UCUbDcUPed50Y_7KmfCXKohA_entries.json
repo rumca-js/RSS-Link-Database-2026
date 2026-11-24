@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "James Bruton",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-23T20:38:43.321824+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-23T16:32:38+00:00",
+        "description": "I'm using Pygame, Gymnasium, Stable_Baselines3 and Pytorch to train the machine learning model.\nThe first thing we need to do though, is train an artificial neural network to learn how to make BattleBots fight each other autonomously.\nI hope you'd like to see more machine learning and reinforcement learning robots in the future.",
+        "id": 6830396,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/e8ZC8TXbT-Y",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 852,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCUbDcUPed50Y_7KmfCXKohA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/e8ZC8TXbT-Y/hqdefault.jpg",
+        "title": "AI learns to make Vacuum Cleaners battle",
+        "vote": 0
+    }
+]

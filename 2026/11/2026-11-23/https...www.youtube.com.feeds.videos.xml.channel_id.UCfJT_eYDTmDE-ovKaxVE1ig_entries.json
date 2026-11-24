@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kevin Stratvert",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-23T08:43:07.779363+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-23T08:00:06+00:00",
+        "description": "Learn how to make a Roblox game with ChatGPT Codex, from a blank Roblox Studio project to a playable obstacle course. Build three themed worlds, add an animated blimp, and use computer use to test the game and fix issues. No coding experience needed to follow along.\n\nHost: Kevin Stratvert\nSponsored by: @OpenAI \n\n\ud83d\udcda RESOURCES\n- Download ChatGPT: https://chatgpt.com/download\n- Roblox Studio: https://create.roblox.com/\n\nPROMPT 1: BUILD THE GAME\nCreate a Roblox obstacle course game with 3 stages, jumping platforms, lava hazards, checkpoints, collectible coins, and a finish line. Make it colorful and beginner-friendly. Build it directly in my open Roblox Studio project and test the basic gameplay.\n\nPROMPT 2: REDESIGN THE WORLDS\nRedesign my existing Roblox obstacle course to make it look and feel like a polished Roblox game.\n\nKeep the existing gameplay mechanics, including checkpoints, coins, hazards, and the finish line.\n\nCreate three distinct themed stages:\n\n1. Tropical Island: Floating is",
+        "id": 6826409,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=tSnTC_gdaw0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 958,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfJT_eYDTmDE-ovKaxVE1ig",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/tSnTC_gdaw0/hqdefault.jpg",
+        "title": "How to Make a Roblox Game with ChatGPT Codex",
+        "vote": 0
+    }
+]

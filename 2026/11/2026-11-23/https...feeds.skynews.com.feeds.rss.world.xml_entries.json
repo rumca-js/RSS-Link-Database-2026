@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-23T14:34:57.691963+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-23T10:52:00+00:00",
+        "description": "A deadly fire that tore through a confectionery factory in Indonesia has claimed the lives of 24 people, with about 30 others still missing.",
+        "id": 6828035,
+        "language": "en-US",
+        "link": "https://news.sky.com/story/deadly-fire-at-confectionery-factory-in-indonesia-kills-24-as-rescuers-search-for-dozens-still-missing-13615577",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 305,
+        "source_url": "https://feeds.skynews.com/feeds/rss/world.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://e3.365dm.com/26/11/1920x1080/skynews-serang-indonesia_7414286.jpg?20261123105702",
+        "title": "Deadly fire at confectionery factory kills 24 as rescuers search for dozens still missing",
+        "vote": 0
+    }
+]

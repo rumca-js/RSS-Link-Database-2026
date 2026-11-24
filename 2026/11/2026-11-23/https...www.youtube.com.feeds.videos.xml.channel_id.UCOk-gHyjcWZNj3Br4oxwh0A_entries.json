@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Techno Tim",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-23T20:08:37.336480+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-23T17:57:19+00:00",
+        "description": "Can a 10 year-old GTX 1080 still run useful local AI? I wanted to find out, so I put my old 8GB graphics card back to work in my old gaming machine as a homelab AI agent.\n\nUsing llama.cpp and GitHub Copilot CLI, I tested three Qwen models, from 2B all the way up to 35B. I gave each model the same task, deploying a service to a remote server in my homelab and verifying that everything worked.\n\nIn this video, I'll walk through the hardware, software, and models I tested, along with demos and the results. I definitely didn't expect it to work this good and definitely didn't expect this model to win.\n\nVideo Notes: https://technotim.com/posts/gtx-1080-local-ai-agent/\n\nMerch Shop \ud83d\udecd\ufe0f: https://l.technotim.com/shop\nSupport me on Patreon: https://www.patreon.com/technotim\nSponsor me on GitHub: https://github.com/sponsors/timothystewart6\nSubscribe on Twitch: https://www.twitch.tv/technotim\nBecome a YouTube member: https://www.youtube.com/channel/UCOk-gHyjcWZNj3Br4oxwh0A/join\nGear Recommendations",
+        "id": 6830188,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=Aiu4Bllj_9k",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 911,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCOk-gHyjcWZNj3Br4oxwh0A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/Aiu4Bllj_9k/hqdefault.jpg",
+        "title": "I Turned a 10-Year-Old GTX 1080 Into an AI Agent",
+        "vote": 0
+    }
+]

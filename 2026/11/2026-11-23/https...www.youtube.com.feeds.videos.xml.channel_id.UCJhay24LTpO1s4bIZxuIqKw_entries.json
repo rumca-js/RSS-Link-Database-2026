@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ACCU Conference",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-23T14:24:36.274981+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-23T13:08:16+00:00",
+        "description": "ACCU Membership: https://tinyurl.com/ydnfkcyn\n---\n\nCode Reviews - Building Better Code and Stronger Teams - Sandor DARGO - ACCU 2026\n---\n\nCode reviews! Most consider it an indispensable element of modern software development. Yet, it's a surprisingly polarizing topic, with a significant crowd claiming that code reviews are a waste of time or even harmful. The reality is that most of us spend a non-negligable part of our workday reviewing pull requests. But how often do we pause to ask: Why are we doing this? And how can we do it better?\n\nThis talk begins by exploring the value of code reviews and addressing the major counter arguments. We\u2019ll delve into the various approaches: synchronous vs. asynchronous, pre-merge vs. post-merge, one-on-one vs. group discussions.\n\nNo matter the format, code reviews can be a rich source for conflict. We, developers, often feel a sense of ownership over the code we write, and critique \u2014 no matter how constructive \u2014 often hurts. Worse, poorly phrased co",
+        "id": 6827948,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=jOLsiXw_wR0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 421,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJhay24LTpO1s4bIZxuIqKw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/jOLsiXw_wR0/hqdefault.jpg",
+        "title": "Code Reviews - Building Better Code and Stronger Teams - Sandor DARGO - ACCU 2026",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-23T16:32:58.957910+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-23T15:00:23+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nFamiliar C++ Patterns That Fail at Scale and the Design Shifts That Prevent Them - Divya Chandrasekar & Devpriya Dave - CppCon 2026\n---\n\nSome of the most expensive C++ bugs are not caused by obscure language features. Instead, they emerge from code that looks reasonable: shared ownership that quietly extends lifetimes, singletons that become invisible dependencies, and performance-driven decisions that harden into architecture. \n \nThis talk examines these common design-level failure patterns in large-scale C++ systems. We cover three concrete design shifts: \n \nLifetimes: Shifting from shared ownership to explicit lifetime boundaries. Coupling: Shifting from implicit global coupling to injected dependencies. Interfaces: Replacing permissive APIs with constrained interfaces using std::span, std::optional, std::variant, and strong types. \n \nEach shift is presented with the failure pattern it addresses, the solution, and the design rule it yields. Attendees will l",
+        "id": 6828811,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=NWAZlRj0Xzk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/NWAZlRj0Xzk/hqdefault.jpg",
+        "title": "Familiar C++ Patterns That Fail at Scale and the Design Shifts That Prevent Them - CppCon 2026",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-23T18:09:17.573915+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-23T17:29:00+00:00",
+        "description": "The Encapsulate-1 investigation studies patient-derived tumor samples aboard the International Space Station to better understand how cancer cells move and interact in microgravity.",
+        "id": 6829423,
+        "language": "en-us",
+        "link": "https://www.nasa.gov/image-detail/jsc2026e426880",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 485,
+        "source_url": "https://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Studying Cancer Cells in Microgravity",
+        "vote": 0
+    }
+]

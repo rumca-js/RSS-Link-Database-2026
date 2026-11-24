@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Blog Staff",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-23T22:05:09.467937+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-23T21:46:23+00:00",
+        "description": "<p>\n\t<img alt=\"andreas_fertig.png\" src=\"https://isocpp.org/files/img/andreas_fertig.png\" style=\"width: 200px; margin: 10px; float: right; height: 200px;\" />In one of my earlier posts, <a href=\"https://andreasfertig.com/blog/2022/02/why-you-should-use-stdmove-only-rarely/\">Why you should use std::move only rarely</a> I said that you should use <code>std::move</code> only rarely. In today&#39;s post, I would like to show you the benefits of this advice: best performance by default.</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://andreasfertig.com/blog/2026/09/move-in-cpp-without-a-stdmove/\">Move in C++ without a std::move</a></h3>\n\t<p>\n\t\tby Andreas Fertig</p>\n</blockquote>\n<p>\n\tFrom the article:</p>\n<blockquote>\n\t<p>\n\t\tOne of the worst enemies for performance are unnecessary copy operations.</p>\n\t<p>\n\t\tYou surely heard of return value optimization (RVO). This is what you should always aim for if possible. RVO implies that the returned object isn&#39;t created on the stack inside the function ",
+        "id": 6830792,
+        "language": "en",
+        "link": "https://isocpp.org//blog/2026/11/move-in-cpp-without-a-stdmove-andreas-fertig",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://isocpp.org/files/img/andreas_fertig.png",
+        "title": "Move in C++ without a std::move -- Andreas Fertig",
+        "vote": 0
+    }
+]

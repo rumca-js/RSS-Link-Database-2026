@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Louis Rossmann",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-23T12:22:31.800692+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-23T12:00:09+00:00",
+        "description": "https://www.youtube.com/watch?v=i8mrwS5QZQE\nhttps://consumerrights.wiki/w/PayByPhone_SMS_notification_fees",
+        "id": 6827340,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=JVhw22OQB0M",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 201,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCl2mFZoRqjw_ELax4Yisf6w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/JVhw22OQB0M/hqdefault.jpg",
+        "title": "Paybyphone's dark pattern rakes in 50 million a year, good find @bnwlkr",
+        "vote": 0
+    }
+]

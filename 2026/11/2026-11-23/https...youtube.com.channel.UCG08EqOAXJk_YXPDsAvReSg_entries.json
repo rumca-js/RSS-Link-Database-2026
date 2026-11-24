@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unity",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-23T15:02:58.210433+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-23T14:05:32+00:00",
+        "description": "Discover how Unity 7 introduces ECS for All, bridging the gap between classic GameObjects and data-oriented design.\n\nIn Unity 7, every GameObject is also an entity, and entity-component-system (ECS) transforms are GameObject transforms. Your projects gain performance by default as engine systems move to ECS, letting you tap into raw speed exactly where you need it without complex synchronization.\n\nBacked by a reworked serialization system and native Inspector support, you can now add real Entity data directly to GameObjects - with custom editors, undo, and multi-object editing working out of the box.\n\nFocus on building the experience first, and optimize for speed when you\u2019re ready.\n\n\ud83d\udd17 Learn more about ECS: https://on.unity.com/4iHiFPL\n\n[0:00] - Introduction\n[0:25] - ECS framerate improvements\n[0:45] - Serialization update\n[1:03] - Entity data on GameObjects\n[1:20] - Current entity support and the future\n\n_______________\n\nStay connected with us: \nGames Twitter/X: https://x.com/unitygam",
+        "id": 6828235,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=cAYg3rYUtkQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 683,
+        "source_url": "https://youtube.com/channel/UCG08EqOAXJk_YXPDsAvReSg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/cAYg3rYUtkQ/hqdefault.jpg",
+        "title": "Introducing ECS for All",
+        "vote": 0
+    }
+]

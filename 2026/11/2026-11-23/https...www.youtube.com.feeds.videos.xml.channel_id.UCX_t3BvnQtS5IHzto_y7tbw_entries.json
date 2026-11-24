@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Coreteks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-23T13:49:45.008154+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-23T13:28:17+00:00",
+        "description": "Buy the Olares One with $300 OFF (and another $300 OFF during Black Friday Sale!) for a limited time:\nhttps://bit.ly/4thGLnS\n\nIn this video I build an AI cluster using the Olares One as my master node orchestrator and a couple of Minisforum MS02 Ultra as the worker nodes to create custom applications that solve a specific problem: Localizing region locked movies and series. I also built a custom hardware monitoring app that shows how the cluster resources are being used in real-time. All of this was achieved using natural language and Olares\u2019s own AI agent, along with Qwen 3.8, a free LLM that you can use yourself!\n\nOlares Cluster guide: https://www.olares.com/docs/manual/best-practices/install-olares-multi-node#set-up-a-multi-node-olares-cluster\n\nSome useful commands for the worker nodes:\n\nPrevent all Ubuntu services and OS from going into sleep/hybernation:\n\" systemctl mask sleep.target suspend.target hibernate.target hybrid-sleep.target \"\n\nDisable screen blanking / screen lock:\n\" g",
+        "id": 6827758,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=KCQ7OZunN1c",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 79,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCX_t3BvnQtS5IHzto_y7tbw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/KCQ7OZunN1c/hqdefault.jpg",
+        "title": "The AI Cloud Big Tech doesn\u2019t want you to own | [Olares One Cluster]",
+        "vote": 0
+    }
+]
