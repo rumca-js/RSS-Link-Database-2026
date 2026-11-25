@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-24T12:13:21.706521+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-24T11:45:52+00:00",
+        "description": "The explosion is the latest in a string of attacks on buildings housing the security forces of government offices.",
+        "id": 6833772,
+        "language": "en-gb",
+        "link": "https://www.bbc.co.uk/news/articles/cjqlq2n4np7do",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 524,
+        "source_url": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d18/live/326608e0-e7e9-11f1-8b26-c1adae33e7f2.jpg",
+        "title": "Car bomb tears through Colombian city wounding more than 20",
+        "vote": 0
+    }
+]

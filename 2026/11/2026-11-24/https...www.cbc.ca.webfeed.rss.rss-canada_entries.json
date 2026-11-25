@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Lisa Mayor",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-24T10:04:23.770317+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-24T04:00:00+00:00",
+        "description": "<img src='https://i.cbc.ca/ais/17dddc4e-e851-4d9b-8708-cd893371ac7f,1791571515599/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1200%2C675%29%3B' alt='alto rendition of their high speed train' width='620' height='349' title='The high-speed rail project connecting Quebec City and Toronto would also have stops in Peterborough, Ottawa, Montreal, Laval and Trois-Rivi\u00e8res.'/><p>The federal government is proposing to scrap standard expropriation rules for Canada's first high-speed rail project.</p>",
+        "id": 6833144,
+        "language": "en",
+        "link": "https://www.cbc.ca/news/politics/alto-expropriation-changes-9.7433464?cmp=rss",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 49,
+        "source_url": "https://www.cbc.ca/webfeed/rss/rss-canada",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i.cbc.ca/ais/17dddc4e-e851-4d9b-8708-cd893371ac7f,1791571515599/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1200%2C675%29%3B",
+        "title": "Draft budget bill proposes sweeping new land-seizure powers for high-speed rail",
+        "vote": 0
+    }
+]

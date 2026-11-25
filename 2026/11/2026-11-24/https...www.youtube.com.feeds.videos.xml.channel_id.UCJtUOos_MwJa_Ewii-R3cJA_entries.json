@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Leila Gharani",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-24T13:37:02.249140+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-24T10:45:34+00:00",
+        "description": "There are three types of people who complicate Excel. None of them know they're doing it.\n\n\u26a1 Black Friday: every XelPlus course is 50% off until Dec 1. If this video made you want to go back to the basics, Excel Essentials is a good place to start \ud83d\udc49 https://www.xelplus.com/course/black-friday/\n\nFor the full set, the Complete Excel & AI Kit includes 12 courses.\n\nThe three types are the dragger, the over-engineer and the hostage. I was the over-engineer for years, so some of this is a confession. You'll see why OFFSET slows your workbook down, what TAKE and FILTER do instead, and why Copilot can make you a hostage again if you don't check the formulas it writes. I also cover Abraham Luchins' 1942 water jar puzzle and the Einstellung effect, which explains why we keep using the method we learned first.\n\n\u2705 Good to know\n\u2705 OFFSET is a volatile function. It recalculates every time Excel recalculates, not only when its inputs change.\n\u2705 TAKE needs Microsoft 365 or Excel 2024. FILTER works in E",
+        "id": 6834190,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=ag922cMIx70",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 957,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJtUOos_MwJa_Ewii-R3cJA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/ag922cMIx70/hqdefault.jpg",
+        "title": "The Most Dangerous Excel User (Do You Qualify?)",
+        "vote": 0
+    }
+]

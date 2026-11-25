@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Cognizant",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-24T14:43:55.214719+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-24T14:33:35+00:00",
+        "description": null,
+        "id": 6834607,
+        "language": "en-UK",
+        "link": "https://time.com/collection/the-ceo-moment/2026/where-ai-meets-instinct-in-formula-1",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 94,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 317,
+        "source_url": "https://time.com/tech/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://static.time.com/v3/assets/bltea6093859af6183b/bltdf748bdcf9db74e2/6aff71d1b84d8b5455c9b111/The_Human_Endeavor_Thumbnail_S1E2.png?branch=production",
+        "title": "Where AI Meets Instinct in Formula 1",
+        "vote": 0
+    }
+]

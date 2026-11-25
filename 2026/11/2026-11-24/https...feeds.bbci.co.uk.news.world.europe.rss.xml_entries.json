@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-24T13:30:59.927076+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-24T12:45:43+00:00",
+        "description": "Andrei Chibis, head of Russia's northern Murmansk region, is the first governor to be detained for five years.",
+        "id": 6834144,
+        "language": "en-gb",
+        "link": "https://www.bbc.co.uk/news/articles/cmwy868v3nneo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 523,
+        "source_url": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db31/live/1b41ee00-e7f7-11f1-ab60-79086b6495b8.jpg",
+        "title": "Russian governor detained in rare criminal case against regional leader",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-24T12:14:28.789136+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-24T12:12:48+00:00",
+        "description": "Naeem Abu Nahel, who had only been in the position for two months, was targeted in western Gaza City, Gaza's interior ministry says.",
+        "id": 6833778,
+        "language": "en-gb",
+        "link": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 525,
+        "source_url": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9451/live/7a525660-e7fb-11f1-99b6-a35a62fa4264.jpg",
+        "title": "Israeli air strike kills Hamas internal security chief in Gaza",
+        "vote": 0
+    }
+]
