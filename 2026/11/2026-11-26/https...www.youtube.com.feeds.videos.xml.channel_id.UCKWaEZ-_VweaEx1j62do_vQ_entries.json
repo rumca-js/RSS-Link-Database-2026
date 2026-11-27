@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-26T13:14:56.397580+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-26T12:00:20+00:00",
+        "description": "Learn more about Agentic Architecture here \u2192 https://ibm.biz/~2K5kbPjQ2\n\nYour AI agent isn't really one workload. Legare Kerrison breaks AI agent architecture into inference, orchestration, tool execution, and persistent state. Learn how each workload changes deployment, scaling, security, and reliability in production.\n\n 00:00 \u2013 Break an AI Agent Into 4 Workloads\n 01:00 \u2013 Run LLM Inference on the Reasoning Plane\n 01:57 \u2013 Deploy the AI Agent Loop on CPU Infrastructure\n 03:19 \u2013 Secure Tool Calls on the Action Plane\n 04:29 \u2013 Persist AI Agent State Across Restarts\n 05:34 \u2013 Scale Each AI Agent Workload Independently\n 05:49 \u2013 Checkpoint Agent Work Before Tool Calls\n 06:04 \u2013 Isolate AI Agent Credentials and Permissions\n 06:25 \u2013 Ask the 4 AI Agent Deployment Questions\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/~11aEBTCFB\n\nAI was used in the creation of the transcript and metadata for this video.\n\n#aiagents #aiarchitecture #agenticai #aiinf",
+        "id": 6835452,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=_iTbNy5aOR0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/_iTbNy5aOR0/hqdefault.jpg",
+        "title": "AI Agent Architecture: Where Does Your Agent Actually Run?",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "David Bombal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-26T15:55:20.144256+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-26T15:00:01+00:00",
+        "description": "Why put 128GB of memory in a laptop? I caught up with Chris Marriott from NVIDIA to talk about RTX Spark laptops, running AI locally, and what that means for gaming and creative workflows. \n\nBig thanks to NVIDIA for sponsoring this video, and my trip to NVIDIA GTC Berlin 2026! \n\n#nvidia #rtxspark #ai",
+        "id": 6835879,
+        "language": "en",
+        "link": "https://www.youtube.com/shorts/yFFL8rMzuq8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 984,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP7WmQ_U4GB3K51Od9QvM0w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/yFFL8rMzuq8/hqdefault.jpg",
+        "title": "Can a Laptop Run a 200B Model?",
+        "vote": 0
+    }
+]
