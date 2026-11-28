@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Two Minute Papers",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-27T10:46:41.095514+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-27T08:42:30+00:00",
+        "description": "\u2764\ufe0f Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers\n\n\ud83d\udcdd The security report is available here:\nhttps://storage.googleapis.com/deepmind-media/gemini/gemini_4_neon_safety_report.pdf\n\nSources:\n- https://x.com/PromptLLM/status/2124894800654504419\n- https://x.com/thebuggeddev/status/2123170821250400282\n- https://x.com/ai_for_success/status/2123467103110078747\n- https://x.com/thtbee_/status/2123843882937155607\n- https://x.com/crtvTeknologist/status/2123175626039304496\n- https://x.com/ryu15/status/2123597998097899653\n- https://x.com/abhinavflac/status/2123212198663323848\n- https://x.com/IamEmily2050/status/2123344885298389047\n- https://x.com/noclipepe/status/2123352634677481662\n- https://x.com/aiiii498/status/2123324330172129294\n- https://x.com/kimmonismus/status/2123168299890704735\n- https://x.com/kimmonismus/status/2123168339900203199\n- https://x.com/kimmonismus/status/2123168366949245260\n- https://x.com/kimmonismus/status/2123168409450090814\n- https://x.com/",
+        "id": 6836132,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=u6UYsl-KEoc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 945,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbfYPyITQ-7l4upoX8nvctg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/u6UYsl-KEoc/hqdefault.jpg",
+        "title": "DeepMind\u2019s New AI Just Changed The AI Race",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2026-11-27T13:28:30.945710+00:00",
+        "date_dead_since": null,
+        "date_published": "2026-11-27T11:00:32+00:00",
+        "description": "Visit Mixture of Experts podcast page to get more AI content  \u2192 https://ibm.biz/~gZ5HStMQR\n\nCould a more pessimistic AI model be a better one? \n\nThis week on Mixture of Experts, host David Zax is joined by Mihai Criveti, Skyler Speakman and Martin Keen.\n\nFirst, Jensen Huang is back at NVIDIA after less than two weeks away. The panel looks beyond the chips to what makes NVIDIA\u2019s developer ecosystem so valuable. As Mihai puts it, why not give away the recipe if you\u2019re selling the oven?\n\nNext, Microsoft introduces licensed weight models, offering a middle ground between open and closed models. Martin explains why making an AI model better at one thing could make it worse at others.\n\nFinally, new research out of Oxford suggests AI models have a bleaker outlook on the world than humans do. The findings raise a bigger philosophical question: how much should we want AI to think like us?\n\nAll that and more on Mixture of Experts.\n\n00:00 \u2013 Intro\n01:14 \u2013 Jensen Huang returns to NVIDIA\n08:40 \u2013 Mi",
+        "id": 6836204,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=8zo0sFIhTPI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/8zo0sFIhTPI/hqdefault.jpg",
+        "title": "Is AI too pessimistic? Plus, Jensen Huang returns to NVIDIA",
+        "vote": 0
+    }
+]
